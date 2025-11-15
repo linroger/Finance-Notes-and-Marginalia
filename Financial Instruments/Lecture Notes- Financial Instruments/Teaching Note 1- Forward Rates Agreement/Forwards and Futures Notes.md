@@ -1,23 +1,59 @@
 ---
-title: Forwards and Futures Notes
-tags:
-  - coupon_bonds
-  - currency_forwards
-  - implied_forward_rates
-  - interest_arbitrage
-  - zero_coupon_bonds
 aliases:
-  - Bonds
-  - Currency
-  - Forwards
-  - Futures
+- Bonds
+- Currency
+- Forwards
+- Futures
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-a88a2a
 key_concepts:
-  - Coupon bond pricing
-  - Covered interest arbitrage
-  - Currency forward rate
-  - Implied forward rates
-  - Prepaid forward price
-  - Zero-coupon bond pricing
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- apt
+- arbitrage
+- bonds
+- capm
+- cds
+- commodities
+- convexity
+- correlation
+- credit-default-swaps
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- exotic-options
+- factor-models
+- fixed_income
+- forwards
+- futures
+- gamma
+- greeks
+- hedging
+- interest-rate-swaps
+- no-arbitrage
+- options
+- risk-management
+- risk-neutral
+- swaps
+- var
+- yield-curve
+- zero-coupon
+title: Forwards and Futures Notes
 ---
 
 - Introduction to Derivative Markets]]

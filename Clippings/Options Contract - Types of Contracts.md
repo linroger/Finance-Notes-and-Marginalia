@@ -1,25 +1,54 @@
 ---
-title: Options Contract - What It Is, How It Works, Types of Contracts
-source: https://www.investopedia.com/terms/o/optionscontract.asp
+aliases:
+- Option Contract
+- Options
+- Options Contracts
 description: An options contract gives the holder the right to buy or sell an underlying
   security at a preset price, known as the strike price.
-tags:
-  - expiration_date
-  - financial_derivatives
-  - hedging
-  - options_contract
-  - strike_price
-aliases:
-  - Option Contract
-  - Options
-  - Options Contracts
 key_concepts:
-  - Agreement for potential transaction
-  - Preset price and expiration
-  - Price affected by volatility
-  - Right to buy or sell asset
-  - Used for hedging and speculation
+- Agreement for potential transaction
+- Preset price and expiration
+- Price affected by volatility
+- Right to buy or sell asset
+- Used for hedging and speculation
+- forward commitments and hedging
+- Delta hedging strategies in options portfolio management
+- Duration and convexity analysis for bond portfolio management
+- Credit risk modeling and portfolio correlation analysis
+- Capital Asset Pricing Model and beta estimation
+- Active portfolio management and performance attribution
+- Risk budgeting and portfolio construction techniques
+- ESG integration in portfolio management
+- Credit risk assessment and loan portfolio management
+- Currency hedging strategies for global portfolios
+- forward commitments and hedging
+- Delta hedging strategies in options portfolio management
+- Duration and convexity analysis for bond portfolio management
+- Credit risk modeling and portfolio correlation analysis
+- Capital Asset Pricing Model and beta estimation
+- Active portfolio management and performance attribution
+- Risk budgeting and portfolio construction techniques
+- ESG integration in portfolio management
+- Credit risk assessment and loan portfolio management
+- Currency hedging strategies for global portfolios
+source: https://www.investopedia.com/terms/o/optionscontract.asp
+tags:
+- american-options
+- call-options
+- european-options
+- expiration_date
+- financial_derivatives
+- hedging
+- option-pricing
+- options-strategies
+- options_contract
+- put-options
+- risk-management
+- strike_price
+title: Options Contract - What It Is, How It Works, Types of Contracts
 ---
+
+
 
 
 Definition

@@ -1,19 +1,44 @@
 ---
-tags:
-  - daily_compounded_sofr
-  - futures_contracts
-  - hedging
-  - interest_rate_risk
-  - sofr_futures
 aliases:
-  - 3-month SOFR futures
-  - SOFR futures contracts
+- 3-month SOFR futures
+- SOFR futures contracts
 key_concepts:
-  - contract settlement
-  - daily compounded SOFR
-  - hedging exposure to SOFR
-  - settlement rate
-  - three-month contracts
+- contract settlement
+- daily compounded SOFR
+- hedging exposure to SOFR
+- settlement rate
+- three-month contracts
+- Equity valuation and analysis
+- Dividend discount models
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Derivatives pricing theory
+- Risk-neutral valuation
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Value at risk and stress testing
+tags:
+- equity
+- hedging
+- sofr_futures
+- interest_rates
+- futures_contracts
+- valuation
+- daily_compounded_sofr
+- fx
+- trading
+- bonds
+- futures
+- derivatives
+- options
+- risk_management
+- interest_rate_risk
 ---
 
 # 12.4 THREE-MONTH SOFR FUTURES  

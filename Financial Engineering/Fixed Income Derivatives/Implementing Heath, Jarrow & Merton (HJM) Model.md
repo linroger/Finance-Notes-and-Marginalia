@@ -1,19 +1,62 @@
 ---
-tags:
-  - forward_rates
-  - hjm_model
-  - monte_carlo
-  - no_arbitrage
-  - risk_neutral
 aliases:
-  - HJM framework
-  - Heath-Jarrow-Morton
+- HJM framework
+- Heath-Jarrow-Morton
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-585138
 key_concepts:
-  - Forward rate curve
-  - HJM model dynamics
-  - Risk-neutral world
-  - Stochastic differential equation
-  - Zero coupon bond
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Monte Carlo simulation for derivatives valuation
+- Partial differential equations in financial modeling
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- apt
+- arbitrage
+- brownian-motion
+- caps
+- convexity
+- correlation
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- factor-models
+- fixed_income
+- floors
+- forward-rates
+- gamma
+- greeks
+- hedging
+- hjm
+- interest-rate-swaps
+- kalman-filter
+- monte-carlo
+- no-arbitrage
+- options
+- pde
+- replication
+- risk-management
+- risk-neutral
+- swaps
+- term-structure
+- theta
+- time-series
+- var
+- vega
+- yield-curve
+- zero-coupon
 ---
 
 # [](../6.%20A%20Brief%20Introduction%20to%20Stochastic%20Calculus.md#3%20Some%20Specific%20Models | Implementing%20Heath,%20Jarrow%20&%20Merton%20(HJM)%20Model)

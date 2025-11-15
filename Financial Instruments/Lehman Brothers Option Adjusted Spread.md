@@ -1,30 +1,75 @@
 ---
-tags:
-  - corporate_bond
-  - credit_risk
-  - lehman_brothers
-  - option_adjusted_spread
-  - z_spread
-  - fixed_income
-  - bond_valuation
-  - interest_rate_models
 aliases:
-  - Lehman Brothers OAS
-  - OAS
-  - Z-spread
-  - Black-Karasinski model
-key_concepts:
-  - Callable corporate bond
-  - Discounted cash flow
-  - Treasury and LIBOR curves
-  - Z-spread of security
-  - Zero-coupon interest rates
-  - Option adjusted spread calculation
-  - Stochastic term structure models
-  - Volatility calibration
-  - Hazard rate models
-  - Credit default swap spread
+- Lehman Brothers OAS
+- OAS
+- Z-spread
+- Black-Karasinski model
 cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-905e74
+key_concepts:
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Term structure of interest rates and yield curve modeling
+- 'Short-rate models: Vasicek, CIR, and mean reversion'
+- Bond pricing and fixed income securities valuation
+- Monte Carlo simulation for derivatives valuation
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Volatility smile, skew, and surface modeling
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- abs
+- american-options
+- apt
+- arbitrage
+- arch
+- binomial
+- black-scholes
+- bonds
+- brownian-motion
+- calibration
+- cds
+- convexity
+- corporate-bonds
+- credit-default-swaps
+- credit-risk
+- credit-spreads
+- delta
+- derivatives-pricing
+- duration
+- exotic-options
+- factor-models
+- fixed_income
+- garch
+- greeks
+- hedging
+- hull-white
+- implied-volatility
+- interest-rate-swaps
+- kalman-filter
+- mean-reversion
+- monte-carlo
+- options
+- puts
+- recovery-rate
+- risk-management
+- risk-neutral
+- swaps
+- swaptions
+- term-structure
+- time-series
+- var
+- vasicek
+- yield-curve
+- zero-coupon
 ---
 
 # Explaining the Lehman Brothers Option Adjusted Spread of a Corporate Bond

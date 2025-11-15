@@ -1,23 +1,114 @@
 ---
-tags:
-  - capital_allocation
-  - equity_markets
-  - market_efficiency
-  - shareholders
-  - stock_exchange
 aliases:
-  - Efficient Market Hypothesis
-  - Equity Markets
-  - Stock Exchanges
+- Efficient Market Hypothesis
+- Equity Markets
+- Stock Exchanges
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-a0b605
 key_concepts:
-  - Acquisition motives
-  - Benefits of stock exchange
-  - Efficient capital allocation
-  - Level playing field
-  - Liquid stock exchanges
-  - NPV decision rule
-  - Public company reporting
-  - Shareholder wealth
+- Apt
+- Extensions to multi-factor CAPM models
+- capital markets and issuance
+- Reduced-form models and intensity-based approaches
+- Mean-variance optimization and the efficient frontier
+- Extreme value theory and tail risk modeling
+- Single-name vs. index CDS trading
+- Option Greeks and portfolio risk management
+- Commodity markets and pricing dynamics
+- Risk budgeting and portfolio construction techniques
+- Capital Asset Pricing Model and expected returns
+- Historical simulation vs. parametric VaR models
+- Credit spread decomposition and hazard rates
+- Level playing field
+- Vega and volatility risk management
+- CDS clearing and central counterparties
+- DV01 calculation and interest rate risk hedging
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- Monte Carlo VaR for complex portfolios
+- perpetual bond and consol valuation
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Security Market Line and beta measurement
+- Shareholder wealth
+- Value at Risk (VaR) methodologies and backtesting
+- Theta and time decay modeling
+- Risk-neutral pricing methodology for derivative securities
+- Liquid stock exchanges
+- Operational risk quantification and modeling
+- Case Study
+- Balance Of Payments
+- Interest rate swap pricing and valuation
+- Expected Shortfall and coherent risk measures
+- Credit default swap pricing and risk-neutral probabilities
+- present value and discounting methods
+- nominal value and monetary amounts
+- Variance swaps and volatility trading strategies
+- par value in CDS settlement
+- systematic risk and market exposure
+- Value-at-Risk calculation using historical simulation
+- NPV decision rule
+- Gamma and convexity adjustments
+- Credit risk migration matrices and rating transition
+- Credit risk modeling and portfolio correlation analysis
+- Backtesting procedures for risk models
+- Credit risk assessment and loan portfolio management
+- Acquisition motives
+- Delta hedging and the replication argument
+- Liquidity risk measurement and management
+- Cross-currency basis swaps and funding
+- publicly available information in CDS
+- Systemic risk indicators and early warning systems
+- Benefits of stock exchange
+- Public company reporting
+- Market portfolio and risk-free rate assumptions
+- Efficient capital allocation
+- Empirical tests and anomalies in CAPM
+tags:
+- shareholders
+- commodities
+- credit-default-swaps
+- balance-of-payments
+- market-efficiency
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- balance-sheet
+- course-material
+- return-on-assets
+- capm
+- case-study
+- apt
+- greeks
+- value-at-risk
+- stock_exchange
+- market_efficiency
+- credit-risk
+- ipos
+- efficient-market
+- duration-convexity
+- quantitative-implementation
+- solution
+- private-equity
+- capital_allocation
+- investment-banking
+- stress-testing
+- liquidity-risk
+- systemic-risk
+- roa
+- distressed-debt
+- net-present-value
+- implied-volatility
+- financial-ratios
+- dcf-valuation
+- equity_markets
+- municipal-bonds
+- expected-shortfall
+- operational-risk
+- monte-carlo
 ---
 
 # 1 An introduction to equity markets  

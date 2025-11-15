@@ -1,21 +1,44 @@
 ---
-tags:
-  - euribor
-  - euribor_futures
-  - forward_rate_agreement
-  - fra
-  - interest_rate_risk
 aliases:
-  - Euribor
-  - Euribor Futures
-  - FRA
-  - Forward Rate Agreements
+- Euribor
+- Euribor Futures
+- FRA
+- Forward Rate Agreements
 key_concepts:
-  - Euribor futures contracts
-  - Euribor term rates
-  - FRA fixed rate
-  - 'FRAs: interest rate hedging'
-  - Hedging with FRAs
+- Euribor futures contracts
+- Euribor term rates
+- FRA fixed rate
+- 'FRAs: interest rate hedging'
+- Hedging with FRAs
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Derivatives pricing theory
+- Risk-neutral valuation
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Interest rate modeling
+- Term structure of interest rates
+tags:
+- interest_rates
+- valuation
+- forward_rate_agreement
+- trading
+- euribor
+- bonds
+- euribor_futures
+- swaps
+- futures
+- derivatives
+- options
+- interest_rate_risk
+- mathematical-finance
+- fra
 ---
 
 # 12.5 EURIBOR FORWARD RATE AGREEMENTS AND FUTURES  

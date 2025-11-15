@@ -1,20 +1,19 @@
 ---
 tags:
-  - consumption_process
-  - discrete_time_framework
-  - habit_formation
-  - state_price_deflator
-  - time_additive_utility
+- apt
+- delta
+- derivatives-pricing
+- risk-management
+- theta
+- var
 aliases:
-  - Discrete Time Framework
-  - Habit Formation Utility
-  - Time Additive Utility
+- Discrete Time Framework
+- Habit Formation Utility
+- Time Additive Utility
 key_concepts:
-  - Consumption process choice
-  - Habit level at time
-  - Non-additive preference specification
-  - State-price deflator definition
-  - Time-additive expected utility
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Options Greeks and sensitivity analysis
 ---
 
 # 6.3 The discrete-time framework  

@@ -1,23 +1,105 @@
 ---
-cssclasses: academia
-linter-yaml-title-alias: BINOMIAL TREES AND MONTE CARLO SIMULATIONS
-title: Teaching Note 5 Risk Neutral Pricing
-tags:
-  - binomial_trees
-  - option_hedging
-  - replicating_portfolio
-  - risk_neutral_pricing
-  - zero_coupon_bond
 aliases:
-  - Heaton
-  - Risk Neutrality
-  - TN5
+- Heaton
+- Risk Neutrality
+- TN5
+cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-e40abd
 key_concepts:
-  - Binomial tree example
-  - Continuously compounded rate
-  - Option hedging strategy
-  - Relative pricing on trees
-  - Replicating portfolio concept
+- Apt
+- Cox-Ross-Rubinstein parameter specification
+- Extensions to multi-factor CAPM models
+- Term structure of interest rates and yield curve shapes
+- Binomial tree example
+- Computational implementation of binomial option pricing
+- Option Greeks and portfolio risk management
+- Expectations hypothesis and liquidity preference theory
+- Capital Asset Pricing Model and expected returns
+- Interest rate swaps and term structure
+- Path-dependent derivatives
+- Yield curve fitting and interpolation methods
+- Vega and volatility risk management
+- Value at risk and stress testing
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- Option sensitivity analysis
+- GARCH models and volatility forecasting
+- Replicating portfolio concept
+- Market portfolio and risk-free rate assumptions
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Security Market Line and beta measurement
+- Theta and time decay modeling
+- Monte Carlo simulation
+- Case Study
+- Interest rate swap pricing and valuation
+- Delta, gamma, vega, theta, rho
+- Variance swaps and volatility trading strategies
+- Option hedging strategy
+- Convergence of binomial model to Black-Scholes solution
+- Interest rate derivatives
+- Derivatives pricing theory
+- Fixed income securities
+- Bond pricing and yield analysis
+- Relative pricing on trees
+- Binomial option pricing model with multiple time steps
+- American option pricing in binomial trees
+- Gamma and convexity adjustments
+- Continuously compounded rate
+- Risk-neutral valuation
+- Delta hedging and the replication argument
+- Parallel and non-parallel shifts in the yield curve
+- Cross-currency basis swaps and funding
+- Delta hedging and Greeks
+- Basis swaps and cross-currency swaps
+- Duration and convexity
+- Options pricing and payoff structures
+- Empirical tests and anomalies in CAPM
+linter-yaml-title-alias: BINOMIAL TREES AND MONTE CARLO SIMULATIONS
+tags:
+- yield-curve
+- swaps
+- binomial-model
+- derivatives
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- monte_carlo
+- course-material
+- capm
+- case-study
+- binomial_trees
+- bonds
+- greeks
+- apt
+- value-at-risk
+- option_hedging
+- fixed_income
+- exchange-rates
+- zero_coupon_bond
+- currency-swaps
+- european-options
+- duration-convexity
+- quantitative-implementation
+- solution
+- replicating_portfolio
+- treasury-bonds
+- american-options
+- structured_finance
+- interest_rates
+- stress-testing
+- binomial
+- exotic-options
+- mbs-cmos
+- swaptions
+- volatility
+- risk_neutral_pricing
+- dcf-valuation
+- monte-carlo
+title: Teaching Note 5 Risk Neutral Pricing
 ---
 
 # Teaching Note 5 Risk Neutral Pricing

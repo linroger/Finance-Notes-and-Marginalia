@@ -1,24 +1,21 @@
 ---
 tags:
-  - financial_markets
-  - hedgers
-  - investment_banks
-  - investors
-  - issuers
-  - primary_markets
-  - secondary_markets
+- arbitrage
+- bonds
+- fixed_income
+- futures
+- options
+- risk-management
+- var
 aliases:
-  - Financial Market Overview
-  - Market Overview
-  - Overview
+- Financial Market Overview
+- Market Overview
+- Overview
 key_concepts:
-  - Commercial bank lending
-  - Excess savings allocation
-  - Government bond issuance
-  - Hedgers and risk takers
-  - Investment bank offerings
-  - Investors and intermediaries
-  - Primary and secondary markets
+- Ito's lemma and stochastic calculus applications
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
 ---
 
 # 1.1 OVERVIEW OF FINANCIAL MARKETS  

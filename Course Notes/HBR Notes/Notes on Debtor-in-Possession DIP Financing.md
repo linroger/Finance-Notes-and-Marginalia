@@ -1,27 +1,80 @@
 ---
-cssclasses:
-  - academia
 Owner: RRoger Lin
-title: Notes on Debtor-in-Possession DIP Financing
-tags:
-  - bankruptcy_code
-  - chapter_11
-  - debtor_in_possession
-  - dip_financing
-  - federal_bankruptcy_code
-  - loan_commitments
-  - super_priority_lien
-  - till_v_scs
 aliases:
-  - DIP Financing
-  - DIP Loans
-  - Debtor in Possession Financing
+- DIP Financing
+- DIP Loans
+- Debtor in Possession Financing
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-ab7f97
 key_concepts:
-  - Chemical Bank DIP origin
-  - DIP financing for debtors
-  - Loan commitment features
-  - Section 364 Bankruptcy Code
-  - Super priority lien
+- Apt
+- Working Capital
+- DIP financing for debtors
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Credit risk modeling and default probability estimation
+- Probability of default estimation from credit spreads
+- Commodity markets and pricing dynamics
+- Credit spread analysis and OAS methodology
+- Solution
+- Credit portfolio diversification and concentration
+- Credit spread decomposition and hazard rates
+- Structural models of default and Merton formulation
+- CDS clearing and central counterparties
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- Chemical Bank DIP origin
+- Credit default swap pricing and recovery assumptions
+- 'Structured products: CDOs, CLOs, and credit derivatives'
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Synthetic credit derivatives and index trades
+- Section 364 Bankruptcy Code
+- Interest rate swap pricing and valuation
+- Credit default swap pricing and risk-neutral probabilities
+- Variance swaps and volatility trading strategies
+- Credit exposure measurement and EAD
+- Wrong-way risk in derivative transactions
+- Credit intermediation and information asymmetry
+- Quantitative Implementation
+- Credit risk migration matrices and rating transition
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Loan commitment features
+- Distressed Debt
+- Cross-currency basis swaps and funding
+- Counterparty credit exposure measurement
+- Loss given default and recovery rates
+- Super priority lien
+- Corporate Bonds
+tags:
+- working-capital
+- commodities
+- chapter_11
+- credit-default-swaps
+- collateralized-debt-obligations
+- interest-rate-swaps
+- mathematical-finance
+- course-material
+- bankruptcy_code
+- loan_commitments
+- financial-modeling
+- apt
+- super_priority_lien
+- till_v_scs
+- debtor_in_possession
+- credit-risk
+- quantitative-implementation
+- solution
+- dip_financing
+- corporate-bonds
+- distressed-debt
+- federal_bankruptcy_code
+title: Notes on Debtor-in-Possession DIP Financing
 ---
 
 DIP Financing | debtor in possession]]

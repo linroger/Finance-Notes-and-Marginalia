@@ -1,20 +1,45 @@
 ---
-tags:
-  - asset_swap
-  - bond_spread
-  - credit_spreads
-  - oas
-  - yield_spread
 aliases:
-  - Bond Spread
-  - Credit Spreads
-  - OAS
+- Bond Spread
+- Credit Spreads
+- OAS
 key_concepts:
-  - asset swap spreads
-  - bond cash flows
-  - credit risk
-  - embedded options
-  - yield spread
+- asset swap spreads
+- bond cash flows
+- credit risk
+- embedded options
+- yield spread
+- Credit risk modeling
+- Default probability estimation
+- Fixed income securities
+- Interest rate derivatives
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+tags:
+- credit
+- cds
+- structured_finance
+- interest_rates
+- oas
+- fixed_income
+- credit_spreads
+- bond_spread
+- valuation
+- asset_swap
+- fx
+- trading
+- yield_spread
+- bonds
+- swaps
 ---
 
 # 14.3 CREDIT SPREADS  

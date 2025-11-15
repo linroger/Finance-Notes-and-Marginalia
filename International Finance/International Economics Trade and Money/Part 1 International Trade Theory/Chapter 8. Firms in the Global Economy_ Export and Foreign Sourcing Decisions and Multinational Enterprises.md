@@ -1,3 +1,19 @@
+---
+key_concepts:
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Value at risk and stress testing
+- Portfolio risk metrics
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Bond pricing and yield analysis
+- Duration and convexity
+tags:
+- futures
+- risk_management
+- options
+- bonds
+---
 # CHAPTER 8  
 
 # Firms in the Global Economy: Export and Foreign Sourcing Decisions and Multinational Enterprises  

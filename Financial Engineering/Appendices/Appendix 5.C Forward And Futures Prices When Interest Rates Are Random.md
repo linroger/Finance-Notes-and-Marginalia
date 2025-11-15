@@ -1,23 +1,84 @@
 ---
-cssclasses:
-  - academia
-title: "Appendix 5.C Forward And Futures Prices When Interest Rates Are Random"
-tags:
-  - forward-prices
-  - futures-prices
-  - interest-rates
-  - money-market-account
-  - stochastic-calculus
 aliases:
-  - Appendix 5.C
-  - Forward vs. Futures
-  - Stochastic Interest Rates
+- Appendix 5.C
+- Forward vs. Futures
+- Stochastic Interest Rates
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-a4c7c5
 key_concepts:
-  - Continuous time formula
-  - Forward price formula
-  - Futures price derivation
-  - Money-market account
-  - Replicating fully funded contracts
+- Apt
+- Carry trades and momentum in FX markets
+- coupon-bearing bond analysis
+- Extensions to multi-factor CAPM models
+- Sensitivity analysis in DCF models
+- Duration and convexity analysis for bond portfolio management
+- Active portfolio management and performance attribution
+- Option Greeks and portfolio risk management
+- Common pitfalls in DCF valuation
+- Capital Asset Pricing Model and beta estimation
+- Risk budgeting and portfolio construction techniques
+- Discounted Cash Flow valuation methodology
+- Solution
+- Capital Asset Pricing Model and expected returns
+- Replicating fully funded contracts
+- Vega and volatility risk management
+- Portfolio immunization strategies
+- forward commitments and hedging
+- Mathematical Finance
+- Money-market account
+- Key rate duration and curve risk
+- Course Material
+- Security Market Line and beta measurement
+- Currency risk management and hedging
+- Forward rates and interest rate parity
+- Theta and time decay modeling
+- Exchange rate determination and PPP theory
+- Forward price formula
+- ESG integration in portfolio management
+- present value and discounting methods
+- zero-coupon bond pricing and yields
+- Continuous time formula
+- Delta hedging strategies in options portfolio management
+- Futures price derivation
+- Free cash flow to equity and firm valuation
+- Terminal value estimation and perpetuity growth
+- Quantitative Implementation
+- Gamma and convexity adjustments
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Delta hedging and the replication argument
+- Exotic Options
+- Duration and convexity measures for bond portfolios
+- Currency hedging strategies for global portfolios
+- Price sensitivity to interest rate changes
+- Modified duration vs. Macaulay duration
+- Market portfolio and risk-free rate assumptions
+- Currency markets and foreign exchange trading
+tags:
+- financial-analysis
+- stochastic-calculus
+- mathematical-finance
+- course-material
+- capm
+- financial-modeling
+- apt
+- greeks
+- money-market-account
+- exchange-rates
+- credit-risk
+- quantitative-implementation
+- duration-convexity
+- solution
+- exotic-options
+- forward-prices
+- quantitative-finance
+- futures-prices
+- dcf-valuation
+- interest-rates
+title: Appendix 5.C Forward And Futures Prices When Interest Rates Are Random
 ---
 
 # Appendix 5.C Forward And Futures Prices When Interest Rates Are Random

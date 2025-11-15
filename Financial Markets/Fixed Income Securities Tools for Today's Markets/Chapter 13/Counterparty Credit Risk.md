@@ -1,18 +1,43 @@
 ---
-tags:
-  - bankruptcy_code
-  - counterparty_risk
-  - credit_valuation_adjustment
-  - safe_harbor
-  - swap_agreements
 aliases:
-  - CCR
+- CCR
 key_concepts:
-  - Bankruptcy code safe harbor
-  - CVA charge
-  - Net positive NPV exposure
-  - Swap contract default risk
-  - Terminate swap contracts
+- Bankruptcy code safe harbor
+- CVA charge
+- Net positive NPV exposure
+- Swap contract default risk
+- Terminate swap contracts
+- Credit risk modeling
+- Default probability estimation
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Derivatives pricing theory
+tags:
+- credit
+- cds
+- counterparty_risk
+- regulation
+- swap_agreements
+- safe_harbor
+- stochastic_calculus
+- trading
+- credit_valuation_adjustment
+- bonds
+- swaps
+- futures
+- derivatives
+- options
+- bankruptcy_code
 ---
 
 # 13.4 COUNTERPARTY CREDIT RISK  

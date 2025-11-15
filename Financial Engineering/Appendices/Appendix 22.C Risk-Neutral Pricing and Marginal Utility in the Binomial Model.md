@@ -1,21 +1,96 @@
 ---
-title: Appendix 22. C Risk-Neutral Pricing and Marginal Utility in the Binomial Model
-tags:
-  - binomial_model
-  - marginal_utility
-  - risk_averse
-  - risk_neutral_pricing
-  - stochastic_discount_factor
 aliases:
-  - Binomial Pricing
-  - Risk-Neutral Valuation
+- Binomial Pricing
+- Risk-Neutral Valuation
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-f43012
 key_concepts:
-  - Marginal utility of consumption
-  - Physical probabilities valuation
-  - Risk-neutral binomial pricing
-  - Risk-neutral probabilities
-  - Risky stock and bond
-  - Stochastic discount factors
+- Apt
+- Deposit Insurance
+- Cox-Ross-Rubinstein parameter specification
+- Sovereign risk assessment and country analysis
+- Mean-variance optimization and the efficient frontier
+- Extreme value theory and tail risk modeling
+- Computational implementation of binomial option pricing
+- Credit risk modeling and default probability estimation
+- Physical probabilities valuation
+- Option Greeks and portfolio risk management
+- Risk budgeting and portfolio construction techniques
+- Solution
+- Historical simulation vs. parametric VaR models
+- Credit portfolio diversification and concentration
+- Risk-neutral probabilities
+- Vega and volatility risk management
+- DV01 calculation and interest rate risk hedging
+- Portfolio immunization strategies
+- Risk-neutral binomial pricing
+- Risky stock and bond
+- Monte Carlo integration and variance reduction
+- Deposit insurance and systemic risk prevention
+- Monte Carlo VaR for complex portfolios
+- Stress testing and scenario analysis
+- Key rate duration and curve risk
+- Marginal utility of consumption
+- Control variates and importance sampling techniques
+- Theta and time decay modeling
+- Risk-neutral pricing methodology for derivative securities
+- Value at Risk (VaR) methodologies and backtesting
+- Case Study
+- Operational risk quantification and modeling
+- fundamental valuation methods
+- Expected Shortfall and coherent risk measures
+- Arbitrage opportunities and risk-free profit extraction
+- Bank liquidity ratios and funding risk management
+- Convergence of binomial model to Black-Scholes solution
+- Credit exposure measurement and EAD
+- Loss given default and recovery rates
+- Binomial option pricing model with multiple time steps
+- Wrong-way risk in derivative transactions
+- Stochastic discount factors
+- Value-at-Risk calculation using historical simulation
+- Quantitative Implementation
+- American option pricing in binomial trees
+- Credit risk migration matrices and rating transition
+- Gamma and convexity adjustments
+- Credit risk modeling and portfolio correlation analysis
+- Backtesting procedures for risk models
+- Credit risk assessment and loan portfolio management
+- Delta hedging and the replication argument
+- Liquidity risk measurement and management
+- Duration and convexity measures for bond portfolios
+- Systemic risk indicators and early warning systems
+- Global financial stability and systemic risk monitoring
+- Price sensitivity to interest rate changes
+- Modified duration vs. Macaulay duration
+tags:
+- financial-analysis
+- binomial-model
+- mathematical-finance
+- marginal_utility
+- financial-modeling
+- stochastic_discount_factor
+- case-study
+- apt
+- greeks
+- value-at-risk
+- credit-risk
+- quantitative-implementation
+- duration-convexity
+- solution
+- risk_averse
+- stress-testing
+- liquidity-risk
+- systemic-risk
+- binomial_model
+- deposit-insurance
+- quantitative-finance
+- dcf-valuation
+- risk_neutral_pricing
+- expected-shortfall
+- operational-risk
+- monte-carlo
+title: Appendix 22. C Risk-Neutral Pricing and Marginal Utility in the Binomial Model
 ---
 
 # Appendix 22. C Risk-Neutral Pricing and Marginal Utility in the Binomial Model

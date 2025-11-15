@@ -1,17 +1,30 @@
-%% Begin Waypoint %%
-- **Chapter 1 - Purpose and Structure of Financial Markets**
-	- Arbitrage Pure Versus Relative Value
-	- Chapter 1 - Purpose and Structure of Financial Markets
-	- Financial Institutions Transforming Intermediar
-	- Market Players Hedgers Vs Speculators
-	- Overview of Financial Markets
-	- Preview of the Book
-	- Primary Issuance and Secondary Resale Markets
-	- Purpose and Structure of Financial Markets 1
-	- Risk Sharing
-	- Transactional Structure of Financial Markets
-
-%% End Waypoint %%
+---
+title: Chapter 1 - Purpose and Structure of Financial Markets
+tags:
+  - arbitrage
+  - financial_institutions
+  - financial_markets
+  - market_structure
+  - primary_markets
+  - risk_sharing
+  - secondary_markets
+  - speculation
+aliases:
+  - Purpose and Structure of Financial Markets
+  - Financial Market Structure
+  - Market Participants
+key_concepts:
+  - Arbitrage and Relative Value Trading
+  - Primary and Secondary Market Operations
+  - Financial Market Structure and Organization
+  - Market Risk Sharing Mechanisms
+  - Hedgers and Speculators Roles
+  - Financial Institution Functions
+  - Market Intermediation Process
+  - Capital Formation and Allocation
+  - Financial Market Efficiency
+  - Market Trading Mechanisms
+---
 
 1 Purpose and Structure of Financial Markets 1  
 1.1 Overview of Financial Markets 1   

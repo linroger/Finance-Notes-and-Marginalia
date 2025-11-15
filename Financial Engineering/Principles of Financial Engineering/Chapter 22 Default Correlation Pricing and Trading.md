@@ -1,28 +1,70 @@
 ---
-title: Default Correlation Pricing and Trading
-tags:
-  - default-correlation
-  - credit-derivatives
-  - correlation-trading
-  - financial-engineering
-  - copulas
-  - cdo-pricing
-  - credit-risk
-  - correlation-models
 aliases:
-  - Chapter 22 Default Correlation
-  - Correlation Trading
-  - Credit Correlation Models
-key_concepts:
-  - Default correlation
-  - Correlation trading
-  - Copula models
-  - CDO tranches
-  - Base correlation
-  - Implied correlation
-  - Correlation risk
-  - Portfolio credit models
+- Chapter 22 Default Correlation
+- Correlation Trading
+- Credit Correlation Models
 cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-d865a4
+key_concepts:
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Monte Carlo simulation for derivatives valuation
+- Partial differential equations in financial modeling
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- apt
+- arch
+- binomial
+- black-scholes
+- bonds
+- cds
+- convexity
+- copula
+- corporate-bonds
+- correlation
+- credit-default-swaps
+- credit-risk
+- credit-spreads
+- default-probability
+- delta
+- delta-hedging
+- derivatives-pricing
+- duration
+- exotic-options
+- fixed_income
+- gamma
+- garch
+- greeks
+- hedging
+- hull-white
+- implied-volatility
+- interest-rate-swaps
+- mbs
+- monte-carlo
+- options
+- pde
+- recovery-rate
+- replication
+- rho
+- risk-management
+- risk-neutral
+- swaps
+- theta
+- var
+- vega
+title: Default Correlation Pricing and Trading
 ---
 
 # DEFAULT CORRELATION PRICING AND TRADING  

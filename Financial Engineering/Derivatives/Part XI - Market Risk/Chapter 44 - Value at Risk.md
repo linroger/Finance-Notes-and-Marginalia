@@ -1,21 +1,110 @@
 ---
-tags:
-  - market_risk
-  - portfolio_theory
-  - value_at_risk
-  - var
-  - variance_covariance
 aliases:
-  - VCV
-  - VaR
+- VCV
+- VaR
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-f9cd4d
 key_concepts:
-  - Backtesting VaR accuracy
-  - Basel internal models
-  - Forecasting volatility methods
-  - Market risk measurement
-  - Value at Risk (VaR)
-  - Variance-covariance approach
+- Apt
+- Liquidity coverage ratio and net stable funding ratio
+- Extensions to multi-factor CAPM models
+- Duration and convexity analysis for bond portfolio management
+- Active portfolio management and performance attribution
+- Basel III capital requirements and stress testing
+- Mean-variance optimization and the efficient frontier
+- Stress testing and supervisory review processes
+- Market risk measurement and portfolio volatility
+- Collateralized Debt Obligations
+- Option Greeks and portfolio risk management
+- Forecasting volatility methods
+- Risk budgeting and portfolio construction techniques
+- Capital Asset Pricing Model and beta estimation
+- Capital Asset Pricing Model and expected returns
+- Historical simulation vs. parametric VaR models
+- Vega and volatility risk management
+- Leverage ratio and large exposures
+- Value at Risk (VaR)
+- forward commitments and hedging
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- Market risk measurement
+- Monte Carlo integration and variance reduction
+- GARCH models and volatility forecasting
+- Monte Carlo VaR for complex portfolios
+- Shadow Banking
+- Fixed-for-floating swap cash flows and valuation
+- Risk-weighted assets and capital adequacy ratios
+- Security Market Line and beta measurement
+- portfolio optimization and risk decomposition
+- Backtesting VaR accuracy
+- Basel III capital and liquidity standards development
+- Variance-covariance approach
+- Control variates and importance sampling techniques
+- Case Study
+- International regulatory coordination and Basel standards
+- Theta and time decay modeling
+- Value at Risk (VaR) methodologies and backtesting
+- Net interest margin analysis and banking profitability
+- Interest rate swap pricing and valuation
+- Basel III regulatory framework and capital requirements
+- ESG integration in portfolio management
+- Variance swaps and volatility trading strategies
+- Delta hedging strategies in options portfolio management
+- Basel internal models
+- Value-at-Risk calculation using historical simulation
+- risk measurement and management
+- Shadow banking system and regulatory arbitrage
+- Gamma and convexity adjustments
+- Credit risk modeling and portfolio correlation analysis
+- Backtesting procedures for risk models
+- Credit risk assessment and loan portfolio management
+- Delta hedging and the replication argument
+- Cross-currency basis swaps and funding
+- Currency hedging strategies for global portfolios
+- banking regulation and capital adequacy
+- Market portfolio and risk-free rate assumptions
+- Empirical tests and anomalies in CAPM
+tags:
+- capital-adequacy
+- basel-iii
+- duration-convexity
+- variance_covariance
+- quantitative-implementation
+- solution
+- risk-management
+- backtesting
+- exchange-rate
+- collateralized-debt-obligations
+- banking
+- garch-models
+- interest-rate-swaps
+- investment-banking
+- mathematical-finance
+- stress-testing
+- hedge-funds
+- bank-regulation
+- market_risk
+- capm
+- var
+- shadow-banking
+- market-risk
+- exotic-options
+- case-study
+- apt
+- portfolio-theory
+- greeks
+- implied-volatility
+- value-at-risk
+- monte-carlo
+- basel
+- value_at_risk
+- exchange-rates
+- expected-shortfall
+- portfolio_theory
+- credit-risk
 ---
+
 # MARKET RISK  
 
 # Value at Risk  

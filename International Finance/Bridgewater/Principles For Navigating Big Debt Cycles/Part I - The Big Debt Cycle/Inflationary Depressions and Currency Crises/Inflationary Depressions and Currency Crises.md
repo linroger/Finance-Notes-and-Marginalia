@@ -1,3 +1,29 @@
+---
+key_concepts:
+- Credit risk modeling
+- Default probability estimation
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Derivatives pricing theory
+- Risk-neutral valuation
+- Interest rate modeling
+- Term structure of interest rates
+tags:
+- regulatory-framework
+- credit
+- fx
+- trading
+- cds
+- options
+- derivatives
+- interest_rates
+---
 # **Inflationary Depressions and Currency Crises**
 
 In the previous section, we looked at the archetypal deflationary debt crisis, which we created by averaging the 21 deflationary cycles you can review in Part 3. We will now look at the archetypal inflationary debt crisis, which we created by averaging the 27 worst cases of inflationary cycles (also shown in Part 3). After reviewing this template, I encourage you to read about the hyperinflation in Germany's Weimar Republic, which is examined in depth in Part 2, to compare it to the archetypal case described here. Before we turn to the charts and other data, please remember that:

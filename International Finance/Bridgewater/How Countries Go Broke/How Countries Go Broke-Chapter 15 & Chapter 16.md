@@ -1,27 +1,109 @@
 ---
-title: How Countries Go Broke-Chapter 15 & Chapter 16
-source: 
-  https://www.linkedin.com/pulse/how-countries-go-broke-chapter-15-16-ray-dalio-4oefe/
-author:
-published: 2000-02-13
-created: 2025-04-07
-description:
-tags:
-  - central_bank_risk
-  - country_debt
-  - debt_indicators
-  - financial_risk
-  - reserve_currency
 aliases:
-  - Country Risk
-  - Debt Risk
-  - How Countries Go Broke
+- Country Risk
+- Debt Risk
+- How Countries Go Broke
+author: null
+created: 2025-04-07
+description: null
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-9f4163
 key_concepts:
-  - Central government debt
-  - Debt risk assessment
-  - Long-term debt risks
-  - Reserve currency status
-  - Short-term debt risks
+- Apt
+- Liquidity coverage ratio and net stable funding ratio
+- Term structure of interest rates and yield curve shapes
+- Stochastic calculus in financial modeling
+- Central government debt
+- Stress testing and supervisory review processes
+- Single-name vs. index CDS trading
+- Market risk measurement and portfolio volatility
+- Option Greeks and portfolio risk management
+- Commodity markets and pricing dynamics
+- Currency derivatives
+- Expectations hypothesis and liquidity preference theory
+- Interest rate swaps and term structure
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- Leverage ratio and large exposures
+- Short-term debt risks
+- CDS clearing and central counterparties
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- Option sensitivity analysis
+- GARCH models and volatility forecasting
+- Foreign exchange markets
+- Liquidity and price discovery
+- Equity valuation and analysis
+- Fixed-for-floating swap cash flows and valuation
+- Risk-weighted assets and capital adequacy ratios
+- Reserve currency status
+- Counterparty risk and settlement
+- Case Study
+- Interest rate swap pricing and valuation
+- Delta, gamma, vega, theta, rho
+- Credit default swap pricing and risk-neutral probabilities
+- Market microstructure and trading
+- Basel III regulatory framework and capital requirements
+- Variance swaps and volatility trading strategies
+- Bond pricing and yield analysis
+- Long-term debt risks
+- Capital Structure
+- Dividend discount models
+- Credit default swaps and credit risk
+- Parallel and non-parallel shifts in the yield curve
+- Delta hedging and the replication argument
+- Cross-currency basis swaps and funding
+- Basis swaps and cross-currency swaps
+- Duration and convexity
+- Options pricing and payoff structures
+- Debt risk assessment
+published: 2000-02-13
+source: https://www.linkedin.com/pulse/how-countries-go-broke-chapter-15-16-ray-dalio-4oefe/
+tags:
+- yield-curve
+- fx
+- swaps
+- commodities
+- credit-default-swaps
+- stochastic-calculus
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- trading
+- bank-regulation
+- capital-structure
+- market-risk
+- case-study
+- apt
+- bonds
+- greeks
+- value-at-risk
+- reserve_currency
+- exchange-rates
+- hedge-funds
+- country_debt
+- credit-risk
+- currency-swaps
+- quantitative-implementation
+- duration-convexity
+- solution
+- real-estate
+- regulation
+- equity
+- interest_rates
+- stochastic_calculus
+- infrastructure
+- bridgewater-perspective
+- corporate-bonds
+- exotic-options
+- debt_indicators
+- harvard-business-review
+- cds
+- central_bank_risk
+title: How Countries Go Broke-Chapter 15 & Chapter 16
 ---
 
 ## Chapter 15: What My Indicators Show

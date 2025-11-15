@@ -1,23 +1,96 @@
 ---
-title: Valuing Treasury Futures Using QuantLib Python
-source: http://gouthamanbalaraman.com/blog/value-treasury-futures-quantlib-python.html
+aliases:
+- QuantLib Futures
+- Valuing Futures
 description: Provides an introduction to valuation of treasury futures contract in
   QuantLib Python.
-tags:
-  - cheapest_to_deliver
-  - futures_contract
-  - quantlib_python
-  - treasury_futures
-  - yield_curve
-aliases:
-  - QuantLib Futures
-  - Valuing Futures
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-9930bb
 key_concepts:
-  - Build yield curve
-  - Cheapest to deliver
-  - Futures contract modeling
-  - QuantLib Python contract
-  - Treasury futures valuation
+- Futures contract modeling
+- coupon-bearing bond analysis
+- Term structure of interest rates and yield curve shapes
+- Treasury Futures
+- Interest rate swap valuation and fixed-floating spreads
+- Monte Carlo simulation techniques for path-dependent options
+- Treasury Bonds
+- Real options valuation in corporate investment decisions
+- Binomial option pricing model for American-style options
+- Greeks calculation and their interpretation in options trading
+- Single-name vs. index CDS trading
+- Option Greeks and portfolio risk management
+- maturity date in CDS
+- Commodity markets and pricing dynamics
+- Collateralized Debt Obligations
+- Expectations hypothesis and liquidity preference theory
+- Solution
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- Build yield curve
+- Vega and volatility risk management
+- CDS clearing and central counterparties
+- Commodity futures pricing and storage costs
+- Portfolio immunization strategies
+- forward commitments and hedging
+- CDS-Bond basis and arbitrrage opportunities
+- Spot rates vs. forward rates modeling
+- Credit default swap pricing and recovery assumptions
+- 'Structured products: CDOs, CLOs, and credit derivatives'
+- Key rate duration and curve risk
+- modified following convention in CDS
+- Implied Volatility
+- Fixed-for-floating swap cash flows and valuation
+- Theta and time decay modeling
+- Risk-neutral pricing methodology for derivative securities
+- Synthetic credit derivatives and index trades
+- Treasury futures trading and basis point value calculations
+- CVA and DVA adjustments in derivative pricing
+- Interest rate swap pricing and valuation
+- Credit default swap pricing and risk-neutral probabilities
+- Delta hedging strategies in options portfolio management
+- Theta decay modeling for time-sensitive options strategies
+- Implied volatility extraction from market option prices
+- Treasury futures valuation
+- Cheapest to deliver
+- clean price in CDS settlement
+- Volatility smile and skew modeling in options markets
+- Quantitative Implementation
+- Gamma and convexity adjustments
+- Delta hedging and the replication argument
+- Parallel and non-parallel shifts in the yield curve
+- QuantLib Python contract
+- Exotic Options
+- Duration and convexity measures for bond portfolios
+- Price sensitivity to interest rate changes
+- Modified duration vs. Macaulay duration
+source: http://gouthamanbalaraman.com/blog/value-treasury-futures-quantlib-python.html
+tags:
+- yield-curve
+- treasury-futures
+- commodities
+- credit-default-swaps
+- collateralized-debt-obligations
+- interest-rate-swaps
+- mathematical-finance
+- cheapest_to_deliver
+- futures_contract
+- course-material
+- financial-modeling
+- greeks
+- exchange-rates
+- yield_curve
+- duration-convexity
+- quantitative-implementation
+- solution
+- treasury-bonds
+- exotic-options
+- implied-volatility
+- quantitative-finance
+- quantlib_python
+- monte-carlo
+- treasury_futures
+title: Valuing Treasury Futures Using QuantLib Python
 ---
 
 # Valuing Treasury Futures Using QuantLib Python

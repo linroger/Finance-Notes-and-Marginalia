@@ -1,30 +1,59 @@
 ---
+aliases:
+- FINANCIAL INSTRUMENTS MIDTERM SOLUTIONS
 cssclasses:
-  - academia
-title: Financial Instruments Midterm 2022 Solutions
-tags:
-  - binomial_tree
-  - exchange_rate
-  - financial_instruments
-  - forward_contract
-  - swap_rate
-  - options_pricing
-  - risk_neutral_probability
-  - european_options
-  - hedging_strategies
-  - capital_protected_notes
-aliases: [FINANCIAL INSTRUMENTS MIDTERM SOLUTIONS]
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-6af1dc
 key_concepts:
-  - Binomial tree option pricing
-  - Risk-neutral probability calculation
-  - Exchange rate forward contracts
-  - Interest rate parity
-  - Forward contract valuation
-  - Swap rate determination
-  - Delta hedging strategies
-  - Capital protected notes
-  - Option replication
-  - Lookback options
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Monte Carlo simulation for derivatives valuation
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- apt
+- arbitrage
+- binomial
+- black-scholes
+- commodities
+- convexity
+- correlation
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- european-options
+- exotic-options
+- expected-shortfall
+- factor-models
+- fixed_income
+- gamma
+- greeks
+- hedging
+- monte-carlo
+- no-arbitrage
+- options
+- replication
+- risk-management
+- risk-neutral
+- stress-testing
+- theta
+- var
+- vega
+- yield-curve
+title: Financial Instruments Midterm 2022 Solutions
 ---
 
 # Financial Instruments Midterm 2022 Solutions

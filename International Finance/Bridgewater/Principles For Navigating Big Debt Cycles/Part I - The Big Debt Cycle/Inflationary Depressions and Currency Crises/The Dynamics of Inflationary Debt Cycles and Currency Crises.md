@@ -1,22 +1,42 @@
 ---
-title: The Dynamics of Inflationary Debt Cycles and Currency Crises
-cssclasses:
-  - academia
-tags:
-  - capital_flows
-  - central_bank
-  - currency_crises
-  - economic_vulnerability
-  - inflationary_debt
 aliases:
-  - Currency Dynamics
-  - Inflationary Debt Cycles
+- Currency Dynamics
+- Inflationary Debt Cycles
+cssclasses:
+- academia
 key_concepts:
-  - Capital flow influence
-  - Central bank management
-  - Currency and debt interplay
-  - Inflationary debt crises
-  - Vulnerability factors
+- Dynamics of Inflationary Debt Cycles and Currency Crises
+- Capital Flow Influence on Currency Values
+- Central Bank Management of Currency Crises
+- Currency and Debt Interplay in Inflationary Environments
+- Vulnerability Factors for Inflationary Depressions
+- Reserve Currency Status and Currency Crisis Risk
+- Foreign Exchange Reserves and Currency Defense
+- Foreign Currency Denominated Debt Vulnerabilities
+- Budget and Current Account Deficits
+- Currency Appreciation and Competitive Impact
+- Speculative Attacks and Capital Flight
+- Wage-Price Spirals and Inflation Psychology
+- External Competitiveness and Trade Balance
+- Currency Devaluation and External Adjustment
+- Hyperinflation and Monetary System Breakdown
+tags:
+- inflationary_debt
+- currency_crises
+- capital_flows
+- central_bank
+- currency_defense
+- balance_of_payments
+- foreign_exchange
+- economic_vulnerability
+- hyperinflation
+- debt_restructuring
+- structural_reforms
+- external_adjustment
+- monetary_policy
+- currency_devaluation
+- inflationary_psychology
+title: The Dynamics of Inflationary Debt Cycles and Currency Crises
 ---
 
 # The Dynamics of Inflationary Debt Cycles and Currency Crises

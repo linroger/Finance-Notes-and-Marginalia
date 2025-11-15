@@ -1,19 +1,42 @@
 ---
-tags:
-  - century_bond
-  - convexity
-  - market_maker
-  - treasury_bond
 aliases:
-  - Dv01
-  - Hedging a Century Bond
-  - P&L implications
+- Dv01
+- Hedging a Century Bond
+- P&L implications
 key_concepts:
-  - Convexity and duration
-  - Long convexity position risk
-  - Market maker hedging Dv01
-  - P&L implications
-  - Treasury bond prices
+- Convexity and duration
+- Long convexity position risk
+- Market maker hedging Dv01
+- P&L implications
+- Treasury bond prices
+- Fixed income securities
+- Interest rate derivatives
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Derivatives pricing theory
+- Risk-neutral valuation
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Alternative investment strategies
+- Hedge fund replication
+tags:
+- valuation
+- fixed_income
+- fx
+- trading
+- bonds
+- century_bond
+- treasury_bond
+- derivatives
+- options
+- hedge_funds
+- mathematical-finance
+- market_maker
+- convexity
 ---
 
 # 4.6 HEDGING A CENTURY BOND: PART II  

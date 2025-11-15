@@ -1,21 +1,33 @@
 ---
 tags:
-  - asset_pricing
-  - forward_price
-  - forwards_futures
-  - futures_price
-  - risk_neutral
-  - zero_coupon_bond
+- bonds
+- correlation
+- credit-risk
+- delta
+- derivatives-pricing
+- fixed_income
+- forwards
+- futures
+- hedging
+- martingale
+- options
+- replication
+- risk-management
+- risk-neutral
+- var
+- zero-coupon
 aliases:
-  - Forward Contracts
-  - Forwards
-  - Futures
+- Forward Contracts
+- Forwards
+- Futures
 key_concepts:
-  - Forward price definition
-  - Futures contract payoff
-  - Risk-neutral probability measure
-  - Underlying asset price
-  - Zero-coupon bond pricing
+- Risk-neutral measures and martingale pricing
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
 ---
 
 # 12.2 Forwards and futures  

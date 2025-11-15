@@ -1,20 +1,45 @@
 ---
-tags:
-  - arbitrage
-  - cross_currency_basis
-  - currency_risk
-  - fx_forward
-  - interest_rates
 aliases:
-  - XCCY basis
-  - basis
-  - cross-currency basis swaps
+- XCCY basis
+- basis
+- cross-currency basis swaps
 key_concepts:
-  - arbitrage conditions violation
-  - cross-currency swap
-  - currency hedging adjustment
-  - forward FX rate
-  - interest rate differentials
+- arbitrage conditions violation
+- cross-currency swap
+- currency hedging adjustment
+- forward FX rate
+- interest rate differentials
+- Credit risk modeling
+- Default probability estimation
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+tags:
+- regulatory-framework
+- credit
+- cds
+- hedge_funds
+- interest_rates
+- fx_forward
+- fx
+- trading
+- bonds
+- swaps
+- futures
+- derivatives
+- cross_currency_basis
+- options
+- risk_management
 ---
 
 # Chapter 1 What Really is the Cross-Currency Basis?

@@ -1,19 +1,34 @@
 ---
-tags:
-  - bond_pricing
-  - collateral
-  - repurchase_agreement
-  - secured_loan
-  - variation_margin
 aliases:
-  - repo
-  - repurchase agreements
+- repo
+- repurchase agreements
 key_concepts:
-  - collateral protection
-  - collateral value
-  - repo seller
-  - secured loan with bonds
-  - variation margin
+- collateral protection
+- collateral value
+- repo seller
+- secured loan with bonds
+- variation margin
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Value at risk and stress testing
+- Portfolio risk metrics
+tags:
+- bonds
+- variation_margin
+- futures
+- cds
+- options
+- bond_pricing
+- risk_management
+- collateral
+- repurchase_agreement
+- secured_loan
 ---
 
 # 10.1 REPURCHASE AGREEMENTS  

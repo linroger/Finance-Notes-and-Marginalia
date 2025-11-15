@@ -1,20 +1,45 @@
 ---
-tags:
-  - binomial_model
-  - black_scholes_model
-  - dividends
-  - option_pricing
-  - volatility
 aliases:
-  - BSM
-  - Black-Scholes
-  - Option Valuation
+- BSM
+- Black-Scholes
+- Option Valuation
 key_concepts:
-  - Binomial approach
-  - Black-Scholes equation
-  - Continuous rebalancing
-  - Option payoff replication
-  - Stock price volatility
+- Binomial approach
+- Black-Scholes equation
+- Continuous rebalancing
+- Option payoff replication
+- Stock price volatility
+- Equity valuation and analysis
+- Dividend discount models
+- Foreign exchange markets
+- Currency derivatives
+- Option sensitivity analysis
+- Delta, gamma, vega, theta, rho
+- Bond pricing and yield analysis
+- Duration and convexity
+- Black-Scholes option pricing model
+- Continuous-time finance
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Derivatives pricing theory
+- Risk-neutral valuation
+- Options pricing and payoff structures
+tags:
+- dividends
+- equity
+- greeks
+- black_scholes_model
+- hedge_funds
+- option_pricing
+- binomial
+- interest_rates
+- valuation
+- binomial_model
+- fx
+- volatility
+- bonds
+- black_scholes
+- futures
 ---
 
 # 5.7 BLACK-SCHOLES MODEL AND EXTENSIONS  

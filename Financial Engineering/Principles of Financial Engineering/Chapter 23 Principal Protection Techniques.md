@@ -1,28 +1,65 @@
 ---
-title: Principal Protection Techniques
-tags:
-  - principal-protection
-  - cppi
-  - structured-products
-  - financial-engineering
-  - capital-guaranteed
-  - portfolio-insurance
-  - dynamic-hedging
-  - risk-management
 aliases:
-  - Chapter 23 Principal Protection
-  - CPPI Strategies
-  - Capital Protection Engineering
-key_concepts:
-  - Principal protection
-  - CPPI (Constant Proportion Portfolio Insurance)
-  - Dynamic portfolio insurance
-  - Gap risk
-  - Leverage constraints
-  - Cushion management
-  - Floor values
-  - Multiplier selection
+- Chapter 23 Principal Protection
+- CPPI Strategies
+- Capital Protection Engineering
 cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-490c86
+key_concepts:
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Ito's lemma and stochastic calculus applications
+- Monte Carlo simulation for derivatives valuation
+- Partial differential equations in financial modeling
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- apt
+- black-scholes
+- bonds
+- brownian-motion
+- cds
+- commodities
+- convexity
+- counterparty-risk
+- credit-default-swaps
+- credit-risk
+- delta
+- delta-hedging
+- derivatives-pricing
+- duration
+- dynamic-hedging
+- fixed_income
+- futures
+- greeks
+- hedging
+- interest-rate-swaps
+- mbs
+- monte-carlo
+- options
+- pde
+- replication
+- risk-management
+- risk-neutral
+- stochastic-calculus
+- swaps
+- var
+- wiener-process
+- yield-curve
+- zero-coupon
+title: Principal Protection Techniques
 ---
 
 # PRINCIPAL PROTECTION TECHNIQUES  

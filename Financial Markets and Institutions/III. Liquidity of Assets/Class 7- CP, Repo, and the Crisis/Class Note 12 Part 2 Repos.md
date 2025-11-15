@@ -1,38 +1,28 @@
 ---
-cssclasses:
-  - academia
-title: "Class Note 12 Part 2: Repos"
-linter-yaml-title-alias: "Class Note 12 Part 2: Repos"
-tags:
-  - collateralized_borrowing
-  - interest_rate
-  - margin
-  - repo_market
-  - security_trading
-  - haircuts
-  - tri_party_repo
-  - bilateral_repo
-  - repo_run
-  - shadow_banking
 aliases:
-  - Collateralized Borrowing
-  - Repo
-  - Repos
-  - Repurchase Agreement
-  - "Repo Markets"
+- Collateralized Borrowing
+- Repo
+- Repos
+- Repurchase Agreement
+- Repo Markets
+cssclasses:
+- academia
 key_concepts:
-  - Collateralized borrowing of cash
-  - Margin protects lenders
-  - Market value of security
-  - Repo agreement elements
-  - Haircuts and overcollateralization
-  - Tri-party repo structure
-  - Bilateral repo market
-  - Repo market runs
-  - Clearing bank role
-  - Term repos vs overnight
-  - Subprime mortgage security
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Interest rate swaps and term structure modeling
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
+linter-yaml-title-alias: 'Class Note 12 Part 2: Repos'
+tags:
+- arbitrage
+- correlation
+- counterparty-risk
+- credit-risk
+- risk-management
+title: 'Class Note 12 Part 2: Repos'
 ---
+
 
 # Class Note 12 Part 2: Repos
 

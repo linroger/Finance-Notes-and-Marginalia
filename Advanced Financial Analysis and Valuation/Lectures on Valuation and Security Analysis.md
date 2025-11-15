@@ -1,30 +1,137 @@
 ---
-title: Lectures on Valuation and Security Analysis
-tags:
-  - cost_of_capital
-  - financial_statement_analysis
-  - lecture_notes
-  - security_analysis
-  - valuation
-  - dcf_models
-  - equity_valuation
-  - fundamental_analysis
 aliases:
-  - Financial Analysis
-  - Security Analysis
-  - Valuation Lectures
-  - Financial Valuation Methods
+- Financial Analysis
+- Security Analysis
+- Valuation Lectures
+- Financial Valuation Methods
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-af1ce4
 key_concepts:
-  - cost of capital calculation
-  - discounted cash flow models
-  - financial statement analysis
-  - intrinsic value estimation
-  - multiples-based valuation
-  - residual income models
-  - security analysis techniques
-  - free cash flow determination
-  - enterprise vs equity valuation
-  - terminal value estimation
+- Stage 2 credit exposure classification
+- Cox-Ross-Rubinstein parameter specification
+- coupon-bearing bond analysis
+- Working Capital
+- Extensions to multi-factor CAPM models
+- Computational implementation of binomial option pricing
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- terminal value estimation
+- Commodity markets and pricing dynamics
+- Capital Asset Pricing Model and expected returns
+- private equity transactions
+- active management performance attribution
+- portfolio theory and asset pricing
+- Credit spread decomposition and hazard rates
+- CDS clearing and central counterparties
+- fixed income risk measurement
+- cost of capital calculation
+- forward commitments and hedging
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- leverage ratio calculation and monitoring
+- GARCH models and volatility forecasting
+- cost of capital estimation
+- Mergers Acquisitions
+- consolidation accounting principles
+- Market portfolio and risk-free rate assumptions
+- financial statement analysis
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Security Market Line and beta measurement
+- security analysis techniques
+- Dividend Policy
+- residual income models
+- Generally Accepted Accounting Principles
+- fundamental valuation methods
+- Interest rate swap pricing and valuation
+- excess returns and manager skill
+- Credit default swap pricing and risk-neutral probabilities
+- present value and discounting methods
+- investment grade bonds and ratings
+- Variance swaps and volatility trading strategies
+- Pairs trading and statistical arbitrage strategies
+- Convergence of binomial model to Black-Scholes solution
+- fair value measurement and hierarchy
+- Binomial option pricing model with multiple time steps
+- systematic risk and market exposure
+- high yield debt and default risk
+- discounted cash flow models
+- American option pricing in binomial trees
+- Capital Structure
+- Stage 1 credit exposure classification
+- enterprise vs equity valuation
+- risk-adjusted performance measurement
+- Cross-currency basis swaps and funding
+- free cash flow determination
+- intrinsic value estimation
+- multiples-based valuation
+- Empirical tests and anomalies in CAPM
+tags:
+- binomial-model
+- commodities
+- credit-default-swaps
+- goodwill
+- market-efficiency
+- dividend-policy
+- pairs-trading
+- capm
+- case-study
+- apt
+- comparable-analysis
+- value-at-risk
+- kalman-filter
+- factor-models
+- credit-risk
+- efficient-market
+- duration-convexity
+- solution
+- private-equity
+- wacc
+- depreciation
+- corporate-bonds
+- autocorrelation
+- accruals
+- financial-ratios
+- municipal-bonds
+- credit-analysis
+- enterprise-value
+- working-capital
+- collateralized-debt-obligations
+- garch-models
+- mergers-acquisitions
+- interest-rate-swaps
+- capital-asset-pricing-model
+- mathematical-finance
+- course-material
+- capital-structure
+- market-risk
+- roic
+- high-frequency-trading
+- amortization
+- greeks
+- impairment
+- high-yield-bonds
+- lbo
+- exchange-rates
+- net-income
+- hedge-funds
+- ebitda
+- leveraged-buyouts
+- momentum-strategies
+- quantitative-implementation
+- real-estate
+- treasury-bonds
+- return-on-equity
+- infrastructure
+- ev
+- exotic-options
+- distressed-debt
+- dcf-valuation
+- harvard-business-review
+- duration
+title: Lectures on Valuation and Security Analysis
 ---
 
 # Lectures on Valuation and Security Analysis

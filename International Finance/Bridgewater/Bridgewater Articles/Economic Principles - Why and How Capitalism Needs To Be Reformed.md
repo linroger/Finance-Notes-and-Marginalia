@@ -1,24 +1,85 @@
 ---
-cssclasses:
-  - academia
-title: Economic Principles - Why and How Capitalism Needs To Be Reformed
-source: https://www.economicprinciples.org/Why-and-How-Capitalism-Needs-To-Be-Reformed/
-description:
-tags:
-  - american_dream
-  - capitalism_reform
-  - economic_principles
-  - income_inequality
-  - middle_class
 aliases:
-  - Capitalism Reform
-  - Economic System Reform
+- Capitalism Reform
+- Economic System Reform
+cssclasses:
+- academia
+description: null
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-1ccd82
 key_concepts:
-  - American Dream
-  - Capitalism's shortcomings
-  - Economic pie division
-  - Income/wealth gaps
-  - Socialist vs Capitalist
+- Income/wealth gaps
+- Carry trades and momentum in FX markets
+- Stochastic calculus in financial modeling
+- Option Greeks and portfolio risk management
+- Solution
+- Futures contracts and forward pricing
+- Historical simulation vs. parametric VaR models
+- Municipal Bonds
+- Vega and volatility risk management
+- Value at risk and stress testing
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- Infrastructure investment and project finance
+- GARCH models and volatility forecasting
+- Monte Carlo VaR for complex portfolios
+- Stress testing and scenario analysis
+- Equity valuation and analysis
+- Fixed-for-floating swap cash flows and valuation
+- American Dream
+- Course Material
+- Forward rates and interest rate parity
+- Value at Risk (VaR) methodologies and backtesting
+- Theta and time decay modeling
+- Currency risk management and hedging
+- Portfolio risk metrics
+- Case Study
+- Exchange rate determination and PPP theory
+- Interest rate swap pricing and valuation
+- Margin requirements and clearing
+- Expected Shortfall and coherent risk measures
+- Economic pie division
+- Variance swaps and volatility trading strategies
+- Stress Testing
+- Quantitative Implementation
+- Gamma and convexity adjustments
+- Capitalism's shortcomings
+- Delta hedging and the replication argument
+- Cross-currency basis swaps and funding
+- Delta hedging and Greeks
+- Dividend discount models
+- Socialist vs Capitalist
+- Options pricing and payoff structures
+- Currency markets and foreign exchange trading
+source: https://www.economicprinciples.org/Why-and-How-Capitalism-Needs-To-Be-Reformed/
+tags:
+- stochastic-calculus
+- garch-models
+- interest-rate-swaps
+- american_dream
+- mathematical-finance
+- course-material
+- income_inequality
+- economic_principles
+- case-study
+- greeks
+- risk_management
+- value-at-risk
+- exchange-rates
+- options
+- quantitative-implementation
+- solution
+- equity
+- stress-testing
+- stochastic_calculus
+- infrastructure
+- capitalism_reform
+- middle_class
+- regulatory-framework
+- futures
+- municipal-bonds
+title: Economic Principles - Why and How Capitalism Needs To Be Reformed
 ---
 
 # Economic Principles - Why and How Capitalism Needs To Be Reformed

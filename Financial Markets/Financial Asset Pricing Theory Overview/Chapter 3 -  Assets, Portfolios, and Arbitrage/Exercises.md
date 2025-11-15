@@ -1,23 +1,18 @@
 ---
 tags:
-  - arbitrage
-  - call_option
-  - no_arbitrage
-  - one_period_model
-  - risk_free_asset
+- arbitrage
+- derivatives-pricing
+- no-arbitrage
+- risk-management
+- theta
 aliases:
-  - Exercise 3.1
-  - Exercise 3.2
-  - Exercise 3.3
-  - Exercise 3.4
+- Exercise 3.1
+- Exercise 3.2
+- Exercise 3.3
+- Exercise 3.4
 key_concepts:
-  - Law of One Price
-  - arbitrage-free market
-  - market complete
-  - no-arbitrage price
-  - one-period model
-  - risk-free asset
-  - risk-free dividend
+- Arbitrage opportunities and no-arbitrage pricing
+- Options Greeks and sensitivity analysis
 ---
 
 # 3.8 Exercises  

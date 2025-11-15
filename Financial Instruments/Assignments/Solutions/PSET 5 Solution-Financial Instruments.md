@@ -1,30 +1,45 @@
 ---
-linter-yaml-title-alias: PSET 5 Financial Instruments
-title: PSET 5 Financial Instruments
-tags:
-  - binomial_tree
-  - convexity
-  - delta_hedging
-  - financial_instruments
-  - option_payoff
-  - option_pricing
-  - replicating_portfolio
-  - self_financing
-  - stock_price
 aliases:
-  - Binomial Tree
-  - Homework 5
-  - PSET 5
-  - Replicating Portfolio
+- Binomial Tree
+- Homework 5
+- PSET 5
+- Replicating Portfolio
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-2c2cf2
 key_concepts:
-  - Convex relationship
-  - Multi-period binomial tree
-  - Option payoff computation
-  - Portfolio P&L
-  - Portfolio value calculation
-  - Replicating portfolio setup
-  - Self-financing portfolio
-  - Stock price tree
+- Black-Scholes model and option pricing theory
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+linter-yaml-title-alias: PSET 5 Financial Instruments
+tags:
+- binomial
+- black-scholes
+- bonds
+- capm
+- convexity
+- correlation
+- credit-risk
+- delta
+- delta-hedging
+- derivatives-pricing
+- duration
+- fixed_income
+- gamma
+- greeks
+- hedging
+- options
+- replication
+- risk-management
+- theta
+- vega
+- zero-coupon
+title: PSET 5 Financial Instruments
 ---
 
 ### Financial Instruments Winter

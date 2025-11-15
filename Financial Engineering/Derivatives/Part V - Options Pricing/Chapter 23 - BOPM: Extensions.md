@@ -1,21 +1,108 @@
 ---
-tags:
-  - american_options
-  - binomial_tree
-  - bopm
-  - continuous_dividends
-  - european_options
 aliases:
-  - American put pricing
-  - BOPM extensions
-  - Binomial option pricing
+- American put pricing
+- BOPM extensions
+- Binomial option pricing
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-857d64
 key_concepts:
-  - American option pricing
-  - Binomial approach
-  - Continuous dividend
-  - Early exercise
-  - Path-dependent options
+- Cox-Ross-Rubinstein parameter specification
+- Extensions to multi-factor CAPM models
+- Term structure of interest rates and yield curve shapes
+- Treasury Futures
+- Duration and convexity analysis for bond portfolio management
+- Active portfolio management and performance attribution
+- Mean-variance optimization and the efficient frontier
+- Computational implementation of binomial option pricing
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Path-dependent options
+- maturity date in CDS
+- Commodity markets and pricing dynamics
+- Risk budgeting and portfolio construction techniques
+- Capital Asset Pricing Model and beta estimation
+- Expectations hypothesis and liquidity preference theory
+- Early exercise
+- Capital Asset Pricing Model and expected returns
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- CDS clearing and central counterparties
+- forward commitments and hedging
+- CDS-Bond basis and arbitrrage opportunities
+- Spot rates vs. forward rates modeling
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- Monte Carlo integration and variance reduction
+- Fixed-for-floating swap cash flows and valuation
+- Arbitrage Pricing Theory and multifactor models
+- Security Market Line and beta measurement
+- Control variates and importance sampling techniques
+- International arbitrage and covered interest rate parity
+- Binomial approach
+- Dividend Policy
+- Arbitrage opportunities and risk-free profit extraction
+- Interest rate swap pricing and valuation
+- Credit default swap pricing and risk-neutral probabilities
+- ESG integration in portfolio management
+- present value and discounting methods
+- Variance swaps and volatility trading strategies
+- Convergence of binomial model to Black-Scholes solution
+- Binomial option pricing model with multiple time steps
+- Delta hedging strategies in options portfolio management
+- American option pricing
+- risk measurement and management
+- Shadow banking system and regulatory arbitrage
+- American option pricing in binomial trees
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Parallel and non-parallel shifts in the yield curve
+- Cross-currency basis swaps and funding
+- Continuous dividend
+- Currency hedging strategies for global portfolios
+- Market portfolio and risk-free rate assumptions
+- Empirical tests and anomalies in CAPM
+tags:
+- yield-curve
+- european_options
+- binomial-model
+- treasury-futures
+- commodities
+- credit-default-swaps
+- dividend-policy
+- collateralized-debt-obligations
+- interest-rate-swaps
+- mathematical-finance
+- capm
+- var
+- shadow-banking
+- bopm
+- apt
+- case-study
+- greeks
+- black-scholes-model
+- value-at-risk
+- factor-models
+- exchange-rates
+- bond-futures
+- credit-risk
+- european-options
+- duration-convexity
+- quantitative-implementation
+- solution
+- treasury-bonds
+- american-options
+- exchange-rate
+- arbitrage
+- binomial_tree
+- exotic-options
+- continuous_dividends
+- delta-hedging
+- dcf-valuation
+- american_options
+- monte-carlo
 ---
+
 # BOPM: Extensions  
 
 # Aims  

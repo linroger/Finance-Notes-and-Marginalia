@@ -1,22 +1,14 @@
 ---
 title: Risk Management Lessons From Class Note 13 The LTCM Meltdown | Long Term Capital
   Management]]
-tags:
-  - financial_crisis
-  - ltcm_meltdown
-  - market_risk
-  - risk_management
-  - trading_strategies
+tags: []
 aliases:
-  - LTCM
-  - LTCM Meltdown
-  - Long Term Capital Management
+- LTCM
+- LTCM Meltdown
+- Long Term Capital Management
 key_concepts:
-  - Hedge fund strategies
-  - LTCM collapse
-  - Leverage and risk
-  - Market volatility
-  - Risk management failures
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
 ---
 
 # Risk Management Lessons From Long Term Capital Management

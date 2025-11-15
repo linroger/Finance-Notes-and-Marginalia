@@ -1,44 +1,68 @@
 ---
-title: Lecture 7 - Risk and Return of Bonds
-cssclasses:
-  - academia
-  - finance
-tags:
-  - default_free_bonds
-  - fixed_income
-  - treasury_bonds
-  - yield_to_maturity
-  - zero_coupon_bonds
-  - yield_curve
-  - expectations_hypothesis
-  - monetary_policy
-  - bond_stock_correlation
-  - term_structure
-  - interest_rate_risk
-  - duration
-  - taylor_rule
-  - business_cycle
 aliases:
-  - Nominal Bonds
-  - Risk and Return
-  - Bond Risk Analysis
-  - Fixed Income Risk
+- Nominal Bonds
+- Risk and Return
+- Bond Risk Analysis
+- Fixed Income Risk
+cssclasses:
+- academia
+- finance
 key_concepts:
-  - Default-free bonds
-  - Fixed-income instruments
-  - U.S. Treasury bonds
-  - Yield to maturity
-  - Zero-coupon bonds
-  - Yield curve factors (level, slope, curvature)
-  - Expectations hypothesis
-  - Bond duration
-  - Bond-stock beta correlation
-  - Monetary policy transmission
-  - Taylor rule
-  - Predictability of bond returns
-  - Asset allocation with bonds
-  - Fed put phenomenon
+- Default-free bonds
+- Fixed-income instruments
+- U.S. Treasury bonds
+- Yield to maturity
+- Zero-coupon bonds
+- Yield curve factors (level, slope, curvature)
+- Expectations hypothesis
+- Bond duration
+- Bond-stock beta correlation
+- Monetary policy transmission
+- Taylor rule
+- Predictability of bond returns
+- Asset allocation with bonds
+- Fed put phenomenon
+- risk measurement and management
+- fixed income risk measurement
+- forward commitments and hedging
+- systematic risk and market exposure
+- risk-adjusted performance measurement
+- present value and discounting methods
+- zero-coupon bond pricing and yields
+- coupon-bearing bond analysis
+- reserve account for credit support
+- maturity date in CDS
+- Delta hedging strategies in options portfolio management
+- Duration and convexity analysis for bond portfolio management
+- Credit risk modeling and portfolio correlation analysis
+- Mean-variance optimization and the efficient frontier
+- Capital Asset Pricing Model and beta estimation
+- Arbitrage Pricing Theory and multifactor models
+tags:
+- arbitrage
+- asset-allocation
+- banking
+- bond-pricing
+- corporate-bonds
+- duration
+- expectations_hypothesis
+- fed-funds
+- financial-crisis
+- interest_rate_risk
+- monetary-policy
+- monetary_policy
+- private-equity
+- quantitative-easing
+- sovereign-default
+- time-series
+- treasury-bonds
+- treasury-futures
+- var
+- yield-curve
+title: Lecture 7 - Risk and Return of Bonds
 ---
+
+
 # Lecture 7 - Risk and Return of Bonds
 
 Our goal in this session is to better understand the risk and return properties of fixed-income instruments such as U.S. Treasury bonds. $^{1}$ For now, we focus on default-free bonds, i.e., we assume that the cash flows (coupons and principal) that the bonds promise to pay will be paid for sure. More precisely, we will for now focus on nominal default-free bonds, which are bonds that promise a fixed stream of dollar cash flows that are not adjusted for inflation. For example, if you buy a nominal bond default-free bond today that matures 10 years from now, you will know for sure how many dollars of principal payment you will get back at the maturity date, but you don't know the purchasing power this dollar cash flow will have at the maturity date.

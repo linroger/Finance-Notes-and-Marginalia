@@ -1,22 +1,59 @@
 ---
 LLM-tagged: 2025-03-10 14:08:59.601000+00:00
-cssclasses:
-  - academia
-tags:
-  - bootstrapping
-  - cash_flow_matrices
-  - nelson_siegel
-  - risk_management
-  - yield_curve
 aliases:
-  - Yield Curve Analysis
-  - Yield Curve Extraction
+- Yield Curve Analysis
+- Yield Curve Extraction
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-04f149
 key_concepts:
-  - Bootstrapping method
-  - Cash flow matrices
-  - Market data analysis
-  - Nelson-Siegel interpolation
-  - Yield curve extraction methods
+- Apt
+- Term structure of interest rates
+- Term structure of interest rates and yield curve shapes
+- Cash flow matrices
+- Bootstrapping method
+- Expectations hypothesis and liquidity preference theory
+- Solution
+- Yield curve fitting and interpolation methods
+- Interest rate modeling
+- Portfolio immunization strategies
+- Mathematical Finance
+- Spot rates vs. forward rates modeling
+- Infrastructure investment and project finance
+- Key rate duration and curve risk
+- Course Material
+- Yield curve extraction methods
+- Case Study
+- Bond pricing and yield analysis
+- Market data analysis
+- Quantitative Implementation
+- Nelson-Siegel interpolation
+- Parallel and non-parallel shifts in the yield curve
+- Duration and convexity measures for bond portfolios
+- Price sensitivity to interest rate changes
+- Modified duration vs. Macaulay duration
+- Duration and convexity
+tags:
+- yield_curve
+- duration-convexity
+- bootstrapping
+- quantitative-implementation
+- solution
+- case-study
+- apt
+- bonds
+- yield-curve
+- model-calibration
+- nelson_siegel
+- risk_management
+- cash_flow_matrices
+- interest_rates
+- mathematical-finance
+- course-material
+- infrastructure
+- calibration
 ---
 
 ## Step 1: Provide an overview of the yield curve extraction methods

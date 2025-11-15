@@ -1,32 +1,108 @@
 ---
-title: Warren Buffett Case Study
-cssclasses:
-  - academia
-tags:
-  - acquisition
-  - berkshire_hathaway
-  - precision_castparts
-  - value_investing
-  - warren_buffett
-  - investment_philosophy
-  - intrinsic_value
-  - long_term_investing
 aliases:
-  - Buffett
-  - PCP
-  - Buffett's Investment Approach
-  - Berkshire Acquisition Strategy
+- Buffett
+- PCP
+- Buffett's Investment Approach
+- Berkshire Acquisition Strategy
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-5d73ea
 key_concepts:
-  - Berkshire Hathaway acquisition strategy
-  - Berkshire Hathaway company history
-  - Buffett's investment philosophy
-  - Economic reality vs accounting reality
-  - Intrinsic value calculation
-  - Market efficiency critique
-  - Opportunity cost analysis
-  - PCP acquisition valuation
-  - Time value of money
-  - Value-based investing principles
+- Carry trades and momentum in FX markets
+- Extensions to multi-factor CAPM models
+- Working Capital
+- Value-based investing principles
+- Duration and convexity analysis for bond portfolio management
+- Active portfolio management and performance attribution
+- Option Greeks and portfolio risk management
+- Capital Asset Pricing Model and beta estimation
+- Risk budgeting and portfolio construction techniques
+- Capital Asset Pricing Model and expected returns
+- Historical simulation vs. parametric VaR models
+- portfolio theory and asset pricing
+- Vega and volatility risk management
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- Monte Carlo VaR for complex portfolios
+- Market portfolio and risk-free rate assumptions
+- Stress testing and scenario analysis
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Security Market Line and beta measurement
+- Buffett's investment philosophy
+- Time value of money
+- Value at Risk (VaR) methodologies and backtesting
+- Theta and time decay modeling
+- Forward rates and interest rate parity
+- Currency risk management and hedging
+- Case Study
+- Exchange rate determination and PPP theory
+- Generally Accepted Accounting Principles
+- Interest rate swap pricing and valuation
+- Expected Shortfall and coherent risk measures
+- ESG integration in portfolio management
+- present value and discounting methods
+- Variance swaps and volatility trading strategies
+- Berkshire Hathaway company history
+- Delta hedging strategies in options portfolio management
+- systematic risk and market exposure
+- Gamma and convexity adjustments
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Delta hedging and the replication argument
+- Market efficiency critique
+- Cross-currency basis swaps and funding
+- PCP acquisition valuation
+- Currency hedging strategies for global portfolios
+- Berkshire Hathaway acquisition strategy
+- Economic reality vs accounting reality
+- Opportunity cost analysis
+- Intrinsic value calculation
+- Currency markets and foreign exchange trading
+- Empirical tests and anomalies in CAPM
+tags:
+- ebit
+- market-efficiency
+- acquisition
+- capm
+- case-study
+- value_investing
+- value-at-risk
+- credit-risk
+- efficient-market
+- duration-convexity
+- solution
+- wacc
+- depreciation
+- cost-of-capital
+- precision_castparts
+- enterprise-value
+- income-statement
+- long_term_investing
+- working-capital
+- warren_buffett
+- garch-models
+- interest-rate-swaps
+- capital-asset-pricing-model
+- mathematical-finance
+- balance-sheet
+- course-material
+- greeks
+- exchange-rates
+- net-income
+- investment_philosophy
+- ebitda
+- momentum-strategies
+- quantitative-implementation
+- treasury-bonds
+- return-on-equity
+- exotic-options
+- dcf-valuation
+- gaap
+title: Warren Buffett Case Study
 ---
 
 # Warren E. Buffett, 2015  

@@ -1,3 +1,77 @@
+---
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-a4954d
+key_concepts:
+- Apt
+- Extensions to multi-factor CAPM models
+- Collateralized Debt Obligations
+- Option Greeks and portfolio risk management
+- Commodity markets and pricing dynamics
+- Capital Asset Pricing Model and expected returns
+- Historical simulation vs. parametric VaR models
+- Vega and volatility risk management
+- Value at risk and stress testing
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- Monte Carlo VaR for complex portfolios
+- Liquidity and price discovery
+- Market portfolio and risk-free rate assumptions
+- Stress testing and scenario analysis
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Security Market Line and beta measurement
+- Forward rates and interest rate parity
+- Value at Risk (VaR) methodologies and backtesting
+- Theta and time decay modeling
+- Portfolio risk metrics
+- Case Study
+- Exchange rate determination and PPP theory
+- Interest rate swap pricing and valuation
+- Expected Shortfall and coherent risk measures
+- Market microstructure and trading
+- Variance swaps and volatility trading strategies
+- Bond pricing and yield analysis
+- Gamma and convexity adjustments
+- Delta hedging and the replication argument
+- Cross-currency basis swaps and funding
+- Delta hedging and Greeks
+- Duration and convexity
+- Options pricing and payoff structures
+- Currency markets and foreign exchange trading
+- Empirical tests and anomalies in CAPM
+tags:
+- quantitative-implementation
+- duration-convexity
+- solution
+- commodities
+- treasury-bonds
+- collateralized-debt-obligations
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- stress-testing
+- trading
+- course-material
+- infrastructure
+- capm
+- exotic-options
+- case-study
+- apt
+- bonds
+- portfolio-theory
+- greeks
+- risk_management
+- value-at-risk
+- regulatory-framework
+- exchange-rates
+- harvard-business-review
+- municipal-bonds
+- options
+- hull-white-model
+---
+
 # **Chapter 3**
 
 # **Comparative Advantage, Competitiveness, and the Terms of Trade**

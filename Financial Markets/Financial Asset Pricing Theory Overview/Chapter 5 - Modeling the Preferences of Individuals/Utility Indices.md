@@ -1,22 +1,14 @@
 ---
 tags:
-  - archimedean_axiom
-  - continuity_property
-  - monotonicity
-  - preference_relation
-  - utility_index
+- arch
+- cir
 aliases:
-  - Axiom 5.1
-  - Axiom 5.2
-  - Preference
-  - Utility Index
+- Axiom 5.1
+- Axiom 5.2
+- Preference
+- Utility Index
 key_concepts:
-  - Archimedean axiom
-  - Continuity property preference
-  - Monotonicity axiom
-  - Preference relation
-  - Strictly increasing transformation
-  - Utility index function
+- 'Short-rate models: Vasicek, CIR, and mean reversion'
 ---
 
 # 5.3 Utility indices  

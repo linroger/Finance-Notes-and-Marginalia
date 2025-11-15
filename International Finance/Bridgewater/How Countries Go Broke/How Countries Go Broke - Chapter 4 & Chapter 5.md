@@ -1,22 +1,103 @@
 ---
-tags:
-  - archetypical_sequence
-  - central_bank
-  - debt_crisis
-  - fiat_currency
-  - hard_currency
-  - how_countries_go_broke
 aliases:
-  - Central Governments
-  - Chapter 4
-  - Chapter 5
-  - Debt Crises
+- Central Governments
+- Chapter 4
+- Chapter 5
+- Debt Crises
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-662acf
 key_concepts:
-  - Archetypical process details
-  - Central banks going broke
-  - Debt crises sequence
-  - Fiat monetary system
-  - Hard vs. fiat money
+- Apt
+- Term structure of interest rates and yield curve shapes
+- Working Capital
+- Stochastic calculus in financial modeling
+- Option Greeks and portfolio risk management
+- Commodity markets and pricing dynamics
+- Currency derivatives
+- Expectations hypothesis and liquidity preference theory
+- Historical simulation vs. parametric VaR models
+- Default probability estimation
+- Interest rate modeling
+- Yield curve fitting and interpolation methods
+- Vega and volatility risk management
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- Foreign exchange markets
+- Hard vs. fiat money
+- Liquidity and price discovery
+- Monte Carlo VaR for complex portfolios
+- Stress testing and scenario analysis
+- Debt crises sequence
+- Equity valuation and analysis
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Value at Risk (VaR) methodologies and backtesting
+- Theta and time decay modeling
+- Case Study
+- Exchange rate determination and PPP theory
+- Balance Of Payments
+- Interest rate swap pricing and valuation
+- Expected Shortfall and coherent risk measures
+- Archetypical process details
+- Market microstructure and trading
+- Central banks going broke
+- Variance swaps and volatility trading strategies
+- Fiat monetary system
+- Derivatives pricing theory
+- Bond pricing and yield analysis
+- Gamma and convexity adjustments
+- Risk-neutral valuation
+- Delta hedging and the replication argument
+- Parallel and non-parallel shifts in the yield curve
+- Credit risk modeling
+- Cross-currency basis swaps and funding
+- Delta hedging and Greeks
+- Duration and convexity
+- Options pricing and payoff structures
+- Dividend discount models
+tags:
+- yield-curve
+- fx
+- working-capital
+- commodities
+- balance-of-payments
+- stochastic-calculus
+- debt_crisis
+- derivatives
+- garch-models
+- interest-rate-swaps
+- hard_currency
+- mathematical-finance
+- trading
+- course-material
+- case-study
+- apt
+- bonds
+- greeks
+- fiat_currency
+- value-at-risk
+- exchange-rates
+- deleveraging
+- valuation
+- central_bank
+- credit-risk
+- quantitative-implementation
+- duration-convexity
+- solution
+- treasury-bonds
+- equity
+- interest_rates
+- stochastic_calculus
+- corporate-bonds
+- exotic-options
+- how_countries_go_broke
+- distressed-debt
+- credit
+- regulatory-framework
+- harvard-business-review
 ---
 
 ## Part 2: The Archetypical Sequence Leading to Central Governments and Central Banks Going Broke

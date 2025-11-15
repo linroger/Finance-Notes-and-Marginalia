@@ -1,21 +1,33 @@
 ---
-title: A Strategic Perspective On Bankruptcy
-tags:
-  - bankruptcy
-  - chapter_11
-  - creditors
-  - financial_distress
-  - reorganization
 aliases:
-  - Bankruptcy Strategy
-  - Strategic Bankruptcy
+- Bankruptcy Strategy
+- Strategic Bankruptcy
 key_concepts:
-  - Chapter 11 bankruptcy code
-  - Company financial obligations
-  - Court-supervised reorganization
-  - Financial distress causes
-  - Out-of-court reorganization
+- Risk-neutral measures and martingale pricing
+- 'Short-rate models: Vasicek, CIR, and mean reversion'
+- Ito's lemma and stochastic calculus applications
+- Monte Carlo simulation for derivatives valuation
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+tags:
+- apt
+- arbitrage
+- arch
+- cir
+- correlation
+- credit-risk
+- hedging
+- options
+- risk-management
+- risk-neutral
+- var
+title: A Strategic Perspective On Bankruptcy
 ---
+
 
 # A Strategic Perspective On Bankruptcy
 

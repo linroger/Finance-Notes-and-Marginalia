@@ -1,22 +1,81 @@
 ---
-title: American Option Pricing with QuantLib and Python
-source: http://gouthamanbalaraman.com/blog/american-option-pricing-quantlib-python.html
-description: This post explains valuing American Options using QuantLib and Python
-tags:
-  - american_option_pricing
-  - binomial_engine
-  - european_option
-  - python
-  - quantlib
 aliases:
-  - AAPL Option Pricing
-  - Option Valuation
+- AAPL Option Pricing
+- Option Valuation
+description: This post explains valuing American Options using QuantLib and Python
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-f01262
 key_concepts:
-  - American option valuation
-  - Binomial tree approach
-  - Black-Scholes-Merton process
-  - European option pricing
-  - QuantLib and Python
+- European Options
+- Cox-Ross-Rubinstein parameter specification
+- Term structure of interest rates and yield curve shapes
+- American Options
+- Risk assessment and management
+- Computational implementation of binomial option pricing
+- Binomial option pricing model for American-style options
+- Expectations hypothesis and liquidity preference theory
+- Mathematical derivation of the Black-Scholes partial differential equation
+- Solution
+- Historical simulation vs. parametric VaR models
+- Discounted Cash Flow valuation methodology
+- Yield curve fitting and interpolation methods
+- option pricing models and PDE solutions
+- Mathematical Finance
+- Black-Scholes partial differential equation and its boundary conditions
+- Spot rates vs. forward rates modeling
+- European option pricing
+- Monte Carlo VaR for complex portfolios
+- Stress testing and scenario analysis
+- Portfolio optimization and asset allocation
+- Black-Scholes-Merton process
+- Value at Risk (VaR) methodologies and backtesting
+- QuantLib and Python
+- Case Study
+- Quantitative analysis and modeling
+- Dividend Policy
+- Expected Shortfall and coherent risk measures
+- excess returns and manager skill
+- Risk-neutral valuation in continuous time models
+- American option valuation
+- Convergence of binomial model to Black-Scholes solution
+- Binomial option pricing model with multiple time steps
+- Fixed income analysis and term structure
+- Free cash flow to equity and firm valuation
+- Boundary conditions and parameter interpretation in Black-Scholes model
+- Limitations and extensions of the Black-Scholes framework
+- Derivatives pricing and hedging strategies
+- Terminal value estimation and perpetuity growth
+- American option pricing in binomial trees
+- Financial markets and instruments
+- Quantitative Implementation
+- Binomial tree approach
+- Parallel and non-parallel shifts in the yield curve
+- Black-Scholes-Merton option pricing model and its applications
+source: http://gouthamanbalaraman.com/blog/american-option-pricing-quantlib-python.html
+tags:
+- yield-curve
+- python
+- binomial-model
+- dividend-policy
+- american_option_pricing
+- mathematical-finance
+- european_option
+- financial-modeling
+- case-study
+- black-scholes-model
+- value-at-risk
+- exchange-rates
+- european-options
+- quantitative-implementation
+- solution
+- american-options
+- option-pricing
+- binomial_engine
+- quantitative-finance
+- dcf-valuation
+- quantlib
+title: American Option Pricing with QuantLib and Python
 ---
 
 # American Option Pricing with QuantLib and Python

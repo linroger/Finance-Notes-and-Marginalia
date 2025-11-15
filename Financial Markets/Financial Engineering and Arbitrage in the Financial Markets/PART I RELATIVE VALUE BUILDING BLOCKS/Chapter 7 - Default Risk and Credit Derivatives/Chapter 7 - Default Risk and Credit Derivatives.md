@@ -1,3 +1,34 @@
+---
+key_concepts:
+- Credit risk modeling
+- Default probability estimation
+- Fixed income securities
+- Interest rate derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Derivatives pricing theory
+- Risk-neutral valuation
+- Alternative investment strategies
+- Hedge fund replication
+- Arbitrage theory and practice
+- Law of one price
+tags:
+- credit
+- fixed_income
+- trading
+- bonds
+- swaps
+- cds
+- derivatives
+- hedge_funds
+- arbitrage
+---
 %% Begin Waypoint %%
 - **Chapter 7 - Default Risk and Credit Derivatives**
 	- A Constant Default Probability Model

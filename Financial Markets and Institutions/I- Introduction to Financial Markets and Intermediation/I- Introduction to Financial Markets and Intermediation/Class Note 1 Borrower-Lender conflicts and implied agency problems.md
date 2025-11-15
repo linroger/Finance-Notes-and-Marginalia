@@ -1,33 +1,24 @@
 ---
-cssclasses: academia
-title: Class Note 1 Borrower-Lender Conflicts and Implied Agency Problems
-tags:
-  - agency_problems
-  - asset_services
-  - bond_covenants
-  - borrower_lender_conflicts
-  - capital_markets
-  - debt_incentives
-  - asset_substitution
-  - leverage_effects
-  - capital_structure
-  - moral_hazard
 aliases:
-  - Borrower-Lender Conflicts
-  - Debt and Incentives  
-  - Asset Substitution Theory
+- Borrower-Lender Conflicts
+- Debt and Incentives
+- Asset Substitution Theory
+cssclasses: academia
 key_concepts:
-  - Asset services reduce bad effects
-  - Bond covenants and borrower behavior
-  - Debt common for smaller firms
-  - Debt distorts capital budgeting
-  - Incentives of equity holders
-  - Risky debt and lender advantage
-  - Leverage impact on incentives
-  - Perverse incentive effects
-  - Debt capacity calculation
-  - Covenant enforcement problems
+- Bond pricing and fixed income securities valuation
+- Ito's lemma and stochastic calculus applications
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Interest rate swaps and term structure modeling
+- Interest rate caps, floors, and swaptions
+tags:
+- bonds
+- correlation
+- credit-risk
+- fixed_income
+title: Class Note 1 Borrower-Lender Conflicts and Implied Agency Problems
 ---
+
 
 # Class Note 1 Borrower-Lender Conflicts and Implied Agency Problems
 

@@ -1,22 +1,13 @@
 ---
 cssclasses:
-  - academia
+- academia
 title: Continental Illinois Case(1)
-tags:
-  - bank_failure
-  - banking_regulation
-  - continental_illinois_case
-  - corporate_governance
-  - financial_crisis
+tags: []
 aliases:
-  - Conti Bank
-  - Continental Illinois
+- Conti Bank
+- Continental Illinois
 key_concepts:
-  - Bank failure
-  - Bank restructuring
-  - Corporate governance issues
-  - Financial crisis impact
-  - Regulatory response
+- Ito's lemma and stochastic calculus applications
 ---
 
 # Continental Illinois Case(1)

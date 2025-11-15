@@ -1,23 +1,60 @@
 ---
-tags:
-  - convertible_bonds
-  - equity_play
-  - ocns
-  - quanto_note
-  - volatility
-  - zero_coupon_bonds
 aliases:
-  - Convertible Quanto Note
-  - OCNs
-  - Optional Convertible Notes
+- Convertible Quanto Note
+- OCNs
+- Optional Convertible Notes
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-2b6e31
 key_concepts:
-  - Downside market protection
-  - Equity play with protection
-  - Exposure to company equity
-  - High upside potential
-  - Implicit yield and trade
-  - No foreign exchange risk
-  - Zero-coupon convertible bonds
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Partial differential equations in financial modeling
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- apt
+- arbitrage
+- arch
+- binomial
+- black-scholes
+- bonds
+- caps
+- cds
+- convexity
+- corporate-bonds
+- correlation
+- credit-default-swaps
+- credit-risk
+- delta
+- derivatives-pricing
+- factor-models
+- fixed_income
+- fx
+- gamma
+- garch
+- greeks
+- hedging
+- interest-rate-swaps
+- pde
+- replication
+- risk-management
+- risk-neutral
+- swaps
+- theta
+- var
+- vega
+- zero-coupon
 ---
 
 # [](../1.%20DeterministicCashFlows.md#2%20Fixed%20Income%20Securities | Zero-coupon) convertible bonds

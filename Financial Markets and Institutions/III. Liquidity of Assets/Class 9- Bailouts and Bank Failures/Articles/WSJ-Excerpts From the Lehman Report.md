@@ -1,29 +1,17 @@
 ---
 linter-yaml-title-alias: Excerpts From the Lehman Report
 title: Excerpts From the Lehman Report
-tags:
-  - accounting_issues
-  - balance_sheet_management
-  - citi_bank
-  - collateral_demands
-  - colorable_claims
-  - financial_disclosure
-  - guaranty_agreements
-  - jpmorgan_chase
-  - lehman_brothers
-  - whistleblower_letter
+tags: []
 aliases:
-  - 105 transactions
-  - J.P. Morgan
-  - Lehman report highlights
-  - Matthew Lee letter
-  - WSJ excerpts
+- 105 transactions
+- J.P. Morgan
+- Lehman report highlights
+- Matthew Lee letter
+- WSJ excerpts
 key_concepts:
-  - 105 accounting device
-  - Colorable claims against executives
-  - JPMorgan Chase demands collateral
-  - Lehman Brothers collapse report
-  - Whistleblower letter details
+- Ito's lemma and stochastic calculus applications
+- Credit risk modeling and default probability estimation
+- Interest rate caps, floors, and swaptions
 ---
 
 # WSJ-Excerpts From the Lehman Report

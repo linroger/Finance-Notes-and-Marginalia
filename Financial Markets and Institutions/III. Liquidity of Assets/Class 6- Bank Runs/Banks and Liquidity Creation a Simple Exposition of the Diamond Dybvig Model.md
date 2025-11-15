@@ -1,38 +1,40 @@
 ---
-cssclasses:
-  - academia
-title: "Banks and Liquidity Creation: A Simple Exposition of the Diamond-Dybvig Model"
-linter-yaml-title-alias: "Banks and Liquidity Creation: A Simple Exposition of the Diamond-Dybvig Model"
-tags:
-  - bank_liquidity
-  - bank_runs
-  - demand_deposits
-  - diamond_dybvig_model
-  - financial_crises
-  - liquidity_creation
-  - deposit_insurance
-  - bank_panics
-  - maturity_transformation
-  - systemic_risk
 aliases:
-  - "Bank Runs"
-  - "Diamond-Dybvig"
-  - "Liquidity Creation"
-  - "Diamond-Dybvig Model"
+- Bank Runs
+- Diamond-Dybvig
+- Liquidity Creation
+- Diamond-Dybvig Model
+cssclasses:
+- academia
 key_concepts:
-  - Bank run prevention mechanisms
-  - Banks create liquidity through maturity transformation
-  - Demand for liquid assets by consumers
-  - Deposit insurance as run prevention
-  - Illiquid asset valuation and early liquidation
-  - Self-fulfilling prophecies in banking
-  - Multiple equilibria and coordination failures
-  - Suspension of convertibility
-  - Risk-sharing through deposit contracts
-  - Entrepreneurial liquidity demand
-  - Nash equilibrium in bank runs
-  - Government guarantees and taxation authority
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Ito's lemma and stochastic calculus applications
+- Credit risk modeling and default probability estimation
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+linter-yaml-title-alias: 'Banks and Liquidity Creation: A Simple Exposition of the
+  Diamond-Dybvig Model'
+tags:
+- arbitrage
+- convexity
+- correlation
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- fixed_income
+- gamma
+- hedging
+- options
+- risk-management
+- risk-neutral
+title: 'Banks and Liquidity Creation: A Simple Exposition of the Diamond-Dybvig Model'
 ---
+
 
 # Banks and Liquidity Creation: A Simple Exposition of the Diamond-Dybvig Model
 

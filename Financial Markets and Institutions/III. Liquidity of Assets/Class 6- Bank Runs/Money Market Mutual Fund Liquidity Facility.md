@@ -1,35 +1,32 @@
 ---
-cssclasses:
-  - academia
-title: "Money Market Mutual Fund Liquidity Facility"
-linter-yaml-title-alias: "Money Market Mutual Fund Liquidity Facility"
-tags:
-  - collateral
-  - eligible_collateral
-  - federal_reserve
-  - liquidity_facility
-  - money_market_funds
-  - financial_crisis_2008
-  - emergency_lending
-  - central_banking
-  - market_stability
 aliases:
-  - MMLF
-  - MMMF Liquidity Facility
-  - Money Market Facility
-  - "Money Market Fund Liquidity Facility"
+- MMLF
+- MMMF Liquidity Facility
+- Money Market Facility
+- Money Market Fund Liquidity Facility
+cssclasses:
+- academia
 key_concepts:
-  - Borrower eligibility criteria
-  - Eligible borrowers and assets
-  - Eligible collateral types
-  - Facility opening date
-  - Provide liquidity to Funds
-  - Federal Reserve emergency facilities
-  - Asset-backed commercial paper
-  - Bank lending to MMFs
-  - Market stabilization measures
-  - Crisis intervention tools
+- Risk-neutral measures and martingale pricing
+- Ito's lemma and stochastic calculus applications
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Portfolio hedging and risk reduction strategies
+linter-yaml-title-alias: Money Market Mutual Fund Liquidity Facility
+tags:
+- arch
+- cds
+- correlation
+- credit-risk
+- hedging
+- risk-management
+- risk-neutral
+- var
+title: Money Market Mutual Fund Liquidity Facility
 ---
+
 
 # Money Market Mutual Fund Liquidity Facility
 

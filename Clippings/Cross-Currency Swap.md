@@ -1,3 +1,48 @@
+---
+key_concepts:
+- interest rate and currency derivatives
+- liquidity measurement and management
+- fair value measurement and hierarchy
+- maturity date in CDS
+- Risk-neutral pricing methodology for derivative securities
+- DV01 calculation and interest rate risk hedging
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk migration matrices and rating transition
+- Value-at-Risk calculation using historical simulation
+- Expected Shortfall and coherent risk measures
+- Backtesting procedures for risk models
+- Extreme value theory and tail risk modeling
+- Liquidity risk measurement and management
+- Operational risk quantification and modeling
+- Systemic risk indicators and early warning systems
+- Mean-variance optimization and the efficient frontier
+- Arbitrage Pricing Theory and multifactor models
+- Risk budgeting and portfolio construction techniques
+- Credit risk assessment and loan portfolio management
+- Bank liquidity ratios and funding risk management
+- Deposit insurance and systemic risk prevention
+- Shadow banking system and regulatory arbitrage
+- Arbitrage opportunities and risk-free profit extraction
+- Monte Carlo integration and variance reduction
+- Control variates and importance sampling techniques
+- International arbitrage and covered interest rate parity
+- Sovereign risk assessment and country analysis
+- Global financial stability and systemic risk monitoring
+- interest rate and currency derivatives
+- liquidity measurement and management
+tags:
+- arbitrage
+- counterparty-risk
+- cross-currency-swaps
+- currency-risk
+- currency-swaps
+- exchange-rate
+- financial-analysis
+- financial-modeling
+- quantitative-finance
+- sofr
+---
+
  
 source: https://www.investopedia.com/terms/c/cross-currency-swap.asp
 description: A cross-currency swap is an agreement between two parties to exchange

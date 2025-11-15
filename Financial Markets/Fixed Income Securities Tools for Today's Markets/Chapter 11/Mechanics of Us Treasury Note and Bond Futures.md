@@ -1,20 +1,41 @@
 ---
-tags:
-  - bond_futures
-  - delivery_options
-  - quality_option
-  - timing_option
-  - treasury_futures
 aliases:
-  - TYU1
-  - Treasury Note Futures
-  - US Treasury Futures
+- TYU1
+- Treasury Note Futures
+- US Treasury Futures
 key_concepts:
-  - Conversion factors
-  - Daily settlement
-  - Deliverable basket
-  - Futures contract mechanics
-  - Quality and timing options
+- Conversion factors
+- Daily settlement
+- Deliverable basket
+- Futures contract mechanics
+- Quality and timing options
+- Fixed income securities
+- Interest rate derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Value at risk and stress testing
+- Portfolio risk metrics
+tags:
+- delivery_options
+- fixed_income
+- bond_futures
+- trading
+- bonds
+- futures
+- cds
+- options
+- risk_management
+- quality_option
+- treasury_futures
+- timing_option
 ---
 
 # 11.4 MECHANICS OF US TREASURY NOTE AND BOND FUTURES  

@@ -1,40 +1,68 @@
 ---
-cssclasses: academia
-title: "HBS Case Study: Citigroup 2007 - Financial Reporting and Regulatory Capital"
-date: 2023-10-15
-tags:
-  - financial_crisis_2007
-  - citigroup
-  - regulatory_capital
-  - financial_reporting
-  - tier_1_capital
-  - basel_regulations
-  - bank_capital_adequacy
-  - leverage_ratio
-  - subprime_mortgage_crisis
-  - fair_value_accounting
-  - securitization
-  - regulatory_requirements
-  - fdic_regulations
-  - risk_weighted_assets
-  - bank_supervision
 aliases:
-  - Citi 2007 Regulatory Capital Case
-  - Citigroup 2007 10-K Analysis
-  - Citi Financial Crisis Case Study
-  - Merando Citigroup Analysis
+- Citi 2007 Regulatory Capital Case
+- Citigroup 2007 10-K Analysis
+- Citi Financial Crisis Case Study
+- Merando Citigroup Analysis
+cssclasses: academia
+date: 2023-10-15
 key_concepts:
-  - Tier 1 capital ratio: Core capital divided by risk-weighted assets
-  - Regulatory capital: Capital required by Fed to offset credit, market, operational risks
-  - Risk-weighted assets: Assets multiplied by assigned risk weights
-  - Well-capitalized banks: 6% Tier 1, 10% total capital, 5% leverage ratio
-  - Capital adequacy: Minimum 4% Tier 1, 8% total capital, 3% leverage
-  - Fair value accounting: Mark-to-market valuation during crisis
-  - Subprime crisis: $18.1 billion write-off in Q4 2007
-  - Basel regulations: International banking supervision framework
-  - FDIC requirements: Federal deposit insurance standards
-  - Capital management framework: Citigroup's risk-based approach
+- Tier 1 capital ratio: Core capital divided by risk-weighted assets
+- Regulatory capital: Capital required by Fed to offset credit, market, operational
+    risks
+- Risk-weighted assets: Assets multiplied by assigned risk weights
+- Well-capitalized banks: 6% Tier 1, 10% total capital, 5% leverage ratio
+- Capital adequacy: Minimum 4% Tier 1, 8% total capital, 3% leverage
+- Fair value accounting: Mark-to-market valuation during crisis
+- Subprime crisis: $18.1 billion write-off in Q4 2007
+- Basel regulations: International banking supervision framework
+- FDIC requirements: Federal deposit insurance standards
+- Capital management framework: Citigroup's risk-based approach
+- forward commitments and hedging
+- asset transformation and structured finance
+- investment banking services and activities
+- commercial banking operations and management
+- regulatory capital requirements and buffers
+- Tier 1 capital and core equity requirements
+- leverage ratio calculation and monitoring
+- deposit insurance and protection systems
+- Federal Deposit Insurance Corporation
+- fair value measurement and hierarchy
+- Level 1 fair value hierarchy inputs
+- Level 2 fair value hierarchy inputs
+- Level 3 fair value hierarchy inputs
+- observable market inputs for valuation
+- unobservable inputs for valuation
+- present value and discounting methods
+- letter of credit credit support
+- Delta hedging strategies in options portfolio management
+- Duration and convexity analysis for bond portfolio management
+- Credit risk modeling and portfolio correlation analysis
+tags:
+- audit
+- balance-sheet
+- banking
+- capital-adequacy
+- cash-flow-statement
+- commercial-banking
+- financial-crisis
+- financial-reporting
+- hedge-funds
+- impairment
+- income-statement
+- investment-banking
+- leverage-ratio
+- liquidity-creation
+- private-equity
+- real-estate
+- securitization
+- structured-products
+- subprime-mortgage
+- tier-1-capital
+title: 'HBS Case Study: Citigroup 2007 - Financial Reporting and Regulatory Capital'
 ---
+
+
 
 ## Citigroup 2007: Financial Reporting and Regulatory Capital
 

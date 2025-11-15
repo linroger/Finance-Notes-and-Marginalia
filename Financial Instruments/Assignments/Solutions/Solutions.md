@@ -1,28 +1,24 @@
 ---
-title: Solutions
-tags:
-  - bonds
-  - credit_risk
-  - derivatives
-  - financial_analysis
-  - interest_rates
-  - market_risk
-  - options
-  - risk_management
-  - solutions
-  - valuation
 aliases: []
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-6d577f
 key_concepts:
-  - Bond valuation principles
-  - Credit risk analysis
-  - Derivatives pricing models
-  - Financial modeling techniques
-  - Financial solutions overview
-  - Interest rate risk
-  - Market risk management
-  - Option pricing models
-  - Risk management strategies
-  - Valuation methods explained
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Portfolio hedging and risk reduction strategies
+tags:
+- bonds
+- correlation
+- credit-risk
+- derivatives-markets
+- fixed_income
+- hedging
+- options
+- risk-management
+title: Solutions
 ---
 
 # Solutions

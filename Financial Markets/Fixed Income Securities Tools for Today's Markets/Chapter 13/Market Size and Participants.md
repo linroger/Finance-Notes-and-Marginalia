@@ -1,21 +1,46 @@
 ---
-tags:
-  - cftc
-  - fixed_income
-  - interest_rate_swaps
-  - market_size
-  - swap_dealers
 aliases:
-  - ENN
-  - IRS market
-  - five-year equivalent
-  - notional amount
+- ENN
+- IRS market
+- five-year equivalent
+- notional amount
 key_concepts:
-  - CFTC reporting entities
-  - Entity-netted notionals (ENNs)
-  - Five-year equivalent notional
-  - Interest rate swap products
-  - Long and short positions
+- CFTC reporting entities
+- Entity-netted notionals (ENNs)
+- Five-year equivalent notional
+- Interest rate swap products
+- Long and short positions
+- Fixed income securities
+- Interest rate derivatives
+- Foreign exchange markets
+- Currency derivatives
+- Option sensitivity analysis
+- Delta, gamma, vega, theta, rho
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Credit default swaps and credit risk
+tags:
+- greeks
+- interest_rate_swaps
+- market_size
+- cds
+- hedge_funds
+- structured_finance
+- interest_rates
+- fixed_income
+- fx
+- trading
+- bonds
+- commodities
+- swap_dealers
+- swaps
+- futures
 ---
 
 # 13.1 MARKET SIZE AND PARTICIPANTS  

@@ -1,25 +1,109 @@
 ---
-cssclasses:
-  - academia
-title: Teaching Note 6 Mortgage Backed Securities
-tags:
-  - house_prices
-  - mbs
-  - mortgage_backed_securities
-  - prepayment_option
-  - securitization
 aliases:
-  - FHLMC
-  - FNMA
-  - GNMA
-  - MBS
-  - Teaching Note 6
+- FHLMC
+- FNMA
+- GNMA
+- MBS
+- Teaching Note 6
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-84717e
 key_concepts:
-  - House prices
-  - MBS market
-  - Mortgage lenders
-  - Prepayment option
-  - Securitization process
+- Apt
+- Cox-Ross-Rubinstein parameter specification
+- Extensions to multi-factor CAPM models
+- Term structure of interest rates and yield curve shapes
+- Computational implementation of binomial option pricing
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Currency derivatives
+- Prepayment option
+- Expectations hypothesis and liquidity preference theory
+- Futures contracts and forward pricing
+- Capital Asset Pricing Model and expected returns
+- Default probability estimation
+- Path-dependent derivatives
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- CDS clearing and central counterparties
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- Option sensitivity analysis
+- MBS market
+- Foreign exchange markets
+- Alternative investment strategies
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Security Market Line and beta measurement
+- Counterparty risk and settlement
+- Monte Carlo simulation
+- Case Study
+- House prices
+- Interest rate swap pricing and valuation
+- Margin requirements and clearing
+- Delta, gamma, vega, theta, rho
+- Credit default swap pricing and risk-neutral probabilities
+- Variance swaps and volatility trading strategies
+- Convergence of binomial model to Black-Scholes solution
+- Derivatives pricing theory
+- Securitization process
+- Binomial option pricing model with multiple time steps
+- Mortgage lenders
+- American option pricing in binomial trees
+- Risk-neutral valuation
+- Credit default swaps and credit risk
+- Parallel and non-parallel shifts in the yield curve
+- Credit risk modeling
+- Cross-currency basis swaps and funding
+- Market portfolio and risk-free rate assumptions
+- Empirical tests and anomalies in CAPM
+tags:
+- yield-curve
+- fx
+- binomial-model
+- credit-default-swaps
+- collateralized-debt-obligations
+- interest-rate-swaps
+- mathematical-finance
+- monte_carlo
+- trading
+- course-material
+- capm
+- case-study
+- apt
+- greeks
+- credit-analysis
+- value-at-risk
+- fixed_income
+- exchange-rates
+- valuation
+- hedge-funds
+- credit-risk
+- quantitative-implementation
+- duration-convexity
+- solution
+- real-estate
+- treasury-bonds
+- securitization
+- american-options
+- interest_rates
+- prepayment_option
+- mortgage_backed_securities
+- exotic-options
+- mbs-cmos
+- credit
+- portfolio-theory
+- hedge_funds
+- dcf-valuation
+- regulatory-framework
+- harvard-business-review
+- cds
+- monte-carlo
+title: Teaching Note 6 Mortgage Backed Securities
 ---
 
 # Teaching Note 6 Mortgage Backed Securities

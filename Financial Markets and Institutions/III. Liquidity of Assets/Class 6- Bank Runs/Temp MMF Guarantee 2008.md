@@ -1,35 +1,38 @@
 ---
-cssclasses:
-  - academia
-title: "Temporary Guarantee Program for Money Funds"
-linter-yaml-title-alias: "Temporary Guarantee Program for Money Funds"
-tags:
-  - fund_liquidation
-  - guarantee_event
-  - mmf
-  - temporary_guarantee_program
-  - us_treasury
-  - 2008_financial_crisis
-  - emergency_program
-  - market_stability
-  - government_intervention
 aliases:
-  - Guarantee Program
-  - Temp MMF Guarantee
-  - Temporary Guarantee Program
-  - "Treasury MMF Guarantee 2008"
+- Guarantee Program
+- Temp MMF Guarantee
+- Temporary Guarantee Program
+- Treasury MMF Guarantee 2008
+cssclasses:
+- academia
 key_concepts:
-  - Board findings
-  - Fund liquidation required
-  - Guarantee event triggers
-  - Guarantee payment process
-  - MMF stable NAV
-  - Treasury guarantee coverage
-  - Participation requirements
-  - Coverage limitations
-  - Extension provisions
-  - Crisis response measures
+- Delta hedging strategies in options portfolio management
+- 'Short-rate models: Vasicek, CIR, and mean reversion'
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Interest rate caps, floors, and swaptions
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+linter-yaml-title-alias: Temporary Guarantee Program for Money Funds
+tags:
+- arch
+- cds
+- cir
+- convexity
+- correlation
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- fixed_income
+- hedging
+- options
+- risk-management
+title: Temporary Guarantee Program for Money Funds
 ---
+
 
 # Temporary Guarantee Program for Money Funds
 

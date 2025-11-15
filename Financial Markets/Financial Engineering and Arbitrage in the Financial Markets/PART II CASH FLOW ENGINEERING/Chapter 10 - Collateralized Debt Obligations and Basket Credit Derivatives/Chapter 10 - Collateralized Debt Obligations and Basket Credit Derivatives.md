@@ -1,3 +1,25 @@
+---
+key_concepts:
+- Credit risk modeling
+- Default probability estimation
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Derivatives pricing theory
+- Risk-neutral valuation
+- Alternative investment strategies
+- Hedge fund replication
+- Structured products and CDOs
+- Credit derivatives
+- Arbitrage theory and practice
+- Law of one price
+tags:
+- cds
+- derivatives
+- hedge_funds
+- credit
+- structured_finance
+- arbitrage
+---
 %% Begin Waypoint %%
 - **Chapter 10 - Collateralized Debt Obligations and Basket Credit Derivatives**
 	- Basket Credit Derivatives

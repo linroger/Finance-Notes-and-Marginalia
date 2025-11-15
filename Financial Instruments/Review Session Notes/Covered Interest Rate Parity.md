@@ -1,32 +1,52 @@
 ---
-cssclasses:
-  - academia
-linter-yaml-title-alias: Covered Interest Rate Parity
-title: Covered Interest Rate Parity
-tags:
-  - covered_interest_rate_parity
-  - currency_security
-  - exchange_rate
-  - forward_rate
-  - model_parameters
-  - no_arbitrage
-  - foreign_exchange
-  - international_finance
 aliases:
-  - CIRP
-  - Interest Rate Parity
-  - Currency Forward Pricing
+- CIRP
+- Interest Rate Parity
+- Currency Forward Pricing
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-41dc06
 key_concepts:
-  - Currency exchange mechanics
-  - Exchange rate units conventions
-  - Forward rate calculation
-  - No-arbitrage condition
-  - Investment strategy comparison
-  - Home and foreign interest rates
-  - Continuous compounding
-  - Forward contract pricing
+- Risk-neutral measures and martingale pricing
+- 'Short-rate models: Vasicek, CIR, and mean reversion'
+- Monte Carlo simulation for derivatives valuation
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+linter-yaml-title-alias: Covered Interest Rate Parity
+tags:
+- apt
+- arbitrage
+- cir
+- convexity
+- correlation
+- credit-risk
+- derivatives-pricing
+- duration
+- exotic-options
+- expected-shortfall
+- factor-models
+- fixed_income
+- fx
+- hedging
+- interest-rate-swaps
+- monte-carlo
+- no-arbitrage
+- options
+- risk-management
+- risk-neutral
+- stress-testing
+- swaps
+- var
+title: Covered Interest Rate Parity
 ---
-
 
 # Covered Interest Rate Parity
 ## 1. MODEL PARAMETERS

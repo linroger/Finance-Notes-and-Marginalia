@@ -1,34 +1,115 @@
 ---
-title: Credit Market Homework 1
-cssclasses: 
-  - academia
-tags:
-  - bond_symbology
-  - credit_market_homework
-  - time_series_analysis
-  - us_treasury_bonds
-  - yield_curve
-  - credit_markets
-  - financial_instruments
-  - credit_spreads
-  - g_spreads
-  - quantlib_pricing
 aliases:
-  - Bond Symbology
-  - FINM 35700
-  - Homework 1
-  - US Treasuries
+- Bond Symbology
+- FINM 35700
+- Homework 1
+- US Treasuries
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-186ab4
 key_concepts:
-  - Bond symbology exploration
-  - On-the-run treasuries
-  - Time series of coupons
-  - US treasury instruments
-  - US treasury yields
-  - G-spreads calculation
-  - Credit spreads analysis
-  - Yield curve bootstrapping
-  - QuantLib bond pricing
-  - Corporate bond valuation
+- Corporate bond valuation
+- Carry trades and momentum in FX markets
+- Term structure of interest rates and yield curve shapes
+- US treasury instruments
+- Mean-variance optimization and the efficient frontier
+- Extreme value theory and tail risk modeling
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- maturity date in CDS
+- Risk budgeting and portfolio construction techniques
+- Expectations hypothesis and liquidity preference theory
+- Historical simulation vs. parametric VaR models
+- Yield curve fitting and interpolation methods
+- Time series of coupons
+- Credit spread decomposition and hazard rates
+- Credit spreads analysis
+- CDS clearing and central counterparties
+- QuantLib bond pricing
+- DV01 calculation and interest rate risk hedging
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- Deposit insurance and systemic risk prevention
+- Monte Carlo VaR for complex portfolios
+- Stress testing and scenario analysis
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Currency risk management and hedging
+- Forward rates and interest rate parity
+- Value at Risk (VaR) methodologies and backtesting
+- On-the-run treasuries
+- G-spreads calculation
+- Risk-neutral pricing methodology for derivative securities
+- Operational risk quantification and modeling
+- Case Study
+- Exchange rate determination and PPP theory
+- US treasury yields
+- Yield curve bootstrapping
+- Expected Shortfall and coherent risk measures
+- Arbitrage opportunities and risk-free profit extraction
+- Credit default swap pricing and risk-neutral probabilities
+- Interest rate swap pricing and valuation
+- Kalman Filter
+- Bank liquidity ratios and funding risk management
+- Variance swaps and volatility trading strategies
+- Value-at-Risk calculation using historical simulation
+- Credit risk migration matrices and rating transition
+- Credit risk modeling and portfolio correlation analysis
+- Backtesting procedures for risk models
+- Credit risk assessment and loan portfolio management
+- Parallel and non-parallel shifts in the yield curve
+- Liquidity risk measurement and management
+- Cross-currency basis swaps and funding
+- Bond symbology exploration
+- Systemic risk indicators and early warning systems
+- credit risk transfer mechanisms
+- Currency markets and foreign exchange trading
+- CDX North American CDS index
+tags:
+- yield-curve
+- credit-default-swaps
+- credit_spreads
+- case-study
+- value-at-risk
+- kalman-filter
+- time-series
+- financial_instruments
+- credit-risk
+- credit_market_homework
+- duration-convexity
+- solution
+- corporate-bonds
+- deposit-insurance
+- expected-shortfall
+- operational-risk
+- cds
+- credit-spreads
+- collateralized-debt-obligations
+- sofr
+- interest-rate-swaps
+- mathematical-finance
+- course-material
+- us_treasury_bonds
+- bond_symbology
+- quantlib_pricing
+- exchange-rates
+- yield_curve
+- quantitative-implementation
+- treasury-bonds
+- time_series_analysis
+- stress-testing
+- infrastructure
+- liquidity-risk
+- g_spreads
+- systemic-risk
+- credit_markets
+- harvard-business-review
+- monte-carlo
+title: Credit Market Homework 1
 ---
 
 # Credit Market Homework 1

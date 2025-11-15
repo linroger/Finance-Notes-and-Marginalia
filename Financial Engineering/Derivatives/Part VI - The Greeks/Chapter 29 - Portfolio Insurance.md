@@ -1,21 +1,98 @@
 ---
-tags:
-  - dynamic_hedging
-  - portfolio_insurance
-  - put_call_parity
-  - replication_portfolio
-  - stock_put
 aliases:
-  - Protective Put
-  - Static Hedge
-  - Stock Put Insurance
+- Protective Put
+- Static Hedge
+- Stock Put Insurance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-02cb20
 key_concepts:
-  - Drawbacks of stock put
-  - Dynamic portfolio insurance
-  - Hedging equity portfolio
-  - Replication portfolio of calls
-  - Static stock put insurance
+- Apt
+- coupon-bearing bond analysis
+- Extensions to multi-factor CAPM models
+- Static stock put insurance
+- Duration and convexity analysis for bond portfolio management
+- Active portfolio management and performance attribution
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Option Greeks and portfolio risk management
+- maturity date in CDS
+- Risk budgeting and portfolio construction techniques
+- Capital Asset Pricing Model and beta estimation
+- Capital Asset Pricing Model and expected returns
+- Mathematical derivation of the Black-Scholes partial differential equation
+- Historical simulation vs. parametric VaR models
+- Credit spread decomposition and hazard rates
+- Vega and volatility risk management
+- option pricing models and PDE solutions
+- CDS clearing and central counterparties
+- forward commitments and hedging
+- CDS-Bond basis and arbitrrage opportunities
+- Mathematical Finance
+- Monte Carlo VaR for complex portfolios
+- Shadow Banking
+- Stress testing and scenario analysis
+- Arbitrage Pricing Theory and multifactor models
+- Security Market Line and beta measurement
+- Value at Risk (VaR) methodologies and backtesting
+- Theta and time decay modeling
+- International arbitrage and covered interest rate parity
+- Case Study
+- Drawbacks of stock put
+- Arbitrage opportunities and risk-free profit extraction
+- Expected Shortfall and coherent risk measures
+- Risk-neutral valuation in continuous time models
+- Credit default swap pricing and risk-neutral probabilities
+- ESG integration in portfolio management
+- zero-coupon bond pricing and yields
+- Hedging equity portfolio
+- Delta hedging strategies in options portfolio management
+- Boundary conditions and parameter interpretation in Black-Scholes model
+- Limitations and extensions of the Black-Scholes framework
+- Shadow banking system and regulatory arbitrage
+- Gamma and convexity adjustments
+- Replication portfolio of calls
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Delta hedging and the replication argument
+- Currency hedging strategies for global portfolios
+- Black-Scholes-Merton option pricing model and its applications
+- Dynamic portfolio insurance
+- Market portfolio and risk-free rate assumptions
+- Empirical tests and anomalies in CAPM
+tags:
+- financial-analysis
+- credit-default-swaps
+- collateralized-debt-obligations
+- mathematical-finance
+- put_call_parity
+- capm
+- portfolio_insurance
+- shadow-banking
+- financial-modeling
+- case-study
+- apt
+- greeks
+- black-scholes-model
+- value-at-risk
+- put-options
+- factor-models
+- exchange-rates
+- credit-risk
+- quantitative-implementation
+- duration-convexity
+- solution
+- treasury-bonds
+- replication_portfolio
+- american-options
+- arbitrage
+- liquidity-risk
+- exotic-options
+- dynamic_hedging
+- quantitative-finance
+- stock_put
 ---
+
 # Portfolio Insurance  
 
 # Aims  

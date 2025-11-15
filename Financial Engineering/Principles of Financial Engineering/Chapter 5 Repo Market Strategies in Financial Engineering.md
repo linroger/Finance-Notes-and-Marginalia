@@ -1,28 +1,62 @@
 ---
-title: REPO Market Strategies in Financial Engineering
-tags:
-  - repo-market
-  - repurchase-agreements
-  - financial-engineering
-  - securities-financing
-  - collateral-management
-  - repo-strategies
-  - money-markets
-  - liquidity-management
 aliases:
-  - Chapter 5 REPO Strategies
-  - Repurchase Agreement Strategies
-  - REPO Market Engineering
-key_concepts:
-  - Repurchase agreements
-  - REPO market mechanics
-  - Securities financing
-  - Collateral management
-  - REPO rates
-  - Special vs general collateral
-  - Haircuts and margins
-  - REPO market strategies
+- Chapter 5 REPO Strategies
+- Repurchase Agreement Strategies
+- REPO Market Engineering
 cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-b21b6a
+key_concepts:
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- apt
+- arbitrage
+- arch
+- bonds
+- capm
+- cds
+- commodities
+- convexity
+- correlation
+- counterparty-risk
+- credit-default-swaps
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- factor-models
+- fixed_income
+- futures
+- futures-markets
+- garch
+- greeks
+- hedging
+- interest-rate-swaps
+- mbs
+- money-markets
+- options
+- repo-markets
+- risk-management
+- risk-neutral
+- swaps
+- var
+- yield-curve
+- zero-coupon
+title: REPO Market Strategies in Financial Engineering
 ---
 
 # REPO MARKET STRATEGIES IN FINANCIAL ENGINEERING  

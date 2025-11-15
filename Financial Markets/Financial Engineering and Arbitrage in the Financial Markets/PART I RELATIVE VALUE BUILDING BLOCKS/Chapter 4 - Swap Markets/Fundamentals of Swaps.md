@@ -1,24 +1,46 @@
 ---
-tags:
-  - fixed_floating_swaps
-  - interest_rate_swaps
-  - notional_principal
-  - swap_fundamentals
-  - swap_valuation
 aliases:
-  - Cross-Currency Swaps
-  - Interest Rate Swap
-  - Swap Agreements
-  - Swap Basics
+- Cross-Currency Swaps
+- Interest Rate Swap
+- Swap Agreements
+- Swap Basics
 key_concepts:
-  - Dual nature of swaps
-  - Exchange cash flows
-  - FRA settlement formula
-  - Fictitious bonds exchange
-  - Fixed vs floating
-  - Notional principal
-  - String of forwards
-  - Swap legs
+- Dual nature of swaps
+- Exchange cash flows
+- FRA settlement formula
+- Fictitious bonds exchange
+- Fixed vs floating
+- Notional principal
+- String of forwards
+- Swap legs
+- Equity valuation and analysis
+- Dividend discount models
+- Foreign exchange markets
+- Currency derivatives
+- Bond pricing and yield analysis
+- Duration and convexity
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+tags:
+- equity
+- swap_fundamentals
+- interest_rate_swaps
+- cds
+- structured_finance
+- notional_principal
+- interest_rates
+- portfolio-theory
+- valuation
+- fx
+- bonds
+- commodities
+- swaps
+- futures
+- derivatives
 ---
 
 # 4.1 FUNDAMENTALS OF SWAPS  

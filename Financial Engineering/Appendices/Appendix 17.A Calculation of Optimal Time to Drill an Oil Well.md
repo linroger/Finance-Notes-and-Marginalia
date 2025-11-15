@@ -1,21 +1,77 @@
 ---
-title: "Appendix 17.A Calculation of Optimal Time to Drill an Oil Well"
-cssclasses: academia
-tags:
-  - investment-decision
-  - investment-trigger
-  - oil-well-drilling
-  - optimal-solution
-  - shutdown-restart
 aliases:
-  - Oil Well Drilling
-  - Optimal Drilling Time
+- Oil Well Drilling
+- Optimal Drilling Time
+cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-2765cb
 key_concepts:
-  - Investment trigger value
-  - L'Hospital's rule application
-  - Maximize expression
-  - Optimal investment deferral
-  - Single shutdown restart
+- Term structure of interest rates and yield curve shapes
+- Risk assessment and management
+- Credit risk modeling and default probability estimation
+- Optimal investment deferral
+- Option Greeks and portfolio risk management
+- Commodity markets and pricing dynamics
+- Expectations hypothesis and liquidity preference theory
+- Solution
+- Maximize expression
+- Yield curve fitting and interpolation methods
+- Credit portfolio diversification and concentration
+- Single shutdown restart
+- Market efficiency and arbitrage pricing
+- Vega and volatility risk management
+- Financial regulation and compliance
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- Portfolio optimization and asset allocation
+- Fixed-for-floating swap cash flows and valuation
+- Corporate finance and valuation methods
+- Course Material
+- Theta and time decay modeling
+- Case Study
+- Quantitative analysis and modeling
+- Interest rate swap pricing and valuation
+- Investment trigger value
+- Variance swaps and volatility trading strategies
+- Credit exposure measurement and EAD
+- Efficient Market
+- Fixed income analysis and term structure
+- Wrong-way risk in derivative transactions
+- Derivatives pricing and hedging strategies
+- Quantitative Implementation
+- Financial markets and instruments
+- Gamma and convexity adjustments
+- Delta hedging and the replication argument
+- Parallel and non-parallel shifts in the yield curve
+- Exotic Options
+- Cross-currency basis swaps and funding
+- L'Hospital's rule application
+- Loss given default and recovery rates
+- Credit risk modeling and default analysis
+tags:
+- financial-analysis
+- yield-curve
+- investment-trigger
+- commodities
+- optimal-solution
+- interest-rate-swaps
+- mathematical-finance
+- oil-well-drilling
+- course-material
+- financial-modeling
+- case-study
+- greeks
+- credit-risk
+- investment-decision
+- efficient-market
+- quantitative-implementation
+- solution
+- exotic-options
+- quantitative-finance
+- shutdown-restart
+title: Appendix 17.A Calculation of Optimal Time to Drill an Oil Well
 ---
 
 # Appendix 17.A Calculation of Optimal Time to Drill an Oil Well

@@ -1,20 +1,98 @@
 ---
-tags:
-  - domestic_equity
-  - portfolio_risk
-  - single_index_model
-  - var_calculation
-  - vcv_method
 aliases:
-  - SIM
-  - Value at Risk
+- SIM
+- Value at Risk
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-beb647
 key_concepts:
-  - Coupon bond as zero-coupon
-  - Portfolio of foreign stocks
-  - Reduce VaR computations
-  - Single index model (SIM)
-  - VaR for portfolio of options
+- Apt
+- coupon-bearing bond analysis
+- Term structure of interest rates and yield curve shapes
+- Extensions to multi-factor CAPM models
+- Duration and convexity analysis for bond portfolio management
+- Monte Carlo simulation techniques for path-dependent options
+- Mean-variance optimization and the efficient frontier
+- Market risk measurement and portfolio volatility
+- Collateralized Debt Obligations
+- Option Greeks and portfolio risk management
+- Commodity markets and pricing dynamics
+- Single index model (SIM)
+- Coupon bond as zero-coupon
+- Expectations hypothesis and liquidity preference theory
+- Capital Asset Pricing Model and expected returns
+- Historical simulation vs. parametric VaR models
+- Yield curve fitting and interpolation methods
+- Vega and volatility risk management
+- fixed income risk measurement
+- VaR for portfolio of options
+- Spot rates vs. forward rates modeling
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- Monte Carlo integration and variance reduction
+- Monte Carlo VaR for complex portfolios
+- Fixed-for-floating swap cash flows and valuation
+- Security Market Line and beta measurement
+- portfolio optimization and risk decomposition
+- Control variates and importance sampling techniques
+- Theta and time decay modeling
+- Value at Risk (VaR) methodologies and backtesting
+- Case Study
+- Interest rate swap pricing and valuation
+- Expected Shortfall and coherent risk measures
+- excess returns and manager skill
+- interest rate and currency derivatives
+- present value and discounting methods
+- zero-coupon bond pricing and yields
+- Variance swaps and volatility trading strategies
+- Reduce VaR computations
+- systematic risk and market exposure
+- Value-at-Risk calculation using historical simulation
+- risk measurement and management
+- Gamma and convexity adjustments
+- Delta hedging and the replication argument
+- Parallel and non-parallel shifts in the yield curve
+- Cross-currency basis swaps and funding
+- Portfolio of foreign stocks
+- Market portfolio and risk-free rate assumptions
+- Empirical tests and anomalies in CAPM
+tags:
+- yield-curve
+- commodities
+- collateralized-debt-obligations
+- interest-rate-swaps
+- call-options
+- mathematical-finance
+- capm
+- var
+- market-risk
+- case-study
+- apt
+- greeks
+- value-at-risk
+- kalman-filter
+- put-options
+- factor-models
+- time-series
+- exchange-rates
+- hull-white-model
+- quantitative-implementation
+- duration-convexity
+- solution
+- depreciation
+- exchange-rate
+- vcv_method
+- infrastructure
+- exotic-options
+- var_calculation
+- single_index_model
+- domestic_equity
+- dcf-valuation
+- duration
+- monte-carlo
+- portfolio_risk
 ---
+
 # VaR: Other Portfolios  
 
 # Aims  

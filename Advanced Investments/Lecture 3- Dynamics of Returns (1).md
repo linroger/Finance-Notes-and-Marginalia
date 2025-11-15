@@ -1,39 +1,67 @@
 ---
-title: Lecture 3 - Dynamics of Returns
-cssclasses:
-  - academia
-  - finance
-tags:
-  - conditional_returns
-  - lecture_notes
-  - market_timing
-  - stock_returns
-  - volatility
-  - return_predictability
-  - time_series_analysis
-  - market_efficiency
-  - dynamic_portfolio_management
-  - financial_econometrics
 aliases:
-  - Dynamics of Returns
-  - Lecture 3
-  - Lecture 3 Notes
-  - Return Dynamics
-  - Time-Varying Returns
+- Dynamics of Returns
+- Lecture 3
+- Lecture 3 Notes
+- Return Dynamics
+- Time-Varying Returns
+cssclasses:
+- academia
+- finance
 key_concepts:
-  - Conditional distribution of returns
-  - Optimal allocation formula
-  - Statistical model of returns
-  - Time-varying expected returns
-  - Unconditional distribution of returns
-  - Market timing strategies
-  - Return predictability evidence
-  - Volatility forecasting methods
-  - Dynamic allocation techniques
-  - Autoregressive processes
-  - Business cycle predictability
-  - Conditional variances
+- Conditional distribution of returns
+- Optimal allocation formula
+- Statistical model of returns
+- Time-varying expected returns
+- Unconditional distribution of returns
+- Market timing strategies
+- Return predictability evidence
+- Volatility forecasting methods
+- Dynamic allocation techniques
+- Autoregressive processes
+- Business cycle predictability
+- Conditional variances
+- risk measurement and management
+- alternative investment strategies
+- fundamental valuation methods
+- risk-adjusted performance measurement
+- present value and discounting methods
+- expected inflation and breakeven rates
+- Monte Carlo simulation techniques for path-dependent options
+- Value-at-Risk calculation using historical simulation
+- Mean-variance optimization and the efficient frontier
+- Monte Carlo integration and variance reduction
+- Control variates and importance sampling techniques
+- risk measurement and management
+- alternative investment strategies
+- fundamental valuation methods
+- risk-adjusted performance measurement
+- present value and discounting methods
+- expected inflation and breakeven rates
+- Monte Carlo simulation techniques for path-dependent options
+tags:
+- asset-allocation
+- autocorrelation
+- conditional_returns
+- dynamic_portfolio_management
+- financial-crisis
+- financial_econometrics
+- hedge-funds
+- lecture_notes
+- market_efficiency
+- market_timing
+- mean-variance
+- return_predictability
+- stock_returns
+- term-structure
+- time-series
+- time_series_analysis
+- var
+- volatility
+title: Lecture 3 - Dynamics of Returns
 ---
+
+
 
 
 # Lecture 3: Dynamics of Returns

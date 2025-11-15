@@ -1,19 +1,27 @@
 ---
 tags:
-  - asset_pricing
-  - inflation
-  - monetary_economies
-  - real_nominal_rates
-  - term_structure
+- apt
+- arch
+- bonds
+- closed-form
+- correlation
+- credit-risk
+- derivatives-pricing
+- fixed_income
+- hedging
+- risk-management
+- var
+- zero-coupon
 aliases:
-  - Nominal Interest Rates
-  - Real vs Nominal Rates
+- Nominal Interest Rates
+- Real vs Nominal Rates
 key_concepts:
-  - Expected inflation rate
-  - Nominal state-price deflator
-  - Real short-term interest rate
-  - Real vs nominal bonds
-  - Real, nominal interest rates
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Ito's lemma and stochastic calculus applications
+- Value at Risk and tail risk measurement
+- Volatility modeling and forecasting techniques
+- Portfolio hedging and risk reduction strategies
 ---
 
 # 10.6 Real and nominal interest rates and term structures  

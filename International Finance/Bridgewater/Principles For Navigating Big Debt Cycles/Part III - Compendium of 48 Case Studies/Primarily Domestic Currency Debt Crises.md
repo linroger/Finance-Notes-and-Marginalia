@@ -1,3 +1,26 @@
+---
+key_concepts:
+- Equity valuation and analysis
+- Dividend discount models
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Interest rate modeling
+- Term structure of interest rates
+tags:
+- trading
+- equity
+- regulatory-framework
+- options
+- fx
+- bonds
+- interest_rates
+---
 ## Principles For Navigating Big Debt Crises**
 
 ### **Part 3: Compendium of 48 Case Studies**

@@ -1,21 +1,86 @@
 ---
-tags:
-  - foreign_currency
-  - fx_options
-  - hedging
-  - otc_market
-  - speculation
 aliases:
-  - Currency Options
-  - FX Options
-  - OTC Options
+- Currency Options
+- FX Options
+- OTC Options
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-d8824f
 key_concepts:
-  - Call option
-  - FX options contracts
-  - Hedging with options
-  - OTC market
-  - Put option
+- Apt
+- Term structure of interest rates and yield curve shapes
+- Duration and convexity analysis for bond portfolio management
+- Active portfolio management and performance attribution
+- OTC market
+- Single-name vs. index CDS trading
+- Option Greeks and portfolio risk management
+- maturity date in CDS
+- Risk budgeting and portfolio construction techniques
+- Expectations hypothesis and liquidity preference theory
+- Capital Asset Pricing Model and beta estimation
+- Put option
+- Solution
+- Mathematical derivation of the Black-Scholes partial differential equation
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- Vega and volatility risk management
+- CDS clearing and central counterparties
+- Portfolio immunization strategies
+- forward commitments and hedging
+- CDS-Bond basis and arbitrrage opportunities
+- Spot rates vs. forward rates modeling
+- Key rate duration and curve risk
+- Theta and time decay modeling
+- Case Study
+- FX options contracts
+- Risk-neutral valuation in continuous time models
+- Credit default swap pricing and risk-neutral probabilities
+- ESG integration in portfolio management
+- Delta hedging strategies in options portfolio management
+- Boundary conditions and parameter interpretation in Black-Scholes model
+- Limitations and extensions of the Black-Scholes framework
+- Hedging with options
+- Quantitative Implementation
+- Gamma and convexity adjustments
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Delta hedging and the replication argument
+- Parallel and non-parallel shifts in the yield curve
+- Exotic Options
+- Duration and convexity measures for bond portfolios
+- Currency hedging strategies for global portfolios
+- Price sensitivity to interest rate changes
+- Modified duration vs. Macaulay duration
+- Black-Scholes-Merton option pricing model and its applications
+- Call option
+tags:
+- yield-curve
+- fx_options
+- credit-default-swaps
+- garch-models
+- foreign_currency
+- mathematical-finance
+- speculation
+- capital-structure
+- capm
+- case-study
+- apt
+- greeks
+- black-scholes-model
+- put-options
+- exchange-rates
+- credit-risk
+- otc_market
+- quantitative-implementation
+- duration-convexity
+- solution
+- hedging
+- depreciation
+- exchange-rate
+- exotic-options
+- options-strategies
 ---
+
 # Foreign Currency Options  
 
 # Aims  

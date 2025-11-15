@@ -1,20 +1,53 @@
 ---
-tags:
-  - call_option
-  - equity_exposure
-  - equity_linked_notes
-  - principal_guaranteed
-  - zero_coupon_bond
 aliases:
-  - ELN
-  - Equity-linked note
-  - Principal Guaranteed Structures
+- ELN
+- Equity-linked note
+- Principal Guaranteed Structures
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-e0e381
 key_concepts:
-  - Bond with call option
-  - Downside protection
-  - Equity market participation
-  - Investment instrument
-  - Redemption amount calculation
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Monte Carlo simulation for derivatives valuation
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- apt
+- bonds
+- capm
+- cds
+- convexity
+- correlation
+- credit-default-swaps
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- european-options
+- exotic-options
+- fixed_income
+- gamma
+- greeks
+- hedging
+- interest-rate-swaps
+- options
+- replication
+- risk-management
+- risk-neutral
+- swaps
+- theta
+- var
+- vega
+- zero-coupon
 ---
 
 # Equity Linked Note

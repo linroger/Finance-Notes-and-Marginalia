@@ -1,20 +1,44 @@
 ---
-tags:
-  - arbitrage
-  - counterparty_risk
-  - credit_risk
-  - cross_currency_basis
-  - xva
 aliases:
-  - XVA
-  - xccy basis
+- XVA
+- xccy basis
 key_concepts:
-  - Counterparty risk
-  - Credit valuation adjustment
-  - Exposure profiles
-  - Multiple transactions
-  - Positive and negative values
-  - XVA costs
+- Counterparty risk
+- Credit valuation adjustment
+- Exposure profiles
+- Multiple transactions
+- Positive and negative values
+- XVA costs
+- Equity valuation and analysis
+- Dividend discount models
+- Credit risk modeling
+- Default probability estimation
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+tags:
+- equity
+- xva
+- regulatory-framework
+- credit
+- cds
+- hedge_funds
+- structured_finance
+- counterparty_risk
+- regulation
+- interest_rates
+- credit_risk
+- portfolio-theory
+- valuation
+- fx
+- trading
 ---
 
 # Chapter 2 XVA and the Cross-Currency Basis

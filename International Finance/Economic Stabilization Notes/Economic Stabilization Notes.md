@@ -1,42 +1,43 @@
 ---
-cssclasses: ["academia"]
-title: Economic Stabilization Notes
+aliases:
+- Economic Notes
+- Economic Stabilization
+- Stabilization
+- Macroeconomic Stabilization
+- Stabilization Policy
+cssclasses:
+- academia
+key_concepts:
+- Economic downturn
+- Economic stabilization
+- Financial crisis
+- Government policy
+- Policy responses
+- Business cycle theory
+- Stabilization policy instruments
+- Fiscal policy effectiveness
+- Monetary policy transmission
+- Automatic stabilizers
+- Discretionary policy
+- Policy lags
+- Rational expectations
+- Policy credibility
+- Macroeconomic models
 linter-yaml-title-alias: Economic Stabilization Notes
 tags:
-  - economic_policy
-  - economic_stabilization
-  - financial_crisis
-  - government_intervention
-  - recession
-  - business_cycles
-  - fiscal_policy
-  - monetary_policy
-  - macroeconomic_stabilization
-  - economic_fluctuations
-  - policy_effectiveness
-  - automatic_stabilizers
-aliases:
-  - Economic Notes
-  - Economic Stabilization
-  - Stabilization
-  - Macroeconomic Stabilization
-  - Stabilization Policy
-key_concepts:
-  - Economic downturn
-  - Economic stabilization
-  - Financial crisis
-  - Government policy
-  - Policy responses
-  - Business cycle theory
-  - Stabilization policy instruments
-  - Fiscal policy effectiveness
-  - Monetary policy transmission
-  - Automatic stabilizers
-  - Discretionary policy
-  - Policy lags
-  - Rational expectations
-  - Policy credibility
-  - Macroeconomic models
+- business_cycles
+- monetary_policy
+- government_intervention
+- economic_stabilization
+- macroeconomic_stabilization
+- economic_policy
+- recession
+- financial_crisis
+- policy_effectiveness
+- fiscal_policy
+- economic_fluctuations
+- automatic_stabilizers
+title: Economic Stabilization Notes
 ---
 
 # Economic Stabilization Notes

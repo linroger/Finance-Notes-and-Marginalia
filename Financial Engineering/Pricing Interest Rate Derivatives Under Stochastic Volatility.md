@@ -1,20 +1,69 @@
 ---
-tags:
-  - coupon_bond
-  - frobenius_series
-  - gauss_laguerre
-  - interest_rate_derivatives
-  - stochastic_volatility
 aliases:
-  - Interest Rate Derivatives Pricing
-  - Nabil Tahani
-  - Xiaofei Li
+- Interest Rate Derivatives Pricing
+- Nabil Tahani
+- Xiaofei Li
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-446e2d
 key_concepts:
-  - Coupon bond options
-  - Frobenius series solution
-  - Gauss-Laguerre quadrature rule
-  - Interest rate derivatives pricing
-  - Stochastic interest rate volatility
+- Delta hedging strategies in options portfolio management
+- Term structure of interest rates and yield curve modeling
+- 'Short-rate models: Vasicek, CIR, and mean reversion'
+- Bond pricing and fixed income securities valuation
+- Monte Carlo simulation for derivatives valuation
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- abs
+- apt
+- arch
+- bonds
+- brownian-motion
+- capm
+- caps
+- cir
+- closed-form
+- convexity
+- delta
+- derivatives-pricing
+- duration
+- european-options
+- factor-models
+- fixed-income
+- fixed_income
+- floors
+- futures
+- futures-markets
+- gamma
+- garch
+- greeks
+- hedging
+- implied-volatility
+- interest-rate-swaps
+- kalman-filter
+- mean-reversion
+- monte-carlo
+- options
+- replication
+- rho
+- risk-management
+- swaps
+- swaptions
+- term-structure
+- theta
+- time-series
+- var
+- vasicek
+- vega
+- yield-curve
+- zero-coupon
 ---
 
 # Pricing Interest Rate Derivatives under Stochastic Volatility  

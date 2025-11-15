@@ -1,20 +1,45 @@
 ---
-tags:
-  - bond_valuation
-  - ctd_bond
-  - futures_pricing
-  - quality_option
-  - yield_curve
 aliases:
-  - Delivery Option
-  - Futures Price
-  - TYU1
+- Delivery Option
+- Futures Price
+- TYU1
 key_concepts:
-  - Bond forward price ratio
-  - CTD and conversion factor
-  - Delivery option valuation
-  - Futures price before expiration
-  - Yield-price curve analysis
+- Bond forward price ratio
+- CTD and conversion factor
+- Delivery option valuation
+- Futures price before expiration
+- Yield-price curve analysis
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Derivatives pricing theory
+- Risk-neutral valuation
+- Value at risk and stress testing
+tags:
+- ctd_bond
+- yield_curve
+- cds
+- quality_option
+- interest_rates
+- stochastic_calculus
+- futures_pricing
+- fx
+- trading
+- bonds
+- volatility
+- bond_valuation
+- futures
+- options
+- derivatives
 ---
 
 # 11.11 FUTURES PRICE AND THE QUALITY OPTION BEFORE EXPIRATION  

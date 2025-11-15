@@ -1,19 +1,130 @@
 ---
-tags:
-  - capital_markets
-  - international_trade
-  - trade_balance
 aliases:
-  - Global Trade
-  - International Finance
-  - Trade Banking
+- Global Trade
+- International Finance
+- Trade Banking
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-67445f
 key_concepts:
-  - Central bank management
-  - Currencies bought/sold
-  - Global trade overview
-  - Investment capital flows
-  - Trade and macroeconomics
-  - Trade policy instruments
+- Liquidity coverage ratio and net stable funding ratio
+- Investment capital flows
+- expected inflation and breakeven rates
+- Term structure of interest rates and yield curve shapes
+- Currency hedging strategies
+- Mean-variance optimization and the efficient frontier
+- Forward exchange rate determination
+- Currencies bought/sold
+- Extreme value theory and tail risk modeling
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Commodity markets and pricing dynamics
+- Risk budgeting and portfolio construction techniques
+- Expectations hypothesis and liquidity preference theory
+- market maker in CDS markets
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- CDS clearing and central counterparties
+- DV01 calculation and interest rate risk hedging
+- Central bank management
+- forward commitments and hedging
+- CDS-Bond basis and arbitrrage opportunities
+- Spot rates vs. forward rates modeling
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- CIP deviations and regulatory effects
+- Trade and macroeconomics
+- real value and inflation adjustment
+- Fixed-for-floating swap cash flows and valuation
+- Arbitrage Pricing Theory and multifactor models
+- Course Material
+- Risk-weighted assets and capital adequacy ratios
+- Cross-currency basis and funding spreads
+- Risk-neutral pricing methodology for derivative securities
+- Operational risk quantification and modeling
+- commercial banking operations and management
+- Covered interest rate parity and no-arbitrage
+- Net interest margin analysis and banking profitability
+- Balance Of Payments
+- Expected Shortfall and coherent risk measures
+- Interest rate swap pricing and valuation
+- Basel III regulatory framework and capital requirements
+- interest rate and currency derivatives
+- Credit default swap pricing and risk-neutral probabilities
+- Variance swaps and volatility trading strategies
+- settlement date in CDS
+- Global trade overview
+- Value-at-Risk calculation using historical simulation
+- risk measurement and management
+- spot date in CDS
+- Credit risk migration matrices and rating transition
+- Uncovered Interest Parity
+- Credit risk modeling and portfolio correlation analysis
+- Backtesting procedures for risk models
+- Parallel and non-parallel shifts in the yield curve
+- Liquidity risk measurement and management
+- Cross-currency basis swaps and funding
+- Trade policy instruments
+- Systemic risk indicators and early warning systems
+tags:
+- yield-curve
+- commodities
+- credit-default-swaps
+- covered-interest-parity
+- bailouts
+- bank-regulation
+- sovereign-debt
+- commercial-banking
+- case-study
+- apt
+- bailout
+- value-at-risk
+- factor-models
+- credit-risk
+- duration-convexity
+- solution
+- wacc
+- depreciation
+- exchange-rate
+- banking
+- financial-crisis
+- futures-markets
+- bank-runs
+- expected-shortfall
+- municipal-bonds
+- operational-risk
+- uncovered-interest-parity
+- risk-management
+- balance-of-payments
+- collateralized-debt-obligations
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- balance-sheet
+- course-material
+- capital-structure
+- greeks
+- exchange-rates
+- hedge-funds
+- libor-market-model
+- hull-white-model
+- quantitative-implementation
+- trilemma
+- forward-exchange
+- treasury-bonds
+- stress-testing
+- monetary-policy
+- arbitrage
+- infrastructure
+- liquidity-risk
+- systemic-risk
+- emerging-markets
+- exotic-options
+- distressed-debt
+- currency-risk
+- harvard-business-review
+- monte-carlo
 ---
 
 International Trade Banking and Capital Markets: Introduction and Global Trade Overview

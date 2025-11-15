@@ -1,46 +1,69 @@
 ---
-title: Lecture 6 - Leverage, Tail Risk, Volatility Products
-cssclasses:
-  - academia
-  - finance
-tags:
-  - leveraged_portfolio
-  - portfolio_volatility
-  - risk_parity_strategy
-  - tail_risk
-  - volatility_products
-  - financial_derivatives
-  - margin_requirements
-  - portfolio_management
-  - market_risk
-  - hedge_funds
-  - investment_strategies
-  - dynamic_leverage
-  - vix_futures
-  - option_hedging
 aliases:
-  - Leverage
-  - Risk Parity
-  - Tail Risk Management
-  - Volatility Trading
-  - Leverage and Risk Management
+- Leverage
+- Risk Parity
+- Tail Risk Management
+- Volatility Trading
+- Leverage and Risk Management
+cssclasses:
+- academia
+- finance
 key_concepts:
-  - investment manager strategy
-  - portfolio leverage calculation
-  - portfolio variance formula
-  - risk parity portfolio
-  - risky asset allocation
-  - short position impact
-  - margin requirements
-  - collateralized borrowing
-  - gross leverage ratio
-  - volatility trading strategies
-  - tail risk management
-  - total return swaps
-  - VIX futures hedging
-  - dynamic leverage rebalancing
-  - option-like payoffs
+- investment manager strategy
+- portfolio leverage calculation
+- portfolio variance formula
+- risk parity portfolio
+- risky asset allocation
+- short position impact
+- margin requirements
+- collateralized borrowing
+- gross leverage ratio
+- volatility trading strategies
+- tail risk management
+- total return swaps
+- VIX futures hedging
+- dynamic leverage rebalancing
+- option-like payoffs
+- option pricing models and PDE solutions
+- risk measurement and management
+- credit risk transfer mechanisms
+- interest rate and currency derivatives
+- forward commitments and hedging
+- alternative investment strategies
+- systematic risk and market exposure
+- risk-adjusted performance measurement
+- leverage ratio calculation and monitoring
+- high yield debt and default risk
+- market maker in CDS markets
+- Monte Carlo simulation techniques for path-dependent options
+- Gamma trading and convexity adjustment techniques
+- Duration and convexity analysis for bond portfolio management
+- Bond convexity adjustment for large interest rate changes
+tags:
+- arbitrage
+- asset-allocation
+- call-options
+- cds
+- commodities
+- convexity
+- credit-spreads
+- dynamic_leverage
+- financial-crisis
+- futures-markets
+- hedge-funds
+- implied-volatility
+- leverage-ratio
+- market_risk
+- option_hedging
+- portfolio_volatility
+- put-options
+- time-series
+- treasury-bonds
+- var
+title: Lecture 6 - Leverage, Tail Risk, Volatility Products
 ---
+
+
 
 # Lecture 6 - Leverage, Tail Risk, Volatility Products
 

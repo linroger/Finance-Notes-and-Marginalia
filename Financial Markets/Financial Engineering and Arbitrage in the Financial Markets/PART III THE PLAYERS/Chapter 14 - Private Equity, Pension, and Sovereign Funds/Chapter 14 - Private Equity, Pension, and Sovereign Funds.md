@@ -1,3 +1,13 @@
+---
+key_concepts:
+- Equity valuation and analysis
+- Dividend discount models
+tags:
+- regulatory-framework
+- equity
+- portfolio-theory
+- private_equity
+---
 %% Begin Waypoint %%
 - **Chapter 14**
 	- Chapter 14

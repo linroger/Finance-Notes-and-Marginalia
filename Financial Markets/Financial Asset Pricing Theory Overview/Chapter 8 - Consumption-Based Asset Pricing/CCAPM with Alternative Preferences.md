@@ -1,19 +1,25 @@
 ---
 tags:
-  - ccapm
-  - consumption_based_model
-  - habit_formation
-  - risk_aversion
-  - state_dependent_preferences
+- abs
+- apt
+- calibration
+- capm
+- correlation
+- credit-risk
+- delta
+- derivatives-pricing
+- fixed_income
+- gamma
+- risk-management
+- var
 aliases:
-  - Alternative Preferences
-  - CCAPM
+- Alternative Preferences
+- CCAPM
 key_concepts:
-  - consumption-based model
-  - habit formation
-  - relative risk aversion
-  - risk-free asset
-  - state-price deflator
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Options Greeks and sensitivity analysis
 ---
 
 # 8.7 CCAPM with alternative preferences  

@@ -1,20 +1,21 @@
 ---
 tags:
-  - dividend_beta
-  - one_period_framework
-  - risk_adjusted_discount
-  - risk_free_return
-  - state_price_deflator
+- capm
+- correlation
+- credit-risk
+- derivatives-pricing
+- rho
+- risk-management
+- theta
+- var
 aliases:
-  - Event-Price Deflator
-  - Pricing Kernel
-  - Stochastic Discount Factor
+- Event-Price Deflator
+- Pricing Kernel
+- Stochastic Discount Factor
 key_concepts:
-  - Finite variance assumption
-  - Gross rates of returns
-  - Pricing equation
-  - Risk-free portfolio
-  - State-price deflator definition
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Options Greeks and sensitivity analysis
 ---
 
 # 4.2 Definitions and immediate consequences  

@@ -1,28 +1,105 @@
 ---
-cssclasses:
-  - academia
 Owner: Roger Lin
-title: A Primer on Bank Liquidity
-tags:
-  - bank_liquidity
-  - banking
-  - diamond_dybvig
-  - fdic
-  - interbank_market
-  - liquidity_risk
-  - maturity_transformation
-  - reserves
 aliases:
-  - Bank Liquidity Primer
-  - Liquidity in Banking
+- Bank Liquidity Primer
+- Liquidity in Banking
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-143de2
 key_concepts:
-  - Bank liquidity definition
-  - Diamond-Dybvig model
-  - FDIC deposit insurance
-  - Funding illiquid assets
-  - Illiquidity vs insolvency
-  - Interbank market borrowing
-  - Precautionary savings reserves
+- Bank liquidity definition
+- FDIC deposit insurance
+- Precautionary savings reserves
+- Liquidity coverage ratio and net stable funding ratio
+- Basel III capital requirements and stress testing
+- Stress testing and supervisory review processes
+- Treasury Bonds
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Credit risk modeling and default probability estimation
+- Probability of default estimation from credit spreads
+- Level 1 fair value hierarchy inputs
+- Credit spread analysis and OAS methodology
+- Solution
+- Diamond-Dybvig model
+- Credit spread decomposition and hazard rates
+- Credit portfolio diversification and concentration
+- Structural models of default and Merton formulation
+- CDS clearing and central counterparties
+- Leverage ratio and large exposures
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- Credit default swap pricing and recovery assumptions
+- GARCH models and volatility forecasting
+- 'Structured products: CDOs, CLOs, and credit derivatives'
+- Shadow Banking
+- Illiquidity vs insolvency
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Risk-weighted assets and capital adequacy ratios
+- Basel III capital and liquidity standards development
+- Synthetic credit derivatives and index trades
+- International regulatory coordination and Basel standards
+- Net interest margin analysis and banking profitability
+- Interest rate swap pricing and valuation
+- Interbank market borrowing
+- Basel III regulatory framework and capital requirements
+- Funding illiquid assets
+- Credit default swap pricing and risk-neutral probabilities
+- Variance swaps and volatility trading strategies
+- Liquidity crisis and market dysfunction
+- Credit exposure measurement and EAD
+- Loss given default and recovery rates
+- regulatory stress testing and risk assessment
+- Federal Deposit Insurance Corporation
+- Wrong-way risk in derivative transactions
+- Stress Testing
+- Credit intermediation and information asymmetry
+- Shadow banking system and regulatory arbitrage
+- Quantitative Implementation
+- Credit risk migration matrices and rating transition
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Cross-currency basis swaps and funding
+- Counterparty credit exposure measurement
+- banking regulation and capital adequacy
+- liquidity measurement and management
+tags:
+- basel-iii
+- liquidity-crisis
+- credit-default-swaps
+- maturity_transformation
+- collateralized-debt-obligations
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- interbank_market
+- course-material
+- bank-regulation
+- reserves
+- fdic
+- shadow-banking
+- credit-risk
+- quantitative-implementation
+- solution
+- treasury-bonds
+- bank_liquidity
+- banking
+- stress-testing
+- financial-crisis
+- liquidity-risk
+- corporate-bonds
+- diamond_dybvig
+- deposit-insurance
+- financial-intermediation
+- liquidity_risk
+- basel
+- liquidity-coverage-ratio
+- harvard-business-review
+title: A Primer on Bank Liquidity
 ---
 
 # A Primer on Bank Liquidity

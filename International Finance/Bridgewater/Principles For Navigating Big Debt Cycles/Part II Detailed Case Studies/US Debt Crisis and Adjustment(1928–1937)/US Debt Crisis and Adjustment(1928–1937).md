@@ -1,3 +1,35 @@
+---
+key_concepts:
+- Equity valuation and analysis
+- Dividend discount models
+- Credit risk modeling
+- Default probability estimation
+- Fixed income securities
+- Interest rate derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Interest rate modeling
+- Term structure of interest rates
+tags:
+- equity
+- regulatory-framework
+- credit
+- fixed_income
+- valuation
+- trading
+- volatility
+- bonds
+- commodities
+- cds
+- options
+- interest_rates
+---
 # **US Debt Crisis and Adjustment (1928–1937)**
 
 This section gives a detailed account of the big US debt cycle of the 1920s and 1930s, including the Great Depression, which is probably the most iconic case of a deflationary deleveraging. It takes you through the particulars of the case with reference to the template laid out earlier in the "Archetypal Big Debt Cycle." Though the Great Depression happened nearly a century ago, its dynamic was basically the same as what occurred in and around 2008. As with the other cases in this part, I both describe the timeline (which in this case is based on the library of books I've amassed on the Great Depression over the years rather than my personal experience trading through it) and provide a real-time "newsfeed" drawn from newspaper headlines and what the Federal Reserve was saying at the time that runs along the sides of the pages.

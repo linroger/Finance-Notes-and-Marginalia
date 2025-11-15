@@ -1,21 +1,104 @@
 ---
-title: A Guide to the Front End and Basis Swap Markets
-aliases: 
+aliases: null
 cssclasses:
-  - academia
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-c4b073
+key_concepts:
+- Apt
+- Term structure of interest rates and yield curve shapes
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Option Greeks and portfolio risk management
+- Currency derivatives
+- Expectations hypothesis and liquidity preference theory
+- Futures contracts and forward pricing
+- Historical simulation vs. parametric VaR models
+- Interest rate swaps and term structure
+- Default probability estimation
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- Vega and volatility risk management
+- CDS clearing and central counterparties
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- Foreign exchange markets
+- Liquidity and price discovery
+- Monte Carlo VaR for complex portfolios
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Value at Risk (VaR) methodologies and backtesting
+- Theta and time decay modeling
+- Counterparty risk and settlement
+- Case Study
+- Interest rate swap pricing and valuation
+- Margin requirements and clearing
+- Credit derivatives
+- Expected Shortfall and coherent risk measures
+- Credit default swap pricing and risk-neutral probabilities
+- Market microstructure and trading
+- Structured products and CDOs
+- Variance swaps and volatility trading strategies
+- Derivatives pricing theory
+- Bond pricing and yield analysis
+- Gamma and convexity adjustments
+- Risk-neutral valuation
+- Delta hedging and the replication argument
+- Credit default swaps and credit risk
+- Parallel and non-parallel shifts in the yield curve
+- Credit risk modeling
+- Cross-currency basis swaps and funding
+- Delta hedging and Greeks
+- Basis swaps and cross-currency swaps
+- Duration and convexity
+- Options pricing and payoff structures
 tags:
-  - "#basis_swap_markets"
-  - "#fed_funds_basis_swaps"
-  - "#federal_funds"
-  - "#fra_ois_spread"
-  - "#fras"
-  - "#front_end_markets"
-  - "#interest_rate_derivatives"
-  - "#libor"
-  - "#libor_basis_swaps"
-  - "#ois"
-  - "#prime_basis_swaps"
+- yield-curve
+- fx
+- credit-default-swaps
+- collateralized-debt-obligations
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- trading
+- course-material
+- '#federal_funds'
+- case-study
+- apt
+- greeks
+- '#basis_swap_markets'
+- '#ois'
+- value-at-risk
+- '#prime_basis_swaps'
+- exchange-rates
+- '#libor'
+- credit-risk
+- '#fra_ois_spread'
+- currency-swaps
+- quantitative-implementation
+- duration-convexity
+- solution
+- treasury-bonds
+- structured_finance
+- '#fed_funds_basis_swaps'
+- interest_rates
+- infrastructure
+- corporate-bonds
+- wholesale-funding
+- exotic-options
+- distressed-debt
+- credit
+- portfolio-theory
+- dcf-valuation
+- '#fras'
+- cds
+title: A Guide to the Front End and Basis Swap Markets
 ---
+
 # **Interest Rate Derivatives Table of Contents**
 
 - Introduction

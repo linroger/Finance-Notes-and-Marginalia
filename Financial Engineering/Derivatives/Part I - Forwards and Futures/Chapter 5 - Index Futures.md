@@ -1,21 +1,107 @@
 ---
-tags:
-  - arbitrage
-  - cme_group
-  - hedging
-  - index_futures
-  - stock_index
 aliases:
-  - SIF
-  - futures contracts
+- SIF
+- futures contracts
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-c05ca9
 key_concepts:
-  - contract specification
-  - diversified portfolio
-  - index arbitrage
-  - market risk
-  - program trading
-  - settlement procedures
+- Apt
+- Extensions to multi-factor CAPM models
+- Term structure of interest rates and yield curve shapes
+- Duration and convexity analysis for bond portfolio management
+- market risk
+- Active portfolio management and performance attribution
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Market risk measurement and portfolio volatility
+- maturity date in CDS
+- Commodity markets and pricing dynamics
+- Capital Asset Pricing Model and beta estimation
+- Risk budgeting and portfolio construction techniques
+- program trading
+- Expectations hypothesis and liquidity preference theory
+- Capital Asset Pricing Model and expected returns
+- portfolio theory and asset pricing
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- CDS clearing and central counterparties
+- forward commitments and hedging
+- CDS-Bond basis and arbitrrage opportunities
+- Spot rates vs. forward rates modeling
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- Shadow Banking
+- Fixed-for-floating swap cash flows and valuation
+- Arbitrage Pricing Theory and multifactor models
+- Security Market Line and beta measurement
+- portfolio optimization and risk decomposition
+- International arbitrage and covered interest rate parity
+- Case Study
+- Dividend Policy
+- Arbitrage opportunities and risk-free profit extraction
+- Interest rate swap pricing and valuation
+- contract specification
+- excess returns and manager skill
+- volatility modeling and forecasting
+- ESG integration in portfolio management
+- Credit default swap pricing and risk-neutral probabilities
+- Variance swaps and volatility trading strategies
+- Delta hedging strategies in options portfolio management
+- systematic risk and market exposure
+- settlement procedures
+- Shadow banking system and regulatory arbitrage
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Parallel and non-parallel shifts in the yield curve
+- High Frequency Trading
+- Cross-currency basis swaps and funding
+- Currency hedging strategies for global portfolios
+- index arbitrage
+- diversified portfolio
+- Market portfolio and risk-free rate assumptions
+- cash settlement in CDS
+- Empirical tests and anomalies in CAPM
+tags:
+- yield-curve
+- commodities
+- credit-default-swaps
+- dividend-policy
+- collateralized-debt-obligations
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- capm
+- shadow-banking
+- market-risk
+- high-frequency-trading
+- case-study
+- apt
+- greeks
+- stock_index
+- value-at-risk
+- kalman-filter
+- factor-models
+- time-series
+- exchange-rates
+- hedge-funds
+- credit-risk
+- quantitative-implementation
+- duration-convexity
+- solution
+- hedging
+- treasury-bonds
+- cme_group
+- arbitrage
+- algorithmic-trading
+- index_futures
+- regression-analysis
+- exotic-options
+- delta-hedging
+- futures-markets
 ---
+
 # Index Futures  
 
 # Aims  

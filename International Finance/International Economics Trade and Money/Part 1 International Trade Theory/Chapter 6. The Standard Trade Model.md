@@ -1,20 +1,42 @@
 ---
-cssclasses: [international-economics]
-title: Chapter 6. The Standard Trade Model
-tags: [international-economics, trade-theory, standard-trade-model]
-aliases: [Standard Trade Model]
+aliases:
+- Standard Trade Model
+cssclasses:
+- international-economics
 key_concepts:
-  - Terms of Trade
-  - Production Possibilities
-  - Relative Supply and Demand
-  - Economic Growth
-  - Export-biased Growth
-  - Import-biased Growth
-  - Immiserizing Growth
-  - Tariffs and Export Subsidies
-  - Intertemporal Trade
-  - Real Interest Rate
+- Terms of Trade
+- Production Possibilities
+- Relative Supply and Demand
+- Economic Growth
+- Export-biased Growth
+- Import-biased Growth
+- Immiserizing Growth
+- Tariffs and Export Subsidies
+- Intertemporal Trade
+- Real Interest Rate
+- Equity valuation and analysis
+- Dividend discount models
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Interest rate modeling
+- Term structure of interest rates
 linter-yaml-title-alias: Chapter 6. The Standard Trade Model
+tags:
+- equity
+- portfolio-theory
+- international-economics
+- trade-theory
+- bonds
+- futures
+- options
+- stochastic-calculus
+- interest_rates
+- standard-trade-model
+title: Chapter 6. The Standard Trade Model
 ---
 
 # CHAPTER 6

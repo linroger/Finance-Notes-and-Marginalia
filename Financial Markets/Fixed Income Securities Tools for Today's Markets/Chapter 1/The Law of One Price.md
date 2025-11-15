@@ -1,19 +1,44 @@
 ---
-tags:
-  - bond_pricing
-  - discount_factors
-  - law_of_one_price
-  - market_price
-  - us_treasury_bonds
 aliases:
-  - LOOP
-  - Law of One Price
+- LOOP
+- Law of One Price
 key_concepts:
-  - Bonds trading rich or cheap
-  - Deviations from the law
-  - Identical cash flows, same price
-  - Market price vs present value
-  - Present value calculation
+- Bonds trading rich or cheap
+- Deviations from the law
+- Identical cash flows, same price
+- Market price vs present value
+- Present value calculation
+- Credit risk modeling
+- Default probability estimation
+- Fixed income securities
+- Interest rate derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Arbitrage theory and practice
+tags:
+- discount_factors
+- us_treasury_bonds
+- credit
+- fixed_income
+- valuation
+- market_price
+- trading
+- bonds
+- arbitrage
+- futures
+- cds
+- law_of_one_price
+- options
+- bond_pricing
+- mathematical-finance
 ---
 
 # 1.3 THE LAW OF ONE PRICE  

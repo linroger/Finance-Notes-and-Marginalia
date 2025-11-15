@@ -1,12 +1,111 @@
 ---
-title: "Week 8 - Dow Chemical Case - Assignment Review"
-linter-yaml-title-alias: "Week 8 - Dow Chemical Case - Assignment Review"
-aliases: [Bahia Blanca Complex, Dow's Bid, PBB Acquisition, Argentine Privatization Case]
-date created: Tuesday, November 26th 2024, 9:10:23 pm
+aliases:
+- Bahia Blanca Complex
+- Dow's Bid
+- PBB Acquisition
+- Argentine Privatization Case
 cssclasses: academia
-tags: [currency_crisis, dow_chemical, international_risks, pbb_privatization, valuation_model, argentina, emerging_markets, discount_rate_adjustment, scenario_analysis, expropriation_risk, petrochemicals]
-key_concepts: [dow's business model, incorporate risks valuation model, international project valuation, privatization of pbb, project stages evaluation, currency crisis impact, expropriation scenarios, sovereign spread, discount rate adjustments, export backstop, business risk analysis]
+date created: Tuesday, November 26th 2024, 9:10:23 pm
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-7fc80e
 instructor: Thomas Rauter
+key_concepts:
+- Apt
+- Stage 2 credit exposure classification
+- Carry trades and momentum in FX markets
+- Extensions to multi-factor CAPM models
+- Stage 3 credit exposure classification
+- Duration and convexity analysis for bond portfolio management
+- Active portfolio management and performance attribution
+- export backstop
+- project stages evaluation
+- Credit risk modeling and default probability estimation
+- Option Greeks and portfolio risk management
+- privatization of pbb
+- Capital Asset Pricing Model and beta estimation
+- Risk budgeting and portfolio construction techniques
+- Commodity markets and pricing dynamics
+- Capital Asset Pricing Model and expected returns
+- Historical simulation vs. parametric VaR models
+- Vega and volatility risk management
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- Monte Carlo VaR for complex portfolios
+- cost of capital estimation
+- business risk analysis
+- Stress testing and scenario analysis
+- international project valuation
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Security Market Line and beta measurement
+- Currency risk management and hedging
+- Forward rates and interest rate parity
+- Value at Risk (VaR) methodologies and backtesting
+- Theta and time decay modeling
+- Exchange rate determination and PPP theory
+- dow's business model
+- Interest rate swap pricing and valuation
+- sovereign spread
+- Expected Shortfall and coherent risk measures
+- ESG integration in portfolio management
+- Variance swaps and volatility trading strategies
+- Delta hedging strategies in options portfolio management
+- systematic risk and market exposure
+- incorporate risks valuation model
+- discount rate adjustments
+- Gamma and convexity adjustments
+- expropriation scenarios
+- Credit risk modeling and portfolio correlation analysis
+- Stage 1 credit exposure classification
+- Credit risk assessment and loan portfolio management
+- Delta hedging and the replication argument
+- Cross-currency basis swaps and funding
+- Currency hedging strategies for global portfolios
+- Market portfolio and risk-free rate assumptions
+- Currency markets and foreign exchange trading
+- currency crisis impact
+- Empirical tests and anomalies in CAPM
+linter-yaml-title-alias: Week 8 - Dow Chemical Case - Assignment Review
+tags:
+- quantitative-implementation
+- duration-convexity
+- solution
+- commodities
+- expropriation_risk
+- wacc
+- depreciation
+- exchange-rate
+- emerging_markets
+- investment-banking
+- interest-rate-swaps
+- mathematical-finance
+- stress-testing
+- financial-crisis
+- course-material
+- scenario_analysis
+- cost-of-capital
+- haircuts
+- valuation_model
+- capital-budgeting
+- capm
+- international_risks
+- currency-risk
+- pbb_privatization
+- apt
+- greeks
+- implied-volatility
+- scenario-analysis
+- discount_rate_adjustment
+- country-risk
+- value-at-risk
+- dcf-valuation
+- exchange-rates
+- harvard-business-review
+- petrochemicals
+- credit-risk
+- argentina
+title: Week 8 - Dow Chemical Case - Assignment Review
 ---
 
 # Week 8 - Dow Chemical Case - Assignment Review

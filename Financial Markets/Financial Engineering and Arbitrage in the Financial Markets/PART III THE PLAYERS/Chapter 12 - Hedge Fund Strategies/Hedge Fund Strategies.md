@@ -1,19 +1,44 @@
 ---
-tags:
-  - financials
-  - hedge_fund_strategies
-  - long_short_equity
-  - market_upturn
-  - relative_asset_value
 aliases:
-  - Hedge Fund Strategies
-  - Relative Asset Value Funds
+- Hedge Fund Strategies
+- Relative Asset Value Funds
 key_concepts:
-  - financials sector
-  - long-short equity fund
-  - market upturn
-  - relative asset value
-  - stock market
+- financials sector
+- long-short equity fund
+- market upturn
+- relative asset value
+- stock market
+- Equity valuation and analysis
+- Dividend discount models
+- Fixed income securities
+- Interest rate derivatives
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Black-Scholes option pricing model
+- Continuous-time finance
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Derivatives pricing theory
+tags:
+- equity
+- arbitrage
+- hedge_funds
+- relative_asset_value
+- hedge_fund_strategies
+- portfolio-theory
+- long_short_equity
+- valuation
+- fixed_income
+- fx
+- trading
+- bonds
+- market_upturn
+- financials
+- black_scholes
 ---
 
 # 12.1  HEDGE FUND STRATEGIES  

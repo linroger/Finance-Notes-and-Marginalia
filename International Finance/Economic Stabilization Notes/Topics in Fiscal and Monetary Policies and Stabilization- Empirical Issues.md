@@ -1,40 +1,53 @@
 ---
-cssclasses: ["academia"]
-title: Topics in Fiscal and Monetary Policies and Stabilization - Empirical Issues
-linter-yaml-title-alias: Topics in Fiscal and Monetary Policies and Stabilization - Empirical Issues
-tags:
-  - federal_funds_rate
-  - fiscal_policy
-  - inflation
-  - monetary_policy
-  - taylor_rule
-  - automatic_stabilizers
-  - discretionary_policy
-  - budget_deficit
-  - high_employment_budget
-  - policy_limits
 aliases:
-  - Fiscal Policy
-  - Fiscal and Monetary Policies
-  - Monetary Policy
-  - Empirical Stabilization
-  - Taylor Rule Analysis
-  - Budget Surplus Analysis
+- Fiscal Policy
+- Fiscal and Monetary Policies
+- Monetary Policy
+- Empirical Stabilization
+- Taylor Rule Analysis
+- Budget Surplus Analysis
+cssclasses:
+- academia
 key_concepts:
-  - Discretionary monetary policy
-  - Federal funds rate
-  - Inflation target
-  - Output gap
-  - Taylor rule
-  - Automatic fiscal stabilizers
-  - Cyclically-adjusted budget surplus
-  - High-employment budget
-  - Primary deficit
-  - Policy timing
-  - Zero lower bound
-  - Debt sustainability
-  - Countercyclical policy
-  - Structural budget balance
+- Discretionary monetary policy
+- Federal funds rate
+- Inflation target
+- Output gap
+- Taylor rule
+- Automatic fiscal stabilizers
+- Cyclically-adjusted budget surplus
+- High-employment budget
+- Primary deficit
+- Policy timing
+- Zero lower bound
+- Debt sustainability
+- Countercyclical policy
+- Structural budget balance
+- Equity valuation and analysis
+- Dividend discount models
+- Credit risk modeling
+- Default probability estimation
+- Option sensitivity analysis
+- Delta, gamma, vega, theta, rho
+linter-yaml-title-alias: Topics in Fiscal and Monetary Policies and Stabilization
+  - Empirical Issues
+tags:
+- inflation
+- equity
+- interest_rates
+- high_employment_budget
+- credit
+- monetary_policy
+- taylor_rule
+- greeks
+- bonds
+- budget_deficit
+- risk_management
+- federal_funds_rate
+- discretionary_policy
+- options
+- mathematical-finance
+title: Topics in Fiscal and Monetary Policies and Stabilization - Empirical Issues
 ---
 
 # Topics in Fiscal and Monetary Policies and Stabilization: Empirical Issues

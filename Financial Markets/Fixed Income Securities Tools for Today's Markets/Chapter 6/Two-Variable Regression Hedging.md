@@ -1,19 +1,44 @@
 ---
-tags:
-  - bond_yields
-  - butterfly_strategy
-  - regression_hedging
-  - relative_value_trade
-  - term_structure
 aliases:
-  - Regression hedging
-  - Two-variable hedging
+- Regression hedging
+- Two-variable hedging
 key_concepts:
-  - Butterfly trade
-  - Hedging face amounts
-  - Relative value trader
-  - Term structure correlation
-  - Two-variable regression hedging
+- Butterfly trade
+- Hedging face amounts
+- Relative value trader
+- Term structure correlation
+- Two-variable regression hedging
+- Fixed income securities
+- Interest rate derivatives
+- Foreign exchange markets
+- Currency derivatives
+- Option sensitivity analysis
+- Delta, gamma, vega, theta, rho
+- Bond pricing and yield analysis
+- Duration and convexity
+- Derivatives pricing theory
+- Risk-neutral valuation
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Value at risk and stress testing
+- Portfolio risk metrics
+- Interest rate modeling
+tags:
+- greeks
+- butterfly_strategy
+- term_structure
+- bond_yields
+- mathematical-finance
+- interest_rates
+- portfolio-theory
+- fixed_income
+- fx
+- bonds
+- derivatives
+- options
+- risk_management
+- portfolio
+- relative_value_trade
 ---
 
 # 6.2 TWO-VARIABLE REGRESSION HEDGING  

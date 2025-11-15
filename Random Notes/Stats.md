@@ -1,3 +1,69 @@
+---
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-64ae06
+key_concepts:
+- Extensions to multi-factor CAPM models
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Option Greeks and portfolio risk management
+- Capital Asset Pricing Model and expected returns
+- Solution
+- Historical simulation vs. parametric VaR models
+- Credit spread decomposition and hazard rates
+- Vega and volatility risk management
+- CDS clearing and central counterparties
+- Value at risk and stress testing
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- Monte Carlo VaR for complex portfolios
+- Liquidity and price discovery
+- Stress testing and scenario analysis
+- Fixed-for-floating swap cash flows and valuation
+- Security Market Line and beta measurement
+- Value at Risk (VaR) methodologies and backtesting
+- Theta and time decay modeling
+- Counterparty risk and settlement
+- Portfolio risk metrics
+- Case Study
+- Interest rate swap pricing and valuation
+- Credit derivatives
+- Expected Shortfall and coherent risk measures
+- Credit default swap pricing and risk-neutral probabilities
+- Market microstructure and trading
+- Structured products and CDOs
+- Variance swaps and volatility trading strategies
+- Stress Testing
+- Quantitative Implementation
+- Gamma and convexity adjustments
+- Delta hedging and the replication argument
+- Credit default swaps and credit risk
+- Cross-currency basis swaps and funding
+- Delta hedging and Greeks
+- Market portfolio and risk-free rate assumptions
+- Options pricing and payoff structures
+tags:
+- quantitative-implementation
+- solution
+- credit-default-swaps
+- collateralized-debt-obligations
+- structured_finance
+- interest-rate-swaps
+- mathematical-finance
+- stress-testing
+- trading
+- capm
+- case-study
+- greeks
+- risk_management
+- volatility
+- value-at-risk
+- cds
+- options
+- credit-risk
+---
+
 Got it, let's start by understanding the first part: deriving the logistic function from the log-odds. The user's notes show the steps for logit to probability, so let's go through that carefully. Then, we need to cover expected value, variance, and normal distribution properties. Let's break it down.
 
 

@@ -1,27 +1,57 @@
 ---
-title: Financial Instruments Example Midterm Solutions
-cssclasses: academia
-tags:
-  - binomial_trees
-  - bond_valuation
-  - european_call_option
-  - european_put_option
-  - no_arbitrage_price
 aliases:
-  - financial instruments midterm solutions
-  - option pricing exam
-  - option valuation
+- financial instruments midterm solutions
+- option pricing exam
+- option valuation
+cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-247f9f
 key_concepts:
-  - Binary option price
-  - Binomial tree pricing
-  - Bond valuation example
-  - European call option
-  - European put option
-  - Forward contract pricing
-  - Hedging strategies
-  - Risk-neutral valuation
-  - No-arbitrage pricing
-  - Option delta calculation
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Partial differential equations in financial modeling
+- Credit risk modeling and default probability estimation
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- apt
+- arbitrage
+- binomial
+- black-scholes
+- capm
+- commodities
+- completeness
+- convexity
+- correlation
+- credit-risk
+- delta
+- delta-hedging
+- derivatives-pricing
+- duration
+- exotic-options
+- factor-models
+- fixed_income
+- futures
+- gamma
+- greeks
+- hedging
+- no-arbitrage
+- options
+- pde
+- replication
+- risk-management
+- risk-neutral
+- theta
+- vega
+- yield-curve
+title: Financial Instruments Example Midterm Solutions
 ---
 
 # Financial Instruments Example Midterm Solutions

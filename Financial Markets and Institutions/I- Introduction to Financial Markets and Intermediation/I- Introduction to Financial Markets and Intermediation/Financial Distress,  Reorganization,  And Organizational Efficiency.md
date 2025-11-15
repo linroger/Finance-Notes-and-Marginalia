@@ -1,34 +1,36 @@
 ---
-cssclasses: academia
-title: Financial Distress, Reorganization, and Organizational Efficiency
-tags:
-  - bankruptcy
-  - chapter_11
-  - financial_distress
-  - organizational_efficiency
-  - restructuring
-  - agency_conflicts
-  - workout_negotiations
-  - corporate_reorganization
-  - insolvency_types
-  - distress_costs
 aliases:
-  - Financial Restructuring
-  - Organizational Changes
-  - Financial Distress Resolution
-  - Corporate Reorganization
+- Financial Restructuring
+- Organizational Changes
+- Financial Distress Resolution
+- Corporate Reorganization
+cssclasses: academia
 key_concepts:
-  - Conflicts of interest
-  - Financial distress impact
-  - Financial restructuring costs
-  - Organizational restructuring
-  - Resolving distress methods
-  - Stock vs flow insolvency
-  - Information asymmetry
-  - Bankruptcy court supervision
-  - Private workout solutions
-  - Chapter 7 vs Chapter 11
+- Risk-neutral measures and martingale pricing
+- 'Short-rate models: Vasicek, CIR, and mean reversion'
+- Bond pricing and fixed income securities valuation
+- Ito's lemma and stochastic calculus applications
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+tags:
+- apt
+- arbitrage
+- arch
+- bonds
+- cir
+- correlation
+- credit-risk
+- fixed_income
+- hedging
+- risk-management
+- risk-neutral
+- var
+title: Financial Distress, Reorganization, and Organizational Efficiency
 ---
+
 
 # Financial Distress, Reorganization, and Organizational Efficiency
 

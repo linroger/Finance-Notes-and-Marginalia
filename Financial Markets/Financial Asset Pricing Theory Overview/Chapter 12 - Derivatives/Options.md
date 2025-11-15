@@ -1,23 +1,55 @@
 ---
 tags:
-  - call_option
-  - european_option
-  - option_pricing
-  - put_call_parity
-  - put_option
+- abs
+- arbitrage
+- black-scholes
+- bonds
+- brownian-motion
+- calls
+- caps
+- delta
+- delta-hedging
+- derivatives-pricing
+- fixed_income
+- floors
+- gamma
+- geometric-brownian-motion
+- greeks
+- hedging
+- heston
+- hull-white
+- implied-volatility
+- ito-lemma
+- jump-diffusion
+- martingale
+- options
+- puts
+- replication
+- rho
+- risk-management
+- risk-neutral
+- theta
+- var
+- vega
+- zero-coupon
 aliases:
-  - Call Option
-  - European Options
-  - Option Pricing
-  - Put Option
+- Call Option
+- European Options
+- Option Pricing
+- Put Option
 key_concepts:
-  - European call option
-  - European put option
-  - Exercise price
-  - Forward martingale measure
-  - Non-dividend paying asset
-  - Option price formula
-  - Put-call parity
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Ito's lemma and stochastic calculus applications
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Volatility smile, skew, and surface modeling
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
 ---
 
 # 12.3 Options  

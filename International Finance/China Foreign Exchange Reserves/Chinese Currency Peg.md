@@ -1,26 +1,85 @@
 ---
+aliases:
+- China's Currency Peg
+- Yuan Peg
 cssclasses:
-  - academia
+- academia
 description: Explore China's currency peg,           which has helped Asia's largest
   economy enjoy robust growth and continued prosperity by making the nation's exports
   cheaper.
-source: https://www.investopedia.com/articles/forex/030616/why-chinese-yuan-pegged.asp
-title: Chinese Currency Peg
-tags:
-  - china_economy
-  - chinese_yuan
-  - currency_peg
-  - exchange_rate
-  - trade_imbalance
-aliases:
-  - China's Currency Peg
-  - Yuan Peg
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-3e3752
 key_concepts:
-  - Benefits of cheap goods
-  - China's currency peg explained
-  - Exports drive China's economy
-  - US manufacturers' complaints
-  - Yuan's low value benefits China
+- Term structure of interest rates
+- Benefits of cheap goods
+- Carry trades and momentum in FX markets
+- Term structure of interest rates and yield curve shapes
+- Currency markets and foreign exchange trading
+- Option Greeks and portfolio risk management
+- Yuan's low value benefits China
+- Currency derivatives
+- Expectations hypothesis and liquidity preference theory
+- Commodity markets and pricing dynamics
+- Solution
+- Interest rate modeling
+- Yield curve fitting and interpolation methods
+- Vega and volatility risk management
+- Portfolio immunization strategies
+- Mathematical Finance
+- Spot rates vs. forward rates modeling
+- Infrastructure investment and project finance
+- Foreign exchange markets
+- Liquidity and price discovery
+- Key rate duration and curve risk
+- Equity valuation and analysis
+- Course Material
+- Currency risk management and hedging
+- Forward rates and interest rate parity
+- Theta and time decay modeling
+- Exchange rate determination and PPP theory
+- Market microstructure and trading
+- US manufacturers' complaints
+- Bond pricing and yield analysis
+- China's currency peg explained
+- Quantitative Implementation
+- Gamma and convexity adjustments
+- Delta hedging and the replication argument
+- Parallel and non-parallel shifts in the yield curve
+- Exports drive China's economy
+- Duration and convexity measures for bond portfolios
+- Delta hedging and Greeks
+- Price sensitivity to interest rate changes
+- Modified duration vs. Macaulay duration
+- Duration and convexity
+- Options pricing and payoff structures
+- Dividend discount models
+source: https://www.investopedia.com/articles/forex/030616/why-chinese-yuan-pegged.asp
+tags:
+- yield-curve
+- fx
+- commodities
+- mathematical-finance
+- trading
+- course-material
+- trade_imbalance
+- bonds
+- chinese_yuan
+- greeks
+- exchange-rates
+- valuation
+- options
+- quantitative-implementation
+- duration-convexity
+- solution
+- equity
+- interest_rates
+- infrastructure
+- currency_peg
+- regulatory-framework
+- exchange_rate
+- china_economy
+title: Chinese Currency Peg
 ---
 
 # Chinese Currency Peg

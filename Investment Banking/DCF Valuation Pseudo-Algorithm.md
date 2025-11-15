@@ -1,4 +1,97 @@
-
+---
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-ff4707
+key_concepts:
+- Extensions to multi-factor CAPM models
+- Working Capital
+- Currency markets and foreign exchange trading
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Market risk measurement and portfolio volatility
+- Option Greeks and portfolio risk management
+- Capital Asset Pricing Model and expected returns
+- Futures contracts and forward pricing
+- Historical simulation vs. parametric VaR models
+- Default probability estimation
+- Credit spread decomposition and hazard rates
+- Vega and volatility risk management
+- CDS clearing and central counterparties
+- Value at risk and stress testing
+- CDS-Bond basis and arbitrrage opportunities
+- Mathematical Finance
+- Option sensitivity analysis
+- Monte Carlo VaR for complex portfolios
+- Liquidity and price discovery
+- Market portfolio and risk-free rate assumptions
+- Stress testing and scenario analysis
+- Equity valuation and analysis
+- Course Material
+- Security Market Line and beta measurement
+- Currency risk management and hedging
+- Forward rates and interest rate parity
+- Value at Risk (VaR) methodologies and backtesting
+- Theta and time decay modeling
+- Counterparty risk and settlement
+- Portfolio risk metrics
+- Exchange rate determination and PPP theory
+- Margin requirements and clearing
+- Expected Shortfall and coherent risk measures
+- Delta, gamma, vega, theta, rho
+- Credit default swap pricing and risk-neutral probabilities
+- Market microstructure and trading
+- Interest rate derivatives
+- Fixed income securities
+- Bond pricing and yield analysis
+- Gamma and convexity adjustments
+- Capital Structure
+- Delta hedging and the replication argument
+- Credit default swaps and credit risk
+- Credit risk modeling
+- Delta hedging and Greeks
+- Duration and convexity
+- Options pricing and payoff structures
+- Dividend discount models
+- Empirical tests and anomalies in CAPM
+tags:
+- working-capital
+- credit-default-swaps
+- collateralized-debt-obligations
+- mathematical-finance
+- trading
+- course-material
+- capital-structure
+- capm
+- market-risk
+- bonds
+- greeks
+- risk_management
+- value-at-risk
+- fixed_income
+- exchange-rates
+- valuation
+- options
+- credit-risk
+- quantitative-implementation
+- duration-convexity
+- solution
+- real-estate
+- treasury-bonds
+- wacc
+- structured_finance
+- equity
+- stress-testing
+- corporate-bonds
+- credit
+- vasicek-model
+- dcf-valuation
+- regulatory-framework
+- harvard-business-review
+- futures
+- cds
+- mean-reversion
+- credit-analysis
+---
 
 # DCF Valuation Pseudo-Algorithm
 

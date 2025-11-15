@@ -1,23 +1,75 @@
 ---
-title: "Appendix 10.A Taxes and Option Prices"
-cssclasses: academia
-tags:
-  - binomial-pricing
-  - capital-gains
-  - dealers
-  - marked-to-market
-  - option-prices
-  - tax-rates
-  - taxes
 aliases:
-  - Appendix 10
-  - Taxes and Options
+- Appendix 10
+- Taxes and Options
+cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-a80e8e
 key_concepts:
-  - After-tax return equality
-  - Binomial price with taxes
-  - Dealer marked-to-market
-  - Option pricing formula
-  - Tax rates on income
+- Extensions to multi-factor CAPM models
+- Tax rates on income
+- Duration and convexity analysis for bond portfolio management
+- Active portfolio management and performance attribution
+- Credit risk modeling and default probability estimation
+- Option Greeks and portfolio risk management
+- Risk budgeting and portfolio construction techniques
+- Capital Asset Pricing Model and beta estimation
+- Binomial price with taxes
+- Solution
+- Capital Asset Pricing Model and expected returns
+- Credit portfolio diversification and concentration
+- Vega and volatility risk management
+- Option pricing formula
+- After-tax return equality
+- Portfolio immunization strategies
+- Mathematical Finance
+- Key rate duration and curve risk
+- Course Material
+- Security Market Line and beta measurement
+- Theta and time decay modeling
+- ESG integration in portfolio management
+- Credit exposure measurement and EAD
+- Loss given default and recovery rates
+- Delta hedging strategies in options portfolio management
+- Wrong-way risk in derivative transactions
+- Quantitative Implementation
+- Financial markets and instruments
+- Gamma and convexity adjustments
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Delta hedging and the replication argument
+- Duration and convexity measures for bond portfolios
+- Currency hedging strategies for global portfolios
+- Price sensitivity to interest rate changes
+- Modified duration vs. Macaulay duration
+- Market portfolio and risk-free rate assumptions
+- Dealer marked-to-market
+- Empirical tests and anomalies in CAPM
+tags:
+- derivatives-markets
+- mathematical-finance
+- course-material
+- capm
+- financial-modeling
+- greeks
+- binomial-pricing
+- capital-gains
+- credit-risk
+- investment-strategy
+- quantitative-implementation
+- duration-convexity
+- solution
+- option-prices
+- marked-to-market
+- tax-rates
+- option-pricing
+- dealers
+- taxes
+- derivatives-pricing
+- portfolio-theory
+- quantitative-finance
+title: Appendix 10.A Taxes and Option Prices
 ---
 
 # Appendix 10.A Taxes and Option Prices

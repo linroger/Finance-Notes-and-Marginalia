@@ -1,23 +1,76 @@
 ---
-tags:
-  - credit_derivatives
-  - financial_derivatives
-  - futures_contracts
-  - interest_rate_derivatives
-  - options_trading
 aliases:
-  - Derivative Types
-  - Derivatives Overview
-  - Derivatives and Uses
-  - Financial Instruments
+- Derivative Types
+- Derivatives Overview
+- Derivatives and Uses
+- Financial Instruments
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-258bde
 key_concepts:
-  - Alternative investment form
-  - Exposure to underlying assets
-  - Financial instrument agreement
-  - Leverage and speculation
-  - Risk mitigation and hedging
-  - Swaps, futures, options
-  - Underlying asset value
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Monte Carlo simulation for derivatives valuation
+- Partial differential equations in financial modeling
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- american-options
+- apt
+- arbitrage
+- arch
+- binomial
+- black-scholes
+- bonds
+- capm
+- caps
+- cds
+- commodities
+- convexity
+- corporate-bonds
+- counterparty-risk
+- credit-default-swaps
+- credit-risk
+- currency-swaps
+- delta
+- delta-hedging
+- derivatives-pricing
+- duration
+- european-options
+- exotic-options
+- fixed_income
+- floors
+- futures
+- futures-markets
+- garch
+- greeks
+- hedging
+- hjm
+- hull-white
+- implied-volatility
+- interest-rate-swaps
+- martingale
+- mbs
+- monte-carlo
+- no-arbitrage
+- options
+- pde
+- risk-management
+- risk-neutral
+- stochastic-calculus
+- swaps
+- swaptions
+- var
 ---
 
 # Contents  

@@ -1,26 +1,45 @@
 ---
-tags:
-  - agency_mbs
-  - fha
-  - fhlmc
-  - financial_crisis
-  - fnma
-  - gnma
-  - gse
-  - mbs
-  - mortgage_market
-  - us_government
 aliases:
-  - Agency MBS
-  - GSEs
-  - Mortgage Lending
-  - US Mortgage Market
+- Agency MBS
+- GSEs
+- Mortgage Lending
+- US Mortgage Market
 key_concepts:
-  - Agency MBS, GSEs
-  - FHA, FNMA, VA
-  - MBS securitization
-  - Mortgage market in US
-  - Secondary mortgage market
+- Agency MBS, GSEs
+- FHA, FNMA, VA
+- MBS securitization
+- Mortgage market in US
+- Secondary mortgage market
+- Equity valuation and analysis
+- Dividend discount models
+- Credit risk modeling
+- Default probability estimation
+- Fixed income securities
+- Interest rate derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Derivatives pricing theory
+- Risk-neutral valuation
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Value at risk and stress testing
+- Portfolio risk metrics
+tags:
+- gse
+- equity
+- fha
+- credit
+- gnma
+- mortgage_market
+- fnma
+- financial_crisis
+- fhlmc
+- portfolio-theory
+- stochastic_calculus
+- fixed_income
+- trading
+- mbs
+- derivatives
 ---
 
 # 15.1 THE MORTGAGE MARKET IN THE UNITED STATES  

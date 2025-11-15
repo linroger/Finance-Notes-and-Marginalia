@@ -1,20 +1,45 @@
 ---
-tags:
-  - adjustable_rate_mortgages
-  - digital_options
-  - exotic_options
-  - interest_rate_options
-  - periodic_caps
 aliases:
-  - digitals
-  - exotic
-  - ranges
+- digitals
+- exotic
+- ranges
 key_concepts:
-  - adjustable rate mortgage
-  - digital option definition
-  - exotic option payoffs
-  - periodic cap structure
-  - range option structure
+- adjustable rate mortgage
+- digital option definition
+- exotic option payoffs
+- periodic cap structure
+- range option structure
+- Equity valuation and analysis
+- Dividend discount models
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Foreign exchange markets
+- Currency derivatives
+- Black-Scholes option pricing model
+- Continuous-time finance
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Derivatives pricing theory
+- Risk-neutral valuation
+- Arbitrage theory and practice
+tags:
+- equity
+- interest_rate_options
+- model-calibration
+- credit
+- periodic_caps
+- exotic_options
+- calibration
+- cds
+- hedge_funds
+- structured_finance
+- binomial
+- adjustable_rate_mortgages
+- interest_rates
+- portfolio-theory
+- valuation
 ---
 
 # 6.4 EXOTIC INTEREST RATE OPTIONS  

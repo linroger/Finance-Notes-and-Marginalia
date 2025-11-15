@@ -1,21 +1,37 @@
 ---
-tags:
-  - american_options
-  - arbitrage_rules
-  - european_options
-  - intrinsic_value
-  - option_expiry
-  - option_pricing
 aliases:
-  - Option Pricing
-  - Option Value
+- Option Pricing
+- Option Value
 key_concepts:
-  - American option exercise
-  - Arbitrage rules options
-  - European option value
-  - Higher strike call value
-  - Longer maturity option value
-  - Option value prior expiry
+- American option exercise
+- Arbitrage rules options
+- European option value
+- Higher strike call value
+- Longer maturity option value
+- Option value prior expiry
+- Equity valuation and analysis
+- Dividend discount models
+- Bond pricing and yield analysis
+- Duration and convexity
+- Alternative investment strategies
+- Hedge fund replication
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Arbitrage theory and practice
+- Law of one price
+tags:
+- equity
+- intrinsic_value
+- european_options
+- valuation
+- bonds
+- option_expiry
+- american_options
+- hedge_funds
+- options
+- arbitrage_rules
+- option_pricing
+- arbitrage
 ---
 
 # 5.3  OPTION VALUES PRIOR TO EXPIRY  

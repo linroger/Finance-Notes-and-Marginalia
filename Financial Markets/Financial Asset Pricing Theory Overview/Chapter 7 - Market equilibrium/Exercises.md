@@ -1,34 +1,34 @@
 ---
 tags:
-  - aggregate_consumption
-  - brownian_motion
-  - consumption
-  - discrete_time_economy
-  - market_completeness
-  - risk_aversion
-  - state_price
-  - state_price_deflator
-  - utility_function
+- completeness
+- delta
+- derivatives-pricing
+- gamma
+- options
+- risk-management
 aliases:
-  - exercise 7.1
-  - exercise 7.2
-  - exercise 7.3
-  - exercise 7.4
-  - exercise 7.5
-  - exercise 7.6
-  - exercise 7.7
+- exercise 7.1
+- exercise 7.2
+- exercise 7.3
+- exercise 7.4
+- exercise 7.5
+- exercise 7.6
+- exercise 7.7
 key_concepts:
-  - Brownian motion
-  - European call options
-  - aggregate consumption dynamics
-  - extended log-utility
-  - market price of risk
-  - negative exponential utility
-  - risk-free rate
-  - state-contingent dividends
-  - state-price deflator
-  - time-additive expected utility
-  - utility of individuals
+- Market Equilibrium and Representative Agent Models
+- State-Price Deflators and Risk-Neutral Valuation
+- Utility Theory and Optimal Consumption Portfolio Choice
+- Constant Relative Risk Aversion (CRRA) and HARA Utility
+- Market Completeness and Arbitrage-Free Pricing
+- Multi-Agent Economies and Aggregate Consumption
+- Time-Additive Expected Utility and Time Preference
+- Risk Aversion Coefficients and Portfolio Optimization
+- Brownian Motion and Continuous-Time Asset Pricing
+- Market Clearing Conditions and General Equilibrium
+- State-Contingent Claims and Option Pricing
+- European Call Options and Complete Markets
+- Stochastic Discount Factors and Pricing Kernels
+- Consumption Growth and Risk Premium Determination
 ---
 
 # 7.5 Exercises  

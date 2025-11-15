@@ -1,25 +1,49 @@
 ---
 tags:
-  - bond_pricing
-  - equilibrium
-  - interest_rate_models
-  - mean_reversion
-  - ornstein_uhlenbeck_process
-  - vasicek_model
-  - yield_curve
+- abs
+- arbitrage
+- bonds
+- calibration
+- cir
+- closed-form
+- completeness
+- convexity
+- correlation
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- fixed_income
+- futures
+- gamma
+- greeks
+- hedging
+- martingale
+- options
+- risk-management
+- risk-neutral
+- theta
+- var
+- vasicek
+- zero-coupon
 aliases:
-  - Ornstein-Uhlenbeck
-  - Short-term interest rate
-  - Vasicek
-  - Zero-coupon bond
+- Ornstein-Uhlenbeck
+- Short-term interest rate
+- Vasicek
+- Zero-coupon bond
 key_concepts:
-  - Bond pricing and yield curve
-  - Equilibrium real interest rate
-  - Market price of risk
-  - Mean reversion in drift
-  - Ornstein-Uhlenbeck process
-  - Stochastic differential equation (SDE)
-  - Vasicek interest rate model
+- Risk-neutral measures and martingale pricing
+- Term structure of interest rates and yield curve modeling
+- 'Short-rate models: Vasicek, CIR, and mean reversion'
+- Bond pricing and fixed income securities valuation
+- Ito's lemma and stochastic calculus applications
+- Monte Carlo simulation for derivatives valuation
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
 ---
 
 # 10.5 Equilibrium interest rate models  

@@ -1,42 +1,68 @@
 ---
-title: Lecture 8 - Inflation & Sovereign Default Risk
-cssclasses:
-  - academia
-  - finance
-tags:
-  - cpi
-  - inflation
-  - nominal_returns
-  - purchasing_power
-  - real_returns
-  - hyperinflation
-  - tips
-  - real_assets
-  - nominal_assets
-  - sovereign_default
-  - debt_crisis
-  - cpi_index
-  - inflation_hedging
 aliases:
-  - Lecture 8
-  - Sovereign Risk
-  - Inflation Risk
-  - Real Asset Allocation
+- Lecture 8
+- Sovereign Risk
+- Inflation Risk
+- Real Asset Allocation
+cssclasses:
+- academia
+- finance
 key_concepts:
-  - Asset Mix and Portfolio
-  - Consumer Price Index (CPI)
-  - Inflation and Purchasing Power
-  - Long-term Investment Impact
-  - Nominal vs. Real Returns
-  - Hyperinflation episodes
-  - Treasury Inflation Protected Securities (TIPS)
-  - Real vs nominal assets
-  - Stock-bond correlation in inflationary periods
-  - Gold as inflation hedge
-  - Sovereign default risk
-  - Historical debt crises
-  - German hyperinflation case study
+- Asset Mix and Portfolio
+- Consumer Price Index (CPI)
+- Inflation and Purchasing Power
+- Long-term Investment Impact
+- Nominal vs. Real Returns
+- Hyperinflation episodes
+- Treasury Inflation Protected Securities (TIPS)
+- Real vs nominal assets
+- Stock-bond correlation in inflationary periods
+- Gold as inflation hedge
+- Sovereign default risk
+- Historical debt crises
+- German hyperinflation case study
+- portfolio theory and asset pricing
+- risk measurement and management
+- consolidation accounting principles
+- nominal value and monetary amounts
+- real value and inflation adjustment
+- price index and inflation measurement
+- CPI and consumer inflation
+- GDP deflator and inflation measurement
+- expected inflation and breakeven rates
+- breakeven inflation rate calculation
+- Treasury Inflation-Protected Securities
+- zero-coupon bond pricing and yields
+- coupon-bearing bond analysis
+- high yield debt and default risk
+- Delta hedging strategies in options portfolio management
+- Duration and convexity analysis for bond portfolio management
+- Credit risk modeling and portfolio correlation analysis
+tags:
+- capm
+- corporate-bonds
+- depreciation
+- emerging-markets
+- exchange-rate
+- financial-crisis
+- fiscal-policy
+- loss-given-default
+- mean-variance
+- monetary-policy
+- real-estate
+- recovery-rate
+- sovereign-bonds
+- sovereign-debt
+- sovereign-default
+- term-structure
+- time-series
+- treasury-bonds
+- var
+- yield-curve
+title: Lecture 8 - Inflation & Sovereign Default Risk
 ---
+
+
 
 # Lecture 8 - Inflation & Sovereign Default Risk
 

@@ -1,29 +1,69 @@
 ---
-title: Counterparty Risk, Multiple Curves, CVA, DVA, and FVA
-tags:
-  - counterparty-risk
-  - cva
-  - dva
-  - fva
-  - credit-risk
-  - derivatives-valuation
-  - xva
-  - collateral-management
-  - financial-engineering
 aliases:
-  - Chapter 24 Counterparty Risk
-  - CVA DVA FVA
-  - XVA Adjustments
-key_concepts:
-  - Credit Valuation Adjustment (CVA)
-  - Debit Valuation Adjustment (DVA)
-  - Funding Valuation Adjustment (FVA)
-  - Counterparty credit risk
-  - Collateral agreements
-  - Wrong-way risk
-  - Multiple curve framework
-  - Bilateral CVA
+- Chapter 24 Counterparty Risk
+- CVA DVA FVA
+- XVA Adjustments
 cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-70206f
+key_concepts:
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Monte Carlo simulation for derivatives valuation
+- Partial differential equations in financial modeling
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- abs
+- apt
+- arch
+- binomial
+- black-scholes
+- bonds
+- cds
+- commodities
+- convexity
+- copula
+- corporate-bonds
+- counterparty-risk
+- credit-default-swaps
+- credit-risk
+- credit-spreads
+- default-probability
+- derivatives-pricing
+- duration
+- exotic-options
+- factor-models
+- fixed_income
+- garch
+- greeks
+- hedging
+- hjm
+- hull-white
+- interest-rate-swaps
+- monte-carlo
+- options
+- pde
+- recovery-rate
+- replication
+- risk-management
+- risk-neutral
+- structural-models
+- swaps
+- swaptions
+- var
+- yield-curve
+title: Counterparty Risk, Multiple Curves, CVA, DVA, and FVA
 ---
 
 # COUNTERPARTY RISK, MULTIPLE CURVES, CVA, DVA, AND FVA  

@@ -1,22 +1,101 @@
 ---
-tags:
-  - catastrophe_bonds
-  - energy_derivatives
-  - price_risk
-  - volume_risk
-  - weather_derivatives
 aliases:
-  - CAT bonds
-  - Commodity Derivatives
-  - Energy and Weather Derivatives
+- CAT bonds
+- Commodity Derivatives
+- Energy and Weather Derivatives
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-fb0d4e
 key_concepts:
-  - Catastrophe bond purpose
-  - Energy contracts overview
-  - Energy price volatility
-  - Hedging price risk
-  - Hedging volume risk
-  - Weather derivative uses
+- Apt
+- Liquidity coverage ratio and net stable funding ratio
+- Extensions to multi-factor CAPM models
+- Duration and convexity analysis for bond portfolio management
+- Active portfolio management and performance attribution
+- Stress testing and supervisory review processes
+- Mean-variance optimization and the efficient frontier
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Market risk measurement and portfolio volatility
+- Option Greeks and portfolio risk management
+- maturity date in CDS
+- Commodity markets and pricing dynamics
+- Capital Asset Pricing Model and beta estimation
+- Risk budgeting and portfolio construction techniques
+- Energy price volatility
+- Capital Asset Pricing Model and expected returns
+- Mathematical derivation of the Black-Scholes partial differential equation
+- Credit spread decomposition and hazard rates
+- Vega and volatility risk management
+- Leverage ratio and large exposures
+- CDS clearing and central counterparties
+- Catastrophe bond purpose
+- forward commitments and hedging
+- CDS-Bond basis and arbitrrage opportunities
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- Risk-weighted assets and capital adequacy ratios
+- Security Market Line and beta measurement
+- Theta and time decay modeling
+- Case Study
+- excess returns and manager skill
+- interest rate and currency derivatives
+- Credit default swap pricing and risk-neutral probabilities
+- ESG integration in portfolio management
+- present value and discounting methods
+- Basel III regulatory framework and capital requirements
+- Risk-neutral valuation in continuous time models
+- Hedging price risk
+- Delta hedging strategies in options portfolio management
+- systematic risk and market exposure
+- Energy contracts overview
+- Gamma and convexity adjustments
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Delta hedging and the replication argument
+- Currency hedging strategies for global portfolios
+- Weather derivative uses
+- Black-Scholes-Merton option pricing model and its applications
+- Market portfolio and risk-free rate assumptions
+- Hedging volume risk
+- Empirical tests and anomalies in CAPM
+tags:
+- commodities
+- credit-default-swaps
+- risk-management
+- energy-derivatives
+- collateralized-debt-obligations
+- garch-models
+- mathematical-finance
+- bank-regulation
+- capm
+- market-risk
+- mean-variance
+- apt
+- case-study
+- greeks
+- black-scholes-model
+- value-at-risk
+- exchange-rates
+- energy_derivatives
+- credit-risk
+- weather_derivatives
+- currency-swaps
+- european-options
+- duration-convexity
+- quantitative-implementation
+- catastrophe-bonds
+- solution
+- treasury-bonds
+- weather-derivatives
+- catastrophe_bonds
+- exotic-options
+- volume_risk
+- dcf-valuation
+- price_risk
+- municipal-bonds
 ---
+
 # Energy and Weather Derivatives  
 
 # Aims  

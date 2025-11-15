@@ -1,25 +1,54 @@
 ---
-title: Bond Equivalent Yield (BEY) - Definition, Formula, and Example
-source: https://www.investopedia.com/terms/b/bey.asp
+aliases:
+- BEY
+- BEY formula
+- Bond Yield
 description: The bond equivalent yield is a calculation for restating semi-annual,
   quarterly, or monthly discount-bond or note yields into an annual yield.
-tags:
-  - bond_equivalent_yield
-  - bond_yield
-  - fixed_income
-  - investment_portfolio
-  - zero_coupon_bonds
-aliases:
-  - BEY
-  - BEY formula
-  - Bond Yield
 key_concepts:
-  - Bond equivalent yield definition
-  - Bond equivalent yield formula
-  - Compare bond performance
-  - Fixed income securities
-  - Zero-coupon bond returns
+- Bond equivalent yield definition
+- Bond equivalent yield formula
+- Compare bond performance
+- Fixed income securities
+- Zero-coupon bond returns
+- zero-coupon bond pricing and yields
+- coupon-bearing bond analysis
+- par value in CDS settlement
+- Delta hedging strategies in options portfolio management
+- Duration and convexity analysis for bond portfolio management
+- Credit risk modeling and portfolio correlation analysis
+- Capital Asset Pricing Model and beta estimation
+- Active portfolio management and performance attribution
+- Risk budgeting and portfolio construction techniques
+- ESG integration in portfolio management
+- Credit risk assessment and loan portfolio management
+- Currency hedging strategies for global portfolios
+- zero-coupon bond pricing and yields
+- coupon-bearing bond analysis
+- par value in CDS settlement
+- Delta hedging strategies in options portfolio management
+- Duration and convexity analysis for bond portfolio management
+- Credit risk modeling and portfolio correlation analysis
+- Capital Asset Pricing Model and beta estimation
+- Active portfolio management and performance attribution
+- Risk budgeting and portfolio construction techniques
+- ESG integration in portfolio management
+- Credit risk assessment and loan portfolio management
+- Currency hedging strategies for global portfolios
+source: https://www.investopedia.com/terms/b/bey.asp
+tags:
+- bond_equivalent_yield
+- bond_yield
+- financial-analysis
+- financial-modeling
+- fixed_income
+- investment_portfolio
+- quantitative-finance
+- zero_coupon_bonds
+title: Bond Equivalent Yield (BEY) - Definition, Formula, and Example
 ---
+
+
 
 
 ## What Is the Bond Equivalent Yield?

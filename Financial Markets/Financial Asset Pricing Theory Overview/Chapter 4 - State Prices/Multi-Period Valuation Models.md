@@ -1,19 +1,19 @@
 ---
 tags:
-  - closed_form_valuation
-  - continuous_time
-  - discrete_time
-  - multi_period_valuation
-  - state_price_deflator
+- closed-form
+- correlation
+- credit-risk
+- derivatives-pricing
+- pde
+- rho
+- risk-management
+- var
 aliases:
-  - Multi-Period Models
-  - Multi-Period Valuation
+- Multi-Period Models
+- Multi-Period Valuation
 key_concepts:
-  - Closed-form dividend valuation
-  - Continuous-time valuation
-  - Discrete-time framework
-  - Price-dividend ratio
-  - Risk-adjusted discount factor
+- Partial differential equations in financial modeling
+- Value at Risk and tail risk measurement
 ---
 
 # 4.4 Multi-period valuation models  

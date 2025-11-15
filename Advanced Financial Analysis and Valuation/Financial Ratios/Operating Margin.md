@@ -1,31 +1,118 @@
 ---
-title: Operating Margin
-cssclasses:
-  - academia
-tags:
-  - ebit
-  - financial_metrics
-  - operating_margin
-  - profitability
-  - return_on_sales
-  - financial_ratios
-  - corporate_finance
 aliases:
-  - Operating Profit Margin
-  - Profit Margin
-  - ROS
-  - Return on Sales
+- Operating Profit Margin
+- Profit Margin
+- ROS
+- Return on Sales
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch04-FE-tags-v2
 key_concepts:
-  - Compare within industry
-  - EBIT divided by sales
-  - Efficiency in generating profit
-  - Profit from core operations
-  - Variable costs of production
-  - Measure of operational efficiency
-  - Indicator of management effectiveness
-  - Higher is better within same industry
-  - Also known as Return on Sales (ROS)
-  - Core component of profitability analysis
+- Deposit Insurance
+- Working Capital
+- Mean-variance optimization and the efficient frontier
+- Extreme value theory and tail risk modeling
+- Efficiency in generating profit
+- net margin in loan structures
+- Credit risk modeling and default probability estimation
+- Also known as Return on Sales (ROS)
+- Wholesale funding markets and maturity transformation
+- Commodity markets and pricing dynamics
+- Risk budgeting and portfolio construction techniques
+- Funding liquidity vs. market liquidity
+- Solution
+- Historical simulation vs. parametric VaR models
+- Credit portfolio diversification and concentration
+- Higher is better within same industry
+- DV01 calculation and interest rate risk hedging
+- Portfolio immunization strategies
+- Mathematical Finance
+- Monte Carlo integration and variance reduction
+- Compare within industry
+- Deposit insurance and systemic risk prevention
+- Monte Carlo VaR for complex portfolios
+- Measure of operational efficiency
+- Stress testing and scenario analysis
+- Key rate duration and curve risk
+- EBIT divided by sales
+- Course Material
+- Profit from core operations
+- Value at Risk (VaR) methodologies and backtesting
+- Risk-neutral pricing methodology for derivative securities
+- Case Study
+- Operational risk quantification and modeling
+- Arbitrage opportunities and risk-free profit extraction
+- Expected Shortfall and coherent risk measures
+- Liquidity risk management in financial institutions
+- Bank liquidity ratios and funding risk management
+- gross margin in loan structures
+- Core component of profitability analysis
+- Credit exposure measurement and EAD
+- Loss given default and recovery rates
+- Indicator of management effectiveness
+- Wrong-way risk in derivative transactions
+- Stress Testing
+- Systemic risk and financial stability
+- Deposit stability and core funding
+- Value-at-Risk calculation using historical simulation
+- Variable costs of production
+- Quantitative Implementation
+- Credit risk migration matrices and rating transition
+- Credit risk modeling and portfolio correlation analysis
+- Backtesting procedures for risk models
+- Credit risk assessment and loan portfolio management
+- Liquidity risk measurement and management
+- Duration and convexity measures for bond portfolios
+- Systemic risk indicators and early warning systems
+- Price sensitivity to interest rate changes
+- Modified duration vs. Macaulay duration
+- Liquidity stress testing and contingency funding plans
+tags:
+- working-capital
+- commodities
+- ebit
+- profitability
+- mathematical-finance
+- course-material
+- financial_ratios
+- corporate_finance
+- case-study
+- amortization
+- value-at-risk
+- net-income
+- ebitda
+- credit-risk
+- quantitative-implementation
+- duration-convexity
+- solution
+- financial_metrics
+- depreciation
+- stress-testing
+- return_on_sales
+- liquidity-risk
+- systemic-risk
+- operating_margin
+- deposit-insurance
+- expected-shortfall
+- operational-risk
+- monte-carlo
+- operating-efficiency
+- profit-margins
+- cost-management
+- revenue-analysis
+- business-performance
+- competitive-advantage
+- operational-metrics
+- financial-performance
+- industry-analysis
+- management-effectiveness
+- core-operations
+- sales-efficiency
+- cost-structure
+- profit-generation
+title: Operating Margin
 ---
 
 # Operating Margin

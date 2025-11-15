@@ -1,3 +1,71 @@
+---
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-262068
+key_concepts:
+- Apt
+- Option Greeks and portfolio risk management
+- Commodity markets and pricing dynamics
+- Currency derivatives
+- Solution
+- Futures contracts and forward pricing
+- Historical simulation vs. parametric VaR models
+- Vega and volatility risk management
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- Foreign exchange markets
+- Monte Carlo VaR for complex portfolios
+- Stress testing and scenario analysis
+- Equity valuation and analysis
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Currency risk management and hedging
+- Forward rates and interest rate parity
+- Value at Risk (VaR) methodologies and backtesting
+- Theta and time decay modeling
+- Case Study
+- Exchange rate determination and PPP theory
+- Interest rate swap pricing and valuation
+- Margin requirements and clearing
+- Expected Shortfall and coherent risk measures
+- Variance swaps and volatility trading strategies
+- Stress Testing
+- Quantitative Implementation
+- Gamma and convexity adjustments
+- Delta hedging and the replication argument
+- Distressed Debt
+- Real estate investment and property valuation
+- Cross-currency basis swaps and funding
+- Delta hedging and Greeks
+- Dividend discount models
+- Options pricing and payoff structures
+- Currency markets and foreign exchange trading
+tags:
+- quantitative-implementation
+- fx
+- solution
+- commodities
+- real-estate
+- garch-models
+- interest-rate-swaps
+- equity
+- mathematical-finance
+- stress-testing
+- course-material
+- infrastructure
+- distressed-debt
+- case-study
+- apt
+- greeks
+- value-at-risk
+- regulatory-framework
+- exchange-rates
+- futures
+- municipal-bonds
+- options
+---
+
 # Chapter 1: The Big Cycles in a Tiny Nutshell
 
 ## **Chapter 1: The Big Cycles in a Tiny Nutshell**

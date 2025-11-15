@@ -1,32 +1,46 @@
 ---
-title: Primary vs. Secondary Commodities
-tags:
-  - cash_and_carry
-  - commodity_prices
-  - convenience_yield
-  - extractive_commodities
-  - lease_rate
-  - primary_commodities
-  - primary_vs_secondary
-  - renewable_commodities
-  - secondary_commodities
-  - storage_costs
 aliases:
-  - Commodities Classification
-  - Commodity Prices
-  - Commodity Types
-  - Extractive vs Renewable
-  - Primary vs Secondary
+- Commodities Classification
+- Commodity Prices
+- Commodity Types
+- Extractive vs Renewable
+- Primary vs Secondary
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-f880c3
 key_concepts:
-  - Cash-and-carry markets
-  - Commodity units
-  - Convenience yield
-  - Extractive commodities
-  - Lease rate
-  - Primary commodities
-  - Renewable commodities
-  - Secondary commodities
-  - Storage costs
+- Risk-neutral measures and martingale pricing
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Monte Carlo simulation for derivatives valuation
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+tags:
+- arbitrage
+- bonds
+- commodities
+- convexity
+- correlation
+- credit-risk
+- derivatives-pricing
+- duration
+- expected-shortfall
+- fixed_income
+- forwards
+- futures
+- fx
+- hedging
+- monte-carlo
+- risk-management
+- risk-neutral
+- stress-testing
+- var
+- yield-curve
+title: Primary vs. Secondary Commodities
 ---
 
 - Introduction to Derivative Markets]]

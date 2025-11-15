@@ -1,30 +1,46 @@
 ---
-tags:
-  - conversion_factor
-  - cross_currency_basis
-  - empirical_method
-  - fixed_income
-  - forward_curve
-  - fx_hedging
-  - maturity_matched
-  - rolling_hedges
-  - term_premium
-  - xva
 aliases:
-  - FX Hedged Pickup
-  - Table of Contents
-  - Term Premium
-  - XCCY Basis
+- FX Hedged Pickup
+- Table of Contents
+- Term Premium
+- XCCY Basis
 key_concepts:
-  - Conversion Factor Examples
-  - Cross-Currency Basis Swap
-  - Defining Convexity
-  - Defining Duration
-  - FX Hedge Strategies
-  - Forward Curve Analysis
-  - Maturity-Matched Hedges
-  - Term Premium Calculation
-  - XVA Calculation
+- Conversion Factor Examples
+- Cross-Currency Basis Swap
+- Defining Convexity
+- Defining Duration
+- FX Hedge Strategies
+- Forward Curve Analysis
+- Maturity-Matched Hedges
+- Term Premium Calculation
+- XVA Calculation
+- Equity valuation and analysis
+- Dividend discount models
+- Credit risk modeling
+- Default probability estimation
+- Fixed income securities
+- Interest rate derivatives
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+tags:
+- equity
+- xva
+- regulatory-framework
+- credit
+- maturity_matched
+- empirical_method
+- cds
+- hedge_funds
+- structured_finance
+- monte_carlo
+- interest_rates
+- rolling_hedges
+- fx_hedging
+- valuation
+- fixed_income
 ---
 
 # Table of Contents - Random Walks in Fixed Income and Foreign Exchange

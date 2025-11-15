@@ -1,20 +1,45 @@
 ---
-tags:
-  - asset_liability_management
-  - convexity
-  - corporate_bonds
-  - duration
-  - pension_liabilities
 aliases:
-  - Asset Portfolio
-  - Barbell vs. Bullet
-  - JNJ Bonds
+- Asset Portfolio
+- Barbell vs. Bullet
+- JNJ Bonds
 key_concepts:
-  - Barbell and bullet portfolios
-  - Defined-benefit pension liabilities
-  - Duration and convexity
-  - Hedging with assets
-  - Johnson & Johnson bonds
+- Barbell and bullet portfolios
+- Defined-benefit pension liabilities
+- Duration and convexity
+- Hedging with assets
+- Johnson & Johnson bonds
+- Equity valuation and analysis
+- Dividend discount models
+- Fixed income securities
+- Interest rate derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Derivatives pricing theory
+- Risk-neutral valuation
+tags:
+- equity
+- asset_liability_management
+- pension_liabilities
+- cds
+- corporate_bonds
+- interest_rates
+- portfolio-theory
+- valuation
+- duration
+- fixed_income
+- trading
+- bonds
+- volatility
+- futures
+- derivatives
 ---
 
 # 4.8 THE BARBELL VERSUS THE BULLET  

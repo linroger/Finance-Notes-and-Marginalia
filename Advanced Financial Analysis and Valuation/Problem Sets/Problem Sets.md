@@ -1,28 +1,82 @@
 ---
-title: "Problem Sets - Advanced Financial Analysis and Valuation"
-linter-yaml-title-alias: "Problem Sets - Advanced Financial Analysis and Valuation"
-tags:
-  - aFAV
-  - case_questions
-  - exercises  
-  - practice_questions
-  - problem_sets
-  - solutions
-  - waypoint
-  - navigation
 aliases:
-  - "Practice Set"
-  - "Problem Set"
-  - "Advanced Financial Analysis Problem Sets"
-key_concepts:
-  - Harvard Business School case studies
-  - Private equity valuation cases
-  - Bank valuation problem sets
-  - Pharmaceutical industry valuation
-  - Retail industry analysis
-  - Financial reporting and regulatory capital
-  - Dissenting shareholder cases
+- Practice Set
+- Problem Set
+- Advanced Financial Analysis Problem Sets
 cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-24265f
+key_concepts:
+- Liquidity coverage ratio and net stable funding ratio
+- Cox-Ross-Rubinstein parameter specification
+- regulatory capital requirements and buffers
+- Stress testing and supervisory review processes
+- Risk assessment and management
+- Computational implementation of binomial option pricing
+- Debt capacity analysis in LBO transactions
+- Pharmaceutical industry valuation
+- Retail industry analysis
+- Solution
+- Bank valuation problem sets
+- Private equity valuation cases
+- Historical simulation vs. parametric VaR models
+- Harvard Business School case studies
+- Leverage ratio and large exposures
+- Mathematical Finance
+- Exit strategies and return maximization
+- Monte Carlo VaR for complex portfolios
+- Stress testing and scenario analysis
+- Shadow Banking
+- Portfolio optimization and asset allocation
+- Risk-weighted assets and capital adequacy ratios
+- Course Material
+- LBO financing sources and covenant structures
+- Value at Risk (VaR) methodologies and backtesting
+- Case Study
+- Quantitative analysis and modeling
+- Private equity investing and leveraged buyouts
+- Net interest margin analysis and banking profitability
+- Expected Shortfall and coherent risk measures
+- Basel III regulatory framework and capital requirements
+- Financial reporting and regulatory capital
+- Convergence of binomial model to Black-Scholes solution
+- Binomial option pricing model with multiple time steps
+- Dissenting shareholder cases
+- Derivatives pricing and hedging strategies
+- Shadow banking system and regulatory arbitrage
+- Quantitative Implementation
+- Financial markets and instruments
+- American option pricing in binomial trees
+- Harvard Business Review
+- Leveraged Buyout financial structures and returns
+- Equity returns and value creation mechanisms
+linter-yaml-title-alias: Problem Sets - Advanced Financial Analysis and Valuation
+tags:
+- basel-iii
+- binomial-model
+- mathematical-finance
+- course-material
+- solutions
+- bank-regulation
+- shadow-banking
+- case-study
+- aFAV
+- value-at-risk
+- leveraged-buyouts
+- quantitative-implementation
+- solution
+- exercises
+- private-equity
+- banking
+- financial-reporting
+- waypoint
+- practice_questions
+- harvard-business-review
+- case_questions
+- problem_sets
+- navigation
+title: Problem Sets - Advanced Financial Analysis and Valuation
 ---
 
 # Problem Sets - Advanced Financial Analysis and Valuation

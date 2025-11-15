@@ -1,19 +1,41 @@
 ---
-tags:
-  - arbitrage_free_pricing
-  - forward_contract
-  - geometric_brownian_motion
-  - ito_lemma
-  - stochastic_process
 aliases:
-  - Forward Price Dynamics
-  - Ito's Lemma
+- Forward Price Dynamics
+- Ito's Lemma
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-4f00e5
 key_concepts:
-  - Arbitrage-free price
-  - Drift rate comparison
-  - Forward contract price
-  - Geometric Brownian Motion (GBM)
-  - Ito's Lemma expansion
+- Delta hedging strategies in options portfolio management
+- Term structure of interest rates and yield curve modeling
+- Ito's lemma and stochastic calculus applications
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- apt
+- arbitrage
+- brownian-motion
+- convexity
+- delta
+- derivatives-pricing
+- exotic-options
+- factor-models
+- fixed_income
+- fx
+- gamma
+- geometric-brownian-motion
+- greeks
+- hedging
+- options
+- replication
+- risk-management
+- stochastic-calculus
+- theta
+- vega
+- yield-curve
 ---
 
 # Determining the Stochastic Process for a Forward Contract from Ito’s Lemma 

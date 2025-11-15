@@ -1,42 +1,19 @@
 ---
-cssclasses:
-  - academia
-title: "Class 6: Bank Runs"
-linter-yaml-title-alias: "Class 6: Bank Runs"
-tags:
-  - bank_runs
-  - banking_crisis
-  - class_6
-  - financial_crisis
-  - systemic_risk
-  - deposit_insurance
-  - liquidity_crisis
-  - diamond_dybvig_model
-  - money_market_funds
-  - financial_stability
-  - leveraged_loans
-  - bank_failures
 aliases:
-  - "Bank Run"
-  - "Bank Runs"
-  - "Class 6 Bank Runs"
-  - "Banking Crises"
-key_concepts:
-  - Bank run mechanisms and causes
-  - Diamond-Dybvig model of bank runs
-  - Deposit insurance systems
-  - Liquidity creation by banks
-  - Suspension of convertibility
-  - Money market fund runs
-  - Prime money market fund stress
-  - Leveraged loan market
-  - Pilgrim Prime Rate Trust case
-  - Banking crisis examples
-  - Systemic risk in financial systems
-  - Run prevention mechanisms
-  - Multiple equilibria in banking
-  - Financial stability policies
+- Bank Run
+- Bank Runs
+- Class 6 Bank Runs
+- Banking Crises
+cssclasses:
+- academia
+key_concepts: []
+linter-yaml-title-alias: 'Class 6: Bank Runs'
+tags:
+- bonds
+- fixed_income
+title: 'Class 6: Bank Runs'
 ---
+
 
 # Class 6: Bank Runs
 

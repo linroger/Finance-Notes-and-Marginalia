@@ -1,33 +1,36 @@
 ---
-cssclasses:
-  - academia
-linter-yaml-title-alias: Pricing American Options
-title: Pricing American Options
-tags:
-  - american_option
-  - binomial_tree
-  - call_option
-  - dividends
-  - option_pricing
-  - risk_neutral
-  - early_exercise
-  - dividend_impact
 aliases:
-  - American Call Option
-  - American Option Pricing
-  - Early Exercise
-  - Pricing American Options
+- American Call Option
+- American Option Pricing
+- Early Exercise
+- Pricing American Options
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-8d3f99
 key_concepts:
-  - Accounting for dividends in option pricing
-  - American option early exercise criteria
-  - Binomial tree methodology for option pricing
-  - Risk neutral probability calculation
-  - Value comparison between waiting and exercising
-  - Pre-dividend and post-dividend stock prices
-  - Multiple period option valuation
-  - Backward induction pricing method
+- Black-Scholes model and option pricing theory
+- Term structure of interest rates and yield curve modeling
+- Credit risk modeling and default probability estimation
+- Portfolio hedging and risk reduction strategies
+- American options and early exercise feature
+linter-yaml-title-alias: Pricing American Options
+tags:
+- american-options
+- binomial
+- black-scholes
+- credit-risk
+- derivatives-pricing
+- european-options
+- exotic-options
+- fixed_income
+- hedging
+- options
+- risk-management
+- yield-curve
+title: Pricing American Options
 ---
-
 
 # Pricing American Options
 

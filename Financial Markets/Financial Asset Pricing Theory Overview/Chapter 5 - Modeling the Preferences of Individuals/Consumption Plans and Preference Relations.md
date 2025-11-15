@@ -1,19 +1,17 @@
 ---
 tags:
-  - asset_pricing
-  - consumption_plans
-  - expected_utility
-  - preference_relations
-  - utility_index
+- apt
+- derivatives-pricing
+- gamma
+- risk-management
+- var
 aliases:
-  - Consumption Preferences
-  - Preference Theory
+- Consumption Preferences
+- Preference Theory
 key_concepts:
-  - Consumption plans comparison
-  - Expected utility function
-  - Preference relation representation
-  - State-independent preferences
-  - Utility index assignment
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Options Greeks and sensitivity analysis
 ---
 
 # 5.2 Consumption plans and preference relations  

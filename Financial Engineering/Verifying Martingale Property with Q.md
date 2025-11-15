@@ -1,20 +1,53 @@
 ---
-tags:
-  - bond_numeraire
-  - discounted_stock
-  - martingale_property
-  - risk_neutral_probability
-  - stock_price
 aliases:
-  - Martingale Verification
-  - Risk-Neutral Measure
-  - Stock Price Martingale
+- Martingale Verification
+- Risk-Neutral Measure
+- Stock Price Martingale
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-bd5e86
 key_concepts:
-  - Bond as numeraire
-  - Discounted stock price
-  - Martingale property verification
-  - Risk-neutral probabilities
-  - Stock price dynamics
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Ito's lemma and stochastic calculus applications
+- Monte Carlo simulation for derivatives valuation
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- apt
+- arbitrage
+- brownian-motion
+- convexity
+- correlation
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- expected-shortfall
+- fixed_income
+- fx
+- gamma
+- geometric-brownian-motion
+- greeks
+- hedging
+- interest-rate-swaps
+- martingale
+- monte-carlo
+- replication
+- risk-management
+- risk-neutral
+- stress-testing
+- swaps
+- theta
+- var
+- vega
 ---
 
 # Chapter 5 Additional Readings  

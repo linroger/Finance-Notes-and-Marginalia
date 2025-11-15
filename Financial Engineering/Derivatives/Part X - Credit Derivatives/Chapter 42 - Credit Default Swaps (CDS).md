@@ -1,22 +1,122 @@
 ---
-tags:
-  - cds_spread
-  - credit_default_swaps
-  - credit_derivatives
-  - credit_indices
-  - credit_risk
 aliases:
-  - CDS
-  - CDX
-  - Credit Default Swap
-  - iTraxx
+- CDS
+- CDX
+- Credit Default Swap
+- iTraxx
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-94a0e7
 key_concepts:
-  - CDS spread options
-  - credit default swaps (CDS)
-  - credit derivative operation
-  - credit indices analysis
-  - hedge credit risks
+- hazard rate modeling and estimation
+- Apt
+- CDS spread options
+- Extensions to multi-factor CAPM models
+- Term structure of interest rates and yield curve shapes
+- Treasury Futures
+- default events and remedies
+- Duration and convexity analysis for bond portfolio management
+- Single-name vs. index CDS trading
+- default intensity and Poisson process
+- cash settlement in CDS
+- Option Greeks and portfolio risk management
+- maturity date in CDS
+- Commodity markets and pricing dynamics
+- Capital Asset Pricing Model and beta estimation
+- Expectations hypothesis and liquidity preference theory
+- Capital Asset Pricing Model and expected returns
+- binary CDS and digital credit derivatives
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- Empirical tests and anomalies in CAPM
+- CDS clearing and central counterparties
+- fixed income risk measurement
+- forward commitments and hedging
+- CDS-Bond basis and arbitrrage opportunities
+- Spot rates vs. forward rates modeling
+- Swap spread and credit risk considerations
+- protection buyer in CDS
+- GARCH models and volatility forecasting
+- Mathematical Finance
+- 2008 financial crisis and systemic risk analysis
+- Fixed-for-floating swap cash flows and valuation
+- Arbitrage Pricing Theory and multifactor models
+- Course Material
+- Security Market Line and beta measurement
+- Case Study
+- credit indices analysis
+- Interest rate swap pricing and valuation
+- interest rate and currency derivatives
+- Credit default swap pricing and risk-neutral probabilities
+- present value and discounting methods
+- investment grade bonds and ratings
+- Variance swaps and volatility trading strategies
+- Liquidity crisis and market dysfunction
+- par value in CDS settlement
+- survival probability estimation
+- credit derivative operation
+- Delta hedging strategies in options portfolio management
+- protection seller in CDS
+- credit default swaps (CDS)
+- CDS index products and trading
+- Credit risk modeling and portfolio correlation analysis
+- reference entity in CDS
+- Parallel and non-parallel shifts in the yield curve
+- Cross-currency basis swaps and funding
+- hedge credit risks
+- Market portfolio and risk-free rate assumptions
+- alternative investment strategies
+- credit risk transfer mechanisms
+- CDX North American CDS index
+tags:
+- yield-curve
+- commodities
+- credit-default-swaps
+- liquidity-crisis
+- default-probability
+- 2008-financial-crisis
+- capm
+- credit-default-swap
+- case-study
+- apt
+- cds-spread
+- value-at-risk
+- put-options
+- factor-models
+- recovery-rate
+- credit-risk
+- duration-convexity
+- solution
+- banking
+- investment-banking
+- corporate-bonds
+- option-pricing
+- cds
+- treasury-futures
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- course-material
+- lehman-brothers
+- greeks
+- black-scholes-model
+- exchange-rates
+- hedge-funds
+- leveraged-buyouts
+- quantitative-implementation
+- treasury-bonds
+- arbitrage
+- exotic-options
+- distressed-debt
+- swaptions
+- delta-hedging
+- implied-volatility
+- credit-derivatives
+- dcf-valuation
+- duration
+- term-structure
 ---
+
 # CREDIT DERIVATIVES  
 
 # Credit Default Swaps (CDS)  

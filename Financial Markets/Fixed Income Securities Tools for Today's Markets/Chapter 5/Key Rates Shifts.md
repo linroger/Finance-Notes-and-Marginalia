@@ -1,20 +1,38 @@
 ---
-tags:
-  - bond_pricing
-  - duration
-  - dv01
-  - hqm_par_rate_curve
-  - key_rate_shifts
 aliases:
-  - HQM Curve
-  - JNJ Bonds
-  - Key Rate Shifts
+- HQM Curve
+- JNJ Bonds
+- Key Rate Shifts
 key_concepts:
-  - 20-year key-rate shift
-  - HQM par rate curve
-  - Key rate duration
-  - Key rate framework
-  - Par rate shifts
+- 20-year key-rate shift
+- HQM par rate curve
+- Key rate duration
+- Key rate framework
+- Par rate shifts
+- Foreign exchange markets
+- Currency derivatives
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Derivatives pricing theory
+- Risk-neutral valuation
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Interest rate modeling
+- Term structure of interest rates
+tags:
+- key_rate_shifts
+- hqm_par_rate_curve
+- duration
+- dv01
+- fx
+- bonds
+- futures
+- derivatives
+- options
+- bond_pricing
+- interest_rates
 ---
 
 # 5.3 KEY RATES: SHIFTS  

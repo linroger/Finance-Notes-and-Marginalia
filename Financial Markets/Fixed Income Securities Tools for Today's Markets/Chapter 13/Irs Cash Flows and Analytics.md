@@ -1,20 +1,44 @@
 ---
-tags:
-  - euribor_swap
-  - fixed_floating_swaps
-  - floating_leg
-  - irs_cash_flows
-  - reset_dates
-  - sofr_swap
 aliases:
-  - IRS Analytics
-  - OIS vs. Fixed-for-Floating Swaps
+- IRS Analytics
+- OIS vs. Fixed-for-Floating Swaps
 key_concepts:
-  - Euribor swap valuation
-  - Floating leg valuation
-  - Floating vs. fixed swaps
-  - Reset date valuation
-  - SOFR swap cash flows
+- Euribor swap valuation
+- Floating leg valuation
+- Floating vs. fixed swaps
+- Reset date valuation
+- SOFR swap cash flows
+- Credit risk modeling
+- Default probability estimation
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+tags:
+- credit
+- cds
+- interest_rates
+- floating_leg
+- irs_cash_flows
+- fx
+- trading
+- bonds
+- euribor_swap
+- swaps
+- futures
+- derivatives
+- options
+- sofr_swap
+- reset_dates
 ---
 
 # 13.2 IRS CASH FLOWS AND ANALYTICS  

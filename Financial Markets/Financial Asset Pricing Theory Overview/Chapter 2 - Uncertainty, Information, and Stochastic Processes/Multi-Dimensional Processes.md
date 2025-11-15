@@ -1,30 +1,20 @@
 ---
 tags:
-  - asset_pricing
-  - brownian_motion
-  - continuous_time
-  - correlation
-  - covariance
-  - discrete_time
-  - exogenous_shocks
-  - ito_process
-  - multi_dimensional_processes
-  - stochastic_processes
+- correlation
+- credit-risk
+- delta
+- derivatives-pricing
+- rho
+- risk-management
+- var
 aliases:
-  - Multi-dimensional analysis
-  - Multi-dimensional models
-  - Multi-process models
+- Multi-dimensional analysis
+- Multi-dimensional models
+- Multi-process models
 key_concepts:
-  - Asset pricing models
-  - Brownian motion
-  - Continuous-time model
-  - Covariances and correlations
-  - Discrete-time model
-  - Exogenous shocks
-  - Instantaneous correlation
-  - Ito processes
-  - Multi-dimensional processes
-  - Two-dimensional processes
+- Ito's lemma and stochastic calculus applications
+- Value at Risk and tail risk measurement
+- Options Greeks and sensitivity analysis
 ---
 
 # 2.7 Multi-dimensional processes  

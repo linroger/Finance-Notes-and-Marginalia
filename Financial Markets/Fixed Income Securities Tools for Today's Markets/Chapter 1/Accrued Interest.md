@@ -1,21 +1,43 @@
 ---
-tags:
-  - accrued_interest
-  - bond_pricing
-  - clean_price
-  - day_count_convention
-  - dirty_price
 aliases:
-  - Flat Price
-  - Full Price
-  - Invoice Price
-  - Quoted Price
+- Flat Price
+- Full Price
+- Invoice Price
+- Quoted Price
 key_concepts:
-  - Accrued Interest Calculation
-  - Actual/Actual Day-Count
-  - Coupon Payment Division
-  - Full vs. Flat Price
-  - Present Value of Cash Flows
+- Accrued Interest Calculation
+- Actual/Actual Day-Count
+- Coupon Payment Division
+- Full vs. Flat Price
+- Present Value of Cash Flows
+- Equity valuation and analysis
+- Dividend discount models
+- Fixed income securities
+- Interest rate derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Interest rate modeling
+- Term structure of interest rates
+tags:
+- interest_rates
+- equity
+- stochastic_calculus
+- stochastic-calculus
+- valuation
+- fixed_income
+- regulation
+- trading
+- accrued_interest
+- bonds
+- options
+- bond_pricing
+- day_count_convention
+- dirty_price
+- clean_price
 ---
 
 # 1.6 ACCRUED INTEREST  

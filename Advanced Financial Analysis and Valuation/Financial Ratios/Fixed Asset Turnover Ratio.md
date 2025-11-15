@@ -1,30 +1,120 @@
 ---
-title: Fixed Asset Turnover Ratio
-cssclasses:
-  - academia
-tags:
-  - accounting_analysis
-  - asset_turnover
-  - financial_ratio
-  - fixed_asset_turnover
-  - manufacturing_industry
-  - efficiency_ratio
-  - capital_utilization
-  - operational_performance
 aliases:
-  - FAT ratio
-  - Fixed Asset Turnover
+- FAT ratio
+- Fixed Asset Turnover
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch04-FE-tags-v2
 key_concepts:
-  - Fixed asset efficiency
-  - Net revenue to fixed asset ratio
-  - Property, plant & equipment utilization
-  - Capital expenditure effectiveness
-  - Industry benchmarking
-  - Operational efficiency measurement
-  - Manufacturing performance metrics
-  - Asset-intensive business analysis
-  - Fixed asset productivity
-  - Investment return assessment
+- Deposit Insurance
+- Sovereign risk assessment and country analysis
+- Mean-variance optimization and the efficient frontier
+- Manufacturing performance metrics
+- Extreme value theory and tail risk modeling
+- Credit risk modeling and default probability estimation
+- Wholesale funding markets and maturity transformation
+- Fixed asset efficiency
+- Funding liquidity vs. market liquidity
+- Risk budgeting and portfolio construction techniques
+- Solution
+- Historical simulation vs. parametric VaR models
+- Credit portfolio diversification and concentration
+- DV01 calculation and interest rate risk hedging
+- Portfolio immunization strategies
+- Mathematical Finance
+- Monte Carlo integration and variance reduction
+- Deposit insurance and systemic risk prevention
+- Monte Carlo VaR for complex portfolios
+- Stress testing and scenario analysis
+- Key rate duration and curve risk
+- Operational efficiency measurement
+- Course Material
+- Control variates and importance sampling techniques
+- Value at Risk (VaR) methodologies and backtesting
+- Risk-neutral pricing methodology for derivative securities
+- Case Study
+- Operational risk quantification and modeling
+- Industry benchmarking
+- Arbitrage opportunities and risk-free profit extraction
+- Expected Shortfall and coherent risk measures
+- Liquidity risk management in financial institutions
+- Bank liquidity ratios and funding risk management
+- Asset-intensive business analysis
+- Credit exposure measurement and EAD
+- Loss given default and recovery rates
+- Operational risk management in financial institutions
+- Wrong-way risk in derivative transactions
+- Property, plant & equipment utilization
+- Stress Testing
+- Net revenue to fixed asset ratio
+- Systemic risk and financial stability
+- Deposit stability and core funding
+- Value-at-Risk calculation using historical simulation
+- Fixed asset productivity
+- Quantitative Implementation
+- Credit risk migration matrices and rating transition
+- Expected Shortfall
+- Credit risk modeling and portfolio correlation analysis
+- Backtesting procedures for risk models
+- Credit risk assessment and loan portfolio management
+- Liquidity risk measurement and management
+- Duration and convexity measures for bond portfolios
+- Systemic risk indicators and early warning systems
+- Investment return assessment
+- Price sensitivity to interest rate changes
+- Modified duration vs. Macaulay duration
+- Capital expenditure effectiveness
+- Liquidity stress testing and contingency funding plans
+tags:
+- income-statement
+- mathematical-finance
+- balance-sheet
+- course-material
+- accounting_analysis
+- capital_utilization
+- case-study
+- financial_ratio
+- value-at-risk
+- operational_performance
+- net-income
+- credit-risk
+- fixed_asset_turnover
+- quantitative-implementation
+- duration-convexity
+- solution
+- depreciation
+- stress-testing
+- liquidity-risk
+- systemic-risk
+- efficiency_ratio
+- asset_turnover
+- manufacturing_industry
+- deposit-insurance
+- financial-ratios
+- expected-shortfall
+- operational-risk
+- monte-carlo
+- fixed-asset-efficiency
+- asset-utilization
+- capital-expenditure
+- manufacturing-metrics
+- asset-productivity
+- ppe-analysis
+- capital-investment
+- operational-efficiency
+- asset-management
+- investment-effectiveness
+- capacity-utilization
+- manufacturing-performance
+- asset-intensive-businesses
+- operational-metrics
+- financial-performance
+- business-efficiency
+- productivity-metrics
+- asset-analysis
+title: Fixed Asset Turnover Ratio
 ---
 
 # Fixed Asset Turnover Ratio

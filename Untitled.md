@@ -1,3 +1,41 @@
+---
+key_concepts:
+- Equity valuation and analysis
+- Dividend discount models
+- Credit risk modeling
+- Default probability estimation
+- Fixed income securities
+- Interest rate derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Option sensitivity analysis
+- Delta, gamma, vega, theta, rho
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Value at risk and stress testing
+- Portfolio risk metrics
+tags:
+- equity
+- regulatory-framework
+- credit
+- fixed_income
+- trading
+- greeks
+- bonds
+- volatility
+- futures
+- cds
+- options
+- risk_management
+- regulation
+- interest_rates
+---
 # Chapter 1: The Big Debt Cycle in a Tiny Nutshell
 
 My goal for this chapter is to convey in seven pages a very brief but complete description of the mechanics of a typical Big Debt Cycle.

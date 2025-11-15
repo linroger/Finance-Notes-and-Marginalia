@@ -1,3 +1,86 @@
+---
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-ff0aba
+key_concepts:
+- Apt
+- Carry trades and momentum in FX markets
+- Working Capital
+- Stochastic calculus in financial modeling
+- Currency markets and foreign exchange trading
+- Option Greeks and portfolio risk management
+- Commodity markets and pricing dynamics
+- Currency derivatives
+- Historical simulation vs. parametric VaR models
+- Default probability estimation
+- Vega and volatility risk management
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- Foreign exchange markets
+- Liquidity and price discovery
+- Monte Carlo VaR for complex portfolios
+- Stress testing and scenario analysis
+- Equity valuation and analysis
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Currency risk management and hedging
+- Forward rates and interest rate parity
+- Value at Risk (VaR) methodologies and backtesting
+- Theta and time decay modeling
+- Case Study
+- Exchange rate determination and PPP theory
+- Balance Of Payments
+- Interest rate swap pricing and valuation
+- Expected Shortfall and coherent risk measures
+- Market microstructure and trading
+- Variance swaps and volatility trading strategies
+- Liquidity crisis and market dysfunction
+- Bond pricing and yield analysis
+- Gamma and convexity adjustments
+- Delta hedging and the replication argument
+- Credit risk modeling
+- Cross-currency basis swaps and funding
+- Delta hedging and Greeks
+- Duration and convexity
+- Options pricing and payoff structures
+- Dividend discount models
+tags:
+- fx
+- working-capital
+- commodities
+- liquidity-crisis
+- stochastic-calculus
+- balance-of-payments
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- trading
+- course-material
+- case-study
+- apt
+- bonds
+- greeks
+- value-at-risk
+- exchange-rates
+- deleveraging
+- options
+- credit-risk
+- quantitative-implementation
+- duration-convexity
+- solution
+- real-estate
+- treasury-bonds
+- equity
+- stochastic_calculus
+- infrastructure
+- liquidity-risk
+- distressed-debt
+- credit
+- harvard-business-review
+- municipal-bonds
+---
+
 # Weimar Republic Deleveraging 1920s
 
 This document provides a timeline of Germany's Weimar Republic during the years from 1914 through 1924. Both German industrial production and the German stock market peaked around the start of World War I in 1914. It wasn't until 1927 that the economy reached its 1914 level and not until around 1960 that real stock market prices returned to their 1914 peak.255 Within this long period of inflationary deleveraging is one of the most acute periods of inflationary deleveraging ever, which occurred in 1922-1923. This is a period of special interest and focus to us because of the perspective it provides. As with other cases, I want to convey market movements as well as notable historical developments, especially the very large market whipsaws that accompanied the near total destruction of financial wealth during this time.

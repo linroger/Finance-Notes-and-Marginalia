@@ -1,25 +1,18 @@
 ---
 tags:
-  - annual_interest_rate
-  - bond_math
-  - bond_valuation
-  - coupon_bond
-  - floating_rate_bond
-  - zero_coupon_bond
+- apt
+- bonds
+- fixed_income
+- options
+- yield-to-maturity
+- zero-coupon
 aliases:
-  - Bond Analysis
-  - Bond Pricing
-  - Loans and Bonds
+- Bond Analysis
+- Bond Pricing
+- Loans and Bonds
 key_concepts:
-  - Bond characteristics
-  - Cash flow valuation
-  - Coupon bonds valuation
-  - Discount bonds
-  - Floating rate bonds
-  - Interest rate reset
-  - Par value bonds
-  - Yield to maturity
-  - Zero-coupon bonds
+- Bond pricing and fixed income securities valuation
+- Ito's lemma and stochastic calculus applications
 ---
 
 # 2.1 BONDS AND ANNUAL BOND MATH  

@@ -1,20 +1,40 @@
 ---
-tags:
-  - cash_settled
-  - cme
-  - hedging
-  - interest_rate_risk
-  - sofr_futures
 aliases:
-  - SER
-  - SOFR futures
-  - one-month SOFR
+- SER
+- SOFR futures
+- one-month SOFR
 key_concepts:
-  - CME trading
-  - Cash settlement
-  - Delivery month
-  - Hedging interest rate risk
-  - SOFR futures contract
+- CME trading
+- Cash settlement
+- Delivery month
+- Hedging interest rate risk
+- SOFR futures contract
+- Foreign exchange markets
+- Currency derivatives
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Derivatives pricing theory
+- Risk-neutral valuation
+- Value at risk and stress testing
+- Portfolio risk metrics
+- Alternative investment strategies
+- Hedge fund replication
+tags:
+- cme
+- cash_settled
+- fx
+- bonds
+- commodities
+- futures
+- derivatives
+- risk_management
+- hedge_funds
+- interest_rate_risk
+- mathematical-finance
+- hedging
+- sofr_futures
 ---
 
 # 12.2 ONE-MONTH SOFR FUTURES  

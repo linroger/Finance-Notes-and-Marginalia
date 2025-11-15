@@ -1,20 +1,45 @@
 ---
-tags:
-  - fixed_rate
-  - floating_rate
-  - fra
-  - interest_rate_swaps
-  - libor
 aliases:
-  - IRS
-  - Interest Rate Swap
-  - Swap
+- IRS
+- Interest Rate Swap
+- Swap
 key_concepts:
-  - FRA Settlement Formula
-  - Fixed vs Floating Rates
-  - LIBOR and Indexing
-  - Off-Market FRAs
-  - Swap Valuation
+- FRA Settlement Formula
+- Fixed vs Floating Rates
+- LIBOR and Indexing
+- Off-Market FRAs
+- Swap Valuation
+- Equity valuation and analysis
+- Dividend discount models
+- Foreign exchange markets
+- Currency derivatives
+- Bond pricing and yield analysis
+- Duration and convexity
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Derivatives pricing theory
+tags:
+- equity
+- interest_rate_swaps
+- cds
+- hedge_funds
+- structured_finance
+- interest_rates
+- floating_rate
+- fx
+- bonds
+- swaps
+- futures
+- derivatives
+- options
+- fixed_rate
+- arbitrage
 ---
 
 # 4.2 INTEREST RATE SWAPS  

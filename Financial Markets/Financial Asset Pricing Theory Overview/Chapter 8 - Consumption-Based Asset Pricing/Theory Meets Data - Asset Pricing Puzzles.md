@@ -1,20 +1,21 @@
 ---
 tags:
-  - asset_pricing
-  - consumption_model
-  - empirical_tests
-  - equity_premium
-  - risk_aversion
+- correlation
+- credit-risk
+- derivatives-pricing
+- gamma
+- rho
+- risk-management
+- var
 aliases:
-  - Asset Pricing
-  - Consumption-Based Model
-  - Equity Premium Puzzle
+- Asset Pricing
+- Consumption-Based Model
+- Equity Premium Puzzle
 key_concepts:
-  - Asset pricing puzzles
-  - Consumption-based model tests
-  - Equity premium
-  - Historical average returns
-  - Relative risk aversion coefficient
+- Bond pricing and fixed income securities valuation
+- Value at Risk and tail risk measurement
+- Volatility modeling and forecasting techniques
+- Options Greeks and sensitivity analysis
 ---
 
 # 8.5 Theory meets data - asset pricing puzzles  

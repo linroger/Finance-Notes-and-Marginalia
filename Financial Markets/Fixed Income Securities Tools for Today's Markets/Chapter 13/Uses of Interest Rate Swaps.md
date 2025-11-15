@@ -1,20 +1,45 @@
 ---
-tags:
-  - corporate_bonds
-  - hedging
-  - interest_rate_swaps
-  - pension_liabilities
-  - sovereign_debt
 aliases:
-  - IRS
-  - pension fund
-  - swap
+- IRS
+- pension fund
+- swap
 key_concepts:
-  - Exchange of interest payments
-  - Floating-rate debt
-  - Interest rate risk
-  - Leveraged position in bond
-  - Sovereign debt crisis
+- Exchange of interest payments
+- Floating-rate debt
+- Interest rate risk
+- Leveraged position in bond
+- Sovereign debt crisis
+- Credit risk modeling
+- Default probability estimation
+- Fixed income securities
+- Interest rate derivatives
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Credit default swaps and credit risk
+tags:
+- credit
+- pension_liabilities
+- interest_rate_swaps
+- cds
+- corporate_bonds
+- structured_finance
+- hedging
+- interest_rates
+- portfolio-theory
+- valuation
+- fixed_income
+- fx
+- trading
+- sovereign_debt
+- bonds
 ---
 
 # 13.3 USES OF INTEREST RATE SWAPS  

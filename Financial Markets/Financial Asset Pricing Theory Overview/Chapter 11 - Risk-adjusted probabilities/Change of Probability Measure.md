@@ -1,19 +1,31 @@
 ---
 tags:
-  - bayes_formula
-  - brownian_motion
-  - probability_measure
-  - radon_nikodym
-  - stochastic_process
+- apt
+- arbitrage
+- black-scholes
+- brownian-motion
+- completeness
+- derivatives-pricing
+- hedging
+- martingale
+- risk-management
+- risk-neutral
+- var
 aliases:
-  - Change of Measure
-  - Probability Measure Change
+- Change of Measure
+- Probability Measure Change
 key_concepts:
-  - Change-of-measure process
-  - Equivalent probability measures
-  - Probability space
-  - Radon-Nikodym derivative
-  - Real-world probabilities
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Ito's lemma and stochastic calculus applications
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
 ---
 
 # 11.2 Change of probability measure  

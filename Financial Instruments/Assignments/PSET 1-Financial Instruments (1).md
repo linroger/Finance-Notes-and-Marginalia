@@ -1,29 +1,40 @@
 ---
-cssclasses:
-  - academia
-title: PSET 1-Financial Instruments
-tags:
-  - arbitrage
-  - financial_instruments
-  - forward_rates
-  - linear_compounding
-  - interest_rates
-  - currency_markets
-  - exchange_rates
 aliases:
-  - PSET 1-FINANCIAL INSTRUMENTS
-  - Problem Set 1
+- PSET 1-FINANCIAL INSTRUMENTS
+- Problem Set 1
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-2f16c3
 key_concepts:
-  - Compute Forward Exchange Rate
-  - Forward Exchange Rate
-  - Forward pricing formula
-  - Linear compounding rates
-  - Natural logarithm function
-  - Arbitrage opportunity identification
-  - Covered interest rate parity
-  - Interest rate conversion
-  - No-arbitrage relationship
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+tags:
+- apt
+- arbitrage
+- exotic-options
+- factor-models
+- fixed_income
+- fx
+- hedging
+- interest-rate-swaps
+- no-arbitrage
+- options
+- risk-management
+- swaps
+- var
+- yield-curve
+title: PSET 1-Financial Instruments
 ---
+
 # PSET 1-Financial Instruments
 
 Bus 35100

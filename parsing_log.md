@@ -1,3 +1,42 @@
+---
+key_concepts:
+- Equity valuation and analysis
+- Dividend discount models
+- Option sensitivity analysis
+- Delta, gamma, vega, theta, rho
+- Black-Scholes option pricing model
+- Continuous-time finance
+- Vasicek short-rate model
+- Mean-reverting processes
+- Arbitrage theory and practice
+- Law of one price
+- Derivatives pricing theory
+- Risk-neutral valuation
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Value at risk and stress testing
+- Portfolio risk metrics
+- Alternative investment strategies
+- Hedge fund replication
+- Binomial option pricing
+- Lattice models and recombination
+tags:
+- equity
+- regulatory-framework
+- greeks
+- vasicek
+- hedge_funds
+- mathematical-finance
+- binomial
+- portfolio-theory
+- valuation
+- volatility
+- black_scholes
+- derivatives
+- options
+- risk_management
+- portfolio
+---
 # Parsing Progress Log
 
 ## Overview

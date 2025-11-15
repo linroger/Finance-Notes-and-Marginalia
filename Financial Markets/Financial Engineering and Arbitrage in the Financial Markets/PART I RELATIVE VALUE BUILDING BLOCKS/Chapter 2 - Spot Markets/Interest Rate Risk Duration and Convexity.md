@@ -1,21 +1,21 @@
 ---
 tags:
-  - bond_convexity
-  - bond_duration
-  - interest_rate_risk
-  - macaulay_duration
-  - yield_to_maturity
+- bonds
+- convexity
+- delta
+- derivatives-pricing
+- duration
+- fixed_income
+- yield-to-maturity
+- zero-coupon
 aliases:
-  - Bond Risk
-  - Duration and Convexity
-  - Interest Rate Risk
-  - PVBP
+- Bond Risk
+- Duration and Convexity
+- Interest Rate Risk
+- PVBP
 key_concepts:
-  - Bond cash flows
-  - Bond price fluctuations
-  - Coupon rate impact
-  - Interest rate risk
-  - Macaulay duration calculation
+- Volatility modeling and forecasting techniques
+- Options Greeks and sensitivity analysis
 ---
 
 # 2.4 INTEREST RATE RISK: DURATION AND CONVEXITY  

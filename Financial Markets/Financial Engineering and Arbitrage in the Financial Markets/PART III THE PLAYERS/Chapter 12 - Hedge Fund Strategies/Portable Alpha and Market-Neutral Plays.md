@@ -1,22 +1,46 @@
 ---
-tags:
-  - alpha_transfer
-  - asset_allocation
-  - etf_arbitrage
-  - market_neutral_funds
-  - portable_alpha
 aliases:
-  - Clever Alpha Fund
-  - ETF Neutral Arb Fund
-  - Joe Saxon
-  - market-neutral plays
+- Clever Alpha Fund
+- ETF Neutral Arb Fund
+- Joe Saxon
+- market-neutral plays
 key_concepts:
-  - ETF mispricing discovery
-  - asset allocation decisions
-  - dynamically hedging systematic risk
-  - market-neutral funds
-  - portable alpha solution
-  - specific security selection
+- ETF mispricing discovery
+- asset allocation decisions
+- dynamically hedging systematic risk
+- market-neutral funds
+- portable alpha solution
+- specific security selection
+- Equity valuation and analysis
+- Dividend discount models
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Derivatives pricing theory
+- Risk-neutral valuation
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Alternative investment strategies
+- Hedge fund replication
+- Structured products and CDOs
+- Credit derivatives
+tags:
+- equity
+- portfolio-theory
+- etf_arbitrage
+- bonds
+- portable_alpha
+- futures
+- derivatives
+- options
+- portfolio
+- asset_allocation
+- hedge_funds
+- structured_finance
+- arbitrage
+- market_neutral_funds
+- alpha_transfer
 ---
 
 # 12.2  PORTABLE ALPHA AND MARKET-NEUTRAL PLAYS  

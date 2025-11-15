@@ -1,28 +1,126 @@
 ---
-cssclasses:
-  - academia
-title: Leverage Ratio
-tags:
-  - accounting_leverage
-  - banking_regulation
-  - consumer_leverage_ratio
-  - debt_to_equity_ratio
-  - financial_ratios
 aliases:
-  - Debt Ratio
-  - Financial Leverage
-  - Leverage
+- Debt Ratio
+- Financial Leverage
+- Leverage
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch04-FE-tags-v2
 key_concepts:
-  - Assess financial obligations
-  - Banks and leverage ratios
-  - Debt amplifies returns
-  - Debt and equity mix
-  - Debt and financial obligations
-  - Debt-to-equity ratio
-  - Equity multiplier
-  - Financial structure analysis
-  - Regulatory requirements
-  - Risk assessment
+- Debt and equity mix
+- Mean-variance optimization and the efficient frontier
+- Extreme value theory and tail risk modeling
+- Credit risk modeling and default probability estimation
+- Wholesale funding markets and maturity transformation
+- Banks and leverage ratios
+- Risk budgeting and portfolio construction techniques
+- Commodity markets and pricing dynamics
+- Funding liquidity vs. market liquidity
+- Solution
+- Historical simulation vs. parametric VaR models
+- Credit portfolio diversification and concentration
+- systemically important institution designation
+- DV01 calculation and interest rate risk hedging
+- Portfolio immunization strategies
+- Mathematical Finance
+- leverage ratio calculation and monitoring
+- Monte Carlo VaR for complex portfolios
+- Stress testing and scenario analysis
+- Key rate duration and curve risk
+- Course Material
+- Financial structure analysis
+- Value at Risk (VaR) methodologies and backtesting
+- Risk-neutral pricing methodology for derivative securities
+- Case Study
+- Operational risk quantification and modeling
+- Debt and financial obligations
+- Net interest margin analysis and banking profitability
+- Expected Shortfall and coherent risk measures
+- Liquidity risk management in financial institutions
+- Equity multiplier
+- Credit exposure measurement and EAD
+- deposit insurance and protection systems
+- Federal Deposit Insurance Corporation
+- Debt amplifies returns
+- Wrong-way risk in derivative transactions
+- Stress Testing
+- Systemic risk and financial stability
+- Deposit stability and core funding
+- Debt-to-equity ratio
+- Value-at-Risk calculation using historical simulation
+- Quantitative Implementation
+- Credit risk migration matrices and rating transition
+- Capital Structure
+- Credit risk modeling and portfolio correlation analysis
+- Tier 1 capital and core equity requirements
+- Backtesting procedures for risk models
+- Credit risk assessment and loan portfolio management
+- Assess financial obligations
+- Liquidity risk measurement and management
+- Distressed Debt
+- Duration and convexity measures for bond portfolios
+- Systemic risk indicators and early warning systems
+- Risk assessment
+- Price sensitivity to interest rate changes
+- Loss given default and recovery rates
+- Modified duration vs. Macaulay duration
+- Regulatory requirements
+- Liquidity stress testing and contingency funding plans
+tags:
+- debt_to_equity_ratio
+- duration-convexity
+- quantitative-implementation
+- solution
+- commodities
+- ebit
+- roe
+- too-big-to-fail
+- expected-shortfall
+- depreciation
+- return-on-equity
+- banking
+- mathematical-finance
+- stress-testing
+- deferred-taxes
+- consumer_leverage_ratio
+- course-material
+- liquidity-risk
+- systemic-risk
+- leverage-ratios
+- capital-structure
+- leverage-ratio
+- accounting_leverage
+- financial_ratios
+- distressed-debt
+- case-study
+- amortization
+- deposit-insurance
+- value-at-risk
+- monte-carlo
+- harvard-business-review
+- banking_regulation
+- operational-risk
+- credit-analysis
+- ebitda
+- credit-risk
+- debt-management
+- financial-risk
+- solvency-analysis
+- interest-coverage
+- debt-to-capital
+- equity-multiplier
+- financial-leverage
+- debt-servicing
+- balance-sheet-analysis
+- default-risk
+- financial-obligations
+- borrowing-capacity
+- financial-stability
+- creditworthiness
+- debt-burden
+title: Leverage Ratio
 ---
 
 # Leverage Ratio

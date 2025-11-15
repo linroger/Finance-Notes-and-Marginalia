@@ -1,20 +1,43 @@
 ---
-tags:
-  - coupon_bond
-  - discount_factor
-  - interest_rates
-  - term_structure
-  - yield_curve
 aliases:
-  - Discount Factors
-  - Term Structure
-  - Yield Curve Bootstrap
+- Discount Factors
+- Term Structure
+- Yield Curve Bootstrap
 key_concepts:
-  - Coupon bond valuation
-  - Discount factor bootstrap
-  - Spot zero rates
-  - Term structure of rates
-  - Yield to maturity
+- Coupon bond valuation
+- Discount factor bootstrap
+- Spot zero rates
+- Term structure of rates
+- Yield to maturity
+- Equity valuation and analysis
+- Dividend discount models
+- Fixed income securities
+- Interest rate derivatives
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Structured products and CDOs
+- Credit derivatives
+- Interest rate modeling
+- Term structure of interest rates
+tags:
+- equity
+- valuation
+- fixed_income
+- yield_curve
+- coupon_bond
+- volatility
+- term_structure
+- discount_factor
+- bonds
+- futures
+- options
+- structured_finance
+- mathematical-finance
+- interest_rates
 ---
 
 # 2.3 TERM STRUCTURE OF INTEREST RATES AND THE DISCOUNT FACTOR BOOTSTRAP  

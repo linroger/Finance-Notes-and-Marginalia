@@ -1,22 +1,23 @@
 ---
 aliases:
-  - The Economist Hege Money
-  - The Economist Hege Money.md
-  - The Economist Hege-Money
+- The Economist Hege Money
+- The Economist Hege Money.md
+- The Economist Hege-Money
+key_concepts:
+- Term structure of interest rates and yield curve modeling
+- Credit risk modeling and default probability estimation
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
 linter-yaml-title-alias: The Economist Hege-Money
-title: The Economist Hege-Money
 tags:
-  - '#alipay'
-  - '#capital_controls'
-  - '#central_bank_digital_currency'
-  - '#chinese_economy'
-  - '#digital_money'
-  - '#dollar_hegemony'
-  - '#emerging_economies'
-  - '#international_finance'
-  - '#monetary_sovereignty'
-  - '#yuan'
+- arbitrage
+- arch
+- hedging
+- risk-management
+title: The Economist Hege-Money
 ---
+
 # The Economist Hege Money
 
 # Hege-Money

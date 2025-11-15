@@ -1,11 +1,12 @@
 ---
 tags:
-  - chapter_11
-  - risk_adjusted_probabilities
+- apt
+- risk-management
+- risk-neutral
 aliases:
-  - Chapter 11
+- Chapter 11
 key_concepts:
-  - Risk-adjusted probabilities
+- Risk-neutral measures and martingale pricing
 ---
 %% Begin Waypoint %%
 - **Chapter 11 - Risk-adjusted probabilities**

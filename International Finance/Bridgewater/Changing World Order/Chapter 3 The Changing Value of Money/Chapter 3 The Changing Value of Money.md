@@ -1,3 +1,81 @@
+---
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-f37738
+key_concepts:
+- Apt
+- Term structure of interest rates
+- Term structure of interest rates and yield curve shapes
+- Option Greeks and portfolio risk management
+- Commodity markets and pricing dynamics
+- Currency derivatives
+- Expectations hypothesis and liquidity preference theory
+- Solution
+- Historical simulation vs. parametric VaR models
+- Default probability estimation
+- Yield curve fitting and interpolation methods
+- Interest rate modeling
+- Vega and volatility risk management
+- Value at risk and stress testing
+- Portfolio immunization strategies
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Foreign exchange markets
+- Monte Carlo VaR for complex portfolios
+- Key rate duration and curve risk
+- Equity valuation and analysis
+- Fixed-for-floating swap cash flows and valuation
+- Value at Risk (VaR) methodologies and backtesting
+- Theta and time decay modeling
+- Portfolio risk metrics
+- Case Study
+- Interest rate swap pricing and valuation
+- Variance swaps and volatility trading strategies
+- Bond pricing and yield analysis
+- Quantitative Implementation
+- Gamma and convexity adjustments
+- Delta hedging and the replication argument
+- Parallel and non-parallel shifts in the yield curve
+- Distressed Debt
+- Credit risk modeling
+- Duration and convexity measures for bond portfolios
+- Real estate investment and property valuation
+- Cross-currency basis swaps and funding
+- Delta hedging and Greeks
+- Price sensitivity to interest rate changes
+- Modified duration vs. Macaulay duration
+- Duration and convexity
+- Options pricing and payoff structures
+- Dividend discount models
+tags:
+- yield-curve
+- fx
+- commodities
+- interest-rate-swaps
+- mathematical-finance
+- course-material
+- case-study
+- apt
+- bonds
+- greeks
+- risk_management
+- value-at-risk
+- exchange-rates
+- valuation
+- options
+- credit-risk
+- quantitative-implementation
+- duration-convexity
+- solution
+- real-estate
+- equity
+- interest_rates
+- stress-testing
+- distressed-debt
+- credit
+- regulatory-framework
+---
+
 Chapter 3: The Changing Value of Money
 
 # **Chapter 3: The Changing Value of Money**

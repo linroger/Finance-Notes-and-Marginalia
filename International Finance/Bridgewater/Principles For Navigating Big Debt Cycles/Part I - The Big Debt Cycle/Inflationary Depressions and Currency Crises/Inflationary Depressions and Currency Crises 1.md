@@ -1,35 +1,89 @@
 ---
-title: Inflationary Depressions and Currency Crises
-cssclasses: academia
-tags:
-  - capital_outflows
-  - central_banks
-  - currency_crisis
-  - currency_weakness
-  - debt_dynamics
-  - economic_cycles
-  - inflationary_depression
-  - interest_rates
-  - monetary_policy
-  - weimar_republic
 aliases:
-  - Currency Depreciation
-  - Debt Cycle
-  - Inflationary Debt Crisis
-  - Weimar Germany
+- Currency Depreciation
+- Debt Cycle
+- Inflationary Debt Crisis
+- Weimar Germany
+cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-ba3c04
 key_concepts:
-  - Bubble emergence dynamics
-  - Capital outflow vulnerability
-  - Central bank currency creation
-  - Currency and asset dynamics
-  - Currency and debt functions
-  - Currency weakness impact
-  - Debt as asset/liability
-  - Healthy economic upswing
-  - Inflation vs interest rates
-  - Inflationary debt crisis
-  - Inflationary debt cycle phases
-  - Weimar Republic case study
+- Central bank currency creation
+- Carry trades and momentum in FX markets
+- Bubble emergence dynamics
+- Single-name vs. index CDS trading
+- Credit risk modeling and default probability estimation
+- Deleveraging cycles and balance sheet restructuring
+- Commodity markets and pricing dynamics
+- Currency derivatives
+- Solution
+- Default probability estimation
+- Credit spread decomposition and hazard rates
+- Credit portfolio diversification and concentration
+- CDS clearing and central counterparties
+- CDS-Bond basis and arbitrrage opportunities
+- Mathematical Finance
+- Currency weakness impact
+- GARCH models and volatility forecasting
+- Healthy economic upswing
+- Currency and debt functions
+- Foreign exchange markets
+- Liquidity and price discovery
+- Equity valuation and analysis
+- Inflation vs interest rates
+- Course Material
+- Currency risk management and hedging
+- Forward rates and interest rate parity
+- Debt as asset/liability
+- Case Study
+- Exchange rate determination and PPP theory
+- Balance Of Payments
+- Inflationary debt crisis
+- Credit default swap pricing and risk-neutral probabilities
+- Market microstructure and trading
+- Weimar Republic case study
+- Inflationary debt cycle phases
+- Capital outflow vulnerability
+- Credit exposure measurement and EAD
+- Wrong-way risk in derivative transactions
+- Currency and asset dynamics
+- Quantitative Implementation
+- Capital Structure
+- Credit risk modeling
+- Loss given default and recovery rates
+- Dividend discount models
+- Currency markets and foreign exchange trading
+tags:
+- fx
+- commodities
+- credit-default-swaps
+- balance-of-payments
+- garch-models
+- mathematical-finance
+- trading
+- course-material
+- capital-structure
+- debt_dynamics
+- inflationary_depression
+- case-study
+- exchange-rates
+- deleveraging
+- valuation
+- credit-risk
+- quantitative-implementation
+- solution
+- central_banks
+- equity
+- interest_rates
+- credit
+- weimar_republic
+- monetary_policy
+- regulatory-framework
+- economic_cycles
+- cds
+- currency_weakness
+title: Inflationary Depressions and Currency Crises
 ---
 
 # Inflationary Depressions and Currency Crises 1

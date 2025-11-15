@@ -1,27 +1,81 @@
 ---
+aliases:
+- China's Forex Regulator
+- Chinese Forex Agency
+- SAFE
 cssclasses:
-  - academia
+- academia
 description: China's State Administration of Foreign Exchange is the country's official
   state-run foreign exchange regulatory agency.
-source: 
-  https://www.investopedia.com/terms/s/state-administration-of-foreign-exchange.asp
-title: China's State Administration of Foreign Exchange (SAFE) Overview
-tags:
-  - china
-  - currency_regulation
-  - foreign_exchange
-  - pboc
-  - safe
-aliases:
-  - China's Forex Regulator
-  - Chinese Forex Agency
-  - SAFE
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-0ba590
 key_concepts:
-  - China's forex regulator
-  - Drafts forex regulations
-  - Manages foreign exchange reserves
-  - Oversees forex market
-  - Part of Chinese government
+- Carry trades and momentum in FX markets
+- Oversees forex market
+- Stochastic calculus in financial modeling
+- Credit risk modeling and default probability estimation
+- Option Greeks and portfolio risk management
+- Commodity markets and pricing dynamics
+- Currency derivatives
+- Solution
+- Default probability estimation
+- Credit portfolio diversification and concentration
+- Vega and volatility risk management
+- Part of Chinese government
+- Mathematical Finance
+- China's forex regulator
+- Foreign exchange markets
+- Drafts forex regulations
+- Course Material
+- Currency risk management and hedging
+- Forward rates and interest rate parity
+- Theta and time decay modeling
+- Exchange rate determination and PPP theory
+- Interest rate derivatives
+- Credit exposure measurement and EAD
+- Fixed income securities
+- Wrong-way risk in derivative transactions
+- Quantitative Implementation
+- Manages foreign exchange reserves
+- Gamma and convexity adjustments
+- Delta hedging and the replication argument
+- Credit risk modeling
+- Delta hedging and Greeks
+- Loss given default and recovery rates
+- Options pricing and payoff structures
+- Currency markets and foreign exchange trading
+source: https://www.investopedia.com/terms/s/state-administration-of-foreign-exchange.asp
+tags:
+- derivatives-markets
+- fx
+- commodities
+- currency_regulation
+- stochastic-calculus
+- mathematical-finance
+- course-material
+- greeks
+- commodity-markets
+- fixed_income
+- exchange-rates
+- options
+- credit-risk
+- fixed-income
+- foreign-exchange
+- mathematics
+- quantitative-implementation
+- solution
+- regulation
+- pboc
+- foreign_exchange
+- stochastic_calculus
+- safe
+- derivatives-pricing
+- statistics
+- credit
+- regulatory-framework
+- china
+title: China's State Administration of Foreign Exchange (SAFE) Overview
 ---
 
 # China's State Administration of Foreign Exchange (SAFE) Overview

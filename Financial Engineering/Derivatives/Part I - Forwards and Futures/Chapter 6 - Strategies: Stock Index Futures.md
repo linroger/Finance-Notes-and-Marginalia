@@ -1,22 +1,97 @@
 ---
-tags:
-  - hedge_funds
-  - market_risk
-  - merger_arbitrage
-  - stock_index_futures
-  - stock_picking
 aliases:
-  - MaxPill
-  - MoneyPlus
-  - SIF
-  - Stock picks
+- MaxPill
+- MoneyPlus
+- SIF
+- Stock picks
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-9a8388
 key_concepts:
-  - effective beta
-  - hedge market risk
-  - merger arbitrage
-  - stock index futures
-  - underpriced stocks
+- effective beta
+- Apt
+- Cox-Ross-Rubinstein parameter specification
+- Extensions to multi-factor CAPM models
+- Term structure of interest rates and yield curve shapes
+- Duration and convexity analysis for bond portfolio management
+- Active portfolio management and performance attribution
+- underpriced stocks
+- Computational implementation of binomial option pricing
+- Market risk measurement and portfolio volatility
+- Option Greeks and portfolio risk management
+- Capital Asset Pricing Model and beta estimation
+- Risk budgeting and portfolio construction techniques
+- Expectations hypothesis and liquidity preference theory
+- Capital Asset Pricing Model and expected returns
+- portfolio theory and asset pricing
+- Yield curve fitting and interpolation methods
+- stock index futures
+- hedge market risk
+- forward commitments and hedging
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- Shadow Banking
+- Fixed-for-floating swap cash flows and valuation
+- Arbitrage Pricing Theory and multifactor models
+- Security Market Line and beta measurement
+- International arbitrage and covered interest rate parity
+- Case Study
+- Arbitrage opportunities and risk-free profit extraction
+- Interest rate swap pricing and valuation
+- excess returns and manager skill
+- ESG integration in portfolio management
+- Variance swaps and volatility trading strategies
+- Convergence of binomial model to Black-Scholes solution
+- merger arbitrage
+- Binomial option pricing model with multiple time steps
+- Delta hedging strategies in options portfolio management
+- systematic risk and market exposure
+- Shadow banking system and regulatory arbitrage
+- American option pricing in binomial trees
+- Gamma and convexity adjustments
+- Capital Structure
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Delta hedging and the replication argument
+- Parallel and non-parallel shifts in the yield curve
+- Cross-currency basis swaps and funding
+- Currency hedging strategies for global portfolios
+- Market portfolio and risk-free rate assumptions
+- alternative investment strategies
+- Empirical tests and anomalies in CAPM
+tags:
+- yield-curve
+- binomial-model
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- market_risk
+- capital-structure
+- capm
+- shadow-banking
+- market-risk
+- financial-modeling
+- case-study
+- apt
+- greeks
+- value-at-risk
+- merger_arbitrage
+- factor-models
+- exchange-rates
+- hedge-funds
+- credit-risk
+- quantitative-implementation
+- duration-convexity
+- solution
+- arbitrage
+- exotic-options
+- stock_picking
+- hedge_funds
+- stock_index_futures
 ---
+
 # Strategies: Stock Index Futures  
 
 # Aims  

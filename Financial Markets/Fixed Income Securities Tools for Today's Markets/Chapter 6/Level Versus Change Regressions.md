@@ -1,20 +1,38 @@
 ---
-tags:
-  - error_terms
-  - least_squares
-  - regression_analysis
-  - time_series
-  - yield_curve
 aliases:
-  - Change-on-Change
-  - Level-on-Level
-  - Regression Models
+- Change-on-Change
+- Level-on-Level
+- Regression Models
 key_concepts:
-  - Error term independence
-  - Least-squares estimation
-  - Level vs. Change Regressions
-  - Serial correlation
-  - Yield dynamics
+- Error term independence
+- Least-squares estimation
+- Level vs. Change Regressions
+- Serial correlation
+- Yield dynamics
+- Option sensitivity analysis
+- Delta, gamma, vega, theta, rho
+- Bond pricing and yield analysis
+- Duration and convexity
+- Derivatives pricing theory
+- Risk-neutral valuation
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Value at risk and stress testing
+- Portfolio risk metrics
+tags:
+- model-calibration
+- portfolio-theory
+- error_terms
+- time_series
+- greeks
+- yield_curve
+- bonds
+- least_squares
+- derivatives
+- options
+- risk_management
+- regression_analysis
+- mathematical-finance
 ---
 
 # 6.3 LEVEL VERSUS CHANGE REGRESSIONS  

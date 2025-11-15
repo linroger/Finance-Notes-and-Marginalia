@@ -1,21 +1,76 @@
 ---
-tags:
-  - currency
-  - fiscal_policy
-  - monetary_policy
-  - stagflation
-  - tariffs
-  - trade
 aliases:
-  - Effects of Tariffs
-  - Tariff Impacts
+- Effects of Tariffs
+- Tariff Impacts
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-c67759
 key_concepts:
-  - International conflict needs
-  - Protect domestic companies
-  - Reduce account imbalances
-  - Reduce global production
-  - Stagflationary effects
-  - Tariffs raise revenue
+- Term structure of interest rates
+- Carry trades and momentum in FX markets
+- Term structure of interest rates and yield curve shapes
+- Option Greeks and portfolio risk management
+- Currency derivatives
+- Expectations hypothesis and liquidity preference theory
+- Futures contracts and forward pricing
+- Solution
+- Yield curve fitting and interpolation methods
+- Interest rate modeling
+- Vega and volatility risk management
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- Foreign exchange markets
+- International conflict needs
+- Fixed-for-floating swap cash flows and valuation
+- Currency risk management and hedging
+- Forward rates and interest rate parity
+- Theta and time decay modeling
+- Reduce global production
+- Exchange rate determination and PPP theory
+- Balance Of Payments
+- Interest rate swap pricing and valuation
+- Margin requirements and clearing
+- Variance swaps and volatility trading strategies
+- Reduce account imbalances
+- Quantitative Implementation
+- Tariffs raise revenue
+- Gamma and convexity adjustments
+- Delta hedging and the replication argument
+- Protect domestic companies
+- Parallel and non-parallel shifts in the yield curve
+- Cross-currency basis swaps and funding
+- Stagflationary effects
+- Delta hedging and Greeks
+- Options pricing and payoff structures
+- Currency markets and foreign exchange trading
+tags:
+- derivatives-markets
+- fx
+- yield-curve
+- balance-of-payments
+- interest-rate-swaps
+- mathematical-finance
+- macroeconomics
+- microeconomics
+- greeks
+- exchange-rates
+- tariffs
+- options
+- foreign-exchange
+- quantitative-implementation
+- fiscal_policy
+- solution
+- trade
+- interest_rates
+- stagflation
+- derivatives-pricing
+- statistics
+- portfolio-theory
+- monetary_policy
+- regulatory-framework
+- currency
+- futures
 ---
 
 ## Article

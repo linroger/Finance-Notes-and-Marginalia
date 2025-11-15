@@ -1,22 +1,36 @@
 ---
 LLM-tagged: 2025-03-10 14:13:25.958000+00:00
-tags:
-  - cds_spread
-  - corporate_risk
-  - credit_derivatives
-  - credit_risk
-  - merton_model
 aliases:
-  - Credit Derivatives
-  - Lecture Notes 9
+- Credit Derivatives
+- Lecture Notes 9
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-627c81
 key_concepts:
-  - Corporate Risk Management
-  - Credit Default Swaps (CDS)
-  - Credit Spread Formula
-  - Investment Banking
-  - Market Liquidity
-  - Notional Amount
-  - Protection Buyer/Seller
+- Risk-neutral measures and martingale pricing
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
+tags:
+- apt
+- arbitrage
+- bonds
+- cds
+- corporate-bonds
+- correlation
+- counterparty-risk
+- credit-default-swaps
+- credit-risk
+- credit-spreads
+- fixed_income
+- risk-management
+- risk-neutral
+- swaps
+- zero-coupon
 ---
 
 Here is a tagged summary:

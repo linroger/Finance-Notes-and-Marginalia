@@ -1,35 +1,99 @@
 ---
-tags:
-  - accounting_principles
-  - class_notes
-  - financial_accounting
-  - financial_analysis
-  - financial_markets
-  - financial_reporting
-  - financial_statements
-  - gaap
-  - sec
 aliases:
-  - Accounting Notes
-  - Class 1
-  - Class Notes
-  - Financial Accounting Notes
+- Accounting Notes
+- Class 1
+- Class Notes
+- Financial Accounting Notes
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch04-FE-tags-v2
 key_concepts:
-  - Accrual vs cash accounting differences
-  - Balance sheet structure and valuation methods
-  - Cash flow statement components and analysis
-  - Double-entry accounting system mechanics
-  - Financial statement interconnections
-  - GAAP and FASB regulatory framework
-  - Income statement recognition principles
-  - Inventory valuation and cost flow methods
-  - Journal entry recording process
-  - Ratio analysis for financial performance
-  - Revenue and expense recognition criteria
-  - T-account balancing and classification
-  - Three accounting statement framework
-  - Types of financial statement adjustments
-  - Working capital management implications
+- Apt
+- Investment analysis and portfolio management
+- Financial valuation and pricing methodologies
+- Carry trades and momentum in FX markets
+- International finance and global markets
+- Working Capital
+- Sensitivity analysis in DCF models
+- Treasury Bonds
+- Common pitfalls in DCF valuation
+- Equity markets and stock valuation
+- Discounted Cash Flow valuation methodology
+- Solution
+- Futures contracts and forward pricing
+- Municipal Bonds
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Currency risk management and hedging
+- Forward rates and interest rate parity
+- Financial theory and academic research
+- Case Study
+- Exchange rate determination and PPP theory
+- Interest rate swap pricing and valuation
+- Practical examples and implementation
+- Variance swaps and volatility trading strategies
+- Free cash flow to equity and firm valuation
+- Terminal value estimation and perpetuity growth
+- Quantitative Implementation
+- Fixed income securities and bond markets
+- Distressed Debt
+- Cross-currency basis swaps and funding
+- Currency markets and foreign exchange trading
+last_enhanced: '2025-11-06 08:42:53'
+tags:
+- accounting_principles
+- quantitative-implementation
+- solution
+- financial_statements
+- financial-regulation
+- treasury-bonds
+- working-capital
+- garch-models
+- banking
+- interest-rate-swaps
+- mathematical-finance
+- market-structure
+- course-material
+- financial_analysis
+- financial_markets
+- class_notes
+- financial_reporting
+- distressed-debt
+- case-study
+- apt
+- caps-floors
+- futures-contracts
+- sec
+- dcf-valuation
+- gaap
+- exchange-rates
+- municipal-bonds
+- forward-contracts
+- options
+- financial_accounting
+- balance-sheet
+- income-statement
+- cash-flow-statement
+- assets-liabilities
+- shareholders-equity
+- double-entry-bookkeeping
+- accrual-accounting
+- revenue-recognition
+- expense-recognition
+- current-assets
+- current-liabilities
+- working-capital-management
+- financial-ratio-analysis
+- ifrs
+- fasb
+- sfas
+- audit-compliance
+- corporate-governance
+- financial-disclosures
+- management-accounting
 ---
 
 # Financial Accounting: Class Notes

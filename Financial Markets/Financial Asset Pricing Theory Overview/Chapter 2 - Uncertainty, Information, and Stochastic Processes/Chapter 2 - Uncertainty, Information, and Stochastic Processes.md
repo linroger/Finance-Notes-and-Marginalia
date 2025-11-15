@@ -1,13 +1,32 @@
 ---
 tags:
-  - chapter_introduction
-  - information
-  - stochastic_processes
-  - uncertainty
-aliases: 
+- apt
+- arbitrage
+- black-scholes
+- brownian-motion
+- correlation
+- credit-risk
+- derivatives-pricing
+- filtration
+- hedging
+- martingale
+- replication
+- risk-management
+- risk-neutral
+- var
+aliases: null
 key_concepts:
-  - Stochastic processes explained
-  - Uncertainty and information
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Term structure of interest rates and yield curve modeling
+- Ito's lemma and stochastic calculus applications
+- Monte Carlo simulation for derivatives valuation
+- Partial differential equations in financial modeling
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
 ---
 
 # Chapter 2 - Uncertainty, Information, and Stochastic Processes

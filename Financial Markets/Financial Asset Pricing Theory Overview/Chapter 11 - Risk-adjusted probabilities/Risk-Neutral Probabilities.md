@@ -1,19 +1,23 @@
 ---
 tags:
-  - continuous_time
-  - discrete_time
-  - one_period_economy
-  - risk_free_return
-  - risk_neutral_probabilities
+- apt
+- delta
+- derivatives-pricing
+- fixed_income
+- martingale
+- risk-management
+- risk-neutral
+- var
+- zero-coupon
 aliases:
-  - Risk-Neutral Expectation
-  - Risk-Neutral Measure
+- Risk-Neutral Expectation
+- Risk-Neutral Measure
 key_concepts:
-  - Continuous-time economy
-  - Discrete-time economy
-  - One-period economy
-  - Risk-free return
-  - Risk-neutral probability measure
+- Risk-neutral measures and martingale pricing
+- Bond pricing and fixed income securities valuation
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Options Greeks and sensitivity analysis
 ---
 
 # 11.3 Risk-neutral probabilities  

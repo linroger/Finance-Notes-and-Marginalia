@@ -1,22 +1,88 @@
 ---
-cssclasses: academia
-title: QuantLib-Python
-tags:
-  - derivative_pricing
-  - financial_modeling
-  - option_pricing
-  - python_libraries
-  - quantlib_python
 aliases:
-  - Python QuantLib
-  - QL-Python
-  - QuantLib
+- Python QuantLib
+- QL-Python
+- QuantLib
+cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-dbb8b2
 key_concepts:
-  - Derivative pricing
-  - Financial library
-  - Interest rate models
-  - Python implementation
-  - Risk management
+- European Options
+- Caps Floors
+- Term structure of interest rates and yield curve shapes
+- Treasury Futures
+- American Options
+- Risk assessment and management
+- Treasury Bonds
+- Credit risk modeling and default probability estimation
+- Commodity markets and pricing dynamics
+- Expectations hypothesis and liquidity preference theory
+- Solution
+- Credit portfolio diversification and concentration
+- Risk management
+- Yield curve fitting and interpolation methods
+- forward commitments and hedging
+- Financial regulation and compliance
+- Spot rates vs. forward rates modeling
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- Derivative pricing
+- Portfolio optimization and asset allocation
+- Implied Volatility
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Currency risk management and hedging
+- Forward rates and interest rate parity
+- Interest rate models
+- Quantitative analysis and modeling
+- Exchange rate determination and PPP theory
+- Interest rate swap pricing and valuation
+- Variance swaps and volatility trading strategies
+- Python implementation
+- Credit exposure measurement and EAD
+- Fixed income analysis and term structure
+- Wrong-way risk in derivative transactions
+- Financial library
+- simulation methods in financial engineering
+- Derivatives pricing and hedging strategies
+- Quantitative Implementation
+- Financial markets and instruments
+- Parallel and non-parallel shifts in the yield curve
+- Cross-currency basis swaps and funding
+- Loss given default and recovery rates
+- Currency markets and foreign exchange trading
+- Credit risk modeling and default analysis
+tags:
+- yield-curve
+- treasury-futures
+- commodities
+- credit-spreads
+- interest-rate-swaps
+- mathematical-finance
+- course-material
+- derivative_pricing
+- caps-floors
+- option_pricing
+- exchange-rates
+- credit-risk
+- heston-model
+- hull-white-model
+- european-options
+- quantitative-implementation
+- solution
+- treasury-bonds
+- american-options
+- corporate-bonds
+- python_libraries
+- option-pricing
+- volatility-smile
+- implied-volatility
+- quantlib_python
+- financial_modeling
+- monte-carlo
+- term-structure
+title: QuantLib-Python
 ---
 
 # QuantLib-Python

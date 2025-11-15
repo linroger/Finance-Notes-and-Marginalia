@@ -1,22 +1,68 @@
 ---
-tags:
-  - credit_derivatives
-  - credit_risk_modeling
-  - default_risk
-  - reduced_form_models
-  - structural_models
 aliases:
-  - Credit Models
-  - Credit Risk Introduction
+- Credit Models
+- Credit Risk Introduction
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-ce9c2e
 key_concepts:
-  - CAPM and portfolio theory
-  - Credit default swap contracts
-  - Default probability modeling
-  - Default rates and credit ratings
-  - Models of credit risks
-  - Option pricing for bonds
-  - Structural and reduced form models
-  - Valuing default risk claims
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Ito's lemma and stochastic calculus applications
+- Partial differential equations in financial modeling
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- apt
+- arbitrage
+- arch
+- black-scholes
+- bonds
+- brownian-motion
+- capm
+- cds
+- convexity
+- corporate-bonds
+- correlation
+- credit-default-swaps
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- exotic-options
+- factor-models
+- filtration
+- fixed_income
+- garch
+- geometric-brownian-motion
+- greeks
+- hedging
+- interest-rate-swaps
+- martingale
+- options
+- pde
+- recovery-rate
+- reduced-form
+- risk-management
+- risk-neutral
+- structural-models
+- swaps
+- swaptions
+- term-structure
+- var
+- yield-curve
+- zero-coupon
 ---
 
 # An Introduction to Credit Risk Modelling

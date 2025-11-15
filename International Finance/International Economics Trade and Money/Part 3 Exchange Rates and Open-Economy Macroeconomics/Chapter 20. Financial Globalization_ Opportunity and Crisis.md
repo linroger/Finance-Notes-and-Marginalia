@@ -1,3 +1,22 @@
+---
+key_concepts:
+- Equity valuation and analysis
+- Dividend discount models
+- Foreign exchange markets
+- Currency derivatives
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+tags:
+- equity
+- portfolio-theory
+- stochastic_calculus
+- stochastic-calculus
+- regulatory-framework
+- fx
+- portfolio
+- options
+- regulation
+---
 # CHAPTER 20  
 
 # Financial Globalization: Opportunity and Crisis  

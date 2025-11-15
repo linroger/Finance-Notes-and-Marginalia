@@ -1,3 +1,77 @@
+---
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-7bde75
+key_concepts:
+- Liquidity coverage ratio and net stable funding ratio
+- Deposit Insurance
+- Carry trades and momentum in FX markets
+- Term structure of interest rates and yield curve shapes
+- Risk assessment and management
+- Wholesale funding markets and maturity transformation
+- Funding liquidity vs. market liquidity
+- Expectations hypothesis and liquidity preference theory
+- Solution
+- Historical simulation vs. parametric VaR models
+- Yield curve fitting and interpolation methods
+- Market efficiency and arbitrage pricing
+- Leverage ratio and large exposures
+- Financial regulation and compliance
+- Mathematical Finance
+- Spot rates vs. forward rates modeling
+- Monte Carlo VaR for complex portfolios
+- Stress testing and scenario analysis
+- Portfolio optimization and asset allocation
+- Risk-weighted assets and capital adequacy ratios
+- Corporate finance and valuation methods
+- Currency risk management and hedging
+- Forward rates and interest rate parity
+- Value at Risk (VaR) methodologies and backtesting
+- Quantitative analysis and modeling
+- Exchange rate determination and PPP theory
+- Net interest margin analysis and banking profitability
+- Expected Shortfall and coherent risk measures
+- Liquidity risk management in financial institutions
+- Basel III regulatory framework and capital requirements
+- deposit insurance and protection systems
+- Fixed income analysis and term structure
+- asset transformation and structured finance
+- Deposit stability and core funding
+- Derivatives pricing and hedging strategies
+- Shadow banking system and regulatory arbitrage
+- Quantitative Implementation
+- Financial markets and instruments
+- Syndicated Loans
+- Parallel and non-parallel shifts in the yield curve
+- Mbs Cmos
+- liquidity measurement and management
+- Currency markets and foreign exchange trading
+- Credit risk modeling and default analysis
+- Liquidity stress testing and contingency funding plans
+tags:
+- yield-curve
+- mathematical-finance
+- balance-sheet
+- bank-regulation
+- capital-structure
+- shadow-banking
+- value-at-risk
+- exchange-rates
+- credit-risk
+- efficient-market
+- quantitative-implementation
+- solution
+- securitization
+- banking
+- financial-crisis
+- infrastructure
+- liquidity-risk
+- mbs-cmos
+- deposit-insurance
+- financial-intermediation
+- syndicated-loans
+---
+
 # Contemporary Financial Intermediation - Table of Contents
 
 ## Introduction

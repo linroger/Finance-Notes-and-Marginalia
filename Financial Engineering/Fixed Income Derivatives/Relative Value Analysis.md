@@ -1,21 +1,48 @@
 ---
-tags:
-  - asset_swap
-  - bond_spreads
-  - credit_risk
-  - relative_value
-  - swap_spread
-  - treasury_spread
 aliases:
-  - Cash-CDS spread
-  - I-spread
-  - Z-spread
+- Cash-CDS spread
+- I-spread
+- Z-spread
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-a93a16
 key_concepts:
-  - Asset swap spread
-  - Credit risk assessment
-  - Relative value of bonds
-  - Swap spread calculation
-  - Yield spread measurement
+- Risk-neutral measures and martingale pricing
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+tags:
+- apt
+- arbitrage
+- arch
+- bonds
+- cds
+- convexity
+- corporate-bonds
+- correlation
+- credit-default-swaps
+- credit-risk
+- duration
+- factor-models
+- fixed_income
+- fx
+- garch
+- hedging
+- interest-rate-swaps
+- risk-management
+- risk-neutral
+- swaps
+- var
+- yield-curve
+- yield-to-maturity
+- zero-coupon
 ---
 
 # Relative value analysis

@@ -1,28 +1,76 @@
 ---
-title: Engineering of Equity Instruments and Structural Models of Default
-tags:
-  - equity-derivatives
-  - structural-models
-  - default-models
-  - financial-engineering
-  - merton-model
-  - equity-valuation
-  - credit-models
-  - convertible-bonds
 aliases:
-  - Chapter 19 Equity Engineering
-  - Structural Default Models
-  - Equity Derivatives Engineering
-key_concepts:
-  - Equity as call option
-  - Merton model
-  - Structural default models
-  - Convertible bonds
-  - Equity volatility
-  - Capital structure arbitrage
-  - Debt-equity relationships
-  - Default boundaries
+- Chapter 19 Equity Engineering
+- Structural Default Models
+- Equity Derivatives Engineering
 cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-f7cc30
+key_concepts:
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Partial differential equations in financial modeling
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- american-options
+- apt
+- arbitrage
+- arch
+- black-scholes
+- bonds
+- brownian-motion
+- capm
+- cds
+- commodities
+- convexity
+- corporate-bonds
+- credit-default-swaps
+- credit-risk
+- credit-spreads
+- default-probability
+- delta
+- delta-hedging
+- derivatives-pricing
+- duration
+- european-options
+- exotic-options
+- factor-models
+- fixed-income
+- fixed_income
+- floors
+- futures
+- garch
+- geometric-brownian-motion
+- greeks
+- hedging
+- implied-volatility
+- interest-rate-swaps
+- martingale
+- mbs
+- options
+- pde
+- replication
+- risk-management
+- risk-neutral
+- structural-models
+- swaps
+- var
+- yield-curve
+- zero-coupon
+title: Engineering of Equity Instruments and Structural Models of Default
 ---
 
 # ENGINEERING OF EQUITY INSTRUMENTS AND STRUCTURAL MODELS OF DEFAULT  

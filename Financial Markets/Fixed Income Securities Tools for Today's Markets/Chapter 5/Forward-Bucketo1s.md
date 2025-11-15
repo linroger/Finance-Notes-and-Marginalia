@@ -1,21 +1,45 @@
 ---
-tags:
-  - forward_bucket
-  - interest_rate_risk
-  - key_rate
-  - municipal_bonds
-  - term_structure
-  - yield_curve
 aliases:
-  - Forward Bucket
-  - Forward-Bucket
-  - Wellesley Bonds
+- Forward Bucket
+- Forward-Bucket
+- Wellesley Bonds
 key_concepts:
-  - Forward bucket interpretation
-  - Forward rate curve
-  - Key rate vs forward bucket
-  - Term structure shifts
-  - Wellesley general obligation bonds
+- Forward bucket interpretation
+- Forward rate curve
+- Key rate vs forward bucket
+- Term structure shifts
+- Wellesley general obligation bonds
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Derivatives pricing theory
+- Risk-neutral valuation
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Interest rate modeling
+tags:
+- yield_curve
+- key_rate
+- term_structure
+- interest_rates
+- portfolio-theory
+- municipal_bonds
+- fx
+- trading
+- bonds
+- swaps
+- futures
+- derivatives
+- forward_bucket
+- options
+- portfolio
 ---
 
 # 5.6 FORWARD-BUCKET'O1S  

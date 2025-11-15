@@ -1,23 +1,107 @@
 ---
-title: Chapter 20-Macroeconomic Policies in the Global Economy
-cssclasses:
-  - academia
-tags:
-  - economic_recession
-  - fiscal_policy
-  - global_economy
-  - macroeconomic_policies
-  - monetary_policy
 aliases:
-  - Chapter 20
-  - Global Macro
-  - Macro Policies
+- Chapter 20
+- Global Macro
+- Macro Policies
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-652231
 key_concepts:
-  - Developing countries growth
-  - Long-term growth paths
-  - Monetary and fiscal tools
-  - Subprime mortgage crisis
-  - U.S. dot.com boom
+- Cox-Ross-Rubinstein parameter specification
+- Currency hedging strategies
+- Stochastic calculus in financial modeling
+- Forward exchange rate determination
+- Computational implementation of binomial option pricing
+- Single-name vs. index CDS trading
+- Subprime mortgage crisis
+- Collateralized Debt Obligations
+- Commodity markets and pricing dynamics
+- Currency derivatives
+- Default probability estimation
+- Credit spread decomposition and hazard rates
+- CDS clearing and central counterparties
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- 2008 financial crisis and systemic risk analysis
+- GARCH models and volatility forecasting
+- CIP deviations and regulatory effects
+- Foreign exchange markets
+- Liquidity and price discovery
+- U.S. dot.com boom
+- Equity valuation and analysis
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Monetary and fiscal tools
+- Cross-currency basis and funding spreads
+- Counterparty risk and settlement
+- Covered interest rate parity and no-arbitrage
+- Balance Of Payments
+- Interest rate swap pricing and valuation
+- Credit default swap pricing and risk-neutral probabilities
+- Market microstructure and trading
+- Developing countries growth
+- Structured products and CDOs
+- Variance swaps and volatility trading strategies
+- Pairs trading and statistical arbitrage strategies
+- Convergence of binomial model to Black-Scholes solution
+- Long-term growth paths
+- Binomial option pricing model with multiple time steps
+- Bond pricing and yield analysis
+- American option pricing in binomial trees
+- Uncovered Interest Parity
+- Credit default swaps and credit risk
+- Credit risk modeling
+- Cross-currency basis swaps and funding
+- Delta hedging and Greeks
+- Duration and convexity
+- Options pricing and payoff structures
+- Dividend discount models
+tags:
+- uncovered-interest-parity
+- fx
+- binomial-model
+- commodities
+- credit-default-swaps
+- balance-of-payments
+- covered-interest-parity
+- stochastic-calculus
+- collateralized-debt-obligations
+- garch-models
+- global_economy
+- interest-rate-swaps
+- mathematical-finance
+- trading
+- course-material
+- 2008-financial-crisis
+- pairs-trading
+- case-study
+- apt
+- bonds
+- greeks
+- economic_recession
+- value-at-risk
+- kalman-filter
+- exchange-rates
+- credit-risk
+- quantitative-implementation
+- duration-convexity
+- solution
+- real-estate
+- structured_finance
+- equity
+- interest_rates
+- stochastic_calculus
+- infrastructure
+- credit
+- monetary_policy
+- regulatory-framework
+- harvard-business-review
+- cds
+- macroeconomic_policies
+title: Chapter 20-Macroeconomic Policies in the Global Economy
 ---
 
 # Chapter 20-Macroeconomic Policies in the Global Economy

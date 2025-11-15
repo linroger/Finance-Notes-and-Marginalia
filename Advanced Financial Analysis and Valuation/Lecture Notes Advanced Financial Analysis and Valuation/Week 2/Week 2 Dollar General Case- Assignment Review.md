@@ -1,28 +1,92 @@
 ---
+aliases:
+- DG Case Review
+- Dollar General Assignment Review
 cssclasses:
-  - academia
-title: Week 2 Dollar General Case - Assignment Review
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-43bb84
+key_concepts:
+- Financial statement analysis
+- Apt
+- Cox-Ross-Rubinstein parameter specification
+- Carry trades and momentum in FX markets
+- capital markets and issuance
+- Pro-forma adjustments
+- Private equity transactions
+- Reduced-form models and intensity-based approaches
+- Computational implementation of binomial option pricing
+- Debt capacity analysis in LBO transactions
+- Non-recurring items adjustment
+- private equity transactions
+- Solution
+- Financial distress and bankruptcy valuation
+- Mathematical Finance
+- Exit strategies and return maximization
+- Shadow Banking
+- Bank resolution and too-big-to-fail policies
+- Course Material
+- Market pricing vs. KKR offer
+- Currency risk management and hedging
+- Forward rates and interest rate parity
+- LBO financing sources and covenant structures
+- Case Study
+- Private equity investing and leveraged buyouts
+- Exchange rate determination and PPP theory
+- Net interest margin analysis and banking profitability
+- Bank liquidity ratios and funding risk management
+- gross margin in loan structures
+- Convergence of binomial model to Black-Scholes solution
+- Comparable Analysis
+- Binomial option pricing model with multiple time steps
+- Stress Testing
+- Shadow banking system and regulatory arbitrage
+- Quantitative Implementation
+- American option pricing in binomial trees
+- Bank stress testing and supervisory oversight
+- Capital Structure
+- Harvard Business Review
+- Leveraged Buyout financial structures and returns
+- Distressed Debt
+- Store appearance and customer satisfaction
+- Acquisition offer analysis
+- Commercial bank business model and revenue streams
+- Valuation multiples
+- Currency markets and foreign exchange trading
+- Equity returns and value creation mechanisms
 linter-yaml-title-alias: Week 2 Dollar General Case - Assignment Review
 tags:
-  - acquisition
-  - dollar_general
-  - financial_analysis
-  - lbo
-  - valuation
-  - case_study
-  - retail_analysis
-aliases:
-  - DG Case Review
-  - Dollar General Assignment Review
-key_concepts:
-  - Acquisition offer analysis
-  - Financial statement analysis
-  - Market pricing vs. KKR offer
-  - Non-recurring items adjustment
-  - Store appearance and customer satisfaction
-  - Pro-forma adjustments
-  - Valuation multiples
-  - Private equity transactions
+- binomial-model
+- dollar_general
+- roe
+- mathematical-finance
+- course-material
+- acquisition
+- capital-structure
+- shadow-banking
+- market-ratios
+- case_study
+- case-study
+- apt
+- impairment
+- comparable-analysis
+- lbo
+- exchange-rates
+- valuation
+- ebitda
+- leveraged-buyouts
+- quantitative-implementation
+- solution
+- private-equity
+- depreciation
+- stress-testing
+- financial_analysis
+- roa
+- distressed-debt
+- harvard-business-review
+- retail_analysis
+title: Week 2 Dollar General Case - Assignment Review
 ---
 
 # Week 2 Dollar General Case - Assignment Review

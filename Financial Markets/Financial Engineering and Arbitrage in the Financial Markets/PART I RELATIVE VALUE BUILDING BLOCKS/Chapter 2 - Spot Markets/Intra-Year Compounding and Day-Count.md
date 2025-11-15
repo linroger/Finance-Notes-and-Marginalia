@@ -1,20 +1,14 @@
 ---
 tags:
-  - accrued_interest
-  - bond_valuation
-  - coupon_bonds
-  - day_count_conventions
-  - intra_year_compounding
+- arch
+- bonds
+- fixed_income
+- zero-coupon
 aliases:
-  - Accrued Interest
-  - Day-Count
-  - Intra-Year Compounding
-key_concepts:
-  - Accrued interest calculation
-  - Coupon bond example
-  - Day-count conventions
-  - Intra-year compounding
-  - Semi-annual bond yield
+- Accrued Interest
+- Day-Count
+- Intra-Year Compounding
+key_concepts: []
 ---
 
 # 2.2 INTRA-YEAR COMPOUNDING AND DAY-COUNT  

@@ -1,23 +1,58 @@
 ---
-linter-yaml-title-alias: PSET 7 SOLUTIONS
-title: PSET 7 SOLUTIONS
-tags:
-  - american_option
-  - american_put_option
-  - dividend_payments
-  - early_exercise
-  - european_call_option
 aliases:
-  - American Options
-  - Call Option
-  - Homework 7
-  - PSET 7
+- American Options
+- Call Option
+- Homework 7
+- PSET 7
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-079b24
 key_concepts:
-  - American option payoff
-  - Continuously compounded interest
-  - Dividend payments impact
-  - Early exercise value
-  - Risk neutral probability
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Bond pricing and fixed income securities valuation
+- Ito's lemma and stochastic calculus applications
+- Monte Carlo simulation for derivatives valuation
+- Partial differential equations in financial modeling
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+linter-yaml-title-alias: PSET 7 SOLUTIONS
+tags:
+- american-options
+- arbitrage
+- binomial
+- black-scholes
+- bonds
+- calls
+- convexity
+- corporate-bonds
+- correlation
+- credit-risk
+- default-probability
+- derivatives-pricing
+- duration
+- exotic-options
+- expected-shortfall
+- fixed_income
+- hedging
+- interest-rate-swaps
+- monte-carlo
+- options
+- pde
+- puts
+- risk-management
+- risk-neutral
+- stress-testing
+- swaps
+- var
+- zero-coupon
+title: PSET 7 SOLUTIONS
 ---
 
 # PSET 7 SOLUTIONS

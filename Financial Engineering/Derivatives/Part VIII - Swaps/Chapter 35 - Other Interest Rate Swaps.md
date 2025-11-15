@@ -1,22 +1,107 @@
 ---
-tags:
-  - basis_swaps
-  - interest_rate_swaps
-  - swap_hedging
-  - variable_rate_swaps
-  - zero_coupon_swaps
 aliases:
-  - floating-floating swap
-  - non-standard swaps
-  - spread-to-LIBOR swap
-  - yield curve swap
+- floating-floating swap
+- non-standard swaps
+- spread-to-LIBOR swap
+- yield curve swap
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-eed042
 key_concepts:
-  - floating rate interest payments
-  - hedge credit risk
-  - price non-standard swaps
-  - swap dealers hedge
-  - value interest rate swaps
+- Bond convexity adjustment for large interest rate changes
+- Liquidity coverage ratio and net stable funding ratio
+- Extensions to multi-factor CAPM models
+- Term structure of interest rates and yield curve shapes
+- Duration and convexity analysis for bond portfolio management
+- Active portfolio management and performance attribution
+- Stress testing and supervisory review processes
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Market risk measurement and portfolio volatility
+- maturity date in CDS
+- Capital Asset Pricing Model and beta estimation
+- Risk budgeting and portfolio construction techniques
+- Expectations hypothesis and liquidity preference theory
+- Capital Asset Pricing Model and expected returns
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- Leverage ratio and large exposures
+- CDS clearing and central counterparties
+- forward commitments and hedging
+- CDS-Bond basis and arbitrrage opportunities
+- Spot rates vs. forward rates modeling
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- Fixed-for-floating swap cash flows and valuation
+- day count convention in CDS
+- Risk-weighted assets and capital adequacy ratios
+- Security Market Line and beta measurement
+- Case Study
+- floating rate interest payments
+- Interest rate swap pricing and valuation
+- Basel III regulatory framework and capital requirements
+- interest rate and currency derivatives
+- Credit default swap pricing and risk-neutral probabilities
+- ESG integration in portfolio management
+- present value and discounting methods
+- zero-coupon bond pricing and yields
+- value interest rate swaps
+- Variance swaps and volatility trading strategies
+- Delta hedging strategies in options portfolio management
+- hedge credit risk
+- credit enhancement mechanisms
+- Credit risk modeling and portfolio correlation analysis
+- price non-standard swaps
+- Credit risk assessment and loan portfolio management
+- Parallel and non-parallel shifts in the yield curve
+- swap dealers hedge
+- Gamma trading and convexity adjustment techniques
+- Cross-currency basis swaps and funding
+- Currency hedging strategies for global portfolios
+- Market portfolio and risk-free rate assumptions
+- Empirical tests and anomalies in CAPM
+tags:
+- yield-curve
+- basel-iii
+- convexity
+- swap_hedging
+- credit-default-swaps
+- basis_swaps
+- collateralized-debt-obligations
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- interest_rate_swaps
+- bank-regulation
+- capm
+- market-risk
+- case-study
+- zero_coupon_swaps
+- apt
+- greeks
+- value-at-risk
+- credit-ratings
+- exchange-rates
+- credit-risk
+- quantitative-implementation
+- duration-convexity
+- solution
+- treasury-bonds
+- exchange-rate
+- gamma-hedging
+- variable_rate_swaps
+- exotic-options
+- distressed-debt
+- currency-risk
+- swaptions
+- delta-hedging
+- dcf-valuation
+- municipal-bonds
+- credit-analysis
+- term-structure
 ---
+
 # Other Interest Rate Swaps  
 
 # Aims  

@@ -1,30 +1,77 @@
 ---
-title: Mechanics of Options
-tags:
-  - options
-  - derivatives
-  - financial-engineering
-  - call-options
-  - put-options
-  - option-valuation
-  - option-mechanics
-  - american-options
-  - european-options
 aliases:
-  - Chapter 9 Options Mechanics
-  - Options Introduction
-  - Options Trading Mechanics
-key_concepts:
-  - Option definition
-  - Call and put options
-  - Option notation
-  - European vs American options
-  - Option payoff diagrams
-  - Strike price
-  - Expiration date
-  - Option pricing basics
-  - Option strategies
+- Chapter 9 Options Mechanics
+- Options Introduction
+- Options Trading Mechanics
 cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-7ffc48
+key_concepts:
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Ito's lemma and stochastic calculus applications
+- Partial differential equations in financial modeling
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility smile, skew, and surface modeling
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- american-options
+- apt
+- arbitrage
+- arch
+- barrier-options
+- binomial
+- black-scholes
+- bonds
+- brownian-motion
+- calls
+- capm
+- cds
+- commodities
+- convexity
+- correlation
+- credit-default-swaps
+- credit-risk
+- delta
+- delta-hedging
+- derivatives-pricing
+- duration
+- european-options
+- exotic-options
+- factor-models
+- fixed_income
+- futures
+- gamma
+- garch
+- greeks
+- hedging
+- implied-volatility
+- interest-rate-swaps
+- options
+- pde
+- puts
+- risk-management
+- risk-neutral
+- stochastic-calculus
+- swaps
+- term-structure
+- theta
+- var
+- vega
+- wiener-process
+- yield-curve
+title: Mechanics of Options
 ---
 
 # MECHANICS OF OPTIONS  

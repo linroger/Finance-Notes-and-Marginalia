@@ -1,25 +1,57 @@
 ---
-title: Currency Swap Basics
-source: https://www.investopedia.com/articles/forex/11/introduction-currency-swaps.asp
-description: Find out what makes currency swaps unique and slightly more complicated than other types of swaps.
-tags:
-  - currency_swap
-  - exchange_rate_risk
-  - fx_swap
-  - hedging
-  - interest_rates
 aliases:
-  - FX swap
-  - cross-currency swap
-  - currency exchange
+- FX swap
+- cross-currency swap
+- currency exchange
+description: Find out what makes currency swaps unique and slightly more complicated
+  than other types of swaps.
 key_concepts:
-  - Borrow foreign exchange
-  - Exchange currencies
-  - Exchange-rate risk
-  - Interest rate arbitrage
-  - Offsetting loans
- 
+- Borrow foreign exchange
+- Exchange currencies
+- Exchange-rate risk
+- Interest rate arbitrage
+- Offsetting loans
+- interest rate and currency derivatives
+- settlement date in CDS
+- Credit spread analysis and OAS methodology
+- Credit default swap pricing and recovery assumptions
+- Probability of default estimation from credit spreads
+- Structural models of default and Merton formulation
+- Credit risk modeling and portfolio correlation analysis
+- Synthetic credit derivatives and index trades
+- Credit risk migration matrices and rating transition
+- Counterparty credit exposure measurement
+- Credit risk assessment and loan portfolio management
+- Credit intermediation and information asymmetry
+- 'Structured products: CDOs, CLOs, and credit derivatives'
+- interest rate and currency derivatives
+- settlement date in CDS
+- Credit spread analysis and OAS methodology
+- Credit default swap pricing and recovery assumptions
+- Probability of default estimation from credit spreads
+- Structural models of default and Merton formulation
+- Credit risk modeling and portfolio correlation analysis
+- Synthetic credit derivatives and index trades
+- Credit risk migration matrices and rating transition
+- Counterparty credit exposure measurement
+- Credit risk assessment and loan portfolio management
+- Credit intermediation and information asymmetry
+source: https://www.investopedia.com/articles/forex/11/introduction-currency-swaps.asp
+tags:
+- cost-of-capital
+- currency-swaps
+- currency_swap
+- exchange-rate
+- exchange_rate_risk
+- financial-modeling
+- fx_swap
+- hedging
+- interest-rate-swaps
+- interest_rates
+title: Currency Swap Basics
 ---
+
+
 
 
 Currency swaps are an essential financial instrument utilized by banks, multinational corporations, and institutional investors. Although these type of swaps function in a similar fashion to interest rate swaps and equity swaps, there are some major fundamental qualities that make currency swaps unique and thus slightly more complicated.

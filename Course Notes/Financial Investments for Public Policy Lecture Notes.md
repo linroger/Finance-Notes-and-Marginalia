@@ -1,15 +1,118 @@
 ---
-tags:
-  - financial_markets
-  - public_policy
-  - risk_return
-aliases: 
+aliases: null
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-52019a
 key_concepts:
-  - Assess risk and return
-  - Excel for financial data
-  - Financial markets and policy
-  - Introductory investments tools
-  - Public policy investment questions
+- Cox-Ross-Rubinstein parameter specification
+- CPI and consumer inflation
+- coupon-bearing bond analysis
+- Term structure of interest rates and yield curve shapes
+- Extensions to multi-factor CAPM models
+- Duration and convexity analysis for bond portfolio management
+- Active portfolio management and performance attribution
+- Mean-variance optimization and the efficient frontier
+- Computational implementation of binomial option pricing
+- Single-name vs. index CDS trading
+- Financial markets and policy
+- maturity date in CDS
+- Commodity markets and pricing dynamics
+- Capital Asset Pricing Model and beta estimation
+- Expectations hypothesis and liquidity preference theory
+- Capital Asset Pricing Model and expected returns
+- Public policy investment questions
+- breakeven inflation rate calculation
+- active management performance attribution
+- portfolio theory and asset pricing
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- option pricing models and PDE solutions
+- CDS clearing and central counterparties
+- fixed income risk measurement
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- Fixed-for-floating swap cash flows and valuation
+- Arbitrage Pricing Theory and multifactor models
+- Course Material
+- Security Market Line and beta measurement
+- Introductory investments tools
+- Dividend Policy
+- Interest rate swap pricing and valuation
+- excess returns and manager skill
+- interest rate and currency derivatives
+- Credit default swap pricing and risk-neutral probabilities
+- present value and discounting methods
+- Assess risk and return
+- zero-coupon bond pricing and yields
+- Variance swaps and volatility trading strategies
+- Convergence of binomial model to Black-Scholes solution
+- Treasury Inflation-Protected Securities
+- Binomial option pricing model with multiple time steps
+- Delta hedging strategies in options portfolio management
+- systematic risk and market exposure
+- American option pricing in binomial trees
+- Capital Structure
+- Credit risk modeling and portfolio correlation analysis
+- Parallel and non-parallel shifts in the yield curve
+- risk-adjusted performance measurement
+- price index and inflation measurement
+- publicly available information in CDS
+- Cross-currency basis swaps and funding
+- Market portfolio and risk-free rate assumptions
+- Excel for financial data
+- inflation swap transactions and pricing
+tags:
+- yield-curve
+- binomial-model
+- commodities
+- credit-default-swaps
+- market-efficiency
+- dividend-policy
+- capm
+- dividend-discount-model
+- mean-variance
+- apt
+- case-study
+- efficient-frontier
+- value-at-risk
+- factor-models
+- put-options
+- time-series
+- credit-risk
+- efficient-market
+- duration-convexity
+- solution
+- option-pricing
+- wholesale-funding
+- municipal-bonds
+- asset-allocation
+- garch-models
+- interest-rate-swaps
+- call-options
+- capital-asset-pricing-model
+- mathematical-finance
+- course-material
+- capital-structure
+- market-risk
+- greeks
+- black-scholes-model
+- fed-funds
+- momentum-strategies
+- quantitative-implementation
+- real-estate
+- treasury-bonds
+- monetary-policy
+- arbitrage
+- infrastructure
+- exotic-options
+- price-earnings-ratio
+- delta-hedging
+- dcf-valuation
+- harvard-business-review
+- duration
 ---
 
 # Prof. Carolin Pflueger  

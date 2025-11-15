@@ -1,19 +1,44 @@
 ---
-tags:
-  - cpr
-  - mortgage_valuation
-  - prepayment_modeling
-  - refinancing
-  - s_curve
 aliases:
-  - Mortgage Prepayments
-  - Prepayment Models
+- Mortgage Prepayments
+- Prepayment Models
 key_concepts:
-  - CPR and mortgage rates
-  - Mortgage pool characteristics
-  - Prepayment model drivers
-  - Refinancing S-curve
-  - Refinancing incentive function
+- CPR and mortgage rates
+- Mortgage pool characteristics
+- Prepayment model drivers
+- Refinancing S-curve
+- Refinancing incentive function
+- Equity valuation and analysis
+- Dividend discount models
+- Credit risk modeling
+- Default probability estimation
+- Fixed income securities
+- Interest rate derivatives
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Value at risk and stress testing
+tags:
+- equity
+- model-calibration
+- refinancing
+- credit
+- prepayment_modeling
+- cpr
+- cds
+- s_curve
+- interest_rates
+- stochastic_calculus
+- valuation
+- fixed_income
+- bonds
+- futures
+- risk_management
 ---
 
 # 15.6 PREPAYMENT MODELING  

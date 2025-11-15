@@ -1,20 +1,40 @@
 ---
-tags:
-  - amortization
-  - fixed_rate_mortgage
-  - interest_rate
-  - monthly_payments
-  - mortgage_loans
 aliases:
-  - 30-year mortgage
-  - Fixed-Rate Mortgage
-  - Mortgage Amortization
+- 30-year mortgage
+- Fixed-Rate Mortgage
+- Mortgage Amortization
 key_concepts:
-  - Amortization table example
-  - Fixed-rate mortgage loans
-  - Monthly payment calculation
-  - Mortgage amortization graphically
-  - Principal and interest components
+- Amortization table example
+- Fixed-rate mortgage loans
+- Monthly payment calculation
+- Mortgage amortization graphically
+- Principal and interest components
+- Credit risk modeling
+- Default probability estimation
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Interest rate modeling
+- Term structure of interest rates
+tags:
+- fixed_rate_mortgage
+- interest_rate
+- valuation
+- credit
+- trading
+- bonds
+- mortgage_loans
+- amortization
+- cds
+- options
+- monthly_payments
+- mathematical-finance
+- interest_rates
 ---
 
 # 15.2 FIXED-RATE MORTGAGE LOANS  

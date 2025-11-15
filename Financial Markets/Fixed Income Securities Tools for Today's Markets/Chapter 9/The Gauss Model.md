@@ -1,20 +1,44 @@
 ---
-tags:
-  - business_cycles
-  - gauss_model
-  - interest_rates
-  - mean_reversion
-  - monetary_policy
-  - term_structure
 aliases:
-  - G+ Model
-  - Gauss Plus Model
+- G+ Model
+- Gauss Plus Model
 key_concepts:
-  - Gauss model introduction
-  - Long-term expectations
-  - Mean reversion parameters
-  - Short-term interest rate
-  - Term structure dynamics
+- Gauss model introduction
+- Long-term expectations
+- Mean reversion parameters
+- Short-term interest rate
+- Term structure dynamics
+- Fixed income securities
+- Interest rate derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Option sensitivity analysis
+- Delta, gamma, vega, theta, rho
+- Bond pricing and yield analysis
+- Duration and convexity
+- Vasicek short-rate model
+- Mean-reverting processes
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Derivatives pricing theory
+tags:
+- gauss_model
+- model-calibration
+- monetary_policy
+- greeks
+- mean_reversion
+- term_structure
+- vasicek
+- structured_finance
+- interest_rates
+- business_cycles
+- fixed_income
+- trading
+- bonds
+- volatility
+- swaps
 ---
 
 # 9.2 THE GAUSS+ MODEL  

@@ -1,24 +1,17 @@
 ---
 tags:
-  - absolute_risk_aversion
-  - crra_utility
-  - hara_utility
-  - logarithmic_utility
-  - power_utility
-  - relative_risk_aversion
-  - risk_aversion
-  - utility_functions
+- abs
+- derivatives-pricing
+- fixed_income
+- gamma
+- risk-management
+- var
 aliases:
-  - extended power utility
-  - isoelastic utility
+- extended power utility
+- isoelastic utility
 key_concepts:
-  - Absolute risk aversion
-  - CRRA utility definition
-  - HARA utility function
-  - Logarithmic utility function
-  - Negative exponential utility
-  - Relative risk aversion
-  - Satiation HARA utility
+- Value at Risk and tail risk measurement
+- Options Greeks and sensitivity analysis
 ---
 
 # 5.6 Utility functions in models and in reality  

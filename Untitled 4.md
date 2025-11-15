@@ -1,3 +1,128 @@
+---
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-4fc7cc
+key_concepts:
+- Liquidity coverage ratio and net stable funding ratio
+- Term structure of interest rates
+- Hedge fund replication
+- Cox-Ross-Rubinstein parameter specification
+- Term structure of interest rates and yield curve shapes
+- Treasury Futures
+- Working Capital
+- Computational implementation of binomial option pricing
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Currency derivatives
+- Expectations hypothesis and liquidity preference theory
+- Law of one price
+- Futures contracts and forward pricing
+- Interest rate swaps and term structure
+- Interest rate modeling
+- Path-dependent derivatives
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- CDS clearing and central counterparties
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- Option sensitivity analysis
+- GARCH models and volatility forecasting
+- Foreign exchange markets
+- Alternative investment strategies
+- Equity valuation and analysis
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Risk-weighted assets and capital adequacy ratios
+- Monte Carlo simulation
+- Dividend Policy
+- Interest rate swap pricing and valuation
+- Margin requirements and clearing
+- Credit derivatives
+- Delta, gamma, vega, theta, rho
+- Basel III regulatory framework and capital requirements
+- Credit default swap pricing and risk-neutral probabilities
+- Structured products and CDOs
+- Variance swaps and volatility trading strategies
+- Arbitrage theory and practice
+- Convergence of binomial model to Black-Scholes solution
+- Binomial option pricing model with multiple time steps
+- American option pricing in binomial trees
+- Parallel and non-parallel shifts in the yield curve
+- Cross-currency basis swaps and funding
+- Basis swaps and cross-currency swaps
+- Dividend discount models
+tags:
+- basel-iii
+- fx
+- swaps
+- binomial-model
+- treasury-futures
+- credit-default-swaps
+- working-capital
+- yield-curve
+- dividend-policy
+- collateralized-debt-obligations
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- monte_carlo
+- trading
+- course-material
+- bank-regulation
+- capital-structure
+- capm
+- case-study
+- apt
+- bonds
+- greeks
+- black-scholes-model
+- core-deposits
+- value-at-risk
+- factor-models
+- exchange-rates
+- valuation
+- cir-model
+- hedge-funds
+- credit-risk
+- leveraged-buyouts
+- libor-market-model
+- currency-swaps
+- efficient-market
+- duration-convexity
+- momentum-strategies
+- quantitative-implementation
+- private-equity
+- real-estate
+- solution
+- treasury-bonds
+- wacc
+- model-calibration
+- structured_finance
+- equity
+- interest_rates
+- stress-testing
+- infrastructure
+- algorithmic-trading
+- corporate-bonds
+- wholesale-funding
+- exotic-options
+- distressed-debt
+- mbs-cmos
+- portfolio-theory
+- delta-hedging
+- implied-volatility
+- vasicek-model
+- hedge_funds
+- dcf-valuation
+- regulatory-framework
+- municipal-bonds
+- expected-shortfall
+- credit-analysis
+- monte-carlo
+---
+
 Here are the corrected Markdown and LaTeX versions of the CFA Program Level I, II, and III formula sheets, with formatting, equations, and headers fixed as requested. Dollar signs are on the same line as the equation they wrap.
 
 ***

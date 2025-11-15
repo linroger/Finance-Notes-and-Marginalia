@@ -1,40 +1,67 @@
 ---
-cssclasses: academia
-title: "HKS: The Banking Industry - Faculty Research Working Paper"
-date: 2023-10-15
-tags:
-  - banking_industry
-  - financial_crisis_2008
-  - commercial_banking
-  - investment_banking
-  - retail_banking
-  - banking_regulation
-  - dodd_frank_act
-  - bank_mergers
-  - antitrust_policy
-  - glass_steagall
-  - shadow_banking
-  - federal_reserve
-  - mortgage_crisis
-  - too_big_to_fail
-  - banking_concentration
 aliases:
-  - Banking Industry Study
-  - HKS Banking Paper
-  - Banking Market Structure
-  - Banking Policy Analysis
+- Banking Industry Study
+- HKS Banking Paper
+- Banking Market Structure
+- Banking Policy Analysis
+cssclasses: academia
+date: 2023-10-15
 key_concepts:
-  - Banking functions: Geographic space bridging and time preference mediation
-  - Great Recession 2008: Banking role in mortgage crisis and economic collapse
-  - Market structure: Concentration ratios and merger activity
-  - Regulatory framework: Glass-Steagall, Dodd-Frank, Basel requirements
-  - Performance measures: Profitability paradox and compensation rents
-  - Antitrust policy: Philadelphia Bank precedent and local market focus
-  - Financial innovation: Mortgage-backed securities, CDOs, credit default swaps
-  - Too big to fail: Government interventions and moral hazard
-  - Shadow banking: Non-traditional financial intermediaries
-  - Banking concentration: Ten largest banks hold 40-50% of core assets
+- Banking functions: Geographic space bridging and time preference mediation
+- Great Recession 2008: Banking role in mortgage crisis and economic collapse
+- Market structure: Concentration ratios and merger activity
+- Regulatory framework: Glass-Steagall, Dodd-Frank, Basel requirements
+- Performance measures: Profitability paradox and compensation rents
+- Antitrust policy: Philadelphia Bank precedent and local market focus
+- Financial innovation: Mortgage-backed securities, CDOs, credit default swaps
+- Too big to fail: Government interventions and moral hazard
+- Shadow banking: Non-traditional financial intermediaries
+- Banking concentration: Ten largest banks hold 40-50% of core assets
+- forward commitments and hedging
+- banking regulation and capital adequacy
+- investment banking services and activities
+- commercial banking operations and management
+- Dodd-Frank Act regulatory reforms
+- systemically important institution designation
+- deposit insurance and protection systems
+- Federal Deposit Insurance Corporation
+- nominal value and monetary amounts
+- Delta hedging strategies in options portfolio management
+- Duration and convexity analysis for bond portfolio management
+- Credit risk modeling and portfolio correlation analysis
+- Capital Asset Pricing Model and beta estimation
+- Active portfolio management and performance attribution
+- Risk budgeting and portfolio construction techniques
+- ESG integration in portfolio management
+- Net interest margin analysis and banking profitability
+- Credit risk assessment and loan portfolio management
+- Basel III capital requirements and stress testing
+- Bank resolution and too-big-to-fail policies
+tags:
+- 2008-crisis
+- balance-sheet
+- banking
+- basel
+- bitcoin
+- commercial-banking
+- credit-ratings
+- deposit-insurance
+- dodd-frank
+- financial-crisis
+- investment-banking
+- liquidity-trap
+- net-income
+- private-equity
+- quantitative-easing
+- rating-agencies
+- shadow-banking
+- tarp
+- too-big-to-fail
+- volcker-rule
+title: 'HKS: The Banking Industry - Faculty Research Working Paper'
 ---
+
+
 
 The Banking Industry Faculty Research Working Paper Series
 

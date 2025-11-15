@@ -1,21 +1,93 @@
 ---
-tags:
-  - currency_swaps
-  - foreign_exchange
-  - fxed_fxed
-  - interest_rates
-  - usd_euro
 aliases:
-  - Currency Swap
-  - Fixed-Fixed Currency Swap
-  - USD-Euro Swap
+- Currency Swap
+- Fixed-Fixed Currency Swap
+- USD-Euro Swap
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-529d03
 key_concepts:
-  - Euro liability
-  - USD loan
-  - fixed interest rate
-  - foreign exchange exposure
-  - plain vanilla currency swap
+- Extensions to multi-factor CAPM models
+- Term structure of interest rates and yield curve shapes
+- Duration and convexity analysis for bond portfolio management
+- Active portfolio management and performance attribution
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Option Greeks and portfolio risk management
+- fixed interest rate
+- Capital Asset Pricing Model and beta estimation
+- Risk budgeting and portfolio construction techniques
+- Expectations hypothesis and liquidity preference theory
+- Commodity markets and pricing dynamics
+- Capital Asset Pricing Model and expected returns
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- Vega and volatility risk management
+- CDS clearing and central counterparties
+- forward commitments and hedging
+- CDS-Bond basis and arbitrrage opportunities
+- Spot rates vs. forward rates modeling
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- Euro liability
+- Fixed-for-floating swap cash flows and valuation
+- day count convention in CDS
+- Security Market Line and beta measurement
+- Theta and time decay modeling
+- Case Study
+- Interest rate swap pricing and valuation
+- interest rate and currency derivatives
+- foreign exchange exposure
+- ESG integration in portfolio management
+- present value and discounting methods
+- Credit default swap pricing and risk-neutral probabilities
+- Variance swaps and volatility trading strategies
+- plain vanilla currency swap
+- Delta hedging strategies in options portfolio management
+- USD loan
+- Gamma and convexity adjustments
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Delta hedging and the replication argument
+- Parallel and non-parallel shifts in the yield curve
+- Cross-currency basis swaps and funding
+- Currency hedging strategies for global portfolios
+- Market portfolio and risk-free rate assumptions
+- Empirical tests and anomalies in CAPM
+tags:
+- yield-curve
+- commodities
+- credit-default-swaps
+- collateralized-debt-obligations
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- capm
+- case-study
+- greeks
+- value-at-risk
+- exchange-rates
+- counterparty-risk
+- credit-risk
+- usd_euro
+- currency-swaps
+- quantitative-implementation
+- duration-convexity
+- solution
+- forward-exchange
+- treasury-bonds
+- exchange-rate
+- investment-banking
+- interest_rates
+- foreign_exchange
+- currency_swaps
+- exotic-options
+- dcf-valuation
+- fxed_fxed
+- term-structure
 ---
+
 # Currency Swaps  
 
 # Aims  

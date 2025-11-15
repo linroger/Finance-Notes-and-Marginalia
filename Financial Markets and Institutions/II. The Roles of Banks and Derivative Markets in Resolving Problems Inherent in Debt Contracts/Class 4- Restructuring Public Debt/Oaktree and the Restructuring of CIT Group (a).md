@@ -1,26 +1,57 @@
 ---
-cssclasses: ["academia"]
-linter-yaml-title-alias: Oaktree And The Restructuring Of Cit Group (A)
-title: Oaktree and the Restructuring of CIT Group (a)
-tags:
-  - cit_group
-  - credit_crisis
-  - financial_crisis
-  - oaktree_capital
-  - restructuring
 aliases:
-  - CIT
-  - HBS
-  - Rajath Shourie
-  - TARP
+- CIT
+- HBS
+- Rajath Shourie
+- TARP
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batchAA-846kil
 key_concepts:
-  - CIT Group restructuring
-  - Credit crisis impact
-  - Financial institution funding
-  - Oaktree Capital Management
-  - Troubled Asset Relief Program
+- Black-Scholes model and option pricing theory
+- Delta hedging strategies in options portfolio management
+- Term structure of interest rates and yield curve modeling
+- 'Short-rate models: Vasicek, CIR, and mean reversion'
+- Bond pricing and fixed income securities valuation
+- Ito's lemma and stochastic calculus applications
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+linter-yaml-title-alias: Oaktree And The Restructuring Of Cit Group (A)
+tags:
+- abs
+- american-options
+- arbitrage
+- binomial
+- black-scholes
+- bonds
+- capm
+- cds
+- cir
+- convexity
+- corporate-bonds
+- correlation
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- fixed_income
+- gamma
+- greeks
+- hedging
+- options
+- risk-management
+- var
+title: Oaktree and the Restructuring of CIT Group (a)
 ---
-
 Oaktree and the Restructuring of CIT Group (b)
 Note On LBO Capital Structure
 Note On the Leveraged Loan Market

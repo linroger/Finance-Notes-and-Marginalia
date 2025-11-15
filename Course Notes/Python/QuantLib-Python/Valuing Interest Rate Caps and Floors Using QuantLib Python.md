@@ -1,24 +1,105 @@
 ---
-title: Valuing Interest Rate Caps and Floors Using QuantLib Python
-source: 
-  http://gouthamanbalaraman.com/blog/interest-rate-cap-floor-valuation-quantlib-python.html
-description: A tutorial on valuing caps and floors using QuantLib Python.
-tags:
-  - black_formula
-  - caplet_valuation
-  - interest_rate_caps
-  - quantlib_python
-  - volatility_surface
 aliases:
-  - Cap and Floor Pricing
-  - Interest Rate Derivatives
-  - QuantLib Tutorial
+- Cap and Floor Pricing
+- Interest Rate Derivatives
+- QuantLib Tutorial
+description: A tutorial on valuing caps and floors using QuantLib Python.
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-2866a0
 key_concepts:
-  - Caplet Black formula
-  - Interest rate term structure
-  - QuantLib Python example
-  - Valuing caps and floors
-  - Volatility surface construction
+- Apt
+- Carry trades and momentum in FX markets
+- Caps Floors
+- Term structure of interest rates and yield curve shapes
+- Sovereign risk assessment and country analysis
+- Mean-variance optimization and the efficient frontier
+- Extreme value theory and tail risk modeling
+- Single-name vs. index CDS trading
+- Credit risk modeling and default probability estimation
+- Risk budgeting and portfolio construction techniques
+- Expectations hypothesis and liquidity preference theory
+- Historical simulation vs. parametric VaR models
+- Credit portfolio diversification and concentration
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- CDS clearing and central counterparties
+- DV01 calculation and interest rate risk hedging
+- CDS-Bond basis and arbitrrage opportunities
+- Mathematical Finance
+- Spot rates vs. forward rates modeling
+- Valuing caps and floors
+- Volatility surface construction
+- Deposit insurance and systemic risk prevention
+- Monte Carlo integration and variance reduction
+- Monte Carlo VaR for complex portfolios
+- Stress testing and scenario analysis
+- modified following convention in CDS
+- Course Material
+- Currency risk management and hedging
+- Forward rates and interest rate parity
+- Control variates and importance sampling techniques
+- Value at Risk (VaR) methodologies and backtesting
+- Risk-neutral pricing methodology for derivative securities
+- Case Study
+- Operational risk quantification and modeling
+- Exchange rate determination and PPP theory
+- Arbitrage opportunities and risk-free profit extraction
+- Expected Shortfall and coherent risk measures
+- interest rate and currency derivatives
+- Credit default swap pricing and risk-neutral probabilities
+- Bank liquidity ratios and funding risk management
+- Credit exposure measurement and EAD
+- QuantLib Python example
+- Wrong-way risk in derivative transactions
+- Interest rate term structure
+- Value-at-Risk calculation using historical simulation
+- Credit risk migration matrices and rating transition
+- Credit risk modeling and portfolio correlation analysis
+- Backtesting procedures for risk models
+- Credit risk assessment and loan portfolio management
+- Parallel and non-parallel shifts in the yield curve
+- Liquidity risk measurement and management
+- Systemic risk indicators and early warning systems
+- Caplet Black formula
+- Global financial stability and systemic risk monitoring
+- Loss given default and recovery rates
+- Currency markets and foreign exchange trading
+source: http://gouthamanbalaraman.com/blog/interest-rate-cap-floor-valuation-quantlib-python.html
+tags:
+- financial-analysis
+- yield-curve
+- credit-default-swaps
+- mathematical-finance
+- course-material
+- volatility-surface
+- black_formula
+- financial-modeling
+- case-study
+- apt
+- volatility_surface
+- caps-floors
+- value-at-risk
+- interest_rate_caps
+- exchange-rates
+- credit-risk
+- quantitative-implementation
+- duration-convexity
+- solution
+- caplet_valuation
+- stress-testing
+- liquidity-risk
+- systemic-risk
+- exotic-options
+- deposit-insurance
+- quantitative-finance
+- dcf-valuation
+- quantlib_python
+- expected-shortfall
+- operational-risk
+- monte-carlo
+- term-structure
+title: Valuing Interest Rate Caps and Floors Using QuantLib Python
 ---
 
 # Valuing Interest Rate Caps and Floors Using QuantLib Python

@@ -1,24 +1,89 @@
 ---
-title: Valuing Options on Commodity Futures Using QuantLib Python
-source: 
-  http://gouthamanbalaraman.com/blog/value-options-commodity-futures-black-formula-quantlib-python.html
+aliases:
+- Commodity Option Pricing
+- QuantLib Example
 description: Describes how to value options on commodity futures contract using the
   Black formula in QuantLib Python
-tags:
-  - black_formula
-  - commodity_futures
-  - futures_options
-  - option_pricing
-  - quantlib_python
-aliases:
-  - Commodity Option Pricing
-  - QuantLib Example
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-cc7402
 key_concepts:
-  - Black formula application
-  - Commodity futures options valuation
-  - Futures price modeling
-  - Lognormal stochastic process
-  - QuantLib Python implementation
+- Apt
+- Term structure of interest rates and yield curve shapes
+- Treasury Futures
+- Monte Carlo simulation techniques for path-dependent options
+- Single-name vs. index CDS trading
+- Option Greeks and portfolio risk management
+- Commodity markets and pricing dynamics
+- Expectations hypothesis and liquidity preference theory
+- Mathematical derivation of the Black-Scholes partial differential equation
+- Historical simulation vs. parametric VaR models
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- Vega and volatility risk management
+- option pricing models and PDE solutions
+- CDS clearing and central counterparties
+- forward commitments and hedging
+- CDS-Bond basis and arbitrrage opportunities
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- Monte Carlo integration and variance reduction
+- Monte Carlo VaR for complex portfolios
+- Black formula application
+- option sensitivity analysis and hedging
+- Stress testing and scenario analysis
+- modified following convention in CDS
+- Value at Risk (VaR) methodologies and backtesting
+- Theta and time decay modeling
+- Case Study
+- Quantitative analysis and modeling
+- Expected Shortfall and coherent risk measures
+- Risk-neutral valuation in continuous time models
+- Lognormal stochastic process
+- Credit default swap pricing and risk-neutral probabilities
+- Futures price modeling
+- Boundary conditions and parameter interpretation in Black-Scholes model
+- Limitations and extensions of the Black-Scholes framework
+- simulation methods in financial engineering
+- Value-at-Risk calculation using historical simulation
+- Financial markets and instruments
+- Gamma and convexity adjustments
+- Commodity futures options valuation
+- Delta hedging and the replication argument
+- Parallel and non-parallel shifts in the yield curve
+- Black-Scholes-Merton option pricing model and its applications
+- QuantLib Python implementation
+source: http://gouthamanbalaraman.com/blog/value-options-commodity-futures-black-formula-quantlib-python.html
+tags:
+- yield-curve
+- treasury-futures
+- commodities
+- credit-default-swaps
+- credit-spreads
+- mathematical-finance
+- black_formula
+- case-study
+- apt
+- greeks
+- black-scholes-model
+- option_pricing
+- value-at-risk
+- exchange-rates
+- hull-white-model
+- european-options
+- duration-convexity
+- quantitative-implementation
+- solution
+- treasury-bonds
+- commodity_futures
+- futures_options
+- corporate-bonds
+- option-pricing
+- exotic-options
+- swaptions
+- quantlib_python
+- monte-carlo
+title: Valuing Options on Commodity Futures Using QuantLib Python
 ---
 
 # Valuing Options on Commodity Futures Using QuantLib Python

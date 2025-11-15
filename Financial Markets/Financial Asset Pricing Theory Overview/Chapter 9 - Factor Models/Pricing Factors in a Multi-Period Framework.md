@@ -1,19 +1,18 @@
 ---
 tags:
-  - conditional_pricing
-  - multi_period_framework
-  - pricing_factor
-  - state_price_deflator
-  - unconditional_pricing
+- apt
+- delta
+- derivatives-pricing
+- risk-management
+- risk-neutral
+- var
 aliases:
-  - Multi-period Pricing
-  - Pricing Factors
+- Multi-period Pricing
+- Pricing Factors
 key_concepts:
-  - Conditional factor beta
-  - Continuous-time model
-  - Pricing factor definition
-  - State-price deflator relationship
-  - Unconditional pricing factor
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Options Greeks and sensitivity analysis
 ---
 
 # 9.5 Pricing factors in a multi-period framework  

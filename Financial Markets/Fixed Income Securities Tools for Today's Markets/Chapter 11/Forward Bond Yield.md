@@ -1,21 +1,42 @@
 ---
-tags:
-  - bond_yield
-  - dv01
-  - forward_contract
-  - forward_yield
-  - interest_rate_sensitivity
-  - repo_rate
 aliases:
-  - Bond Yield
-  - Forward Bond Yield
-  - Forward Price
+- Bond Yield
+- Forward Bond Yield
+- Forward Price
 key_concepts:
-  - bond's cash flows
-  - forward settlement
-  - interest rate sensitivity
-  - repo rate
-  - spot yield
+- bond's cash flows
+- forward settlement
+- interest rate sensitivity
+- repo rate
+- spot yield
+- Fixed income securities
+- Interest rate derivatives
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Derivatives pricing theory
+- Risk-neutral valuation
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Value at risk and stress testing
+- Portfolio risk metrics
+- Interest rate modeling
+- Term structure of interest rates
+tags:
+- interest_rates
+- fixed_income
+- dv01
+- bond_yield
+- bonds
+- interest_rate_sensitivity
+- repo_rate
+- futures
+- derivatives
+- options
+- risk_management
+- forward_yield
+- forward_contract
 ---
 
 # 11.2 FORWARD BOND YIELD  

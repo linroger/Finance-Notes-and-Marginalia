@@ -1,19 +1,22 @@
 ---
 tags:
-  - equity_premium_puzzle
-  - incomplete_markets
-  - labor_income_risk
-  - state_price_deflator
+- apt
+- capm
+- correlation
+- credit-risk
+- delta
+- derivatives-pricing
+- gamma
+- risk-management
+- var
 aliases:
-  - Consumption-based asset pricing
-  - Incomplete markets
-  - Labor income risk
+- Consumption-based asset pricing
+- Incomplete markets
+- Labor income risk
 key_concepts:
-  - Equity premium puzzle
-  - Incomplete markets evidence
-  - Labor income shocks
-  - State-price deflator
-  - Time-additive CRRA utility
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Options Greeks and sensitivity analysis
 ---
 
 # 8.9 Consumption-based asset pricing with incomplete markets  

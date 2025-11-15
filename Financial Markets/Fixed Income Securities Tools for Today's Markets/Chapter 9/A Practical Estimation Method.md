@@ -1,19 +1,44 @@
 ---
-tags:
-  - estimation_method
-  - mean_reversion
-  - term_structure
-  - volatility_parameters
-  - zero_yields
 aliases:
-  - Gauss Model
-  - Practical Estimation
+- Gauss Model
+- Practical Estimation
 key_concepts:
-  - Estimating model parameters
-  - Mean reversion parameters
-  - Regression coefficients
-  - Term structure of volatilities
-  - Volatility and correlation
+- Estimating model parameters
+- Mean reversion parameters
+- Regression coefficients
+- Term structure of volatilities
+- Volatility and correlation
+- Fixed income securities
+- Interest rate derivatives
+- Foreign exchange markets
+- Currency derivatives
+- Option sensitivity analysis
+- Delta, gamma, vega, theta, rho
+- Bond pricing and yield analysis
+- Duration and convexity
+- Vasicek short-rate model
+- Mean-reverting processes
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Value at risk and stress testing
+- Portfolio risk metrics
+- Options pricing and payoff structures
+tags:
+- estimation_method
+- model-calibration
+- greeks
+- mean_reversion
+- term_structure
+- vasicek
+- volatility_parameters
+- interest_rates
+- zero_yields
+- portfolio-theory
+- stochastic_calculus
+- fixed_income
+- fx
+- bonds
+- volatility
 ---
 
 # 9.3 A PRACTICAL ESTIMATION METHOD  

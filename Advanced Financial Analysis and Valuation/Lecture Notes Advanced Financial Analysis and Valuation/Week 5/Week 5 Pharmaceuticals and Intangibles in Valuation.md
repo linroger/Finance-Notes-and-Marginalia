@@ -1,37 +1,124 @@
 ---
+aliases:
+- Week 5 Pharma and Intangibles
+- Pharmaceutical Valuation
+- Medfield Case Study
 cssclasses:
-  - academia
-title: Week 5 Pharmaceuticals and Intangibles in Valuation
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-9004bf
+key_concepts:
+- Apt
+- Cox-Ross-Rubinstein parameter specification
+- Future M&A value creation
+- Extensions to multi-factor CAPM models
+- capital markets and issuance
+- Duration and convexity analysis for bond portfolio management
+- Active portfolio management and performance attribution
+- Drug development process and cash flows
+- Economic profit model with intangibles
+- Computational implementation of binomial option pricing
+- Single-name vs. index CDS trading
+- Pharmaceutical industry value drivers
+- Option Greeks and portfolio risk management
+- Commodity markets and pricing dynamics
+- Moat sources in healthcare sector
+- Capital Asset Pricing Model and beta estimation
+- Risk budgeting and portfolio construction techniques
+- Capital Asset Pricing Model and expected returns
+- Credit spread decomposition and hazard rates
+- OncoMed case example
+- Empirical tests and anomalies in CAPM
+- CDS clearing and central counterparties
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Capital structure theory and optimal debt levels
+- Mathematical Finance
+- Relative valuation adjustments
+- Leveraged buyout financial modeling and returns
+- GARCH models and volatility forecasting
+- Biotech risk and valuation approaches
+- Deposit insurance and systemic risk prevention
+- consolidation accounting principles
+- Intangible asset economics
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Security Market Line and beta measurement
+- Case Study
+- Generally Accepted Accounting Principles
+- fundamental valuation methods
+- Interest rate swap pricing and valuation
+- excess returns and manager skill
+- Credit default swap pricing and risk-neutral probabilities
+- ESG integration in portfolio management
+- Variance swaps and volatility trading strategies
+- Convergence of binomial model to Black-Scholes solution
+- Binomial option pricing model with multiple time steps
+- Delta hedging strategies in options portfolio management
+- American option pricing in binomial trees
+- R&D capitalization versus expensing
+- Gamma and convexity adjustments
+- Capital Structure
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Delta hedging and the replication argument
+- Cross-currency basis swaps and funding
+- Adjusting DCF and multiples for R&D
+- Commercial bank business model and revenue streams
+- IFRS versus US GAAP treatment
+- Market portfolio and risk-free rate assumptions
+- upfront payment in CDS
 linter-yaml-title-alias: Week 5 Pharmaceuticals and Intangibles in Valuation
 tags:
-  - pharmaceutical_industry
-  - intangible_valuation
-  - drug_development
-  - ma_accounting
-  - healthcare_sector
-  - randd_capitalization
-  - biotech_valuation
-  - patent_expiration
-  - goodwill_accounting
-  - non_gaap_reporting
-  - economic_profit_model
-aliases:
-  - Week 5 Pharma and Intangibles
-  - Pharmaceutical Valuation
-  - Medfield Case Study
-key_concepts:
-  - Pharmaceutical industry value drivers
-  - Drug development process and cash flows
-  - Biotech risk and valuation approaches
-  - Moat sources in healthcare sector
-  - R&D capitalization versus expensing
-  - Intangible asset economics
-  - Economic profit model with intangibles
-  - Adjusting DCF and multiples for R&D
-  - Future M&A value creation
-  - IFRS versus US GAAP treatment
-  - OncoMed case example
-  - Relative valuation adjustments
+- binomial-model
+- commodities
+- ebit
+- credit-default-swaps
+- goodwill
+- biotech_valuation
+- capm
+- cash-flow-statement
+- case-study
+- apt
+- patent_expiration
+- credit-risk
+- duration-convexity
+- solution
+- private-equity
+- wacc
+- goodwill_accounting
+- cost-of-capital
+- accounting-standards
+- deposit-insurance
+- pharmaceutical_industry
+- income-statement
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- balance-sheet
+- course-material
+- capital-structure
+- roic
+- amortization
+- greeks
+- scenario-analysis
+- ebitda
+- leveraged-buyouts
+- quantitative-implementation
+- treasury-bonds
+- decision-trees
+- stress-testing
+- systemic-risk
+- ev
+- exotic-options
+- distressed-debt
+- dcf-valuation
+- gaap
+- randd_capitalization
+- harvard-business-review
+- healthcare_sector
+title: Week 5 Pharmaceuticals and Intangibles in Valuation
 ---
 
 # Week 5 Pharmaceuticals and Intangibles in Valuation

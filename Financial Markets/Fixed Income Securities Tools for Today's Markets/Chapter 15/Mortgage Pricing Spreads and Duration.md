@@ -1,31 +1,46 @@
 ---
-tags:
-  - duration
-  - fixed_rate_security
-  - interest_rate_risk
-  - mbs
-  - model_error
-  - mortgage_pricing
-  - oas
-  - prepayment_model
-  - relative_value_trades
-  - risk_neutral_model
 aliases:
-  - MBS pricing
-  - Mortgage duration
-  - OAS
-  - Option-adjusted spread
+- MBS pricing
+- Mortgage duration
+- OAS
+- Option-adjusted spread
 key_concepts:
-  - Fixed cash flow duration
-  - MBS cash flows
-  - Mean reverting OAS
-  - Model error misspecification
-  - Model price vs market price
-  - Mortgage risk sensitivities
-  - Negative convexity
-  - Option-adjusted spread (OAS)
-  - Prepayment impact on price
-  - Relative value trades
+- Fixed cash flow duration
+- MBS cash flows
+- Mean reverting OAS
+- Model error misspecification
+- Model price vs market price
+- Mortgage risk sensitivities
+- Negative convexity
+- Option-adjusted spread (OAS)
+- Prepayment impact on price
+- Relative value trades
+- Fixed income securities
+- Interest rate derivatives
+- Foreign exchange markets
+- Currency derivatives
+- Option sensitivity analysis
+- Delta, gamma, vega, theta, rho
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+tags:
+- regulatory-framework
+- greeks
+- risk_neutral_model
+- fixed_rate_security
+- cds
+- hedge_funds
+- structured_finance
+- interest_rates
+- oas
+- duration
+- valuation
+- fixed_income
+- fx
+- prepayment_model
+- trading
 ---
 
 # 15.7 MORTGAGE PRICING, SPREADS, AND DURATION  

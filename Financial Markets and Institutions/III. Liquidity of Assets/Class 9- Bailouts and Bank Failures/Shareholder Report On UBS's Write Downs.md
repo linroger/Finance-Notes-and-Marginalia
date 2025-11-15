@@ -1,20 +1,21 @@
 ---
 title: Shareholder Report On UBS's Write Downs
 tags:
-  - ebk_report
-  - kpmg_ltd
-  - shareholder_report
-  - ubs_ag
-  - write_downs
+- abs
+- arch
+- fixed_income
+- fx
+- hedging
+- risk-management
+- var
 aliases:
-  - Shareholder Report
-  - UBS Write-Downs
+- Shareholder Report
+- UBS Write-Downs
 key_concepts:
-  - KPMG Ltd Review
-  - Report to EBK
-  - Shareholder Report Summary
-  - Swiss Federal Banking Commission
-  - UBS Shareholder Report
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Portfolio hedging and risk reduction strategies
 ---
 
 # Shareholder Report On UBS's Write Downs

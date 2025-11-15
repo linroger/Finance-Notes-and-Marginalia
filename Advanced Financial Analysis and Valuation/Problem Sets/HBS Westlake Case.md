@@ -1,40 +1,48 @@
 ---
-cssclasses: academia
-title: "HBS Case Study: Westlake Chemical"
-date: 2023-10-15
-tags:
-  - westlake_chemical
-  - cyclical_industry
-  - commodity_chemicals
-  - ethylene_production
-  - pvc_manufacturing
-  - vertical_integration
-  - natural_gas_feedstock
-  - petrochemicals
-  - olefins_vinyls
-  - chemical_cycle
-  - peak_eps_estimation
-  - capacity_utilization
-  - margin_analysis
-  - commodity_pricing
-  - feedstock_volatility
 aliases:
-  - Westlake Chemical Case Study
-  - HBS Westlake Case
-  - Ethylene Value Chain Analysis
-  - Commodity Chemicals Valuation
+- Westlake Chemical Case Study
+- HBS Westlake Case
+- Ethylene Value Chain Analysis
+- Commodity Chemicals Valuation
+cssclasses: academia
+date: 2023-10-15
 key_concepts:
-  - Vertical integration: Ethylene to polyethylene/PVC value chain
-  - Natural gas volatility: Key feedstock price risk
-  - Cyclical margins: Chemical industry boom-bust cycles
-  - Peak EPS calculation: $4.24 estimated at cycle peak
-  - Operating rates: 95%+ drives peak margins
-  - Commodity exposure: Limited product differentiation
-  - Forward P/E concerns: Sustainability of peak earnings
-  - Capital intensity: High barriers to entry
-  - Feedstock flexibility: 90%+ ethane vs naphtha
-  - End market sensitivity: Construction and interest rates
+- Vertical integration: Ethylene to polyethylene/PVC value chain
+- Natural gas volatility: Key feedstock price risk
+- Cyclical margins: Chemical industry boom-bust cycles
+- Peak EPS calculation: $4.24 estimated at cycle peak
+- Operating rates: 95%+ drives peak margins
+- Commodity exposure: Limited product differentiation
+- Forward P/E concerns: Sustainability of peak earnings
+- Capital intensity: High barriers to entry
+- Feedstock flexibility: 90%+ ethane vs naphtha
+- End market sensitivity: Construction and interest rates
+- Financial markets and instruments
+- Quantitative analysis and modeling
+- Risk assessment and management
+- Portfolio optimization and asset allocation
+- Derivatives pricing and hedging strategies
+tags:
+- capacity_utilization
+- chemical_cycle
+- commodity_chemicals
+- commodity_pricing
+- cyclical_industry
+- ethylene_production
+- feedstock_volatility
+- margin_analysis
+- natural_gas_feedstock
+- net-income
+- olefins_vinyls
+- peak_eps_estimation
+- petrochemicals
+- pvc_manufacturing
+- vertical_integration
+- westlake_chemical
+title: 'HBS Case Study: Westlake Chemical'
 ---
+
+
 
 # HBS Westlake Case
 

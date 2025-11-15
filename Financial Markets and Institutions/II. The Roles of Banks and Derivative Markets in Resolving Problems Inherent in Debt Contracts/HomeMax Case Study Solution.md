@@ -1,34 +1,24 @@
 ---
-cssclasses:
-  - academia
-title: HomeMax Case Study Solution
-tags:
-  - capital_structure
-  - case_study
-  - debt_recovery
-  - distressed_debt
-  - financial_analysis
-  - homemax_inc
-  - investment_analysis
-  - oaktree_capital
-  - restructuring
-  - valuation
 aliases:
-  - Distressed Investing
-  - HomeMax Case Study
-  - Howard Marks
-  - Restructuring Plan
-  - Train & Co. Acquisition
+- Distressed Investing
+- HomeMax Case Study
+- Howard Marks
+- Restructuring Plan
+- Train & Co. Acquisition
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
 key_concepts:
-  - Acquisition by Train & Co.
-  - Capital structure analysis
-  - Distressed debt investing
-  - Enterprise value estimation
-  - Equity allocation valuation
-  - HomeMax Inc. overview
-  - Restructuring process steps
-  - Risk considerations
+- Ito's lemma and stochastic calculus applications
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Interest rate caps, floors, and swaptions
+tags:
+- swaps
+title: HomeMax Case Study Solution
 ---
+
 
 # HomeMax Case Study Solution
 

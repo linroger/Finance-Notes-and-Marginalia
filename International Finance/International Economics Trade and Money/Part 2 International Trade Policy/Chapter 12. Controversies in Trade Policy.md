@@ -1,3 +1,16 @@
+---
+key_concepts:
+- Equity valuation and analysis
+- Dividend discount models
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+tags:
+- regulatory-framework
+- equity
+- stochastic_calculus
+- options
+- stochastic-calculus
+---
 # CHAPTER 12  
 
 # Controversies in Trade Policy  

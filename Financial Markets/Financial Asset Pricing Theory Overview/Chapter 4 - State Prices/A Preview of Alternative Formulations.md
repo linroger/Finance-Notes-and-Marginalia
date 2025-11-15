@@ -1,19 +1,18 @@
 ---
 tags:
-  - pricing_equation
-  - radon_nikodym
-  - risk_free_return
-  - risk_neutral_probability
-  - state_price_deflator
+- apt
+- arbitrage
+- risk-management
+- risk-neutral
+- var
 aliases:
-  - Alternative Representations
-  - Risk-Neutral Valuation
+- Alternative Representations
+- Risk-Neutral Valuation
 key_concepts:
-  - Asset price
-  - Radon-Nikodym derivative
-  - Risk-free return
-  - Risk-neutral probability measure
-  - State-price deflator
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
 ---
 
 # 4.6 A preview of alternative formulations  

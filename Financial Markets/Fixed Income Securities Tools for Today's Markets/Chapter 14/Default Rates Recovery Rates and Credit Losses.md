@@ -1,32 +1,47 @@
 ---
-tags:
-  - bond_recovery
-  - credit_losses
-  - credit_risk
-  - default_rates
-  - hertz_bonds
-  - investment_grade
-  - recovery_rates
-  - senior_unsecured_bonds
-  - seniority
-  - speculative_grade
 aliases:
-  - Bond Credit Risk
-  - Credit Loss
-  - Credit Risk Analysis
-  - Default and Recovery
-  - Hertz Bankruptcy
+- Bond Credit Risk
+- Credit Loss
+- Credit Risk Analysis
+- Default and Recovery
+- Hertz Bankruptcy
 key_concepts:
-  - Bond Recovery Rates
-  - Credit Losses
-  - Credit Risk Over Time
-  - Default Rates
-  - Hertz Bond Prices
-  - Impact of Seniority
-  - Investment Grade Bonds
-  - Recovery Rates
-  - Senior Unsecured Bonds
-  - Speculative Grade Bonds
+- Bond Recovery Rates
+- Credit Losses
+- Credit Risk Over Time
+- Default Rates
+- Hertz Bond Prices
+- Impact of Seniority
+- Investment Grade Bonds
+- Recovery Rates
+- Senior Unsecured Bonds
+- Speculative Grade Bonds
+- Credit risk modeling
+- Default probability estimation
+- Fixed income securities
+- Interest rate derivatives
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+tags:
+- bond_recovery
+- default_rates
+- credit
+- speculative_grade
+- senior_unsecured_bonds
+- investment_grade
+- cds
+- seniority
+- interest_rates
+- credit_risk
+- hertz_bonds
+- portfolio-theory
+- fixed_income
+- bonds
+- credit_losses
 ---
 
 # 14.2 DEFAULT RATES, RECOVERY RATES, AND CREDIT LOSSES  

@@ -1,23 +1,58 @@
 ---
 Owner: RRoger Lin
-linter-yaml-title-alias: THE PRICING OF OPTIONS AND CORPORATE LIABILITIES
-title: THE PRICING OF OPTIONS AND CORPORATE LIABILITIES
-tags:
-  - american_option
-  - black_scholes_model
-  - corporate_liabilities
-  - european_option
-  - option_pricing
 aliases:
-  - Black-Scholes
-  - Corporate Debt
-  - Option Pricing
+- Black-Scholes
+- Corporate Debt
+- Option Pricing
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-4a2cde
 key_concepts:
-  - American vs European options
-  - Call option definition
-  - Exercise price and expiration
-  - Option valuation formula
-  - Option volatility analysis
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+linter-yaml-title-alias: THE PRICING OF OPTIONS AND CORPORATE LIABILITIES
+tags:
+- american-options
+- binomial
+- black-scholes
+- bonds
+- brownian-motion
+- capm
+- cds
+- convexity
+- corporate-bonds
+- correlation
+- credit-default-swaps
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- european-options
+- exotic-options
+- fixed_income
+- gamma
+- greeks
+- hedging
+- interest-rate-swaps
+- options
+- replication
+- risk-management
+- risk-neutral
+- stochastic-calculus
+- swaps
+- var
+title: THE PRICING OF OPTIONS AND CORPORATE LIABILITIES
 ---
 
 # The Pricing of Options and Corporate Liabilities

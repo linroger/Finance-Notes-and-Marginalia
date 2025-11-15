@@ -1,31 +1,45 @@
 ---
-cssclasses:
-  - academia
-linter-yaml-title-alias: Option Pricing and Implied Volatility
-title: Option Pricing and Implied Volatility
-tags:
-  - black_scholes_model
-  - call_option
-  - delta_hedging
-  - implied_volatility
-  - option_pricing
-  - normal_distribution
-  - put_option
-  - financial_mathematics
 aliases:
-  - BSM
-  - Black-Scholes
-  - Option Pricing Model
-  - Volatility Calculation
+- BSM
+- Black-Scholes
+- Option Pricing Model
+- Volatility Calculation
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-b365d7
 key_concepts:
-  - Delta hedging parameters
-  - Implied volatility extraction
-  - Risk-free rate influence
-  - Maturity effects on pricing
-  - Stock price and strike price relationship
-  - Volatility parameter estimation
-  - Normal distribution application
-  - Non-linear equation solving
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Term structure of interest rates and yield curve modeling
+- Partial differential equations in financial modeling
+- Volatility modeling and forecasting techniques
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+linter-yaml-title-alias: Option Pricing and Implied Volatility
+tags:
+- black-scholes
+- convexity
+- delta
+- delta-hedging
+- derivatives-pricing
+- exotic-options
+- fixed_income
+- gamma
+- greeks
+- hedging
+- implied-volatility
+- options
+- pde
+- replication
+- risk-management
+- risk-neutral
+- theta
+- vega
+- yield-curve
+title: Option Pricing and Implied Volatility
 ---
 
 # BLACK-SCHOLES MODEL OF OPTION PRICING

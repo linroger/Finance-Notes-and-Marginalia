@@ -1,26 +1,58 @@
 ---
-linter-yaml-title-alias: Teaching Note 7  Exotic Options  and Derivative Pricing
-  by Monte Carlo Simulation
-title: Teaching Note 7- Exotic Options  And Derivative Pricing By Monte Carlo
-  Simulation
-tags:
-  - asian_options
-  - derivative_pricing
-  - monte_carlo_simulation
-  - path_dependent_payoff
-  - risk_neutral_trees
 aliases:
-  - John Heaton
-  - Monte Carlo
-  - Risk Neutral
-  - Teaching Note 7
+- John Heaton
+- Monte Carlo
+- Risk Neutral
+- Teaching Note 7
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-399e23
 key_concepts:
-  - Asian options pricing
-  - Delta calculation
-  - Monte Carlo simulations
-  - Multi-step tree
-  - Path-dependent payoff
-  - Risk neutral trees
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Monte Carlo simulation for derivatives valuation
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+- Monte Carlo methods for path-dependent derivatives
+- Exotic options and path-dependent payoffs
+linter-yaml-title-alias: Teaching Note 7  Exotic Options  and Derivative Pricing by
+  Monte Carlo Simulation
+tags:
+- apt
+- arbitrage
+- arch
+- asian-options
+- barrier-options
+- binomial
+- black-scholes
+- convexity
+- delta
+- derivatives-pricing
+- exotic-options
+- factor-models
+- fixed_income
+- gamma
+- garch
+- greeks
+- hedging
+- interest-rate-swaps
+- monte-carlo
+- options
+- replication
+- risk-management
+- risk-neutral
+- swaps
+- theta
+- var
+- vega
+title: Teaching Note 7- Exotic Options  And Derivative Pricing By Monte Carlo Simulation
 ---
 
 # Teaching Note 7- Exotic Options  And Derivative Pricing By Monte Carlo Simulation

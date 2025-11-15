@@ -1,25 +1,108 @@
 ---
-title: How Countries Go Broke-Chapter Six & Chapter Seven
-source: 
-  https://www.linkedin.com/pulse/how-countries-go-broke-chapter-six-seven-ray-dalio-znjcc/
-description:
-tags:
-  - central_bank
-  - debt_crisis
-  - government_debt
-  - interest_rates
-  - quantitative_easing
 aliases:
-  - Central Bank Role
-  - Chapter 6
-  - Debt Crisis Stages
-  - How Countries Go Broke
+- Central Bank Role
+- Chapter 6
+- Debt Crisis Stages
+- How Countries Go Broke
+description: null
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-ffce3d
 key_concepts:
-  - Central bank intervention
-  - Debt crisis dynamics
-  - Government financing
-  - Printing money
-  - Quantitative easing
+- Printing money
+- Apt
+- Government financing
+- Term structure of interest rates and yield curve shapes
+- Stochastic calculus in financial modeling
+- Market risk measurement and portfolio volatility
+- Central bank intervention
+- Option Greeks and portfolio risk management
+- Commodity markets and pricing dynamics
+- Currency derivatives
+- Expectations hypothesis and liquidity preference theory
+- Historical simulation vs. parametric VaR models
+- Interest rate swaps and term structure
+- Default probability estimation
+- Yield curve fitting and interpolation methods
+- Debt crisis dynamics
+- Vega and volatility risk management
+- Value at risk and stress testing
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- Option sensitivity analysis
+- GARCH models and volatility forecasting
+- Foreign exchange markets
+- Monte Carlo VaR for complex portfolios
+- Stress testing and scenario analysis
+- Equity valuation and analysis
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Value at Risk (VaR) methodologies and backtesting
+- Theta and time decay modeling
+- Portfolio risk metrics
+- Case Study
+- Exchange rate determination and PPP theory
+- Interest rate swap pricing and valuation
+- Expected Shortfall and coherent risk measures
+- Delta, gamma, vega, theta, rho
+- Variance swaps and volatility trading strategies
+- Bond pricing and yield analysis
+- Gamma and convexity adjustments
+- Capital Structure
+- Delta hedging and the replication argument
+- Parallel and non-parallel shifts in the yield curve
+- Credit risk modeling
+- Cross-currency basis swaps and funding
+- Basis swaps and cross-currency swaps
+- Duration and convexity
+- Quantitative easing
+- Options pricing and payoff structures
+- Dividend discount models
+source: https://www.linkedin.com/pulse/how-countries-go-broke-chapter-six-seven-ray-dalio-znjcc/
+tags:
+- yield-curve
+- fx
+- swaps
+- commodities
+- stochastic-calculus
+- debt_crisis
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- course-material
+- capital-structure
+- market-risk
+- case-study
+- apt
+- bonds
+- greeks
+- risk_management
+- value-at-risk
+- exchange-rates
+- deleveraging
+- valuation
+- hedge-funds
+- central_bank
+- credit-risk
+- currency-swaps
+- quantitative-implementation
+- duration-convexity
+- solution
+- treasury-bonds
+- regulation
+- equity
+- interest_rates
+- stress-testing
+- stochastic_calculus
+- infrastructure
+- bridgewater-perspective
+- corporate-bonds
+- distressed-debt
+- government_debt
+- credit
+- harvard-business-review
+title: How Countries Go Broke-Chapter Six & Chapter Seven
 ---
 
 *This post was originally published on January 22, 2025. Since that time, the content has been updated both in the free PDF available at* *economicprinciples.org* *and for the print book, How Countries Go Broke, available* *here*-Economic-Ray-Dalio/dp/1501124064?maas=maas_adg_6BE5147C84819B6C7B86AEDBD87680CD_afap_abs&ref_=aa_maas&tag=maas) *and at other booksellers.*

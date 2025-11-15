@@ -1,3 +1,96 @@
+---
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-f0ca2d
+key_concepts:
+- Term structure of interest rates and yield curve shapes
+- Stochastic calculus in financial modeling
+- Currency markets and foreign exchange trading
+- Market risk measurement and portfolio volatility
+- Option Greeks and portfolio risk management
+- Commodity markets and pricing dynamics
+- Currency derivatives
+- Expectations hypothesis and liquidity preference theory
+- Historical simulation vs. parametric VaR models
+- Interest rate swaps and term structure
+- Default probability estimation
+- Yield curve fitting and interpolation methods
+- Vega and volatility risk management
+- Value at risk and stress testing
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- Option sensitivity analysis
+- GARCH models and volatility forecasting
+- Foreign exchange markets
+- Monte Carlo VaR for complex portfolios
+- Stress testing and scenario analysis
+- Equity valuation and analysis
+- Fixed-for-floating swap cash flows and valuation
+- Forward rates and interest rate parity
+- Value at Risk (VaR) methodologies and backtesting
+- Theta and time decay modeling
+- Portfolio risk metrics
+- Case Study
+- Exchange rate determination and PPP theory
+- Interest rate swap pricing and valuation
+- Expected Shortfall and coherent risk measures
+- Delta, gamma, vega, theta, rho
+- Variance swaps and volatility trading strategies
+- Interest rate derivatives
+- Derivatives pricing theory
+- Fixed income securities
+- Bond pricing and yield analysis
+- Gamma and convexity adjustments
+- Risk-neutral valuation
+- Capital Structure
+- Delta hedging and the replication argument
+- Parallel and non-parallel shifts in the yield curve
+- Credit risk modeling
+- Cross-currency basis swaps and funding
+- Delta hedging and Greeks
+- Basis swaps and cross-currency swaps
+- Duration and convexity
+- Options pricing and payoff structures
+- Dividend discount models
+tags:
+- yield-curve
+- fx
+- swaps
+- commodities
+- stochastic-calculus
+- derivatives
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- capital-structure
+- market-risk
+- case-study
+- bonds
+- greeks
+- risk_management
+- value-at-risk
+- fixed_income
+- exchange-rates
+- hedge-funds
+- options
+- credit-risk
+- currency-swaps
+- quantitative-implementation
+- duration-convexity
+- solution
+- treasury-bonds
+- regulation
+- equity
+- interest_rates
+- stress-testing
+- stochastic_calculus
+- infrastructure
+- bridgewater-perspective
+- credit
+- regulatory-framework
+- harvard-business-review
+---
 
 It is:
 

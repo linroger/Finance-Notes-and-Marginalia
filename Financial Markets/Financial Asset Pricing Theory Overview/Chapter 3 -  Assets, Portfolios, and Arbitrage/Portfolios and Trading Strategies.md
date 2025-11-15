@@ -1,20 +1,23 @@
 ---
 tags:
-  - asset_allocation
-  - discrete_time
-  - portfolio_management
-  - self_financing
-  - trading_strategies
+- abs
+- apt
+- arbitrage
+- delta
+- derivatives-pricing
+- fixed_income
+- risk-management
+- theta
+- var
 aliases:
-  - One-Period Model
-  - Portfolio
-  - Trading Strategy
+- One-Period Model
+- Portfolio
+- Trading Strategy
 key_concepts:
-  - Gross rate of return
-  - Law of One Price
-  - Portfolio weight vector
-  - 'Portfolio: asset holdings'
-  - Trading strategy definition
+- Ito's lemma and stochastic calculus applications
+- Value at Risk and tail risk measurement
+- Arbitrage opportunities and no-arbitrage pricing
+- Options Greeks and sensitivity analysis
 ---
 
 # 3.3 Portfolios and trading strategies  

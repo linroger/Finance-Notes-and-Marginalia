@@ -1,19 +1,44 @@
 ---
-tags:
-  - fixed_income
-  - libor
-  - pca
-  - principal_component_analysis
-  - term_structure
 aliases:
-  - PCA
-  - Principal Components
+- PCA
+- Principal Components
 key_concepts:
-  - Empirical description of behavior
-  - Interest rate factors
-  - Principal components
-  - Regression hedging
-  - Term structure
+- Empirical description of behavior
+- Interest rate factors
+- Principal components
+- Regression hedging
+- Term structure
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Foreign exchange markets
+- Currency derivatives
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Derivatives pricing theory
+- Risk-neutral valuation
+- Arbitrage theory and practice
+- Law of one price
+- Vasicek short-rate model
+- Mean-reverting processes
+- Alternative investment strategies
+tags:
+- model-calibration
+- pca
+- principal_component_analysis
+- term_structure
+- vasicek
+- cds
+- hedge_funds
+- mathematical-finance
+- interest_rates
+- portfolio-theory
+- fixed_income
+- fx
+- trading
+- bonds
+- volatility
 ---
 
 # 6.5 PRINCIPAL COMPONENT ANALYSIS  

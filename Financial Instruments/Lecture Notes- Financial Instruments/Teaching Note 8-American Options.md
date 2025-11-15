@@ -1,21 +1,57 @@
 ---
-title: Teaching Note 8-American Options
-tags:
-  - american_options
-  - binomial_trees
-  - early_exercise
-  - no_arbitrage
-  - option_pricing
 aliases:
-  - American Option
-  - Binomial Model
-  - Option Valuation
+- American Option
+- Binomial Model
+- Option Valuation
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-427724
 key_concepts:
-  - American option features
-  - Binomial tree method
-  - Dynamic replication strategy
-  - Early exercise decision
-  - No arbitrage bounds
+- Black-Scholes model and option pricing theory
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Monte Carlo simulation for derivatives valuation
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+- American options and early exercise feature
+tags:
+- american-options
+- apt
+- arbitrage
+- arch
+- binomial
+- black-scholes
+- bonds
+- calls
+- convexity
+- delta
+- derivatives-pricing
+- european-options
+- factor-models
+- fixed_income
+- gamma
+- garch
+- greeks
+- hedging
+- implied-volatility
+- interest-rate-swaps
+- monte-carlo
+- options
+- puts
+- replication
+- risk-management
+- swaps
+- swaptions
+- theta
+- var
+- vega
+title: Teaching Note 8-American Options
 ---
 
 # Teaching Note 8-American Options

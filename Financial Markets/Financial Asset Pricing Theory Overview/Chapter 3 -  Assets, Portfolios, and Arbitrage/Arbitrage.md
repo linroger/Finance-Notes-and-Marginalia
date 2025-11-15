@@ -1,20 +1,21 @@
 ---
 tags:
-  - arbitrage
-  - discrete_time
-  - law_of_one_price
-  - one_period_framework
-  - risk_free_profit
+- abs
+- arbitrage
+- derivatives-pricing
+- fixed_income
+- risk-management
+- theta
+- var
 aliases:
-  - Arbitrage Definition
-  - Arbitrage Opportunity
-  - Risk-Free Profit
+- Arbitrage Definition
+- Arbitrage Opportunity
+- Risk-Free Profit
 key_concepts:
-  - Absence of arbitrage implies law
-  - 'Arbitrage: risk-free profit'
-  - One-period framework defined
-  - Prices obey Law of One Price
-  - Self-financing trading strategy
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Arbitrage opportunities and no-arbitrage pricing
+- Options Greeks and sensitivity analysis
 ---
 
 # 3.4 Arbitrage  

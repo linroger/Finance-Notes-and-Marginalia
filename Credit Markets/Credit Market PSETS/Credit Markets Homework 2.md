@@ -1,21 +1,99 @@
 ---
-title: Credit Markets Homework 2
-tags:
-  - bond_market_data
-  - cashflow_schedules
-  - credit_markets
-  - fixed_rate_bonds
-  - quantlib
 aliases:
-  - Credit Markets
-  - Fixed Rate Bonds
-  - Homework 2
+- Credit Markets
+- Fixed Rate Bonds
+- Homework 2
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-eb41f5
 key_concepts:
-  - Bond cash flows
-  - Cashflow schedules
-  - Fixed rate bonds
-  - QuantLib date object
-  - Symbology data
+- Bond convexity adjustment for large interest rate changes
+- Carry trades and momentum in FX markets
+- Term structure of interest rates and yield curve shapes
+- Treasury Futures
+- Duration and convexity analysis for bond portfolio management
+- dirty price in CDS settlement
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Bond cash flows
+- Probability of default estimation from credit spreads
+- termination date in CDS
+- maturity date in CDS
+- Option Greeks and portfolio risk management
+- Credit spread analysis and OAS methodology
+- Expectations hypothesis and liquidity preference theory
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- Vega and volatility risk management
+- Fixed rate bonds
+- Structural models of default and Merton formulation
+- fixed income risk measurement
+- DV01 calculation and interest rate risk hedging
+- CDS clearing and central counterparties
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- Credit default swap pricing and recovery assumptions
+- 'Structured products: CDOs, CLOs, and credit derivatives'
+- Cashflow schedules
+- QuantLib date object
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Currency risk management and hedging
+- Forward rates and interest rate parity
+- Theta and time decay modeling
+- Synthetic credit derivatives and index trades
+- Case Study
+- Exchange rate determination and PPP theory
+- Interest rate swap pricing and valuation
+- Credit default swap pricing and risk-neutral probabilities
+- present value and discounting methods
+- Variance swaps and volatility trading strategies
+- settlement date in CDS
+- Symbology data
+- Credit intermediation and information asymmetry
+- clean price in CDS settlement
+- Gamma and convexity adjustments
+- Credit risk migration matrices and rating transition
+- effective date in CDS
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Delta hedging and the replication argument
+- Parallel and non-parallel shifts in the yield curve
+- Gamma trading and convexity adjustment techniques
+- Cross-currency basis swaps and funding
+- Counterparty credit exposure measurement
+- Currency markets and foreign exchange trading
+tags:
+- yield-curve
+- treasury-futures
+- convexity
+- credit-default-swaps
+- collateralized-debt-obligations
+- interest-rate-swaps
+- mathematical-finance
+- course-material
+- bond_market_data
+- case-study
+- greeks
+- dv01
+- exchange-rates
+- cashflow_schedules
+- credit-risk
+- quantitative-implementation
+- duration-convexity
+- solution
+- treasury-bonds
+- infrastructure
+- corporate-bonds
+- quantlib
+- exotic-options
+- credit_markets
+- dcf-valuation
+- duration
+- fixed_rate_bonds
+title: Credit Markets Homework 2
 ---
 
 # Credit Markets Homework 2
@@ -28,13 +106,13 @@ This homework relies on:
 
 # Problem 1: Constructing fixed rate bonds
 ```python
-Import QuantLib as ql
-Import pandas as pd
-Import datetime as dt
+import QuantLib as ql
+import pandas as pd
+import datetime as dt
 
-# Use static calculation/valuation date of 2024-04-08,          matching data available in the market prices EOD file
-Calc_date = ql.Date (8,          4,          2024)
-Ql.Settings.Instance (). EvaluationDate = calc_date
+# Use static calculation/valuation date of 2024-04-08, matching data available in the market prices EOD file
+calc_date = ql.Date(8, 4, 2024)
+ql.Settings.instance().evaluationDate = calc_date
 ```
 
 ## a. Prepare the symbology and market data files for fixed rate government and Corporate Bonds
@@ -44,29 +122,28 @@ Load the `bond_symbology`,  `bond_market_prices_eod` and `govt_on_the_run` Excel
 Filter the symbology frame for fixed rate bonds only (cpn_type="FIXED").
 ```python
 # Set as-of-date
-As_of_date = pd. To_datetime ('2024-04-08')
+as_of_date = pd.to_datetime('2024-04-08')
 
-# Load bond_symbology. Xlsx
-
-Bond_symbology  = bond_symbology[bond_symbology['cpn_type'] == 'FIXED']
+# Load bond_symbology.xlsx
+bond_symbology = bond_symbology[bond_symbology['cpn_type'] == 'FIXED']
 
 # Add term and TTM columns
-Bond_symbology['term'] = (bond_symbology['maturity'] - bond_symbology['start_date']). Dt. Days / 365.25
-Bond_symbology['TTM'] = (bond_symbology['maturity'] - as_of_date). Dt. Days / 365.25
-Display (bond_symbology.Head ())
+bond_symbology['term'] = (bond_symbology['maturity'] - bond_symbology['start_date']).dt.days / 365.25
+bond_symbology['TTM'] = (bond_symbology['maturity'] - as_of_date).dt.days / 365.25
+display(bond_symbology.head())
+
 # Load bond_market_prices_eod
 # Add mid prices and yields
-Bond_market_prices_eod['midPrice'] = 0.5*(bond_market_prices_eod['bidPrice'] + bond_market_prices_eod['askPrice'])
-Bond_market_prices_eod['midYield'] = 0.5*(bond_market_prices_eod['bidYield'] + bond_market_prices_eod['askYield'])
-Display (bond_market_prices_eod.Head ())
+bond_market_prices_eod['midPrice'] = 0.5*(bond_market_prices_eod['bidPrice'] + bond_market_prices_eod['askPrice'])
+bond_market_prices_eod['midYield'] = 0.5*(bond_market_prices_eod['bidYield'] + bond_market_prices_eod['askYield'])
+display(bond_market_prices_eod.head())
 
-Bond_symbology
+bond_symbology
 
-# Load govt_on_the_run,          as of 2024-04-08
+# Load govt_on_the_run, as of 2024-04-08
 # Keep OTR treasuries only
-Govt_on_the_run_simple = govt_on_the_run[~govt_on_the_run['ticker']. Str.Contains ('B | C')]
-Display (govt_on_the_run_simple.Head ())
-
+govt_on_the_run_simple = govt_on_the_run[~govt_on_the_run['ticker'].str.contains('B | C')]
+display(govt_on_the_run_simple.head())
 ```
 
 <div>

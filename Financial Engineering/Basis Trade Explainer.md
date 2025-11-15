@@ -1,22 +1,104 @@
 ---
-tags:
-  - basis_trade
-  - financial_crisis
-  - repo_market
-  - treasury_futures
-  - treasury_yields
 aliases:
-  - JPMorgan
-  - Odd Lots
-  - basis trade
-  - hedge funds
+- JPMorgan
+- Odd Lots
+- basis trade
+- hedge funds
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-2ac188
 key_concepts:
-  - 2008 financial crisis
-  - Basis trade explained
-  - Hedge fund returns
-  - Repo market funding
-  - Treasury yields spike
+- Carry trades and momentum in FX markets
+- Treasury Futures
+- Duration and convexity analysis for bond portfolio management
+- Treasury yields spike
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Probability of default estimation from credit spreads
+- Deleveraging cycles and balance sheet restructuring
+- Credit risk modeling and default probability estimation
+- Commodity markets and pricing dynamics
+- Credit spread analysis and OAS methodology
+- 2008 financial crisis
+- Basis trade explained
+- Credit portfolio diversification and concentration
+- Credit spread decomposition and hazard rates
+- Structural models of default and Merton formulation
+- CDS clearing and central counterparties
+- fixed income risk measurement
+- forward commitments and hedging
+- Hedge fund returns
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- Credit default swap pricing and recovery assumptions
+- Repo market funding
+- GARCH models and volatility forecasting
+- 'Structured products: CDOs, CLOs, and credit derivatives'
+- Shadow Banking
+- Fixed-for-floating swap cash flows and valuation
+- Currency risk management and hedging
+- Forward rates and interest rate parity
+- Synthetic credit derivatives and index trades
+- Exchange rate determination and PPP theory
+- Net interest margin analysis and banking profitability
+- Interest rate swap pricing and valuation
+- excess returns and manager skill
+- interest rate and currency derivatives
+- Credit default swap pricing and risk-neutral probabilities
+- Variance swaps and volatility trading strategies
+- Liquidity crisis and market dysfunction
+- Credit exposure measurement and EAD
+- Loss given default and recovery rates
+- Wrong-way risk in derivative transactions
+- Credit intermediation and information asymmetry
+- Shadow banking system and regulatory arbitrage
+- Credit risk migration matrices and rating transition
+- Capital Structure
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Hedge fund strategies and alternative investments
+- Cross-currency basis swaps and funding
+- Counterparty credit exposure measurement
+- liquidity measurement and management
+- alternative investment strategies
+- Currency markets and foreign exchange trading
+tags:
+- treasury-futures
+- commodities
+- credit-default-swaps
+- liquidity-crisis
+- repo_market
+- collateralized-debt-obligations
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- balance-sheet
+- basis_trade
+- capital-structure
+- shadow-banking
+- exchange-rates
+- deleveraging
+- hedge-funds
+- credit-risk
+- quantitative-implementation
+- duration-convexity
+- solution
+- treasury-bonds
+- banking
+- investment-banking
+- treasury_yields
+- financial-crisis
+- infrastructure
+- liquidity-risk
+- financial_crisis
+- corporate-bonds
+- wholesale-funding
+- dcf-valuation
+- duration
+- treasury_futures
 ---
+
 # Basis Trade Explainer
 I remember when the basis trade first burst into the market’s collective consciousness.
 

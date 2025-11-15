@@ -1,35 +1,118 @@
 ---
-title: Week 3 Cyclical Industries (and Advanced Forecasting)
+aliases:
+- Cyclical Industries Analysis
+- Advanced Forecasting Methods
+- Terminal Value Considerations
 cssclasses:
-  - academia
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-ceca51
+key_concepts:
+- Apt
+- Carry trades and momentum in FX markets
+- expected inflation and breakeven rates
+- Industry analysis for companies
+- Trucker profitability and sales
+- Mean-variance optimization and the efficient frontier
+- Extreme value theory and tail risk modeling
+- Single-name vs. index CDS trading
+- Credit risk modeling and default probability estimation
+- Competitive advantage is key
+- Commodity markets and pricing dynamics
+- Risk budgeting and portfolio construction techniques
+- High fixed costs
+- Historical simulation vs. parametric VaR models
+- Credit portfolio diversification and concentration
+- Credit spread decomposition and hazard rates
+- CDS clearing and central counterparties
+- DV01 calculation and interest rate risk hedging
+- CDS-Bond basis and arbitrrage opportunities
+- Mathematical Finance
+- Value driver formula
+- GARCH models and volatility forecasting
+- Monte Carlo VaR for complex portfolios
+- cost of capital estimation
+- Stress testing and scenario analysis
+- Operating leverage
+- Course Material
+- Capital allocation in cycles
+- Currency risk management and hedging
+- Scenario analysis
+- Value at Risk (VaR) methodologies and backtesting
+- Forward rates and interest rate parity
+- Risk-neutral pricing methodology for derivative securities
+- Case Study
+- Terminal value in your model
+- Operational risk quantification and modeling
+- Exchange rate determination and PPP theory
+- Generally Accepted Accounting Principles
+- fundamental valuation methods
+- Expected Shortfall and coherent risk measures
+- Kalman Filter
+- mid-point pricing in CDS
+- Credit default swap pricing and risk-neutral probabilities
+- Market sentiment cycles
+- Credit exposure measurement and EAD
+- Cyclicality poses forecasting problems
+- Wrong-way risk in derivative transactions
+- Value-at-Risk calculation using historical simulation
+- Quantitative Implementation
+- Credit risk migration matrices and rating transition
+- ROIC vs RONIC
+- Credit risk modeling and portfolio correlation analysis
+- Backtesting procedures for risk models
+- Capital Structure
+- Liquidity risk measurement and management
+- Duration and convexity measures for bond portfolios
+- Systemic risk indicators and early warning systems
+- Loss given default and recovery rates
+- Currency markets and foreign exchange trading
 linter-yaml-title-alias: Week 3 Cyclical Industries (and Advanced Forecasting)
 tags:
-  - advanced_forecasting
-  - capital_allocation
-  - competitive_analysis
-  - cyclical_industries
-  - industry_analysis
-  - market_sentiment
-  - operating_leverage
-  - terminal_value
-  - financial_modeling
-aliases:
-  - Cyclical Industries Analysis
-  - Advanced Forecasting Methods
-  - Terminal Value Considerations
-key_concepts:
-  - Capital allocation in cycles
-  - Competitive advantage is key
-  - Cyclicality poses forecasting problems
-  - High fixed costs
-  - Industry analysis for companies
-  - Market sentiment cycles
-  - Operating leverage
-  - Terminal value in your model
-  - Trucker profitability and sales
-  - Scenario analysis
-  - Value driver formula
-  - ROIC vs RONIC
+- commodities
+- credit-default-swaps
+- advanced_forecasting
+- case-study
+- apt
+- value-at-risk
+- kalman-filter
+- time-series
+- cyclical_industries
+- credit-risk
+- duration-convexity
+- solution
+- wacc
+- capital_allocation
+- operating_leverage
+- investment-banking
+- cost-of-capital
+- market_sentiment
+- expected-shortfall
+- operational-risk
+- enterprise-value
+- terminal_value
+- garch-models
+- mathematical-finance
+- course-material
+- capital-structure
+- roic
+- scenario-analysis
+- exchange-rates
+- quantitative-implementation
+- industry_analysis
+- stress-testing
+- infrastructure
+- liquidity-risk
+- systemic-risk
+- exotic-options
+- distressed-debt
+- competitive_analysis
+- dcf-valuation
+- gaap
+- financial_modeling
+- monte-carlo
+title: Week 3 Cyclical Industries (and Advanced Forecasting)
 ---
 
 # Week 3 Cyclical Industries (and Advanced Forecasting)

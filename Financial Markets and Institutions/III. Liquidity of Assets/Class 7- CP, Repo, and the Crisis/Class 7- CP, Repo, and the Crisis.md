@@ -1,36 +1,24 @@
 ---
-cssclasses:
-  - academia
-title: "Class 7: CP, Repo, and the Crisis"
-linter-yaml-title-alias: "Class 7: CP, Repo, and the Crisis"
-tags:
-  - banking_crisis
-  - commercial_paper
-  - financial_crisis
-  - lehman_brothers
-  - repo_market
-  - 2008_crisis
-  - shadow_banking
-  - securitization
-  - asset_backed_cp
-  - money_markets
 aliases:
-  - "CP and Repo Crisis"
-  - Financial Crisis
-  - Repo Crisis
-  - "Class 7 CP Repo Crisis"
+- CP and Repo Crisis
+- Financial Crisis
+- Repo Crisis
+- Class 7 CP Repo Crisis
+cssclasses:
+- academia
 key_concepts:
-  - Commercial paper market stress
-  - Repo market dynamics
-  - Asset-backed commercial paper
-  - Lehman Brothers collapse
-  - Northern Rock case study
-  - Securitized banking system
-  - Fire sales and illiquidity
-  - SIV structures
-  - Credit crisis mechanisms
-  - COVID-19 market interventions
+- Credit risk modeling and default probability estimation
+- Arbitrage opportunities and no-arbitrage pricing
+linter-yaml-title-alias: 'Class 7: CP, Repo, and the Crisis'
+tags:
+- arbitrage
+- arch
+- fixed_income
+- mbs
+- risk-management
+title: 'Class 7: CP, Repo, and the Crisis'
 ---
+
 
 # Class 7: CP, Repo, and the Crisis
 

@@ -1,24 +1,31 @@
 ---
-title: Reflections On Modern Bank Runs a Case Study of Reflections On Modern Bank
-Runs a Case Study of Northern Rock | Northern Rock]]*
-tags:
-  - bank_run
-  - credit_crisis
-  - financial_markets
-  - northern_rock
-  - securitization
-aliases:
-  - Bank of England
-  - Hyun Song Shin
-  - Modern Bank Runs
-  - UK Bank
 key_concepts:
-  - Credit crisis impact
-  - Institutional investor vulnerability
-  - Modern bank run analysis
-  - Northern Rock case study
-  - Short-term funding reliance
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Ito's lemma and stochastic calculus applications
+- Monte Carlo simulation for derivatives valuation
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- abs
+- arbitrage
+- convexity
+- correlation
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- fixed_income
+- hedging
+- options
+- risk-management
+- var
 ---
+
 
 # Reflections On Modern Bank Runs a Case Study of Northern Rock
 

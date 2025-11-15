@@ -1,21 +1,44 @@
 ---
-tags:
-  - arbitrage_pricing
-  - bond_prices
-  - call_option
-  - interest_rate_derivatives
-  - law_of_one_price
-  - replicating_portfolio
 aliases:
-  - Arbitrage
-  - Derivatives
-  - Pricing
+- Arbitrage
+- Derivatives
+- Pricing
 key_concepts:
-  - Arbitrage opportunity
-  - Bond price dependence
-  - Call option pricing
-  - Interest rate contingent claim
-  - Replicating portfolio value
+- Arbitrage opportunity
+- Bond price dependence
+- Call option pricing
+- Interest rate contingent claim
+- Replicating portfolio value
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Derivatives pricing theory
+- Risk-neutral valuation
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Alternative investment strategies
+- Hedge fund replication
+- Arbitrage theory and practice
+- Law of one price
+- Interest rate modeling
+- Term structure of interest rates
+tags:
+- arbitrage_pricing
+- call_option
+- arbitrage
+- hedge_funds
+- interest_rate_derivatives
+- replicating_portfolio
+- interest_rates
+- portfolio-theory
+- bond_prices
+- bonds
+- futures
+- derivatives
+- law_of_one_price
+- options
+- portfolio
 ---
 
 # 7.2 ARBITRAGE PRICING OF DERIVATIVES  

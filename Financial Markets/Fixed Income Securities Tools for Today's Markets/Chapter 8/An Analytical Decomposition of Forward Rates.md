@@ -1,19 +1,44 @@
 ---
-tags:
-  - bond_pricing
-  - convexity
-  - duration
-  - forward_rates
-  - risk_premium
 aliases:
-  - Bond Return Decomposition
-  - Forward Rate Decomposition
+- Bond Return Decomposition
+- Forward Rate Decomposition
 key_concepts:
-  - Bond price and rate
-  - Duration and convexity
-  - Expected bond returns
-  - Forward rate decomposition
-  - Risk-neutral investors
+- Bond price and rate
+- Duration and convexity
+- Expected bond returns
+- Forward rate decomposition
+- Risk-neutral investors
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Vasicek short-rate model
+- Mean-reverting processes
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Derivatives pricing theory
+- Risk-neutral valuation
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Interest rate modeling
+- Term structure of interest rates
+tags:
+- risk_premium
+- vasicek
+- bond_pricing
+- interest_rates
+- stochastic_calculus
+- duration
+- fx
+- trading
+- bonds
+- volatility
+- forward_rates
+- futures
+- derivatives
+- options
+- mathematical-finance
 ---
 
 # 8.3 AN ANALYTICAL DECOMPOSITION OF FORWARD RATES  

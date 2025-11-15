@@ -1,23 +1,95 @@
 ---
-tags:
-  - binomial_tree
-  - bopm
-  - dynamic_hedging
-  - replication_portfolio
-  - risk_neutral_valuation
 aliases:
-  - BOPM Implementation
-  - Backward Recursion
-  - Binomial Option Pricing Model
-  - RNV
-  - Replication Portfolio
+- BOPM Implementation
+- Backward Recursion
+- Binomial Option Pricing Model
+- RNV
+- Replication Portfolio
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-1232aa
 key_concepts:
-  - Backward recursion
-  - Dynamic delta hedging
-  - No-arbitrage binomial pricing
-  - Replication portfolio
-  - Risk-neutral valuation
+- Apt
+- Backward recursion
+- Cox-Ross-Rubinstein parameter specification
+- coupon-bearing bond analysis
+- Extensions to multi-factor CAPM models
+- Duration and convexity analysis for bond portfolio management
+- Active portfolio management and performance attribution
+- Brownian motion and Wiener processes in finance
+- Computational implementation of binomial option pricing
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Option Greeks and portfolio risk management
+- maturity date in CDS
+- Risk budgeting and portfolio construction techniques
+- Capital Asset Pricing Model and beta estimation
+- Capital Asset Pricing Model and expected returns
+- Mathematical derivation of the Black-Scholes partial differential equation
+- Credit spread decomposition and hazard rates
+- Vega and volatility risk management
+- CDS clearing and central counterparties
+- CDS-Bond basis and arbitrrage opportunities
+- Mathematical Finance
+- option sensitivity analysis and hedging
+- Market portfolio and risk-free rate assumptions
+- Shadow Banking
+- Arbitrage Pricing Theory and multifactor models
+- Security Market Line and beta measurement
+- Theta and time decay modeling
+- International arbitrage and covered interest rate parity
+- Dynamic delta hedging
+- Case Study
+- Arbitrage opportunities and risk-free profit extraction
+- No-arbitrage binomial pricing
+- Credit default swap pricing and risk-neutral probabilities
+- Risk-neutral valuation in continuous time models
+- ESG integration in portfolio management
+- zero-coupon bond pricing and yields
+- Convergence of binomial model to Black-Scholes solution
+- Binomial option pricing model with multiple time steps
+- Delta hedging strategies in options portfolio management
+- Boundary conditions and parameter interpretation in Black-Scholes model
+- Shadow banking system and regulatory arbitrage
+- American option pricing in binomial trees
+- Gamma and convexity adjustments
+- Risk-neutral valuation
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Delta hedging and the replication argument
+- Currency hedging strategies for global portfolios
+- Black-Scholes-Merton option pricing model and its applications
+- Replication portfolio
+- Empirical tests and anomalies in CAPM
+tags:
+- binomial-model
+- credit-default-swaps
+- collateralized-debt-obligations
+- mathematical-finance
+- capm
+- shadow-banking
+- brownian-motion
+- bopm
+- risk_neutral_valuation
+- apt
+- case-study
+- greeks
+- black-scholes-model
+- factor-models
+- credit-risk
+- european-options
+- duration-convexity
+- quantitative-implementation
+- solution
+- replication_portfolio
+- arbitrage
+- binomial_tree
+- exotic-options
+- geometric-brownian-motion
+- delta-hedging
+- dynamic_hedging
 ---
+
 # BOPM: Implementation  
 
 # Aims  

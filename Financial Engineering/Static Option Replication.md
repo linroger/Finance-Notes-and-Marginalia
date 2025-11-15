@@ -1,20 +1,61 @@
 ---
-tags:
-  - goldman_sachs
-  - hedging_strategies
-  - option_replication
-  - options_pricing
-  - quantitative_finance
 aliases:
-  - Derman, Ergener, Kani
-  - Option Replication
-  - Static Replication
+- Derman, Ergener, Kani
+- Option Replication
+- Static Replication
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-b05cc4
 key_concepts:
-  - Fixed portfolio weights
-  - Option hedging method
-  - Option pricing models
-  - Replicating option portfolio
-  - Standard option portfolio
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Partial differential equations in financial modeling
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- american-options
+- arch
+- barrier-options
+- binomial
+- black-scholes
+- bonds
+- brownian-motion
+- capm
+- commodities
+- convexity
+- correlation
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- exotic-options
+- fixed_income
+- futures
+- gamma
+- garch
+- greeks
+- hedging
+- implied-volatility
+- interest-rate-swaps
+- options
+- pde
+- replication
+- risk-management
+- risk-neutral
+- swaps
+- theta
+- var
+- vega
+- wiener-process
+- zero-coupon
 ---
 
 # Quantitative Strategies Research Notes  

@@ -1,30 +1,56 @@
 ---
-cssclasses:
-  - academia
-linter-yaml-title-alias: Currency Swaps
-title: Currency Swaps
-tags:
-  - currency_swaps
-  - exchange_rate_risk
-  - government_bonds
-  - hedging
-  - swap_contract
-  - cross_currency_swaps
-  - fixed_income
-  - international_finance
 aliases:
-  - FX swap
-  - Currency Swap
-  - Cross-Currency Swap
+- FX swap
+- Currency Swap
+- Cross-Currency Swap
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-f3ba50
 key_concepts:
-  - Bond valuation in foreign currencies
-  - Currency swap rates determination
-  - Exchange rate risk hedging
-  - Government bond issuance
-  - Swap contract mechanics
-  - Principal exchange mechanics
-  - Semi-annual coupon payments
-  - Interest rate differentials
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Monte Carlo simulation for derivatives valuation
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Volatility smile, skew, and surface modeling
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+linter-yaml-title-alias: Currency Swaps
+tags:
+- binomial
+- bonds
+- cds
+- commodities
+- convexity
+- credit-default-swaps
+- credit-risk
+- currency-swaps
+- delta
+- derivatives-pricing
+- fixed_income
+- futures
+- fx
+- gamma
+- greeks
+- hedging
+- implied-volatility
+- interest-rate-swaps
+- monte-carlo
+- options
+- replication
+- risk-management
+- risk-neutral
+- swaps
+- theta
+- var
+- vega
+title: Currency Swaps
 ---
 
 # Currency Swaps

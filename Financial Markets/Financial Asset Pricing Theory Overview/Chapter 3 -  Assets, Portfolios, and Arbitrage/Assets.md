@@ -1,22 +1,24 @@
 ---
 tags:
-  - asset_pricing
-  - assets
-  - discrete_time
-  - dividends
-  - risk_free
+- apt
+- arbitrage
+- capm
+- delta
+- derivatives-pricing
+- fixed_income
+- risk-management
+- var
+- zero-coupon
 aliases:
-  - Asset characteristics
-  - Asset definition
-  - Returns
+- Asset characteristics
+- Asset definition
+- Returns
 key_concepts:
-  - Asset price and dividends
-  - Discrete-time model dividends
-  - Expected return and price
-  - Gross rate of return
-  - Net rate of return
-  - One-period model framework
-  - Risk-free asset definition
+- Bond pricing and fixed income securities valuation
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
+- Options Greeks and sensitivity analysis
 ---
 
 # 3.2 Assets  

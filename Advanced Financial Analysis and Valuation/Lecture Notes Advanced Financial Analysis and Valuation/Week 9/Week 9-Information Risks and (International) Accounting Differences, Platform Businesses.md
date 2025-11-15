@@ -1,11 +1,124 @@
 ---
-title: "Week 9 - Information Risks and (International) Accounting Differences, Platform Businesses"
-linter-yaml-title-alias: "Week 9 - Information Risks and (International) Accounting Differences, Platform Businesses"
-aliases: [International Accounting, Week 9 Platform Businesses, Information Risk Analysis]
-date created: Tuesday, November 26th 2024, 9:30:45 pm
+aliases:
+- International Accounting
+- Week 9 Platform Businesses
+- Information Risk Analysis
 cssclasses: academia
-tags: [accounting_differences, ifrs, information_risks, non_gaap, platform_businesses, us_gaap, valuation, subscription_economy, saas_valuation, customer_based_valuation, blue_apron, zoom_case]
-key_concepts: [accounting differences valuation, ifrs adoption reporting, information risks global investments, non-gaap reporting metrics, platform subscription businesses, reporting incentives importance, customer lifetime value, unit economics, arr metrics, rpo accounting, asc_606, saas multiples]
+date created: Tuesday, November 26th 2024, 9:30:45 pm
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-d2ee9f
+key_concepts:
+- Apt
+- revenue recognition standards
+- Cox-Ross-Rubinstein parameter specification
+- Carry trades and momentum in FX markets
+- capital markets and issuance
+- Extreme value theory and tail risk modeling
+- Computational implementation of binomial option pricing
+- Credit risk modeling and default probability estimation
+- US Generally Accepted Accounting Principles
+- Historical simulation vs. parametric VaR models
+- Credit portfolio diversification and concentration
+- unit economics
+- accounting differences valuation
+- future value and compounding
+- DV01 calculation and interest rate risk hedging
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- Monte Carlo VaR for complex portfolios
+- Stress testing and scenario analysis
+- Course Material
+- rpo accounting
+- ifrs adoption reporting
+- Forward rates and interest rate parity
+- non-gaap reporting metrics
+- Value at Risk (VaR) methodologies and backtesting
+- Risk-neutral pricing methodology for derivative securities
+- Currency risk management and hedging
+- customer lifetime value
+- Operational risk quantification and modeling
+- Case Study
+- Exchange rate determination and PPP theory
+- Generally Accepted Accounting Principles
+- fundamental valuation methods
+- Expected Shortfall and coherent risk measures
+- gross margin in loan structures
+- Convergence of binomial model to Black-Scholes solution
+- reporting incentives importance
+- asc_606
+- fair value measurement and hierarchy
+- arr metrics
+- Binomial option pricing model with multiple time steps
+- Credit exposure measurement and EAD
+- Wrong-way risk in derivative transactions
+- Value-at-Risk calculation using historical simulation
+- American option pricing in binomial trees
+- Quantitative Implementation
+- Credit risk migration matrices and rating transition
+- Capital Structure
+- Credit risk modeling and portfolio correlation analysis
+- Backtesting procedures for risk models
+- Liquidity risk measurement and management
+- platform subscription businesses
+- Duration and convexity measures for bond portfolios
+- saas multiples
+- information risks global investments
+- Loss given default and recovery rates
+- Price sensitivity to interest rate changes
+- Modified duration vs. Macaulay duration
+- Currency markets and foreign exchange trading
+linter-yaml-title-alias: Week 9 - Information Risks and (International) Accounting
+  Differences, Platform Businesses
+tags:
+- ifrs
+- binomial-model
+- non_gaap
+- goodwill
+- corporate-governance
+- case-study
+- apt
+- value-at-risk
+- valuation
+- credit-risk
+- duration-convexity
+- solution
+- depreciation
+- investment-banking
+- blue_apron
+- information_risks
+- accounting-standards
+- accruals
+- accounting_differences
+- municipal-bonds
+- expected-shortfall
+- operational-risk
+- enterprise-value
+- us_gaap
+- garch-models
+- mathematical-finance
+- course-material
+- capital-structure
+- amortization
+- scenario-analysis
+- exchange-rates
+- net-income
+- ebitda
+- quantitative-implementation
+- platform_businesses
+- financial-reporting
+- stress-testing
+- infrastructure
+- liquidity-risk
+- exotic-options
+- distressed-debt
+- implied-volatility
+- dcf-valuation
+- gaap
+- harvard-business-review
+- monte-carlo
+title: Week 9 - Information Risks and (International) Accounting Differences, Platform
+  Businesses
 ---
 
 # Week 9 - Information Risks and (International) Accounting Differences, Platform Businesses

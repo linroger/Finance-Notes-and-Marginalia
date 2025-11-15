@@ -1,20 +1,29 @@
 ---
 tags:
-  - arbitrage
-  - bond_dealer
-  - relative_value
-  - riskless_profit
-  - swaption
+- apt
+- arbitrage
+- bonds
+- calls
+- delta
+- derivatives-pricing
+- duration
+- fixed_income
+- futures
+- options
+- risk-management
+- swaps
+- vega
 aliases:
-  - Arbitrage Definition
-  - Pure Arbitrage
-  - Relative Value
+- Arbitrage Definition
+- Pure Arbitrage
+- Relative Value
 key_concepts:
-  - Law of one price
-  - Pure vs. Relative Value
-  - Relative value arbitrage
-  - Riskless instantaneous profit
-  - Static and dynamic arbitrage
+- Credit risk modeling and default probability estimation
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Options Greeks and sensitivity analysis
 ---
 
 # 1.4 ARBITRAGE: PURE VERSUS RELATIVE VALUE  

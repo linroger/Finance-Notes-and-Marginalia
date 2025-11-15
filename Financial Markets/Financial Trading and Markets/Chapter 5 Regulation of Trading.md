@@ -1,19 +1,41 @@
 ---
-tags:
-  - financial_markets
-  - government_regulation
-  - market_failure
-  - regulatory_approaches
-  - securities_markets
 aliases:
-  - Market Regulation
-  - Regulation Overview
+- Market Regulation
+- Regulation Overview
 key_concepts:
-  - Financial regulators powers
-  - Licensing, chartering, registration
-  - Maintain market competition
-  - Prevent market failure
-  - Protect investors and taxpayers
+- Financial regulators powers
+- Licensing, chartering, registration
+- Maintain market competition
+- Prevent market failure
+- Protect investors and taxpayers
+- Equity valuation and analysis
+- Dividend discount models
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Value at risk and stress testing
+- Portfolio risk metrics
+tags:
+- equity
+- regulatory-framework
+- stochastic_calculus
+- market_failure
+- government_regulation
+- regulation
+- trading
+- regulatory_approaches
+- securities_markets
+- bonds
+- cds
+- options
+- risk_management
+- stochastic-calculus
+- financial_markets
 ---
 
 # Regulation of Trading and Securities Markets  

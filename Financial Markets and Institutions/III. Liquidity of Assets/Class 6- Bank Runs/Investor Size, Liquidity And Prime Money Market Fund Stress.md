@@ -1,36 +1,39 @@
 ---
-cssclasses:
-  - academia
-title: "Investor Size, Liquidity, and Prime Money Market Fund Stress"
-linter-yaml-title-alias: "Investor Size, Liquidity, and Prime Money Market Fund Stress"
-tags:
-  - investor_size
-  - liquidity
-  - march_2020
-  - money_market_funds
-  - redemptions
-  - covid19_shock
-  - federal_reserve
-  - mmlf
-  - financial_stress
-  - institutional_behavior
 aliases:
-  - MMF stress
-  - money market funds
-  - prime MMFs
-  - "Investor Size and MMF Stress"
+- MMF stress
+- money market funds
+- prime MMFs
+- Investor Size and MMF Stress
+cssclasses:
+- academia
 key_concepts:
-  - Covid-19 shock
-  - fund managers less liquid
-  - large investor withdrawals
-  - policy relief liquidity
-  - short-term dollar funding
-  - Money Market Mutual Fund Liquidity Facility
-  - Prime institutional vs retail MMFs
-  - Large vs small institutional investors
-  - Liquidity buffer management
-  - Market-wide liquidity shortages
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+linter-yaml-title-alias: Investor Size, Liquidity, and Prime Money Market Fund Stress
+tags:
+- arbitrage
+- arch
+- convexity
+- correlation
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- fixed_income
+- hedging
+- options
+- risk-management
+- var
+title: Investor Size, Liquidity, and Prime Money Market Fund Stress
 ---
+
 
 # Investor Size, Liquidity, and Prime Money Market Fund Stress
 

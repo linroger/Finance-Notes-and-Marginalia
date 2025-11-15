@@ -1,3 +1,83 @@
+---
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-f95683
+key_concepts:
+- Apt
+- Term structure of interest rates
+- Term structure of interest rates and yield curve shapes
+- Stochastic calculus in financial modeling
+- Currency markets and foreign exchange trading
+- Option Greeks and portfolio risk management
+- Commodity markets and pricing dynamics
+- Currency derivatives
+- Expectations hypothesis and liquidity preference theory
+- Historical simulation vs. parametric VaR models
+- Default probability estimation
+- Yield curve fitting and interpolation methods
+- Interest rate modeling
+- Vega and volatility risk management
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- Foreign exchange markets
+- Monte Carlo VaR for complex portfolios
+- Stress testing and scenario analysis
+- Equity valuation and analysis
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Forward rates and interest rate parity
+- Value at Risk (VaR) methodologies and backtesting
+- Theta and time decay modeling
+- Case Study
+- Exchange rate determination and PPP theory
+- Interest rate swap pricing and valuation
+- Expected Shortfall and coherent risk measures
+- Variance swaps and volatility trading strategies
+- Bond pricing and yield analysis
+- Gamma and convexity adjustments
+- Delta hedging and the replication argument
+- Parallel and non-parallel shifts in the yield curve
+- Credit risk modeling
+- Cross-currency basis swaps and funding
+- Delta hedging and Greeks
+- Duration and convexity
+- Options pricing and payoff structures
+- Dividend discount models
+tags:
+- yield-curve
+- fx
+- commodities
+- stochastic-calculus
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- course-material
+- case-study
+- apt
+- bonds
+- greeks
+- value-at-risk
+- exchange-rates
+- deleveraging
+- valuation
+- options
+- credit-risk
+- trilemma
+- quantitative-implementation
+- duration-convexity
+- solution
+- treasury-bonds
+- equity
+- interest_rates
+- stochastic_calculus
+- infrastructure
+- corporate-bonds
+- distressed-debt
+- credit
+---
+
 # Chapter 6: The Crisis Spills over to the Central Bank (Stages 5-6)
 
 ## When Central Banks Step Into the Breach

@@ -1,38 +1,40 @@
 ---
-cssclasses:
-  - academia
-title: "Breaking the Buck"
-linter-yaml-title-alias: "Breaking the Buck"
-tags:
-  - federal_reserve
-  - financial_crisis
-  - lehman_brothers
-  - money_market_fund
-  - prime_funds
-  - credit_risk
-  - market_liquidity
-  - fund_redemptions
-  - financial_regulation
-  - treasury_insurance_program
 aliases:
-  - Finbar McCall
-  - RPG Advisers
-  - RPGXX
-  - Reserve Primary Fund
-  - "Breaking the Buck"
+- Finbar McCall
+- RPG Advisers
+- RPGXX
+- Reserve Primary Fund
+- Breaking the Buck
+cssclasses:
+- academia
 key_concepts:
-  - Breaking the buck
-  - Federal Reserve Regulation Q
-  - Lehman Brothers bankruptcy
-  - Money market funds
-  - Short-term debt securities
-  - Treasury Insurance Program
-  - Amortized cost accounting
-  - Asset-backed Commercial Paper Money Market Mutual Fund Liquidity Facility
-  - Net asset value maintenance
-  - Fund redemption management
-  - Money market fund insurance
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Ito's lemma and stochastic calculus applications
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+linter-yaml-title-alias: Breaking the Buck
+tags:
+- bonds
+- cds
+- convexity
+- correlation
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- fixed_income
+- hedging
+- options
+- risk-management
+- var
+title: Breaking the Buck
 ---
+
 
 # Breaking the Buck
 

@@ -1,19 +1,16 @@
 ---
 tags:
-  - complete_markets
-  - consumption_allocation
-  - first_welfare_theorem
-  - pareto_optimality
-  - risk_sharing
+- apt
+- delta
+- derivatives-pricing
+- risk-management
+- var
 aliases:
-  - First Welfare Theorem
-  - Pareto optimality
+- First Welfare Theorem
+- Pareto optimality
 key_concepts:
-  - complete market equilibrium
-  - consumption allocation
-  - efficient risk sharing
-  - marginal rate of substitution
-  - state price deflator
+- Value at Risk and tail risk measurement
+- Options Greeks and sensitivity analysis
 ---
 
 # 7.3 Pareto-optimality in complete markets  

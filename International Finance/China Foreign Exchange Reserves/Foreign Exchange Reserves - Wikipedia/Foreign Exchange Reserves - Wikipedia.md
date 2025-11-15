@@ -1,23 +1,104 @@
 ---
-cssclasses: academia
-title: Foreign Exchange Reserves - Wikipedia
-source: https://en.wikipedia.org/wiki/Foreign_exchange_reserves
-description:
-tags:
-  - central_bank
-  - currency
-  - foreign_exchange
-  - fx_reserves
-  - reserve_management
 aliases:
-  - FX reserves
-  - forex reserves
+- FX reserves
+- forex reserves
+cssclasses: academia
+description: null
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-18441e
 key_concepts:
-  - central bank objectives
-  - currency composition
-  - foreign exchange reserves
-  - reserve asset components
-  - reserve management functions
+- Currency markets and foreign exchange trading
+- Single-name vs. index CDS trading
+- Option Greeks and portfolio risk management
+- Commodity markets and pricing dynamics
+- Currency derivatives
+- Historical simulation vs. parametric VaR models
+- Interest rate modeling
+- Credit spread decomposition and hazard rates
+- reserve asset components
+- currency composition
+- Vega and volatility risk management
+- CDS clearing and central counterparties
+- Government bailout mechanisms and market interventions
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- 2008 financial crisis and systemic risk analysis
+- GARCH models and volatility forecasting
+- Foreign exchange markets
+- Liquidity and price discovery
+- Monte Carlo VaR for complex portfolios
+- Stress testing and scenario analysis
+- Equity valuation and analysis
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Value at Risk (VaR) methodologies and backtesting
+- reserve management functions
+- Theta and time decay modeling
+- Counterparty risk and settlement
+- Case Study
+- Exchange rate determination and PPP theory
+- Balance Of Payments
+- Interest rate swap pricing and valuation
+- Expected Shortfall and coherent risk measures
+- Credit default swap pricing and risk-neutral probabilities
+- Market microstructure and trading
+- central bank objectives
+- foreign exchange reserves
+- Variance swaps and volatility trading strategies
+- Interest rate derivatives
+- Fixed income securities
+- Bond pricing and yield analysis
+- Gamma and convexity adjustments
+- Delta hedging and the replication argument
+- Credit default swaps and credit risk
+- Cross-currency basis swaps and funding
+- Delta hedging and Greeks
+- Duration and convexity
+- Options pricing and payoff structures
+- Dividend discount models
+source: https://en.wikipedia.org/wiki/Foreign_exchange_reserves
+tags:
+- fx
+- commodities
+- credit-default-swaps
+- balance-of-payments
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- trading
+- course-material
+- 2008-financial-crisis
+- fx_reserves
+- case-study
+- bonds
+- bailout
+- greeks
+- value-at-risk
+- fixed_income
+- exchange-rates
+- valuation
+- options
+- central_bank
+- credit-risk
+- currency-swaps
+- quantitative-implementation
+- duration-convexity
+- solution
+- trilemma
+- treasury-bonds
+- interest_rates
+- foreign_exchange
+- equity
+- exotic-options
+- distressed-debt
+- regulatory-framework
+- currency
+- harvard-business-review
+- municipal-bonds
+- cds
+title: Foreign Exchange Reserves - Wikipedia
 ---
 
 # Foreign Exchange Reserves - Wikipedia

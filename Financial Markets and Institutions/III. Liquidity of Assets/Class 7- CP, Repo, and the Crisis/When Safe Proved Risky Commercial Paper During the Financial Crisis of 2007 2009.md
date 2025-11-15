@@ -1,26 +1,35 @@
 ---
-linter-yaml-title-alias: 'When Safe Proved Risky: Class Note 12 – Commercial Paper#Class
-Note 12 – Commercial Paper | Commercial Paper]] During the Financial Crisis of 2007–2009'
-title: 'When Safe Proved Risky: Class Note 12 – Commercial Paper#Class Note 12 –
-Commercial Paper | Commercial Paper]] During the Financial Crisis of 2007–2009'
-tags:
-  - asset_backed
-  - commercial_paper
-  - financial_crisis
-  - money_market
-  - short_term_debt
 aliases:
-  - CP
-  - Commercial Paper Crisis
-  - Financial Crisis 2007-2009
-  - Short-term Debt
+- CP
+- Commercial Paper Crisis
+- Financial Crisis 2007-2009
+- Short-term Debt
 key_concepts:
-  - Asset-backed commercial paper
-  - Financial sector impact
-  - Minimal credit risk
-  - Raising capital cheaply
-  - Short-term debt instrument
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+linter-yaml-title-alias: 'When Safe Proved Risky: Class Note 12 – Commercial Paper#Class
+  Note 12 – Commercial Paper | Commercial Paper]] During the Financial Crisis of 2007–2009'
+tags:
+- arbitrage
+- convexity
+- correlation
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- fixed_income
+- hedging
+- options
+- risk-management
+title: 'When Safe Proved Risky: Class Note 12 – Commercial Paper#Class Note 12 – Commercial
+  Paper | Commercial Paper]] During the Financial Crisis of 2007–2009'
 ---
+
 
 # When Safe Proved Risky Commercial Paper During the Financial Crisis of 2007 2009
 

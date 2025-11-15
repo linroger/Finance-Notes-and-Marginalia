@@ -1,3 +1,90 @@
+---
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-cceada
+key_concepts:
+- Cox-Ross-Rubinstein parameter specification
+- Computational implementation of binomial option pricing
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Market risk measurement and portfolio volatility
+- Commodity markets and pricing dynamics
+- Historical simulation vs. parametric VaR models
+- Credit spread decomposition and hazard rates
+- CDS clearing and central counterparties
+- Government bailout mechanisms and market interventions
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- Monte Carlo VaR for complex portfolios
+- Equity valuation and analysis
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Value at Risk (VaR) methodologies and backtesting
+- Counterparty risk and settlement
+- Case Study
+- Interest rate swap pricing and valuation
+- Credit derivatives
+- Expected Shortfall and coherent risk measures
+- Credit default swap pricing and risk-neutral probabilities
+- Structured products and CDOs
+- Variance swaps and volatility trading strategies
+- Liquidity crisis and market dysfunction
+- Convergence of binomial model to Black-Scholes solution
+- Interest rate derivatives
+- High Yield Bonds
+- Fixed income securities
+- Binomial option pricing model with multiple time steps
+- Bond pricing and yield analysis
+- American option pricing in binomial trees
+- Capital Structure
+- Credit default swaps and credit risk
+- Cross-currency basis swaps and funding
+- Duration and convexity
+- Dividend discount models
+tags:
+- binomial-model
+- commodities
+- credit-default-swaps
+- liquidity-crisis
+- case-study
+- bailout
+- value-at-risk
+- credit-risk
+- duration-convexity
+- solution
+- structured_finance
+- investment-banking
+- equity
+- corporate-bonds
+- wholesale-funding
+- deposit-insurance
+- municipal-bonds
+- credit-analysis
+- cds
+- collateralized-debt-obligations
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- course-material
+- capital-structure
+- market-risk
+- bonds
+- high-yield-bonds
+- fixed_income
+- exchange-rates
+- deleveraging
+- quantitative-implementation
+- real-estate
+- treasury-bonds
+- infrastructure
+- liquidity-risk
+- exotic-options
+- distressed-debt
+- mbs-cmos
+---
+
 # US Deleveraging 1930s
 
 This document provides a timeline for the U.S. Deleveraging in the 1930s. I wrote it in a way to both make clear important cause and effect relationships and to convey an up-close feeling of what it was like to go through the experience as an investor. As a result, sometimes you will read about market action in detail that has no historical importance but provides perspective for investors trying to navigate such moves. For example, throughout this period there were giant market whip-saws and swings in sentiment that misled and hurt many. Also, the waves of destruction in asset values that occurred through changing market values and asset confiscations were enormous. So it is important that we, as managers of our clients' wealth, visualize how we would have navigated these changes. Only by going through this experience virtually, as well as going through the other deleveragings (the Weimar Republic in the 1920s, Latin America in the 1980s and Japan in the 1990s) and testing our strategies can we be confident that we can successfully navigate the next few years.

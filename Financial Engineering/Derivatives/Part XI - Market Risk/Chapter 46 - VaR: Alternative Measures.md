@@ -1,21 +1,103 @@
 ---
-tags:
-  - historical_simulation
-  - monte_carlo
-  - non_parametric
-  - portfolio_var
-  - stress_testing
-  - var
 aliases:
-  - HS
-  - VaR
+- HS
+- VaR
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-401f99
 key_concepts:
-  - Monte Carlo simulation
-  - historical simulation
-  - non-parametric VaR methods
-  - portfolio VaR calculation
-  - variance-covariance method
+- Apt
+- Term structure of interest rates and yield curve shapes
+- Monte Carlo simulation techniques for path-dependent options
+- Mean-variance optimization and the efficient frontier
+- Market risk measurement and portfolio volatility
+- Collateralized Debt Obligations
+- Option Greeks and portfolio risk management
+- Commodity markets and pricing dynamics
+- Expectations hypothesis and liquidity preference theory
+- Mathematical derivation of the Black-Scholes partial differential equation
+- Historical simulation vs. parametric VaR models
+- Yield curve fitting and interpolation methods
+- non-parametric VaR methods
+- Vega and volatility risk management
+- forward commitments and hedging
+- Mathematical Finance
+- Spot rates vs. forward rates modeling
+- Monte Carlo integration and variance reduction
+- Monte Carlo VaR for complex portfolios
+- Shadow Banking
+- Stress testing and scenario analysis
+- portfolio optimization and risk decomposition
+- Control variates and importance sampling techniques
+- Theta and time decay modeling
+- Value at Risk (VaR) methodologies and backtesting
+- Monte Carlo simulation
+- Case Study
+- variance-covariance method
+- Exchange rate determination and PPP theory
+- Net interest margin analysis and banking profitability
+- historical simulation
+- Expected Shortfall and coherent risk measures
+- portfolio VaR calculation
+- Risk-neutral valuation in continuous time models
+- Kalman Filter
+- regulatory stress testing and risk assessment
+- Boundary conditions and parameter interpretation in Black-Scholes model
+- Limitations and extensions of the Black-Scholes framework
+- simulation methods in financial engineering
+- Value-at-Risk calculation using historical simulation
+- risk measurement and management
+- Shadow banking system and regulatory arbitrage
+- Gamma and convexity adjustments
+- Backtesting procedures for risk models
+- Delta hedging and the replication argument
+- Parallel and non-parallel shifts in the yield curve
+- Black-Scholes-Merton option pricing model and its applications
+- Brownian motion and Wiener processes in finance
+tags:
+- yield-curve
+- commodities
+- straddle
+- sovereign-debt
+- case-study
+- apt
+- value-at-risk
+- kalman-filter
+- time-series
+- european-options
+- solution
+- banking
+- autocorrelation
+- stochastic-volatility
+- geometric-brownian-motion
+- vasicek-model
+- sensitivity-analysis
+- expected-shortfall
+- stress_testing
+- risk-management
+- backtesting
+- collateralized-debt-obligations
+- mathematical-finance
+- monte-carlo-simulation
+- var
+- shadow-banking
+- market-risk
+- brownian-motion
+- greeks
+- black-scholes-model
+- exchange-rates
+- hedge-funds
+- quantitative-implementation
+- treasury-bonds
+- stress-testing
+- infrastructure
+- exotic-options
+- implied-volatility
+- mean-reversion
+- monte-carlo
+- term-structure
 ---
+
 # VaR: Alternative Measures  
 
 # Aims  

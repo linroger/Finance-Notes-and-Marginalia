@@ -1,20 +1,45 @@
 ---
-tags:
-  - effr
-  - federal_funds
-  - gc_repo_rate
-  - repo_market
-  - treasury_collateral
 aliases:
-  - EFFR vs GC
-  - GC and Repo Rates
-  - General Collateral Rate
+- EFFR vs GC
+- GC and Repo Rates
+- General Collateral Rate
 key_concepts:
-  - EFFR vs GC spread
-  - GC rate benchmark
-  - Market disruptions
-  - Repo loan interest rates
-  - Window dressing
+- EFFR vs GC spread
+- GC rate benchmark
+- Market disruptions
+- Repo loan interest rates
+- Window dressing
+- Credit risk modeling
+- Default probability estimation
+- Fixed income securities
+- Interest rate derivatives
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Derivatives pricing theory
+tags:
+- gc_repo_rate
+- credit
+- fixed_income
+- fx
+- trading
+- bonds
+- federal_funds
+- cds
+- options
+- derivatives
+- risk_management
+- effr
+- treasury_collateral
+- repo_market
+- interest_rates
 ---
 
 # 10.5 GC AND SPECIAL REPO RATES  

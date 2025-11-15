@@ -1,21 +1,100 @@
 ---
-title: Exchange Rates and the Foreign Exchange MarketAn Asset Approach
-cssclasses: academia
-tags:
-  - asset_approach
-  - currency_depreciation
-  - exchange_rates
-  - foreign_exchange
-  - relative_prices
 aliases:
-  - Exchange Rate Dynamics
-  - Forex Market Analysis
+- Exchange Rate Dynamics
+- Forex Market Analysis
+cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-d4cbde
 key_concepts:
-  - Currency depreciation impact
-  - Direct vs. indirect terms
-  - Domestic and foreign prices
-  - Exchange rate definition
-  - Relative price influence
+- Apt
+- Liquidity coverage ratio and net stable funding ratio
+- Term structure of interest rates
+- Term structure of interest rates and yield curve shapes
+- Currency hedging strategies
+- Stress testing and supervisory review processes
+- Forward exchange rate determination
+- Relative price influence
+- Option Greeks and portfolio risk management
+- Commodity markets and pricing dynamics
+- Currency derivatives
+- Expectations hypothesis and liquidity preference theory
+- Futures contracts and forward pricing
+- Interest rate modeling
+- Yield curve fitting and interpolation methods
+- Leverage ratio and large exposures
+- Value at risk and stress testing
+- Swap spread and credit risk considerations
+- Currency depreciation impact
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- CIP deviations and regulatory effects
+- Foreign exchange markets
+- Direct vs. indirect terms
+- Equity valuation and analysis
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Risk-weighted assets and capital adequacy ratios
+- Cross-currency basis and funding spreads
+- Portfolio risk metrics
+- Case Study
+- Covered interest rate parity and no-arbitrage
+- Balance Of Payments
+- Interest rate swap pricing and valuation
+- Margin requirements and clearing
+- Basel III regulatory framework and capital requirements
+- Variance swaps and volatility trading strategies
+- Bond pricing and yield analysis
+- Gamma and convexity adjustments
+- Delta hedging and the replication argument
+- Parallel and non-parallel shifts in the yield curve
+- Exchange rate definition
+- Cross-currency basis swaps and funding
+- Domestic and foreign prices
+- Delta hedging and Greeks
+- Duration and convexity
+- Options pricing and payoff structures
+- Dividend discount models
+tags:
+- yield-curve
+- fx
+- commodities
+- balance-of-payments
+- covered-interest-parity
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- course-material
+- bank-regulation
+- case-study
+- apt
+- bonds
+- greeks
+- risk_management
+- value-at-risk
+- exchange-rates
+- hedge-funds
+- options
+- quantitative-implementation
+- duration-convexity
+- solution
+- real-estate
+- treasury-bonds
+- exchange_rates
+- equity
+- foreign_exchange
+- interest_rates
+- stress-testing
+- infrastructure
+- currency_depreciation
+- asset_approach
+- exotic-options
+- relative_prices
+- harvard-business-review
+- futures
+- municipal-bonds
+title: Exchange Rates and the Foreign Exchange MarketAn Asset Approach
 ---
 
 # Exchange Rates and the Foreign Exchange Market-An Asset Approach

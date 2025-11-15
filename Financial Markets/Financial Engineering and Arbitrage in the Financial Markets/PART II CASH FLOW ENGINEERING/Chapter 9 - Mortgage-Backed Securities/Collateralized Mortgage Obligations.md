@@ -1,19 +1,44 @@
 ---
-tags:
-  - cmo
-  - mortgage_backed_securities
-  - prepayment_risk
-  - structured_finance
-  - tranches
 aliases:
-  - CMOs
-  - Collateralized Mortgage Obligations
+- CMOs
+- Collateralized Mortgage Obligations
 key_concepts:
-  - CMO tranche design
-  - IO/PO class structure
-  - PAC CMO structure
-  - Prepayment risk exposure
-  - Sequential class CMO
+- CMO tranche design
+- IO/PO class structure
+- PAC CMO structure
+- Prepayment risk exposure
+- Sequential class CMO
+- Equity valuation and analysis
+- Dividend discount models
+- Credit risk modeling
+- Default probability estimation
+- Fixed income securities
+- Interest rate derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Credit default swaps and credit risk
+tags:
+- equity
+- model-calibration
+- mortgage_backed_securities
+- credit
+- cmo
+- prepayment_risk
+- tranches
+- cds
+- structured_finance
+- interest_rates
+- fixed_income
+- trading
+- bonds
+- swaps
+- futures
 ---
 
 # 9.4 COLLATERALIZED MORTGAGE OBLIGATIONS  

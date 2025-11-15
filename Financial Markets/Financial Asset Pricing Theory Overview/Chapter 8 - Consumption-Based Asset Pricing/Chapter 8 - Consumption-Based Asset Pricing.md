@@ -1,10 +1,17 @@
 ---
 tags:
-  - '#asset_pricing'
-  - '#chapter_8'
-  - '#consumption'
-  - '#consumption_based_asset_pricing'
+- apt
+- capm
+- completeness
+- correlation
+- credit-risk
+- risk-management
+- var
+key_concepts:
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
 ---
+
 # Chapter 8 - Consumption-Based Asset Pricing
 %% Begin Waypoint %%
 - **Chapter 8 - Consumption-Based Asset Pricing**

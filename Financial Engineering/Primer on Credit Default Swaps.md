@@ -1,20 +1,51 @@
 ---
-tags:
-  - cds_pricing
-  - corporate_bonds
-  - credit_default_swaps
-  - credit_risk
-  - financial_markets
 aliases:
-  - CDS Basics
-  - CDS Primer
-  - Credit Derivatives
+- CDS Basics
+- CDS Primer
+- Credit Derivatives
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-d0972b
 key_concepts:
-  - Buying protection shorting FRN
-  - CDS as leveraged bond
-  - CDS counterparty risk
-  - CDS structure explained
-  - Selling protection long FRN
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- abs
+- arch
+- bonds
+- cds
+- convexity
+- corporate-bonds
+- correlation
+- credit-default-swaps
+- credit-risk
+- credit-spreads
+- delta
+- derivatives-pricing
+- fixed_income
+- gamma
+- garch
+- greeks
+- hedging
+- interest-rate-swaps
+- martingale
+- replication
+- risk-management
+- risk-neutral
+- swaps
+- theta
+- var
+- vega
 ---
 
 # A PRIMER ON CREDIT DEFAULT SWAPS (CDS)  

@@ -1,32 +1,107 @@
 ---
-cssclasses:
-  - academia
-title: Comps Definition, How They're Used in Analysis, and Example
-tags:
-  - business_valuation
-  - comparable_company_analysis
-  - comps_definition
-  - retail_sector
-  - same_store_sales
-  - financial_metrics
-  - enterprise_value
-  - equity_valuation
 aliases:
-  - Comparable Company Analysis
-  - Comparables
-  - FMV
-  - Trading Multiples
-  - Peer Analysis
+- Comparable Company Analysis
+- Comparables
+- FMV
+- Trading Multiples
+- Peer Analysis
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch04-FE-tags-v2
 key_concepts:
-  - Comparable company analysis methodology
-  - Comps as financial metrics for valuation
-  - Business valuation using multiples
-  - Fair market value (FMV) determination
-  - Retail same-store sales metrics
-  - Enterprise value to EBITDA multiple
-  - Price-to-earnings valuation
-  - Growth rate calculation methodology
-  - Real estate property valuation
+- Growth rate calculation methodology
+- Deposit Insurance
+- Regulatory changes and market structure evolution
+- Real estate property valuation
+- Liquidity coverage ratio and net stable funding ratio
+- Stress testing and supervisory review processes
+- Comparable company analysis methodology
+- Debt capacity analysis in LBO transactions
+- Commodity markets and pricing dynamics
+- Solution
+- Fair market value (FMV) determination
+- Leverage ratio and large exposures
+- 'Hedge fund strategies: long-short, market neutral, event-driven'
+- Enterprise value to EBITDA multiple
+- Mathematical Finance
+- Capital structure theory and optimal debt levels
+- Exit strategies and return maximization
+- Leveraged buyout financial modeling and returns
+- Deposit insurance and systemic risk prevention
+- Capital account liberalization and financial development
+- Implied Volatility
+- Risk-weighted assets and capital adequacy ratios
+- Course Material
+- LBO financing sources and covenant structures
+- Basel III capital and liquidity standards development
+- Margin lending and leverage in alternative investments
+- Comps as financial metrics for valuation
+- Private equity investing and leveraged buyouts
+- Case Study
+- Business valuation using multiples
+- Retail same-store sales metrics
+- Balance Of Payments
+- Basel III regulatory framework and capital requirements
+- Comparable Analysis
+- Price-to-earnings valuation
+- Systemic risk and financial stability
+- Quantitative Implementation
+- Capital Structure
+- Hedge fund strategies and alternative investments
+- Leveraged Buyout financial structures and returns
+- Real estate investment and property valuation
+- Commercial bank business model and revenue streams
+- Equity returns and value creation mechanisms
+tags:
+- basel-iii
+- enterprise-value
+- commodities
+- balance-of-payments
+- retail_sector
+- same_store_sales
+- mathematical-finance
+- course-material
+- bank-regulation
+- capital-structure
+- case-study
+- comparable-analysis
+- comparable_company_analysis
+- business_valuation
+- comps_definition
+- hedge-funds
+- equity_valuation
+- ebitda
+- leveraged-buyouts
+- quantitative-implementation
+- solution
+- enterprise_value
+- financial_metrics
+- real-estate
+- private-equity
+- systemic-risk
+- ev
+- deposit-insurance
+- implied-volatility
+- comps
+- peer-analysis
+- market-multiples
+- valuation-methods
+- financial-analysis
+- transaction-analysis
+- due-diligence
+- market-benchmarking
+- relative-valuation
+- price-to-sales
+- price-to-earnings
+- ev-to-revenue
+- forward-multiples
+- trading-multiples
+- acquisition-analysis
+- investment-research
+- financial-modeling
+title: Comps Definition, How They're Used in Analysis, and Example
 ---
 
 # Comps Definition, How They're Used in Analysis, and Example

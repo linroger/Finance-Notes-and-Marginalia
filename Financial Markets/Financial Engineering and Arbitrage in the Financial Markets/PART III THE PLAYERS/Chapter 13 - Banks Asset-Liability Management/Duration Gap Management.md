@@ -1,19 +1,44 @@
 ---
-tags:
-  - asset_liability_management
-  - balance_sheet
-  - duration_gap
-  - interest_rate_risk
-  - zions_bank
 aliases:
-  - Duration Gap
-  - Interest Rate Exposure
+- Duration Gap
+- Interest Rate Exposure
 key_concepts:
-  - Asset and liability categories
-  - Duration Gap Management
-  - Interest rate exposure
-  - Neutral net worth position
-  - Weighted average duration
+- Asset and liability categories
+- Duration Gap Management
+- Interest rate exposure
+- Neutral net worth position
+- Weighted average duration
+- Equity valuation and analysis
+- Dividend discount models
+- Market microstructure and trading
+- Liquidity and price discovery
+- Option sensitivity analysis
+- Delta, gamma, vega, theta, rho
+- Bond pricing and yield analysis
+- Duration and convexity
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Derivatives pricing theory
+- Risk-neutral valuation
+- Options pricing and payoff structures
+tags:
+- balance_sheet
+- equity
+- asset_liability_management
+- greeks
+- hedge_funds
+- zions_bank
+- structured_finance
+- interest_rates
+- portfolio-theory
+- trading
+- bonds
+- swaps
+- futures
+- derivatives
+- options
 ---
 
 # 13.3 DURATION GAP MANAGEMENT  

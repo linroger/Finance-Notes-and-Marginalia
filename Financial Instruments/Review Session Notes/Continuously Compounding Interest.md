@@ -1,29 +1,41 @@
 ---
-cssclasses:
-  - academia
-linter-yaml-title-alias: Continuously Compounding Interest
-title: Continuously Compounding Interest
-tags:
-  - compounding_interest
-  - continuous_compounding
-  - discrete_compounding
-  - gross_return
-  - interest_rate
-  - fixed_income
-  - financial_mathematics
 aliases:
-  - Compound Interest
-  - Continuously Compounding
-  - Interest Rate Conversion
+- Compound Interest
+- Continuously Compounding
+- Interest Rate Conversion
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-54ed3e
 key_concepts:
-  - Annual interest rate
-  - Continuously compounding interest rate
-  - Discrete compounding frequency
-  - Gross rate of return
-  - Maturity horizon T
-  - Interest rate conversion formulas
-  - Exponential compounding
-  - LIBOR rate conversion
+- Risk-neutral measures and martingale pricing
+- Bond pricing and fixed income securities valuation
+- Ito's lemma and stochastic calculus applications
+- Monte Carlo simulation for derivatives valuation
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+linter-yaml-title-alias: Continuously Compounding Interest
+tags:
+- arbitrage
+- convexity
+- correlation
+- credit-risk
+- derivatives-pricing
+- duration
+- exotic-options
+- expected-shortfall
+- fixed_income
+- hedging
+- monte-carlo
+- options
+- risk-management
+- risk-neutral
+- stress-testing
+- var
+title: Continuously Compounding Interest
 ---
 
 # Continuously Compounding Interest

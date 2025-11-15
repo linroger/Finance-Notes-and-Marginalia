@@ -1,3 +1,77 @@
+---
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-b615b9
+key_concepts:
+- Cox-Ross-Rubinstein parameter specification
+- Currency markets and foreign exchange trading
+- Computational implementation of binomial option pricing
+- Single-name vs. index CDS trading
+- Option Greeks and portfolio risk management
+- Commodity markets and pricing dynamics
+- Currency derivatives
+- Credit spread decomposition and hazard rates
+- Vega and volatility risk management
+- CDS clearing and central counterparties
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- Foreign exchange markets
+- Equity valuation and analysis
+- Fixed-for-floating swap cash flows and valuation
+- Currency risk management and hedging
+- Forward rates and interest rate parity
+- Theta and time decay modeling
+- Counterparty risk and settlement
+- Case Study
+- Exchange rate determination and PPP theory
+- Interest rate swap pricing and valuation
+- Credit default swap pricing and risk-neutral probabilities
+- Variance swaps and volatility trading strategies
+- Liquidity crisis and market dysfunction
+- Convergence of binomial model to Black-Scholes solution
+- Binomial option pricing model with multiple time steps
+- Bond pricing and yield analysis
+- American option pricing in binomial trees
+- Gamma and convexity adjustments
+- Capital Structure
+- Delta hedging and the replication argument
+- Credit default swaps and credit risk
+- Cross-currency basis swaps and funding
+- Delta hedging and Greeks
+- Duration and convexity
+- Options pricing and payoff structures
+- Dividend discount models
+tags:
+- quantitative-implementation
+- fx
+- binomial-model
+- duration-convexity
+- commodities
+- credit-default-swaps
+- liquidity-crisis
+- solution
+- treasury-bonds
+- garch-models
+- interest-rate-swaps
+- equity
+- mathematical-finance
+- corporate-bonds
+- capital-structure
+- distressed-debt
+- case-study
+- bonds
+- greeks
+- exchange-rates
+- harvard-business-review
+- deleveraging
+- valuation
+- cds
+- options
+- credit-risk
+---
+
 ## An In-Depth Look at Deleveragings
 
 The purpose of this paper is to show the compositions of past deleveragings and, through this process, to convey in-depth, how the deleveraging process works.

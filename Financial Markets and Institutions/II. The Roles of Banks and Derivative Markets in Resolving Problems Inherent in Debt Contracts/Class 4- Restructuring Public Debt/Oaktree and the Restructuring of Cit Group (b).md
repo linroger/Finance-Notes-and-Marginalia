@@ -1,19 +1,48 @@
 ---
-linter-yaml-title-alias: Oaktree And The Restructuring Of CIT Group (B)
-title: Oaktree and the Restructuring of CIT Group (b)
-cssclasses: ["academia"]
 aliases:
-  - CIT Bankruptcy
-  - CIT Restructuring
-  - Oaktree CIT
+- CIT Bankruptcy
+- CIT Restructuring
+- Oaktree CIT
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batchAA-i8pwqo
 key_concepts:
-  - CIT temporary liquidity guarantee
-  - Credit facility
-  - Lenders steering committee
-  - Restructuring plan
-  - Secured loan terms
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Ito's lemma and stochastic calculus applications
+- Monte Carlo simulation for derivatives valuation
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+linter-yaml-title-alias: Oaktree And The Restructuring Of CIT Group (B)
+tags:
+- american-options
+- arbitrage
+- arch
+- binomial
+- black-scholes
+- capm
+- convexity
+- correlation
+- counterparty-risk
+- credit-risk
+- derivatives-pricing
+- duration
+- european-options
+- fixed_income
+- hedging
+- options
+- risk-management
+- risk-neutral
+- var
+title: Oaktree and the Restructuring of CIT Group (b)
 ---
-
 Oaktree and the Restructuring of CIT Group (a)
 Note On LBO Capital Structure
 Note On the Leveraged Loan Market

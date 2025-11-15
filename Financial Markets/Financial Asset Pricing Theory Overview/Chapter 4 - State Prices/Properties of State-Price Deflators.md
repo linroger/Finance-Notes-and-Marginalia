@@ -1,20 +1,24 @@
 ---
 tags:
-  - arbitrage
-  - no_arbitrage
-  - separating_hyperplane
-  - state_price_deflator
-  - utility_maximization
+- abs
+- apt
+- arbitrage
+- derivatives-pricing
+- fixed_income
+- martingale
+- no-arbitrage
+- risk-management
+- theta
+- var
 aliases:
-  - SPD
-  - Separating Hyperplane Theorem
-  - state price deflator
+- SPD
+- Separating Hyperplane Theorem
+- state price deflator
 key_concepts:
-  - No arbitrage condition
-  - One-period framework
-  - Separating hyperplane theorem
-  - State-price deflator existence
-  - Utility maximization problem
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
+- Options Greeks and sensitivity analysis
 ---
 
 # 4.3 Properties of state-price deflators  

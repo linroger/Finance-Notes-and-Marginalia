@@ -1,29 +1,64 @@
 ---
-cssclasses: academia
-title: Financial Instruments
-tags:
-  - binomial_model
-  - delta_hedging
-  - financial_instruments
-  - option_pricing
-  - replication
-  - risk_neutral_valuation
-  - synthetic_options
 aliases:
-  - Binomial Option Pricing
-  - Delta Hedging Example
-  - Financial Instruments Notes
+- Binomial Option Pricing
+- Delta Hedging Example
+- Financial Instruments Notes
+cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-658625
 key_concepts:
-  - Call option payoff
-  - Delta hedging
-  - One period binomial model
-  - Risk-free rate of return
-  - Risk-neutral probabilities
-  - Synthetic option creation
-  - Underlying security price
-  - Option elasticity
-  - Binomial coefficients
-  - Digital and barrier options
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- abs
+- american-options
+- apt
+- arbitrage
+- asian-options
+- barrier-options
+- binomial
+- black-scholes
+- calls
+- capm
+- cds
+- convexity
+- correlation
+- credit-default-swaps
+- credit-risk
+- delta
+- delta-hedging
+- derivatives-pricing
+- duration
+- european-options
+- exotic-options
+- factor-models
+- fixed_income
+- gamma
+- greeks
+- hedging
+- implied-volatility
+- interest-rate-swaps
+- options
+- replication
+- risk-management
+- risk-neutral
+- swaps
+- var
+- vega
+title: Financial Instruments
 ---
 
 # Financial Instruments

@@ -1,26 +1,19 @@
 ---
 tags:
-  - asset_pricing
-  - book_organization
-  - financial_assets
-  - state_price_deflator
-  - stochastic_processes
+- apt
+- arbitrage
+- capm
+- completeness
+- risk-management
+- risk-neutral
 aliases:
-  - Book Structure
+- Book Structure
 key_concepts:
-  - Arbitrage and market completeness
-  - Bond prices and term structure
-  - Consumption and investment decisions
-  - Consumption-based CAPM (CCAPM)
-  - Derivative securities discussion
-  - Factor models of asset pricing
-  - Financial asset modeling
-  - Investor preferences representation
-  - Market equilibrium analysis
-  - Risk-adjusted probability measure
-  - State-price deflator definition
-  - Stochastic processes introduction
-  - Uncertainty and information flow
+- Risk-neutral measures and martingale pricing
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
 ---
 
 # 1.4 The organization of this book  

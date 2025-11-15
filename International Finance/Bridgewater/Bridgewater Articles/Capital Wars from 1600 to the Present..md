@@ -1,23 +1,89 @@
 ---
-title: Capital Wars from 1600 to the Present
-cssclasses:
-  - academia
-tags:
-  - asset_freezes
-  - capital_wars
-  - economic_conflicts
-  - geopolitical_conflict
-  - trade_embargoes
 aliases:
-  - Capital Conflicts
-  - Economic Warfare
-  - Financial Warfare
+- Capital Conflicts
+- Economic Warfare
+- Financial Warfare
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-0af721
 key_concepts:
-  - Asset freezes and seizures
-  - Blocking capital market access
-  - Embargoes and blockades
-  - Escalating conflicts between powers
-  - Tit-for-tat escalation
+- Apt
+- Term structure of interest rates
+- Carry trades and momentum in FX markets
+- Term structure of interest rates and yield curve shapes
+- Escalating conflicts between powers
+- Commodity markets and pricing dynamics
+- Currency derivatives
+- Expectations hypothesis and liquidity preference theory
+- Futures contracts and forward pricing
+- Asset freezes and seizures
+- Interest rate swaps and term structure
+- Interest rate modeling
+- Yield curve fitting and interpolation methods
+- Solution
+- Blocking capital market access
+- Spot rates vs. forward rates modeling
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- Infrastructure investment and project finance
+- Foreign exchange markets
+- Liquidity and price discovery
+- Equity valuation and analysis
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Currency risk management and hedging
+- Forward rates and interest rate parity
+- Tit-for-tat escalation
+- Case Study
+- Exchange rate determination and PPP theory
+- Interest rate swap pricing and valuation
+- Margin requirements and clearing
+- Market microstructure and trading
+- Variance swaps and volatility trading strategies
+- Liquidity crisis and market dysfunction
+- Currency Swaps
+- Quantitative Implementation
+- Embargoes and blockades
+- Capital Structure
+- Parallel and non-parallel shifts in the yield curve
+- Exotic Options
+- Distressed Debt
+- Cross-currency basis swaps and funding
+- Basis swaps and cross-currency swaps
+- Dividend discount models
+- Currency markets and foreign exchange trading
+tags:
+- yield-curve
+- fx
+- swaps
+- commodities
+- liquidity-crisis
+- asset_freezes
+- interest-rate-swaps
+- mathematical-finance
+- trading
+- course-material
+- capital-structure
+- case-study
+- apt
+- capital_wars
+- exchange-rates
+- geopolitical_conflict
+- currency-swaps
+- quantitative-implementation
+- solution
+- economic_conflicts
+- equity
+- interest_rates
+- infrastructure
+- trade_embargoes
+- distressed-debt
+- exotic-options
+- regulatory-framework
+- futures
+title: Capital Wars from 1600 to the Present
 ---
 
 # Capital Wars from 1600 to the Present

@@ -1,22 +1,44 @@
 ---
-title: War Economies
-cssclasses: academia
-tags:
-  - big_debt_crises
-  - economic_conflicts
-  - economic_rivalries
-  - geopolitical_cycle
-  - war_economies
 aliases:
-  - Conflict Economics
-  - Military Economics
-  - War Economy
+- Conflict Economics
+- Military Economics
+- War Economy
+cssclasses: academia
 key_concepts:
-  - economic conflicts, military conflicts
-  - economic rivalries, fighting
-  - economic/geopolitical cycle
-  - populist, autocratic leaders
-  - war production, consumption, accounting
+- War Economies and Economic Cycles
+- German Hyperinflation Case Study (1918-1924)
+- Economic and Military Conflict Dynamics
+- Economic Rivalries and Geopolitical Cycles
+- Populist and Autocratic Leadership
+- War Production and Resource Allocation
+- Treaty of Versailles and Reparations
+- Currency Crises and Hyperinflation
+- Balance of Payments and External Debt
+- Money Printing and Monetization
+- Capital Flight and Currency Depreciation
+- Post-War Economic Adjustment
+- Weimar Republic and Political Instability
+- Foreign Exchange and International Finance
+- Debt Crises and Deleveraging
+- Economic Policy and Central Banking
+tags:
+- war_economies
+- german_hyperinflation
+- big_debt_crises
+- currency_crises
+- balance_of_payments
+- hyperinflation
+- economic_conflicts
+- geopolitical_cycle
+- weimar_republic
+- treaty_versailles
+- reparations
+- capital_flight
+- currency_depreciation
+- economic_history
+- international_finance
+- post_war_economics
+title: War Economies
 ---
 
 # War Economies

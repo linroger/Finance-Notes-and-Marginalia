@@ -1,32 +1,24 @@
 ---
-cssclasses:
-  - academia
-title: "Banks' Bonds Playing Role as Insured Deposits"
-linter-yaml-title-alias: "Banks' Bonds Playing Role as Insured Deposits"
-tags:
-  - banks_bonds
-  - bond_market
-  - financial_crisis
-  - investment
-  - risk_management
-  - deposit_insurance
-  - bank_funding
-  - financial_instruments
-  - banking_regulation
 aliases:
-  - Banks' Bonds
-  - Bond Market
-  - Financial Instruments
-  - "Banks' Bonds as Insured Deposits"
+- Banks' Bonds
+- Bond Market
+- Financial Instruments
+- Banks' Bonds as Insured Deposits
+cssclasses:
+- academia
 key_concepts:
-  - Bond market dynamics
-  - Financial instrument role
-  - Investment analysis
-  - Risk management strategies
-  - Bank bonds as deposit substitutes
-  - Insured deposit alternatives
-  - Bank funding mechanisms
-  - Regulatory implications
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Portfolio hedging and risk reduction strategies
+linter-yaml-title-alias: Banks' Bonds Playing Role as Insured Deposits
+tags:
+- bonds
+- fixed_income
+- hedging
+- risk-management
+title: Banks' Bonds Playing Role as Insured Deposits
 ---
+
 
 # Banks' Bonds Playing Role as Insured Deposits

@@ -1,24 +1,29 @@
 ---
-banner: Attachments/4a643986b2694830401910f31df7403911f5d2ef.avif.png
-title: The Economist Regime Change
-tags:
-  - central_banks
-  - economic_stability
-  - fiscal_policy
-  - global_inflation
-  - monetary_policy
 aliases:
-  - Fiscal Policy
-  - Monetary Policy
-  - Regime Change
-  - The Economist
+- Fiscal Policy
+- Monetary Policy
+- Regime Change
+- The Economist
+banner: Attachments/4a643986b2694830401910f31df7403911f5d2ef.avif.png
 key_concepts:
-  - Central banks raising rates
-  - Economic policy reboot
-  - Federal Reserve shifts
-  - Fiscal policy reversal
-  - Global inflation surge
+- 'Short-rate models: Vasicek, CIR, and mean reversion'
+- Bond pricing and fixed income securities valuation
+- Ito's lemma and stochastic calculus applications
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Interest rate swaps and term structure modeling
+- Interest rate caps, floors, and swaptions
+tags:
+- abs
+- apt
+- bonds
+- cir
+- correlation
+- credit-risk
+- fixed_income
+title: The Economist Regime Change
 ---
+
 
  !500
 

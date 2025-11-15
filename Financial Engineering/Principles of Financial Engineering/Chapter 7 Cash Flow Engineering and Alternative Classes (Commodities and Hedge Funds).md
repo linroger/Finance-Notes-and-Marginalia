@@ -1,27 +1,68 @@
 ---
-title: Cash Flow Engineering and Alternative Classes (Commodities and Hedge Funds)
-tags:
-  - cash-flow-engineering
-  - commodities
-  - hedge-funds
-  - alternative-investments
-  - futures-contracts
-  - commodity-futures
-  - backwardation
-  - contango
 aliases:
-  - Chapter 7 Alternative Classes
-  - Commodities and Hedge Funds Engineering
-  - Alternative Asset Classes
-key_concepts:
-  - Futures contract parameters
-  - Term structure of commodity futures
-  - Backwardation and contango
-  - Commodity futures engineering
-  - Hedge fund strategies
-  - Alternative investment vehicles
-  - Cash flow engineering applications
+- Chapter 7 Alternative Classes
+- Commodities and Hedge Funds Engineering
+- Alternative Asset Classes
 cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-8a0771
+key_concepts:
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- abs
+- apt
+- arbitrage
+- arch
+- binomial
+- black-scholes
+- bonds
+- capm
+- cds
+- commodities
+- convexity
+- corporate-bonds
+- correlation
+- credit-default-swaps
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- exotic-options
+- factor-models
+- fixed_income
+- forwards
+- futures
+- futures-markets
+- garch
+- greeks
+- hedging
+- hull-white
+- implied-volatility
+- interest-rate-swaps
+- options
+- replication
+- risk-management
+- risk-neutral
+- swaps
+- term-structure
+- var
+- yield-curve
+title: Cash Flow Engineering and Alternative Classes (Commodities and Hedge Funds)
 ---
 
 # CASH FLOW ENGINEERING AND ALTERNATIVE CLASSES (COMMODITIES AND HEDGE FUNDS)  

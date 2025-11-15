@@ -1,37 +1,39 @@
 ---
-cssclasses:
-  - academia
-title: "Class Note 12: Commercial Paper"
-linter-yaml-title-alias: "Class Note 12: Commercial Paper"
-tags:
-  - 2007_2009_financial_crisis
-  - asset_backed_paper
-  - backup_lines_of_credit
-  - commercial_paper
-  - short_term_promissory_note
-  - money_markets
-  - cp_market_freeze
-  - rating_agencies
-  - liquidity_facilities
 aliases:
-  - CP
-  - Class 12 Note
-  - Commercial Paper Note
-  - ECN
-  - "Commercial Paper Note"
+- CP
+- Class 12 Note
+- Commercial Paper Note
+- ECN
+- Commercial Paper Note
+cssclasses:
+- academia
 key_concepts:
-  - Backup lines of credit
-  - Commercial paper significance
-  - Early-exit mechanism
-  - Prices and quotes
-  - CP issuance decline
-  - Dealer placement
-  - Direct placement
-  - Rating requirements
-  - ABCP conduits
-  - Maturity structure
-  - Regulations and maturities
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+linter-yaml-title-alias: 'Class Note 12: Commercial Paper'
+tags:
+- bonds
+- convexity
+- corporate-bonds
+- correlation
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- fixed_income
+- hedging
+- mbs
+- options
+- risk-management
+- var
+title: 'Class Note 12: Commercial Paper'
 ---
+
 
 # Class Note 12: Commercial Paper
 ## Commercial Paper

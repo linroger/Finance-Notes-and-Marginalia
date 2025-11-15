@@ -1,23 +1,47 @@
 ---
-title: US Debt Crisis and Adjustment 1928-1937
-cssclasses: academia
-tags:
-  - bubble_economy
-  - deflationary_deleveraging
-  - economic_history
-  - great_depression
-  - us_debt_crisis
 aliases:
-  - 1928-1937 Debt Crisis
-  - Debt Cycle
-  - Great Depression
-  - US Debt Crisis
+- 1928-1937 Debt Crisis
+- Debt Cycle
+- Great Depression
+- US Debt Crisis
+cssclasses: academia
 key_concepts:
-  - Deflationary deleveraging example
-  - Great Depression details
-  - Stock market bubble
-  - Technology-led growth
-  - US debt cycle
+- Deflationary deleveraging example
+- Great Depression details
+- Stock market bubble
+- Technology-led growth
+- US debt cycle
+- Equity valuation and analysis
+- Dividend discount models
+- Credit risk modeling
+- Default probability estimation
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+tags:
+- equity
+- portfolio-theory
+- credit
+- us_debt_crisis
+- fx
+- trading
+- deflationary_deleveraging
+- bonds
+- commodities
+- economic_history
+- cds
+- options
+- portfolio
+- great_depression
+- bubble_economy
+title: US Debt Crisis and Adjustment 1928-1937
 ---
 
 # US Debt Crisis and Adjustment 1928-1937

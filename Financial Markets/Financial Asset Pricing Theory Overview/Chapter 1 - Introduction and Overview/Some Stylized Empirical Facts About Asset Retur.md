@@ -1,19 +1,20 @@
 ---
 tags:
-  - arithmetic_average
-  - asset_returns
-  - empirical_facts
-  - geometric_average
-  - real_returns
+- bonds
+- correlation
+- credit-risk
+- delta
+- derivatives-pricing
+- fixed_income
+- risk-management
+- var
 aliases:
-  - Asset Return Facts
-  - Empirical Findings
+- Asset Return Facts
+- Empirical Findings
 key_concepts:
-  - Arithmetic Average Return
-  - Asset Returns
-  - Geometric Average Return
-  - Real Stock Return
-  - Treasury Bill Return
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Options Greeks and sensitivity analysis
 ---
 
 # 1.3 Some stylized empirical facts about asset returns  

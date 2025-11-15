@@ -1,40 +1,67 @@
 ---
-cssclasses: academia
-title: "HBS Case Study: Dollar General Going Private"
-date: 2023-10-15
-tags:
-  - dollar_general
-  - going_private
-  - kkr_acquisition
-  - private_equity
-  - leveraged_buyout
-  - shareholder_lawsuit
-  - fiduciary_duty
-  - management_buyout
-  - deep_discount_retail
-  - valuation_premium
-  - regulatory_capital
-  - 2005_sec_settlement
-  - lbo_market_2007
-  - shareholder_rights
-  - retail_industry
 aliases:
-  - Dollar General KKR LBO Case
-  - DG Going Private 2007
-  - Dollar General $6.9B Buyout
-  - Perdue Dollar General Case
+- Dollar General KKR LBO Case
+- DG Going Private 2007
+- Dollar General $6.9B Buyout
+- Perdue Dollar General Case
+cssclasses: academia
+date: 2023-10-15
 key_concepts:
-  - LBO by KKR: $6.9 billion buyout at $22/share
-  - Fiduciary duty: Directors' obligations to shareholders
-  - Premium offered: 31.1% above closing price
-  - Shareholder lawsuit: Claim of grossly inadequate price
-  - Deep-discount retail: Dollar store industry dynamics
-  - SEC settlement 2005: Accounting restatements and penalties
-  - Packaway inventory model: Strategic shift in merchandising
-  - Management interests: CEO realizes $28 million
-  - Real estate strategy: Store closures and remodels
-  - No-shop provision: $225 million termination fee
+- LBO by KKR: $6.9 billion buyout at $22/share
+- Fiduciary duty: Directors' obligations to shareholders
+- Premium offered: 31.1% above closing price
+- Shareholder lawsuit: Claim of grossly inadequate price
+- Deep-discount retail: Dollar store industry dynamics
+- SEC settlement 2005: Accounting restatements and penalties
+- Packaway inventory model: Strategic shift in merchandising
+- Management interests: CEO realizes $28 million
+- Real estate strategy: Store closures and remodels
+- No-shop provision: $225 million termination fee
+- private equity transactions
+- capital markets and issuance
+- Generally Accepted Accounting Principles
+- consolidation accounting principles
+- fair value measurement and hierarchy
+- high yield debt and default risk
+- Risk-neutral pricing methodology for derivative securities
+- DV01 calculation and interest rate risk hedging
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk migration matrices and rating transition
+- Value-at-Risk calculation using historical simulation
+- Expected Shortfall and coherent risk measures
+- Backtesting procedures for risk models
+- Extreme value theory and tail risk modeling
+- Liquidity risk measurement and management
+- Operational risk quantification and modeling
+- Systemic risk indicators and early warning systems
+- Mean-variance optimization and the efficient frontier
+- Risk budgeting and portfolio construction techniques
+- Net interest margin analysis and banking profitability
+tags:
+- accounting-standards
+- audit
+- balance-sheet
+- banking
+- capital-structure
+- corporate-governance
+- depreciation
+- enterprise-value
+- financial-accounting
+- financial-ratios
+- gaap
+- hedge-funds
+- impairment
+- income-statement
+- ipos
+- lbo
+- leveraged-buyout
+- net-income
+- private-equity
+- real-estate
+title: 'HBS Case Study: Dollar General Going Private'
 ---
+
+
 
 # Dollar General Going Private
 

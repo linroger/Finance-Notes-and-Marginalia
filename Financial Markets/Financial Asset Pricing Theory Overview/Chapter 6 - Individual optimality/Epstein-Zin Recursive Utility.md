@@ -1,20 +1,15 @@
 ---
 tags:
-  - consumption_choice
-  - epstein_zin_utility
-  - portfolio_choice
-  - recursive_utility
-  - state_price_deflator
+- apt
+- derivatives-pricing
+- gamma
+- theta
 aliases:
-  - Derived utility
-  - EZ utility
-  - Indirect utility
+- Derived utility
+- EZ utility
+- Indirect utility
 key_concepts:
-  - Epstein-Zin preferences
-  - Indirect utility
-  - Relative risk aversion
-  - Subjective discount factor
-  - Wealth dynamics
+- Options Greeks and sensitivity analysis
 ---
 
 # 6.6 Epstein-Zin recursive utility  

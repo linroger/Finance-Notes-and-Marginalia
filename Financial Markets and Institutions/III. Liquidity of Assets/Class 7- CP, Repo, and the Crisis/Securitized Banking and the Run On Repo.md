@@ -1,24 +1,45 @@
 ---
-cssclasses:
-  - academia
-title: Securitized Banking and the Run On Repo
-tags:
-  - bank_solvency
-  - credit_spreads
-  - financial_crisis
-  - repo_market
-  - securitized_banking
 aliases:
-  - Repurchase Agreements
-  - Run on Repo
-  - Securitized Banking
+- Repurchase Agreements
+- Run on Repo
+- Securitized Banking
+cssclasses:
+- academia
 key_concepts:
-  - Bank solvency concerns
-  - Credit spread correlation
-  - Run on repo market
-  - Securitization and finance
-  - Systemic bank run
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Ito's lemma and stochastic calculus applications
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- abs
+- arbitrage
+- bonds
+- cds
+- convexity
+- correlation
+- counterparty-risk
+- credit-risk
+- credit-spreads
+- delta
+- derivatives-pricing
+- duration
+- fixed_income
+- hedging
+- mbs
+- options
+- repo-markets
+- risk-management
+- swaps
+title: Securitized Banking and the Run On Repo
 ---
+
 
 # Securitized Banking and the Run On Repo
 

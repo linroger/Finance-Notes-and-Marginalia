@@ -1,19 +1,25 @@
 ---
 tags:
-  - consumption_based_model
-  - factor_models
-  - intertemporal_capm
-  - market_portfolio
-  - theoretical_factors
+- apt
+- brownian-motion
+- capm
+- correlation
+- credit-risk
+- delta
+- derivatives-pricing
+- hedging
+- options
+- risk-management
+- var
 aliases:
-  - Intertemporal CAPM
-  - Theoretical Factors
+- Intertemporal CAPM
+- Theoretical Factors
 key_concepts:
-  - Expected excess return
-  - Market price of risk
-  - Optimal consumption plan
-  - Representative individual wealth
-  - State-price deflator dynamics
+- Ito's lemma and stochastic calculus applications
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
 ---
 
 # 9.7 Theoretical factors  

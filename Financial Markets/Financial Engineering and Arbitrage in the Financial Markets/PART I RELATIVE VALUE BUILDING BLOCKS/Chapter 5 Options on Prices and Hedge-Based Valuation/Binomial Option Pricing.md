@@ -1,20 +1,45 @@
 ---
-tags:
-  - american_option
-  - binomial_option_pricing
-  - european_option
-  - option_payoff
-  - option_pricing
 aliases:
-  - Binomial Model
-  - Option Premium
-  - Payoff Manufacturing
+- Binomial Model
+- Option Premium
+- Payoff Manufacturing
 key_concepts:
-  - Binomial tree examples
-  - Dealer's cost of manufacturing
-  - Hedge ratio calculation
-  - Payoff manufacturing mechanics
-  - Risk-neutral probability
+- Binomial tree examples
+- Dealer's cost of manufacturing
+- Hedge ratio calculation
+- Payoff manufacturing mechanics
+- Risk-neutral probability
+- Equity valuation and analysis
+- Dividend discount models
+- Market microstructure and trading
+- Liquidity and price discovery
+- Option sensitivity analysis
+- Delta, gamma, vega, theta, rho
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Derivatives pricing theory
+tags:
+- equity
+- greeks
+- cds
+- option_pricing
+- mathematical-finance
+- binomial
+- interest_rates
+- option_payoff
+- trading
+- bonds
+- futures
+- derivatives
+- options
+- binomial_option_pricing
+- european_option
 ---
 
 # 5.6  BINOMIAL OPTION PRICING  

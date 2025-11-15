@@ -1,22 +1,46 @@
 ---
-tags:
-  - adjustable_rate_mortgages
-  - arm_features
-  - hybrid_arm
-  - interest_rate_risk
-  - mortgage_rates
 aliases:
-  - ARM
-  - ARMs
-  - Adjustable Rate Mortgages
-  - Hybrid ARM
+- ARM
+- ARMs
+- Adjustable Rate Mortgages
+- Hybrid ARM
 key_concepts:
-  - 5/1 hybrid ARM
-  - Adjustable mortgage interest rate
-  - Cap structure limits
-  - Homeowners interest rate risk
-  - Lower initial interest rates
-  - Mortgage rate reset
+- 5/1 hybrid ARM
+- Adjustable mortgage interest rate
+- Cap structure limits
+- Homeowners interest rate risk
+- Lower initial interest rates
+- Mortgage rate reset
+- Equity valuation and analysis
+- Dividend discount models
+- Fixed income securities
+- Interest rate derivatives
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Value at risk and stress testing
+- Portfolio risk metrics
+tags:
+- equity
+- hybrid_arm
+- valuation
+- fixed_income
+- bonds
+- futures
+- cds
+- arm_features
+- options
+- risk_management
+- structured_finance
+- interest_rate_risk
+- mortgage_rates
+- adjustable_rate_mortgages
+- interest_rates
 ---
 
 # 15.3 ADJUSTABLE-RATE MORTGAGES  

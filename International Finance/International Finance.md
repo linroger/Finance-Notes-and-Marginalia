@@ -1,42 +1,50 @@
 ---
-cssclasses:
-  - academia
-title: International Finance
-tags:
-  - currency_risk
-  - exchange_rates
-  - international_finance
-  - international_investments
-  - balance_of_payments
-  - foreign_exchange_markets
-  - international_capital_flows
-  - exchange_rate_policy
-  - international_monetary_system
-  - global_financial_crisis
-  - currency_hedging
-  - international_trade
 aliases:
-  - Intl Finance
-  - International Financial Markets
-  - Global Finance
-  - International Money and Finance
+- Intl Finance
+- International Financial Markets
+- Global Finance
+- International Money and Finance
+cssclasses:
+- academia
 key_concepts:
-  - Currency exchange risk
-  - Exchange rate determination
-  - Global financial markets
-  - International capital flows
-  - International trade
-  - Balance of payments accounting
-  - Foreign exchange market structure
-  - Interest rate parity conditions
-  - Eurocurrency markets
-  - International reserve management
-  - Financial globalization
-  - Exchange rate regimes
-  - International financial crises
-  - Currency speculation
-  - Global imbalances
+- Currency exchange risk
+- Exchange rate determination
+- Global financial markets
+- International capital flows
+- International trade
+- Balance of payments accounting
+- Foreign exchange market structure
+- Interest rate parity conditions
+- Eurocurrency markets
+- International reserve management
+- Financial globalization
+- Exchange rate regimes
+- International financial crises
+- Currency speculation
+- Global imbalances
+- Fixed income securities
+- Interest rate derivatives
+- Foreign exchange markets
+- Currency derivatives
+- Bond pricing and yield analysis
 linter-yaml-title-alias: International Finance
+tags:
+- foreign_exchange_markets
+- regulatory-framework
+- currency_hedging
+- international_capital_flows
+- fixed_income
+- fx
+- bonds
+- international_finance
+- balance_of_payments
+- international_monetary_system
+- options
+- exchange_rates
+- currency_risk
+- exchange_rate_policy
+- international_trade
+title: International Finance
 ---
 
 # International Finance

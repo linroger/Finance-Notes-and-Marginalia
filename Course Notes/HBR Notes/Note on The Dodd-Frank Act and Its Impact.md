@@ -1,21 +1,124 @@
 ---
 Owner: RRoger Lin
-tags:
-  - dodd_frank_act
-  - financial_crisis
-  - financial_institutions
-  - financial_stability
-  - regulatory_reform
 aliases:
-  - Dodd-Frank
-  - Financial Reform
-  - Wall Street Reform Act
+- Dodd-Frank
+- Financial Reform
+- Wall Street Reform Act
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-c623ce
 key_concepts:
-  - Financial crisis impact
-  - Financial stability oversight
-  - Prudential standards
-  - Regulatory reform goals
-  - Systemic risk reduction
+- Apt
+- Liquidity coverage ratio and net stable funding ratio
+- Cox-Ross-Rubinstein parameter specification
+- Extensions to multi-factor CAPM models
+- regulatory capital requirements and buffers
+- Duration and convexity analysis for bond portfolio management
+- Active portfolio management and performance attribution
+- Stress testing and supervisory review processes
+- Computational implementation of binomial option pricing
+- Collateralized Debt Obligations
+- Commodity markets and pricing dynamics
+- Capital Asset Pricing Model and beta estimation
+- Risk budgeting and portfolio construction techniques
+- Capital Asset Pricing Model and expected returns
+- Basel III capital and liquidity standards
+- Systemic risk reduction
+- Leverage ratio and large exposures
+- systemically important institution designation
+- Government bailout mechanisms and market interventions
+- tranche structure in structured finance
+- Swap spread and credit risk considerations
+- Prudential standards
+- Mathematical Finance
+- 2008 financial crisis and systemic risk analysis
+- GARCH models and volatility forecasting
+- Financial stability oversight
+- Financial crisis impact
+- Fixed-for-floating swap cash flows and valuation
+- Arbitrage Pricing Theory and multifactor models
+- Course Material
+- Risk-weighted assets and capital adequacy ratios
+- Security Market Line and beta measurement
+- Case Study
+- Net interest margin analysis and banking profitability
+- Interest rate swap pricing and valuation
+- Basel III regulatory framework and capital requirements
+- ESG integration in portfolio management
+- investment grade bonds and ratings
+- Variance swaps and volatility trading strategies
+- Convergence of binomial model to Black-Scholes solution
+- fair value measurement and hierarchy
+- deposit insurance and protection systems
+- Tier 2 capital and supplementary requirements
+- Federal Deposit Insurance Corporation
+- Delta hedging strategies in options portfolio management
+- Binomial option pricing model with multiple time steps
+- asset transformation and structured finance
+- financial stability and contagion analysis
+- Regulatory reform goals
+- American option pricing in binomial trees
+- Capital Structure
+- Credit risk modeling and portfolio correlation analysis
+- Tier 1 capital and core equity requirements
+- Credit risk assessment and loan portfolio management
+- Cross-currency basis swaps and funding
+- Dodd-Frank Act regulatory reforms
+- banking regulation and capital adequacy
+- Market portfolio and risk-free rate assumptions
+- alternative investment strategies
+- Empirical tests and anomalies in CAPM
+tags:
+- basel-iii
+- binomial-model
+- commodities
+- too-big-to-fail
+- bailouts
+- 2008-financial-crisis
+- bank-regulation
+- capm
+- case-study
+- apt
+- bailout
+- value-at-risk
+- factor-models
+- credit-risk
+- duration-convexity
+- solution
+- private-equity
+- banking
+- financial-crisis
+- corporate-bonds
+- deposit-insurance
+- tarp
+- basel
+- municipal-bonds
+- risk-management
+- collateralized-debt-obligations
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- balance-sheet
+- course-material
+- capital-structure
+- rating-agencies
+- lehman-brothers
+- greeks
+- high-yield-bonds
+- tier-1-capital
+- exchange-rates
+- hedge-funds
+- leveraged-buyouts
+- quantitative-implementation
+- treasury-bonds
+- securitization
+- stress-testing
+- systemic-risk
+- distressed-debt
+- mbs-cmos
+- fsoc
+- harvard-business-review
+- volcker-rule
 ---
 
 # Note on The Dodd-Frank Act and Its Impact

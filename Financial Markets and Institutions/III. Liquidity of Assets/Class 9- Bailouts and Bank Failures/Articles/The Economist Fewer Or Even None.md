@@ -1,20 +1,18 @@
 ---
-title: The Economist Fewer Or Even None
-tags:
-  - economic_policy
-  - economist
-  - financial_crisis
-  - market_analysis
-  - publication
 aliases:
-  - Economist article
-  - The Economist
+- Economist article
+- The Economist
 key_concepts:
-  - Economic impact
-  - Financial markets
-  - Global economy
-  - Market analysis
-  - Policy implications
+- Term structure of interest rates and yield curve modeling
+- Credit risk modeling and default probability estimation
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+tags:
+- arbitrage
+- hedging
+- risk-management
+title: The Economist Fewer Or Even None
 ---
+
 
 # The Economist Fewer Or Even None

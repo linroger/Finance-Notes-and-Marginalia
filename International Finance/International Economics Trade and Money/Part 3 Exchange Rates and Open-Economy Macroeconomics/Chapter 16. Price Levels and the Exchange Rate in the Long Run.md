@@ -1,3 +1,26 @@
+---
+key_concepts:
+- Foreign exchange markets
+- Currency derivatives
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Structured products and CDOs
+- Credit derivatives
+- Interest rate modeling
+- Term structure of interest rates
+tags:
+- regulatory-framework
+- futures
+- options
+- structured_finance
+- fx
+- bonds
+- interest_rates
+---
 # CHAPTER 16  
 
 # Price Levels and the Exchange Rate in the Long Run  

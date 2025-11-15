@@ -1,23 +1,109 @@
 ---
 Owner: RRoger Lin
-title: HBR Case StudyLTCM
-tags:
-  - financial_crisis
-  - hbr_case_study
-  - hedge_fund
-  - ltcm_meltdown
-  - market_risk
-  - russian_default
 aliases:
-  - LTCM Case
-  - Long-Term Capital Management
-  - Meriwether Fund
+- LTCM Case
+- Long-Term Capital Management
+- Meriwether Fund
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-e54aa9
 key_concepts:
-  - Financial institution exposure
-  - Market judgement
-  - Meriwether's hedge fund
-  - Quantitative models
-  - Russian sovereign default
+- Apt
+- Cox-Ross-Rubinstein parameter specification
+- Meriwether's hedge fund
+- Extensions to multi-factor CAPM models
+- Duration and convexity analysis for bond portfolio management
+- Active portfolio management and performance attribution
+- Computational implementation of binomial option pricing
+- Collateralized Debt Obligations
+- Market risk measurement and portfolio volatility
+- Option Greeks and portfolio risk management
+- Commodity markets and pricing dynamics
+- Capital Asset Pricing Model and beta estimation
+- Risk budgeting and portfolio construction techniques
+- Financial institution exposure
+- Market judgement
+- Capital Asset Pricing Model and expected returns
+- Vega and volatility risk management
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- Shadow Banking
+- Quantitative models
+- Fixed-for-floating swap cash flows and valuation
+- Arbitrage Pricing Theory and multifactor models
+- Course Material
+- Security Market Line and beta measurement
+- International arbitrage and covered interest rate parity
+- Case Study
+- Arbitrage opportunities and risk-free profit extraction
+- Interest rate swap pricing and valuation
+- ESG integration in portfolio management
+- Variance swaps and volatility trading strategies
+- Liquidity crisis and market dysfunction
+- Convergence of binomial model to Black-Scholes solution
+- fair value measurement and hierarchy
+- regulatory stress testing and risk assessment
+- Binomial option pricing model with multiple time steps
+- Delta hedging strategies in options portfolio management
+- financial stability and contagion analysis
+- Shadow banking system and regulatory arbitrage
+- American option pricing in binomial trees
+- Gamma and convexity adjustments
+- Capital Structure
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Delta hedging and the replication argument
+- Cross-currency basis swaps and funding
+- Currency hedging strategies for global portfolios
+- liquidity measurement and management
+- Market portfolio and risk-free rate assumptions
+- alternative investment strategies
+- Russian sovereign default
+- Empirical tests and anomalies in CAPM
+tags:
+- binomial-model
+- commodities
+- liquidity-crisis
+- market_risk
+- capm
+- case-study
+- apt
+- factor-models
+- credit-risk
+- duration-convexity
+- solution
+- investment-banking
+- financial_crisis
+- corporate-bonds
+- algorithmic-trading
+- hedge_fund
+- ltcm
+- risk-management
+- russian_default
+- collateralized-debt-obligations
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- balance-sheet
+- course-material
+- capital-structure
+- shadow-banking
+- market-risk
+- greeks
+- hedge-funds
+- sovereign-bonds
+- quantitative-implementation
+- hbr_case_study
+- treasury-bonds
+- stress-testing
+- arbitrage
+- liquidity-risk
+- systemic-risk
+- emerging-markets
+- harvard-business-review
+- ltcm_meltdown
+title: HBR Case StudyLTCM
 ---
 
 Long-Term Capital Management,  L.P. HBP]]

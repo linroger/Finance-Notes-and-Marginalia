@@ -1,22 +1,92 @@
 ---
-title: 'War Economies: An Overview'
-cssclasses: academia
-tags:
-  - debt_crises
-  - economic_conflicts
-  - geopolitical_cycles
-  - military_conflicts
-  - war_economy
 aliases:
-  - Economic Conflicts
-  - War Economics
-  - War and Economy
+- Economic Conflicts
+- War Economics
+- War and Economy
+cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-d7b3ef
 key_concepts:
-  - Consequences of war economies
-  - Dynamics of economic conflicts
-  - Economic and geopolitical cycles
-  - Long-term economic cycles
-  - War economy characteristics
+- Carry trades and momentum in FX markets
+- War economy characteristics
+- Credit risk modeling and default probability estimation
+- Option Greeks and portfolio risk management
+- Deleveraging cycles and balance sheet restructuring
+- Commodity markets and pricing dynamics
+- Currency derivatives
+- Historical simulation vs. parametric VaR models
+- Default probability estimation
+- Vega and volatility risk management
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- Foreign exchange markets
+- Liquidity and price discovery
+- Monte Carlo VaR for complex portfolios
+- Stress testing and scenario analysis
+- Fixed-for-floating swap cash flows and valuation
+- Economic and geopolitical cycles
+- Course Material
+- Currency risk management and hedging
+- Forward rates and interest rate parity
+- Value at Risk (VaR) methodologies and backtesting
+- Theta and time decay modeling
+- Consequences of war economies
+- Dynamics of economic conflicts
+- Case Study
+- Exchange rate determination and PPP theory
+- Balance Of Payments
+- Interest rate swap pricing and valuation
+- Expected Shortfall and coherent risk measures
+- Market microstructure and trading
+- Variance swaps and volatility trading strategies
+- Liquidity crisis and market dysfunction
+- Credit exposure measurement and EAD
+- Bond pricing and yield analysis
+- Gamma and convexity adjustments
+- Long-term economic cycles
+- Delta hedging and the replication argument
+- Credit risk modeling
+- Cross-currency basis swaps and funding
+- Delta hedging and Greeks
+- Duration and convexity
+- Options pricing and payoff structures
+- Currency markets and foreign exchange trading
+tags:
+- fx
+- commodities
+- liquidity-crisis
+- balance-of-payments
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- trading
+- course-material
+- case-study
+- bonds
+- greeks
+- value-at-risk
+- exchange-rates
+- deleveraging
+- options
+- credit-risk
+- quantitative-implementation
+- duration-convexity
+- solution
+- economic_conflicts
+- treasury-bonds
+- war_economy
+- military_conflicts
+- infrastructure
+- distressed-debt
+- credit
+- portfolio-theory
+- regulatory-framework
+- municipal-bonds
+- geopolitical_cycles
+- debt_crises
+title: 'War Economies: An Overview'
 ---
 
 # War Economies: An Overview

@@ -1,22 +1,92 @@
 ---
-tags:
-  - delta_hedging
-  - dynamic_hedging
-  - european_call
-  - greeks
-  - options_portfolio
-  - stock_price
 aliases:
-  - Call Option Delta
-  - Delta Hedging
-  - Delta Neutral
+- Call Option Delta
+- Delta Hedging
+- Delta Neutral
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-ab0ed7
 key_concepts:
-  - Call option premium
-  - Delta hedging
-  - Dynamic delta hedging
-  - Hedge ratio
-  - Rebalancing stock-call portfolio
+- Apt
+- Extensions to multi-factor CAPM models
+- Monte Carlo simulation techniques for path-dependent options
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Option Greeks and portfolio risk management
+- maturity date in CDS
+- Commodity markets and pricing dynamics
+- Capital Asset Pricing Model and expected returns
+- Mathematical derivation of the Black-Scholes partial differential equation
+- Credit spread decomposition and hazard rates
+- Vega and volatility risk management
+- CDS clearing and central counterparties
+- forward commitments and hedging
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- Monte Carlo integration and variance reduction
+- option sensitivity analysis and hedging
+- Fixed-for-floating swap cash flows and valuation
+- Security Market Line and beta measurement
+- Delta hedging
+- Theta and time decay modeling
+- Dynamic delta hedging
+- Case Study
+- Interest rate swap pricing and valuation
+- excess returns and manager skill
+- Credit default swap pricing and risk-neutral probabilities
+- Risk-neutral valuation in continuous time models
+- Variance swaps and volatility trading strategies
+- systematic risk and market exposure
+- Boundary conditions and parameter interpretation in Black-Scholes model
+- Limitations and extensions of the Black-Scholes framework
+- Value-at-Risk calculation using historical simulation
+- Call option premium
+- Financial markets and instruments
+- Gamma and convexity adjustments
+- Delta hedging and the replication argument
+- Hedge ratio
+- Cross-currency basis swaps and funding
+- Black-Scholes-Merton option pricing model and its applications
+- Market portfolio and risk-free rate assumptions
+- alternative investment strategies
+- Rebalancing stock-call portfolio
+- Empirical tests and anomalies in CAPM
+tags:
+- options_portfolio
+- commodities
+- credit-default-swaps
+- delta_hedging
+- collateralized-debt-obligations
+- interest-rate-swaps
+- call-options
+- mathematical-finance
+- capm
+- case-study
+- apt
+- greeks
+- black-scholes-model
+- value-at-risk
+- put-options
+- stock_price
+- exchange-rates
+- hedge-funds
+- heston-model
+- european-options
+- quantitative-implementation
+- solution
+- american-options
+- exchange-rate
+- investment-banking
+- european_call
+- stochastic-volatility
+- delta-hedging
+- implied-volatility
+- dynamic_hedging
+- futures-markets
+- monte-carlo
 ---
+
 # THE GREEKS  
 
 # Delta Hedging  

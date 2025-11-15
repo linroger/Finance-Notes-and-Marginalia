@@ -1,21 +1,60 @@
 ---
-title: Forward Contracts on Exchange Rates
-tags:
-  - arbitrage
-  - currency_risk
-  - exchange_rates
-  - forward_contracts
-  - interest_rates
 aliases:
-  - Currency Forwards
-  - FX Forwards
-  - Forward FX Contracts
+- Currency Forwards
+- FX Forwards
+- Forward FX Contracts
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-000b76
 key_concepts:
-  - Arbitrage strategy
-  - Forward rate definition
-  - Interest rate differential
-  - Short forward contract
-  - Spot exchange rate
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Monte Carlo simulation for derivatives valuation
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Volatility smile, skew, and surface modeling
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- apt
+- arbitrage
+- binomial
+- bonds
+- cds
+- commodities
+- convexity
+- credit-default-swaps
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- factor-models
+- fixed_income
+- forwards
+- futures
+- fx
+- gamma
+- greeks
+- hedging
+- implied-volatility
+- interest-rate-swaps
+- monte-carlo
+- options
+- replication
+- risk-management
+- risk-neutral
+- swaps
+- theta
+- var
+- vega
+- yield-curve
+title: Forward Contracts on Exchange Rates
 ---
 
 Foreign Exchange Quoting Conventions

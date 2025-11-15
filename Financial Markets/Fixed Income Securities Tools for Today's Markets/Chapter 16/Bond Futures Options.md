@@ -1,19 +1,44 @@
 ---
-tags:
-  - american_futures_options
-  - bond_futures
-  - bond_futures_options
-  - bsm_model
-  - term_structure_model
 aliases:
-  - Bond Futures Options
-  - Futures Options
+- Bond Futures Options
+- Futures Options
 key_concepts:
-  - BSM approach
-  - Bond futures options
-  - Early exercise
-  - European option
-  - Term structure models
+- BSM approach
+- Bond futures options
+- Early exercise
+- European option
+- Term structure models
+- Equity valuation and analysis
+- Dividend discount models
+- Fixed income securities
+- Interest rate derivatives
+- Option sensitivity analysis
+- Delta, gamma, vega, theta, rho
+- Bond pricing and yield analysis
+- Duration and convexity
+- Black-Scholes option pricing model
+- Continuous-time finance
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Interest rate modeling
+tags:
+- bond_futures_options
+- equity
+- bsm_model
+- fixed_income
+- bond_futures
+- greeks
+- bonds
+- black_scholes
+- volatility
+- futures
+- mathematical-finance
+- options
+- american_futures_options
+- interest_rates
+- term_structure_model
 ---
 
 # 16.3 BOND FUTURES OPTIONS  

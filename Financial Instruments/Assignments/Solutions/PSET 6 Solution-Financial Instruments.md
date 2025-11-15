@@ -1,21 +1,58 @@
 ---
-linter-yaml-title-alias: Solution to Homework 6
-title: Solution to Homework 6
-tags:
-  - black_scholes_merton
-  - call_option
-  - implied_volatility
-  - sp500
-  - structured_security
 aliases:
-  - BMS implied volatility
-  - Homework 6 Solution
+- BMS implied volatility
+- Homework 6 Solution
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-f89657
 key_concepts:
-  - Black-Scholes model
-  - Implied volatility calculation
-  - Option pricing
-  - PLUS security payoff
-  - Structured security valuation
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Monte Carlo simulation for derivatives valuation
+- Partial differential equations in financial modeling
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility smile, skew, and surface modeling
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+linter-yaml-title-alias: Solution to Homework 6
+tags:
+- binomial
+- black-scholes
+- bonds
+- capm
+- cds
+- commodities
+- convexity
+- credit-default-swaps
+- credit-risk
+- delta
+- derivatives-pricing
+- exotic-options
+- fixed_income
+- futures
+- gamma
+- greeks
+- hedging
+- implied-volatility
+- interest-rate-swaps
+- monte-carlo
+- options
+- pde
+- replication
+- risk-management
+- risk-neutral
+- swaps
+- theta
+- var
+- vega
+title: Solution to Homework 6
 ---
 
 # Solution to Homework 6

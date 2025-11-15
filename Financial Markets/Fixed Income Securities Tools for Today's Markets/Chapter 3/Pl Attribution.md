@@ -1,24 +1,45 @@
 ---
-tags:
-  - bond_investing
-  - carry_roll_down
-  - interest_rates
-  - p_and_l_attribution
-  - term_structure
 aliases:
-  - P&L Breakdown
-  - Profit and Loss Attribution
-  - Return Attribution
+- P&L Breakdown
+- Profit and Loss Attribution
+- Return Attribution
 key_concepts:
-  - Attribution reports
-  - Cash carry
-  - Changes in rates
-  - Changes in spreads
-  - Coupon income
-  - Financing arrangements
-  - Forward loan example
-  - P&L component parts
-  - Term structure scenario
+- Attribution reports
+- Cash carry
+- Changes in rates
+- Changes in spreads
+- Coupon income
+- Financing arrangements
+- Forward loan example
+- P&L component parts
+- Term structure scenario
+- Fixed income securities
+- Interest rate derivatives
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Credit default swaps and credit risk
+tags:
+- term_structure
+- cds
+- hedge_funds
+- bond_investing
+- interest_rates
+- portfolio-theory
+- valuation
+- fixed_income
+- fx
+- p_and_l_attribution
+- trading
+- bonds
+- futures
+- derivatives
+- options
 ---
 
 # 3.8 P&L ATTRIBUTION  

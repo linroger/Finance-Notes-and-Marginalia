@@ -1,3 +1,33 @@
+---
+key_concepts:
+- interest rate and currency derivatives
+- forward commitments and hedging
+- delivery date in CDS settlement
+- value date in CDS
+- spot date in CDS
+- Financial markets and instruments
+- Quantitative analysis and modeling
+- Risk assessment and management
+- Portfolio optimization and asset allocation
+- Derivatives pricing and hedging strategies
+- Fixed income analysis and term structure
+- Credit risk modeling and default analysis
+- Financial regulation and compliance
+- Market efficiency and arbitrage pricing
+- Corporate finance and valuation methods
+- interest rate and currency derivatives
+- forward commitments and hedging
+- delivery date in CDS settlement
+- value date in CDS
+- spot date in CDS
+tags:
+- currency-risk
+- exchange-rate
+- financial-analysis
+- financial-modeling
+- quantitative-finance
+---
+
  
 source: https://www.investopedia.com/terms/o/outright-forward.asp
 description: An outright forward, or currency forward, is a currency contract that

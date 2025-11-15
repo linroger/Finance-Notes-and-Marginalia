@@ -1,39 +1,71 @@
 ---
-cssclasses:
-  - academia
-linter-yaml-title-alias: PSET 2 - GROUP ASSIGNMENT
-title: PSET 2 - GROUP ASSIGNMENT
-tags:
-  - deep_discount_retail
-  - dollar_general
-  - financial_performance
-  - market_share
-  - profit_margins
-  - busn_30131
-  - advanced_financial_analysis
-  - valuation
-  - LBO_analysis
-  - KKR_acquisition
-  - pro_forma_statements
-  - EV_EBITDA_multiple
 aliases:
-  - BUSN 30131
-  - Dollar General Analysis
-  - Group 13
-  - PSET 2
-  - BUSN 30131 Problem Set 2
-  - Dollar General Valuation Assignment
-  - KKR Offer Evaluation
+- BUSN 30131
+- Dollar General Analysis
+- Group 13
+- PSET 2
+- BUSN 30131 Problem Set 2
+- Dollar General Valuation Assignment
+- KKR Offer Evaluation
+cssclasses:
+- academia
 key_concepts:
-  - costs_of_goods_sold: Analysis of COGS growth outpacing revenue
-  - declining_profit_margins: FY2007 margin compression from 4.1% to 1.5%
-  - deep_discount_market_share: Dollar General's 25% market share
-  - dollar_general_performance: Strategic overhaul impacts on financials
-  - higher_profit_margins: Dollar Tree's superior margins 5.1% vs 4.1%
-  - inventory_impairment: $70.2 million charge in FY2006
-  - strategic_restructuring: Store closures and remodeling initiatives
-  - EV_EBITDA_valuation: KKR offer at 17.2x vs industry 10.7x multiple
+- costs_of_goods_sold: Analysis of COGS growth outpacing revenue
+- declining_profit_margins: FY2007 margin compression from 4.1% to 1.5%
+- deep_discount_market_share: Dollar General's 25% market share
+- dollar_general_performance: Strategic overhaul impacts on financials
+- higher_profit_margins: Dollar Tree's superior margins 5.1% vs 4.1%
+- inventory_impairment: $70.2 million charge in FY2006
+- strategic_restructuring: Store closures and remodeling initiatives
+- EV_EBITDA_valuation: KKR offer at 17.2x vs industry 10.7x multiple
+- gross margin in loan structures
+- Risk-neutral pricing methodology for derivative securities
+- DV01 calculation and interest rate risk hedging
+- Reduced-form models and intensity-based approaches
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk migration matrices and rating transition
+- Value-at-Risk calculation using historical simulation
+- Expected Shortfall and coherent risk measures
+- Backtesting procedures for risk models
+- Extreme value theory and tail risk modeling
+- Liquidity risk measurement and management
+- Operational risk quantification and modeling
+- Systemic risk indicators and early warning systems
+- Mean-variance optimization and the efficient frontier
+- Risk budgeting and portfolio construction techniques
+- Leveraged buyout financial modeling and returns
+- Capital structure theory and optimal debt levels
+- Commercial bank business model and revenue streams
+- Credit risk assessment and loan portfolio management
+- Bank liquidity ratios and funding risk management
+- Deposit insurance and systemic risk prevention
+- Arbitrage opportunities and risk-free profit extraction
+linter-yaml-title-alias: PSET 2 - GROUP ASSIGNMENT
+tags:
+- EV_EBITDA_multiple
+- KKR_acquisition
+- LBO_analysis
+- busn_30131
+- deep_discount_retail
+- ebitda
+- ebitda-multiple
+- ev
+- impairment
+- income-statement
+- market_share
+- net-income
+- pro_forma_statements
+- profit_margins
+- profitability-ratios
+- real-estate
+- return-on-equity
+- roa
+- roe
+- valuation
+title: PSET 2 - GROUP ASSIGNMENT
 ---
+
+
 
 # PSET 2 - Group Assignment
 

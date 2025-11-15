@@ -1,35 +1,81 @@
 ---
+aliases:
+- Goodwill Write-down
+- Intangible Amortization
+- M&A Accounting
+- Week 5 Recap
 cssclasses:
-  - academia
-title: Week 5 Accounting Recap - R&D, Intangibles, M&A & Goodwill
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-58e96c
+key_concepts:
+- Apt
+- Carry trades and momentum in FX markets
+- Fair value measurement in M&A
+- US Generally Accepted Accounting Principles
+- Kraft Heinz goodwill write-down case
+- Solution
+- After-tax cost of debt and capital structure
+- WACC for multinational corporations
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- Organic growth versus M&A growth accounting
+- Intangible asset amortization effects
+- Course Material
+- Currency risk management and hedging
+- Forward rates and interest rate parity
+- Case Study
+- Quantitative analysis and modeling
+- Exchange rate determination and PPP theory
+- Generally Accepted Accounting Principles
+- Cost of equity estimation using CAPM and other models
+- Weighted Average Cost of Capital calculation
+- R&D capitalization impact on profits
+- Market value weights vs. book value weights
+- fair value measurement and hierarchy
+- Acquisition accounting complexities
+- IFRS versus US GAAP R&D treatment
+- M&A purchase price allocation steps
+- Quantitative Implementation
+- Financial markets and instruments
+- Harvard Business Review
+- Currency markets and foreign exchange trading
+- Non-GAAP metrics and EBITA multiples
+- Goodwill impairment testing procedures
 linter-yaml-title-alias: Week 5 Accounting Recap - R&D, Intangibles, M&A & Goodwill
 tags:
-  - accounting_standards
-  - goodwill_impairment
-  - intangible_assets
-  - ma_accounting
-  - randd_expenses
-  - financial_reporting
-  - ifrs_vs_gaap
-  - pharmaceutical_accounting
-  - capitalization_policy
-  - non_gaap_metrics
-aliases:
-  - Goodwill Write-down
-  - Intangible Amortization
-  - M&A Accounting
-  - Week 5 Recap
-key_concepts:
-  - R&D capitalization impact on profits
-  - Goodwill impairment testing procedures
-  - M&A purchase price allocation steps
-  - Non-GAAP metrics and EBITA multiples
-  - Intangible asset amortization effects
-  - IFRS versus US GAAP R&D treatment
-  - Acquisition accounting complexities
-  - Organic growth versus M&A growth accounting
-  - Fair value measurement in M&A
-  - Kraft Heinz goodwill write-down case
+- ifrs
+- quantitative-implementation
+- solution
+- ebit
+- internal-controls
+- profitability-ratios
+- wacc
+- goodwill
+- ma_accounting
+- garch-models
+- mathematical-finance
+- balance-sheet
+- course-material
+- accounting_standards
+- cost-of-capital
+- financial_reporting
+- case-study
+- amortization
+- apt
+- impairment
+- intangible_assets
+- goodwill_impairment
+- ifrs_vs_gaap
+- gaap
+- capitalization_policy
+- pharmaceutical_accounting
+- randd_expenses
+- exchange-rates
+- harvard-business-review
+- non_gaap_metrics
+title: Week 5 Accounting Recap - R&D, Intangibles, M&A & Goodwill
 ---
 
 # Week 5 Accounting Recap - R&D, Intangibles, M&A & Goodwill

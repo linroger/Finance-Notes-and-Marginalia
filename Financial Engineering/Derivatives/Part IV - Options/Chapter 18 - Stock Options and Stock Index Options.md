@@ -1,23 +1,98 @@
 ---
-tags:
-  - dynamic_hedging
-  - protective_put
-  - ratio_spread
-  - stock_index_options
-  - stock_options
 aliases:
-  - Covered Call
-  - Options on Stocks
-  - Protective Put
-  - Ratio Spread
-  - Static Hedge
+- Covered Call
+- Options on Stocks
+- Protective Put
+- Ratio Spread
+- Static Hedge
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-55e9fe
 key_concepts:
-  - Dynamic delta hedging
-  - Mispriced options profit
-  - Protective put strategy
-  - Risk-free portfolio creation
-  - Stock options and indexes
+- Apt
+- Extensions to multi-factor CAPM models
+- Duration and convexity analysis for bond portfolio management
+- Active portfolio management and performance attribution
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Market risk measurement and portfolio volatility
+- Option Greeks and portfolio risk management
+- maturity date in CDS
+- Protective put strategy
+- Capital Asset Pricing Model and beta estimation
+- Risk budgeting and portfolio construction techniques
+- Commodity markets and pricing dynamics
+- Capital Asset Pricing Model and expected returns
+- Mathematical derivation of the Black-Scholes partial differential equation
+- Credit spread decomposition and hazard rates
+- Vega and volatility risk management
+- CDS clearing and central counterparties
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- Shadow Banking
+- Fixed-for-floating swap cash flows and valuation
+- Arbitrage Pricing Theory and multifactor models
+- Security Market Line and beta measurement
+- Theta and time decay modeling
+- International arbitrage and covered interest rate parity
+- Dynamic delta hedging
+- Case Study
+- Arbitrage opportunities and risk-free profit extraction
+- Interest rate swap pricing and valuation
+- Credit default swap pricing and risk-neutral probabilities
+- ESG integration in portfolio management
+- Variance swaps and volatility trading strategies
+- Mispriced options profit
+- Risk-free portfolio creation
+- Delta hedging strategies in options portfolio management
+- systematic risk and market exposure
+- Shadow banking system and regulatory arbitrage
+- Stock options and indexes
+- Gamma and convexity adjustments
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Delta hedging and the replication argument
+- Cross-currency basis swaps and funding
+- Currency hedging strategies for global portfolios
+- Black-Scholes-Merton option pricing model and its applications
+- Market portfolio and risk-free rate assumptions
+- Empirical tests and anomalies in CAPM
+tags:
+- commodities
+- credit-default-swaps
+- stock_index_options
+- stock_options
+- collateralized-debt-obligations
+- garch-models
+- interest-rate-swaps
+- call-options
+- mathematical-finance
+- capm
+- haircuts
+- shadow-banking
+- market-risk
+- case-study
+- apt
+- greeks
+- black-scholes-model
+- value-at-risk
+- put-options
+- factor-models
+- protective_put
+- credit-risk
+- european-options
+- duration-convexity
+- quantitative-implementation
+- ratio_spread
+- solution
+- american-options
+- arbitrage
+- delta-hedging
+- dynamic_hedging
 ---
+
 # Stock Options and Stock Index Options  
 
 # Aims  

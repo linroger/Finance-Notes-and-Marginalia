@@ -1,40 +1,67 @@
 ---
-cssclasses: academia
-title: "HBS Case Study: Blackstone and the Sale of Citigroup's Loan Portfolio"
-date: 2023-10-15
-tags:
-  - blackstone_citigroup_deal
-  - leveraged_loans
-  - financial_crisis_2008
-  - distressed_debt
-  - private_equity
-  - lbo_financing
-  - regulatory_capital
-  - gso_capital
-  - loan_portfolio_sale
-  - mark_to_market_risk
-  - collateralized_loans
-  - subprime_crisis
-  - bear_stearns_collapse
-  - margin_requirements
-  - cds_spreads
 aliases:
-  - Blackstone Citigroup Loan Deal 2008
-  - GSO Capital Loan Purchase
-  - Citigroup $6.1B Loan Sale
-  - Distressed Debt Opportunity 2008
+- Blackstone Citigroup Loan Deal 2008
+- GSO Capital Loan Purchase
+- Citigroup $6.1B Loan Sale
+- Distressed Debt Opportunity 2008
+cssclasses: academia
+date: 2023-10-15
 key_concepts:
-  - Loan portfolio: $6.11 billion face value at 83 cents on dollar
-  - Leverage: 75% non-recourse financing from Citigroup
-  - Margin call risk: If portfolio value falls below 66.4% of face
-  - Regulatory capital relief: 100% risk weight for leveraged loans
-  - Mark-to-market: LCDX at 92 cents, causing writedowns
-  - Default probabilities: CDS implied 20.82% vs historic 5.91%
-  - Recycling provision: Four-year reinvestment flexibility
-  - First lien security: 75% senior secured debt
-  - Timing uncertainty: Market bottom unknown
-  - Partnership structure: Blackstone and TPG joint venture
+- Loan portfolio: $6.11 billion face value at 83 cents on dollar
+- Leverage: 75% non-recourse financing from Citigroup
+- Margin call risk: If portfolio value falls below 66.4% of face
+- Regulatory capital relief: 100% risk weight for leveraged loans
+- Mark-to-market: LCDX at 92 cents, causing writedowns
+- Default probabilities: CDS implied 20.82% vs historic 5.91%
+- Recycling provision: Four-year reinvestment flexibility
+- First lien security: 75% senior secured debt
+- Timing uncertainty: Market bottom unknown
+- Partnership structure: Blackstone and TPG joint venture
+- credit risk transfer mechanisms
+- private equity transactions
+- asset transformation and structured finance
+- investment banking services and activities
+- regulatory capital requirements and buffers
+- fair value measurement and hierarchy
+- first lien security and collateral
+- first loss position in securitization
+- letter of credit credit support
+- par value in CDS settlement
+- Delta hedging strategies in options portfolio management
+- Duration and convexity analysis for bond portfolio management
+- Credit risk modeling and portfolio correlation analysis
+- Capital Asset Pricing Model and beta estimation
+- Active portfolio management and performance attribution
+- Risk budgeting and portfolio construction techniques
+- ESG integration in portfolio management
+- Net interest margin analysis and banking profitability
+- Credit risk assessment and loan portfolio management
+- Shadow banking system and regulatory arbitrage
+tags:
+- bank-regulation
+- banking
+- cds
+- cds-spread
+- collateralized-loan-obligations
+- collateralized_loans
+- default-probability
+- financial-reporting
+- fire-sales
+- hedge-funds
+- investment-banking
+- lbo
+- liquidity-creation
+- mark_to_market_risk
+- net-income
+- private-equity
+- real-estate
+- recovery-rate
+- securitization
+- subprime-mortgage
+title: 'HBS Case Study: Blackstone and the Sale of Citigroup''s Loan Portfolio'
 ---
+
+
 
 # Blackstone and the Sale of Citigroup's Loan Portfolio
 

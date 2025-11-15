@@ -1,3 +1,60 @@
+---
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-8a203f
+key_concepts:
+- Apt
+- investment banking services and activities
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Credit risk modeling and default probability estimation
+- Probability of default estimation from credit spreads
+- Credit spread analysis and OAS methodology
+- Solution
+- Credit portfolio diversification and concentration
+- Credit spread decomposition and hazard rates
+- Structural models of default and Merton formulation
+- CDS clearing and central counterparties
+- CDS-Bond basis and arbitrrage opportunities
+- Mathematical Finance
+- Credit default swap pricing and recovery assumptions
+- 'Structured products: CDOs, CLOs, and credit derivatives'
+- Shadow Banking
+- Synthetic credit derivatives and index trades
+- Case Study
+- Net interest margin analysis and banking profitability
+- Credit default swap pricing and risk-neutral probabilities
+- Credit exposure measurement and EAD
+- Wrong-way risk in derivative transactions
+- Credit intermediation and information asymmetry
+- International diversification and currency hedging
+- Shadow banking system and regulatory arbitrage
+- Quantitative Implementation
+- Credit risk migration matrices and rating transition
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Counterparty credit exposure measurement
+- Loss given default and recovery rates
+- Corporate Bonds
+tags:
+- financial-analysis
+- quantitative-implementation
+- solution
+- credit-default-swaps
+- sifi
+- collateralized-debt-obligations
+- banking
+- investment-banking
+- mathematical-finance
+- corporate-bonds
+- shadow-banking
+- financial-modeling
+- case-study
+- apt
+- quantitative-finance
+- credit-risk
+---
+
 # The Future  
 
 “It is always wise to look ahead, but difficult to look further than you can see.”  

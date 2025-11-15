@@ -1,23 +1,62 @@
 ---
-title: Hedging Strategies with Forwards
-tags:
-  - continuous_dividends
-  - dividend_yield
-  - forward_contracts
-  - prepaid_forward
-  - stock_price
 aliases:
-  - continuous dividend
-  - forward price
-  - prepaid forward
-  - stock index
+- continuous dividend
+- forward price
+- prepaid forward
+- stock index
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-8c50f3
 key_concepts:
-  - continuous dividend yield
-  - dividend reinvestment
-  - forward contract
-  - future spot price
-  - prepaid forward price
-  - time to maturity
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- apt
+- arbitrage
+- bonds
+- cds
+- commodities
+- convexity
+- corporate-bonds
+- correlation
+- credit-default-swaps
+- credit-risk
+- delta
+- delta-hedging
+- derivatives-pricing
+- duration
+- exotic-options
+- factor-models
+- fixed_income
+- forwards
+- futures
+- gamma
+- greeks
+- hedging
+- interest-rate-swaps
+- options
+- replication
+- risk-management
+- risk-neutral
+- swaps
+- theta
+- var
+- vega
+- yield-curve
+- zero-coupon
+title: Hedging Strategies with Forwards
 ---
 
 - Introduction to Derivative Markets]]

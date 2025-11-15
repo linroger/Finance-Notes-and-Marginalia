@@ -1,3 +1,43 @@
+---
+key_concepts:
+- interest rate and currency derivatives
+- forward commitments and hedging
+- Credit spread analysis and OAS methodology
+- Credit default swap pricing and recovery assumptions
+- Probability of default estimation from credit spreads
+- Structural models of default and Merton formulation
+- Credit risk modeling and portfolio correlation analysis
+- Synthetic credit derivatives and index trades
+- Credit risk migration matrices and rating transition
+- Counterparty credit exposure measurement
+- Credit risk assessment and loan portfolio management
+- Credit intermediation and information asymmetry
+- 'Structured products: CDOs, CLOs, and credit derivatives'
+- Financial markets and instruments
+- Quantitative analysis and modeling
+- interest rate and currency derivatives
+- forward commitments and hedging
+- Credit spread analysis and OAS methodology
+- Credit default swap pricing and recovery assumptions
+- Probability of default estimation from credit spreads
+- Structural models of default and Merton formulation
+- Credit risk modeling and portfolio correlation analysis
+- Synthetic credit derivatives and index trades
+- Credit risk migration matrices and rating transition
+- Counterparty credit exposure measurement
+- Credit risk assessment and loan portfolio management
+- Credit intermediation and information asymmetry
+- 'Structured products: CDOs, CLOs, and credit derivatives'
+tags:
+- commodities
+- credit-risk
+- exotic-options
+- financial-analysis
+- financial-modeling
+- quantitative-finance
+- swaptions
+---
+
  
 source: 
   https://www.investopedia.com/ask/answers/052815/what-overthecounter-derivative.asp

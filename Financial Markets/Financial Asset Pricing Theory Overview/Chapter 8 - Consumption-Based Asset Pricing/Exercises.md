@@ -1,21 +1,27 @@
 ---
 tags:
-  - consumption_based_capm
-  - european_call_option
-  - present_value
-  - state_price_deflator
-  - zero_coupon_bond
+- binomial
+- capm
+- delta
+- derivatives-pricing
+- fixed_income
+- gamma
+- rho
+- risk-management
+- var
+- zero-coupon
 aliases:
-  - carl smart
-  - exercise 8.1
-  - investment projects
-  - risk-ignoring approach
+- carl smart
+- exercise 8.1
+- investment projects
+- risk-ignoring approach
 key_concepts:
-  - aggregate consumption growth
-  - conditional CAPM
-  - consumption growth rate
-  - expected dividends
-  - riskless returns
+- Bond pricing and fixed income securities valuation
+- Ito's lemma and stochastic calculus applications
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Options Greeks and sensitivity analysis
 ---
 
 # 8.11 Exercises  

@@ -1,19 +1,39 @@
 ---
-tags:
-  - compounding
-  - continuous_compounding
-  - fixed_cash_flows
-  - interest_rate_quotations
-  - money_market
 aliases:
-  - Interest Rate Quotes
-  - Rate Quotations
+- Interest Rate Quotes
+- Rate Quotations
 key_concepts:
-  - Compounding frequency
-  - Continuous compounding
-  - Fixed cash flows
-  - Interest rates
-  - Simple interest
+- Compounding frequency
+- Continuous compounding
+- Fixed cash flows
+- Interest rates
+- Simple interest
+- Equity valuation and analysis
+- Dividend discount models
+- Fixed income securities
+- Interest rate derivatives
+- Bond pricing and yield analysis
+- Duration and convexity
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Interest rate modeling
+- Term structure of interest rates
+tags:
+- equity
+- valuation
+- fixed_income
+- fixed_cash_flows
+- money_market
+- interest_rate_quotations
+- bonds
+- swaps
+- options
+- continuous_compounding
+- mathematical-finance
+- compounding
+- interest_rates
 ---
 
 # 2.1 INTEREST RATE QUOTATIONS  

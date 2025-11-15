@@ -1,8 +1,14 @@
 ---
 tags:
-  - '#chapter_6'
-  - '#individual_optimality'
+- apt
+- risk-management
+- var
+key_concepts:
+- Partial differential equations in financial modeling
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
 ---
+
 # Chapter 6 - Individual optimality
 %% Begin Waypoint %%
 - **Chapter 6 - Individual optimality**

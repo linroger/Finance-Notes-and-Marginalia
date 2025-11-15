@@ -1,21 +1,22 @@
 ---
 tags:
-  - american_option
-  - financial_contracts
-  - insurance_contract
-  - risk_sharing
-  - state_contingent_claims
+- apt
+- arbitrage
+- bonds
+- duration
+- fixed_income
+- options
+- risk-management
+- var
 aliases:
-  - Insurance Contracts
-  - Risk Sharing
-  - State-contingent claims
+- Insurance Contracts
+- Risk Sharing
+- State-contingent claims
 key_concepts:
-  - Call option as subset
-  - Financial contracts as bundles
-  - Forward contract example
-  - Insurance contract illustration
-  - State-contingent claims defined
-  - Stock as claims package
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
 ---
 
 # 1.2 RISK SHARING  

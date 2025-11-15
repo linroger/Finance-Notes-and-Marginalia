@@ -1,18 +1,43 @@
 ---
-tags:
-  - credit_derivatives
-  - poisson_model
-  - risk_neutral
-  - single_issuer_default
-  - survival_probability
 aliases:
-  - Poisson default model
+- Poisson default model
 key_concepts:
-  - Poisson process
-  - credit derivative pricing
-  - default intensity
-  - risk-neutral setting
-  - survival probability
+- Poisson process
+- credit derivative pricing
+- default intensity
+- risk-neutral setting
+- survival probability
+- Equity valuation and analysis
+- Dividend discount models
+- Credit risk modeling
+- Default probability estimation
+- Fixed income securities
+- Interest rate derivatives
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Futures contracts and forward pricing
+tags:
+- equity
+- model-calibration
+- credit
+- single_issuer_default
+- cds
+- survival_probability
+- interest_rates
+- stochastic_calculus
+- valuation
+- fixed_income
+- fx
+- poisson_model
+- trading
+- bonds
+- swaps
 ---
 
 # 7.4 A POISSON MODEL OF SINGLE ISSUER DEFAULT  

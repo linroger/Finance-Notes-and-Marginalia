@@ -1,21 +1,24 @@
 ---
-title: The Economist a Brave New World
-tags:
-  - banking
-  - cbdc
-  - digital_currency
-  - financial_services
-  - monetary_policy
 aliases:
-  - A Brave New World
-  - The Economist
+- A Brave New World
+- The Economist
 key_concepts:
-  - central bank digital currencies
-  - cheaper and fairer finance
-  - payment technologies upending finance
-  - reduce banks' traditional role
-  - threaten privacy and sovereignty
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
+tags:
+- abs
+- arbitrage
+- arch
+- correlation
+- credit-risk
+- fixed_income
+- risk-management
+title: The Economist a Brave New World
 ---
+
 
 # The Economist a Brave New World
 ## A Brave New World

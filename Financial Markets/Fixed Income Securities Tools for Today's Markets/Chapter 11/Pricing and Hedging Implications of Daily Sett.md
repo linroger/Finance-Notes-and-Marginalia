@@ -1,19 +1,44 @@
 ---
-tags:
-  - bond_pricing
-  - daily_settlement
-  - forward_contract
-  - futures_contract
-  - hedge_ratio
 aliases:
-  - Daily Settlement
-  - Futures vs. Forwards
+- Daily Settlement
+- Futures vs. Forwards
 key_concepts:
-  - Bond Price and Interest
-  - Daily P&L Realization
-  - Futures vs. Forwards Pricing
-  - Hedging with Futures
-  - Tailing the Hedge
+- Bond Price and Interest
+- Daily P&L Realization
+- Futures vs. Forwards Pricing
+- Hedging with Futures
+- Tailing the Hedge
+- Market microstructure and trading
+- Liquidity and price discovery
+- Option sensitivity analysis
+- Delta, gamma, vega, theta, rho
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Derivatives pricing theory
+- Risk-neutral valuation
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Value at risk and stress testing
+- Portfolio risk metrics
+- Structured products and CDOs
+tags:
+- greeks
+- bond_pricing
+- structured_finance
+- futures_contract
+- interest_rates
+- forward_contract
+- valuation
+- trading
+- bonds
+- volatility
+- hedge_ratio
+- futures
+- derivatives
+- options
+- risk_management
 ---
 
 # 11.5 PRICING AND HEDGING IMPLICATIONS OF DAILY SETTLEMENT  

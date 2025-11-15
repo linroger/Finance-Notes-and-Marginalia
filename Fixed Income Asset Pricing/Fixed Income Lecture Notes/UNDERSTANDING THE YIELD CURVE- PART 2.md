@@ -1,24 +1,101 @@
 ---
-cssclasses:
-  - academia
-linter-yaml-title-alias: Market's Rate Expectations and Forward rates
-title: Understanding the Yield CurvePart 2
-tags:
-  - bond_risk_premia
-  - expectations_hypothesis
-  - forward_rates
-  - rate_expectations
-  - yield_curve
 aliases:
-  - Forward Rate Analysis
-  - Market Rate Expectations
-  - Yield Curve Part 2
+- Forward Rate Analysis
+- Market Rate Expectations
+- Yield Curve Part 2
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-e6b461
 key_concepts:
-  - Break-Even Yield Changes
-  - Curve Shape Influence
-  - Expectations Hypothesis
-  - Forward Rate Computation
-  - Spot vs Forward Rates
+- Cox-Ross-Rubinstein parameter specification
+- Term structure of interest rates and yield curve shapes
+- Forward Rate Computation
+- Computational implementation of binomial option pricing
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Option Greeks and portfolio risk management
+- Expectations hypothesis and liquidity preference theory
+- Break-Even Yield Changes
+- Futures contracts and forward pricing
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- Vega and volatility risk management
+- CDS clearing and central counterparties
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- Option sensitivity analysis
+- GARCH models and volatility forecasting
+- Liquidity and price discovery
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Counterparty risk and settlement
+- Case Study
+- Curve Shape Influence
+- Interest rate swap pricing and valuation
+- Margin requirements and clearing
+- Delta, gamma, vega, theta, rho
+- Vasicek short-rate model
+- Market microstructure and trading
+- Credit default swap pricing and risk-neutral probabilities
+- Variance swaps and volatility trading strategies
+- Pairs trading and statistical arbitrage strategies
+- Expectations Hypothesis
+- Convergence of binomial model to Black-Scholes solution
+- Interest rate derivatives
+- Fixed income securities
+- Bond pricing and yield analysis
+- Binomial option pricing model with multiple time steps
+- American option pricing in binomial trees
+- Mean-reverting processes
+- Gamma and convexity adjustments
+- Delta hedging and the replication argument
+- Credit default swaps and credit risk
+- Parallel and non-parallel shifts in the yield curve
+- Cross-currency basis swaps and funding
+- Duration and convexity
+- Options pricing and payoff structures
+- Spot vs Forward Rates
+linter-yaml-title-alias: Market's Rate Expectations and Forward rates
+tags:
+- yield-curve
+- binomial-model
+- credit-default-swaps
+- collateralized-debt-obligations
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- trading
+- course-material
+- pairs-trading
+- case-study
+- expectations_hypothesis
+- greeks
+- bonds
+- value-at-risk
+- rate_expectations
+- fixed_income
+- forward_rates
+- exchange-rates
+- credit-risk
+- yield_curve
+- duration-convexity
+- quantitative-implementation
+- solution
+- real-estate
+- treasury-bonds
+- structured_finance
+- interest_rates
+- vasicek
+- bond_risk_premia
+- regulatory-framework
+- harvard-business-review
+- futures
+- cds
+title: Understanding the Yield CurvePart 2
 ---
 
 # Understanding the Yield Curve-Part 2

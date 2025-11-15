@@ -1,20 +1,45 @@
 ---
-tags:
-  - bank_reserves
-  - central_bank
-  - federal_reserve
-  - financial_crisis
-  - monetary_policy
 aliases:
-  - Abundant Reserves
-  - Discount Window
-  - The Fed
+- Abundant Reserves
+- Discount Window
+- The Fed
 key_concepts:
-  - Bank liquidity provision
-  - Dual mandate of Fed
-  - Federal Reserve roles
-  - National currency creation
-  - Reserves and banking system
+- Bank liquidity provision
+- Dual mandate of Fed
+- Federal Reserve roles
+- National currency creation
+- Reserves and banking system
+- Equity valuation and analysis
+- Dividend discount models
+- Fixed income securities
+- Interest rate derivatives
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+tags:
+- equity
+- regulatory-framework
+- monetary_policy
+- cds
+- financial_crisis
+- interest_rates
+- portfolio-theory
+- fixed_income
+- fx
+- trading
+- bonds
+- central_bank
+- federal_reserve
+- futures
+- options
 ---
 
 # 0.4 MONETARY POLICY WITH ABUNDANTRESERVES  

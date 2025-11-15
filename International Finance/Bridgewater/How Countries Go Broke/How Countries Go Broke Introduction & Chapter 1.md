@@ -1,26 +1,112 @@
 ---
-title: '(17) How Countries Go Broke: Introduction & Chapter One | LinkedIn'
-source: 
-  https://www.linkedin.com/pulse/how-countries-go-broke-introduction-chapter-one-ray-dalio-3wjae/
-description:
-tags:
-  - big_debt_crisis
-  - debt_cycle
-  - government_debt
-  - interest_rates
-  - reserve_currency
 aliases:
-  - Big Debt Cycle
-  - Debt Crisis
-  - Debt and Debt Growth
-  - How Countries Go Broke
+- Big Debt Cycle
+- Debt Crisis
+- Debt and Debt Growth
+- How Countries Go Broke
+description: null
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-6a756f
 key_concepts:
-  - Big debt cycle
-  - Global macro investor
-  - Interest rates and debt
-  - Limits to country debt?
-  - Reserve currency and debt
+- Apt
+- Term structure of interest rates and yield curve shapes
+- Stochastic calculus in financial modeling
+- Global macro investor
+- Limits to country debt?
+- Single-name vs. index CDS trading
+- Market risk measurement and portfolio volatility
+- Option Greeks and portfolio risk management
+- Commodity markets and pricing dynamics
+- Currency derivatives
+- Expectations hypothesis and liquidity preference theory
+- Interest rate swaps and term structure
+- Default probability estimation
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- Vega and volatility risk management
+- CDS clearing and central counterparties
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- Option sensitivity analysis
+- GARCH models and volatility forecasting
+- Foreign exchange markets
+- Liquidity and price discovery
+- Equity valuation and analysis
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Value at Risk (VaR) methodologies and backtesting
+- Theta and time decay modeling
+- Case Study
+- Interest rates and debt
+- Interest rate swap pricing and valuation
+- Delta, gamma, vega, theta, rho
+- Credit default swap pricing and risk-neutral probabilities
+- Market microstructure and trading
+- Variance swaps and volatility trading strategies
+- Bond pricing and yield analysis
+- Gamma and convexity adjustments
+- Big debt cycle
+- Capital Structure
+- Delta hedging and the replication argument
+- Credit default swaps and credit risk
+- Parallel and non-parallel shifts in the yield curve
+- Credit risk modeling
+- Cross-currency basis swaps and funding
+- Reserve currency and debt
+- Basis swaps and cross-currency swaps
+- Duration and convexity
+- Dividend discount models
+source: https://www.linkedin.com/pulse/how-countries-go-broke-introduction-chapter-one-ray-dalio-3wjae/
+tags:
+- yield-curve
+- fx
+- commodities
+- credit-default-swaps
+- stochastic-calculus
+- garch-models
+- big_debt_crisis
+- interest-rate-swaps
+- mathematical-finance
+- trading
+- course-material
+- capital-structure
+- market-risk
+- case-study
+- apt
+- bonds
+- greeks
+- credit-analysis
+- value-at-risk
+- reserve_currency
+- exchange-rates
+- deleveraging
+- hedge-funds
+- credit-risk
+- currency-swaps
+- quantitative-implementation
+- duration-convexity
+- solution
+- private-equity
+- treasury-bonds
+- regulation
+- equity
+- interest_rates
+- stochastic_calculus
+- infrastructure
+- bridgewater-perspective
+- distressed-debt
+- government_debt
+- credit
+- dcf-valuation
+- regulatory-framework
+- harvard-business-review
+- cds
+title: '(17) How Countries Go Broke: Introduction & Chapter One | LinkedIn'
 ---
+
 Introduction to How Countries Go Broke]]
 
 **Are there limits to a country’s’ debt and debt growth?**

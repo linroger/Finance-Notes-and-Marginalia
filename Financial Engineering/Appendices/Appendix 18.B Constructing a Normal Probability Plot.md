@@ -1,21 +1,92 @@
 ---
-title: "Appendix 18.B Constructing a Normal Probability Plot"
-cssclasses: academia
-tags:
-  - cumulative-inverse
-  - data-analysis
-  - normal-distribution
-  - probability-plot
-  - quantile
 aliases:
-  - NPP
-  - Normal Probability Plot
+- NPP
+- Normal Probability Plot
+cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-46f294
 key_concepts:
-  - Compare data quantiles
-  - Cumulative inverse function
-  - Data point plotting
-  - Normal probability plot
-  - Standard normal distribution
+- Cumulative inverse function
+- Deposit Insurance
+- Sovereign risk assessment and country analysis
+- Mean-variance optimization and the efficient frontier
+- Extreme value theory and tail risk modeling
+- Compare data quantiles
+- Credit risk modeling and default probability estimation
+- Wholesale funding markets and maturity transformation
+- Funding liquidity vs. market liquidity
+- Risk budgeting and portfolio construction techniques
+- Solution
+- Historical simulation vs. parametric VaR models
+- Credit portfolio diversification and concentration
+- DV01 calculation and interest rate risk hedging
+- Portfolio immunization strategies
+- Mathematical Finance
+- Monte Carlo integration and variance reduction
+- Deposit insurance and systemic risk prevention
+- Monte Carlo VaR for complex portfolios
+- Stress testing and scenario analysis
+- Key rate duration and curve risk
+- Course Material
+- Control variates and importance sampling techniques
+- Value at Risk (VaR) methodologies and backtesting
+- Risk-neutral pricing methodology for derivative securities
+- Case Study
+- Normal probability plot
+- Operational risk quantification and modeling
+- Arbitrage opportunities and risk-free profit extraction
+- Expected Shortfall and coherent risk measures
+- Standard normal distribution
+- Liquidity risk management in financial institutions
+- Bank liquidity ratios and funding risk management
+- Credit exposure measurement and EAD
+- Loss given default and recovery rates
+- Operational risk management in financial institutions
+- Wrong-way risk in derivative transactions
+- Stress Testing
+- Systemic risk and financial stability
+- Deposit stability and core funding
+- Value-at-Risk calculation using historical simulation
+- Quantitative Implementation
+- Credit risk migration matrices and rating transition
+- Expected Shortfall
+- Credit risk modeling and portfolio correlation analysis
+- Backtesting procedures for risk models
+- Credit risk assessment and loan portfolio management
+- Liquidity risk measurement and management
+- Duration and convexity measures for bond portfolios
+- Systemic risk indicators and early warning systems
+- Global financial stability and systemic risk monitoring
+- Price sensitivity to interest rate changes
+- Data point plotting
+- Modified duration vs. Macaulay duration
+- Liquidity stress testing and contingency funding plans
+tags:
+- financial-analysis
+- probability-plot
+- mathematical-finance
+- course-material
+- financial-modeling
+- quantile
+- case-study
+- value-at-risk
+- normal-distribution
+- credit-risk
+- quantitative-implementation
+- duration-convexity
+- solution
+- stress-testing
+- liquidity-risk
+- systemic-risk
+- cumulative-inverse
+- deposit-insurance
+- data-analysis
+- quantitative-finance
+- expected-shortfall
+- operational-risk
+- monte-carlo
+title: Appendix 18.B Constructing a Normal Probability Plot
 ---
 
 # Appendix 18.B Constructing a Normal Probability Plot

@@ -1,18 +1,32 @@
 ---
-cssclasses: [international-economics]
-title: Chapter 5. Resources and Trade_ The Heckscher-Ohlin Model
-tags: [international-economics, heckscher-ohlin-model, factor-proportions, comparative-advantage]
-aliases: [Heckscher-Ohlin Model, Factor Proportions Theory]
+aliases:
+- Heckscher-Ohlin Model
+- Factor Proportions Theory
+cssclasses:
+- international-economics
 key_concepts:
-  - Factor Abundance
-  - Factor Intensity
-  - Factor-Proportions Theory
-  - Factor Price Equalization
-  - Stolper-Samuelson Theorem
-  - Rybczynski Theorem
-  - Long-run Income Distribution
-  - Resource Endowments
+- Factor Abundance
+- Factor Intensity
+- Factor-Proportions Theory
+- Factor Price Equalization
+- Stolper-Samuelson Theorem
+- Rybczynski Theorem
+- Long-run Income Distribution
+- Resource Endowments
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Bond pricing and yield analysis
+- Duration and convexity
 linter-yaml-title-alias: Chapter 5. Resources and Trade_ The Heckscher-Ohlin Model
+tags:
+- comparative-advantage
+- regulatory-framework
+- international-economics
+- options
+- heckscher-ohlin-model
+- factor-proportions
+- bonds
+title: Chapter 5. Resources and Trade_ The Heckscher-Ohlin Model
 ---
 
 # Chapter 5. Resources and Trade: The Heckscher-Ohlin Model

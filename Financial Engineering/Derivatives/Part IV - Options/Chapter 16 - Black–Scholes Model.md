@@ -1,29 +1,116 @@
 ---
-tags:
-  - black_scholes_model
-  - delta_hedging
-  - european_options
-  - implied_volatility
-  - option_premium
-  - option_prices
-  - option_pricing
-  - stock_price
-  - strike_price
-  - time_to_maturity
 aliases:
-  - BSM
-  - Black-Scholes
-  - Option Pricing Model
+- BSM
+- Black-Scholes
+- Option Pricing Model
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-2ab49a
 key_concepts:
-  - Delta hedging
-  - European call/put prices
-  - Implied volatility
-  - Option premium
-  - Option price determinants
-  - Stock price
-  - Strike price
-  - Time to expiration
+- Apt
+- Extensions to multi-factor CAPM models
+- Strike price
+- Duration and convexity analysis for bond portfolio management
+- Active portfolio management and performance attribution
+- Stochastic calculus in financial modeling
+- Brownian motion and Wiener processes in finance
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Market risk measurement and portfolio volatility
+- Option Greeks and portfolio risk management
+- maturity date in CDS
+- Capital Asset Pricing Model and beta estimation
+- Risk budgeting and portfolio construction techniques
+- Capital Asset Pricing Model and expected returns
+- Mathematical derivation of the Black-Scholes partial differential equation
+- Implied volatility
+- Credit spread decomposition and hazard rates
+- Option premium
+- future value and compounding
+- Vega and volatility risk management
+- option pricing models and PDE solutions
+- CDS clearing and central counterparties
+- CDS-Bond basis and arbitrrage opportunities
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- option sensitivity analysis and hedging
+- Shadow Banking
+- Arbitrage Pricing Theory and multifactor models
+- Course Material
+- Security Market Line and beta measurement
+- Delta hedging
+- Theta and time decay modeling
+- International arbitrage and covered interest rate parity
+- Case Study
+- Dividend Policy
+- Arbitrage opportunities and risk-free profit extraction
+- Risk-neutral valuation in continuous time models
+- Credit default swap pricing and risk-neutral probabilities
+- ESG integration in portfolio management
+- present value and discounting methods
+- Stock price
+- Delta hedging strategies in options portfolio management
+- Shadow banking system and regulatory arbitrage
+- Gamma and convexity adjustments
+- Capital Structure
+- Option price determinants
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Time to expiration
+- Delta hedging and the replication argument
+- risk-adjusted performance measurement
+- Currency hedging strategies for global portfolios
+- European call/put prices
+- Black-Scholes-Merton option pricing model and its applications
+- Market portfolio and risk-free rate assumptions
+- Empirical tests and anomalies in CAPM
+tags:
+- option_premium
+- credit-default-swaps
+- stochastic-calculus
+- dividend-policy
+- capm
+- case-study
+- apt
+- value-at-risk
+- factor-models
+- stock_price
+- option_prices
+- credit-risk
+- european-options
+- duration-convexity
+- solution
+- black_scholes_model
+- option-pricing
+- geometric-brownian-motion
+- european_options
+- delta_hedging
+- collateralized-debt-obligations
+- garch-models
+- call-options
+- time_to_maturity
+- mathematical-finance
+- course-material
+- capital-structure
+- shadow-banking
+- market-risk
+- brownian-motion
+- implied_volatility
+- greeks
+- black-scholes-model
+- option_pricing
+- quantitative-implementation
+- treasury-bonds
+- american-options
+- arbitrage
+- exotic-options
+- delta-hedging
+- implied-volatility
+- dcf-valuation
+- harvard-business-review
+- strike_price
 ---
+
 # Black–Scholes Model  
 
 # Aims  

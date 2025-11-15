@@ -1,4 +1,98 @@
-
+---
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-29b3fd
+key_concepts:
+- Cox-Ross-Rubinstein parameter specification
+- Hedge fund replication
+- Term structure of interest rates and yield curve shapes
+- Working Capital
+- Stochastic calculus in financial modeling
+- Computational implementation of binomial option pricing
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Commodity markets and pricing dynamics
+- Expectations hypothesis and liquidity preference theory
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- CDS clearing and central counterparties
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- Alternative investment strategies
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Risk-weighted assets and capital adequacy ratios
+- Counterparty risk and settlement
+- Balance Of Payments
+- Interest rate swap pricing and valuation
+- Basel III regulatory framework and capital requirements
+- Credit default swap pricing and risk-neutral probabilities
+- Variance swaps and volatility trading strategies
+- Convergence of binomial model to Black-Scholes solution
+- Derivatives pricing theory
+- Binomial option pricing model with multiple time steps
+- American option pricing in binomial trees
+- Risk-neutral valuation
+- Credit default swaps and credit risk
+- Parallel and non-parallel shifts in the yield curve
+- Cross-currency basis swaps and funding
+- Delta hedging and Greeks
+- Options pricing and payoff structures
+tags:
+- yield-curve
+- binomial-model
+- commodities
+- credit-default-swaps
+- stochastic-calculus
+- derivatives
+- 2008-financial-crisis
+- bank-regulation
+- case-study
+- apt
+- bailout
+- value-at-risk
+- options
+- credit-risk
+- duration-convexity
+- solution
+- private-equity
+- bridgewater-perspective
+- corporate-bonds
+- wholesale-funding
+- municipal-bonds
+- operational-risk
+- credit-analysis
+- cds
+- working-capital
+- balance-of-payments
+- collateralized-debt-obligations
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- course-material
+- capital-structure
+- greeks
+- high-yield-bonds
+- exchange-rates
+- deleveraging
+- hedge-funds
+- leveraged-buyouts
+- quantitative-implementation
+- real-estate
+- treasury-bonds
+- stochastic_calculus
+- infrastructure
+- systemic-risk
+- exotic-options
+- distressed-debt
+- mbs-cmos
+- hedge_funds
+- dcf-valuation
+- harvard-business-review
+---
 
 # **HOW COUNTRIES GO BROKE THE BIG CYCLE**
 

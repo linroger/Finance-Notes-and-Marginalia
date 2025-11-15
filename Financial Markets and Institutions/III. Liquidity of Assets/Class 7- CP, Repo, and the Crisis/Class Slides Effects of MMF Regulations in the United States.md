@@ -1,26 +1,40 @@
 ---
-cssclasses:
-  - academia
-title: Class Slides Effects of MMF Regulations in the United States
-tags:
-  - aum_flows
-  - liquidity_management
-  - march_2020_turmoil
-  - mmf_regulations
-  - mmlf_program
 aliases:
-  - MMF Run
-  - MMLF
-  - March 2020
-  - Money Market Fund Regulations
-  - Prime MMFs
+- MMF Run
+- MMLF
+- March 2020
+- Money Market Fund Regulations
+- Prime MMFs
+cssclasses:
+- academia
 key_concepts:
-  - AUM rebound
-  - Fund-level flows
-  - Liquidity management
-  - MMF regulation effects
-  - March 2020 turmoil
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Ito's lemma and stochastic calculus applications
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- abs
+- arch
+- bonds
+- convexity
+- correlation
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- fixed_income
+- hedging
+- options
+- risk-management
+- var
+title: Class Slides Effects of MMF Regulations in the United States
 ---
+
 
 # Class Slides Effects of MMF Regulations in the United States
 

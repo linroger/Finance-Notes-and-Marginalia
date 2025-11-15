@@ -1,24 +1,64 @@
 ---
-linter-yaml-title-alias: HEDGING WITH CURRENCY SWAPS
-title: Teaching Note 3 SwapsFinancial Instruments
-tags:
-  - financial_instruments
-  - forward_rates
-  - fx_swap
-  - interest_rate_swaps
-  - no_arbitrage
 aliases:
-  - FX Swap
-  - Forward Contracts
-  - Swap Rate
-  - Swaps
-  - Teaching Note 3
+- FX Swap
+- Forward Contracts
+- Swap Rate
+- Swaps
+- Teaching Note 3
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-c682c5
 key_concepts:
-  - 'FX swap: currency exchange'
-  - 'Forward rates: cash flow'
-  - Interest rate swaps
-  - No arbitrage condition
-  - 'Swap rate: zero value'
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Monte Carlo simulation for derivatives valuation
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Volatility smile, skew, and surface modeling
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+linter-yaml-title-alias: HEDGING WITH CURRENCY SWAPS
+tags:
+- american-options
+- apt
+- arbitrage
+- binomial
+- black-scholes
+- bonds
+- cds
+- commodities
+- credit-default-swaps
+- credit-risk
+- currency-swaps
+- delta
+- derivatives-pricing
+- exotic-options
+- factor-models
+- fixed_income
+- forwards
+- futures
+- fx
+- greeks
+- hedging
+- implied-volatility
+- interest-rate-swaps
+- monte-carlo
+- options
+- replication
+- risk-management
+- risk-neutral
+- swaps
+- theta
+- var
+- yield-curve
+title: Teaching Note 3 SwapsFinancial Instruments
 ---
 
 Teaching Note 2-Futures Contracts

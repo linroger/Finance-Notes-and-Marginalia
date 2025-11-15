@@ -1,20 +1,115 @@
 ---
-tags:
-  - advanced_derivatives_pricing
-  - derivative_securities
-  - no_arbitrage
-  - risk_management
-  - valuation
 aliases:
-  - Advanced Pricing
-  - Derivatives Pricing
-  - P v. Q
+- Advanced Pricing
+- Derivatives Pricing
+- P v. Q
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-768e3e
 key_concepts:
-  - future cash flows
-  - no-arbitrage models
-  - risk-neutral probabilities
-  - underlying security price
-  - valuation replication hedging
+- Apt
+- future cash flows
+- Cox-Ross-Rubinstein parameter specification
+- coupon-bearing bond analysis
+- Extensions to multi-factor CAPM models
+- Duration and convexity analysis for bond portfolio management
+- Active portfolio management and performance attribution
+- risk-neutral probabilities
+- Brownian motion and Wiener processes in finance
+- Computational implementation of binomial option pricing
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- underlying security price
+- Market risk measurement and portfolio volatility
+- Capital Asset Pricing Model and beta estimation
+- Risk budgeting and portfolio construction techniques
+- Capital Asset Pricing Model and expected returns
+- Credit spread decomposition and hazard rates
+- option pricing models and PDE solutions
+- CDS clearing and central counterparties
+- forward commitments and hedging
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- Martingale theory and risk-neutral pricing
+- option sensitivity analysis and hedging
+- Shadow Banking
+- Fixed-for-floating swap cash flows and valuation
+- Arbitrage Pricing Theory and multifactor models
+- Course Material
+- Security Market Line and beta measurement
+- valuation replication hedging
+- International arbitrage and covered interest rate parity
+- Case Study
+- Dividend Policy
+- fundamental valuation methods
+- Arbitrage opportunities and risk-free profit extraction
+- Interest rate swap pricing and valuation
+- Credit default swap pricing and risk-neutral probabilities
+- ESG integration in portfolio management
+- present value and discounting methods
+- zero-coupon bond pricing and yields
+- Variance swaps and volatility trading strategies
+- Convergence of binomial model to Black-Scholes solution
+- par value in CDS settlement
+- Delta hedging strategies in options portfolio management
+- Binomial option pricing model with multiple time steps
+- systematic risk and market exposure
+- Shadow banking system and regulatory arbitrage
+- American option pricing in binomial trees
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Cross-currency basis swaps and funding
+- no-arbitrage models
+- Currency hedging strategies for global portfolios
+- Market portfolio and risk-free rate assumptions
+- Empirical tests and anomalies in CAPM
+tags:
+- binomial-model
+- straddle
+- credit-default-swaps
+- dividend-policy
+- volatility-surface
+- capm
+- vega-hedging
+- case-study
+- apt
+- value-at-risk
+- kalman-filter
+- put-options
+- factor-models
+- time-series
+- credit-risk
+- european-options
+- duration-convexity
+- solution
+- exchange-rate
+- option-pricing
+- stochastic-volatility
+- geometric-brownian-motion
+- collateralized-debt-obligations
+- interest-rate-swaps
+- mathematical-finance
+- course-material
+- bond-pricing
+- market-risk
+- martingales
+- shadow-banking
+- brownian-motion
+- greeks
+- black-scholes-model
+- exchange-rates
+- quantitative-implementation
+- american-options
+- gamma-hedging
+- arbitrage
+- infrastructure
+- exotic-options
+- martingale
+- delta-hedging
+- implied-volatility
+- dcf-valuation
+- harvard-business-review
 ---
 
 # Overview  

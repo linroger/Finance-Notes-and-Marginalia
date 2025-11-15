@@ -1,3 +1,14 @@
+---
+key_concepts:
+- Option sensitivity analysis
+- Delta, gamma, vega, theta, rho
+- Equity valuation and analysis
+- Dividend discount models
+tags:
+- regulatory-framework
+- greeks
+- equity
+---
 
 ```mermaid
 flowchart LR

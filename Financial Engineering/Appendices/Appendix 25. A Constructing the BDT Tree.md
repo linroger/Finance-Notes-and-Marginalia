@@ -1,21 +1,73 @@
 ---
-title: Appendix 25. A Constructing the BDT Tree
-tags:
-  - bdt_tree
-  - black_derman_toy
-  - bond_pricing
-  - yield_volatility
-  - zero_coupon_bond
 aliases:
-  - BDT Tree Construction
-  - Constructing BDT Tree
-  - Verifying Yields
+- BDT Tree Construction
+- Constructing BDT Tree
+- Verifying Yields
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-6ec75f
 key_concepts:
-  - 1-year yield calculation
-  - 2-year bond price
-  - BDT tree verification
-  - Building tree outward
-  - Yield volatility matching
+- Cox-Ross-Rubinstein parameter specification
+- coupon-bearing bond analysis
+- Term structure of interest rates and yield curve shapes
+- Risk assessment and management
+- Computational implementation of binomial option pricing
+- Credit risk modeling and default probability estimation
+- Expectations hypothesis and liquidity preference theory
+- Solution
+- Credit portfolio diversification and concentration
+- Yield curve fitting and interpolation methods
+- BDT tree verification
+- 1-year yield calculation
+- Financial regulation and compliance
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- Portfolio optimization and asset allocation
+- Fixed-for-floating swap cash flows and valuation
+- Quantitative analysis and modeling
+- 2-year bond price
+- Interest rate swap pricing and valuation
+- Building tree outward
+- zero-coupon bond pricing and yields
+- Variance swaps and volatility trading strategies
+- Convergence of binomial model to Black-Scholes solution
+- Credit exposure measurement and EAD
+- Binomial option pricing model with multiple time steps
+- Fixed income analysis and term structure
+- Wrong-way risk in derivative transactions
+- Derivatives pricing and hedging strategies
+- Quantitative Implementation
+- Financial markets and instruments
+- American option pricing in binomial trees
+- Yield volatility matching
+- Parallel and non-parallel shifts in the yield curve
+- Cross-currency basis swaps and funding
+- Loss given default and recovery rates
+- Credit risk modeling and default analysis
+tags:
+- financial-analysis
+- derivatives-markets
+- binomial-model
+- yield-curve
+- bond_pricing
+- interest-rate-swaps
+- mathematical-finance
+- yield_volatility
+- financial-modeling
+- zero_coupon_bond
+- credit-risk
+- fixed-income
+- investment-strategy
+- mathematics
+- quantitative-implementation
+- solution
+- black_derman_toy
+- derivatives-pricing
+- portfolio-theory
+- quantitative-finance
+- bdt_tree
+title: Appendix 25. A Constructing the BDT Tree
 ---
 
 # Appendix 25. A Constructing the BDT Tree

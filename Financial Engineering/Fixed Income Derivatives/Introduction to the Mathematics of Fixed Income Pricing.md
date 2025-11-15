@@ -1,19 +1,60 @@
 ---
-tags:
-  - arbitrage_pricing
-  - fixed_income
-  - interest_rates
-  - mathematical_finance
-  - risk_neutral
 aliases:
-  - Fixed Income Math
-  - Fixed Income Pricing
+- Fixed Income Math
+- Fixed Income Pricing
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-ec7d20
 key_concepts:
-  - arbitrage pricing theory
-  - discount bond maturity
-  - fixed income pricing
-  - risk neutral valuation
-  - stochastic variables calculus
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Monte Carlo simulation for derivatives valuation
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- apt
+- arbitrage
+- bonds
+- brownian-motion
+- capm
+- convexity
+- correlation
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- exotic-options
+- factor-models
+- filtration
+- fixed_income
+- gamma
+- greeks
+- hedging
+- interest-rate-swaps
+- kalman-filter
+- martingale
+- options
+- replication
+- risk-management
+- risk-neutral
+- stochastic-calculus
+- swaps
+- term-structure
+- theta
+- var
+- vega
+- yield-curve
+- yield-to-maturity
+- zero-coupon
 ---
 
 # Introduction to the Mathematics of Fixed Income Pricing  

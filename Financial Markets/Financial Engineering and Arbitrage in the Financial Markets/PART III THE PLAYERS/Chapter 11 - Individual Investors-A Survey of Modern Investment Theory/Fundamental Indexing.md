@@ -1,30 +1,46 @@
 ---
-tags:
-  - cap_weighting
-  - dividend_weighting
-  - equal_weighting
-  - etfs
-  - fundamental_indexing
-  - index_funds
-  - market_portfolio
-  - passive_investing
-  - research_affiliates
-  - risk_factors
 aliases:
-  - DVY
-  - Fundamental Indexing
-  - RSP
-  - Rob Arnott
+- DVY
+- Fundamental Indexing
+- RSP
+- Rob Arnott
 key_concepts:
-  - Cap weighting model
-  - Dividend-weighted index
-  - Equal-weighted index
-  - Fundamental indexing
-  - Index fund performance
-  - Overweight overpriced stocks
-  - Passive investor strategy
-  - Systematic risk factors
-  - Underweight underpriced stocks
+- Cap weighting model
+- Dividend-weighted index
+- Equal-weighted index
+- Fundamental indexing
+- Index fund performance
+- Overweight overpriced stocks
+- Passive investor strategy
+- Systematic risk factors
+- Underweight underpriced stocks
+- Equity valuation and analysis
+- Dividend discount models
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Derivatives pricing theory
+- Risk-neutral valuation
+- Options pricing and payoff structures
+tags:
+- fundamental_indexing
+- equity
+- cap_weighting
+- hedge_funds
+- etfs
+- dividend_weighting
+- structured_finance
+- risk_factors
+- portfolio-theory
+- market_portfolio
+- valuation
+- trading
+- bonds
+- commodities
+- research_affiliates
 ---
 
 # 11.5 FUNDAMENTAL INDEXING  

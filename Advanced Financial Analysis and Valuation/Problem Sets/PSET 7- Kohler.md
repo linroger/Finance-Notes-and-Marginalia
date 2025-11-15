@@ -1,34 +1,62 @@
 ---
-title: PSET 7 - Kohler
-cssclasses: academia
-tags:
-  - dcf_analysis
-  - enterprise_value
-  - kohler_co
-  - private_firm_valuation
-  - recapitalization
-  - family_business
-  - corporate_finance
-  - valuation_methods
-  - minority_shareholders
-  - financial_analysis
 aliases:
-  - DCF vs Public
-  - Herbert Kohler
-  - Kohler Valuation
-  - PSET 7
+- DCF vs Public
+- Herbert Kohler
+- Kohler Valuation
+- PSET 7
+cssclasses: academia
 key_concepts:
-  - availability_of_information: "Transparency differences between public and private firms"
-  - control_considerations: "Control premiums and minority discounts in valuations"
-  - dcf_valuation: "Application of discounted cash flow model to private firms"
-  - discount_rate: "Cost of capital adjustments for private firms"
-  - enterprise_value: "Total value of a company before debt obligations"
-  - growth_assumptions: "Long-term strategic planning in private firms"
-  - liquidity_marketability: "Discounts applied for lack of share liquidity"
-  - peer_analysis: "Comparison with similar public companies"
-  - family_ownership: "Preservation of family control and governance"
-  - public_vs_private: "Key valuation differences based on ownership structure"
+- availability_of_information: Transparency differences between public and private
+    firms
+- control_considerations: Control premiums and minority discounts in valuations
+- dcf_valuation: Application of discounted cash flow model to private firms
+- discount_rate: Cost of capital adjustments for private firms
+- enterprise_value: Total value of a company before debt obligations
+- growth_assumptions: Long-term strategic planning in private firms
+- liquidity_marketability: Discounts applied for lack of share liquidity
+- peer_analysis: Comparison with similar public companies
+- family_ownership: Preservation of family control and governance
+- public_vs_private: Key valuation differences based on ownership structure
+- fundamental valuation methods
+- cost of capital estimation
+- systematic risk and market exposure
+- Leveraged buyout financial modeling and returns
+- Capital structure theory and optimal debt levels
+- Commercial bank business model and revenue streams
+- Deposit insurance and systemic risk prevention
+- Regulatory changes and market structure evolution
+- Basel III capital and liquidity standards development
+- 'Hedge fund strategies: long-short, market neutral, event-driven'
+- Margin lending and leverage in alternative investments
+- Capital account liberalization and financial development
+- fundamental valuation methods
+- cost of capital estimation
+- systematic risk and market exposure
+- Leveraged buyout financial modeling and returns
+- Capital structure theory and optimal debt levels
+- Commercial bank business model and revenue streams
+- Deposit insurance and systemic risk prevention
+- Regulatory changes and market structure evolution
+tags:
+- corporate_finance
+- dcf-valuation
+- dcf_analysis
+- ebit
+- enterprise-value
+- enterprise_value
+- ev
+- family_business
+- financial_analysis
+- kohler_co
+- minority_shareholders
+- private_firm_valuation
+- recapitalization
+- valuation_methods
+- wacc
+title: PSET 7 - Kohler
 ---
+
+
 
 # PSET 7 - Kohler
 

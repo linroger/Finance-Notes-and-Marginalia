@@ -1,20 +1,45 @@
 ---
-tags:
-  - cash_cdo
-  - cdo
-  - cdo_manager
-  - collateralized_debt
-  - spv
 aliases:
-  - CDO
-  - Cash CDO
-  - Collateralized Debt Obligations
+- CDO
+- Cash CDO
+- Collateralized Debt Obligations
 key_concepts:
-  - Actively managed CDOs
-  - CDO certificates
-  - CDO issuance
-  - Special purpose vehicle
-  - Transferring risk
+- Actively managed CDOs
+- CDO certificates
+- CDO issuance
+- Special purpose vehicle
+- Transferring risk
+- Equity valuation and analysis
+- Dividend discount models
+- Credit risk modeling
+- Default probability estimation
+- Fixed income securities
+- Interest rate derivatives
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Credit default swaps and credit risk
+tags:
+- equity
+- credit
+- spv
+- cds
+- hedge_funds
+- structured_finance
+- cdo
+- portfolio-theory
+- valuation
+- fixed_income
+- fx
+- trading
+- bonds
+- volatility
+- commodities
 ---
 
 # 10.1  COLLATERALIZED DEBT OBLIGATIONS  

@@ -1,3 +1,28 @@
+---
+key_concepts:
+- Equity valuation and analysis
+- Dividend discount models
+- Foreign exchange markets
+- Currency derivatives
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Value at risk and stress testing
+- Portfolio risk metrics
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Interest rate modeling
+- Term structure of interest rates
+tags:
+- equity
+- futures
+- risk_management
+- options
+- fx
+- bonds
+- interest_rates
+---
 # CHAPTER 15  
 
 # Money, Interest Rates, and Exchange Rates  

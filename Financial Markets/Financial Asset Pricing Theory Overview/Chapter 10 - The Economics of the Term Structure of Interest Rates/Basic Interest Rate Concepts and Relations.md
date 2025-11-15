@@ -1,21 +1,29 @@
 ---
 tags:
-  - compounding
-  - forward_rates
-  - interest_rates
-  - yield_curve
-  - zero_coupon_bonds
+- apt
+- arbitrage
+- bonds
+- duration
+- fixed_income
+- hedging
+- no-arbitrage
+- risk-management
+- var
+- zero-coupon
 aliases:
-  - Bond Pricing
-  - Discount Function
-  - Interest Rate Basics
-  - Spot Rates
+- Bond Pricing
+- Discount Function
+- Interest Rate Basics
+- Spot Rates
 key_concepts:
-  - Coupon bond valuation
-  - Discount function
-  - Interest rate compounding
-  - Spot and forward rates
-  - Zero-coupon bond pricing
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
 ---
 
 # 10.2 Basic interest rate concepts and relations  

@@ -1,21 +1,41 @@
 ---
-title: The Limits Of Arbitrage
-tags:
-  - arbitrage
-  - financial_markets
-  - fundamental_values
-  - market_efficiency
-  - security_pricing
 aliases:
-  - Limits of Arbitrage
-  - Shleifer and Vishny
+- Limits of Arbitrage
+- Shleifer and Vishny
 key_concepts:
-  - Arbitrage effectiveness
-  - Market anomalies
-  - Professional arbitrage
-  - Security pricing implications
-  - Textbook arbitrage
+- Delta hedging strategies in options portfolio management
+- 'Short-rate models: Vasicek, CIR, and mean reversion'
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- abs
+- apt
+- arbitrage
+- bonds
+- capm
+- cir
+- convexity
+- correlation
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- fixed_income
+- futures
+- hedging
+- options
+- puts
+- risk-management
+- time-series
+- var
+title: The Limits Of Arbitrage
 ---
+
 
 # The Limits Of Arbitrage
 

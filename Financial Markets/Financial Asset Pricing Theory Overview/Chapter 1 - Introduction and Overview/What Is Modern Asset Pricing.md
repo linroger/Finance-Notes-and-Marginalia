@@ -1,19 +1,18 @@
 ---
 tags:
-  - asset_allocation
-  - asset_pricing
-  - capital_budgeting
-  - capital_structure
-  - financial_markets
+- apt
+- capm
+- risk-management
+- var
 aliases:
-  - CAPM
-  - Modern Asset Pricing
+- CAPM
+- Modern Asset Pricing
 key_concepts:
-  - asset allocation
-  - capital budgeting decisions
-  - financial risk management
-  - pricing financial assets
-  - shareholders vs creditors
+- Ito's lemma and stochastic calculus applications
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
 ---
 
 # 1.1 What is modern asset pricing?  

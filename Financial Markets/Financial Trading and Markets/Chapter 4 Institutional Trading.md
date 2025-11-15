@@ -1,20 +1,44 @@
 ---
-tags:
-  - buy_side
-  - institutional_investors
-  - institutional_trading
-  - market_impact
-  - security_prices
 aliases:
-  - Buy-Side Institutions
-  - Institutional Investors
-  - Institutional Traders
+- Buy-Side Institutions
+- Institutional Investors
+- Institutional Traders
 key_concepts:
-  - Asymmetric reaction to block trades
-  - Institutional investor transactions
-  - Institutions and Market Impact
-  - Investment company management
-  - Security liquidity, prices, volatility
+- Asymmetric reaction to block trades
+- Institutional investor transactions
+- Institutions and Market Impact
+- Investment company management
+- Security liquidity, prices, volatility
+- Equity valuation and analysis
+- Dividend discount models
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Derivatives pricing theory
+- Risk-neutral valuation
+- Value at risk and stress testing
+- Portfolio risk metrics
+tags:
+- security_prices
+- equity
+- portfolio-theory
+- buy_side
+- trading
+- market_impact
+- volatility
+- institutional_investors
+- institutional_trading
+- bonds
+- cds
+- options
+- derivatives
+- risk_management
+- portfolio
 ---
 
 # Institutional Trading  

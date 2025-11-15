@@ -1,25 +1,64 @@
 ---
-title: Forward Rates Agreement
-cssclasses:
-  - academia
-tags:
-  - arbitrage
-  - forward_contracts
-  - law_of_one_price
-  - no_arbitrage
-  - spot_exchange
 aliases:
-  - arbitrage opportunity
-  - forward rate
-  - long forward
-  - short forward
-  - spot rate
+- arbitrage opportunity
+- forward rate
+- long forward
+- short forward
+- spot rate
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-f7c76c
 key_concepts:
-  - buy cheap sell dear
-  - exchange goods for money
-  - identical payoffs same price
-  - no arbitrage principle
-  - prespecified future date price
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Monte Carlo simulation for derivatives valuation
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Volatility smile, skew, and surface modeling
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- apt
+- arbitrage
+- binomial
+- bonds
+- cds
+- commodities
+- convexity
+- credit-default-swaps
+- credit-risk
+- delta
+- derivatives-pricing
+- exotic-options
+- factor-models
+- fixed_income
+- forwards
+- futures
+- gamma
+- greeks
+- hedging
+- implied-volatility
+- interest-rate-swaps
+- monte-carlo
+- options
+- replication
+- risk-management
+- risk-neutral
+- swaps
+- theta
+- var
+- vega
+- yield-curve
+- zero-coupon
+title: Forward Rates Agreement
 ---
 
 Deriving Forward Exchange Rate Numerical Example 1

@@ -1,23 +1,17 @@
 ---
 cssclasses:
-  - academia
+- academia
 title: Class Slides On Terrausd Runs 2
 tags:
-  - crypto_crash
-  - deleveraging
-  - financial_crisis
-  - stablecoin
-  - terrausd
+- arbitrage
+- risk-management
 aliases:
-  - LUNA
-  - TerraUSD
-  - UST
+- LUNA
+- TerraUSD
+- UST
 key_concepts:
-  - Algorithmic stablecoin
-  - Crypto market impact
-  - De-pegging event
-  - Market volatility
-  - Stablecoin collapse
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
 ---
 
 # Class Slides On Terrausd Runs 2

@@ -1,34 +1,67 @@
 ---
-linter-yaml-title-alias: LECTURE NOTES 10 INTEREST RATE DERIVATIVES
-title: LECTURE NOTES 10 INTEREST RATE DERIVATIVES
-tags:
-  - black_model
-  - callable_bonds
-  - financial_instruments
-  - floating_rate_debt
-  - forward_rate_agreement
-  - interest_rate_derivatives
-  - interest_rate_swaps
-  - risk_neutral_pricing
-  - swap_contract
-  - treasury_bills
 aliases:
-  - FRA
-  - IR Derivatives
-  - Interest Rate Trees
-  - Lecture 10
-  - Swaps
+- FRA
+- IR Derivatives
+- Interest Rate Trees
+- Lecture 10
+- Swaps
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-8ea794
 key_concepts:
-  - Callable bonds
-  - Floating rate debt
-  - Forward rate agreement
-  - Hedging problem solution
-  - Ho Lee Model
-  - Interest rate derivatives
-  - Interest rate swaps
-  - Risk neutral pricing
-  - Swap rate calculation
-  - Zero coupon bonds
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Partial differential equations in financial modeling
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+linter-yaml-title-alias: LECTURE NOTES 10 INTEREST RATE DERIVATIVES
+tags:
+- american-options
+- apt
+- arbitrage
+- binomial
+- black-scholes
+- bonds
+- calibration
+- capm
+- cds
+- convexity
+- correlation
+- credit-default-swaps
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- exotic-options
+- factor-models
+- fixed_income
+- greeks
+- hedging
+- implied-volatility
+- interest-rate-swaps
+- kalman-filter
+- options
+- pde
+- risk-management
+- risk-neutral
+- swaps
+- swaptions
+- time-series
+- var
+- yield-curve
+- zero-coupon
+title: LECTURE NOTES 10 INTEREST RATE DERIVATIVES
 ---
 
 # Lecture Notes 10- Interest Rate Derivatives

@@ -1,21 +1,46 @@
 ---
-tags:
-  - debt_securities
-  - fixed_income
-  - global_markets
-  - interest_rate_derivatives
-  - issuer_residence
 aliases:
-  - Debt Securities
-  - Fixed Income Overview
-  - Global Debt Markets
-  - Interest Rate Derivatives
+- Debt Securities
+- Fixed Income Overview
+- Global Debt Markets
+- Interest Rate Derivatives
 key_concepts:
-  - Debt by sector
-  - Debt securities issuers
-  - Global debt securities
-  - Government debt
-  - Interest rate derivatives
+- Debt by sector
+- Debt securities issuers
+- Global debt securities
+- Government debt
+- Interest rate derivatives
+- Equity valuation and analysis
+- Dividend discount models
+- Credit risk modeling
+- Default probability estimation
+- Fixed income securities
+- Foreign exchange markets
+- Currency derivatives
+- Bond pricing and yield analysis
+- Duration and convexity
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+tags:
+- equity
+- regulatory-framework
+- credit
+- debt_securities
+- cds
+- structured_finance
+- interest_rate_derivatives
+- regulation
+- interest_rates
+- global_markets
+- portfolio-theory
+- fixed_income
+- fx
+- bonds
+- swaps
 ---
 
 # 0.1 GLOBAL FIXED INCOME MARKETS  

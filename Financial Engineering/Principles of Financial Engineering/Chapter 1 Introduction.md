@@ -1,21 +1,56 @@
 ---
-title: Introduction
-tags:
-  - financial_engineering
-  - introduction
-  - money_market
-  - swap_market
-  - volatility_trading
 aliases:
-  - Financial Engineering Introduction
-  - Introduction to Financial Engineering
-key_concepts:
-  - Financial engineering principles
-  - Money market problems
-  - Swap contracts
-  - Taxation considerations
-  - Volatility trading
+- Financial Engineering Introduction
+- Introduction to Financial Engineering
 cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-79222e
+key_concepts:
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- apt
+- arbitrage
+- arch
+- bonds
+- capm
+- cds
+- commodities
+- convexity
+- correlation
+- counterparty-risk
+- credit-default-swaps
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- fixed_income
+- gamma
+- garch
+- greeks
+- hedging
+- interest-rate-swaps
+- options
+- recovery-rate
+- risk-management
+- risk-neutral
+- swaps
+- var
+- yield-curve
+title: Introduction
 ---
 
 # INTRODUCTION  

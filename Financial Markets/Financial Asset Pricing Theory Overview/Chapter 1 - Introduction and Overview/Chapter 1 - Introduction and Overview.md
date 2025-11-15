@@ -1,14 +1,10 @@
 ---
 tags:
-  - chapter_introduction
-  - chapter_overview
+- apt
 aliases:
-  - Ch. 1
-  - Intro
-key_concepts:
-  - Chapter 1
-  - Introduction
-  - Overview
+- Ch. 1
+- Intro
+key_concepts: []
 ---
 %% Begin Waypoint %%
 - **Chapter 1**

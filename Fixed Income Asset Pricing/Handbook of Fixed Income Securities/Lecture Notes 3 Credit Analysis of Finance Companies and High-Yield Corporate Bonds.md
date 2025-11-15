@@ -1,23 +1,137 @@
 ---
-title: Lecture Notes 3 Credit Analysis of Finance Companies and High-Yield Class
-Notes 2 – Corporate Bond Contracts | Corporate Bonds]]
-cssclasses:
-  - academia
-tags:
-  - asset_quality
-  - credit_analysis
-  - finance_companies
-  - leverage_ratios
-  - liquidity_ratios
-aliases:
-  - Finance Company Analysis
-  - Lecture 3 Notes
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-c9424c
 key_concepts:
-  - Asset coverage, liabilities, assets
-  - Asset quality, returns, losses
-  - Leverage, debt, equity
-  - Liquidity, short-term obligations
-  - Loss reserves, future losses
+- Cox-Ross-Rubinstein parameter specification
+- Term structure of interest rates and yield curve shapes
+- Treasury Futures
+- Working Capital
+- Computational implementation of binomial option pricing
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Commodity markets and pricing dynamics
+- Currency derivatives
+- Expectations hypothesis and liquidity preference theory
+- Futures contracts and forward pricing
+- Interest rate swaps and term structure
+- Default probability estimation
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- CDS clearing and central counterparties
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- Option sensitivity analysis
+- GARCH models and volatility forecasting
+- Foreign exchange markets
+- Liquidity and price discovery
+- Equity valuation and analysis
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Counterparty risk and settlement
+- Dividend Policy
+- Interest rate swap pricing and valuation
+- Margin requirements and clearing
+- Delta, gamma, vega, theta, rho
+- Basel III regulatory framework and capital requirements
+- Market microstructure and trading
+- Credit default swap pricing and risk-neutral probabilities
+- Variance swaps and volatility trading strategies
+- Pairs trading and statistical arbitrage strategies
+- Convergence of binomial model to Black-Scholes solution
+- Interest rate derivatives
+- Fixed income securities
+- Bond pricing and yield analysis
+- Binomial option pricing model with multiple time steps
+- American option pricing in binomial trees
+- Credit default swaps and credit risk
+- Parallel and non-parallel shifts in the yield curve
+- Credit risk modeling
+- Cross-currency basis swaps and funding
+- Basis swaps and cross-currency swaps
+- Duration and convexity
+- Dividend discount models
+tags:
+- basel-iii
+- yield-curve
+- swaps
+- credit-default-swaps
+- dividend-policy
+- 2008-financial-crisis
+- capm
+- case-study
+- apt
+- value-at-risk
+- efficient-market
+- duration-convexity
+- solution
+- wacc
+- structured_finance
+- algorithmic-trading
+- corporate-bonds
+- wholesale-funding
+- credit
+- cds
+- fx
+- garch-models
+- course-material
+- market-risk
+- greeks
+- black-scholes-model
+- fixed_income
+- exchange-rates
+- hedge-funds
+- real-estate
+- treasury-bonds
+- stress-testing
+- liquidity-risk
+- exotic-options
+- distressed-debt
+- mbs-cmos
+- swaptions
+- volatility
+- dcf-valuation
+- regulatory-framework
+- harvard-business-review
+- mean-reversion
+- monte-carlo
+- binomial-model
+- commodities
+- bank-regulation
+- pairs-trading
+- covenant-lite
+- comparable-analysis
+- factor-models
+- credit-risk
+- private-equity
+- investment-banking
+- equity
+- interest_rates
+- portfolio-theory
+- vasicek-model
+- municipal-bonds
+- credit-analysis
+- treasury-futures
+- working-capital
+- collateralized-debt-obligations
+- interest-rate-swaps
+- mathematical-finance
+- trading
+- capital-structure
+- bonds
+- high-yield-bonds
+- deleveraging
+- leveraged-buyouts
+- currency-swaps
+- momentum-strategies
+- quantitative-implementation
+- infrastructure
+- systemic-risk
+- delta-hedging
+- implied-volatility
+- futures
 ---
 
 # Lecture Notes 3 Credit Analysis of Finance Companies and High-Yield Corporate Bonds

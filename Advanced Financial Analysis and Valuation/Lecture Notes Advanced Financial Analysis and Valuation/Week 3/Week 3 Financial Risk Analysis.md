@@ -1,32 +1,106 @@
 ---
-title: Week 3 Financial Risk Analysis
+aliases:
+- Financial Risk Analysis
+- Credit Risk Assessment
+- Week 3 Risk Analysis
 cssclasses:
-  - academia
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-20c2bb
+key_concepts:
+- Risk-incentive problems
+- Carry trades and momentum in FX markets
+- Working Capital
+- Lemons problem in lending
+- Reduced-form models and intensity-based approaches
+- Single-name vs. index CDS trading
+- Debt capacity analysis in LBO transactions
+- Collateralized Debt Obligations
+- Probability of default estimation from credit spreads
+- Credit spread analysis and OAS methodology
+- Piotroski F-score
+- Solution
+- Credit spread decomposition and hazard rates
+- Credit default swap spreads
+- Structural models of default and Merton formulation
+- CDS clearing and central counterparties
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- Exit strategies and return maximization
+- Credit default swap pricing and recovery assumptions
+- Financial risk analysis
+- Bankruptcy prediction models
+- 'Structured products: CDOs, CLOs, and credit derivatives'
+- Loan covenants
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- LBO financing sources and covenant structures
+- Forward rates and interest rate parity
+- Currency risk management and hedging
+- Synthetic credit derivatives and index trades
+- Case Study
+- Exchange rate determination and PPP theory
+- Interest rate swap pricing and valuation
+- Credit default swap pricing and risk-neutral probabilities
+- Variance swaps and volatility trading strategies
+- gross margin in loan structures
+- Altman Z-score
+- Credit intermediation and information asymmetry
+- Liquidity and profitability ratios
+- Forecast cash flows
+- Quantitative Implementation
+- Credit risk migration matrices and rating transition
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Leveraged Buyout financial structures and returns
+- Harvard Business Review
+- Distressed Debt
+- Cross-currency basis swaps and funding
+- Counterparty credit exposure measurement
+- Cash flow analysis
+- credit risk transfer mechanisms
+- Currency markets and foreign exchange trading
+- Equity returns and value creation mechanisms
+- Corporate Bonds
 linter-yaml-title-alias: Week 3 Financial Risk Analysis
 tags:
-  - cash_flow_analysis
-  - financial_risk
-  - liquidity_ratios
-  - solvency_ratios
-  - credit_analysis
-  - bankruptcy_prediction
-  - covenant_analysis
-aliases:
-  - Financial Risk Analysis
-  - Credit Risk Assessment
-  - Week 3 Risk Analysis
-key_concepts:
-  - Bankruptcy prediction models
-  - Cash flow analysis
-  - Credit default swap spreads
-  - Financial risk analysis
-  - Forecast cash flows
-  - Liquidity and profitability ratios
-  - Lemons problem in lending
-  - Risk-incentive problems
-  - Loan covenants
-  - Altman Z-score
-  - Piotroski F-score
+- quantitative-implementation
+- liquidity-ratios
+- solution
+- working-capital
+- ebit
+- roe
+- profitability-ratios
+- credit-default-swaps
+- depreciation
+- return-on-equity
+- cash_flow_analysis
+- collateralized-debt-obligations
+- leveraged-buyouts
+- interest-rate-swaps
+- default-probability
+- mathematical-finance
+- course-material
+- return-on-assets
+- covenant_analysis
+- roa
+- capital-structure
+- corporate-bonds
+- distressed-debt
+- case-study
+- cds-spread
+- liquidity_ratios
+- credit-analysis
+- credit_analysis
+- exchange-rates
+- harvard-business-review
+- net-income
+- cds
+- ebitda
+- credit-risk
+title: Week 3 Financial Risk Analysis
 ---
 
 # Week 3 Financial Risk Analysis

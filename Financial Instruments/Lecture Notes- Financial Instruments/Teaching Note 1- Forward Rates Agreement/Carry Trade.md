@@ -1,21 +1,59 @@
 ---
-linter-yaml-title-alias: GOVERNMENT OF CANADA BOND FUTURES
-title: Carry Trade
-tags:
-  - arbitrage
-  - carry_trade
-  - futures_market
-  - market_neutral
-  - spot_market
 aliases:
-  - Cash-and-Carry
-  - Reverse Carry Trade
+- Cash-and-Carry
+- Reverse Carry Trade
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-ef81db
 key_concepts:
-  - Arbitrage strategy
-  - Contango and backwardation
-  - Futures vs spot prices
-  - Market neutral strategy
-  - Profit from price spread
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Monte Carlo simulation for derivatives valuation
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Volatility smile, skew, and surface modeling
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+linter-yaml-title-alias: GOVERNMENT OF CANADA BOND FUTURES
+tags:
+- apt
+- arbitrage
+- binomial
+- bonds
+- cds
+- commodities
+- convexity
+- credit-default-swaps
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- factor-models
+- fixed_income
+- forwards
+- futures
+- gamma
+- greeks
+- hedging
+- implied-volatility
+- interest-rate-swaps
+- monte-carlo
+- options
+- replication
+- risk-management
+- risk-neutral
+- swaps
+- theta
+- var
+- vega
+- yield-curve
+title: Carry Trade
 ---
 
 Lecture Note 1- Forward Rates Agreement

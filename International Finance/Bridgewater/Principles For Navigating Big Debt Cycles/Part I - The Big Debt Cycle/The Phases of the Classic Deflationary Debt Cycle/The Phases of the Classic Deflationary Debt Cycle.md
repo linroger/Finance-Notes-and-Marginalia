@@ -1,3 +1,27 @@
+---
+key_concepts:
+- Equity valuation and analysis
+- Dividend discount models
+- Credit risk modeling
+- Default probability estimation
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+tags:
+- equity
+- regulatory-framework
+- credit
+- fx
+- trading
+- bonds
+- commodities
+- options
+---
 # **The Phases of the Classic Deflationary Debt Cycle**
 
 The chart below illustrates the seven stages of an archetypal long-term debt cycle, by tracking the total debt of the economy as a percentage of the total income of the economy (GDP) and the total amount of debt service payments relative to GDP over a period of 12 years.

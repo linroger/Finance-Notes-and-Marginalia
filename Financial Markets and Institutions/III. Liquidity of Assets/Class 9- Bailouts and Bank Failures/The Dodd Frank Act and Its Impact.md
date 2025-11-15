@@ -1,21 +1,16 @@
 ---
 title: The Dodd Frank Act and Its Impact
 tags:
-  - dodd_frank_act
-  - financial_crisis
-  - financial_institutions
-  - financial_stability
-  - regulatory_reform
+- abs
+- fixed_income
 aliases:
-  - Dodd Frank
-  - The Act
-  - Wall Street Reform Act
+- Dodd Frank
+- The Act
+- Wall Street Reform Act
 key_concepts:
-  - Financial crisis impact
-  - Financial reform legislation
-  - Financial stability oversight
-  - Regulatory environment changes
-  - Systemic risk reduction
+- Ito's lemma and stochastic calculus applications
+- Credit risk modeling and default probability estimation
+- Interest rate caps, floors, and swaptions
 ---
 
 # The Dodd Frank Act and Its Impact

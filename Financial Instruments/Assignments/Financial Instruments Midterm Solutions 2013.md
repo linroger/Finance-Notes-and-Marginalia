@@ -1,32 +1,51 @@
 ---
-cssclasses:
-  - academia
-linter-yaml-title-alias: Financial Instruments Midterm Solutions 2013
-title: Financial Instruments Midterm Solutions 2013
-tags:
-  - binary_option
-  - bond_valuation
-  - european_call_option
-  - hedging
-  - option_pricing
-  - black_scholes
-  - forward_contracts
-  - delta_hedging
-  - risk_neutral_pricing
-  - currency_exposure
 aliases: []
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-fdb14c
 key_concepts:
-  - European call option
-  - S&P 500 index
-  - binary option pricing
-  - bond valuation
-  - hedge exposure
-  - delta hedging
-  - forward contracts
-  - risk-neutral probability
-  - Black-Scholes formula
-  - binomial tree pricing
-  - exchange rate hedging
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Partial differential equations in financial modeling
+- Credit risk modeling and default probability estimation
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+linter-yaml-title-alias: Financial Instruments Midterm Solutions 2013
+tags:
+- binomial
+- black-scholes
+- capm
+- commodities
+- completeness
+- convexity
+- correlation
+- credit-risk
+- delta
+- delta-hedging
+- derivatives-pricing
+- duration
+- exotic-options
+- fixed_income
+- futures
+- gamma
+- greeks
+- hedging
+- options
+- pde
+- replication
+- risk-management
+- risk-neutral
+- theta
+- vega
+- yield-curve
+title: Financial Instruments Midterm Solutions 2013
 ---
 
 # Financial Instruments Midterm Solutions 2013

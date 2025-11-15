@@ -1,23 +1,102 @@
 ---
-tags:
-  - eurodollar_futures
-  - futures_contracts
-  - hedging
-  - interest_rate_futures
-  - libor
-  - t_bill_futures
 aliases:
-  - 3-month Eurodollar
-  - 3-month Sterling
-  - IRF
-  - US T-bills
+- 3-month Eurodollar
+- 3-month Sterling
+- IRF
+- US T-bills
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-e95682
 key_concepts:
-  - arbitrage strategies
-  - contract specifications
-  - implied repo rate
-  - price quotes
-  - settlement procedures
+- Cox-Ross-Rubinstein parameter specification
+- Extensions to multi-factor CAPM models
+- Term structure of interest rates and yield curve shapes
+- contract specifications
+- Duration and convexity analysis for bond portfolio management
+- Active portfolio management and performance attribution
+- Computational implementation of binomial option pricing
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- maturity date in CDS
+- Commodity markets and pricing dynamics
+- Capital Asset Pricing Model and beta estimation
+- Risk budgeting and portfolio construction techniques
+- delivery date in CDS settlement
+- Expectations hypothesis and liquidity preference theory
+- Capital Asset Pricing Model and expected returns
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- CDS clearing and central counterparties
+- forward commitments and hedging
+- CDS-Bond basis and arbitrrage opportunities
+- Spot rates vs. forward rates modeling
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- Fixed-for-floating swap cash flows and valuation
+- Arbitrage Pricing Theory and multifactor models
+- day count convention in CDS
+- Security Market Line and beta measurement
+- International arbitrage and covered interest rate parity
+- arbitrage strategies
+- Arbitrage opportunities and risk-free profit extraction
+- Interest rate swap pricing and valuation
+- interest rate and currency derivatives
+- Credit default swap pricing and risk-neutral probabilities
+- ESG integration in portfolio management
+- Variance swaps and volatility trading strategies
+- Convergence of binomial model to Black-Scholes solution
+- par value in CDS settlement
+- Delta hedging strategies in options portfolio management
+- Binomial option pricing model with multiple time steps
+- settlement procedures
+- Shadow banking system and regulatory arbitrage
+- American option pricing in binomial trees
+- Capital Structure
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- price quotes
+- Parallel and non-parallel shifts in the yield curve
+- Cross-currency basis swaps and funding
+- implied repo rate
+- Currency hedging strategies for global portfolios
+- Market portfolio and risk-free rate assumptions
+- Empirical tests and anomalies in CAPM
+tags:
+- yield-curve
+- binomial-model
+- commodities
+- credit-default-swaps
+- collateralized-debt-obligations
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- capital-structure
+- capm
+- interest_rate_futures
+- shadow-banking
+- case-study
+- apt
+- greeks
+- value-at-risk
+- factor-models
+- futures_contracts
+- exchange-rates
+- hedge-funds
+- credit-risk
+- quantitative-implementation
+- duration-convexity
+- solution
+- hedging
+- treasury-bonds
+- eurodollar_futures
+- arbitrage
+- exotic-options
+- libor
+- t_bill_futures
+- term-structure
 ---
+
 # FIXED INCOME FUTURES CONTRACTS  
 
 # Interest Rate Futures  

@@ -1,24 +1,97 @@
 ---
-tags:
-  - asian_options
-  - barrier_options
-  - bopm
-  - chooser_options
-  - exotic_options
-  - mcs
-  - path_dependent
 aliases:
-  - Average Rate Options
-  - Exotic Option Pricing
-  - Path-dependent Options
+- Average Rate Options
+- Exotic Option Pricing
+- Path-dependent Options
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-eea0c4
 key_concepts:
-  - Asian and barrier options
-  - BOPM and MCS
-  - Closed-form solutions
-  - European vs American options
-  - Exotic option types
-  - Path-dependent payoffs
+- Apt
+- Cox-Ross-Rubinstein parameter specification
+- Term structure of interest rates and yield curve shapes
+- Asian and barrier options
+- Monte Carlo simulation techniques for path-dependent options
+- Computational implementation of binomial option pricing
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Option Greeks and portfolio risk management
+- maturity date in CDS
+- Commodity markets and pricing dynamics
+- Expectations hypothesis and liquidity preference theory
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- CDS clearing and central counterparties
+- forward commitments and hedging
+- CDS-Bond basis and arbitrrage opportunities
+- Spot rates vs. forward rates modeling
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- Monte Carlo integration and variance reduction
+- Closed-form solutions
+- Fixed-for-floating swap cash flows and valuation
+- Case Study
+- Quantitative analysis and modeling
+- Dividend Policy
+- Interest rate swap pricing and valuation
+- Credit default swap pricing and risk-neutral probabilities
+- present value and discounting methods
+- Variance swaps and volatility trading strategies
+- Convergence of binomial model to Black-Scholes solution
+- Binomial option pricing model with multiple time steps
+- Path-dependent payoffs
+- simulation methods in financial engineering
+- Value-at-Risk calculation using historical simulation
+- American option pricing in binomial trees
+- Financial markets and instruments
+- Gamma and convexity adjustments
+- Delta hedging and the replication argument
+- European vs American options
+- Exotic option types
+- Parallel and non-parallel shifts in the yield curve
+- Cross-currency basis swaps and funding
+- Brownian motion and Wiener processes in finance
+- BOPM and MCS
+tags:
+- european-options
+- quantitative-implementation
+- binomial-model
+- solution
+- commodities
+- straddle
+- credit-default-swaps
+- yield-curve
+- american-options
+- path_dependent
+- collateralized-debt-obligations
+- dividend-policy
+- investment-banking
+- interest-rate-swaps
+- call-options
+- mathematical-finance
+- monte-carlo-simulation
+- lookback-options
+- mcs
+- exotic_options
+- asian-options
+- exotic-options
+- brownian-motion
+- compound-options
+- bopm
+- apt
+- case-study
+- greeks
+- asian_options
+- barrier_options
+- black-scholes-model
+- value-at-risk
+- put-options
+- dcf-valuation
+- barrier-options
+- exchange-rates
+- monte-carlo
 ---
+
 # Exotic Options  
 
 # Aims  

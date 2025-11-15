@@ -1,19 +1,44 @@
 ---
-tags:
-  - curve_building
-  - hedging
-  - interest_rate_swaps
-  - pv01
-  - swap_markets
 aliases:
-  - DV01
-  - Partial PV01
+- DV01
+- Partial PV01
 key_concepts:
-  - Curve refitting caveats
-  - Hedging with swaps
-  - Partial PV01 definition
-  - Present value calculation
-  - Swap rate curve
+- Curve refitting caveats
+- Hedging with swaps
+- Partial PV01 definition
+- Present value calculation
+- Swap rate curve
+- Fixed income securities
+- Interest rate derivatives
+- Foreign exchange markets
+- Currency derivatives
+- Option sensitivity analysis
+- Delta, gamma, vega, theta, rho
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Credit default swaps and credit risk
+tags:
+- model-calibration
+- greeks
+- interest_rate_swaps
+- pv01
+- calibration
+- cds
+- structured_finance
+- hedging
+- interest_rates
+- swap_markets
+- portfolio-theory
+- valuation
+- fixed_income
+- fx
+- trading
 ---
 
 # 5.5 PARTIAL 'O1S AND PV01  

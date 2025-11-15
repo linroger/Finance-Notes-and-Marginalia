@@ -1,20 +1,18 @@
 ---
 tags:
-  - nominal_dividends
-  - nominal_prices
-  - real_dividends
-  - real_prices
-  - state_price_deflator
+- apt
+- correlation
+- credit-risk
+- derivatives-pricing
+- rho
+- risk-management
+- var
 aliases:
-  - Inflation and Returns
-  - Real vs. Nominal
-  - State-Price Deflators
+- Inflation and Returns
+- Real vs. Nominal
+- State-Price Deflators
 key_concepts:
-  - Inflation Rate Calculation
-  - Lognormal Setting Returns
-  - Nominal vs Real Dividends
-  - Real and Nominal Returns
-  - State-Price Deflator Definition
+- Value at Risk and tail risk measurement
 ---
 
 # 4.5 Nominal and real state-price deflators  

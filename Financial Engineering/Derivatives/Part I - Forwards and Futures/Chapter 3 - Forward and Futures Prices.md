@@ -1,21 +1,105 @@
 ---
-tags:
-  - arbitrage
-  - cash_and_carry
-  - forward_contracts
-  - futures_prices
-  - risk_free_rate
 aliases:
-  - Forward Pricing
-  - Futures Pricing
-  - No-Arbitrage Pricing
+- Forward Pricing
+- Futures Pricing
+- No-Arbitrage Pricing
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-d3e6e4
 key_concepts:
-  - Cash-and-carry arbitrage
-  - Fair forward price
-  - Forward contract replication
-  - Implied repo rate
-  - Income stream impact
+- Apt
+- Extensions to multi-factor CAPM models
+- Term structure of interest rates and yield curve shapes
+- Duration and convexity analysis for bond portfolio management
+- Active portfolio management and performance attribution
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Forward contract replication
+- Option Greeks and portfolio risk management
+- maturity date in CDS
+- Commodity markets and pricing dynamics
+- Capital Asset Pricing Model and beta estimation
+- Risk budgeting and portfolio construction techniques
+- delivery date in CDS settlement
+- Income stream impact
+- Expectations hypothesis and liquidity preference theory
+- Capital Asset Pricing Model and expected returns
+- portfolio theory and asset pricing
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- CDS clearing and central counterparties
+- forward commitments and hedging
+- CDS-Bond basis and arbitrrage opportunities
+- Spot rates vs. forward rates modeling
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- Shadow Banking
+- Implied repo rate
+- Arbitrage Pricing Theory and multifactor models
+- Fixed-for-floating swap cash flows and valuation
+- Security Market Line and beta measurement
+- International arbitrage and covered interest rate parity
+- Case Study
+- Dividend Policy
+- Arbitrage opportunities and risk-free profit extraction
+- Interest rate swap pricing and valuation
+- Credit default swap pricing and risk-neutral probabilities
+- ESG integration in portfolio management
+- present value and discounting methods
+- Variance swaps and volatility trading strategies
+- Delta hedging strategies in options portfolio management
+- systematic risk and market exposure
+- Shadow banking system and regulatory arbitrage
+- Capital Structure
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Delta hedging and the replication argument
+- Parallel and non-parallel shifts in the yield curve
+- Cross-currency basis swaps and funding
+- Currency hedging strategies for global portfolios
+- Fair forward price
+- Market portfolio and risk-free rate assumptions
+- Cash-and-carry arbitrage
+- Empirical tests and anomalies in CAPM
+tags:
+- yield-curve
+- commodities
+- credit-default-swaps
+- energy-derivatives
+- futures_prices
+- collateralized-debt-obligations
+- dividend-policy
+- interest-rate-swaps
+- capital-asset-pricing-model
+- mathematical-finance
+- forward_contracts
+- capital-structure
+- capm
+- shadow-banking
+- case-study
+- apt
+- greeks
+- value-at-risk
+- kalman-filter
+- factor-models
+- time-series
+- exchange-rates
+- bond-futures
+- credit-risk
+- quantitative-implementation
+- duration-convexity
+- solution
+- treasury-bonds
+- investment-banking
+- arbitrage
+- exotic-options
+- risk_free_rate
+- dcf-valuation
+- futures-markets
+- cash_and_carry
+- term-structure
 ---
+
 # Forward and Futures Prices  
 
 # Aims  

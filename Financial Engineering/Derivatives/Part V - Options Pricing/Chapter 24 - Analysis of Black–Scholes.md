@@ -1,21 +1,103 @@
 ---
-tags:
-  - black_scholes
-  - ewma
-  - option_pricing
-  - stock_returns
-  - volatility
 aliases:
-  - B-S
-  - BS
-  - Black-Scholes
+- B-S
+- BS
+- Black-Scholes
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-dd124f
 key_concepts:
-  - Black-Scholes equation validity
-  - Equally weighted average
-  - Estimating stock volatility
-  - European option pricing
-  - Volatility forecasting methods
+- Apt
+- Term structure of interest rates and yield curve shapes
+- Monte Carlo simulation techniques for path-dependent options
+- Mean-variance optimization and the efficient frontier
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Option Greeks and portfolio risk management
+- maturity date in CDS
+- Expectations hypothesis and liquidity preference theory
+- Mathematical derivation of the Black-Scholes partial differential equation
+- Historical simulation vs. parametric VaR models
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- Vega and volatility risk management
+- CDS clearing and central counterparties
+- forward commitments and hedging
+- CDS-Bond basis and arbitrrage opportunities
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- European option pricing
+- Monte Carlo integration and variance reduction
+- GARCH models and volatility forecasting
+- Monte Carlo VaR for complex portfolios
+- Shadow Banking
+- Arbitrage Pricing Theory and multifactor models
+- Control variates and importance sampling techniques
+- Theta and time decay modeling
+- International arbitrage and covered interest rate parity
+- Value at Risk (VaR) methodologies and backtesting
+- Case Study
+- Arbitrage opportunities and risk-free profit extraction
+- Risk-neutral valuation in continuous time models
+- Credit default swap pricing and risk-neutral probabilities
+- volatility modeling and forecasting
+- Estimating stock volatility
+- fair value measurement and hierarchy
+- Black-Scholes equation validity
+- Boundary conditions and parameter interpretation in Black-Scholes model
+- Limitations and extensions of the Black-Scholes framework
+- Equally weighted average
+- simulation methods in financial engineering
+- Value-at-Risk calculation using historical simulation
+- risk measurement and management
+- Shadow banking system and regulatory arbitrage
+- Gamma and convexity adjustments
+- Volatility forecasting methods
+- Backtesting procedures for risk models
+- Delta hedging and the replication argument
+- Parallel and non-parallel shifts in the yield curve
+- Black-Scholes-Merton option pricing model and its applications
+- Brownian motion and Wiener processes in finance
+tags:
+- european-options
+- quantitative-implementation
+- solution
+- yield-curve
+- credit-default-swaps
+- treasury-bonds
+- american-options
+- backtesting
+- collateralized-debt-obligations
+- garch-models
+- mathematical-finance
+- arbitrage
+- volatility-surface
+- option-pricing
+- var
+- shadow-banking
+- efficient-market
+- stochastic-volatility
+- exotic-options
+- brownian-motion
+- geometric-brownian-motion
+- volatility-smile
+- case-study
+- apt
+- delta-hedging
+- implied-volatility
+- greeks
+- black-scholes-model
+- value-at-risk
+- kalman-filter
+- put-options
+- factor-models
+- time-series
+- exchange-rates
+- expected-shortfall
+- monte-carlo
+- term-structure
 ---
+
 # Analysis of Black–Scholes  
 
 # Aims  

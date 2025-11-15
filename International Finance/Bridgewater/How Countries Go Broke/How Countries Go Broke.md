@@ -1,3 +1,105 @@
+---
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-aff610
+key_concepts:
+- Term structure of interest rates
+- Cox-Ross-Rubinstein parameter specification
+- Term structure of interest rates and yield curve shapes
+- Working Capital
+- Computational implementation of binomial option pricing
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Commodity markets and pricing dynamics
+- Currency derivatives
+- Expectations hypothesis and liquidity preference theory
+- Yield curve fitting and interpolation methods
+- Interest rate modeling
+- Credit spread decomposition and hazard rates
+- CDS clearing and central counterparties
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- Option sensitivity analysis
+- GARCH models and volatility forecasting
+- Foreign exchange markets
+- Liquidity and price discovery
+- Equity valuation and analysis
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Risk-weighted assets and capital adequacy ratios
+- Counterparty risk and settlement
+- Balance Of Payments
+- Interest rate swap pricing and valuation
+- Delta, gamma, vega, theta, rho
+- Credit default swap pricing and risk-neutral probabilities
+- Market microstructure and trading
+- Basel III regulatory framework and capital requirements
+- Variance swaps and volatility trading strategies
+- Pairs trading and statistical arbitrage strategies
+- Convergence of binomial model to Black-Scholes solution
+- Binomial option pricing model with multiple time steps
+- American option pricing in binomial trees
+- Credit default swaps and credit risk
+- Parallel and non-parallel shifts in the yield curve
+- Cross-currency basis swaps and funding
+- Delta hedging and Greeks
+- Dividend discount models
+- Options pricing and payoff structures
+tags:
+- yield-curve
+- fx
+- binomial-model
+- working-capital
+- commodities
+- credit-default-swaps
+- balance-of-payments
+- collateralized-debt-obligations
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- trading
+- course-material
+- bank-regulation
+- 2008-financial-crisis
+- capital-structure
+- pairs-trading
+- case-study
+- apt
+- bailout
+- greeks
+- high-yield-bonds
+- credit-analysis
+- value-at-risk
+- exchange-rates
+- deleveraging
+- options
+- credit-risk
+- leveraged-buyouts
+- quantitative-implementation
+- duration-convexity
+- solution
+- private-equity
+- real-estate
+- treasury-bonds
+- regulation
+- equity
+- interest_rates
+- infrastructure
+- systemic-risk
+- bridgewater-perspective
+- corporate-bonds
+- wholesale-funding
+- exotic-options
+- distressed-debt
+- mbs-cmos
+- dcf-valuation
+- regulatory-framework
+- harvard-business-review
+- municipal-bonds
+- cds
+---
 
 # Introduction
 

@@ -1,19 +1,44 @@
 ---
-tags:
-  - arbitrage
-  - cash_and_carry
-  - cost_of_carry
-  - futures_pricing
-  - spot_price
 aliases:
-  - Carry Arbitrage
-  - Cash and Carry
+- Carry Arbitrage
+- Cash and Carry
 key_concepts:
-  - Cost-of-carry equation
-  - Profit-seeking arbitrageurs
-  - Replicating derivative contracts
-  - Riskless profit opportunity
-  - Spot vs. futures prices
+- Cost-of-carry equation
+- Profit-seeking arbitrageurs
+- Replicating derivative contracts
+- Riskless profit opportunity
+- Spot vs. futures prices
+- Equity valuation and analysis
+- Dividend discount models
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+tags:
+- equity
+- cash_and_carry
+- cds
+- hedge_funds
+- structured_finance
+- mathematical-finance
+- interest_rates
+- spot_price
+- valuation
+- futures_pricing
+- fx
+- trading
+- bonds
+- commodities
+- swaps
 ---
 
 # 3.3 CASH-AND-CARRY ARBITRAGE  

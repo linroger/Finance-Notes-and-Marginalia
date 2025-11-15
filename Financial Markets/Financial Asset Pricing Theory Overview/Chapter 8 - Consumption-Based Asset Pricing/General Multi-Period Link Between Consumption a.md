@@ -1,20 +1,25 @@
 ---
 tags:
-  - asset_returns
-  - consumption_growth
-  - continuous_time
-  - multi_period_model
-  - risk_free_rate
+- abs
+- capm
+- correlation
+- credit-risk
+- delta
+- derivatives-pricing
+- fixed_income
+- gamma
+- rho
+- risk-management
+- var
 aliases:
-  - Consumption and Returns
-  - Multi-Period Analysis
+- Consumption and Returns
+- Multi-Period Analysis
 key_concepts:
-  - Consumption-beta equation
-  - Excess expected return
-  - Relative consumption growth
-  - Risk-free gross return
-  - State-price deflator
-  - Time-additive expected utility
+- Ito's lemma and stochastic calculus applications
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Options Greeks and sensitivity analysis
 ---
 
 # 8.3 General multi-period link between consumption and asset returns  

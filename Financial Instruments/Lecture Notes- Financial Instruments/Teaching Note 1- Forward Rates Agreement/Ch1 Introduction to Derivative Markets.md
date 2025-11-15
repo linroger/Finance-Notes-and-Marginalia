@@ -1,19 +1,63 @@
 ---
 aliases:
-  - 
-  - 
-title: Ch1 Introduction to Derivative Markets
+- null
+- null
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-50a055
+key_concepts:
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Term structure of interest rates and yield curve modeling
+- 'Short-rate models: Vasicek, CIR, and mean reversion'
+- Bond pricing and fixed income securities valuation
+- Ito's lemma and stochastic calculus applications
+- Monte Carlo simulation for derivatives valuation
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility smile, skew, and surface modeling
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
 tags:
-  - '#derivative_markets'
-  - '#financial_engineering'
-  - '#long_position'
-  - '#market_makers'
-  - '#regulatory_arbitrage'
-  - '#risk_management'
-  - '#short_selling'
-  - '#speculation'
-  - '#transaction_costs'
+- apt
+- arbitrage
+- binomial
+- black-scholes
+- bonds
+- cds
+- cir
+- commodities
+- convexity
+- credit-default-swaps
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- factor-models
+- fixed_income
+- forwards
+- futures
+- greeks
+- hedging
+- implied-volatility
+- interest-rate-swaps
+- monte-carlo
+- options
+- risk-management
+- risk-neutral
+- swaps
+- theta
+- var
+- yield-curve
+title: Ch1 Introduction to Derivative Markets
 ---
+
 # Ch1 Introduction to Derivative Markets
 
 Introduction to Derivative Markets]]vative Markets]]

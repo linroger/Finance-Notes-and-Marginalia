@@ -1,3 +1,46 @@
+---
+key_concepts:
+- fixed income risk measurement
+- excess returns and manager skill
+- convertible bond analysis and conversion value
+- tranche structure in structured finance
+- synthetic CDO structure
+- Duration and convexity analysis for bond portfolio management
+- Credit spread analysis and OAS methodology
+- Credit default swap pricing and recovery assumptions
+- Probability of default estimation from credit spreads
+- Structural models of default and Merton formulation
+- Credit risk modeling and portfolio correlation analysis
+- CDO tranche pricing and waterfall mechanics
+- Synthetic credit derivatives and index trades
+- Credit risk migration matrices and rating transition
+- Counterparty credit exposure measurement
+- Credit risk assessment and loan portfolio management
+- Credit intermediation and information asymmetry
+- 'Structured products: CDOs, CLOs, and credit derivatives'
+- fixed income risk measurement
+- excess returns and manager skill
+- convertible bond analysis and conversion value
+- tranche structure in structured finance
+- synthetic CDO structure
+- Duration and convexity analysis for bond portfolio management
+- Credit spread analysis and OAS methodology
+- Credit default swap pricing and recovery assumptions
+- Probability of default estimation from credit spreads
+- Structural models of default and Merton formulation
+- Credit risk modeling and portfolio correlation analysis
+- CDO tranche pricing and waterfall mechanics
+tags:
+- cdo
+- duration
+- financial-analysis
+- financial-crisis
+- financial-modeling
+- quantitative-finance
+- straddle
+- synthetic-cdos
+---
+
  
 source: https://www.investopedia.com/terms/s/synthetic.asp
 description: Synthetic is the term given to financial instruments that are engineered

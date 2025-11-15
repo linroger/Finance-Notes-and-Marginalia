@@ -1,24 +1,114 @@
 ---
-tags:
-  - comparative_advantage
-  - interest_rate_swaps
-  - libor
-  - otc_instruments
-  - plain_vanilla_swaps
-  - swap_dealers
 aliases:
-  - Fixed-for-Floating Swap
-  - IRS
-  - Interest Rate Swap
-  - Swap
-  - Swap Agreements
+- Fixed-for-Floating Swap
+- IRS
+- Interest Rate Swap
+- Swap
+- Swap Agreements
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-012f28
 key_concepts:
-  - Cash flow determination
-  - Convert uncertain cash flows
-  - Principle of comparative advantage
-  - Privately arranged contracts
-  - Role of swap dealers
+- Apt
+- Liquidity coverage ratio and net stable funding ratio
+- Stress testing and supervisory review processes
+- Mean-variance optimization and the efficient frontier
+- Extreme value theory and tail risk modeling
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Market risk measurement and portfolio volatility
+- termination date in CDS
+- business day convention in CDS
+- Risk budgeting and portfolio construction techniques
+- Principle of comparative advantage
+- Dodd-Frank Act regulatory reforms and implementation
+- Commodity markets and pricing dynamics
+- Historical simulation vs. parametric VaR models
+- Credit spread decomposition and hazard rates
+- Role of swap dealers
+- Leverage ratio and large exposures
+- CDS clearing and central counterparties
+- DV01 calculation and interest rate risk hedging
+- forward commitments and hedging
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- Monte Carlo integration and variance reduction
+- GARCH models and volatility forecasting
+- Deposit insurance and systemic risk prevention
+- Monte Carlo VaR for complex portfolios
+- Stress testing and scenario analysis
+- Fixed-for-floating swap cash flows and valuation
+- day count convention in CDS
+- Course Material
+- Risk-weighted assets and capital adequacy ratios
+- Value at Risk (VaR) methodologies and backtesting
+- Risk-neutral pricing methodology for derivative securities
+- Case Study
+- Operational risk quantification and modeling
+- Exchange rate determination and PPP theory
+- Arbitrage opportunities and risk-free profit extraction
+- Expected Shortfall and coherent risk measures
+- Interest rate swap pricing and valuation
+- Basel III regulatory framework and capital requirements
+- interest rate and currency derivatives
+- Credit default swap pricing and risk-neutral probabilities
+- Bank liquidity ratios and funding risk management
+- Variance swaps and volatility trading strategies
+- Convert uncertain cash flows
+- Value-at-Risk calculation using historical simulation
+- Credit risk migration matrices and rating transition
+- Credit risk modeling and portfolio correlation analysis
+- Backtesting procedures for risk models
+- Credit risk assessment and loan portfolio management
+- Liquidity risk measurement and management
+- Cross-currency basis swaps and funding
+- Systemic risk indicators and early warning systems
+- Cash flow determination
+- Privately arranged contracts
+- Currency markets and foreign exchange trading
+- trade date in CDS
+tags:
+- commodities
+- credit-default-swaps
+- credit-spreads
+- collateralized-debt-obligations
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- course-material
+- interest_rate_swaps
+- bank-regulation
+- market-risk
+- case-study
+- apt
+- value-at-risk
+- exchange-rates
+- plain_vanilla_swaps
+- credit-risk
+- currency-swaps
+- quantitative-implementation
+- duration-convexity
+- solution
+- treasury-bonds
+- fra
+- investment-banking
+- forward-rate-agreements
+- stress-testing
+- liquidity-risk
+- systemic-risk
+- corporate-bonds
+- otc_instruments
+- swap_dealers
+- comparative_advantage
+- deposit-insurance
+- libor
+- expected-shortfall
+- operational-risk
+- credit-analysis
+- monte-carlo
 ---
+
 # SWAPS  
 
 # Interest Rate Swaps  

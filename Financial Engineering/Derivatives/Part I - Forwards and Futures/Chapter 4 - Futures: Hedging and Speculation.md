@@ -1,22 +1,101 @@
 ---
-tags:
-  - basis_risk
-  - futures_contracts
-  - hedging
-  - price_risk
-  - spot_market
 aliases:
-  - Futures Hedging
-  - Hedging with Futures
-  - Long Position
-  - Short Hedge
+- Futures Hedging
+- Hedging with Futures
+- Long Position
+- Short Hedge
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-a3a606
 key_concepts:
-  - Futures contract gain
-  - Futures for hedging
-  - Reduce price risk
-  - Short hedge explained
-  - Spot market risk
+- Apt
+- Spot market risk
+- Extensions to multi-factor CAPM models
+- Duration and convexity analysis for bond portfolio management
+- Active portfolio management and performance attribution
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Market risk measurement and portfolio volatility
+- Option Greeks and portfolio risk management
+- maturity date in CDS
+- Commodity markets and pricing dynamics
+- Capital Asset Pricing Model and beta estimation
+- Risk budgeting and portfolio construction techniques
+- Futures for hedging
+- Capital Asset Pricing Model and expected returns
+- Credit spread decomposition and hazard rates
+- Vega and volatility risk management
+- CDS clearing and central counterparties
+- forward commitments and hedging
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- Futures contract gain
+- Shadow Banking
+- Fixed-for-floating swap cash flows and valuation
+- Arbitrage Pricing Theory and multifactor models
+- Security Market Line and beta measurement
+- Reduce price risk
+- International arbitrage and covered interest rate parity
+- Case Study
+- Dividend Policy
+- Arbitrage opportunities and risk-free profit extraction
+- Interest rate swap pricing and valuation
+- Credit default swap pricing and risk-neutral probabilities
+- ESG integration in portfolio management
+- Variance swaps and volatility trading strategies
+- Delta hedging strategies in options portfolio management
+- Shadow banking system and regulatory arbitrage
+- Gamma and convexity adjustments
+- Capital Structure
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Delta hedging and the replication argument
+- High Frequency Trading
+- price index and inflation measurement
+- Cross-currency basis swaps and funding
+- Currency hedging strategies for global portfolios
+- Market portfolio and risk-free rate assumptions
+- cash settlement in CDS
+- Short hedge explained
+- Empirical tests and anomalies in CAPM
+tags:
+- commodities
+- credit-default-swaps
+- dividend-policy
+- collateralized-debt-obligations
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- capital-structure
+- capm
+- shadow-banking
+- market-risk
+- high-frequency-trading
+- case-study
+- apt
+- greeks
+- value-at-risk
+- factor-models
+- futures_contracts
+- exchange-rates
+- hedge-funds
+- credit-risk
+- quantitative-implementation
+- duration-convexity
+- solution
+- hedging
+- real-estate
+- treasury-bonds
+- basis_risk
+- moral-hazard
+- arbitrage
+- spot_market
+- futures-markets
+- price_risk
 ---
+
 # Futures: Hedging and Speculation  
 
 # Aims  

@@ -1,25 +1,48 @@
 ---
-cssclasses:
-  - academia
-title: Understanding Debt Crises and Their Management
-desc: ''
-tags:
-  - borrowing
-  - credit
-  - debt_crises
-  - economic_cycles
-  - policy_makers
 aliases:
-  - Debt Crisis
-  - Debt Management
-  - Policy Makers
-  - Subway System
+- Debt Crisis
+- Debt Management
+- Policy Makers
+- Subway System
+cssclasses:
+- academia
+desc: ''
 key_concepts:
-  - Bad debt losses
-  - Borrowing and spending
-  - Debt crises cycles
-  - Economic cycle patterns
-  - Policy maker decisions
+- Bad debt losses
+- Borrowing and spending
+- Debt crises cycles
+- Economic cycle patterns
+- Policy maker decisions
+- Equity valuation and analysis
+- Dividend discount models
+- Credit risk modeling
+- Default probability estimation
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Interest rate modeling
+tags:
+- equity
+- regulatory-framework
+- credit
+- policy_makers
+- fx
+- economic_cycles
+- trading
+- bonds
+- cds
+- options
+- borrowing
+- debt_crises
+- interest_rates
+title: Understanding Debt Crises and Their Management
 ---
 
 # Understanding Debt Crises and Their Management

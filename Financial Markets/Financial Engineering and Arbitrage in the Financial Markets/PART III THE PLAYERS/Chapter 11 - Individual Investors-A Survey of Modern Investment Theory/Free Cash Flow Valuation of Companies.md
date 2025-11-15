@@ -1,21 +1,42 @@
 ---
-tags:
-  - company_valuation
-  - cost_of_equity
-  - discounting
-  - fcfe
-  - fcff
-  - free_cash_flow
 aliases:
-  - Company Valuation
-  - FCF Valuation
-  - Free Cash Flow
+- Company Valuation
+- FCF Valuation
+- Free Cash Flow
 key_concepts:
-  - Discount rate for equity
-  - Dividends vs FCFE vs FCFF
-  - Perpetual stock valuation
-  - Present value of cash flows
-  - Stock cash flow definitions
+- Discount rate for equity
+- Dividends vs FCFE vs FCFF
+- Perpetual stock valuation
+- Present value of cash flows
+- Stock cash flow definitions
+- Equity valuation and analysis
+- Dividend discount models
+- Option sensitivity analysis
+- Delta, gamma, vega, theta, rho
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Value at risk and stress testing
+- Portfolio risk metrics
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+tags:
+- company_valuation
+- equity
+- regulatory-framework
+- valuation
+- greeks
+- bonds
+- fcff
+- fcfe
+- futures
+- risk_management
+- options
+- mathematical-finance
+- free_cash_flow
+- discounting
+- cost_of_equity
 ---
 
 # 11.2  FREE CASH FLOW VALUATION OF COMPANIES  

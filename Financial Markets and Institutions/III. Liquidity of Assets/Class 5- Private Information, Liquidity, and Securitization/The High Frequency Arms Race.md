@@ -1,22 +1,24 @@
 ---
-linter-yaml-title-alias: 'The HFT Arms Race: Example'
-title: The High Frequency Arms Race
-tags:
-  - cme_nyse
-  - high_frequency_trading
-  - limit_order_book
-  - market_correlation
-  - market_design
 aliases:
-  - Frequent Batch Auctions
-  - HFT Arms Race
+- Frequent Batch Auctions
+- HFT Arms Race
 key_concepts:
-  - CME and NYSE data
-  - ES vs SPY
-  - High-frequency trading
-  - Limit order book
-  - Market correlations breakdown
+- Term structure of interest rates and yield curve modeling
+- Credit risk modeling and default probability estimation
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+linter-yaml-title-alias: 'The HFT Arms Race: Example'
+tags:
+- arbitrage
+- correlation
+- credit-risk
+- duration
+- fixed_income
+- hedging
+- risk-management
+title: The High Frequency Arms Race
 ---
+
 
 A few slides taken from: The High-Frequency Trading Arms Race: Frequent Batch Auctions as a Market Design Response Eric Budish,  Peter Cramton and John Shim Forthcoming,  Quarterly Journal of Economics Seminar Slides,  Sept 2015
 

@@ -1,22 +1,44 @@
 ---
-tags:
-  - fixed_swap_rate
-  - interest_rate_swaps
-  - notional_amount
-  - sofr_swap
-  - term_structure
 aliases:
-  - IRS
-  - SOFR
-  - SONIA
-  - Swap
-  - TONAR
+- IRS
+- SOFR
+- SONIA
+- Swap
+- TONAR
 key_concepts:
-  - Fixed swap rate
-  - Interest rate swap
-  - Notional amount
-  - SOFR swap payments
-  - Term structure currencies
+- Fixed swap rate
+- Interest rate swap
+- Notional amount
+- SOFR swap payments
+- Term structure currencies
+- Fixed income securities
+- Interest rate derivatives
+- Bond pricing and yield analysis
+- Duration and convexity
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Value at risk and stress testing
+- Portfolio risk metrics
+- Interest rate modeling
+- Term structure of interest rates
+tags:
+- fixed_income
+- notional_amount
+- bonds
+- interest_rate_swaps
+- term_structure
+- swaps
+- cds
+- options
+- risk_management
+- sofr_swap
+- mathematical-finance
+- fixed_swap_rate
+- interest_rates
 ---
 
 # 2.2 INTEREST RATE SWAPS  

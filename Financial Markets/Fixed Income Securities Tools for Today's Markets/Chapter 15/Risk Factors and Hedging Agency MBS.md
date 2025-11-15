@@ -1,20 +1,44 @@
 ---
-tags:
-  - agency_mbs
-  - hedging
-  - interest_rate_risk
-  - mortgage_spread_risk
-  - prepayment_risk
 aliases:
-  - Agency MBS Risk
-  - MBS Hedging
+- Agency MBS Risk
+- MBS Hedging
 key_concepts:
-  - Interest rate risk
-  - MBS risk factors
-  - Mortgage spread risk
-  - Originator pipeline risk
-  - Prepayment risk
-  - TBA hedging strategy
+- Interest rate risk
+- MBS risk factors
+- Mortgage spread risk
+- Originator pipeline risk
+- Prepayment risk
+- TBA hedging strategy
+- Credit risk modeling
+- Default probability estimation
+- Fixed income securities
+- Interest rate derivatives
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+tags:
+- credit
+- prepayment_risk
+- cds
+- hedge_funds
+- hedging
+- interest_rates
+- portfolio-theory
+- fixed_income
+- fx
+- trading
+- bonds
+- volatility
+- swaps
+- futures
+- derivatives
 ---
 
 # 15.9 RISK FACTORS AND HEDGING AGENCY MBS  

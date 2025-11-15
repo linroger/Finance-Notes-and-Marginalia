@@ -1,21 +1,82 @@
 ---
-tags:
-  - asset_pricing
-  - fixed_income
-  - floating_rate_notes
-  - midterm
-  - spot_rates
 aliases:
-  - FIA Pricing
-  - Fixed Income Exam
-  - Midterm Solutions
+- FIA Pricing
+- Fixed Income Exam
+- Midterm Solutions
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-108cee
 key_concepts:
-  - Floating Rate Notes
-  - Real Yield Calculation
-  - Risk-Neutral Probabilities
-  - Spot and Forward Rates
-  - Swap Value Inception
-  - Term Structure Slope
+- Floating Rate Notes
+- Term structure of interest rates
+- Carry trades and momentum in FX markets
+- Term structure of interest rates and yield curve shapes
+- Expectations hypothesis and liquidity preference theory
+- Futures contracts and forward pricing
+- Solution
+- Interest rate swaps and term structure
+- Interest rate modeling
+- Yield curve fitting and interpolation methods
+- Real Yield Calculation
+- Historical simulation vs. parametric VaR models
+- Value at risk and stress testing
+- Portfolio immunization strategies
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- Monte Carlo VaR for complex portfolios
+- Stress testing and scenario analysis
+- Key rate duration and curve risk
+- Term Structure Slope
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Currency risk management and hedging
+- Forward rates and interest rate parity
+- Value at Risk (VaR) methodologies and backtesting
+- Portfolio risk metrics
+- Exchange rate determination and PPP theory
+- Interest rate swap pricing and valuation
+- Margin requirements and clearing
+- Expected Shortfall and coherent risk measures
+- Variance swaps and volatility trading strategies
+- Swap Value Inception
+- Risk-Neutral Probabilities
+- Interest rate derivatives
+- Fixed income securities
+- Bond pricing and yield analysis
+- Stress Testing
+- Quantitative Implementation
+- Parallel and non-parallel shifts in the yield curve
+- Cross-currency basis swaps and funding
+- Duration and convexity measures for bond portfolios
+- Basis swaps and cross-currency swaps
+- Price sensitivity to interest rate changes
+- Modified duration vs. Macaulay duration
+- Duration and convexity
+- Currency markets and foreign exchange trading
+- Spot and Forward Rates
+tags:
+- yield-curve
+- swaps
+- interest-rate-swaps
+- mathematical-finance
+- course-material
+- bonds
+- risk_management
+- value-at-risk
+- midterm
+- fixed_income
+- exchange-rates
+- currency-swaps
+- quantitative-implementation
+- duration-convexity
+- solution
+- interest_rates
+- stress-testing
+- spot_rates
+- asset_pricing
+- futures
+- floating_rate_notes
 ---
 
 # Fixed Income Asset Pricing Midterm Solutions

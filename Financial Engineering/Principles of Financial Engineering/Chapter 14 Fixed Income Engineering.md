@@ -1,8 +1,66 @@
 ---
-title: "Fixed Income Engineering"
+category: Principles of Financial Engineering
 chapter: 14
-subject: "Financial Engineering"
-category: "Principles of Financial Engineering"
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-96ca74
+key_concepts:
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Monte Carlo simulation for derivatives valuation
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+subject: Financial Engineering
+tags:
+- apt
+- arbitrage
+- bonds
+- brownian-motion
+- caps
+- cds
+- convexity
+- credit-default-swaps
+- credit-risk
+- currency-swaps
+- delta
+- derivatives-pricing
+- duration
+- factor-models
+- fixed-income
+- fixed_income
+- floors
+- gamma
+- greeks
+- hedging
+- hjm
+- hull-white
+- implied-volatility
+- interest-rate-swaps
+- libor-market-model
+- martingale
+- monte-carlo
+- options
+- replication
+- risk-management
+- risk-neutral
+- swaps
+- swaptions
+- term-structure
+- var
+- wiener-process
+- yield-curve
+- zero-coupon
+title: Fixed Income Engineering
 ---
 
 # FIXED INCOME ENGINEERING  

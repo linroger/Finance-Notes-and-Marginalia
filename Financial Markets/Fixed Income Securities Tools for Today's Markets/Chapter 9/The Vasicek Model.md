@@ -1,27 +1,47 @@
 ---
-tags:
-  - analytic_solutions
-  - binomial_tree
-  - fixed_income_securities
-  - forward_rate
-  - mean_reversion
-  - risk_premium
-  - short_term_rate
-  - spot_rate
-  - term_structure_models
-  - vasicek_model
 aliases:
-  - Mean Reversion
-  - Risk Neutrality
-  - Short Rate Model
-  - Term Structure
-  - Vasicek
+- Mean Reversion
+- Risk Neutrality
+- Short Rate Model
+- Term Structure
+- Vasicek
 key_concepts:
-  - Analytical solutions
-  - Drift and shock
-  - Mean reversion of rates
-  - Risk premium impact
-  - Risk-neutral dynamics
+- Analytical solutions
+- Drift and shock
+- Mean reversion of rates
+- Risk premium impact
+- Risk-neutral dynamics
+- Fixed income securities
+- Interest rate derivatives
+- Foreign exchange markets
+- Currency derivatives
+- Option sensitivity analysis
+- Delta, gamma, vega, theta, rho
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Vasicek short-rate model
+- Mean-reverting processes
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Credit default swaps and credit risk
+tags:
+- model-calibration
+- spot_rate
+- greeks
+- mean_reversion
+- risk_premium
+- vasicek_model
+- vasicek
+- fixed_income_securities
+- cds
+- short_term_rate
+- forward_rate
+- interest_rates
+- analytic_solutions
+- fixed_income
+- fx
 ---
 
 # 9.1 THE VASICEK MODEL  

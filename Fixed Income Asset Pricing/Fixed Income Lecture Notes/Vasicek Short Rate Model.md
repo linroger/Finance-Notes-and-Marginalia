@@ -1,20 +1,76 @@
 ---
-tags:
-  - feynman_kac
-  - money_illusion
-  - nominal_bonds
-  - ode_solutions
-  - real_bonds
 aliases:
-  - Short Rate Model
-  - Vasicek Model
+- Short Rate Model
+- Vasicek Model
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-966998
 key_concepts:
-  - Feynman-Kac Formula
-  - First Derivatives
-  - Nominal vs Real Bonds
-  - ODE Solutions
-  - System of Equations
+- Extensions to multi-factor CAPM models
+- Hull White Model
+- Option Greeks and portfolio risk management
+- Capital Asset Pricing Model and expected returns
+- Nominal vs Real Bonds
+- Solution
+- Historical simulation vs. parametric VaR models
+- Vega and volatility risk management
+- Portfolio immunization strategies
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- Option sensitivity analysis
+- Monte Carlo VaR for complex portfolios
+- Stress testing and scenario analysis
+- Key rate duration and curve risk
+- Market portfolio and risk-free rate assumptions
+- Fixed-for-floating swap cash flows and valuation
+- Security Market Line and beta measurement
+- System of Equations
+- First Derivatives
+- Value at Risk (VaR) methodologies and backtesting
+- Theta and time decay modeling
+- Interest rate swap pricing and valuation
+- Expected Shortfall and coherent risk measures
+- ODE Solutions
+- Delta, gamma, vega, theta, rho
+- Variance swaps and volatility trading strategies
+- Derivatives pricing theory
+- Bond pricing and yield analysis
+- Quantitative Implementation
+- Gamma and convexity adjustments
+- Risk-neutral valuation
+- Delta hedging and the replication argument
+- Feynman-Kac Formula
+- Vasicek Model
+- Cross-currency basis swaps and funding
+- Duration and convexity measures for bond portfolios
+- Delta hedging and Greeks
+- Price sensitivity to interest rate changes
+- Modified duration vs. Macaulay duration
+- Duration and convexity
+- Options pricing and payoff structures
+- Empirical tests and anomalies in CAPM
+tags:
+- money_illusion
+- derivatives
+- interest-rate-swaps
+- mathematical-finance
+- capm
+- bonds
+- greeks
+- value-at-risk
+- options
+- hull-white-model
+- quantitative-implementation
+- duration-convexity
+- solution
+- ode_solutions
+- real_bonds
+- feynman_kac
+- nominal_bonds
+- vasicek-model
+- volatility
 ---
+
 $\textbf{Define}$$$
 Q = \log (\text{CPI}), \quad y = \log (Y)
 $$$\textbf{so that}$$$

@@ -1,23 +1,95 @@
 ---
-cssclasses: academia
-title: Currency Appreciation and Depreciation
-source: https://en.wikipedia.org/wiki/Currency_appreciation_and_depreciation
-description:
-tags:
-  - currency_appreciation
-  - currency_depreciation
-  - economic_factors
-  - exchange_rates
-  - floating_exchange_rate
 aliases:
-  - Currency Value Changes
-  - FX Appreciation/Depreciation
+- Currency Value Changes
+- FX Appreciation/Depreciation
+cssclasses: academia
+description: null
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-18511a
 key_concepts:
-  - Currency value fluctuations
-  - Demand and supply
-  - Floating exchange rate system
-  - Impact on prices
-  - Speculative fund movements
+- Apt
+- Carry trades and momentum in FX markets
+- Demand and supply
+- Currency markets and foreign exchange trading
+- Option Greeks and portfolio risk management
+- Currency derivatives
+- Futures contracts and forward pricing
+- Solution
+- Historical simulation vs. parametric VaR models
+- Floating exchange rate system
+- Vega and volatility risk management
+- Value at risk and stress testing
+- Portfolio immunization strategies
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- Foreign exchange markets
+- Liquidity and price discovery
+- Monte Carlo VaR for complex portfolios
+- Alternative investment strategies
+- Key rate duration and curve risk
+- Stress testing and scenario analysis
+- Equity valuation and analysis
+- Course Material
+- Currency risk management and hedging
+- Forward rates and interest rate parity
+- Value at Risk (VaR) methodologies and backtesting
+- Theta and time decay modeling
+- Portfolio risk metrics
+- Case Study
+- Exchange rate determination and PPP theory
+- Margin requirements and clearing
+- Expected Shortfall and coherent risk measures
+- Market microstructure and trading
+- Impact on prices
+- Bond pricing and yield analysis
+- Speculative fund movements
+- Currency value fluctuations
+- Stress Testing
+- Quantitative Implementation
+- Gamma and convexity adjustments
+- Hedge fund strategies and alternative investments
+- Harvard Business Review
+- Delta hedging and the replication argument
+- Duration and convexity measures for bond portfolios
+- Delta hedging and Greeks
+- Price sensitivity to interest rate changes
+- Modified duration vs. Macaulay duration
+- Duration and convexity
+- Options pricing and payoff structures
+- Dividend discount models
+source: https://en.wikipedia.org/wiki/Currency_appreciation_and_depreciation
+tags:
+- fx
+- garch-models
+- mathematical-finance
+- trading
+- course-material
+- case-study
+- apt
+- bonds
+- floating_exchange_rate
+- greeks
+- risk_management
+- value-at-risk
+- exchange-rates
+- valuation
+- hedge-funds
+- options
+- quantitative-implementation
+- duration-convexity
+- solution
+- economic_factors
+- interest_rates
+- equity
+- stress-testing
+- currency_depreciation
+- currency_appreciation
+- hedge_funds
+- regulatory-framework
+- harvard-business-review
+- futures
+title: Currency Appreciation and Depreciation
 ---
 
 # Currency Appreciation and Depreciation

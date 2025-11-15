@@ -1,20 +1,41 @@
 ---
-tags:
-  - bond_spread
-  - cds_equivalent
-  - credit_risk
-  - default_risk
-  - hazard_rate
 aliases:
-  - CDS spread
-  - Genworth bond
-  - credit spread
+- CDS spread
+- Genworth bond
+- credit spread
 key_concepts:
-  - CDS-equivalent spread
-  - bond market price
-  - default and recovery
-  - discounted cash flows
-  - hazard rate calculation
+- CDS-equivalent spread
+- bond market price
+- default and recovery
+- discounted cash flows
+- hazard rate calculation
+- Credit risk modeling
+- Default probability estimation
+- Fixed income securities
+- Interest rate derivatives
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+tags:
+- credit
+- default_risk
+- bond_spread
+- fixed_income
+- fx
+- trading
+- bonds
+- cds
+- options
+- cds_equivalent
+- hazard_rate
+- credit_risk
 ---
 
 # 14.7 CDS-EQUIVALENT BOND SPREAD  

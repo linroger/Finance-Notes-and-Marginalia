@@ -1,21 +1,63 @@
 ---
-title: Institutional Aspects of Derivative Markets
-tags:
-  - clearing_houses
-  - derivatives_markets
-  - euromarkets
-  - futures_exchanges
-  - market_conventions
 aliases:
-  - Derivative Market Infrastructure
-  - Institutional Aspects
-key_concepts:
-  - Clearing and settlement
-  - Euromarkets structure
-  - Futures vs forwards
-  - Market participants
-  - Trading conventions
+- Derivative Market Infrastructure
+- Institutional Aspects
 cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-7fdd20
+key_concepts:
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- american-options
+- apt
+- arbitrage
+- arch
+- binomial
+- black-scholes
+- bonds
+- capm
+- cds
+- commodities
+- convexity
+- corporate-bonds
+- correlation
+- counterparty-risk
+- credit-default-swaps
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- factor-models
+- fixed_income
+- forwards
+- futures
+- futures-markets
+- garch
+- greeks
+- hedging
+- interest-rate-swaps
+- mbs
+- options
+- risk-management
+- risk-neutral
+- swaps
+- swaptions
+- var
+title: Institutional Aspects of Derivative Markets
 ---
 
 # INSTITUTIONAL ASPECTS OF DERIVATIVE MARKETS  

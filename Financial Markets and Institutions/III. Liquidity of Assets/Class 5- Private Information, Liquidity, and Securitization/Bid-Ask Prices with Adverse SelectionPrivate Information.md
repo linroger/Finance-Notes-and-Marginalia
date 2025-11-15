@@ -1,37 +1,27 @@
 ---
-cssclasses:
-  - academia
-title: "Lecture Notes: Bid-Ask Prices with Adverse Selection/Private Information"
-linter-yaml-title-alias: "Lecture Notes: Bid-Ask Prices with Adverse Selection/Private Information"
-tags:
-  - adverse_selection
-  - bid_ask_spread
-  - liquidity
-  - market_makers
-  - private_information
-  - market_microstructure
-  - asymmetric_information
-  - financial_markets
-  - informed_trading
-  - price_discovery
 aliases:
-  - "Adverse Selection"
-  - "Bid-Ask"
-  - "Information Asymmetry"
-  - "Market Microstructure"
-  - "Bid-Ask Spreads with Private Information"
+- Adverse Selection
+- Bid-Ask
+- Information Asymmetry
+- Market Microstructure
+- Bid-Ask Spreads with Private Information
+cssclasses:
+- academia
 key_concepts:
-  - Bid-ask spread with adverse selection
-  - Informed traders vs liquidity traders
-  - Market maker zero profit condition
-  - Price adjustment mechanisms
-  - Private information impact on spreads
-  - Adverse selection in financial markets
-  - Market microstructure theory
-  - Information asymmetry effects
-  - Trading behavior with private information
-  - Price discovery process
+- Risk-neutral measures and martingale pricing
+- Credit default swaps and counterparty risk analysis
+linter-yaml-title-alias: 'Lecture Notes: Bid-Ask Prices with Adverse Selection/Private
+  Information'
+tags:
+- abs
+- cds
+- credit-risk
+- fixed_income
+- risk-management
+- risk-neutral
+title: 'Lecture Notes: Bid-Ask Prices with Adverse Selection/Private Information'
 ---
+
 
 # Bid-Ask Prices with Adverse Selection/Private Information
 

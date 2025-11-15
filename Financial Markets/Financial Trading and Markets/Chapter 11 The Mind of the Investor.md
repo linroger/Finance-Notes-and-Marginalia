@@ -1,19 +1,33 @@
 ---
-tags:
-  - behavioral_finance
-  - day_traders
-  - investor_behavior
-  - market_efficiency
-  - rational_investor
 aliases:
-  - Investor's Mind
-  - Rationality in Investing
+- Investor's Mind
+- Rationality in Investing
 key_concepts:
-  - Day traders' performance
-  - Efficient market theories
-  - Investor IQ and success
-  - Rational investor paradigms
-  - Rationality assumption in models
+- Day traders' performance
+- Efficient market theories
+- Investor IQ and success
+- Rational investor paradigms
+- Rationality assumption in models
+- Equity valuation and analysis
+- Dividend discount models
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+tags:
+- equity
+- portfolio-theory
+- fx
+- trading
+- rational_investor
+- behavioral_finance
+- day_traders
+- portfolio
+- options
+- market_efficiency
+- investor_behavior
 ---
 
 # The Mind of the Investor  

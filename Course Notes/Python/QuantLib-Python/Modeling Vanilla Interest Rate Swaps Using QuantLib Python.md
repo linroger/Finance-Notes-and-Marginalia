@@ -1,24 +1,99 @@
 ---
-title: Modeling Vanilla Interest Rate Swaps Using QuantLib Python
-source: https://gouthamanbalaraman.com/blog/interest-rate-swap-quantlib-python.html
+aliases:
+- IRS
+- Interest Rate Swap
+- Swap Example
 description: Provides a basic introduction to valuing interest rate swaps using QuantLib
   Python.
-tags:
-  - fixed_floating
-  - interest_rate_swaps
-  - quantlib_python
-  - swap_valuation
-  - vanilla_swaps
-aliases:
-  - IRS
-  - Interest Rate Swap
-  - Swap Example
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-b48d33
 key_concepts:
-  - Cash flow analysis
-  - Fixed vs. floating
-  - Interest rate swap
-  - Notional amount
-  - QuantLib Python valuation
+- Notional amount
+- Term structure of interest rates and yield curve shapes
+- Treasury Futures
+- Interest rate swap valuation and fixed-floating spreads
+- Monte Carlo simulation techniques for path-dependent options
+- Real options valuation in corporate investment decisions
+- Binomial option pricing model for American-style options
+- Greeks calculation and their interpretation in options trading
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Option Greeks and portfolio risk management
+- Commodity markets and pricing dynamics
+- Expectations hypothesis and liquidity preference theory
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- QuantLib Python valuation
+- Vega and volatility risk management
+- CDS clearing and central counterparties
+- Commodity futures pricing and storage costs
+- Interest rate swap
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- Credit default swap pricing and recovery assumptions
+- GARCH models and volatility forecasting
+- 'Structured products: CDOs, CLOs, and credit derivatives'
+- modified following convention in CDS
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Forward rates and interest rate parity
+- Theta and time decay modeling
+- Risk-neutral pricing methodology for derivative securities
+- Synthetic credit derivatives and index trades
+- Case Study
+- Exchange rate determination and PPP theory
+- Treasury futures trading and basis point value calculations
+- CVA and DVA adjustments in derivative pricing
+- Interest rate swap pricing and valuation
+- interest rate and currency derivatives
+- Credit default swap pricing and risk-neutral probabilities
+- present value and discounting methods
+- Variance swaps and volatility trading strategies
+- fair value measurement and hierarchy
+- Delta hedging strategies in options portfolio management
+- Theta decay modeling for time-sensitive options strategies
+- Implied volatility extraction from market option prices
+- Fixed vs. floating
+- Volatility smile and skew modeling in options markets
+- Gamma and convexity adjustments
+- Delta hedging and the replication argument
+- Parallel and non-parallel shifts in the yield curve
+- Cross-currency basis swaps and funding
+- Cash flow analysis
+- Currency markets and foreign exchange trading
+source: https://gouthamanbalaraman.com/blog/interest-rate-swap-quantlib-python.html
+tags:
+- yield-curve
+- treasury-futures
+- commodities
+- credit-default-swaps
+- collateralized-debt-obligations
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- course-material
+- interest_rate_swaps
+- fixed_floating
+- financial-modeling
+- case-study
+- greeks
+- exchange-rates
+- quantitative-implementation
+- duration-convexity
+- solution
+- treasury-bonds
+- vanilla_swaps
+- swap_valuation
+- net-present-value
+- implied-volatility
+- quantitative-finance
+- dcf-valuation
+- quantlib_python
+- monte-carlo
+title: Modeling Vanilla Interest Rate Swaps Using QuantLib Python
 ---
 
 # Modeling Vanilla Interest Rate Swaps Using QuantLib Python

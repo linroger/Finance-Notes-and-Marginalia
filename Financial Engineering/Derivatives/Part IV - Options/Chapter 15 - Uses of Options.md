@@ -1,23 +1,106 @@
 ---
-tags:
-  - downside_risk
-  - european_option
-  - no_arbitrage
-  - protective_put
-  - put_call_parity
-  - stock_index_options
 aliases:
-  - Car Insurance
-  - Protective Put
-  - S&P 500
-  - Stock-XYZ
+- Car Insurance
+- Protective Put
+- S&P 500
+- Stock-XYZ
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-4d4a35
 key_concepts:
-  - European put option
-  - downside risk control
-  - protective put
-  - put call parity
-  - stock index options
+- Apt
+- Cox-Ross-Rubinstein parameter specification
+- coupon-bearing bond analysis
+- Extensions to multi-factor CAPM models
+- Duration and convexity analysis for bond portfolio management
+- Active portfolio management and performance attribution
+- put call parity
+- Computational implementation of binomial option pricing
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Market risk measurement and portfolio volatility
+- Option Greeks and portfolio risk management
+- maturity date in CDS
+- Commodity markets and pricing dynamics
+- Capital Asset Pricing Model and beta estimation
+- Risk budgeting and portfolio construction techniques
+- Capital Asset Pricing Model and expected returns
+- protective put
+- Credit spread decomposition and hazard rates
+- future value and compounding
+- CDS clearing and central counterparties
+- forward commitments and hedging
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- Shadow Banking
+- Fixed-for-floating swap cash flows and valuation
+- Arbitrage Pricing Theory and multifactor models
+- Security Market Line and beta measurement
+- International arbitrage and covered interest rate parity
+- Case Study
+- Arbitrage opportunities and risk-free profit extraction
+- Interest rate swap pricing and valuation
+- Credit default swap pricing and risk-neutral probabilities
+- ESG integration in portfolio management
+- zero-coupon bond pricing and yields
+- Variance swaps and volatility trading strategies
+- Convergence of binomial model to Black-Scholes solution
+- Binomial option pricing model with multiple time steps
+- Delta hedging strategies in options portfolio management
+- stock index options
+- Shadow banking system and regulatory arbitrage
+- American option pricing in binomial trees
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Delta hedging and the replication argument
+- European put option
+- Cross-currency basis swaps and funding
+- downside risk control
+- Currency hedging strategies for global portfolios
+- Market portfolio and risk-free rate assumptions
+- cash settlement in CDS
+- Empirical tests and anomalies in CAPM
+tags:
+- binomial-model
+- straddle
+- commodities
+- credit-default-swaps
+- stock_index_options
+- collateralized-debt-obligations
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- put_call_parity
+- european_option
+- capm
+- shadow-banking
+- asian-options
+- market-risk
+- case-study
+- apt
+- greeks
+- downside_risk
+- value-at-risk
+- put-options
+- factor-models
+- exchange-rates
+- protective_put
+- credit-risk
+- european-options
+- duration-convexity
+- quantitative-implementation
+- solution
+- treasury-bonds
+- american-options
+- no_arbitrage
+- arbitrage
+- exotic-options
+- structured-products
+- barrier-options
 ---
+
 # Uses of Options  
 
 # Aims  

@@ -1,20 +1,34 @@
 ---
-title: Interest Rates,  Carry Trades,  and Exchange Rate Movements
-tags:
-  - carry_trade
-  - currency_markets
-  - exchange_rates
-  - interest_rate_differentials
-  - interest_rates
 aliases:
-  - Carry Trade Strategy
-  - Exchange Rate Swings
+- Carry Trade Strategy
+- Exchange Rate Swings
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-be498a
 key_concepts:
-  - Carry trade strategy
-  - Covered interest parity
-  - Forward exchange rate
-  - Funding currency
-  - Interest rate differentials
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+tags:
+- arbitrage
+- arch
+- commodities
+- convexity
+- credit-risk
+- duration
+- fixed_income
+- forwards
+- futures
+- fx
+- garch
+- hedging
+- no-arbitrage
+- risk-management
+- yield-curve
+title: Interest Rates,  Carry Trades,  and Exchange Rate Movements
 ---
 
 # Interest Rates, Carry Trades, and Exchange Rate Movements

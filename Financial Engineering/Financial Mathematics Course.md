@@ -1,34 +1,142 @@
 ---
-tags:
-  - arbitrage
-  - asset_pricing
-  - derivatives
-  - financial_mathematics
-  - interest_rates
-  - mathematical_modeling
-  - options
-  - quantitative_finance
-  - risk_management
-  - stochastic_processes
 aliases:
-  - Financial Mathematics
+- Financial Mathematics
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-375b4b
 key_concepts:
-  - Arbitrage theory
-  - Asset pricing models
-  - Black-Scholes model
-  - Complete markets
-  - Continuous-time models
-  - Derivative securities
-  - Discrete-time models
-  - Financial mathematics
-  - Interest rate theory
-  - Martingale measures
-  - Option pricing
-  - Risk management
-  - Risk-neutral pricing
-  - Stochastic calculus
-  - Term structure models
+- Price sensitivity to interest rate changes
+- Spot rates vs. forward rates modeling
+- Monte Carlo simulation for derivatives valuation
+- Harvard Business Review
+- Variance swaps and volatility trading strategies
+- Kalman Filter
+- GARCH models and volatility forecasting
+- Duration and convexity measures for bond portfolios
+- Interest rate swap pricing and valuation
+- Term structure of interest rates and yield curve shapes
+- Monte Carlo methods for risk measurement
+- Ito's lemma and stochastic calculus applications
+- Wrong-way risk in derivative transactions
+- Credit portfolio diversification and concentration
+- Volatility modeling and forecasting techniques
+- Bond pricing and fixed income securities valuation
+- Variance reduction techniques in Monte Carlo methods
+- Path-dependent options and Monte Carlo integration
+- Credit default swaps and counterparty risk analysis
+- Cross-currency basis swaps and funding
+- Solution
+- Portfolio hedging and risk reduction strategies
+- American Options
+- Value at Risk and tail risk measurement
+- Arbitrage opportunities and no-arbitrage pricing
+- Swap spread and credit risk considerations
+- Delta hedging strategies in options portfolio management
+- Term structure of interest rates and yield curve modeling
+- Credit risk modeling and default probability estimation
+- Monte Carlo simulation for derivative pricing
+- Options Greeks and sensitivity analysis
+- Treasury Bonds
+- Fixed-for-floating swap cash flows and valuation
+- Interest rate swaps and term structure modeling
+- Collateralized Debt Obligations
+- Key rate duration and curve risk
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Portfolio immunization strategies
+- 'Short-rate models: Vasicek, CIR, and mean reversion'
+- Black-Scholes model and option pricing theory
+- Partial differential equations in financial modeling
+- Modified duration vs. Macaulay duration
+- Quasi-Monte Carlo and low-discrepancy sequences
+- Risk-neutral measures and martingale pricing
+- Loss given default and recovery rates
+- Corporate Bonds
+- Credit exposure measurement and EAD
+tags:
+- collateralized-debt-obligations
+- filtration
+- term-structure
+- interest-rate-swaps
+- hjm
+- european-options
+- exotic-options
+- commodities
+- stochastic-calculus
+- wiener-process
+- course-material
+- hedging
+- infrastructure
+- caps-floors
+- zero-coupon
+- binomial-model
+- municipal-bonds
+- distressed-debt
+- currency-swaps
+- credit-risk
+- no-arbitrage
+- treasury-bonds
+- risk-neutral
+- kalman-filter
+- american-options
+- derivatives-pricing
+- var
+- cds
+- black-scholes-model
+- martingales
+- quantitative-implementation
+- caps
+- arch
+- mathematical-finance
+- cir
+- cir-model
+- investment-banking
+- geometric-brownian-motion
+- delta
+- risk-management
+- apt
+- duration
+- time-series
+- garch-models
+- harvard-business-review
+- solution
+- corporate-bonds
+- black-scholes
+- abs
+- yield-curve
+- garch
+- swaptions
+- dcf-valuation
+- exchange-rates
+- greeks
+- mean-reversion
+- pde
+- fixed_income
+- arbitrage
+- vasicek
+- forwards
+- credit-default-swaps
+- hjm-model
+- futures
+- duration-convexity
+- barrier-options
+- monte-carlo
+- swaps
+- bonds
+- leveraged-buyouts
+- binomial
+- martingale
+- brownian-motion
+- value-at-risk
+- factor-models
+- capm
+- vasicek-model
+- options
+- case-study
+- efficient-market
+- convexity
 ---
+
 # Financial Mathematics I  
 
 Lecture Notes Universitat Ulm  

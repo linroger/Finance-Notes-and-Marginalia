@@ -1,22 +1,92 @@
 ---
-tags:
-  - bond_structure
-  - bond_valuation
-  - credit_risk
-  - fixed_income
-  - yield_measures
 aliases:
-  - Bonds Overview
-  - Fixed Income
-  - Lecture Notes
+- Bonds Overview
+- Fixed Income
+- Lecture Notes
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-b78dfa
 key_concepts:
-  - Bond characteristics
-  - Bond maturity
-  - Coupon types
-  - Investment risks
-  - Portfolio strategies
-  - Types of issuers
-  - Yield measures
+- Term structure of interest rates and yield curve shapes
+- Treasury Bonds
+- Single-name vs. index CDS trading
+- Currency derivatives
+- Expectations hypothesis and liquidity preference theory
+- Solution
+- Historical simulation vs. parametric VaR models
+- Default probability estimation
+- Interest rate swaps and term structure
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- CDS clearing and central counterparties
+- Portfolio immunization strategies
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- Foreign exchange markets
+- Liquidity and price discovery
+- Monte Carlo VaR for complex portfolios
+- Stress testing and scenario analysis
+- Key rate duration and curve risk
+- Equity valuation and analysis
+- Types of issuers
+- Fixed-for-floating swap cash flows and valuation
+- Value at Risk (VaR) methodologies and backtesting
+- Case Study
+- Portfolio strategies
+- Interest rate swap pricing and valuation
+- Expected Shortfall and coherent risk measures
+- Credit default swap pricing and risk-neutral probabilities
+- Market microstructure and trading
+- Variance swaps and volatility trading strategies
+- Bond characteristics
+- Interest rate derivatives
+- Yield measures
+- Bond pricing and yield analysis
+- Fixed income securities
+- Quantitative Implementation
+- Coupon types
+- Bond maturity
+- Parallel and non-parallel shifts in the yield curve
+- Credit risk modeling
+- Duration and convexity measures for bond portfolios
+- Cross-currency basis swaps and funding
+- Price sensitivity to interest rate changes
+- Modified duration vs. Macaulay duration
+- Duration and convexity
+- Investment risks
+- Dividend discount models
+tags:
+- yield-curve
+- fx
+- swaps
+- credit-default-swaps
+- interest-rate-swaps
+- credit_risk
+- mathematical-finance
+- trading
+- course-material
+- case-study
+- bonds
+- yield_measures
+- value-at-risk
+- fixed_income
+- valuation
+- credit-risk
+- quantitative-implementation
+- duration-convexity
+- solution
+- treasury-bonds
+- structured_finance
+- equity
+- liquidity-risk
+- credit
+- portfolio-theory
+- bond_structure
+- volatility
+- municipal-bonds
+- cds
 ---
 
 # Lecture Notes: Bonds, Preferred Stock, and Structured Products

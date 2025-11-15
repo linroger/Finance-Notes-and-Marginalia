@@ -1,22 +1,116 @@
 ---
-tags:
-  - arbitrage
-  - bond_portfolio
-  - futures_contract
-  - hedging
-  - market_timing
-  - t_bond_futures
 aliases:
-  - T-bond futures
-  - UK Gilt futures
-  - cheapest-to-deliver
+- T-bond futures
+- UK Gilt futures
+- cheapest-to-deliver
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-4b1b0f
 key_concepts:
-  - Cash-and-carry arbitrage
-  - Eliminate price risk
-  - Optimal futures contract
-  - Speculative strategies
-  - T-bond futures details
+- Apt
+- Bond convexity adjustment for large interest rate changes
+- coupon-bearing bond analysis
+- Term structure of interest rates and yield curve shapes
+- Treasury Futures
+- Extensions to multi-factor CAPM models
+- Duration and convexity analysis for bond portfolio management
+- Active portfolio management and performance attribution
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Market risk measurement and portfolio volatility
+- maturity date in CDS
+- delivery date in CDS settlement
+- Capital Asset Pricing Model and beta estimation
+- Risk budgeting and portfolio construction techniques
+- Expectations hypothesis and liquidity preference theory
+- Capital Asset Pricing Model and expected returns
+- Yield curve fitting and interpolation methods
+- future value and compounding
+- Credit spread decomposition and hazard rates
+- CDS clearing and central counterparties
+- fixed income risk measurement
+- forward commitments and hedging
+- CDS-Bond basis and arbitrrage opportunities
+- Spot rates vs. forward rates modeling
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- Shadow Banking
+- Speculative strategies
+- Fixed-for-floating swap cash flows and valuation
+- Arbitrage Pricing Theory and multifactor models
+- Course Material
+- Security Market Line and beta measurement
+- International arbitrage and covered interest rate parity
+- Case Study
+- Arbitrage opportunities and risk-free profit extraction
+- Interest rate swap pricing and valuation
+- excess returns and manager skill
+- Credit default swap pricing and risk-neutral probabilities
+- ESG integration in portfolio management
+- present value and discounting methods
+- zero-coupon bond pricing and yields
+- Variance swaps and volatility trading strategies
+- Delta hedging strategies in options portfolio management
+- Shadow banking system and regulatory arbitrage
+- T-bond futures details
+- Eliminate price risk
+- clean price in CDS settlement
+- Capital Structure
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Parallel and non-parallel shifts in the yield curve
+- Gamma trading and convexity adjustment techniques
+- Cross-currency basis swaps and funding
+- Optimal futures contract
+- Market portfolio and risk-free rate assumptions
+- alternative investment strategies
+- Cash-and-carry arbitrage
+- Empirical tests and anomalies in CAPM
+tags:
+- yield-curve
+- treasury-futures
+- convexity
+- credit-default-swaps
+- collateralized-debt-obligations
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- course-material
+- futures_contract
+- market_timing
+- capital-structure
+- capm
+- haircuts
+- rating-agencies
+- bond_portfolio
+- market-risk
+- shadow-banking
+- case-study
+- apt
+- greeks
+- value-at-risk
+- factor-models
+- exchange-rates
+- bond-futures
+- hedge-funds
+- credit-risk
+- quantitative-implementation
+- duration-convexity
+- solution
+- hedging
+- treasury-bonds
+- arbitrage
+- corporate-bonds
+- t_bond_futures
+- exotic-options
+- distressed-debt
+- delta-hedging
+- dcf-valuation
+- futures-markets
+- duration
 ---
+
 # T-bond Futures  
 
 # Aims  

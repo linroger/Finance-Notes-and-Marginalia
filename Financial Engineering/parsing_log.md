@@ -1,3 +1,26 @@
+---
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-0fb47f
+key_concepts:
+- Term structure of interest rates and yield curve modeling
+- Credit risk modeling and default probability estimation
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+tags:
+- apt
+- arbitrage
+- brownian-motion
+- credit-risk
+- derivatives-markets
+- fixed-income
+- fixed_income
+- hedging
+- replication
+- risk-management
+- yield-curve
+---
+
 # Parsing Log for Financial Engineering Directory
 
 ## Session: 2025-01-17

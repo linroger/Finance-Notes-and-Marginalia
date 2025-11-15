@@ -1,3 +1,40 @@
+---
+key_concepts:
+- Equity valuation and analysis
+- Dividend discount models
+- Foreign exchange markets
+- Currency derivatives
+- Option sensitivity analysis
+- Delta, gamma, vega, theta, rho
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Black-Scholes option pricing model
+- Continuous-time finance
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Derivatives pricing theory
+- Risk-neutral valuation
+tags:
+- equity
+- valuation
+- fx
+- greeks
+- trading
+- bonds
+- black_scholes
+- volatility
+- futures
+- cds
+- options
+- derivatives
+- binomial
+---
 %% Begin Waypoint %%
 - **Chapter 5 Options on Prices and Hedge-Based Valuation**
 	- A Real-Life Option Pricing Exercise

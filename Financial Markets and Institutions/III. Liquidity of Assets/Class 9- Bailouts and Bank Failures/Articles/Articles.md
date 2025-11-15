@@ -1,21 +1,21 @@
 ---
-title: Articles
-tags:
-  - articles
-  - document_structure
-  - note_taking
-  - obsidian_syntax
-  - waypoint
 aliases:
-  - Article
-  - Articles
-  - Notes
+- Article
+- Articles
+- Notes
 key_concepts:
-  - Document organization
-  - Note structure
-  - Obsidian articles
-  - Waypoints
+- Term structure of interest rates and yield curve modeling
+- Credit risk modeling and default probability estimation
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+tags:
+- arbitrage
+- hedging
+- risk-management
+title: Articles
 ---
+
 
 # Articles
 

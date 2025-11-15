@@ -1,21 +1,131 @@
 ---
-tags:
-  - business_analysis
-  - capital_structure
-  - corporate_finance
-  - corporate_governance
-  - financial_statements
-  - investment_decisions
 aliases:
-  - Business Organizations
-  - Corporate Finance
+- Business Organizations
+- Corporate Finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-e66b9d
 key_concepts:
-  - Capital structure costs
-  - Corporate governance role
-  - Earnings and cash flow
-  - Financial statement analysis
-  - Net present value (NPV)
-  - Time value of money
+- Financial statement analysis
+- Cox-Ross-Rubinstein parameter specification
+- Earnings and cash flow
+- coupon-bearing bond analysis
+- Term structure of interest rates and yield curve shapes
+- Working Capital
+- investment banking services and activities
+- capital markets and issuance
+- Duration and convexity analysis for bond portfolio management
+- Computational implementation of binomial option pricing
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- maturity date in CDS
+- Commodity markets and pricing dynamics
+- Capital Asset Pricing Model and beta estimation
+- Expectations hypothesis and liquidity preference theory
+- portfolio theory and asset pricing
+- future value and compounding
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- CDS clearing and central counterparties
+- fixed income risk measurement
+- forward commitments and hedging
+- CDS-Bond basis and arbitrrage opportunities
+- Spot rates vs. forward rates modeling
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- 2008 financial crisis and systemic risk analysis
+- cost of capital estimation
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Capital structure costs
+- portfolio optimization and risk decomposition
+- Time value of money
+- trustee duties and trust administration
+- pass-through securities structure
+- Dividend Policy
+- fundamental valuation methods
+- Interest rate swap pricing and valuation
+- Credit default swap pricing and risk-neutral probabilities
+- Net present value (NPV)
+- present value and discounting methods
+- zero-coupon bond pricing and yields
+- Variance swaps and volatility trading strategies
+- Pairs trading and statistical arbitrage strategies
+- Convergence of binomial model to Black-Scholes solution
+- Corporate governance role
+- Binomial option pricing model with multiple time steps
+- Delta hedging strategies in options portfolio management
+- systematic risk and market exposure
+- simulation methods in financial engineering
+- clean price in CDS settlement
+- American option pricing in binomial trees
+- Capital Structure
+- Credit risk modeling and portfolio correlation analysis
+- Parallel and non-parallel shifts in the yield curve
+- risk-adjusted performance measurement
+- Cross-currency basis swaps and funding
+- alternative investment strategies
+tags:
+- yield-curve
+- binomial-model
+- commodities
+- credit-default-swaps
+- dividend-policy
+- 2008-financial-crisis
+- pairs-trading
+- capm
+- case-study
+- apt
+- value-at-risk
+- factor-models
+- credit-risk
+- efficient-market
+- ipos
+- duration-convexity
+- solution
+- private-equity
+- wacc
+- depreciation
+- investment-banking
+- financial-crisis
+- algorithmic-trading
+- corporate-bonds
+- cost-of-capital
+- portfolio-theory
+- municipal-bonds
+- credit-analysis
+- working-capital
+- collateralized-debt-obligations
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- course-material
+- capital-structure
+- market-risk
+- amortization
+- greeks
+- venture-capital
+- exchange-rates
+- hedge-funds
+- ebitda
+- leveraged-buyouts
+- hull-white-model
+- quantitative-implementation
+- real-estate
+- treasury-bonds
+- return-on-equity
+- stress-testing
+- arbitrage
+- exotic-options
+- distressed-debt
+- implied-volatility
+- dcf-valuation
+- harvard-business-review
+- duration
+- real-options
+- monte-carlo
+- term-structure
 ---
 
 #  

@@ -1,20 +1,53 @@
 ---
-title: Deriving Forward Exchange Rate Numerical Example
-tags:
-  - currency_depreciation
-  - forward_exchange_rate
-  - futures_contracts
-  - hedging_strategy
-  - mark_to_market
 aliases:
-  - FX Forward Example
-  - Forward Rate Derivation
+- FX Forward Example
+- Forward Rate Derivation
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-a400fd
 key_concepts:
-  - European bank hedging
-  - Forward exchange rate
-  - Futures contract payoff
-  - Hedging currency risk
-  - Mark to market
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Monte Carlo simulation for derivatives valuation
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Volatility smile, skew, and surface modeling
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- binomial
+- bonds
+- cds
+- commodities
+- convexity
+- credit-default-swaps
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- fixed_income
+- forwards
+- futures
+- fx
+- gamma
+- greeks
+- hedging
+- implied-volatility
+- interest-rate-swaps
+- monte-carlo
+- options
+- replication
+- risk-management
+- risk-neutral
+- swaps
+- theta
+- vega
+- yield-curve
+title: Deriving Forward Exchange Rate Numerical Example
 ---
 
 # Deriving Forward Exchange Rate Numerical Example

@@ -1,3 +1,33 @@
+---
+title: Chapter 10 - The Economics of the Term Structure of Interest Rates
+tags:
+- apt
+- arbitrage
+- bonds
+- cir
+- convexity
+- duration
+- fixed_income
+- hedging
+- risk-management
+- risk-neutral
+- swaps
+- vasicek
+aliases: []
+key_concepts:
+- Risk-neutral measures and martingale pricing
+- Term structure of interest rates and yield curve modeling
+- 'Short-rate models: Vasicek, CIR, and mean reversion'
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+---
+
 %% Begin Waypoint %%
 - **Chapter 10 - The Economics of the Term Structure of Interest Rates**
 	- Basic Interest Rate Concepts and Relations

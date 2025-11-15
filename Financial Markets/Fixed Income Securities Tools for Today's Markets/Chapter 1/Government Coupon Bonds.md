@@ -1,19 +1,28 @@
 ---
-tags:
-  - bond_pricing
-  - cash_flows
-  - coupon_bonds
-  - government_bonds
-  - us_treasury
 aliases:
-  - Coupon Bonds
-  - Government Bonds
+- Coupon Bonds
+- Government Bonds
 key_concepts:
-  - Bond prices quoted
-  - Cash flows defined
-  - Government coupon bonds
-  - Invoice ask price
-  - US Treasury bonds
+- Bond prices quoted
+- Cash flows defined
+- Government coupon bonds
+- Invoice ask price
+- US Treasury bonds
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Fixed income securities
+- Interest rate derivatives
+- Bond pricing and yield analysis
+- Duration and convexity
+tags:
+- options
+- us_treasury
+- coupon_bonds
+- bond_pricing
+- cash_flows
+- fixed_income
+- bonds
+- government_bonds
 ---
 
 # 1.1 GOVERNMENT COUPON BONDS  

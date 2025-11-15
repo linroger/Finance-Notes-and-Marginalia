@@ -1,38 +1,114 @@
 ---
-tags:
-  - currency_derivatives
-  - currency_futures
-  - currency_options
-  - exchange_rate_risk
-  - forward_contracts
-  - hedging
-  - speculation
-  - risk_management
-  - international_finance
-  - exotic_options
-  - binomial_pricing
 aliases:
-  - Currency Derivatives Primer
-  - Derivatives Primer
-  - Hopper Article
-  - Foreign Exchange Derivatives Guide
-key_concepts:
-  - Currency derivatives usage
-  - Currency exchange rate uncertainty
-  - Floating rate system
-  - Forward contract definition
-  - Forward exchange rate
-  - Credit risk in forward contracts
-  - Futures contract mechanics
-  - Margin requirements
-  - Option pricing theory
-  - Delta hedging
-  - Volatility risk
-  - Correlation risk
-  - Exotic derivatives
-  - Black-Scholes model
-  - Put-call parity
+- Currency Derivatives Primer
+- Derivatives Primer
+- Hopper Article
+- Foreign Exchange Derivatives Guide
 cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-ddeefe
+key_concepts:
+- Extensions to multi-factor CAPM models
+- Duration and convexity analysis for bond portfolio management
+- Active portfolio management and performance attribution
+- Floating rate system
+- Single-name vs. index CDS trading
+- Market risk measurement and portfolio volatility
+- Option Greeks and portfolio risk management
+- Commodity markets and pricing dynamics
+- delivery date in CDS settlement
+- Credit risk in forward contracts
+- Currency derivatives usage
+- Capital Asset Pricing Model and beta estimation
+- Risk budgeting and portfolio construction techniques
+- Capital Asset Pricing Model and expected returns
+- Credit spread decomposition and hazard rates
+- Mathematical derivation of the Black-Scholes partial differential equation
+- Forward exchange rate
+- Vega and volatility risk management
+- option pricing models and PDE solutions
+- Currency exchange rate uncertainty
+- CDS clearing and central counterparties
+- forward commitments and hedging
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- Futures contract mechanics
+- GARCH models and volatility forecasting
+- Correlation risk
+- Fixed-for-floating swap cash flows and valuation
+- Volatility risk
+- Course Material
+- Security Market Line and beta measurement
+- Delta hedging
+- Forward contract definition
+- Theta and time decay modeling
+- Case Study
+- Interest rate swap pricing and valuation
+- Exotic derivatives
+- Credit default swap pricing and risk-neutral probabilities
+- Risk-neutral valuation in continuous time models
+- ESG integration in portfolio management
+- Variance swaps and volatility trading strategies
+- Put-call parity
+- fair value measurement and hierarchy
+- regulatory stress testing and risk assessment
+- Delta hedging strategies in options portfolio management
+- settlement date in CDS
+- Gamma and convexity adjustments
+- Capital Structure
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Delta hedging and the replication argument
+- Margin requirements
+- Cross-currency basis swaps and funding
+- Currency hedging strategies for global portfolios
+- Black-Scholes model
+- Black-Scholes-Merton option pricing model and its applications
+- Market portfolio and risk-free rate assumptions
+- Option pricing theory
+- Empirical tests and anomalies in CAPM
+tags:
+- commodities
+- credit-default-swaps
+- capm
+- case-study
+- risk_management
+- value-at-risk
+- put-options
+- credit-risk
+- european-options
+- duration-convexity
+- international_finance
+- solution
+- hedging
+- exchange-rate
+- option-pricing
+- exotic_options
+- garch-models
+- interest-rate-swaps
+- call-options
+- currency_derivatives
+- mathematical-finance
+- course-material
+- forward_contracts
+- speculation
+- capital-structure
+- market-risk
+- greeks
+- black-scholes-model
+- exchange-rates
+- quantitative-implementation
+- forward-exchange
+- american-options
+- exchange_rate_risk
+- stress-testing
+- currency_futures
+- binomial_pricing
+- exotic-options
+- currency-risk
+- harvard-business-review
 ---
 
 # A Primer on Currency Derivatives  

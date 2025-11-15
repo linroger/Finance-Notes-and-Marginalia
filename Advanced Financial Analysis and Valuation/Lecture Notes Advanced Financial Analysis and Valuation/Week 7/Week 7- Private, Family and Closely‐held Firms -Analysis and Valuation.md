@@ -1,11 +1,117 @@
 ---
-title: "Week 7 - Private, Family and Closely-held Firms - Analysis and Valuation"
-linter-yaml-title-alias: "Week 7 - Private, Family and Closely-held Firms - Analysis and Valuation"
-aliases: [Control Rights, Kohler Co Valuation, Marketability Discount Analysis, Private Company Valuation Methods, Family Firm Governance]
-date created: Tuesday, November 26th 2024, 7:45:23 pm
+aliases:
+- Control Rights
+- Kohler Co Valuation
+- Marketability Discount Analysis
+- Private Company Valuation Methods
+- Family Firm Governance
 cssclasses: academia
-tags: [closely_held_firms, control_premium, corporate_governance, dcf_valuation, illiquidity_discount, kohler_case, minority_discount, private_firms, valuation_methods, wacc_calculation, family_business, insider_ownership, total_beta, institutional_environment, related_party_transactions, pyramids, dual_class_shares, investor_protection, emerging_markets]
-key_concepts: [control premium calculation, control rights valuation, corporate governance analysis, dcf and wacc application, illiquidity cost of capital, insider ownership impact, Kohler family case study, lack of marketability discount, total beta approach, valuing private companies, minority discount methodology, private benefits consumption, control enhancing mechanisms, investor protection importance, related party transactions, pyramidal ownership structures, governance premium valuation]
+date created: Tuesday, November 26th 2024, 7:45:23 pm
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-557bee
+key_concepts:
+- Extensions to multi-factor CAPM models
+- private benefits consumption
+- investor protection importance
+- capital markets and issuance
+- minority discount methodology
+- Extreme value theory and tail risk modeling
+- Credit risk modeling and default probability estimation
+- valuing private companies
+- pyramidal ownership structures
+- Capital Asset Pricing Model and expected returns
+- Historical simulation vs. parametric VaR models
+- Credit portfolio diversification and concentration
+- DV01 calculation and interest rate risk hedging
+- dcf and wacc application
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- control enhancing mechanisms
+- GARCH models and volatility forecasting
+- Monte Carlo VaR for complex portfolios
+- cost of capital estimation
+- governance premium valuation
+- total beta approach
+- Stress testing and scenario analysis
+- Key rate duration and curve risk
+- corporate governance analysis
+- related party transactions
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Security Market Line and beta measurement
+- Value at Risk (VaR) methodologies and backtesting
+- Risk-neutral pricing methodology for derivative securities
+- Case Study
+- Dividend Policy
+- Generally Accepted Accounting Principles
+- fundamental valuation methods
+- control rights valuation
+- Expected Shortfall and coherent risk measures
+- Interest rate swap pricing and valuation
+- Variance swaps and volatility trading strategies
+- Credit exposure measurement and EAD
+- Kohler family case study
+- Wrong-way risk in derivative transactions
+- systematic risk and market exposure
+- insider ownership impact
+- Value-at-Risk calculation using historical simulation
+- Quantitative Implementation
+- Credit risk migration matrices and rating transition
+- control premium calculation
+- Credit risk modeling and portfolio correlation analysis
+- Backtesting procedures for risk models
+- illiquidity cost of capital
+- Cross-currency basis swaps and funding
+- Duration and convexity measures for bond portfolios
+- Price sensitivity to interest rate changes
+- Loss given default and recovery rates
+- Market portfolio and risk-free rate assumptions
+- Modified duration vs. Macaulay duration
+- lack of marketability discount
+- Empirical tests and anomalies in CAPM
+linter-yaml-title-alias: Week 7 - Private, Family and Closely-held Firms - Analysis
+  and Valuation
+tags:
+- corporate-governance
+- dividend-policy
+- capm
+- case-study
+- value-at-risk
+- credit-risk
+- dcf_valuation
+- private_firms
+- duration-convexity
+- solution
+- wacc
+- wacc_calculation
+- closely_held_firms
+- cost-of-capital
+- kohler_case
+- insider_ownership
+- valuation_methods
+- total_beta
+- corporate_governance
+- municipal-bonds
+- expected-shortfall
+- institutional_environment
+- family_business
+- emerging_markets
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- course-material
+- audit
+- impairment
+- quantitative-implementation
+- stress-testing
+- emerging-markets
+- exotic-options
+- dcf-valuation
+- gaap
+- harvard-business-review
+- monte-carlo
+title: Week 7 - Private, Family and Closely-held Firms - Analysis and Valuation
 ---
 
 # Week 7 - Private, Family and Closely-held Firms - Analysis and Valuation

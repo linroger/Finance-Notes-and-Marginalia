@@ -1,3 +1,94 @@
+---
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-8b3434
+key_concepts:
+- Apt
+- Liquidity coverage ratio and net stable funding ratio
+- Term structure of interest rates
+- Extensions to multi-factor CAPM models
+- Term structure of interest rates and yield curve shapes
+- Stochastic calculus in financial modeling
+- Stress testing and supervisory review processes
+- Market risk measurement and portfolio volatility
+- Option Greeks and portfolio risk management
+- Commodity markets and pricing dynamics
+- Currency derivatives
+- Expectations hypothesis and liquidity preference theory
+- Capital Asset Pricing Model and expected returns
+- Interest rate swaps and term structure
+- Interest rate modeling
+- Yield curve fitting and interpolation methods
+- Leverage ratio and large exposures
+- Value at risk and stress testing
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- Option sensitivity analysis
+- GARCH models and volatility forecasting
+- Foreign exchange markets
+- Market portfolio and risk-free rate assumptions
+- Equity valuation and analysis
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Risk-weighted assets and capital adequacy ratios
+- Security Market Line and beta measurement
+- Portfolio risk metrics
+- Case Study
+- Interest rate swap pricing and valuation
+- Delta, gamma, vega, theta, rho
+- Basel III regulatory framework and capital requirements
+- Variance swaps and volatility trading strategies
+- Bond pricing and yield analysis
+- Capital Structure
+- Parallel and non-parallel shifts in the yield curve
+- Cross-currency basis swaps and funding
+- Delta hedging and Greeks
+- Basis swaps and cross-currency swaps
+- Duration and convexity
+- Options pricing and payoff structures
+- Dividend discount models
+- Empirical tests and anomalies in CAPM
+tags:
+- yield-curve
+- fx
+- swaps
+- commodities
+- stochastic-calculus
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- course-material
+- bank-regulation
+- capital-structure
+- capm
+- market-risk
+- case-study
+- apt
+- bonds
+- greeks
+- risk_management
+- value-at-risk
+- exchange-rates
+- hedge-funds
+- options
+- currency-swaps
+- quantitative-implementation
+- duration-convexity
+- solution
+- real-estate
+- regulation
+- equity
+- interest_rates
+- stress-testing
+- stochastic_calculus
+- infrastructure
+- corporate-bonds
+- bridgewater-perspective
+- exotic-options
+- harvard-business-review
+---
+
 I'll rewrite the chapters in a more engaging and clearer manner while preserving all the details, illustrating economic chains with mermaid diagrams, and maintaining the markdown formatting.
 
 # Chapter 15: What My Indicators Show

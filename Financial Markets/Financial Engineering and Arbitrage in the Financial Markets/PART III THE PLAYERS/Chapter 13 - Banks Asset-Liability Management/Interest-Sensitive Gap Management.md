@@ -1,15 +1,33 @@
 ---
+key_concepts:
+- Equity valuation and analysis
+- Dividend discount models
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Interest rate modeling
+- Term structure of interest rates
 tags:
-  - '#asset_sensitivity'
-  - '#interest_rate_risk'
-  - '#interest_rate_swaps'
-  - '#interest_sensitive_gap_management'
-  - '#liability_sensitivity'
-  - '#loan_portfolio_maturity'
-  - '#maturity_gap_analysis'
-  - '#net_interest_margin'
-  - '#repricing_assets_liabilities'
-  - '#zions_bank'
+- '#interest_rate_swaps'
+- equity
+- '#maturity_gap_analysis'
+- '#interest_rate_risk'
+- '#loan_portfolio_maturity'
+- '#net_interest_margin'
+- '#repricing_assets_liabilities'
+- trading
+- '#liability_sensitivity'
+- '#asset_sensitivity'
+- bonds
+- '#interest_sensitive_gap_management'
+- futures
+- '#zions_bank'
+- options
 ---
 # 13.2  INTEREST-SENSITIVE GAP MANAGEMENT  
 

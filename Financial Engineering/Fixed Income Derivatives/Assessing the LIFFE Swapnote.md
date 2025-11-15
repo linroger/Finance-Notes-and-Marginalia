@@ -1,21 +1,68 @@
 ---
-tags:
-  - euro_swap_yield
-  - exchange_traded
-  - fixed_income
-  - interest_rate_swaps
-  - swapnote
 aliases:
-  - Euro swap curve
-  - LIFFE Swapnote
-  - OTC swap
-  - Swapnote
+- Euro swap curve
+- LIFFE Swapnote
+- OTC swap
+- Swapnote
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-597d51
 key_concepts:
-  - Euro interest-rate swaps
-  - Exchange-traded swap contract
-  - Government bond markets
-  - Interest rate swap contract
-  - Standardised futures contract
+- Risk-neutral measures and martingale pricing
+- Term structure of interest rates and yield curve modeling
+- 'Short-rate models: Vasicek, CIR, and mean reversion'
+- Bond pricing and fixed income securities valuation
+- Ito's lemma and stochastic calculus applications
+- Monte Carlo simulation for derivatives valuation
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- apt
+- arbitrage
+- arch
+- bonds
+- capm
+- caps
+- cds
+- convexity
+- corporate-bonds
+- credit-default-swaps
+- credit-risk
+- derivatives-pricing
+- duration
+- exotic-options
+- factor-models
+- fixed_income
+- floors
+- futures
+- futures-markets
+- gamma
+- garch
+- greeks
+- hedging
+- hull-white
+- implied-volatility
+- interest-rate-swaps
+- mean-reversion
+- monte-carlo
+- options
+- risk-management
+- risk-neutral
+- stochastic-calculus
+- swaps
+- term-structure
+- var
+- vasicek
+- yield-curve
+- zero-coupon
 ---
 
 # Assessing the LIFFE Swapnote

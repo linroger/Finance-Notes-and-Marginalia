@@ -1,19 +1,37 @@
 ---
 tags:
-  - expected_utility
-  - preference_representation
-  - substitution_axiom
-  - utility_function
-  - von_neumann_morgenstern
+- arch
+- expected-utility-theory
+- vnm-utility
+- decision-theory
+- risk-preferences
+- independence-axiom
+- archimedean-axiom
+- monotonicity
+- allais-paradox
+- subjective-probability
+- affine-transformation
+- risk-aversion
+- utility-functions
+- preference-relations
 aliases:
-  - EUT
-  - Utility Theory
+- EUT
+- Utility Theory
 key_concepts:
-  - Expected utility representation
-  - Probability distributions
-  - Substitution Axiom
-  - Utility indices
-  - Von Neumann-Morgenstern function
+- Expected Utility Representation and von Neumann-Morgenstern Utility
+- Independence Axiom and Substitution Principle in Decision Theory
+- Archimedean Axiom and Preference Relation Completeness
+- Linear Utility Indices and Affine Transformations
+- Monotonicity Axiom and Risk Preference Ordering
+- State-Dependent Utility and Consumption Choice Theory
+- Allais Paradox and Behavioral Finance Challenges
+- Subjective vs Objective Probability in Decision Making
+- Boundedness Conditions and Infinite State Spaces
+- Risk Aversion and Utility Function Concave Properties
+- Probability Mixtures and Compound Lottery Theory
+- Finite vs Infinite Consumption State Sets
+- Strictly Increasing Transformations and Utility Equivalence
+- Sure Thing Principle and Rational Choice Theory
 ---
 
 # 5.4 Expected utility representation of preferences  

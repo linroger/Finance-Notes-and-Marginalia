@@ -1,27 +1,72 @@
 ---
-tags:
-  - equity_indices
-  - hedging
-  - option_pricing
-  - relative_value_trading
-  - variance_swaps
-  - volatility
-  - volatility_view
 aliases:
-  - Variance Swap
-  - Variance Swap Market
-  - Volatility Swap
+- Variance Swap
+- Variance Swap Market
+- Volatility Swap
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-beabc0
 key_concepts:
-  - Delta hedging portfolio
-  - Exploiting volatility view
-  - Exposure to underlying volatility
-  - Generating alpha
-  - Hedging volatility exposures
-  - Market development
-  - Replicating with options
-  - Small premium to ATM
-  - Trading forward volatility
-  - Variance swap mechanics
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Term structure of interest rates and yield curve modeling
+- 'Short-rate models: Vasicek, CIR, and mean reversion'
+- Bond pricing and fixed income securities valuation
+- Monte Carlo simulation for derivatives valuation
+- Partial differential equations in financial modeling
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility smile, skew, and surface modeling
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- apt
+- arbitrage
+- arch
+- black-scholes
+- bonds
+- capm
+- cds
+- commodities
+- convexity
+- corporate-bonds
+- correlation
+- credit-default-swaps
+- credit-risk
+- credit-spreads
+- delta
+- delta-hedging
+- derivatives-pricing
+- duration
+- exotic-options
+- expected-shortfall
+- fixed_income
+- gamma
+- garch
+- greeks
+- hedging
+- implied-volatility
+- interest-rate-swaps
+- mean-reversion
+- monte-carlo
+- options
+- pde
+- replication
+- risk-management
+- risk-neutral
+- swaps
+- term-structure
+- theta
+- var
+- vasicek
+- vega
+- yield-curve
 ---
 
 # Variance Swaps

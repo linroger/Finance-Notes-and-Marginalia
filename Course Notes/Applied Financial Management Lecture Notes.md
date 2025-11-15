@@ -1,16 +1,133 @@
 ---
-tags:
-  - corporate_finance
-  - silicon_valley_bank
-  - tvm
 aliases:
-  - AFM Lecture Notes
-  - Finance Overview
+- AFM Lecture Notes
+- Finance Overview
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-c1da0f
 key_concepts:
-  - Cash flows across time
-  - Investments vs Corporate Finance
-  - Silicon Valley Bank Crisis
-  - Time Value of Money (TVM)
+- Cox-Ross-Rubinstein parameter specification
+- CPI and consumer inflation
+- coupon-bearing bond analysis
+- Term structure of interest rates and yield curve shapes
+- capital markets and issuance
+- sinking fund redemption provisions
+- Computational implementation of binomial option pricing
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Commodity markets and pricing dynamics
+- Cash flows across time
+- Expectations hypothesis and liquidity preference theory
+- Silicon Valley Bank Crisis
+- Capital Asset Pricing Model and expected returns
+- portfolio theory and asset pricing
+- future value and compounding
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- option pricing models and PDE solutions
+- CDS clearing and central counterparties
+- fixed income risk measurement
+- forward commitments and hedging
+- CDS-Bond basis and arbitrrage opportunities
+- Spot rates vs. forward rates modeling
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- cost of capital estimation
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Security Market Line and beta measurement
+- portfolio optimization and risk decomposition
+- Dividend Policy
+- fundamental valuation methods
+- Interest rate swap pricing and valuation
+- excess returns and manager skill
+- interest rate and currency derivatives
+- callable bond pricing and yield calculation
+- Credit default swap pricing and risk-neutral probabilities
+- present value and discounting methods
+- Variance swaps and volatility trading strategies
+- Convergence of binomial model to Black-Scholes solution
+- Treasury Inflation-Protected Securities
+- Binomial option pricing model with multiple time steps
+- Federal Deposit Insurance Corporation
+- systematic risk and market exposure
+- high yield debt and default risk
+- risk measurement and management
+- Time Value of Money (TVM)
+- American option pricing in binomial trees
+- Capital Structure
+- Parallel and non-parallel shifts in the yield curve
+- risk-adjusted performance measurement
+- price index and inflation measurement
+- Investments vs Corporate Finance
+- Cross-currency basis swaps and funding
+- liquidity measurement and management
+- Market portfolio and risk-free rate assumptions
+- alternative investment strategies
+- credit risk transfer mechanisms
+tags:
+- yield-curve
+- binomial-model
+- commodities
+- credit-default-swaps
+- dividend-policy
+- capm
+- dividend-discount-model
+- case-study
+- apt
+- value-at-risk
+- kalman-filter
+- factor-models
+- credit-ratings
+- dv01
+- credit-risk
+- efficient-market
+- ipos
+- duration-convexity
+- solution
+- private-equity
+- wacc
+- corporate-bonds
+- wholesale-funding
+- portfolio-theory
+- deposit-insurance
+- municipal-bonds
+- credit-analysis
+- credit-spreads
+- collateralized-debt-obligations
+- sofr
+- garch-models
+- interest-rate-swaps
+- capital-asset-pricing-model
+- mathematical-finance
+- sovereign-default
+- course-material
+- capital-structure
+- shadow-banking
+- market-risk
+- cointegration
+- brownian-motion
+- greeks
+- black-scholes-model
+- high-yield-bonds
+- venture-capital
+- exchange-rates
+- hedge-funds
+- quantitative-implementation
+- real-estate
+- treasury-bonds
+- mbs
+- infrastructure
+- liquidity-risk
+- exotic-options
+- distressed-debt
+- mbs-cmos
+- dcf-valuation
+- harvard-business-review
+- duration
+- monte-carlo
+- term-structure
 ---
 
 # Introduction & Big Ideas Silicon Valley Bank  

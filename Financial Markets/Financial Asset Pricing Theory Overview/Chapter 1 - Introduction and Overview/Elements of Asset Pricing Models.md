@@ -1,19 +1,21 @@
 ---
 tags:
-  - asset_pricing
-  - consumption
-  - financial_assets
-  - investors
-  - stochastic_process
+- apt
+- bonds
+- fixed_income
+- forwards
+- futures
+- options
+- risk-management
+- swaps
+- var
 aliases:
-  - Asset Pricing Models
-  - Elements of Asset Pricing
+- Asset Pricing Models
+- Elements of Asset Pricing
 key_concepts:
-  - financial asset characteristics
-  - future asset payments
-  - individual consumption modeling
-  - institutional investors role
-  - stochastic dividend process
+- Bond pricing and fixed income securities valuation
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
 ---
 
 # 1.2 Elements of asset pricing models  

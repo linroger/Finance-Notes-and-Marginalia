@@ -1,34 +1,57 @@
 ---
-linter-yaml-title-alias: GREECE CURRENCY SWAPS
-title: PSET 3 Financial Instruments
-cssclasses: academia
-tags:
-  - bond_pricing
-  - currency_swap
-  - exchange_rate_risk
-  - financial_instruments
-  - zero_coupon_bonds
-  - options_strategies
-  - hedging_techniques
-  - risk_management
-  - derivatives_pricing
-  - collar_strategy
 aliases:
-  - Currency Swap
-  - Greek Bond
-  - PSET 3
-  - VeroTende
+- Currency Swap
+- Greek Bond
+- PSET 3
+- VeroTende
+cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-fa086d
 key_concepts:
-  - Currency swap
-  - Dollar denominated note
-  - Exchange rate risk
-  - Semi-annual coupon rate
-  - Zero coupon bonds
-  - Option strategies
-  - Collar hedging
-  - Risk-neutral valuation
-  - Put-call parity
-  - Crude oil derivatives
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Monte Carlo simulation for derivatives valuation
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+linter-yaml-title-alias: GREECE CURRENCY SWAPS
+tags:
+- american-options
+- arch
+- bonds
+- capm
+- commodities
+- convexity
+- correlation
+- credit-risk
+- currency-swaps
+- delta
+- derivatives-pricing
+- duration
+- exotic-options
+- fixed_income
+- gamma
+- garch
+- greeks
+- hedging
+- interest-rate-swaps
+- options
+- replication
+- risk-management
+- risk-neutral
+- swaps
+- theta
+- var
+- vega
+- zero-coupon
+title: PSET 3 Financial Instruments
 ---
 
 **Homework 3**

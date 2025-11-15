@@ -1,34 +1,123 @@
 ---
-cssclasses:
-  - academia
 Owner: RRoger Lin
-title: HBR Case StudyOaktree
-tags:
-  - cit_group
-  - credit_crisis
-  - hbr_case_study
-  - oaktree_capital
-  - restructuring
 aliases:
-  - CIT Group Restructuring
-  - Oaktree Case Study
-  - Rajath Shourie
+- CIT Group Restructuring
+- Oaktree Case Study
+- Rajath Shourie
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-1b4e13
 key_concepts:
-  - CIT Group lender
-  - Capital markets reliance
-  - Consumer installment loans
-  - Corporate finance
-  - Factoring business
-  - Finance company funding
-  - Financial services
-  - Loan portfolio segments
-  - Oaktree Capital Management
-  - Securitization markets
-  - Subprime meltdown
-  - Trade financing
-  - Transportation financing
-  - Unsecured debt
-  - Vendor financing
+- Apt
+- Cox-Ross-Rubinstein parameter specification
+- Extensions to multi-factor CAPM models
+- capital markets and issuance
+- Subprime meltdown
+- Duration and convexity analysis for bond portfolio management
+- Active portfolio management and performance attribution
+- Computational implementation of binomial option pricing
+- Factoring business
+- Single-name vs. index CDS trading
+- Option Greeks and portfolio risk management
+- Commodity markets and pricing dynamics
+- Capital Asset Pricing Model and beta estimation
+- Capital Asset Pricing Model and expected returns
+- Credit spread decomposition and hazard rates
+- Finance company funding
+- CDS clearing and central counterparties
+- Government bailout mechanisms and market interventions
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- 2008 financial crisis and systemic risk analysis
+- GARCH models and volatility forecasting
+- Consumer installment loans
+- Transportation financing
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Security Market Line and beta measurement
+- Vendor financing
+- trustee duties and trust administration
+- Case Study
+- Loan portfolio segments
+- Interest rate swap pricing and valuation
+- interest rate and currency derivatives
+- Credit default swap pricing and risk-neutral probabilities
+- investment grade bonds and ratings
+- Variance swaps and volatility trading strategies
+- Convergence of binomial model to Black-Scholes solution
+- Capital markets reliance
+- deposit insurance and protection systems
+- fair value measurement and hierarchy
+- Binomial option pricing model with multiple time steps
+- Federal Deposit Insurance Corporation
+- Delta hedging strategies in options portfolio management
+- asset transformation and structured finance
+- Securitization markets
+- financial stability and contagion analysis
+- American option pricing in binomial trees
+- Trade financing
+- Credit risk modeling and portfolio correlation analysis
+- Delta hedging and the replication argument
+- Cross-currency basis swaps and funding
+- Corporate finance
+- Unsecured debt
+- CIT Group lender
+- Market portfolio and risk-free rate assumptions
+- credit risk transfer mechanisms
+- Oaktree Capital Management
+- Financial services
+- Empirical tests and anomalies in CAPM
+tags:
+- binomial-model
+- commodities
+- credit-default-swaps
+- goodwill
+- 2008-financial-crisis
+- capm
+- case-study
+- apt
+- cds-spread
+- bailout
+- value-at-risk
+- credit-ratings
+- credit-risk
+- efficient-market
+- duration-convexity
+- solution
+- private-equity
+- banking
+- investment-banking
+- financial-crisis
+- corporate-bonds
+- deposit-insurance
+- tarp
+- credit-analysis
+- cds
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- balance-sheet
+- course-material
+- rating-agencies
+- lehman-brothers
+- greeks
+- net-income
+- leveraged-buyouts
+- quantitative-implementation
+- hbr_case_study
+- real-estate
+- treasury-bonds
+- securitization
+- subprime-mortgage
+- systemic-risk
+- distressed-debt
+- mbs-cmos
+- distressed-investing
+- harvard-business-review
+title: HBR Case StudyOaktree
 ---
 
 # HBR Case StudyOaktree

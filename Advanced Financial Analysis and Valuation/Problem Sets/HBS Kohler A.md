@@ -1,40 +1,63 @@
 ---
-cssclasses: academia
-title: "HBS Case Study: Kohler Co. (A)"
-date: 2023-10-15
-tags:
- - private_company_valuation
- - family_business
- - ownership_control
- - reverse_stock_split
- - minority_shareholders
- - dissenting_shareholders
- - fair_value_determination
- - recapitalization
- - wisconsin_court_case
- - share_buyback
- - charitable_foundations
- - stewardship_trust
- - 1978_reverse_split
- - 1998_recapitalization
- - permitted_transferees
 aliases:
- - Kohler Case Study
- - Kohler Recapitalization 1998
- - Herbert Kohler Jr Case
- - Kohler Family Business
+- Kohler Case Study
+- Kohler Recapitalization 1998
+- Herbert Kohler Jr Case
+- Kohler Family Business
+cssclasses: academia
+date: 2023-10-15
 key_concepts:
- - Private company advantages: Long-term view, no public disclosure
- - Reverse stock split 1978: 1-for-20 to stay under 500 shareholders
- - 1998 recapitalization: Buyout of outside shareholders at $55,400/share
- - Dissenting shareholders: Claimed shares worth $273,000
- - Ownership structure: 4% outside shareholders, 96% family/foundations
- - Fair value dispute: Court to determine value vs company offer
- - Stewardship Trust: Control mechanism for future generations
- - Financial non-disclosure: Competitive advantage strategy
- - Diversified business: Plumbing, power systems, hospitality
- - Charitable foundations: Impact of valuation on giving requirements
+- Private company advantages: Long-term view, no public disclosure
+- Reverse stock split 1978: 1-for-20 to stay under 500 shareholders
+- 1998 recapitalization: Buyout of outside shareholders at $55,400/share
+- Dissenting shareholders: Claimed shares worth $273,000
+- Ownership structure: 4% outside shareholders, 96% family/foundations
+- Fair value dispute: Court to determine value vs company offer
+- Stewardship Trust: Control mechanism for future generations
+- Financial non-disclosure: Competitive advantage strategy
+- Diversified business: Plumbing, power systems, hospitality
+- Charitable foundations: Impact of valuation on giving requirements
+- capital markets and issuance
+- fair value measurement and hierarchy
+- trust agreement and provisions
+- Delta hedging strategies in options portfolio management
+- Duration and convexity analysis for bond portfolio management
+- Credit risk modeling and portfolio correlation analysis
+- Capital Asset Pricing Model and beta estimation
+- Active portfolio management and performance attribution
+- Risk budgeting and portfolio construction techniques
+- ESG integration in portfolio management
+- Credit risk assessment and loan portfolio management
+- Currency hedging strategies for global portfolios
+- capital markets and issuance
+- fair value measurement and hierarchy
+- trust agreement and provisions
+- Delta hedging strategies in options portfolio management
+- Duration and convexity analysis for bond portfolio management
+- Credit risk modeling and portfolio correlation analysis
+- Capital Asset Pricing Model and beta estimation
+- Active portfolio management and performance attribution
+tags:
+- 1978_reverse_split
+- 1998_recapitalization
+- charitable_foundations
+- dissenting_shareholders
+- fair_value_determination
+- family_business
+- minority_shareholders
+- ownership_control
+- permitted_transferees
+- private_company_valuation
+- real-estate
+- recapitalization
+- reverse_stock_split
+- share_buyback
+- stewardship_trust
+- wisconsin_court_case
+title: 'HBS Case Study: Kohler Co. (A)'
 ---
+
+
 
 # Kohler Co. (A)
 

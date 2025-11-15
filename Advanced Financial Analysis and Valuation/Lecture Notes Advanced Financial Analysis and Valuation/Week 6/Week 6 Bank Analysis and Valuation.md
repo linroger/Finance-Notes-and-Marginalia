@@ -1,35 +1,112 @@
 ---
+aliases:
+- Bank Moats and Valuation
+- Competitive Analysis Banking
+- Economic Spread Analysis
 cssclasses:
-  - academia
-title: Week 6 Bank Analysis and Valuation
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-0323fd
+key_concepts:
+- Cyclicality in lending
+- Net interest margin analysis
+- Apt
+- regulatory capital requirements and buffers
+- Working Capital
+- investment banking services and activities
+- Sensitivity analysis in DCF models
+- Duration and convexity analysis for bond portfolio management
+- net interest margin analysis
+- Active portfolio management and performance attribution
+- Option Greeks and portfolio risk management
+- Common pitfalls in DCF valuation
+- Moats in banking industry
+- Capital Asset Pricing Model and beta estimation
+- Blackstone Citigroup case study
+- Risk budgeting and portfolio construction techniques
+- Solution
+- After-tax cost of debt and capital structure
+- Discounted Cash Flow valuation methodology
+- WACC for multinational corporations
+- Vega and volatility risk management
+- fixed income risk measurement
+- Portfolio immunization strategies
+- Flow-to-equity valuation model
+- Economic profit model for banks
+- Mathematical Finance
+- Economic spread analysis
+- GARCH models and volatility forecasting
+- cost of capital estimation
+- Key rate duration and curve risk
+- Course Material
+- Regulatory capital importance
+- Theta and time decay modeling
+- Case Study
+- Dividend Policy
+- Economies of scale and scope
+- fundamental valuation methods
+- Cost of equity estimation using CAPM and other models
+- excess returns and manager skill
+- Basel III regulatory framework and capital requirements
+- ESG integration in portfolio management
+- present value and discounting methods
+- Weighted Average Cost of Capital calculation
+- Market value weights vs. book value weights
+- fair value measurement and hierarchy
+- Delta hedging strategies in options portfolio management
+- Free cash flow to equity and firm valuation
+- systematic risk and market exposure
+- Market-to-book ratio for banks
+- Terminal value estimation and perpetuity growth
+- Quantitative Implementation
+- Gamma and convexity adjustments
+- Credit risk modeling and portfolio correlation analysis
+- Value drivers for banks
+- Tier 1 capital and core equity requirements
+- Delta hedging and the replication argument
+- Deutsche Bank valuation example
+- Duration and convexity measures for bond portfolios
+- Price sensitivity to interest rate changes
+- Modified duration vs. Macaulay duration
 linter-yaml-title-alias: Week 6 Bank Analysis and Valuation
 tags:
-  - bank_analysis
-  - bank_valuation
-  - competitive_analysis
-  - moats_banking
-  - regulatory_capital
-  - cyclicality_lending
-  - economic_spread
-  - flow_to_equity
-  - market_to_book
-aliases:
-  - Bank Moats and Valuation
-  - Competitive Analysis Banking
-  - Economic Spread Analysis
-key_concepts:
-  - Moats in banking industry
-  - Economies of scale and scope
-  - Net interest margin analysis
-  - Economic spread analysis
-  - Cyclicality in lending
-  - Value drivers for banks
-  - Flow-to-equity valuation model
-  - Economic profit model for banks
-  - Market-to-book ratio for banks
-  - Regulatory capital importance
-  - Blackstone Citigroup case study
-  - Deutsche Bank valuation example
+- basel-iii
+- duration-convexity
+- quantitative-implementation
+- income-statement
+- working-capital
+- roe
+- wacc
+- solution
+- dividend-policy
+- garch-models
+- banking
+- investment-banking
+- economic_spread
+- mathematical-finance
+- balance-sheet
+- course-material
+- bank-regulation
+- capital-structure
+- cost-of-capital
+- capm
+- case-study
+- apt
+- greeks
+- competitive_analysis
+- impairment
+- duration
+- flow_to_equity
+- dcf-valuation
+- tier-1-capital
+- moats_banking
+- net-income
+- bank_valuation
+- market_to_book
+- credit-risk
+- cyclicality_lending
+title: Week 6 Bank Analysis and Valuation
 ---
 
 # Week 6 Bank Analysis and Valuation

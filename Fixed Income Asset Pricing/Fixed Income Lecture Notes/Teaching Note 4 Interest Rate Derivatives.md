@@ -1,27 +1,106 @@
 ---
-cssclasses:
-  - academia
-title: Teaching Note 4 Interest Rate Derivatives
-tags:
-  - forward_contracts
-  - hedging_interest_rate
-  - interest_rate_derivatives
-  - spot_curve
-  - swap_rates
 aliases:
-  - FRA
-  - Forward Rate Agreement
-  - Interest Rate Swap
-  - Swap
-  - Teaching Note
+- FRA
+- Forward Rate Agreement
+- Interest Rate Swap
+- Swap
+- Teaching Note
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-ed5260
 key_concepts:
-  - Discount factor
-  - Fixed-for-floating swap
-  - Forward contracts
-  - Interest rate risk
-  - Spot curve
-  - Swap rate
-  - Trading strategy
+- Apt
+- Fixed-for-floating swap
+- Term structure of interest rates and yield curve shapes
+- Market risk measurement and portfolio volatility
+- Option Greeks and portfolio risk management
+- Spot curve
+- Currency derivatives
+- Discount factor
+- Expectations hypothesis and liquidity preference theory
+- Futures contracts and forward pricing
+- Historical simulation vs. parametric VaR models
+- Interest rate swaps and term structure
+- Yield curve fitting and interpolation methods
+- Vega and volatility risk management
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- Trading strategy
+- Option sensitivity analysis
+- GARCH models and volatility forecasting
+- Foreign exchange markets
+- Liquidity and price discovery
+- Swap rate
+- 2008 financial crisis and systemic risk analysis
+- Monte Carlo VaR for complex portfolios
+- Stress testing and scenario analysis
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Value at Risk (VaR) methodologies and backtesting
+- Theta and time decay modeling
+- Case Study
+- Exchange rate determination and PPP theory
+- Interest rate swap pricing and valuation
+- Expected Shortfall and coherent risk measures
+- Delta, gamma, vega, theta, rho
+- Market microstructure and trading
+- Interest rate risk
+- Variance swaps and volatility trading strategies
+- Pairs trading and statistical arbitrage strategies
+- Interest rate derivatives
+- Fixed income securities
+- Bond pricing and yield analysis
+- Forward contracts
+- Gamma and convexity adjustments
+- Delta hedging and the replication argument
+- Parallel and non-parallel shifts in the yield curve
+- Cross-currency basis swaps and funding
+- Basis swaps and cross-currency swaps
+- Duration and convexity
+- Currency markets and foreign exchange trading
+tags:
+- yield-curve
+- fx
+- swaps
+- spot_curve
+- derivatives
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- trading
+- course-material
+- interest_rate_derivatives
+- 2008-financial-crisis
+- pairs-trading
+- market-risk
+- swap_rates
+- apt
+- bonds
+- greeks
+- case-study
+- value-at-risk
+- fixed_income
+- exchange-rates
+- hedge-funds
+- credit-risk
+- currency-swaps
+- quantitative-implementation
+- duration-convexity
+- solution
+- hedging_interest_rate
+- treasury-bonds
+- structured_finance
+- interest_rates
+- infrastructure
+- exotic-options
+- swaptions
+- implied-volatility
+- volatility
+- futures
+title: Teaching Note 4 Interest Rate Derivatives
 ---
 
 # Teaching Note 4 Interest Rate Derivatives

@@ -1,36 +1,22 @@
 ---
-cssclasses:
-  - academia
-title: "Class Note on Securitization"
-linter-yaml-title-alias: "Class Note on Securitization"
-tags:
-  - abs_securitization
-  - asset_securitization
-  - cdo_structure
-  - mortgage_backed_securities
-  - securitization
-  - structured_finance
-  - spv_structures
-  - credit_ratings
-  - waterfall_structure
-  - originate_to_distribute
 aliases:
-  - ABS
-  - Securitization Note
-  - Structured Finance
-  - "Securitization Class Note"
+- ABS
+- Securitization Note
+- Structured Finance
+- Securitization Class Note
+cssclasses:
+- academia
 key_concepts:
-  - Asset Pooling
-  - Credit Enhancement
-  - Risk Transfer
-  - SPV
-  - Tranching
-  - Waterfall structure
-  - Overcollateralization
-  - Excess spread
-  - Originate-to-distribute model
-  - Rating arbitrage
-  - Subordination levels
+- Credit risk modeling and default probability estimation
+- Arbitrage opportunities and no-arbitrage pricing
+linter-yaml-title-alias: Class Note on Securitization
+tags:
+- abs
+- arbitrage
+- fixed_income
+- risk-management
+title: Class Note on Securitization
 ---
+
 
 # Class Note on Securitization

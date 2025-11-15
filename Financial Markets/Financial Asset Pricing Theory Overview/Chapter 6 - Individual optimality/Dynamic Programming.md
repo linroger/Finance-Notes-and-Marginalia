@@ -1,20 +1,19 @@
 ---
 tags:
-  - asset_pricing
-  - consumption
-  - dynamic_programming
-  - state_prices
-  - utility_maximization
+- apt
+- delta
+- derivatives-pricing
+- risk-management
+- theta
+- var
 aliases:
-  - DP
-  - Indirect Utility
-  - Optimal Consumption
+- DP
+- Indirect Utility
+- Optimal Consumption
 key_concepts:
-  - Consumption-based asset pricing
-  - Discrete-time framework
-  - Envelope condition
-  - Indirect utility function
-  - Optimal consumption plan
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Options Greeks and sensitivity analysis
 ---
 
 # 6.5 Dynamic programming  

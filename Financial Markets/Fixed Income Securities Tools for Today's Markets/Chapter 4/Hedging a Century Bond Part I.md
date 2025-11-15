@@ -1,21 +1,46 @@
 ---
-tags:
-  - bond_spreads
-  - century_bond_hedging
-  - dv01_hedging
-  - market_making
-  - treasury_bonds
 aliases:
-  - DV01
-  - Hedging Century Bond
-  - NSC bonds
-  - Treasury hedge
+- DV01
+- Hedging Century Bond
+- NSC bonds
+- Treasury hedge
 key_concepts:
-  - Bond spread risk
-  - DV01 and hedging
-  - Hedging century bonds
-  - Market maker example
-  - Treasury bond face amount
+- Bond spread risk
+- DV01 and hedging
+- Hedging century bonds
+- Market maker example
+- Treasury bond face amount
+- Fixed income securities
+- Interest rate derivatives
+- Foreign exchange markets
+- Currency derivatives
+- Option sensitivity analysis
+- Delta, gamma, vega, theta, rho
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Derivatives pricing theory
+tags:
+- market_making
+- greeks
+- treasury_bonds
+- cds
+- hedge_funds
+- dv01_hedging
+- interest_rates
+- century_bond_hedging
+- fixed_income
+- fx
+- trading
+- bonds
+- derivatives
+- options
+- bond_spreads
 ---
 
 # 4.3 HEDGING A CENTURY BOND: PART I  

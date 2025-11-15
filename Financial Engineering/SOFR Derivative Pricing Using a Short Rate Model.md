@@ -1,20 +1,70 @@
 ---
-tags:
-  - affine_models
-  - futures
-  - options
-  - sofr
-  - swaption
 aliases:
-  - Gaussian models
-  - SOFR derivative pricing
-  - SOFR derivatives
+- Gaussian models
+- SOFR derivative pricing
+- SOFR derivatives
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-b6a5b1
 key_concepts:
-  - Affine term structure models
-  - Analytic pricing formula
-  - European SOFR options
-  - Overnight Treasury repo rate
-  - SOFR reference rate
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Monte Carlo simulation for derivatives valuation
+- Partial differential equations in financial modeling
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- abs
+- american-options
+- apt
+- binomial
+- black-scholes
+- bonds
+- capm
+- caps
+- cds
+- closed-form
+- convexity
+- correlation
+- credit-default-swaps
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- european-options
+- exotic-options
+- expected-shortfall
+- factor-models
+- fixed_income
+- floors
+- futures
+- gamma
+- greeks
+- hedging
+- hull-white
+- interest-rate-swaps
+- martingale
+- monte-carlo
+- options
+- pde
+- repo-markets
+- risk-management
+- risk-neutral
+- stress-testing
+- swaps
+- swaptions
+- term-structure
+- var
+- yield-curve
 ---
 
 # SOFR Derivative Pricing Using a Short Rate Model

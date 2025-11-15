@@ -1,28 +1,90 @@
 ---
+aliases:
+- China's monetary policy
+- PBOC
+- People's Bank of China
 cssclasses: academia
 description: Here is how the Central Bank of China manages its currency rates and
   the money supply.
-source: 
-  https://www.investopedia.com/articles/investing/072815/how-does-china-manage-its-money-supply.asp
-title: China's Monetary Policy
-tags:
-  - chinese_economy
-  - discount_rate
-  - forex_rates
-  - money_supply
-  - pboc
-  - reserve_ratio
-  - yuan
-aliases:
-  - China's monetary policy
-  - PBOC
-  - People's Bank of China
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-222dde
 key_concepts:
-  - Export-driven economy
-  - Manage forex rates
-  - PBOC controls money supply
-  - Printing currency
-  - Reserve ratio changes
+- Reserve ratio changes
+- Term structure of interest rates
+- Carry trades and momentum in FX markets
+- Term structure of interest rates and yield curve shapes
+- PBOC controls money supply
+- Treasury Bonds
+- Currency markets and foreign exchange trading
+- Currency derivatives
+- Expectations hypothesis and liquidity preference theory
+- Solution
+- Historical simulation vs. parametric VaR models
+- Interest rate modeling
+- Yield curve fitting and interpolation methods
+- Value at risk and stress testing
+- Portfolio immunization strategies
+- Mathematical Finance
+- Spot rates vs. forward rates modeling
+- Infrastructure investment and project finance
+- Foreign exchange markets
+- Liquidity and price discovery
+- Monte Carlo VaR for complex portfolios
+- Stress testing and scenario analysis
+- Key rate duration and curve risk
+- Equity valuation and analysis
+- Printing currency
+- Course Material
+- Currency risk management and hedging
+- Forward rates and interest rate parity
+- Value at Risk (VaR) methodologies and backtesting
+- Portfolio risk metrics
+- Exchange rate determination and PPP theory
+- Expected Shortfall and coherent risk measures
+- Manage forex rates
+- Market microstructure and trading
+- Interest rate derivatives
+- Fixed income securities
+- Bond pricing and yield analysis
+- Stress Testing
+- Quantitative Implementation
+- Export-driven economy
+- Parallel and non-parallel shifts in the yield curve
+- Duration and convexity measures for bond portfolios
+- Price sensitivity to interest rate changes
+- Modified duration vs. Macaulay duration
+- Duration and convexity
+- Dividend discount models
+source: https://www.investopedia.com/articles/investing/072815/how-does-china-manage-its-money-supply.asp
+tags:
+- yield-curve
+- fx
+- mathematical-finance
+- trading
+- course-material
+- bonds
+- risk_management
+- value-at-risk
+- fixed_income
+- exchange-rates
+- money_supply
+- quantitative-implementation
+- duration-convexity
+- solution
+- reserve_ratio
+- treasury-bonds
+- discount_rate
+- pboc
+- equity
+- interest_rates
+- stress-testing
+- yuan
+- forex_rates
+- infrastructure
+- chinese_economy
+- regulatory-framework
+title: China's Monetary Policy
 ---
 
 # China's Monetary Policy

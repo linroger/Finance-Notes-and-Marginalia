@@ -1,21 +1,44 @@
 ---
-tags:
-  - adverse_selection
-  - asset_pricing
-  - bid_ask_spread
-  - liquidity
-  - market_microstructure
-  - trading
 aliases:
-  - Chapter 6
-  - Market Microstructure
-  - Trading and Liquidity
+- Chapter 6
+- Market Microstructure
+- Trading and Liquidity
 key_concepts:
-  - Adverse selection and trading
-  - Bid-ask spread and asset pricing
-  - Liquidity and spreads
-  - Market microstructure impacts prices
-  - Trader information asymmetry
+- Adverse selection and trading
+- Bid-ask spread and asset pricing
+- Liquidity and spreads
+- Market microstructure impacts prices
+- Trader information asymmetry
+- Equity valuation and analysis
+- Dividend discount models
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Value at risk and stress testing
+- Portfolio risk metrics
+tags:
+- equity
+- liquidity
+- asset_pricing
+- cds
+- portfolio-theory
+- trading
+- fx
+- volatility
+- bonds
+- market_microstructure
+- futures
+- risk_management
+- portfolio
+- mathematical-finance
+- adverse_selection
 ---
 
 # Adverse Selection, Trading, and Liquidity  

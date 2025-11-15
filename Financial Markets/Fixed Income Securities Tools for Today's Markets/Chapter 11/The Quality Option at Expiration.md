@@ -1,20 +1,35 @@
 ---
-tags:
-  - bond_pricing
-  - ctd_bond
-  - duration
-  - futures_contract
-  - yield_curve
 aliases:
-  - Cheapest to Deliver
-  - Quality Option
-  - TYU1
+- Cheapest to Deliver
+- Quality Option
+- TYU1
 key_concepts:
-  - CTD bond determination
-  - Conversion factor
-  - Deliverable bond price ratio
-  - Quality option expiration
-  - Term structure of yields
+- CTD bond determination
+- Conversion factor
+- Deliverable bond price ratio
+- Quality option expiration
+- Term structure of yields
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Interest rate modeling
+- Term structure of interest rates
+tags:
+- duration
+- ctd_bond
+- trading
+- yield_curve
+- bonds
+- futures
+- options
+- bond_pricing
+- futures_contract
+- interest_rates
 ---
 
 # 11.8 THE QUALITY OPTION AT EXPIRATION  

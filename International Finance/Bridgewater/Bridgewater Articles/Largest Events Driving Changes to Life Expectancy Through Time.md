@@ -1,22 +1,69 @@
 ---
-title: Largest Events Driving Changes to Life Expectancy Through Time
-cssclasses:
-  - academia
-tags:
-  - famine
-  - historical_events
-  - life_expectancy
-  - mortality
-  - pandemics
 aliases:
-  - Historical Life Expectancy
-  - Life Expectancy Events
+- Historical Life Expectancy
+- Life Expectancy Events
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-09b1dd
 key_concepts:
-  - Changing world order
-  - Famine impacts on life
-  - Historical death events
-  - Life expectancy changes
-  - Pandemic mortality rates
+- Carry trades and momentum in FX markets
+- Hedging strategies and risk mitigation
+- Quantitative analysis and mathematical modeling
+- Macroeconomic factors and market correlations
+- Collateralized Debt Obligations
+- Market dynamics and price discovery mechanisms
+- Solution
+- Futures contracts and forward pricing
+- Changing world order
+- Historical death events
+- Credit analysis and default forecasting
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- Equity valuation and analysis
+- Course Material
+- Currency risk management and hedging
+- Forward rates and interest rate parity
+- Capital markets and securities trading
+- Pandemic mortality rates
+- Exchange rate determination and PPP theory
+- Regulatory frameworks and compliance requirements
+- Margin requirements and clearing
+- Credit derivatives
+- Liquidity provision and market making
+- Structured products and CDOs
+- Life expectancy changes
+- Corporate finance and business valuation
+- Systemic risk and financial stability
+- Valuation methodologies and price multiples
+- Quantitative Implementation
+- Financial markets and institutional structures
+- Risk management and portfolio optimization
+- Famine impacts on life
+- Financial instruments and their characteristics
+- Dividend discount models
+- Investment analysis and due diligence processes
+- Currency markets and foreign exchange trading
+tags:
+- derivatives-markets
+- quantitative-implementation
+- solution
+- equity-markets
+- collateralized-debt-obligations
+- structured_finance
+- life_expectancy
+- historical_events
+- equity
+- mortality
+- garch-models
+- mathematical-finance
+- course-material
+- exchange-rates
+- futures
+- pandemics
+- famine
+title: Largest Events Driving Changes to Life Expectancy Through Time
 ---
 
 # Largest Events Driving Changes to Life Expectancy Through Time

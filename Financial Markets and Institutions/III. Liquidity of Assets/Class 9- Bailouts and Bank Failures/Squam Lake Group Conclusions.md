@@ -1,22 +1,20 @@
 ---
 cssclasses:
-  - academia
+- academia
 title: Squam Lake Group Conclusions
 tags:
-  - central_bank
-  - financial_regulation
-  - financial_system
-  - risk_disclosure
-  - shadow_banking
+- apt
+- cds
+- credit-risk
+- swaps
 aliases:
-  - Financial System Report
-  - Squam Lake Report
+- Financial System Report
+- Squam Lake Report
 key_concepts:
-  - Central bank oversight
-  - Financial system organization
-  - Risk disclosure benefits
-  - Shadow banking risks
-  - Systemic risk regulation
+- Ito's lemma and stochastic calculus applications
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Interest rate caps, floors, and swaptions
 ---
 
 # Squam Lake Group Conclusions

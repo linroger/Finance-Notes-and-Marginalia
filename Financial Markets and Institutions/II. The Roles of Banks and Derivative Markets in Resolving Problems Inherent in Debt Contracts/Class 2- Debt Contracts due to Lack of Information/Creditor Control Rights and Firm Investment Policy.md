@@ -1,23 +1,34 @@
 ---
-cssclasses: academia
-title: Creditor Control Rights and Firm Investment Policy
-tags:
-  - capital_expenditures
-  - credit_quality
-  - creditor_rights
-  - debt_agreements
-  - firm_investment
 aliases:
-  - Creditor Control
-  - Firm Investment
-  - Investment Policy
+- Creditor Control
+- Firm Investment
+- Investment Policy
+cssclasses: academia
 key_concepts:
-  - Borrower credit quality
-  - Capital expenditure limits
-  - Creditor-borrower conflicts
-  - Firm investment restrictions
-  - Private credit agreements
+- Risk-neutral measures and martingale pricing
+- Bond pricing and fixed income securities valuation
+- Ito's lemma and stochastic calculus applications
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Portfolio hedging and risk reduction strategies
+tags:
+- abs
+- arch
+- bonds
+- cds
+- correlation
+- credit-risk
+- fixed_income
+- hedging
+- reduced-form
+- risk-management
+- risk-neutral
+- var
+title: Creditor Control Rights and Firm Investment Policy
 ---
+
 
 # Creditor Control Rights and Firm Investment Policy
 

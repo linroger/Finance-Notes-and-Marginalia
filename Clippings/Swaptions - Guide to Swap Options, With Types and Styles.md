@@ -1,3 +1,48 @@
+---
+key_concepts:
+- option pricing models and PDE solutions
+- fixed income risk measurement
+- interest rate and currency derivatives
+- forward commitments and hedging
+- Generally Accepted Accounting Principles
+- fair value measurement and hierarchy
+- reporting date in CDS
+- Delta hedging strategies in options portfolio management
+- Duration and convexity analysis for bond portfolio management
+- Credit risk modeling and portfolio correlation analysis
+- Capital Asset Pricing Model and beta estimation
+- Active portfolio management and performance attribution
+- Risk budgeting and portfolio construction techniques
+- ESG integration in portfolio management
+- Credit risk assessment and loan portfolio management
+- Currency hedging strategies for global portfolios
+- option pricing models and PDE solutions
+- fixed income risk measurement
+- interest rate and currency derivatives
+- forward commitments and hedging
+- Generally Accepted Accounting Principles
+- fair value measurement and hierarchy
+- reporting date in CDS
+- Delta hedging strategies in options portfolio management
+- Duration and convexity analysis for bond portfolio management
+- Credit risk modeling and portfolio correlation analysis
+- Capital Asset Pricing Model and beta estimation
+- Active portfolio management and performance attribution
+- Risk budgeting and portfolio construction techniques
+- ESG integration in portfolio management
+tags:
+- counterparty-risk
+- duration
+- financial-analysis
+- financial-modeling
+- financial-reporting
+- gaap
+- ifrs
+- quantitative-finance
+- risk-management
+- swaptions
+---
+
  
 source: https://www.investopedia.com/terms/s/swaption.asp
 description: A swaption, also known as a swap option, refers to an option to enter

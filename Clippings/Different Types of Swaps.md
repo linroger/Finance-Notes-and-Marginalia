@@ -1,3 +1,51 @@
+---
+key_concepts:
+- fixed income risk measurement
+- credit risk transfer mechanisms
+- interest rate and currency derivatives
+- alternative investment strategies
+- fair value measurement and hierarchy
+- zero-coupon bond pricing and yields
+- reporting date in CDS
+- Risk-neutral pricing methodology for derivative securities
+- Duration and convexity analysis for bond portfolio management
+- DV01 calculation and interest rate risk hedging
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk migration matrices and rating transition
+- Value-at-Risk calculation using historical simulation
+- Expected Shortfall and coherent risk measures
+- Backtesting procedures for risk models
+- Extreme value theory and tail risk modeling
+- Liquidity risk measurement and management
+- Operational risk quantification and modeling
+- Systemic risk indicators and early warning systems
+- Mean-variance optimization and the efficient frontier
+- Arbitrage Pricing Theory and multifactor models
+- Risk budgeting and portfolio construction techniques
+- Credit risk assessment and loan portfolio management
+- Bank liquidity ratios and funding risk management
+- Deposit insurance and systemic risk prevention
+- Shadow banking system and regulatory arbitrage
+- Arbitrage opportunities and risk-free profit extraction
+- Monte Carlo integration and variance reduction
+- Control variates and importance sampling techniques
+- International arbitrage and covered interest rate parity
+tags:
+- arbitrage
+- balance-sheet
+- cds
+- commodities
+- counterparty-risk
+- credit-default-swap
+- credit-risk
+- currency-swaps
+- duration
+- exchange-rate
+- interest-rate-swaps
+- risk-management
+- sofr
+---
+
  
 source: https://www.investopedia.com/articles/investing/052915/different-types-swaps.asp
 description: Identify and explore the most common types of swap contracts. Swaps are

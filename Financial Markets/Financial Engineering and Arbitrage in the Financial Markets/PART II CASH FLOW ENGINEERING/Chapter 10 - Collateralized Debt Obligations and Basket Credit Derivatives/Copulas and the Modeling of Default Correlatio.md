@@ -1,22 +1,46 @@
 ---
-tags:
-  - cds_pricing
-  - credit_derivatives
-  - default_correlation
-  - gaussian_copula
-  - poisson_model
 aliases:
-  - CDS Modeling
-  - Copulas
-  - Default Correlation
-  - Gaussian Copula Example
+- CDS Modeling
+- Copulas
+- Default Correlation
+- Gaussian Copula Example
 key_concepts:
-  - CDS pricing
-  - Copula functions
-  - Default correlation modeling
-  - Gaussian copula
-  - Marginal probability distributions
-  - Poisson default model
+- CDS pricing
+- Copula functions
+- Default correlation modeling
+- Gaussian copula
+- Marginal probability distributions
+- Poisson default model
+- Equity valuation and analysis
+- Dividend discount models
+- Credit risk modeling
+- Default probability estimation
+- Option sensitivity analysis
+- Delta, gamma, vega, theta, rho
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+tags:
+- equity
+- model-calibration
+- credit
+- greeks
+- arbitrage
+- calibration
+- cds
+- hedge_funds
+- structured_finance
+- cds_pricing
+- gaussian_copula
+- valuation
+- default_correlation
+- poisson_model
+- bonds
 ---
 
 # 10.3  COPULAS AND THE MODELING OF DEFAULT CORRELATION  

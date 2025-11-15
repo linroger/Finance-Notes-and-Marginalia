@@ -1,25 +1,48 @@
 ---
-title: War Economies and Hyperinflation
-cssclasses:
-  - academia
-tags:
-  - currency_devaluations
-  - economic_conflicts
-  - geopolitical_cycles
-  - hyperinflation
-  - war_economies
 aliases:
-  - Inflation
-  - War Economics
-  - Wartime Economies
+- Inflation
+- War Economics
+- Wartime Economies
+cssclasses:
+- academia
 key_concepts:
-  - Dominant power influence
-  - Economic conflict escalation
-  - GDP distortion in war
-  - Government borrowing impact
-  - Post-war economic effects
-  - Resource allocation shifts
-  - Wartime production impact
+- Dominant power influence
+- Economic conflict escalation
+- GDP distortion in war
+- Government borrowing impact
+- Post-war economic effects
+- Resource allocation shifts
+- Wartime production impact
+- Equity valuation and analysis
+- Dividend discount models
+- Credit risk modeling
+- Default probability estimation
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Options pricing and payoff structures
+tags:
+- equity
+- regulatory-framework
+- currency_devaluations
+- credit
+- interest_rates
+- portfolio-theory
+- war_economies
+- valuation
+- fx
+- trading
+- bonds
+- commodities
+- hyperinflation
+- futures
+- economic_conflicts
+title: War Economies and Hyperinflation
 ---
 
 # War Economies and Hyperinflation

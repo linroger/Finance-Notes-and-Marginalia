@@ -1,8 +1,62 @@
 ---
-title: "Tools for Volatility Engineering, Volatility Swaps, and Volatility Trading"
+category: Principles of Financial Engineering
 chapter: 15
-subject: "Financial Engineering"
-category: "Principles of Financial Engineering"
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-6b833a
+key_concepts:
+- Black-Scholes model and option pricing theory
+- Delta hedging strategies in options portfolio management
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Partial differential equations in financial modeling
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility smile, skew, and surface modeling
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+subject: Financial Engineering
+tags:
+- apt
+- arbitrage
+- arch
+- black-scholes
+- bonds
+- calls
+- capm
+- convexity
+- correlation
+- credit-risk
+- delta
+- delta-hedging
+- derivatives-pricing
+- duration
+- factor-models
+- fixed_income
+- futures
+- gamma
+- garch
+- greeks
+- hedging
+- implied-volatility
+- interest-rate-swaps
+- options
+- pde
+- puts
+- replication
+- risk-management
+- swaps
+- swaptions
+- term-structure
+- theta
+- var
+- vega
+- yield-curve
+title: Tools for Volatility Engineering, Volatility Swaps, and Volatility Trading
 ---
 
 # TOOLS FOR VOLATILITY ENGINEERING, VOLATILITY SWAPS, AND VOLATILITY TRADING  

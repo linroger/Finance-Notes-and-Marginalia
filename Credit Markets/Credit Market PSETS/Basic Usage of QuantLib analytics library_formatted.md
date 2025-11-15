@@ -1,41 +1,113 @@
 ---
-title: Basic Usage of QuantLib Analytics Library
-tags:
-  - analytics
-  - bond_pricing
-  - cashflow_schedule
-  - quantlib
-  - yield_curve
-  - fixed_income
-  - duration_convexity
-  - discount_curve
-  - z_spread
-  - interest_rate_scenarios
-  - bootstrap_calibration
-  - bond_yield
-cssclasses:
-  - tutorial
 aliases:
-  - QuantLib Example
-  - QuantLib Tutorial
-  - QuantLib Basic Usage
-  - Python Bond Pricing
+- QuantLib Example
+- QuantLib Tutorial
+- QuantLib Basic Usage
+- Python Bond Pricing
+cssclasses:
+- tutorial
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-0233eb
 key_concepts:
-  - Bond pricing and valuation
-  - Cashflow schedule generation
-  - QuantLib library fundamentals
-  - Quote objects and handles
-  - Yield curve construction
-  - Discount curve modeling
-  - Fixed and floating rate bonds
-  - Duration and convexity calculation
-  - Z-spread computation
-  - Interest rate scenarios
-  - Yield curve calibration
-  - Bond price to yield conversions
-  - Present value calculation
-  - Clean vs dirty prices
-  - Day-count conventions
+- Bond convexity adjustment for large interest rate changes
+- Term structure of interest rates and yield curve shapes
+- Interest rate scenarios
+- Z-spread computation
+- Duration and convexity analysis for bond portfolio management
+- dirty price in CDS settlement
+- Bond pricing and valuation
+- Treasury Bonds
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Probability of default estimation from credit spreads
+- Option Greeks and portfolio risk management
+- QuantLib library fundamentals
+- Credit spread analysis and OAS methodology
+- Cashflow schedule generation
+- Expectations hypothesis and liquidity preference theory
+- Solution
+- Discounted Cash Flow valuation methodology
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- Vega and volatility risk management
+- Structural models of default and Merton formulation
+- CDS clearing and central counterparties
+- fixed income risk measurement
+- DV01 calculation and interest rate risk hedging
+- Portfolio immunization strategies
+- CDS-Bond basis and arbitrrage opportunities
+- Mathematical Finance
+- Spot rates vs. forward rates modeling
+- Credit default swap pricing and recovery assumptions
+- GARCH models and volatility forecasting
+- Key rate duration and curve risk
+- Theta and time decay modeling
+- Fixed and floating rate bonds
+- Synthetic credit derivatives and index trades
+- Case Study
+- Credit default swap pricing and risk-neutral probabilities
+- present value and discounting methods
+- Discount curve modeling
+- Quote objects and handles
+- Day-count conventions
+- Present value calculation
+- Free cash flow to equity and firm valuation
+- settlement date in CDS
+- Yield curve calibration
+- clean price in CDS settlement
+- Quantitative Implementation
+- Gamma and convexity adjustments
+- Credit risk modeling and portfolio correlation analysis
+- Delta hedging and the replication argument
+- Clean vs dirty prices
+- Parallel and non-parallel shifts in the yield curve
+- Gamma trading and convexity adjustment techniques
+- Exotic Options
+- Duration and convexity measures for bond portfolios
+- Duration and convexity calculation
+- Bond price to yield conversions
+- Price sensitivity to interest rate changes
+- Modified duration vs. Macaulay duration
+- Yield curve construction
+tags:
+- yield-curve
+- yield_curve
+- convexity
+- duration-convexity
+- quantitative-implementation
+- credit-default-swaps
+- solution
+- treasury-bonds
+- collateralized-debt-obligations
+- sofr
+- z_spread
+- bond_pricing
+- garch-models
+- duration_convexity
+- cashflow_schedule
+- mathematical-finance
+- course-material
+- infrastructure
+- corporate-bonds
+- bond-pricing
+- exotic-options
+- discount_curve
+- credit-risk
+- case-study
+- greeks
+- bootstrap_calibration
+- duration
+- dcf-valuation
+- dv01
+- fixed_income
+- bond_yield
+- exchange-rates
+- quantlib
+- interest_rate_scenarios
+- analytics
+- term-structure
+title: Basic Usage of QuantLib Analytics Library
 ---
 
 # Basic Usage of QuantLib Analytics Library

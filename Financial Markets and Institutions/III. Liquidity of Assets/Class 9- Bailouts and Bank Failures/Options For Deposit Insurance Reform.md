@@ -1,21 +1,16 @@
 ---
 title: Options For Deposit Insurance Reform
 tags:
-  - bank_failures
-  - bank_runs
-  - deposit_insurance
-  - fdic
-  - uninsured_deposits
+- arch
+- options
 aliases:
-  - Bank Failures
-  - Deposit Insurance Reform
-  - FDIC
+- Bank Failures
+- Deposit Insurance Reform
+- FDIC
 key_concepts:
-  - Business payment accounts
-  - Deposit insurance limit increase
-  - Insured deposit funding
-  - Preventing bank runs
-  - Uninsured deposit losses
+- Ito's lemma and stochastic calculus applications
+- Credit risk modeling and default probability estimation
+- Interest rate caps, floors, and swaptions
 ---
 
 # Options For Deposit Insurance Reform

@@ -1,40 +1,52 @@
 ---
-cssclasses: ["academia"]
-title: Theory of Stabilization Policy
+aliases:
+- ITC
+- Lucas critique
+- Milton Friedman
+- Investment Tax Credit
+- Policy Lags
+- Stabilization Theory
+cssclasses:
+- academia
+key_concepts:
+- countercyclical policy issues
+- destabilizing policy effects
+- expectations and actions
+- inside and outside lags
+- investment tax credit
+- policy intervention timing
+- Lucas critique
+- Friedman model
+- policy magnitude
+- policy correlation
+- optimal stabilization
+- variance minimization
+- macroprudential policy
+- great moderation
+- Option sensitivity analysis
+- Delta, gamma, vega, theta, rho
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Value at risk and stress testing
+- Portfolio risk metrics
 linter-yaml-title-alias: Theory of Stabilization Policy
 tags:
-  - fiscal_policy
-  - inside_lags
-  - macroeconomic_model
-  - monetary_policy
-  - stabilization_policy
-  - outside_lags
-  - lucas_critique
-  - policy_timing
-  - countercyclical_policy
-  - destabilizing_policy
-aliases:
-  - ITC
-  - Lucas critique
-  - Milton Friedman
-  - Investment Tax Credit
-  - Policy Lags
-  - Stabilization Theory
-key_concepts:
-  - countercyclical policy issues
-  - destabilizing policy effects
-  - expectations and actions
-  - inside and outside lags
-  - investment tax credit
-  - policy intervention timing
-  - Lucas critique
-  - Friedman model
-  - policy magnitude
-  - policy correlation
-  - optimal stabilization
-  - variance minimization
-  - macroprudential policy
-  - great moderation
+- portfolio-theory
+- inside_lags
+- monetary_policy
+- greeks
+- volatility
+- countercyclical_policy
+- outside_lags
+- futures
+- destabilizing_policy
+- risk_management
+- stabilization_policy
+- options
+- structured_finance
+- mathematical-finance
+- policy_timing
+title: Theory of Stabilization Policy
 ---
 
 # Theory of Stabilization Policy

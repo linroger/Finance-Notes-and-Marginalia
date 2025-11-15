@@ -1,24 +1,100 @@
 ---
-title: Mastering Data Analytics with Matplotlib in Python
-source: 
-  https://blog.enterprisedna.co/mastering-data-analytics-with-matplotlib-in-python/
-description:
-tags:
-  - data_analysis
-  - data_visualization
-  - matplotlib
-  - plotting
-  - python
 aliases:
-  - Data Visualization with Python
-  - Matplotlib Guide
-  - Matplotlib Tutorial
+- Data Visualization with Python
+- Matplotlib Guide
+- Matplotlib Tutorial
+description: null
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-6dbb1b
 key_concepts:
-  - Data visualization
-  - Interactive plots
-  - Matplotlib library
-  - Plot customization
-  - Python plotting
+- Apt
+- Sovereign risk assessment and country analysis
+- Mean-variance optimization and the efficient frontier
+- Extreme value theory and tail risk modeling
+- Credit risk modeling and default probability estimation
+- Commodity markets and pricing dynamics
+- Risk budgeting and portfolio construction techniques
+- Solution
+- Historical simulation vs. parametric VaR models
+- Credit portfolio diversification and concentration
+- DV01 calculation and interest rate risk hedging
+- Portfolio immunization strategies
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- Monte Carlo integration and variance reduction
+- Deposit insurance and systemic risk prevention
+- Monte Carlo VaR for complex portfolios
+- Interactive plots
+- Stress testing and scenario analysis
+- Key rate duration and curve risk
+- Fixed-for-floating swap cash flows and valuation
+- Control variates and importance sampling techniques
+- Value at Risk (VaR) methodologies and backtesting
+- Risk-neutral pricing methodology for derivative securities
+- Case Study
+- Operational risk quantification and modeling
+- Arbitrage opportunities and risk-free profit extraction
+- Expected Shortfall and coherent risk measures
+- Interest rate swap pricing and valuation
+- excess returns and manager skill
+- Kalman Filter
+- Liquidity risk management in financial institutions
+- Bank liquidity ratios and funding risk management
+- Variance swaps and volatility trading strategies
+- Python plotting
+- Matplotlib library
+- Credit exposure measurement and EAD
+- Plot customization
+- Wrong-way risk in derivative transactions
+- Stress Testing
+- Value-at-Risk calculation using historical simulation
+- Quantitative Implementation
+- Credit risk migration matrices and rating transition
+- Capital Structure
+- Credit risk modeling and portfolio correlation analysis
+- Backtesting procedures for risk models
+- Credit risk assessment and loan portfolio management
+- Liquidity risk measurement and management
+- Cross-currency basis swaps and funding
+- Duration and convexity measures for bond portfolios
+- Systemic risk indicators and early warning systems
+- Data visualization
+- Global financial stability and systemic risk monitoring
+- Price sensitivity to interest rate changes
+- Loss given default and recovery rates
+- Modified duration vs. Macaulay duration
+source: https://blog.enterprisedna.co/mastering-data-analytics-with-matplotlib-in-python/
+tags:
+- financial-analysis
+- python
+- commodities
+- matplotlib
+- interest-rate-swaps
+- mathematical-finance
+- data_visualization
+- capital-structure
+- plotting
+- financial-modeling
+- data_analysis
+- case-study
+- apt
+- value-at-risk
+- kalman-filter
+- time-series
+- credit-risk
+- quantitative-implementation
+- duration-convexity
+- solution
+- stress-testing
+- liquidity-risk
+- systemic-risk
+- deposit-insurance
+- quantitative-finance
+- expected-shortfall
+- operational-risk
+- monte-carlo
+title: Mastering Data Analytics with Matplotlib in Python
 ---
 
 # Mastering Data Analytics with Matplotlib in Python

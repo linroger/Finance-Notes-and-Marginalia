@@ -1,23 +1,36 @@
 ---
-title: The Economist Intangible Capitalism
-tags:
-  - capital_markets
-  - intangible_capitalism
-  - intellectual_property
-  - venture_capital
-  - whaling_industry
 aliases:
-  - Capitalism without Capital
-  - Intangible Capitalism
-  - Venture Capital
-  - Whaling
+- Capitalism without Capital
+- Intangible Capitalism
+- Venture Capital
+- Whaling
 key_concepts:
-  - Intangible vs. Tangible Capital
-  - Low-probability, high-payoff
-  - Shift in Business Investment
-  - Venture Capitalists
-  - Whaling Agents
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- abs
+- apt
+- arbitrage
+- arch
+- calls
+- convexity
+- correlation
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- fixed_income
+- hedging
+- options
+- risk-management
+title: The Economist Intangible Capitalism
 ---
+
 
 # The Economist Intangible Capitalism
 # Intangible Capitalism

@@ -1,24 +1,119 @@
 ---
-cssclasses:
-  - academia
 Owner: RRoger Lin
-title: Note on the Leveraged Loan Market
-tags:
-  - credit_market
-  - financial_analysis
-  - institutional_investors
-  - lbo_financing
-  - leveraged_loan
 aliases:
-  - LBO Financing
-  - Leveraged Loan Market
-  - Loan Market
+- LBO Financing
+- Leveraged Loan Market
+- Loan Market
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-dc98d1
 key_concepts:
-  - financing for corporate transactions
-  - institutional investor base
-  - key market concepts
-  - leveraged loan definition
-  - loan market contraction
+- Liquidity coverage ratio and net stable funding ratio
+- equity tranche in securitization
+- Extensions to multi-factor CAPM models
+- leveraged loan definition
+- Duration and convexity analysis for bond portfolio management
+- Active portfolio management and performance attribution
+- institutional investor base
+- second lien security and collateral
+- Stress testing and supervisory review processes
+- Collateralized Debt Obligations
+- Option Greeks and portfolio risk management
+- Commodity markets and pricing dynamics
+- Capital Asset Pricing Model and beta estimation
+- Risk budgeting and portfolio construction techniques
+- Dodd-Frank Act regulatory reforms and implementation
+- private equity transactions
+- Capital Asset Pricing Model and expected returns
+- loan market contraction
+- Leverage ratio and large exposures
+- Vega and volatility risk management
+- fixed income risk measurement
+- tranche structure in structured finance
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- 2008 financial crisis and systemic risk analysis
+- GARCH models and volatility forecasting
+- financing for corporate transactions
+- 'Structured products: CDOs, CLOs, and credit derivatives'
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Risk-weighted assets and capital adequacy ratios
+- Security Market Line and beta measurement
+- key market concepts
+- Theta and time decay modeling
+- Value at Risk (VaR) methodologies and backtesting
+- Case Study
+- Interest rate swap pricing and valuation
+- Basel III regulatory framework and capital requirements
+- ESG integration in portfolio management
+- investment grade bonds and ratings
+- Variance swaps and volatility trading strategies
+- SPV structure and accounting
+- High Yield Bonds
+- Delta hedging strategies in options portfolio management
+- high yield debt and default risk
+- asset transformation and structured finance
+- Gamma and convexity adjustments
+- Capital Structure
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Delta hedging and the replication argument
+- Cross-currency basis swaps and funding
+- Currency hedging strategies for global portfolios
+- Dodd-Frank Act regulatory reforms
+- Market portfolio and risk-free rate assumptions
+- Empirical tests and anomalies in CAPM
+tags:
+- leveraged_loan
+- commodities
+- lbo_financing
+- institutional_investors
+- 2008-financial-crisis
+- bank-regulation
+- capm
+- case-study
+- value-at-risk
+- credit-ratings
+- recovery-rate
+- credit-risk
+- duration-convexity
+- solution
+- private-equity
+- investment-banking
+- financial-crisis
+- corporate-bonds
+- syndicated-loans
+- credit-analysis
+- collateralized-debt-obligations
+- garch-models
+- dodd-frank
+- interest-rate-swaps
+- mathematical-finance
+- balance-sheet
+- collateralized-loan-obligations
+- course-material
+- capital-structure
+- greeks
+- high-yield-bonds
+- lbo
+- hedge-funds
+- ebitda
+- leveraged-buyouts
+- quantitative-implementation
+- securitization
+- clo
+- subprime-mortgage
+- exotic-options
+- distressed-debt
+- mbs-cmos
+- financial-intermediation
+- credit-derivatives
+- harvard-business-review
+- duration
+title: Note on the Leveraged Loan Market
 ---
 
 # Note on the Leveraged Loan Market

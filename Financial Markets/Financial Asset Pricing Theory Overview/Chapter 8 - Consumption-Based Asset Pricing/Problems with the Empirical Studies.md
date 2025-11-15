@@ -1,19 +1,17 @@
 ---
 tags:
-  - asset_pricing
-  - consumption_based_model
-  - empirical_studies
-  - stock_returns
-  - survivorship_bias
+- apt
+- arch
+- bonds
+- fixed_income
+- risk-management
+- var
 aliases:
-  - Empirical Study Issues
-  - Problems in Empirical Research
+- Empirical Study Issues
+- Problems in Empirical Research
 key_concepts:
-  - Ex-ante expectations vs realized
-  - Excess stock return estimate
-  - Poor quality consumption data
-  - Stationarity assumption issues
-  - Survivorship bias in returns
+- Bond pricing and fixed income securities valuation
+- Value at Risk and tail risk measurement
 ---
 
 # 8.6 Problems with the empirical studies  

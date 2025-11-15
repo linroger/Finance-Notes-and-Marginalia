@@ -1,25 +1,89 @@
 ---
-cssclasses: academia
 Owner: RRoger Lin
-created:
-linter-yaml-title-alias: WHAT ARE MONEY MARKET FUNDS?
-title: A Primer on Money Market Mutual Funds
-tags:
-  - debt_securities
-  - fixed_income
-  - investment_strategy
-  - money_market_funds
-  - us_treasury
 aliases:
-  - MMMF
-  - Money Market Fund
-  - Money Market Mutual Fund
+- MMMF
+- Money Market Fund
+- Money Market Mutual Fund
+created: null
+cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-c07a1f
 key_concepts:
-  - Low volatility investments
-  - Repurchase agreements
-  - SEC fund regulations
-  - Short-term debt securities
-  - Taxable/tax-exempt income
+- Deposit Insurance
+- Duration and convexity analysis for bond portfolio management
+- Active portfolio management and performance attribution
+- Taxable/tax-exempt income
+- Treasury Bonds
+- Repurchase agreements
+- Single-name vs. index CDS trading
+- Wholesale funding markets and maturity transformation
+- Option Greeks and portfolio risk management
+- Funding liquidity vs. market liquidity
+- Capital Asset Pricing Model and beta estimation
+- Risk budgeting and portfolio construction techniques
+- Capital Asset Pricing Model and expected returns
+- Solution
+- Credit spread decomposition and hazard rates
+- Municipal Bonds
+- Vega and volatility risk management
+- CDS clearing and central counterparties
+- fixed income risk measurement
+- Portfolio immunization strategies
+- CDS-Bond basis and arbitrrage opportunities
+- Mathematical Finance
+- Market portfolio and risk-free rate assumptions
+- Key rate duration and curve risk
+- Course Material
+- Security Market Line and beta measurement
+- Theta and time decay modeling
+- Liquidity risk management in financial institutions
+- Credit default swap pricing and risk-neutral probabilities
+- Short-term debt securities
+- ESG integration in portfolio management
+- deposit insurance and protection systems
+- Delta hedging strategies in options portfolio management
+- Federal Deposit Insurance Corporation
+- Deposit stability and core funding
+- Low volatility investments
+- Quantitative Implementation
+- Gamma and convexity adjustments
+- SEC fund regulations
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Delta hedging and the replication argument
+- Duration and convexity measures for bond portfolios
+- Currency hedging strategies for global portfolios
+- Price sensitivity to interest rate changes
+- liquidity measurement and management
+- Modified duration vs. Macaulay duration
+- credit risk transfer mechanisms
+- Liquidity stress testing and contingency funding plans
+linter-yaml-title-alias: WHAT ARE MONEY MARKET FUNDS?
+tags:
+- credit-default-swaps
+- mathematical-finance
+- investment_strategy
+- course-material
+- capm
+- market-risk
+- municipal-bonds
+- financial-modeling
+- greeks
+- fixed_income
+- credit-risk
+- us_treasury
+- quantitative-implementation
+- duration-convexity
+- solution
+- treasury-bonds
+- liquidity-risk
+- debt_securities
+- deposit-insurance
+- money_market_funds
+- duration
+- cds
+title: A Primer on Money Market Mutual Funds
 ---
 
 # A Primer on Money Market Mutual Funds

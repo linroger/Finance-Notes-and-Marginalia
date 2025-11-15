@@ -1,28 +1,64 @@
 ---
-title: Introduction to Interest-Rate Swap Engineering
-tags:
-  - interest-rate-swaps
-  - swap-engineering
-  - financial-derivatives
-  - equity-swaps
-  - basis-swaps
-  - asset-swaps
-  - swap-logic
-  - derivatives-engineering
 aliases:
-  - Chapter 4 Swap Engineering
-  - Interest Rate Swap Introduction
-  - Swap Markets Introduction
-key_concepts:
-  - Swap logic
-  - Equivalent of zero in finance
-  - Equity swaps
-  - Interest rate swaps
-  - Basis swaps
-  - Asset swaps
-  - Swap types
-  - Swap applications
+- Chapter 4 Swap Engineering
+- Interest Rate Swap Introduction
+- Swap Markets Introduction
 cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-a5ad06
+key_concepts:
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- apt
+- arbitrage
+- arch
+- bonds
+- capm
+- cds
+- commodities
+- convexity
+- corporate-bonds
+- correlation
+- credit-default-swaps
+- credit-risk
+- currency-swaps
+- delta
+- derivatives-pricing
+- duration
+- exotic-options
+- factor-models
+- fixed_income
+- futures
+- futures-markets
+- gamma
+- garch
+- greeks
+- hedging
+- interest-rate-swaps
+- mbs
+- options
+- risk-management
+- risk-neutral
+- swaps
+- term-structure
+- var
+- yield-curve
+- zero-coupon
+title: Introduction to Interest-Rate Swap Engineering
 ---
 
 # INTRODUCTION TO INTEREST-RATE SWAP ENGINEERING  

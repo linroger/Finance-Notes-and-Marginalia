@@ -1,22 +1,23 @@
 ---
 tags:
-  - asset_transformers
-  - balance_sheets
-  - broker_dealers
-  - commercial_banks
-  - financial_institutions
+- arbitrage
+- bonds
+- cds
+- credit-risk
+- duration
+- fixed_income
+- risk-management
+- var
 aliases:
-  - Asset Transformation
-  - Brokerage Firms
-  - Financial Intermediaries
+- Asset Transformation
+- Brokerage Firms
+- Financial Intermediaries
 key_concepts:
-  - Asset transformation explained
-  - Balance sheet analysis
-  - Broker-dealer characteristics
-  - Commercial bank examples
-  - Customer-friendly liabilities
-  - Financial institutions roles
-  - Government insurance benefits
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
 ---
 
 # 1.5 FINANCIAL INSTITUTIONS: TRANSFORMING INTERMEDIARIES VS BROKER-DEALERS  

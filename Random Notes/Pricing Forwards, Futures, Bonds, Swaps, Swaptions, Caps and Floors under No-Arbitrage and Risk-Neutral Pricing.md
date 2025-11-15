@@ -1,27 +1,118 @@
 ---
-title: Pricing Forwards, Futures, Bonds, Swaps, Swaptions, Caps And Floors Under No-Arbitrage And Risk-Neutral Pricing
-tags:
-  - complete_market
-  - derivative_pricing
-  - financial_instruments
-  - no_arbitrage_pricing
-  - risk_neutral_valuation
 aliases:
-  - Derivative Valuation
-  - No-Arbitrage Pricing
-  - Pricing Derivatives
-  - Risk-Neutral Valuation
+- Derivative Valuation
+- No-Arbitrage Pricing
+- Pricing Derivatives
+- Risk-Neutral Valuation
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-e55c90
 key_concepts:
-  - Expected payoffs, discounting
-  - Fundamental theorem
-  - Law of one price
-  - No-arbitrage, riskless profit
-  - Pricing PDE
-  - Replicating portfolio
-  - Risk-neutral probability measure
-
- 
+- Apt
+- Term structure of interest rates and yield curve shapes
+- Stochastic calculus in financial modeling
+- Brownian motion and Wiener processes in finance
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Expected payoffs, discounting
+- Option Greeks and portfolio risk management
+- Commodity markets and pricing dynamics
+- Currency derivatives
+- No-arbitrage, riskless profit
+- Expectations hypothesis and liquidity preference theory
+- Futures contracts and forward pricing
+- Law of one price
+- Interest rate swaps and term structure
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- Fundamental theorem
+- Vega and volatility risk management
+- CDS clearing and central counterparties
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- Option sensitivity analysis
+- Replicating portfolio
+- Foreign exchange markets
+- Martingale theory and risk-neutral pricing
+- Equity valuation and analysis
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Risk-neutral probability measure
+- Theta and time decay modeling
+- Counterparty risk and settlement
+- Case Study
+- Dividend Policy
+- Interest rate swap pricing and valuation
+- Margin requirements and clearing
+- Delta, gamma, vega, theta, rho
+- Credit default swap pricing and risk-neutral probabilities
+- Variance swaps and volatility trading strategies
+- Pricing PDE
+- Derivatives pricing theory
+- Gamma and convexity adjustments
+- Delta hedging and the replication argument
+- Credit default swaps and credit risk
+- Parallel and non-parallel shifts in the yield curve
+- Cross-currency basis swaps and funding
+- Basis swaps and cross-currency swaps
+- Dividend discount models
+tags:
+- yield-curve
+- commodities
+- credit-default-swaps
+- stochastic-calculus
+- dividend-policy
+- collateralized-debt-obligations
+- interest-rate-swaps
+- mathematical-finance
+- course-material
+- calibration
+- martingales
+- brownian-motion
+- derivative_pricing
+- apt
+- case-study
+- greeks
+- caps-floors
+- black-scholes-model
+- value-at-risk
+- factor-models
+- exchange-rates
+- financial_instruments
+- cir-model
+- hedge-funds
+- libor-market-model
+- credit-risk
+- currency-swaps
+- hull-white-model
+- duration-convexity
+- hjm-model
+- quantitative-implementation
+- solution
+- treasury-bonds
+- model-calibration
+- equity
+- interest_rates
+- vasicek
+- stochastic_calculus
+- infrastructure
+- complete_market
+- exotic-options
+- credit
+- portfolio-theory
+- implied-volatility
+- swaptions
+- hedge_funds
+- dcf-valuation
+- harvard-business-review
+- cds
+- monte-carlo
+title: Pricing Forwards, Futures, Bonds, Swaps, Swaptions, Caps And Floors Under No-Arbitrage
+  And Risk-Neutral Pricing
 ---
+
 .# **Introduction**
 In modern financial theory, **no-arbitrage pricing** and **risk-neutral valuation** form the cornerstone for valuing derivative instruments. _No-arbitrage_ means there are no opportunities to make a riskless profit with zero net investment – put simply, markets adjust so that no “free lunch” is possible . Under this principle, the price of any financial instrument is constrained by the _law of one price_: two portfolios with identical future payoffs must have the same current price. The **fundamental theorem of asset pricing** formalizes this: a market is arbitrage-free if and only if there exists at least one **risk-neutral probability measure** (also called an equivalent martingale measure) under which discounted asset prices follow a martingale (have _fair game_ expected changes) . Intuitively, a _risk-neutral measure_ is a set of probabilities such that all assets earn the risk-free rate $r$ – investors are “indifferent to risk” under this measure, so expected returns in the pricing model equal $r$. Pricing derivatives in an arbitrage-free market can thus be done by taking _expected payoffs under the risk-neutral probabilities and discounting at the risk-free rate_. This is the essence of **risk-neutral pricing** .
 

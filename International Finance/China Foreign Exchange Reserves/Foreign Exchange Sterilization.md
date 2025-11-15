@@ -1,24 +1,94 @@
 ---
+aliases:
+- FX Sterilization
+- Monetary Sterilization
 description: Sterilization is a form of monetary action in which a central bank seeks
   to limit the effect of inflows and outflows of capital on the money supply.
-source: https://www.investopedia.com/terms/s/sterilization.asp
-title: Foreign Exchange Sterilization
-tags:
-  - capital_flows
-  - central_bank
-  - foreign_exchange
-  - monetary_policy
-  - sterilization
-aliases:
-  - FX Sterilization
-  - Monetary Sterilization
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-b59027
 key_concepts:
-  - central bank market operations
-  - classical sterilization
-  - fiscal policy measures
-  - limit capital flow effects
-  - manipulate currency value
-  - stem negative economic effects
+- Term structure of interest rates
+- Term structure of interest rates and yield curve shapes
+- classical sterilization
+- Treasury Bonds
+- Option Greeks and portfolio risk management
+- Currency derivatives
+- Expectations hypothesis and liquidity preference theory
+- Futures contracts and forward pricing
+- Solution
+- Interest rate swaps and term structure
+- Default probability estimation
+- Interest rate modeling
+- Yield curve fitting and interpolation methods
+- Vega and volatility risk management
+- Portfolio immunization strategies
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- stem negative economic effects
+- Foreign exchange markets
+- Key rate duration and curve risk
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Currency risk management and hedging
+- Forward rates and interest rate parity
+- Theta and time decay modeling
+- Case Study
+- Exchange rate determination and PPP theory
+- limit capital flow effects
+- fiscal policy measures
+- Interest rate swap pricing and valuation
+- manipulate currency value
+- Margin requirements and clearing
+- Variance swaps and volatility trading strategies
+- Bond pricing and yield analysis
+- central bank market operations
+- Quantitative Implementation
+- Gamma and convexity adjustments
+- Delta hedging and the replication argument
+- Parallel and non-parallel shifts in the yield curve
+- Credit risk modeling
+- Duration and convexity measures for bond portfolios
+- Cross-currency basis swaps and funding
+- Delta hedging and Greeks
+- Basis swaps and cross-currency swaps
+- Price sensitivity to interest rate changes
+- Modified duration vs. Macaulay duration
+- Duration and convexity
+- Options pricing and payoff structures
+- Currency markets and foreign exchange trading
+source: https://www.investopedia.com/terms/s/sterilization.asp
+tags:
+- yield-curve
+- fx
+- swaps
+- sterilization
+- interest-rate-swaps
+- mathematical-finance
+- course-material
+- case-study
+- bonds
+- greeks
+- portfolio
+- exchange-rates
+- central_bank
+- credit-risk
+- currency-swaps
+- quantitative-implementation
+- duration-convexity
+- solution
+- treasury-bonds
+- capital_flows
+- interest_rates
+- foreign_exchange
+- credit
+- portfolio-theory
+- monetary_policy
+- volatility
+- regulatory-framework
+- futures
+title: Foreign Exchange Sterilization
 ---
 
 # Foreign Exchange Sterilization

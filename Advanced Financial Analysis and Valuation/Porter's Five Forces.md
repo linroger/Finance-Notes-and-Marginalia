@@ -1,29 +1,115 @@
 ---
-title: Porter's Five Forces
-cssclasses:
-  - academia
-tags:
-  - competitive_strategy
-  - industry_analysis
-  - market_structure
-  - porter_five_forces
-  - rivalry
-  - strategic_management
-  - competitive_advantage
 aliases:
-  - Five Forces Model
-  - Industry Analysis
-  - Porter's Framework
-  - Competitive Structure Analysis
+- Five Forces Model
+- Industry Analysis
+- Porter's Framework
+- Competitive Structure Analysis
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-ebdbfd
 key_concepts:
-  - Five competitive forces (rivalry, buyer power, supplier power, substitutes, new entrants)
-  - Industry concentration ratio
-  - Industry profitability analysis
-  - Product differentiation strategies
-  - Rivalry intensity factors
-  - Barriers to entry and exit
-  - Strategic positioning
-  - Competitive advantage development
+- Apt
+- Industry profitability analysis
+- Carry trades and momentum in FX markets
+- Mean-variance optimization and the efficient frontier
+- Extreme value theory and tail risk modeling
+- Credit risk modeling and default probability estimation
+- Debt capacity analysis in LBO transactions
+- Commodity markets and pricing dynamics
+- Risk budgeting and portfolio construction techniques
+- private equity transactions
+- Industry concentration ratio
+- Historical simulation vs. parametric VaR models
+- Credit portfolio diversification and concentration
+- DV01 calculation and interest rate risk hedging
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- Monte Carlo integration and variance reduction
+- Deposit insurance and systemic risk prevention
+- Monte Carlo VaR for complex portfolios
+- Rivalry intensity factors
+- Shadow Banking
+- Stress testing and scenario analysis
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Currency risk management and hedging
+- Forward rates and interest rate parity
+- Control variates and importance sampling techniques
+- Value at Risk (VaR) methodologies and backtesting
+- Risk-neutral pricing methodology for derivative securities
+- Five competitive forces (rivalry, buyer power, supplier power, substitutes, new
+  entrants)
+- Operational risk quantification and modeling
+- Case Study
+- Exchange rate determination and PPP theory
+- Net interest margin analysis and banking profitability
+- Arbitrage opportunities and risk-free profit extraction
+- Strategic positioning
+- Expected Shortfall and coherent risk measures
+- Interest rate swap pricing and valuation
+- Bank liquidity ratios and funding risk management
+- Variance swaps and volatility trading strategies
+- Barriers to entry and exit
+- Credit exposure measurement and EAD
+- Wrong-way risk in derivative transactions
+- Value-at-Risk calculation using historical simulation
+- Shadow banking system and regulatory arbitrage
+- Credit risk migration matrices and rating transition
+- Capital Structure
+- Credit risk modeling and portfolio correlation analysis
+- Backtesting procedures for risk models
+- Credit risk assessment and loan portfolio management
+- Leveraged Buyout financial structures and returns
+- Liquidity risk measurement and management
+- Cross-currency basis swaps and funding
+- Product differentiation strategies
+- Systemic risk indicators and early warning systems
+- Loss given default and recovery rates
+- Competitive advantage development
+- Currency markets and foreign exchange trading
+- Equity returns and value creation mechanisms
+tags:
+- commodities
+- rivalry
+- interest-rate-swaps
+- mathematical-finance
+- course-material
+- capital-structure
+- shadow-banking
+- financial-modeling
+- strategic_management
+- case-study
+- apt
+- leveraged-buyout
+- market_structure
+- value-at-risk
+- exchange-rates
+- competitive_strategy
+- credit-risk
+- leveraged-buyouts
+- trilemma
+- quantitative-implementation
+- duration-convexity
+- solution
+- private-equity
+- industry_analysis
+- banking
+- stress-testing
+- liquidity-risk
+- systemic-risk
+- exotic-options
+- distressed-debt
+- porter_five_forces
+- deposit-insurance
+- competitive_advantage
+- harvard-business-review
+- municipal-bonds
+- expected-shortfall
+- operational-risk
+- monte-carlo
+title: Porter's Five Forces
 ---
 
 The model of pure competition implies that risk-adjusted rates of return should be constant across firms and industries. However, numerous economic studies have affirmed that different industries can sustain different levels of profitability; part of this difference is explained by industry structure.

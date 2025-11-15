@@ -1,44 +1,102 @@
 ---
-title: Week 1 Ratio Analysis + Valuation Review
-cssclasses:
-  - academia
-tags:
-  - dividend_discount_model
-  - enterprise_valuation
-  - equity_valuation
-  - free_cash_flow
-  - ratio_analysis
-  - roic
-  - valuation
-  - wacc
-  - financial_analysis
-  - corporate_finance
 aliases:
-  - DCF
-  - DDM
-  - Valuation Methods
-  - Week 1 Review
+- DCF
+- DDM
+- Valuation Methods
+- Week 1 Review
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-333a3a
 key_concepts:
-  - Capital structure impact on valuation methods
-  - Continuing value calculation techniques
-  - Discount rate components and calculation
-  - Dividend discount model limitations
-  - Economic profit model applications
-  - Enterprise DCF process and methodology
-  - Enterprise vs equity valuation models
-  - Equity value determination from enterprise value
-  - Financial ratio analysis fundamentals
-  - Free cash flow calculation and components
-  - Mid-year adjustment technique
-  - NOPAT and FCF relationship
-  - Non-operating assets valuation 
-  - Operating vs investing classification
-  - ROE decomposition and drivers
-  - ROIC as a measure of operational efficiency
-  - ROIC vs ROA differences and applications
-  - Terminal value estimation methods
-  - Valuation basics and principles
-  - Weighted average cost of capital (WACC)
+- Apt
+- Weighted average cost of capital (WACC)
+- Sensitivity analysis in DCF models
+- Equity value determination from enterprise value
+- ROIC as a measure of operational efficiency
+- Reduced-form models and intensity-based approaches
+- Common pitfalls in DCF valuation
+- Free cash flow calculation and components
+- Discounted Cash Flow valuation methodology
+- Solution
+- After-tax cost of debt and capital structure
+- Historical simulation vs. parametric VaR models
+- WACC for multinational corporations
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- Terminal value estimation methods
+- leverage ratio calculation and monitoring
+- Monte Carlo VaR for complex portfolios
+- cost of capital estimation
+- Stress testing and scenario analysis
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Value at Risk (VaR) methodologies and backtesting
+- ROE decomposition and drivers
+- Case Study
+- Dividend discount model limitations
+- fundamental valuation methods
+- Enterprise vs equity valuation models
+- Capital structure impact on valuation methods
+- Mid-year adjustment technique
+- Enterprise DCF process and methodology
+- Cost of equity estimation using CAPM and other models
+- Interest rate swap pricing and valuation
+- present value and discounting methods
+- Expected Shortfall and coherent risk measures
+- Weighted Average Cost of Capital calculation
+- Variance swaps and volatility trading strategies
+- Discount rate components and calculation
+- Market value weights vs. book value weights
+- Free cash flow to equity and firm valuation
+- Non-operating assets valuation
+- Terminal value estimation and perpetuity growth
+- Quantitative Implementation
+- Credit Analysis
+- Capital Structure
+- NOPAT and FCF relationship
+- Harvard Business Review
+- Cross-currency basis swaps and funding
+- Economic profit model applications
+- Financial ratio analysis fundamentals
+- Valuation basics and principles
+- Operating vs investing classification
+- ROIC vs ROA differences and applications
+- Continuing value calculation techniques
+tags:
+- quantitative-implementation
+- enterprise_valuation
+- solution
+- income-statement
+- ebit
+- roe
+- wacc
+- dividend_discount_model
+- return-on-equity
+- interest-rate-swaps
+- mathematical-finance
+- balance-sheet
+- deferred-taxes
+- course-material
+- roa
+- capital-structure
+- cost-of-capital
+- leverage-ratio
+- roic
+- ratio_analysis
+- corporate_finance
+- dividend-discount-model
+- case-study
+- apt
+- value-at-risk
+- dcf-valuation
+- return-on-invested-capital
+- harvard-business-review
+- net-income
+- valuation
+- credit-analysis
+title: Week 1 Ratio Analysis + Valuation Review
 ---
 
 # Week 1 Ratio Analysis + Valuation Review

@@ -1,24 +1,132 @@
 ---
-cssclasses: academia
 Owner: RRoger Lin
-linter-yaml-title-alias: Long-Term Capital Management,        L.P. (A)
-title: Note on Long-Term Capital Management,  L.P. HBP
-tags:
-  - interest_rate_swap
-  - long_term_capital_management
-  - ltcm
-  - risk_arbitrage
-  - yield_curve
 aliases:
-  - HBP Note
-  - LTCM
-  - Long-Term Capital Portfolio
+- HBP Note
+- LTCM
+- Long-Term Capital Portfolio
+cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-3cba44
 key_concepts:
-  - Interest rate swap agreement
-  - Long-Term Capital Management
-  - Option premia collateral
-  - Risk arbitrage strategy
-  - Yield curve relative value
+- Cox-Ross-Rubinstein parameter specification
+- Term structure of interest rates and yield curve shapes
+- Working Capital
+- Duration and convexity analysis for bond portfolio management
+- Active portfolio management and performance attribution
+- Computational implementation of binomial option pricing
+- Single-name vs. index CDS trading
+- market disruption event in CDS
+- Option premia collateral
+- Capital Asset Pricing Model and beta estimation
+- Risk budgeting and portfolio construction techniques
+- Expectations hypothesis and liquidity preference theory
+- Commodity markets and pricing dynamics
+- Capital Asset Pricing Model and expected returns
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- CDS clearing and central counterparties
+- fixed income risk measurement
+- forward commitments and hedging
+- CDS-Bond basis and arbitrrage opportunities
+- Spot rates vs. forward rates modeling
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- leverage ratio calculation and monitoring
+- GARCH models and volatility forecasting
+- Fixed-for-floating swap cash flows and valuation
+- Arbitrage Pricing Theory and multifactor models
+- excess spread in structured finance
+- Course Material
+- Long-Term Capital Management
+- Yield curve relative value
+- Dividend Policy
+- Arbitrage opportunities and risk-free profit extraction
+- Interest rate swap pricing and valuation
+- Basel III regulatory framework and capital requirements
+- interest rate and currency derivatives
+- Credit default swap pricing and risk-neutral probabilities
+- ESG integration in portfolio management
+- Variance swaps and volatility trading strategies
+- Pairs trading and statistical arbitrage strategies
+- Convergence of binomial model to Black-Scholes solution
+- fair value measurement and hierarchy
+- Binomial option pricing model with multiple time steps
+- Delta hedging strategies in options portfolio management
+- systematic risk and market exposure
+- high yield debt and default risk
+- Value-at-Risk calculation using historical simulation
+- risk measurement and management
+- Shadow banking system and regulatory arbitrage
+- American option pricing in binomial trees
+- Capital Structure
+- Risk arbitrage strategy
+- Tier 1 capital and core equity requirements
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Interest rate swap agreement
+- risk-adjusted performance measurement
+- Parallel and non-parallel shifts in the yield curve
+- Cross-currency basis swaps and funding
+- alternative investment strategies
+linter-yaml-title-alias: Long-Term Capital Management,        L.P. (A)
+tags:
+- yield-curve
+- basel-iii
+- binomial-model
+- commodities
+- credit-default-swaps
+- dividend-policy
+- pairs-trading
+- capm
+- haircuts
+- financial-modeling
+- case-study
+- apt
+- value-at-risk
+- factor-models
+- credit-risk
+- duration-convexity
+- solution
+- algorithmic-trading
+- leverage-ratios
+- corporate-bonds
+- syndicated-loans
+- ltcm
+- vasicek-model
+- credit-analysis
+- capital-adequacy
+- working-capital
+- off-balance-sheet
+- risk-management
+- garch-models
+- interest-rate-swaps
+- call-options
+- mathematical-finance
+- balance-sheet
+- course-material
+- capital-structure
+- shadow-banking
+- market-risk
+- greeks
+- high-yield-bonds
+- exchange-rates
+- hedge-funds
+- quantitative-implementation
+- treasury-bonds
+- stress-testing
+- arbitrage
+- liquidity-risk
+- leverage-ratio
+- distressed-debt
+- structured-products
+- financial-intermediation
+- implied-volatility
+- harvard-business-review
+- duration
+- mean-reversion
+- monte-carlo
+title: Note on Long-Term Capital Management,  L.P. HBP
 ---
 
 **Harvard Business School**

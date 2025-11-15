@@ -2,21 +2,14 @@
 title: Review of the Federal Reserve’s Supervision and Regulation of Silicon Valley
   Bank
 tags:
-  - bank_failure
-  - banking_regulation
-  - federal_reserve
-  - risk_management
-  - silicon_valley_bank
+- apt
 aliases:
-  - Federal Reserve supervision
-  - SVB review
-  - Silicon Valley Bank failure
+- Federal Reserve supervision
+- SVB review
+- Silicon Valley Bank failure
 key_concepts:
-  - Interest rate risk
-  - Regulatory weaknesses
-  - SVB mismanagement
-  - Supervisory failures
-  - Uninsured deposits
+- Ito's lemma and stochastic calculus applications
+- Interest rate caps, floors, and swaptions
 ---
 
 # Review of the Federal Reserve’s Supervision and Regulation of Silicon Valley Bank

@@ -1,36 +1,56 @@
 ---
-tags:
-  - advanced_financial_analysis
-  - commodity_prices
-  - ethylene_capacity
-  - natural_gas_prices
-  - westlake_operations
-  - petrochemicals
-  - financial_forecasting
-  - cyclical_industries
-  - valuation
-  - risk_analysis
-  - earnings_per_share
 aliases:
-  - BUSN 30313
-  - PSET 3
-  - Roger Lin
-  - Westlake
+- BUSN 30313
+- PSET 3
+- Roger Lin
+- Westlake
 cssclasses: academia
 key_concepts:
-  - PVC and VCM production: Polyvinyl chloride and vinyl chloride monomer production processes in petrochemical industry
-  - commodity petrochemicals: Basic chemical products with standard specifications traded in large volumes
-  - ethylene production: Key olefin manufacturing process using natural gas as feedstock
-  - natural gas feedstocks: Primary raw material input for ethylene production at Westlake
-  - natural gas price volatility: Significant fluctuations in gas prices affecting production economics
-  - olefins and vinyls chains: Two main product segments comprising ethylene derivatives and PVC products
-  - peak cycle EPS estimate: Earnings per share forecast at the cyclical peak of commodity margins
-  - vertically integrated producer: Company controlling multiple stages from raw materials to finished products
-  - operating leverage: High fixed costs relative to variable costs in petrochemical manufacturing
-  - pricing power: Ability to influence product prices in competitive commodity markets
-  - interest rate sensitivity: Impact of rate changes on construction demand for PVC products
-  - supply-demand dynamics: Market forces driving commodity price cycles in petrochemicals
+- PVC and VCM production: Polyvinyl chloride and vinyl chloride monomer production
+    processes in petrochemical industry
+- commodity petrochemicals: Basic chemical products with standard specifications traded
+    in large volumes
+- ethylene production: Key olefin manufacturing process using natural gas as feedstock
+- natural gas feedstocks: Primary raw material input for ethylene production at Westlake
+- natural gas price volatility: Significant fluctuations in gas prices affecting production
+    economics
+- olefins and vinyls chains: Two main product segments comprising ethylene derivatives
+    and PVC products
+- peak cycle EPS estimate: Earnings per share forecast at the cyclical peak of commodity
+    margins
+- vertically integrated producer: Company controlling multiple stages from raw materials
+    to finished products
+- operating leverage: High fixed costs relative to variable costs in petrochemical
+    manufacturing
+- pricing power: Ability to influence product prices in competitive commodity markets
+- interest rate sensitivity: Impact of rate changes on construction demand for PVC
+    products
+- supply-demand dynamics: Market forces driving commodity price cycles in petrochemicals
+- fixed income risk measurement
+- Duration and convexity analysis for bond portfolio management
+- Financial markets and instruments
+- fixed income risk measurement
+- Duration and convexity analysis for bond portfolio management
+tags:
+- advanced_financial_analysis
+- commodities
+- commodity_prices
+- cyclical_industries
+- duration
+- earnings_per_share
+- ethylene_capacity
+- financial-reporting
+- financial_forecasting
+- natural_gas_prices
+- net-income
+- pe-ratio
+- petrochemicals
+- risk_analysis
+- valuation
+- westlake_operations
 ---
+
+
 
 # PSET 3 - Advanced Financial Analysis and Valuation
 

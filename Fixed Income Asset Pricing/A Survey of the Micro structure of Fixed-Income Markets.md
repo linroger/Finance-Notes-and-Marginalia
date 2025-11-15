@@ -1,20 +1,90 @@
 ---
-tags:
-  - dealer_markets
-  - fixed_income
-  - market_microstructure
-  - structured_credit
-  - trading_mechanisms
 aliases:
-  - Fixed Income Markets
-  - OTC Markets
+- Fixed Income Markets
+- OTC Markets
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-0df194
 key_concepts:
-  - Comparative market analysis
-  - Dealer-oriented OTC markets
-  - Electronic trading evolution
-  - Fixed-income trading mechanisms
-  - Market microstructure analysis
-  - Structured credit products
+- Carry trades and momentum in FX markets
+- Treasury Bonds
+- Currency markets and foreign exchange trading
+- Credit risk modeling and default probability estimation
+- Collateralized Debt Obligations
+- Option Greeks and portfolio risk management
+- Futures contracts and forward pricing
+- Electronic trading evolution
+- Default probability estimation
+- Solution
+- Municipal Bonds
+- Credit portfolio diversification and concentration
+- Vega and volatility risk management
+- Portfolio immunization strategies
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- Market microstructure analysis
+- Liquidity and price discovery
+- Key rate duration and curve risk
+- Equity valuation and analysis
+- Comparative market analysis
+- Currency risk management and hedging
+- Forward rates and interest rate parity
+- Theta and time decay modeling
+- Case Study
+- Exchange rate determination and PPP theory
+- Margin requirements and clearing
+- Fixed-income trading mechanisms
+- Market microstructure and trading
+- Interest rate derivatives
+- Dealer-oriented OTC markets
+- Credit exposure measurement and EAD
+- Loss given default and recovery rates
+- Fixed income securities
+- Bond pricing and yield analysis
+- Quantitative Implementation
+- Gamma and convexity adjustments
+- Harvard Business Review
+- Delta hedging and the replication argument
+- Credit risk modeling
+- Duration and convexity measures for bond portfolios
+- Delta hedging and Greeks
+- Mbs Cmos
+- Price sensitivity to interest rate changes
+- Modified duration vs. Macaulay duration
+- Duration and convexity
+- Structured credit products
+- Options pricing and payoff structures
+- Dividend discount models
+- Corporate Bonds
+tags:
+- collateralized-debt-obligations
+- garch-models
+- mathematical-finance
+- trading
+- dealer_markets
+- case-study
+- bonds
+- greeks
+- fixed_income
+- exchange-rates
+- options
+- credit-risk
+- quantitative-implementation
+- duration-convexity
+- solution
+- treasury-bonds
+- structured_credit
+- structured_finance
+- equity
+- trading_mechanisms
+- corporate-bonds
+- market_microstructure
+- mbs-cmos
+- credit
+- regulatory-framework
+- harvard-business-review
+- futures
+- municipal-bonds
 ---
 
 # Survey of Fixed-Income Market Microstructure

@@ -1,19 +1,79 @@
 ---
-tags:
-  - american_dream
-  - capitalism_reform
-  - economic_inequality
-  - income_inequality
-  - wealth_gap
 aliases:
-  - Capitalism Reform
-  - Reforming Capitalism
+- Capitalism Reform
+- Reforming Capitalism
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-c44e50
 key_concepts:
-  - Capitalism needs reform
-  - Economic investing game
-  - Equal opportunity is fair
-  - Self-reinforcing spirals
-  - Widening opportunity gaps
+- Apt
+- Sensitivity analysis in DCF models
+- Self-reinforcing spirals
+- Economic investing game
+- Treasury Bonds
+- Option Greeks and portfolio risk management
+- Common pitfalls in DCF valuation
+- Discounted Cash Flow valuation methodology
+- Solution
+- Historical simulation vs. parametric VaR models
+- Equal opportunity is fair
+- Vega and volatility risk management
+- Value at risk and stress testing
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- Monte Carlo VaR for complex portfolios
+- Stress testing and scenario analysis
+- Equity valuation and analysis
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Value at Risk (VaR) methodologies and backtesting
+- Theta and time decay modeling
+- Portfolio risk metrics
+- Case Study
+- Exchange rate determination and PPP theory
+- Interest rate swap pricing and valuation
+- Expected Shortfall and coherent risk measures
+- Variance swaps and volatility trading strategies
+- Capitalism needs reform
+- Free cash flow to equity and firm valuation
+- Stress Testing
+- Terminal value estimation and perpetuity growth
+- Quantitative Implementation
+- Gamma and convexity adjustments
+- Delta hedging and the replication argument
+- Cross-currency basis swaps and funding
+- Delta hedging and Greeks
+- Widening opportunity gaps
+- Dividend discount models
+- Options pricing and payoff structures
+tags:
+- economic_inequality
+- garch-models
+- interest-rate-swaps
+- american_dream
+- mathematical-finance
+- course-material
+- income_inequality
+- case-study
+- apt
+- greeks
+- risk_management
+- value-at-risk
+- exchange-rates
+- options
+- quantitative-implementation
+- solution
+- treasury-bonds
+- equity
+- stress-testing
+- wealth_gap
+- infrastructure
+- bridgewater-perspective
+- capitalism_reform
+- dcf-valuation
+- regulatory-framework
+- municipal-bonds
 ---
 
 April 5 th, 2019

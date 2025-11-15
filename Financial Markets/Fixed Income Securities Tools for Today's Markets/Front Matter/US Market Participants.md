@@ -1,25 +1,45 @@
 ---
-tags:
-  - consumer_credit
-  - debt_securities
-  - delinquencies
-  - federal_reserve
-  - financial_balance_sheets
-  - financial_crisis_2007_2009
-  - home_equity_loans
-  - student_loans
-  - us_market_participants
 aliases:
-  - Consumer Credit Balances
-  - Market Sectors
-  - US Debt Holders
+- Consumer Credit Balances
+- Market Sectors
+- US Debt Holders
 key_concepts:
-  - Consumer credit components
-  - Debt security volumes
-  - Delinquency trends
-  - Home equity loan decline
-  - Market participant sectors
-  - Student loan increase
+- Consumer credit components
+- Debt security volumes
+- Delinquency trends
+- Home equity loan decline
+- Market participant sectors
+- Student loan increase
+- Equity valuation and analysis
+- Dividend discount models
+- Fixed income securities
+- Interest rate derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Derivatives pricing theory
+- Risk-neutral valuation
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Value at risk and stress testing
+- Portfolio risk metrics
+tags:
+- home_equity_loans
+- equity
+- consumer_credit
+- debt_securities
+- student_loans
+- regulation
+- us_market_participants
+- portfolio-theory
+- stochastic_calculus
+- fixed_income
+- trading
+- bonds
+- financial_balance_sheets
+- federal_reserve
+- derivatives
 ---
 
 # 0.3 US MARKET PARTICIPANTS  

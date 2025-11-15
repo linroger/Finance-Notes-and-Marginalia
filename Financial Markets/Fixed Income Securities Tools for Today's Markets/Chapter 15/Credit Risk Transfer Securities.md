@@ -1,20 +1,45 @@
 ---
-tags:
-  - credit_risk
-  - crt_securities
-  - fnma
-  - gse
-  - mortgage_backed_securities
 aliases:
-  - CAS
-  - CRT Securities
-  - STACR
+- CAS
+- CRT Securities
+- STACR
 key_concepts:
-  - CRT securities to public
-  - Default risk on mortgages
-  - GSEs sell default risk
-  - Investors buy bonds
-  - mortgage default risk transfer
+- CRT securities to public
+- Default risk on mortgages
+- GSEs sell default risk
+- Investors buy bonds
+- mortgage default risk transfer
+- Equity valuation and analysis
+- Dividend discount models
+- Credit risk modeling
+- Default probability estimation
+- Fixed income securities
+- Interest rate derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Option sensitivity analysis
+- Delta, gamma, vega, theta, rho
+- Bond pricing and yield analysis
+- Duration and convexity
+- Black-Scholes option pricing model
+- Continuous-time finance
+- Interest rate swaps and term structure
+tags:
+- gse
+- equity
+- mortgage_backed_securities
+- credit
+- greeks
+- cds
+- hedge_funds
+- fnma
+- structured_finance
+- interest_rates
+- credit_risk
+- portfolio-theory
+- fixed_income
+- trading
+- bonds
 ---
 
 # 15.12 CREDIT RISK TRANSFER SECURITIES  

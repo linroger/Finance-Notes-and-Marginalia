@@ -1,20 +1,45 @@
 ---
-tags:
-  - hedge_funds
-  - passive_funds
-  - replication
-  - strategy_indexes
-  - survivorship_bias
 aliases:
-  - Fund Replication
-  - Hedge Fund Performance
-  - Strategy Index Creation
+- Fund Replication
+- Hedge Fund Performance
+- Strategy Index Creation
 key_concepts:
-  - Hedge fund returns
-  - High fees erosion
-  - Lack of transparency
-  - Replicating hedge fund strategies
-  - Survivorship bias impact
+- Hedge fund returns
+- High fees erosion
+- Lack of transparency
+- Replicating hedge fund strategies
+- Survivorship bias impact
+- Equity valuation and analysis
+- Dividend discount models
+- Credit risk modeling
+- Default probability estimation
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Derivatives pricing theory
+- Risk-neutral valuation
+- Options pricing and payoff structures
+tags:
+- equity
+- regulatory-framework
+- replication
+- credit
+- strategy_indexes
+- hedge_funds
+- structured_finance
+- survivorship_bias
+- interest_rates
+- portfolio-theory
+- passive_funds
+- fx
+- trading
+- volatility
+- private_equity
 ---
 
 # 12.3 HEDGE FUND REPLICATION AND STRATEGY INDEXES  

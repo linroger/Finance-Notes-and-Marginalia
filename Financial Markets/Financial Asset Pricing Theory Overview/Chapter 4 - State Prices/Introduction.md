@@ -1,19 +1,26 @@
 ---
 tags:
-  - continuous_time
-  - expected_returns
-  - present_value
-  - pricing_rule
-  - state_price_deflator
+- apt
+- arbitrage
+- closed-form
+- completeness
+- derivatives-pricing
+- martingale
+- no-arbitrage
+- replication
+- risk-management
+- risk-neutral
+- var
 aliases:
-  - Pricing Assets
-  - State-Price Deflator
+- Pricing Assets
+- State-Price Deflator
 key_concepts:
-  - Closed-form expression dividends
-  - Expected returns consequences
-  - General pricing rule
-  - Real vs nominal deflators
-  - State-price deflator definition
+- Risk-neutral measures and martingale pricing
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Arbitrage opportunities and no-arbitrage pricing
 ---
 
 # 4.1 Introduction  

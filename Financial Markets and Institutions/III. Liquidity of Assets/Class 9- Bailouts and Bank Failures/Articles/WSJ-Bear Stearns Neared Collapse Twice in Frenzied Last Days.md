@@ -1,22 +1,19 @@
 ---
 title: WSJ-Bear Stearns Neared Collapse Twice in Frenzied Last Days
 tags:
-  - 2008_financial_crisis
-  - bear_stearns_collapse
-  - financial_crisis
-  - jp_morgan
-  - wall_street
+- apt
+- arch
+- calls
 aliases:
-  - Alan Schwartz
-  - Bear Stearns
-  - Henry Paulson
-  - Timothy Geithner
+- Alan Schwartz
+- Bear Stearns
+- Henry Paulson
+- Timothy Geithner
 key_concepts:
-  - Bear Stearns collapse
-  - Government loan guarantee
-  - J.P. Morgan acquisition
-  - Stock price decline
-  - Weekend deal deadline
+- Bond pricing and fixed income securities valuation
+- Ito's lemma and stochastic calculus applications
+- Credit risk modeling and default probability estimation
+- Interest rate caps, floors, and swaptions
 ---
 
 # WSJ-Bear Stearns Neared Collapse Twice in Frenzied Last Days

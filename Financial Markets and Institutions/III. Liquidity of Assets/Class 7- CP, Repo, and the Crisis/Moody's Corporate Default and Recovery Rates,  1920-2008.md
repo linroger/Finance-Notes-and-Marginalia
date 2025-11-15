@@ -1,24 +1,39 @@
 ---
-cssclasses: academia
-linter-yaml-title-alias: Corporate Default and Recovery Rates,   1920-2008
-title: Moody's Corporate Default and Recovery Rates,  1920-2008
-tags:
-  - corporate_defaults
-  - default_study
-  - financial_crisis
-  - moodys_ratings
-  - recovery_rates
 aliases:
-  - Corporate Default Study
-  - Default and Recovery Rates
-  - Moody's Report
+- Corporate Default Study
+- Default and Recovery Rates
+- Moody's Report
+cssclasses: academia
 key_concepts:
-  - Corporate default experience
-  - Credit trends in 2008
-  - Historical statistics
-  - Rating accuracy metrics
-  - Speculative-grade default rate
+- Delta hedging strategies in options portfolio management
+- 'Short-rate models: Vasicek, CIR, and mean reversion'
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+linter-yaml-title-alias: Corporate Default and Recovery Rates,   1920-2008
+tags:
+- arbitrage
+- arch
+- bonds
+- cir
+- convexity
+- correlation
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- fixed_income
+- hedging
+- options
+- puts
+- recovery-rate
+- risk-management
+title: Moody's Corporate Default and Recovery Rates,  1920-2008
 ---
+
 
 Default and Recovery Rates,   1920-2008 | Corporate Defaults]]
 

@@ -1,21 +1,46 @@
 ---
-tags:
-  - bond_convexity
-  - bond_pricing
-  - implied_convexity
-  - realised_convexity
-  - yield_curve
 aliases:
-  - Bond Convexity
-  - Convexity Analysis
-  - Implied vs. Realized
-  - Realised Convexity
+- Bond Convexity
+- Convexity Analysis
+- Implied vs. Realized
+- Realised Convexity
 key_concepts:
-  - Bond price non-linearity
-  - Bond price sensitivity
-  - Convexity value calculation
-  - Implied vs. realized convexity
-  - Yield change scenarios
+- Bond price non-linearity
+- Bond price sensitivity
+- Convexity value calculation
+- Implied vs. realized convexity
+- Yield change scenarios
+- Fixed income securities
+- Interest rate derivatives
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Arbitrage theory and practice
+- Law of one price
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+tags:
+- regulatory-framework
+- yield_curve
+- cds
+- hedge_funds
+- bond_pricing
+- monte_carlo
+- interest_rates
+- fixed_income
+- bond_convexity
+- fx
+- trading
+- bonds
+- volatility
+- implied_convexity
+- futures
 ---
 
 # Chapter 9 Implied vs Realised Convexity

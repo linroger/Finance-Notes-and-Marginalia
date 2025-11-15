@@ -1,19 +1,44 @@
 ---
-tags:
-  - cash_and_carry
-  - dollar_rolls
-  - repo_rate
-  - tba_liquidity
-  - tba_prices
 aliases:
-  - Dollar Rolls
-  - TBA rolls
+- Dollar Rolls
+- TBA rolls
 key_concepts:
-  - Cash-and-carry arbitrage
-  - Forward contracts
-  - Implied financing rate
-  - Repo position
-  - TBA contracts
+- Cash-and-carry arbitrage
+- Forward contracts
+- Implied financing rate
+- Repo position
+- TBA contracts
+- Fixed income securities
+- Interest rate derivatives
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Derivatives pricing theory
+- Risk-neutral valuation
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Alternative investment strategies
+tags:
+- valuation
+- fixed_income
+- dollar_rolls
+- fx
+- trading
+- bonds
+- cash_and_carry
+- tba_prices
+- repo_rate
+- futures
+- derivatives
+- options
+- hedge_funds
+- arbitrage
+- tba_liquidity
 ---
 
 # 15.10 DOLLAR ROLLS  

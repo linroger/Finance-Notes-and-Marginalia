@@ -1,24 +1,115 @@
 ---
-cssclasses:
-  - academia
 Owner: RRoger Lin
-title: Oaktree and the Restructuring of CIT Group
-tags:
-  - bankruptcy
-  - commercial_lender
-  - financial_crisis
-  - restructuring
-  - unsecured_debt
 aliases:
-  - CIT Group
-  - Oaktree Capital
-  - Restructuring Case Study
+- CIT Group
+- Oaktree Capital
+- Restructuring Case Study
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-1be029
 key_concepts:
-  - Asset-based lending
-  - Financial institution characteristics
-  - Government debt guarantee
-  - Liquidity crisis
-  - Unsecured debt bonds
+- Apt
+- Cox-Ross-Rubinstein parameter specification
+- Extensions to multi-factor CAPM models
+- non-performing loan identification and management
+- Duration and convexity analysis for bond portfolio management
+- Active portfolio management and performance attribution
+- Reduced-form models and intensity-based approaches
+- Computational implementation of binomial option pricing
+- Single-name vs. index CDS trading
+- Option Greeks and portfolio risk management
+- Commodity markets and pricing dynamics
+- Capital Asset Pricing Model and beta estimation
+- Risk budgeting and portfolio construction techniques
+- Capital Asset Pricing Model and expected returns
+- Credit spread decomposition and hazard rates
+- default rate analysis and modeling
+- Vega and volatility risk management
+- CDS clearing and central counterparties
+- fixed income risk measurement
+- CDS-Bond basis and arbitrrage opportunities
+- Mathematical Finance
+- 2008 financial crisis and systemic risk analysis
+- leverage ratio calculation and monitoring
+- waterfall structure and cash flow distribution
+- Liquidity crisis
+- Course Material
+- Security Market Line and beta measurement
+- Core Deposits
+- Value at Risk (VaR) methodologies and backtesting
+- Theta and time decay modeling
+- Financial institution characteristics
+- Case Study
+- delinquency rate monitoring
+- interest rate and currency derivatives
+- Credit default swap pricing and risk-neutral probabilities
+- ESG integration in portfolio management
+- Unsecured debt bonds
+- Government debt guarantee
+- Convergence of binomial model to Black-Scholes solution
+- Liquidity crisis and market dysfunction
+- par value in CDS settlement
+- Delta hedging strategies in options portfolio management
+- Federal Deposit Insurance Corporation
+- Binomial option pricing model with multiple time steps
+- American option pricing in binomial trees
+- Gamma and convexity adjustments
+- Asset-based lending
+- Capital Structure
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Delta hedging and the replication argument
+- Currency hedging strategies for global portfolios
+- Market portfolio and risk-free rate assumptions
+- Empirical tests and anomalies in CAPM
+tags:
+- binomial-model
+- commodities
+- ebit
+- credit-default-swaps
+- liquidity-crisis
+- 2008-financial-crisis
+- capm
+- case-study
+- apt
+- core-deposits
+- value-at-risk
+- credit-ratings
+- recovery-rate
+- credit-risk
+- duration-convexity
+- solution
+- investment-banking
+- financial-crisis
+- leverage-ratios
+- wholesale-funding
+- deposit-insurance
+- financial-ratios
+- credit-analysis
+- liquidity-ratios
+- roe
+- mathematical-finance
+- balance-sheet
+- course-material
+- return-on-assets
+- capital-structure
+- greeks
+- impairment
+- net-income
+- quantitative-implementation
+- profitability-ratios
+- treasury-bonds
+- return-on-equity
+- unsecured_debt
+- roa
+- leverage-ratio
+- distressed-debt
+- distressed-investing
+- harvard-business-review
+- duration
+title: Oaktree and the Restructuring of CIT Group
 ---
 
 # Oaktree and the Restructuring of CIT Group

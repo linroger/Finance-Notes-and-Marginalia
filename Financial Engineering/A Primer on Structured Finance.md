@@ -1,21 +1,127 @@
 ---
-tags:
-  - asset_backed_securitization
-  - collateralized_debt_obligation
-  - credit_risk_transfer
-  - mortgage_backed_securitization
-  - structured_finance
 aliases:
-  - Andy Jobst
-  - IMF
-  - Primer
-  - Structured Finance
+- Andy Jobst
+- IMF
+- Primer
+- Structured Finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-c7c702
 key_concepts:
-  - Asset-backed securitization
-  - Collateralized debt obligations
-  - Credit risk transfer
-  - Mortgage-backed securitization
-  - Structured finance definition
+- deferred payment CDS structure
+- Liquidity coverage ratio and net stable funding ratio
+- regulatory capital requirements and buffers
+- zero recovery CDS structure
+- Asset-backed securitization
+- Mortgage-backed securitization
+- Stress testing and supervisory review processes
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Option Greeks and portfolio risk management
+- maturity date in CDS
+- Commodity markets and pricing dynamics
+- Structured finance definition
+- Credit spread decomposition and hazard rates
+- future value and compounding
+- physical settlement in CDS
+- Vega and volatility risk management
+- Leverage ratio and large exposures
+- CDS clearing and central counterparties
+- fixed income risk measurement
+- tranche structure in structured finance
+- synthetic CDO structure
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- protection buyer in CDS
+- GARCH models and volatility forecasting
+- Mathematical Finance
+- securities repackaging and structuring
+- Mergers Acquisitions
+- first loss position in securitization
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Risk-weighted assets and capital adequacy ratios
+- Collateralized debt obligations
+- Theta and time decay modeling
+- Value at Risk (VaR) methodologies and backtesting
+- Case Study
+- Interest rate swap pricing and valuation
+- Basel III regulatory framework and capital requirements
+- interest rate and currency derivatives
+- volatility modeling and forecasting
+- Credit default swap pricing and risk-neutral probabilities
+- present value and discounting methods
+- Variance swaps and volatility trading strategies
+- Credit risk transfer
+- SPV structure and accounting
+- funded synthetic CDO structure
+- High Yield Bonds
+- high yield debt and default risk
+- asset transformation and structured finance
+- protection seller in CDS
+- Gamma and convexity adjustments
+- Capital Structure
+- reference entity in CDS
+- super senior tranche in securitization
+- Delta hedging and the replication argument
+- Cross-currency basis swaps and funding
+- mezzanine tranche in securitization
+- cash settlement in CDS
+- credit risk transfer mechanisms
+tags:
+- basel-iii
+- commodities
+- credit-default-swaps
+- bank-regulation
+- cdo
+- case-study
+- value-at-risk
+- recovery-rate
+- credit-risk
+- efficient-market
+- european-options
+- duration-convexity
+- solution
+- wacc
+- banking
+- moral-hazard
+- corporate-bonds
+- cost-of-capital
+- wholesale-funding
+- syndicated-loans
+- cds
+- synthetic-cdos
+- credit-spreads
+- risk-management
+- collateralized-debt-obligations
+- garch-models
+- mergers-acquisitions
+- interest-rate-swaps
+- mathematical-finance
+- balance-sheet
+- course-material
+- capital-structure
+- rating-agencies
+- greeks
+- high-yield-bonds
+- exchange-rates
+- hedge-funds
+- quantitative-implementation
+- treasury-bonds
+- securitization
+- mbs
+- arbitrage
+- infrastructure
+- liquidity-risk
+- systemic-risk
+- exotic-options
+- distressed-debt
+- mbs-cmos
+- structured-products
+- delta-hedging
+- credit-derivatives
+- dcf-valuation
+- harvard-business-review
 ---
 
 # A primer on structured finance  

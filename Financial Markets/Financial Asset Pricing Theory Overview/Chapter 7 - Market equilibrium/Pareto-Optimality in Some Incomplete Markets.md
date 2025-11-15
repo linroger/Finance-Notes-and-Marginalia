@@ -1,19 +1,16 @@
 ---
 tags:
-  - arrow_debreu_asset
-  - hara_utility
-  - incomplete_markets
-  - market_completeness
-  - pareto_optimality
+- abs
+- completeness
+- delta
+- derivatives-pricing
+- fixed_income
+- risk-management
 aliases:
-  - Incomplete Markets
-  - Pareto Optimality
+- Incomplete Markets
+- Pareto Optimality
 key_concepts:
-  - Arrow-Debreu style asset
-  - HARA utility functions
-  - Pareto-optimal consumption allocation
-  - aggregate consumption
-  - effectively complete markets
+- Options Greeks and sensitivity analysis
 ---
 
 # 7.4 Pareto-optimality in some incomplete markets  

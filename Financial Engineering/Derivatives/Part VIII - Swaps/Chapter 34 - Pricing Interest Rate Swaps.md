@@ -1,21 +1,99 @@
 ---
-tags:
-  - arbitrage_arguments
-  - floating_rate_note
-  - interest_rate_swaps
-  - replication_portfolio
-  - term_structure
 aliases:
-  - FRN Valuation
-  - IRS Pricing
-  - Swap Valuation
+- FRN Valuation
+- IRS Pricing
+- Swap Valuation
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-8176c3
 key_concepts:
-  - FRN market value
-  - FRN valuation methods
-  - Replication portfolio
-  - Swap cash flows
-  - Swap rate calculation
+- Apt
+- coupon-bearing bond analysis
+- Term structure of interest rates and yield curve shapes
+- Extensions to multi-factor CAPM models
+- Duration and convexity analysis for bond portfolio management
+- Active portfolio management and performance attribution
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Option Greeks and portfolio risk management
+- maturity date in CDS
+- Capital Asset Pricing Model and beta estimation
+- Risk budgeting and portfolio construction techniques
+- Expectations hypothesis and liquidity preference theory
+- Capital Asset Pricing Model and expected returns
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- Vega and volatility risk management
+- FRN valuation methods
+- fixed income risk measurement
+- CDS clearing and central counterparties
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- Market portfolio and risk-free rate assumptions
+- Swap cash flows
+- Shadow Banking
+- Fixed-for-floating swap cash flows and valuation
+- Arbitrage Pricing Theory and multifactor models
+- Security Market Line and beta measurement
+- International arbitrage and covered interest rate parity
+- Case Study
+- Arbitrage opportunities and risk-free profit extraction
+- Interest rate swap pricing and valuation
+- interest rate and currency derivatives
+- Credit default swap pricing and risk-neutral probabilities
+- ESG integration in portfolio management
+- present value and discounting methods
+- Variance swaps and volatility trading strategies
+- par value in CDS settlement
+- Delta hedging strategies in options portfolio management
+- FRN market value
+- Shadow banking system and regulatory arbitrage
+- Gamma and convexity adjustments
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Delta hedging and the replication argument
+- Parallel and non-parallel shifts in the yield curve
+- Cross-currency basis swaps and funding
+- Currency hedging strategies for global portfolios
+- Swap rate calculation
+- Replication portfolio
+- Empirical tests and anomalies in CAPM
+tags:
+- yield-curve
+- credit-default-swaps
+- collateralized-debt-obligations
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- interest_rate_swaps
+- capm
+- shadow-banking
+- case-study
+- apt
+- greeks
+- value-at-risk
+- factor-models
+- exchange-rates
+- credit-risk
+- quantitative-implementation
+- term_structure
+- duration-convexity
+- solution
+- treasury-bonds
+- replication_portfolio
+- arbitrage
+- corporate-bonds
+- exotic-options
+- dcf-valuation
+- floating_rate_note
+- duration
+- arbitrage_arguments
+- term-structure
 ---
+
 # Pricing Interest Rate Swaps  
 
 # Aims  

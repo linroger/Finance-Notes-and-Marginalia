@@ -1,21 +1,88 @@
 ---
-tags:
-  - black_scholes
-  - derivative_pricing
-  - european_option
-  - pde
-  - risk_neutral
 aliases:
-  - BS PDE
-  - Black-Scholes PDE
-  - Option Pricing
+- BS PDE
+- Black-Scholes PDE
+- Option Pricing
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-f604ea
 key_concepts:
-  - Black-Scholes closed-form solutions
-  - Deterministic partial differential equation
-  - European option pricing
-  - No-arbitrage replication portfolio
-  - Risk-neutral valuation
+- Apt
+- European Options
+- American Options
+- Monte Carlo simulation techniques for path-dependent options
+- No-arbitrage replication portfolio
+- Option Greeks and portfolio risk management
+- Mathematical derivation of the Black-Scholes partial differential equation
+- Solution
+- Historical simulation vs. parametric VaR models
+- Vega and volatility risk management
+- forward commitments and hedging
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- European option pricing
+- Monte Carlo integration and variance reduction
+- Monte Carlo VaR for complex portfolios
+- Deterministic partial differential equation
+- Stress testing and scenario analysis
+- Fixed-for-floating swap cash flows and valuation
+- Arbitrage Pricing Theory and multifactor models
+- Value at Risk (VaR) methodologies and backtesting
+- Theta and time decay modeling
+- International arbitrage and covered interest rate parity
+- Case Study
+- Arbitrage opportunities and risk-free profit extraction
+- Interest rate swap pricing and valuation
+- Expected Shortfall and coherent risk measures
+- Risk-neutral valuation in continuous time models
+- Black-Scholes closed-form solutions
+- zero-coupon bond pricing and yields
+- Variance swaps and volatility trading strategies
+- Factor Models
+- Boundary conditions and parameter interpretation in Black-Scholes model
+- Limitations and extensions of the Black-Scholes framework
+- simulation methods in financial engineering
+- Value-at-Risk calculation using historical simulation
+- Shadow banking system and regulatory arbitrage
+- Quantitative Implementation
+- Gamma and convexity adjustments
+- Risk-neutral valuation
+- Delta hedging and the replication argument
+- Exotic Options
+- Cross-currency basis swaps and funding
+- Black-Scholes-Merton option pricing model and its applications
+- Brownian motion and Wiener processes in finance
+tags:
+- european-options
+- quantitative-implementation
+- solution
+- american-options
+- interest-rate-swaps
+- mathematical-finance
+- monte-carlo-simulation
+- arbitrage
+- lookback-options
+- pde
+- option-pricing
+- european_option
+- black_scholes
+- shadow-banking
+- exotic-options
+- brownian-motion
+- derivative_pricing
+- apt
+- case-study
+- delta-hedging
+- greeks
+- black-scholes-model
+- value-at-risk
+- factor-models
+- barrier-options
+- exchange-rates
+- risk_neutral
+- monte-carlo
 ---
+
 # Black–Scholes PDE  
 
 # Aims  

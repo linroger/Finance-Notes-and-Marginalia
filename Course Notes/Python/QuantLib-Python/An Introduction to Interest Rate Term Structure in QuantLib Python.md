@@ -1,25 +1,79 @@
 ---
-title: An Introduction to Interest Rate Term Structure in QuantLib Python
-source: 
-  https://gouthamanbalaraman.com/blog/quantlib-term-structure-bootstrap-yield-curve.html
+aliases:
+- Interest Rate Term Structure
+- QuantLib Python
+- Yield Curve Bootstrapping
 description: This post will walk through the basics of bootstrapping yield curve in
   QuantLib Python.
-tags:
-  - bond_pricing
-  - bootstrapping
-  - interest_rate_term_structure
-  - quantlib_python
-  - yield_curve
-aliases:
-  - Interest Rate Term Structure
-  - QuantLib Python
-  - Yield Curve Bootstrapping
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-1f1666
 key_concepts:
-  - Bootstrapping yield curve
-  - Coupon bonds
-  - Pricing securities
-  - QuantLib Python basics
-  - Spot rates
+- Carry trades and momentum in FX markets
+- Term structure of interest rates and yield curve shapes
+- Risk assessment and management
+- Credit risk modeling and default probability estimation
+- QuantLib Python basics
+- Expectations hypothesis and liquidity preference theory
+- Solution
+- Spot rates
+- Yield curve fitting and interpolation methods
+- Credit portfolio diversification and concentration
+- Market efficiency and arbitrage pricing
+- Portfolio immunization strategies
+- Financial regulation and compliance
+- Mathematical Finance
+- Spot rates vs. forward rates modeling
+- Infrastructure investment and project finance
+- Key rate duration and curve risk
+- Portfolio optimization and asset allocation
+- Currency risk management and hedging
+- Forward rates and interest rate parity
+- Case Study
+- Quantitative analysis and modeling
+- Exchange rate determination and PPP theory
+- zero-coupon bond pricing and yields
+- Bootstrapping yield curve
+- Credit exposure measurement and EAD
+- Coupon bonds
+- Loss given default and recovery rates
+- Efficient Market
+- Fixed income analysis and term structure
+- Wrong-way risk in derivative transactions
+- Derivatives pricing and hedging strategies
+- Quantitative Implementation
+- Financial markets and instruments
+- Parallel and non-parallel shifts in the yield curve
+- Exotic Options
+- Duration and convexity measures for bond portfolios
+- Pricing securities
+- Price sensitivity to interest rate changes
+- Modified duration vs. Macaulay duration
+- Currency markets and foreign exchange trading
+- Credit risk modeling and default analysis
+source: https://gouthamanbalaraman.com/blog/quantlib-term-structure-bootstrap-yield-curve.html
+tags:
+- yield-curve
+- bond_pricing
+- mathematical-finance
+- bond-pricing
+- financial-modeling
+- bootstrapping
+- case-study
+- exchange-rates
+- credit-risk
+- efficient-market
+- yield_curve
+- duration-convexity
+- quantitative-implementation
+- solution
+- infrastructure
+- exotic-options
+- quantitative-finance
+- interest_rate_term_structure
+- quantlib_python
+- term-structure
+title: An Introduction to Interest Rate Term Structure in QuantLib Python
 ---
 
 # An Introduction to Interest Rate Term Structure in QuantLib Python

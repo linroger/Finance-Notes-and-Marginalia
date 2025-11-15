@@ -1,35 +1,126 @@
 ---
-cssclasses: academia
-title: Advanced Data Analysis with Python
-source: https://blog.enterprisedna.co/advanced-data-analysis-with-python/
-description:
-tags:
-  - big_data
-  - data_analysis
-  - data_preprocessing
-  - data_visualization
-  - data_wrangling
-  - exploratory_data_analysis
-  - pyspark
-  - python
-  - sql_queries
-  - time_series
 aliases:
-  - Data Analysis
-  - Pandas
-  - PySpark
-  - Python for Data
-  - SQLAlchemy
+- Data Analysis
+- Pandas
+- PySpark
+- Python for Data
+- SQLAlchemy
+cssclasses: academia
+description: null
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-b06f69
 key_concepts:
-  - Advanced Data Structures
-  - Advanced SQL Queries
-  - Big Data Analysis
-  - Data Cleaning Techniques
-  - Data Wrangling Tasks
-  - Efficient Data Manipulation
-  - Exploratory Data Analysis
-  - Interactive Visualizations
-  - Time Series Analysis
+- Apt
+- Cox-Ross-Rubinstein parameter specification
+- Carry trades and momentum in FX markets
+- Mean-variance optimization and the efficient frontier
+- Extreme value theory and tail risk modeling
+- Computational implementation of binomial option pricing
+- Collateralized Debt Obligations
+- Credit risk modeling and default probability estimation
+- Risk budgeting and portfolio construction techniques
+- Historical simulation vs. parametric VaR models
+- DV01 calculation and interest rate risk hedging
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- Monte Carlo integration and variance reduction
+- GARCH models and volatility forecasting
+- Deposit insurance and systemic risk prevention
+- Monte Carlo VaR for complex portfolios
+- Stress testing and scenario analysis
+- Interactive Visualizations
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Currency risk management and hedging
+- Advanced SQL Queries
+- Control variates and importance sampling techniques
+- Value at Risk (VaR) methodologies and backtesting
+- Risk-neutral pricing methodology for derivative securities
+- Forward rates and interest rate parity
+- Big Data Analysis
+- Operational risk quantification and modeling
+- Case Study
+- Data Wrangling Tasks
+- Exchange rate determination and PPP theory
+- Arbitrage opportunities and risk-free profit extraction
+- Expected Shortfall and coherent risk measures
+- Interest rate swap pricing and valuation
+- Kalman Filter
+- volatility modeling and forecasting
+- Bank liquidity ratios and funding risk management
+- Variance swaps and volatility trading strategies
+- Advanced Data Structures
+- Convergence of binomial model to Black-Scholes solution
+- Treasury Inflation-Protected Securities
+- Binomial option pricing model with multiple time steps
+- Operational risk management in financial institutions
+- Time Series Analysis
+- Value-at-Risk calculation using historical simulation
+- American option pricing in binomial trees
+- Credit risk migration matrices and rating transition
+- Capital Structure
+- Credit risk modeling and portfolio correlation analysis
+- Backtesting procedures for risk models
+- Credit risk assessment and loan portfolio management
+- Data Cleaning Techniques
+- Liquidity risk measurement and management
+- Cross-currency basis swaps and funding
+- Systemic risk indicators and early warning systems
+- Currency markets and foreign exchange trading
+- Exploratory Data Analysis
+- Efficient Data Manipulation
+source: https://blog.enterprisedna.co/advanced-data-analysis-with-python/
+tags:
+- python
+- binomial-model
+- data_visualization
+- pyspark
+- big-data
+- case-study
+- apt
+- value-at-risk
+- kalman-filter
+- time-series
+- big_data
+- credit-risk
+- duration-convexity
+- solution
+- machine-learning
+- data_wrangling
+- natural-language-processing
+- algorithmic-trading
+- autocorrelation
+- deposit-insurance
+- municipal-bonds
+- expected-shortfall
+- operational-risk
+- artificial-intelligence
+- time_series
+- collateralized-debt-obligations
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- course-material
+- exploratory_data_analysis
+- capital-structure
+- data_analysis
+- sql_queries
+- exchange-rates
+- quantitative-implementation
+- treasury-bonds
+- decision-trees
+- stress-testing
+- infrastructure
+- liquidity-risk
+- systemic-risk
+- regression-analysis
+- data_preprocessing
+- implied-volatility
+- harvard-business-review
+- mean-reversion
+- monte-carlo
+title: Advanced Data Analysis with Python
 ---
 
 # Advanced Data Analysis with Python

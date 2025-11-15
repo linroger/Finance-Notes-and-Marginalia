@@ -1,24 +1,53 @@
 ---
-cssclasses:
-  - academia
-title: Do Bondholders Lose From Junk Bond Covenant Changes
-tags:
-  - agency_costs
-  - bondholders
-  - consent_solicitations
-  - covenant_changes
-  - junk_bonds
 aliases:
-  - Junk Bond Covenants
-  - Kahan & Tuckman
+- Junk Bond Covenants
+- Kahan & Tuckman
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batchAA-lpn1yv
 key_concepts:
-  - Agency costs of debt
-  - Bondholder loss from covenant changes
-  - Consent solicitations and bondholders
-  - Covenant renegotiation
-  - Game-theoretic model
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Term structure of interest rates and yield curve modeling
+- 'Short-rate models: Vasicek, CIR, and mean reversion'
+- Bond pricing and fixed income securities valuation
+- Monte Carlo simulation for derivatives valuation
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- american-options
+- arbitrage
+- arch
+- binomial
+- black-scholes
+- bonds
+- capm
+- cir
+- convexity
+- corporate-bonds
+- correlation
+- counterparty-risk
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- fixed_income
+- gamma
+- greeks
+- hedging
+- options
+- risk-management
+- risk-neutral
+- var
+title: Do Bondholders Lose From Junk Bond Covenant Changes
 ---
-
 # Do Bondholders Lose From Junk Bond Covenant Changes
 
 Do Bondholders Lose from Junk Bond Covenant Changes?

@@ -1,72 +1,130 @@
 ---
-title: 'A Guide to Duration, DV01, and Yield Curve Risk Transformations'
-cssclasses: academia
-tags:
-  - duration
-  - dv01
-  - interest_rate_risk
-  - modified_duration
-  - yield_curve
-  - yield_curve_partial_dv01s
-  - risk_transformations
-  - key_rate_durations
-  - fixed_income_risk
-  - partial_derivatives
-  - jacobian_matrix
-  - coordinate_transformation
-  - curve_variables
-  - macaulay_duration
-  - dollar_duration
-  - basis_point_value
-  - forward_curves
-  - zero_rates
-  - par_rates
-  - risk_management
-  - financial_engineering
-  - interest_rate_sensitivity
-  - portfolio_risk_analysis
 aliases:
-  - Basis Point Value
-  - Dollar Duration
-  - PV01
-  - Yield Curve Partial DV01s
-  - Risk Transformations
-  - Duration Guide
-  - DV01 Guide
-  - Key Rate Duration
-  - Modified Duration
-  - Macaulay Duration
-  - Partial DV01s
-  - Price Sensitivity
-  - Interest Rate Risk
-key_concepts:
-  - Key rate durations
-  - Modified duration
-  - Partial DV01s
-  - Price sensitivity measurement
-  - Yield curve risk
-  - Dollar duration (DV01)
-  - Macaulay duration
-  - Risk transformations
-  - Jacobian matrix transformations
-  - Curve variable derivatives
-  - Forward rate risk
-  - Zero rate risk
-  - Par rate risk
-  - Yield curve construction
-  - Risk compression techniques
-  - Alternate variable transformations
-  - Matrix inversion for risk
-  - Partial derivatives of prices
-  - Functional form of curves
-  - Interest rate derivative pricing
-created: 2024-12-20
+- Basis Point Value
+- Dollar Duration
+- PV01
+- Yield Curve Partial DV01s
+- Risk Transformations
+- Duration Guide
+- DV01 Guide
+- Key Rate Duration
+- Modified Duration
+- Macaulay Duration
+- Partial DV01s
+- Price Sensitivity
+- Interest Rate Risk
 author: Thomas S. Coleman
+created: 2024-12-20
+cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-09a242
 institution: Close Mountain Advisors LLC
+key_concepts:
+- Yield curve risk
+- Matrix inversion for risk
+- coupon-bearing bond analysis
+- Curve variable derivatives
+- Term structure of interest rates and yield curve shapes
+- Extensions to multi-factor CAPM models
+- Jacobian matrix transformations
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Key rate durations
+- Option Greeks and portfolio risk management
+- Expectations hypothesis and liquidity preference theory
+- Capital Asset Pricing Model and expected returns
+- Dollar duration (DV01)
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- Empirical tests and anomalies in CAPM
+- Vega and volatility risk management
+- Risk transformations
+- Partial derivatives of prices
+- fixed income risk measurement
+- CDS clearing and central counterparties
+- forward commitments and hedging
+- CDS-Bond basis and arbitrrage opportunities
+- Spot rates vs. forward rates modeling
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- Price sensitivity measurement
+- GARCH models and volatility forecasting
+- Modified duration
+- Macaulay duration
+- Partial DV01s
+- Forward rate risk
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Security Market Line and beta measurement
+- Theta and time decay modeling
+- Case Study
+- Zero rate risk
+- Interest rate swap pricing and valuation
+- mid-point pricing in CDS
+- interest rate and currency derivatives
+- par coupon and bond pricing
+- Credit default swap pricing and risk-neutral probabilities
+- Functional form of curves
+- present value and discounting methods
+- Par rate risk
+- Interest rate derivative pricing
+- zero-coupon bond pricing and yields
+- Variance swaps and volatility trading strategies
+- Delta hedging strategies in options portfolio management
+- Risk compression techniques
+- systematic risk and market exposure
+- Gamma and convexity adjustments
+- Delta hedging and the replication argument
+- Parallel and non-parallel shifts in the yield curve
+- Cross-currency basis swaps and funding
+- Market portfolio and risk-free rate assumptions
+- Yield curve construction
+- Alternate variable transformations
 paper_date: 2011-01-15
+tags:
+- yield-curve
+- credit-default-swaps
+- portfolio_risk_analysis
+- zero_rates
+- financial_engineering
+- interest_rate_sensitivity
+- capm
+- forward_curves
+- basis_point_value
+- case-study
+- interest_rate_risk
+- risk_management
+- value-at-risk
+- factor-models
+- dv01
+- fixed_income_risk
+- duration-convexity
+- solution
+- coordinate_transformation
+- curve_variables
+- risk-management
+- collateralized-debt-obligations
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- course-material
+- greeks
+- exchange-rates
+- quantitative-implementation
+- partial_derivatives
+- real-estate
+- treasury-bonds
+- jacobian_matrix
+- risk_transformations
+- exotic-options
+- dcf-valuation
+- harvard-business-review
+- duration
+- yield_curve_partial_dv01s
+- par_rates
+title: A Guide to Duration, DV01, and Yield Curve Risk Transformations
 ---
-
-  
 
 Thomas S. Coleman Close Mountain Advisors LLC  
 

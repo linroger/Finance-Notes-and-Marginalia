@@ -1,22 +1,32 @@
 ---
-tags:
-  - arbitrage
-  - financial_markets
-  - liquidity_risk
-  - ltcm_meltdown
-  - risk_management
 aliases:
-  - Diamond-Dybvig model
-  - LTCM
-  - Long Term Capital Management
+- Diamond-Dybvig model
+- LTCM
+- Long Term Capital Management
 key_concepts:
-  - Russian default
-  - Shleifer-Vishny paper
-  - arbitrage opportunities
-  - illiquid assets
-  - liquidity risk
-  - margin calls
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- arbitrage
+- calls
+- convexity
+- correlation
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- fixed_income
+- hedging
+- options
+- risk-management
 ---
+
 
 # Class Note 13 The LTCM Meltdown
 

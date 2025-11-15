@@ -1,28 +1,46 @@
 ---
-title: Merrill Coercive Exchange Offers
-cssclasses: ["academia"]
-tags:
-  - bondholders
-  - coercive_exchange_offers
-  - corporate_restructuring
-  - high_yield_bonds
-  - leveraged_loans
 aliases:
-  - coercive offers
-  - exchange offers
+- coercive offers
+- exchange offers
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batchAA-w7rycx
 key_concepts:
-  - Merrill exchange offers
-  - bondholder treatment  
-  - corporate financial distress
-  - high yield bonds
-  - market participant evaluation
-  - exit consents
-  - holdout problem
-  - covenant stripping
-  - debt restructuring strategies
-  - exchange offer mechanics
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Term structure of interest rates and yield curve modeling
+- 'Short-rate models: Vasicek, CIR, and mean reversion'
+- Bond pricing and fixed income securities valuation
+- Ito's lemma and stochastic calculus applications
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
+tags:
+- abs
+- american-options
+- apt
+- arbitrage
+- arch
+- binomial
+- black-scholes
+- bonds
+- capm
+- cir
+- convexity
+- derivatives-pricing
+- duration
+- european-options
+- factor-models
+- fixed_income
+- options
+- risk-management
+- risk-neutral
+- var
+title: Merrill Coercive Exchange Offers
 ---
-
 # Merrill Coercive Exchange Offers
 
 Prices of U.S. high yield bonds and leveraged loans weakened early on Wednesday following Tuesday's sharp decline in equities. A rebound began later the same day and its continuation on Thursday erased most of the decline. Selected news-sensitive names such as Elizabeth Arden, Lyondell Chemical, and Winn-Dixie Stores dominated trading on the bond side. Demand for loans remained firm in the context of skimpy new issue supply, with collateralized loan obligation rampups adding to the need for paper.

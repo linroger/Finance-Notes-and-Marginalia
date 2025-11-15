@@ -1,35 +1,41 @@
 ---
-cssclasses:
-  - academia
-title: "Note on the Leveraged Loan Market"
-linter-yaml-title-alias: "Note on the Leveraged Loan Market"
-tags:
-  - credit_market
-  - financial_analysis
-  - institutional_investors
-  - leveraged_loan
-  - loan_syndication
-  - high_yield_debt
-  - corporate_finance
-  - syndicated_loans
-  - credit_risk
 aliases:
-  - LBO financing
-  - Leveraged Loans
-  - Senior Secured Loans
-  - "Note on Leveraged Loans"
+- LBO financing
+- Leveraged Loans
+- Senior Secured Loans
+- Note on Leveraged Loans
+cssclasses:
+- academia
 key_concepts:
-  - Callable loan feature
-  - Institutional investor base
-  - Loan spread threshold
-  - Non-investment-grade loans
-  - Risk sharing syndication
-  - Leveraged buyout financing
-  - Senior secured debt
-  - Covenant-lite loans
-  - CLO market dynamics
-  - Default risk premiums
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Ito's lemma and stochastic calculus applications
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+linter-yaml-title-alias: Note on the Leveraged Loan Market
+tags:
+- abs
+- arch
+- bonds
+- convexity
+- corporate-bonds
+- correlation
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- fixed_income
+- hedging
+- options
+- recovery-rate
+- risk-management
+- var
+title: Note on the Leveraged Loan Market
 ---
+
 
 # Note on the Leveraged Loan Market
 

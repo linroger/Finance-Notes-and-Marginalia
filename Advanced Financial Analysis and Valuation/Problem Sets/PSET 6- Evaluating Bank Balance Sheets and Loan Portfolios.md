@@ -1,35 +1,72 @@
 ---
-title: PSET 6 - Evaluating Bank Balance Sheets and Loan Portfolios
-tags:
-  - bank_balance_sheets
-  - citigroup
-  - financial_analysis
-  - loan_portfolios
-  - regulatory_capital
-  - tier_1_capital
-  - leveraged_loans
-  - risk_weighted_assets
-  - basel_requirements
-  - capital_ratios
-  - blackstone
-  - credit_risk
-  - banking_crisis
-cssclasses:
-  - academia
 aliases:
-  - Blackstone Case
-  - Citigroup Case
-  - PSET 6
+- Blackstone Case
+- Citigroup Case
+- PSET 6
+cssclasses:
+- academia
 key_concepts:
-  - Citigroup balance sheet items: Analysis of major asset and liability line items including loans, deposits, and trading assets
-  - Citigroup income statement items: Focus on net interest income, provision for credit losses, and operating expenses
-  - Run on the bank: Understanding deposit flight and the liquidity crisis scenario for banks
-  - Tier 1 Capital ratio: Core capital adequacy measure (Tier 1 Capital/Risk-Weighted Assets)
-  - US regulatory capital ratios: Basel I requirements including 4% minimum and 6% well-capitalized threshold
-  - Risk-weighted assets: Assets adjusted for credit risk according to regulatory weights
-  - Leveraged loans: High-yield corporate loans typically used in LBOs
-  - Portfolio sales: Structured transactions to reduce risk exposure and improve capital ratios
+- Citigroup balance sheet items: Analysis of major asset and liability line items
+    including loans, deposits, and trading assets
+- Citigroup income statement items: Focus on net interest income, provision for credit
+    losses, and operating expenses
+- Run on the bank: Understanding deposit flight and the liquidity crisis scenario
+    for banks
+- Tier 1 Capital ratio: Core capital adequacy measure (Tier 1 Capital/Risk-Weighted
+    Assets)
+- US regulatory capital ratios: Basel I requirements including 4% minimum and 6% well-capitalized
+    threshold
+- Risk-weighted assets: Assets adjusted for credit risk according to regulatory weights
+- Leveraged loans: High-yield corporate loans typically used in LBOs
+- Portfolio sales: Structured transactions to reduce risk exposure and improve capital
+    ratios
+- banking regulation and capital adequacy
+- systematic risk and market exposure
+- regulatory capital requirements and buffers
+- Tier 1 capital and core equity requirements
+- leverage ratio calculation and monitoring
+- fair value measurement and hierarchy
+- present value and discounting methods
+- tranche structure in structured finance
+- equity tranche in securitization
+- first loss position in securitization
+- Delta hedging strategies in options portfolio management
+- Duration and convexity analysis for bond portfolio management
+- Credit risk modeling and portfolio correlation analysis
+- Capital Asset Pricing Model and beta estimation
+- Active portfolio management and performance attribution
+- Risk budgeting and portfolio construction techniques
+- ESG integration in portfolio management
+- Credit risk assessment and loan portfolio management
+- Basel III capital requirements and stress testing
+- Basel III capital and liquidity standards development
+- Currency hedging strategies for global portfolios
+- International regulatory coordination and Basel standards
+tags:
+- balance-sheet
+- bank_balance_sheets
+- banking_crisis
+- basel
+- basel_requirements
+- credit_risk
+- default-probability
+- financial-reporting
+- financial_analysis
+- goodwill
+- income-statement
+- leverage-ratio
+- leveraged_loans
+- loan_portfolios
+- net-income
+- regulatory_capital
+- risk_weighted_assets
+- subprime-mortgage
+- tier-1-capital
+- tier_1_capital
+title: PSET 6 - Evaluating Bank Balance Sheets and Loan Portfolios
 ---
+
+
 
 # PSET 6 - Evaluating Bank Balance Sheets and Loan Portfolios
 ### ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS BUSINESS 30131

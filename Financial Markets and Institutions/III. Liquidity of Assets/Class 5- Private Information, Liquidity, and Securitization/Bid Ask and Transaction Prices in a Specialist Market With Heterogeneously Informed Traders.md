@@ -1,42 +1,33 @@
 ---
-cssclasses:
-  - academia
-title: "Bid, Ask, and Transaction Prices in a Specialist Market with Heterogeneously Informed Traders"
-linter-yaml-title-alias: "Bid, Ask, and Transaction Prices in a Specialist Market with Heterogeneously Informed Traders"
-tags:
-  - adverse_selection
-  - bid_ask_spread
-  - insider_trading
-  - market_microstructure
-  - specialist_market
-  - transaction_prices
-  - private_information
-  - asymmetric_information
-  - price_discovery
-  - liquidity_trading
-  - market_makers
-  - financial_markets
 aliases:
-  - "Bid Ask Specialist Market"
-  - "Specialist Market"
-  - "Transaction Prices"
-  - "Glosten-Milgrom Model"
+- Bid Ask Specialist Market
+- Specialist Market
+- Transaction Prices
+- Glosten-Milgrom Model
+cssclasses:
+- academia
 key_concepts:
-  - Adverse selection problem in financial markets
-  - Bid-ask spread determinants
-  - Insider trading impact on market prices
-  - Market microstructure and price discovery
-  - Specialist market dynamics and zero profit condition
-  - Transaction price information content
-  - Informed vs uninformed traders
-  - Martingale property of transaction prices
-  - Market breakdown conditions
-  - Inventory management by specialists
-  - Serial correlation of price changes
-  - Liquidity traders and market makers
-  - Semi-strong form market efficiency
-  - Volume and spread relationship
+- Risk-neutral measures and martingale pricing
+- Monte Carlo simulation for derivatives valuation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+linter-yaml-title-alias: Bid, Ask, and Transaction Prices in a Specialist Market with
+  Heterogeneously Informed Traders
+tags:
+- arch
+- cds
+- correlation
+- credit-risk
+- martingale
+- options
+- risk-management
+- risk-neutral
+- var
+title: Bid, Ask, and Transaction Prices in a Specialist Market with Heterogeneously
+  Informed Traders
 ---
+
 
 # Bid, Ask, and Transaction Prices in a Specialist Market with Heterogeneously Informed Traders
 

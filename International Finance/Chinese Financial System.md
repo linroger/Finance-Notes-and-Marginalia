@@ -1,53 +1,53 @@
 ---
-cssclasses: ["academia"]
-title: Chinese Financial System
-tags:
-  - chinese_economy
-  - financial_system
-  - regulatory_framework
-  - banking_system
-  - capital_markets
-  - shadow_banking
-  - monetary_policy
-  - pboc
-  - state_owned_enterprises
-  - international_finance
-  - capital_controls
-  - rmb_internationalization
-  - digital_currency
-  - financial_regulation
-  - emerging_markets
-  - belt_and_road
 aliases:
-  - China Financial System
-  - PRC Financial System
-  - China Banking System
-  - Chinese Financial Markets
-  - China Financial Regulation
-  - China Banking Sector
-  - China Capital Markets
+- China Financial System
+- PRC Financial System
+- China Banking System
+- Chinese Financial Markets
+- China Financial Regulation
+- China Banking Sector
+- China Capital Markets
+cssclasses:
+- academia
 key_concepts:
-  - Chinese Communist Party oversight
-  - State Council regulatory structure
-  - Central Financial Commission
-  - People's Bank of China (PBOC)
-  - National Financial Regulatory Administration
-  - China Securities Regulatory Commission
-  - State Administration of Foreign Exchange
-  - State-owned commercial banks
-  - Shadow banking system
-  - Capital controls
-  - RMB internationalization
-  - Digital yuan (e-CNY)
-  - Financial stability framework
-  - Policy banks
-  - Local government financing vehicles
-  - Belt and Road Initiative financing
-  - Foreign exchange reserves management
-  - Wealth management products
-  - Financial system risks
-  - Financial opening and reform
+- Chinese Communist Party oversight
+- State Council regulatory structure
+- Central Financial Commission
+- People's Bank of China (PBOC)
+- National Financial Regulatory Administration
+- China Securities Regulatory Commission
+- State Administration of Foreign Exchange
+- State-owned commercial banks
+- Shadow banking system
+- Capital controls
+- RMB internationalization
+- Digital yuan (e-CNY)
+- Financial stability framework
+- Policy banks
+- Local government financing vehicles
+- Belt and Road Initiative financing
+- Foreign exchange reserves management
+- Wealth management products
+- Financial system risks
+- Financial opening and reform
 linter-yaml-title-alias: Chinese Financial System
+tags:
+- regulatory-framework
+- shadow_banking
+- financial_regulation
+- monetary_policy
+- rmb_internationalization
+- banking_system
+- digital_currency
+- capital_markets
+- emerging_markets
+- financial_system
+- interest_rates
+- belt_and_road
+- fx
+- bonds
+- black_scholes
+title: Chinese Financial System
 ---
 
 # Chinese Financial System

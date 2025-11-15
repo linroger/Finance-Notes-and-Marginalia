@@ -1,27 +1,115 @@
 ---
-title: Credit Markets Session 1
-tags:
-  - credit_instruments
-  - credit_markets
-  - credit_trading
-  - default_risk
-  - bond_pricing
-  - fixed_income
 aliases:
-  - Credit Default Risk
-  - Credit Markets
-  - Credit Trading
-  - Credit Instruments
+- Credit Default Risk
+- Credit Markets
+- Credit Trading
+- Credit Instruments
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-d0ceb5
 key_concepts:
-  - credit default swaps
-  - credit market segments
-  - default risk valuation
-  - instrument types
-  - seniority ranks
-  - bond cash flows
-  - yield calculations
-  - credit spreads
-  - duration and convexity
+- hazard rate modeling and estimation
+- Bond convexity adjustment for large interest rate changes
+- Extensions to multi-factor CAPM models
+- Term structure of interest rates and yield curve shapes
+- Treasury Futures
+- Duration and convexity analysis for bond portfolio management
+- Active portfolio management and performance attribution
+- Single-name vs. index CDS trading
+- default intensity and Poisson process
+- Collateralized Debt Obligations
+- Option Greeks and portfolio risk management
+- default risk valuation
+- Capital Asset Pricing Model and beta estimation
+- market maker in CDS markets
+- Expectations hypothesis and liquidity preference theory
+- Capital Asset Pricing Model and expected returns
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- Empirical tests and anomalies in CAPM
+- Vega and volatility risk management
+- option pricing models and PDE solutions
+- seniority ranks
+- fixed income risk measurement
+- DV01 calculation and interest rate risk hedging
+- CDS clearing and central counterparties
+- forward commitments and hedging
+- CDS-Bond basis and arbitrrage opportunities
+- bond cash flows
+- Spot rates vs. forward rates modeling
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- instrument types
+- first lien security and collateral
+- credit spreads
+- Fixed-for-floating swap cash flows and valuation
+- day count convention in CDS
+- Security Market Line and beta measurement
+- Theta and time decay modeling
+- duration and convexity
+- credit market segments
+- Case Study
+- Interest rate swap pricing and valuation
+- Credit default swap pricing and risk-neutral probabilities
+- investment grade bonds and ratings
+- Variance swaps and volatility trading strategies
+- Delta hedging strategies in options portfolio management
+- high yield debt and default risk
+- clean price in CDS settlement
+- Gamma and convexity adjustments
+- Capital Structure
+- Credit risk modeling and portfolio correlation analysis
+- Delta hedging and the replication argument
+- Parallel and non-parallel shifts in the yield curve
+- yield calculations
+- Gamma trading and convexity adjustment techniques
+- Cross-currency basis swaps and funding
+- credit default swaps
+- Market portfolio and risk-free rate assumptions
+- credit risk transfer mechanisms
+- CDX North American CDS index
+tags:
+- yield-curve
+- credit-default-swaps
+- capm
+- case-study
+- value-at-risk
+- put-options
+- credit-ratings
+- dv01
+- credit-risk
+- duration-convexity
+- solution
+- investment-banking
+- algorithmic-trading
+- corporate-bonds
+- api-trading
+- municipal-bonds
+- credit-analysis
+- cds
+- treasury-futures
+- convexity
+- credit-spreads
+- risk-management
+- collateralized-debt-obligations
+- sofr
+- credit_instruments
+- interest-rate-swaps
+- mathematical-finance
+- capital-structure
+- rating-agencies
+- greeks
+- black-scholes-model
+- high-yield-bonds
+- exchange-rates
+- hedge-funds
+- sovereign-bonds
+- quantitative-implementation
+- treasury-bonds
+- infrastructure
+- credit_markets
+- duration
+title: Credit Markets Session 1
 ---
 
 # Credit Markets Session 1

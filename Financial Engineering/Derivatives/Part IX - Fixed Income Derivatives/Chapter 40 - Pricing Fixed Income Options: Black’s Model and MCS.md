@@ -1,21 +1,93 @@
 ---
-tags:
-  - black_model
-  - european_options
-  - fixed_income_options
-  - interest_rate_derivatives
-  - monte_carlo_simulation
 aliases:
-  - Black's Model
-  - MCS
-  - Pricing Fixed Income Options
+- Black's Model
+- MCS
+- Pricing Fixed Income Options
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-0669a5
 key_concepts:
-  - Black's model
-  - Closed-form solutions
-  - European options pricing
-  - Fixed income derivatives
-  - Monte Carlo simulation
+- Apt
+- Cox-Ross-Rubinstein parameter specification
+- Term structure of interest rates and yield curve shapes
+- Treasury Futures
+- Monte Carlo simulation techniques for path-dependent options
+- Computational implementation of binomial option pricing
+- Single-name vs. index CDS trading
+- maturity date in CDS
+- Commodity markets and pricing dynamics
+- Expectations hypothesis and liquidity preference theory
+- Historical simulation vs. parametric VaR models
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- CDS clearing and central counterparties
+- Fixed income derivatives
+- forward commitments and hedging
+- CDS-Bond basis and arbitrrage opportunities
+- Spot rates vs. forward rates modeling
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- Monte Carlo integration and variance reduction
+- Monte Carlo VaR for complex portfolios
+- Closed-form solutions
+- Fixed-for-floating swap cash flows and valuation
+- day count convention in CDS
+- Black's model
+- Value at Risk (VaR) methodologies and backtesting
+- Monte Carlo simulation
+- Case Study
+- European options pricing
+- Interest rate swap pricing and valuation
+- Expected Shortfall and coherent risk measures
+- interest rate and currency derivatives
+- Credit default swap pricing and risk-neutral probabilities
+- present value and discounting methods
+- Variance swaps and volatility trading strategies
+- Convergence of binomial model to Black-Scholes solution
+- Binomial option pricing model with multiple time steps
+- simulation methods in financial engineering
+- Value-at-Risk calculation using historical simulation
+- American option pricing in binomial trees
+- Financial markets and instruments
+- Parallel and non-parallel shifts in the yield curve
+- Cross-currency basis swaps and funding
+- Brownian motion and Wiener processes in finance
+tags:
+- european-options
+- european_options
+- yield-curve
+- binomial-model
+- commodities
+- credit-default-swaps
+- duration-convexity
+- quantitative-implementation
+- solution
+- treasury-bonds
+- treasury-futures
+- interest-rate-swaps
+- mathematical-finance
+- interest-rate-derivatives
+- interest_rate_derivatives
+- monte-carlo-simulation
+- black_model
+- stochastic-volatility
+- exotic-options
+- brownian-motion
+- geometric-brownian-motion
+- case-study
+- apt
+- swaptions
+- implied-volatility
+- fixed_income_options
+- monte_carlo_simulation
+- value-at-risk
+- dcf-valuation
+- exchange-rates
+- bond-futures
+- monte-carlo
+- term-structure
 ---
+
 # Pricing Fixed Income Options: Black’s Model and MCS  
 
 # Aims  

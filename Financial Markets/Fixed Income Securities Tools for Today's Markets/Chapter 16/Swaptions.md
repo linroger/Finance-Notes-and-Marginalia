@@ -1,20 +1,45 @@
 ---
-tags:
-  - interest_rate_derivatives
-  - otc_contracts
-  - payer_swaption
-  - receiver_swaption
-  - swaptions
 aliases:
-  - ATM Swaption
-  - Swap Option
-  - Swaption Pricing
+- ATM Swaption
+- Swap Option
+- Swaption Pricing
 key_concepts:
-  - Cash settlement
-  - Fixed-for-floating swap
-  - OTC contract
-  - Payer vs receiver
-  - Swaption volatility cube
+- Cash settlement
+- Fixed-for-floating swap
+- OTC contract
+- Payer vs receiver
+- Swaption volatility cube
+- Equity valuation and analysis
+- Dividend discount models
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Black-Scholes option pricing model
+- Continuous-time finance
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Options pricing and payoff structures
+tags:
+- equity
+- swaptions
+- structured_finance
+- interest_rate_derivatives
+- interest_rates
+- payer_swaption
+- stochastic_calculus
+- valuation
+- fx
+- trading
+- receiver_swaption
+- bonds
+- black_scholes
+- volatility
+- swaps
 ---
 
 # 16.5 SWAPTIONS  

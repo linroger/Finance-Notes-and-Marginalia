@@ -1,3 +1,98 @@
+---
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-25a655
+key_concepts:
+- Apt
+- Term structure of interest rates
+- Hedge fund replication
+- Extensions to multi-factor CAPM models
+- Term structure of interest rates and yield curve shapes
+- Option Greeks and portfolio risk management
+- Commodity markets and pricing dynamics
+- Currency derivatives
+- Expectations hypothesis and liquidity preference theory
+- Capital Asset Pricing Model and expected returns
+- Futures contracts and forward pricing
+- Historical simulation vs. parametric VaR models
+- Interest rate modeling
+- Yield curve fitting and interpolation methods
+- Vega and volatility risk management
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- Foreign exchange markets
+- Alternative investment strategies
+- Market portfolio and risk-free rate assumptions
+- Equity valuation and analysis
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Security Market Line and beta measurement
+- Value at Risk (VaR) methodologies and backtesting
+- Theta and time decay modeling
+- Case Study
+- Interest rate swap pricing and valuation
+- Margin requirements and clearing
+- Variance swaps and volatility trading strategies
+- Interest rate derivatives
+- High Yield Bonds
+- Fixed income securities
+- Bond pricing and yield analysis
+- Gamma and convexity adjustments
+- Capital Structure
+- Delta hedging and the replication argument
+- Parallel and non-parallel shifts in the yield curve
+- Cross-currency basis swaps and funding
+- Delta hedging and Greeks
+- Duration and convexity
+- Options pricing and payoff structures
+- Dividend discount models
+- Empirical tests and anomalies in CAPM
+tags:
+- yield-curve
+- fx
+- commodities
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- course-material
+- capital-structure
+- capm
+- case-study
+- apt
+- bonds
+- greeks
+- high-yield-bonds
+- value-at-risk
+- fixed_income
+- exchange-rates
+- deleveraging
+- valuation
+- hedge-funds
+- options
+- leveraged-buyouts
+- momentum-strategies
+- quantitative-implementation
+- duration-convexity
+- solution
+- private-equity
+- real-estate
+- treasury-bonds
+- equity
+- interest_rates
+- corporate-bonds
+- exotic-options
+- distressed-debt
+- mbs-cmos
+- hedge_funds
+- dcf-valuation
+- regulatory-framework
+- harvard-business-review
+- futures
+- municipal-bonds
+---
+
 # Chapter 12: The History and Lessons from Phase 4, Since 2020—Pandemic and Big Fiscal Deficits Monetized (MP4)
 
 The COVID pandemic of 2020 catalyzed a profound shift in monetary policy that I designate as Monetary Policy 4 (MP4). Despite longstanding principles in the US and many nations dictating that monetary policy should operate independently from fiscal policy—specifically to prevent the politicization and devaluation of currency—every sacrosanct rule eventually confronts reality and succumbs to pragmatic necessities as the Big Cycle progresses. MP4 represents this inevitable convergence: coordinated actions between central government and central bank, with governments running substantial deficits that central banks subsequently monetize.

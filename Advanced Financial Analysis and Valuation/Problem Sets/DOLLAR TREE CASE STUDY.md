@@ -1,37 +1,79 @@
 ---
-title: Dollar Tree Case Study
-cssclasses:
-  - academia
 aliases:
-  - Dollar Tree Analysis
-  - Dollar Tree Performance Review
-  - DT Case Study
-  - Dollar Tree Retail Study
-tags:
-  - case_study
-  - dollar_tree
-  - dollar_general
-  - financial_ratios
-  - kkr_offer
-  - minimum_wage
-  - peer_comparison
-  - performance_analysis
-  - profit_margins
-  - revenue_growth
-  - discount_retail
-  - competitive_analysis
+- Dollar Tree Analysis
+- Dollar Tree Performance Review
+- DT Case Study
+- Dollar Tree Retail Study
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-0683a9
 key_concepts:
-  - Dollar General performance analysis
-  - Dollar Tree competitive positioning
-  - Minimum wage impact on discount retail
-  - Profit margin compression
-  - ROA and ROE deterioration
-  - Revenue growth decline
-  - Gross margin erosion
-  - SG&A expense deleverage
-  - Inventory management challenges
-  - Operational underperformance
-  - LBO valuation analysis
+- Apt
+- Operational underperformance
+- Cox-Ross-Rubinstein parameter specification
+- capital markets and issuance
+- Reduced-form models and intensity-based approaches
+- Computational implementation of binomial option pricing
+- Debt capacity analysis in LBO transactions
+- Revenue growth decline
+- Solution
+- Mathematical Finance
+- Exit strategies and return maximization
+- LBO valuation analysis
+- SG&A expense deleverage
+- Course Material
+- LBO financing sources and covenant structures
+- Inventory management challenges
+- Case Study
+- gross margin in loan structures
+- Convergence of binomial model to Black-Scholes solution
+- Comparable Analysis
+- Binomial option pricing model with multiple time steps
+- Dollar General performance analysis
+- ROA and ROE deterioration
+- Dollar Tree competitive positioning
+- Quantitative Implementation
+- Financial markets and instruments
+- American option pricing in binomial trees
+- Profit margin compression
+- Capital Structure
+- Harvard Business Review
+- Leveraged Buyout financial structures and returns
+- Gross margin erosion
+- Minimum wage impact on discount retail
+- Equity returns and value creation mechanisms
+tags:
+- quantitative-implementation
+- binomial-model
+- dollar_general
+- income-statement
+- roe
+- solution
+- performance_analysis
+- profit_margins
+- mathematical-finance
+- course-material
+- discount_retail
+- minimum_wage
+- dollar_tree
+- roa
+- capital-structure
+- peer_comparison
+- financial_ratios
+- case_study
+- case-study
+- apt
+- competitive_analysis
+- impairment
+- comparable-analysis
+- revenue_growth
+- comps
+- kkr_offer
+- harvard-business-review
+- leveraged-buyouts
+title: Dollar Tree Case Study
 ---
 
 # Dollar Tree Case Study

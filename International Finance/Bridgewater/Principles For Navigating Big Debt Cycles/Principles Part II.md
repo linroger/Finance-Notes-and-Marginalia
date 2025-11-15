@@ -1,24 +1,47 @@
 ---
-title: Principles Part II
-cssclasses: academia
-tags:
-  - big_debt_crises
-  - cause_effect
-  - economic_dynamics
-  - principles
-  - world_order
 aliases:
-  - Changing World Order
-  - Debt Crises
-  - Principles Part 2
+- Changing World Order
+- Debt Crises
+- Principles Part 2
+cssclasses: academia
 key_concepts:
-  - Big debt crises
-  - Cause/effect relationships
-  - Dominant power changes
-  - Economic machine
-  - Important drivers changes
-  - Timeless universal truths
-  - World order transition
+- Big debt crises
+- Cause/effect relationships
+- Dominant power changes
+- Economic machine
+- Important drivers changes
+- Timeless universal truths
+- World order transition
+- Equity valuation and analysis
+- Dividend discount models
+- Credit risk modeling
+- Default probability estimation
+- Fixed income securities
+- Interest rate derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Credit default swaps and credit risk
+tags:
+- equity
+- economic_dynamics
+- credit
+- world_order
+- cds
+- cause_effect
+- interest_rates
+- principles
+- big_debt_crises
+- stochastic_calculus
+- fixed_income
+- trading
+- bonds
+- futures
+- options
+title: Principles Part II
 ---
 
 Principles Part I

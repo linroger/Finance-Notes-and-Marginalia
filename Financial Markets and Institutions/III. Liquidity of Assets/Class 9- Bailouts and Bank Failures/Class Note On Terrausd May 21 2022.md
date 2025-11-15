@@ -1,23 +1,19 @@
 ---
 cssclasses:
-  - academia
+- academia
 title: Class Note On TerraUSD May 21 2022
 tags:
-  - bank_run
-  - cryptocurrency
-  - fixed_exchange_rates
-  - luna
-  - terrausd
+- arbitrage
+- cir
+- risk-management
 aliases:
-  - LUNA
-  - TerraUSD Class Note
-  - UST
+- LUNA
+- TerraUSD Class Note
+- UST
 key_concepts:
-  - Arbitrage process
-  - Bank run analogy
-  - LUNA and UST swap
-  - Speculative attacks
-  - TerraUSD fixed exchange rates
+- 'Short-rate models: Vasicek, CIR, and mean reversion'
+- Currency swaps and FX risk management
+- Arbitrage opportunities and no-arbitrage pricing
 ---
 
 # Class Note On TerraUSD May 21 2022

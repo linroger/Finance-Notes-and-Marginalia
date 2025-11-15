@@ -1,31 +1,113 @@
 ---
-title: "BROADLINES RETAILING DAY WITH THE DOLLAR STORE HIGHLIGHTS"
-linter-yaml-title-alias: "BROADLINES RETAILING DAY WITH THE DOLLAR STORE HIGHLIGHTS"
-cssclasses: academia
-tags:
-  - aFAV
-  - big_lots
-  - consumer_spending
-  - dollar_general
-  - dollar_store
-  - family_dollar
-  - merchandising
-  - retail_analysis
-  - minimum_wage_impact
-  - store_tour
-  - competitive_analysis
 aliases:
-  - "Broadlines Retailing"
-  - "Dollar Store Tour"
-  - "Retail Sector Update"
+- Broadlines Retailing
+- Dollar Store Tour
+- Retail Sector Update
+cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-c1e7a3
 key_concepts:
-  - Comparison of low-end retailers (Dollar Tree, Dollar General, Family Dollar, Big Lots)
-  - Multi-price point strategies vs single price point models
-  - Merchandising initiatives and store layout analysis  
-  - Minimum wage impact on consumer spending
-  - Dollar store industry growth trends
-  - Shopping frequency and penetration analysis
-  - Store-specific competitive advantages
+- Cox-Ross-Rubinstein parameter specification
+- Carry trades and momentum in FX markets
+- Minimum wage impact on consumer spending
+- investment banking services and activities
+- Mean-variance optimization and the efficient frontier
+- Extreme value theory and tail risk modeling
+- Computational implementation of binomial option pricing
+- Credit risk modeling and default probability estimation
+- Comparison of low-end retailers (Dollar Tree, Dollar General, Family Dollar, Big
+  Lots)
+- Risk budgeting and portfolio construction techniques
+- Historical simulation vs. parametric VaR models
+- Credit portfolio diversification and concentration
+- DV01 calculation and interest rate risk hedging
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- Monte Carlo integration and variance reduction
+- GARCH models and volatility forecasting
+- Deposit insurance and systemic risk prevention
+- Monte Carlo VaR for complex portfolios
+- Shadow Banking
+- Stress testing and scenario analysis
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Store-specific competitive advantages
+- Forward rates and interest rate parity
+- Control variates and importance sampling techniques
+- Value at Risk (VaR) methodologies and backtesting
+- Risk-neutral pricing methodology for derivative securities
+- Currency risk management and hedging
+- Case Study
+- Operational risk quantification and modeling
+- Exchange rate determination and PPP theory
+- Net interest margin analysis and banking profitability
+- Multi-price point strategies vs single price point models
+- Expected Shortfall and coherent risk measures
+- Arbitrage opportunities and risk-free profit extraction
+- excess returns and manager skill
+- Interest rate swap pricing and valuation
+- Bank liquidity ratios and funding risk management
+- Variance swaps and volatility trading strategies
+- Convergence of binomial model to Black-Scholes solution
+- Comparable Analysis
+- Credit exposure measurement and EAD
+- Dollar store industry growth trends
+- Binomial option pricing model with multiple time steps
+- Value-at-Risk calculation using historical simulation
+- Shadow banking system and regulatory arbitrage
+- American option pricing in binomial trees
+- Shopping frequency and penetration analysis
+- Credit risk migration matrices and rating transition
+- Credit risk modeling and portfolio correlation analysis
+- Backtesting procedures for risk models
+- Merchandising initiatives and store layout analysis
+- Credit risk assessment and loan portfolio management
+- Liquidity risk measurement and management
+- Cross-currency basis swaps and funding
+- Systemic risk indicators and early warning systems
+- Loss given default and recovery rates
+- Currency markets and foreign exchange trading
+linter-yaml-title-alias: BROADLINES RETAILING DAY WITH THE DOLLAR STORE HIGHLIGHTS
+tags:
+- binomial-model
+- dollar_general
+- operational-risk
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- course-material
+- shadow-banking
+- case-study
+- comparable-analysis
+- aFAV
+- value-at-risk
+- exchange-rates
+- consumer_spending
+- credit-risk
+- big_lots
+- merchandising
+- quantitative-implementation
+- duration-convexity
+- solution
+- banking
+- investment-banking
+- store_tour
+- stress-testing
+- minimum_wage_impact
+- infrastructure
+- liquidity-risk
+- systemic-risk
+- exotic-options
+- family_dollar
+- deposit-insurance
+- competitive_analysis
+- comps
+- dollar_store
+- expected-shortfall
+- retail_analysis
+- monte-carlo
+title: BROADLINES RETAILING DAY WITH THE DOLLAR STORE HIGHLIGHTS
 ---
 
 # BROADLINES RETAILING DAY WITH THE DOLLAR STORE HIGHLIGHTS

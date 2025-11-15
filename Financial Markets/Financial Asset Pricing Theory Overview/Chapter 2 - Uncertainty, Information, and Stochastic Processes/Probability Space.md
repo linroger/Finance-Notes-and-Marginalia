@@ -1,19 +1,12 @@
 ---
 tags:
-  - asset_pricing
-  - probability_measure
-  - probability_space
-  - random_variable
-  - state_space
+- risk-management
+- var
 aliases:
-  - Probability Model
-  - Probability Spaces
+- Probability Model
+- Probability Spaces
 key_concepts:
-  - Collection of events
-  - Possible outcomes
-  - Random variable on space
-  - Realization of uncertain objects
-  - State space for model
+- Value at Risk and tail risk measurement
 ---
 
 # 2.2 Probability space  

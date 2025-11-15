@@ -1,27 +1,74 @@
 ---
-tags:
-  - credit_derivatives
-  - credit_risk_models
-  - default_swap
-  - intensity_models
-  - merton_model
-  - reduced_form_models
-  - structural_models
 aliases:
-  - CDS Valuation
-  - Credit Risk
-  - Default Swap Pricing
-  - KKM Model
+- CDS Valuation
+- Credit Risk
+- Default Swap Pricing
+- KKM Model
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-664e6f
 key_concepts:
-  - Jarrow and Turnbull
-  - Kettunen model
-  - Merton model
-  - credit default swaps
-  - credit risk models
-  - intensity based models
-  - pricing credit derivatives
-  - reduced-form models
-  - structural models
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Term structure of interest rates and yield curve modeling
+- 'Short-rate models: Vasicek, CIR, and mean reversion'
+- Bond pricing and fixed income securities valuation
+- Ito's lemma and stochastic calculus applications
+- Partial differential equations in financial modeling
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Options Greeks and sensitivity analysis
+tags:
+- abs
+- apt
+- arbitrage
+- arch
+- binomial
+- black-scholes
+- bonds
+- brownian-motion
+- capm
+- cds
+- compound-options
+- convexity
+- corporate-bonds
+- credit-default-swaps
+- credit-risk
+- credit-spreads
+- default-probability
+- derivatives-pricing
+- duration
+- european-options
+- exotic-options
+- fixed_income
+- garch
+- greeks
+- hull-white
+- implied-volatility
+- interest-rate-swaps
+- kalman-filter
+- martingale
+- mean-reversion
+- options
+- pde
+- recovery-rate
+- reduced-form
+- risk-management
+- risk-neutral
+- structural-models
+- swaps
+- swaptions
+- term-structure
+- var
+- vasicek
+- yield-curve
+- zero-coupon
 ---
 
 # Credit Risk Models and the Valuation of Credit  Default Swap Contracts

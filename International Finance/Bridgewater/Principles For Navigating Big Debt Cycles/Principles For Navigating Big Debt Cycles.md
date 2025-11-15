@@ -1,3 +1,13 @@
+---
+key_concepts:
+- Foreign exchange markets
+- Currency derivatives
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+tags:
+- fx
+- options
+---
 # Principles For Navigating Big Debt Cycles
 
 %% Begin Waypoint %%

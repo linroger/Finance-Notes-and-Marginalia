@@ -1,25 +1,65 @@
 ---
-title: Navigating Big Debt Crises
-cssclasses:
-  - academia
-tags:
-  - debt_crisis
-  - economic_crisis
-  - financial_crisis
-  - financial_markets
-  - risk_management
 aliases:
-  - Crises
-  - Debt
-  - Debt Crises
-  - Debt Crisis
-  - Financial Crisis
+- Crises
+- Debt
+- Debt Crises
+- Debt Crisis
+- Financial Crisis
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-ff5345
 key_concepts:
-  - Debt crisis navigation
-  - Economic downturns
-  - Financial market instability
-  - Market volatility impact
-  - Risk mitigation strategies
+- Apt
+- Carry trades and momentum in FX markets
+- Credit risk modeling and default probability estimation
+- Market volatility impact
+- Deleveraging cycles and balance sheet restructuring
+- Currency derivatives
+- Financial market instability
+- Solution
+- Default probability estimation
+- Credit portfolio diversification and concentration
+- Covenant Lite
+- Debt crisis navigation
+- Mathematical Finance
+- Foreign exchange markets
+- Course Material
+- Currency risk management and hedging
+- Forward rates and interest rate parity
+- Exchange rate determination and PPP theory
+- Risk mitigation strategies
+- Credit exposure measurement and EAD
+- Economic downturns
+- Wrong-way risk in derivative transactions
+- Quantitative Implementation
+- Distressed Debt
+- Credit risk modeling
+- Bridgewater Perspective
+- Loss given default and recovery rates
+- Currency markets and foreign exchange trading
+tags:
+- fx
+- debt_crisis
+- mathematical-finance
+- course-material
+- apt
+- covenant-lite
+- risk_management
+- exchange-rates
+- deleveraging
+- credit-risk
+- quantitative-implementation
+- solution
+- economic_crisis
+- financial_markets
+- financial_crisis
+- bridgewater-perspective
+- distressed-debt
+- credit
+- regulatory-framework
+title: Navigating Big Debt Crises
 ---
 
 # Bridgewater

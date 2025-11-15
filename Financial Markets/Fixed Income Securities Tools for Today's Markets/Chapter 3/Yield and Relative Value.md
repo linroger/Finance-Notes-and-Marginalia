@@ -1,19 +1,32 @@
 ---
-tags:
-  - coupon_effect
-  - spot_rates
-  - term_structure
-  - treasury_bonds
-  - yield_to_maturity
 aliases:
-  - Coupon Impact
-  - Relative Bond Valuation
+- Coupon Impact
+- Relative Bond Valuation
 key_concepts:
-  - Coupon effect explained
-  - Spot rates vs. yields
-  - US Treasury bond market
-  - Upward sloping term structure
-  - Yield not relative value
+- Coupon effect explained
+- Spot rates vs. yields
+- US Treasury bond market
+- Upward sloping term structure
+- Yield not relative value
+- Fixed income securities
+- Interest rate derivatives
+- Bond pricing and yield analysis
+- Duration and convexity
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Interest rate modeling
+- Term structure of interest rates
+tags:
+- coupon_effect
+- fixed_income
+- bonds
+- term_structure
+- yield_to_maturity
+- treasury_bonds
+- options
+- spot_rates
+- mathematical-finance
+- interest_rates
 ---
 
 # 3.4 YIELD AND RELATIVE VALUE  

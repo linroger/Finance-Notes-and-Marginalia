@@ -1,20 +1,45 @@
 ---
-tags:
-  - case_study
-  - cds_index
-  - credit_deterioration
-  - jpmorgan_chase
-  - london_whale
 aliases:
-  - JPM
-  - JPMorgan
-  - London Whale
+- JPM
+- JPMorgan
+- London Whale
 key_concepts:
-  - CDS index tranches
-  - Credit deterioration
-  - Index notional amount
-  - JPMorgan Chase losses
-  - Synthetic Credit Portfolio
+- CDS index tranches
+- Credit deterioration
+- Index notional amount
+- JPMorgan Chase losses
+- Synthetic Credit Portfolio
+- Credit risk modeling
+- Default probability estimation
+- Fixed income securities
+- Interest rate derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Derivatives pricing theory
+tags:
+- credit
+- cds_index
+- credit_deterioration
+- cds
+- london_whale
+- structured_finance
+- portfolio-theory
+- fixed_income
+- trading
+- bonds
+- case_study
+- jpmorgan_chase
+- futures
+- derivatives
+- options
 ---
 
 # 14.13 CASE STUDY: THE LONDON WHALE  

@@ -1,23 +1,45 @@
 ---
-tags:
-  - bank_loans
-  - commercial_paper
-  - corporate_bonds
-  - corporate_loans
-  - floating_rate
-  - mtns
 aliases:
-  - Bond Markets
-  - Corporate Debt
-  - Debt Instruments
+- Bond Markets
+- Corporate Debt
+- Debt Instruments
 key_concepts:
-  - Bank loan features
-  - Commercial paper (CP)
-  - Corporate bond characteristics
-  - Corporate borrowing methods
-  - Floating-rate notes (FRNs)
-  - Medium-term notes (MTNs)
-  - Private placement bonds
+- Bank loan features
+- Commercial paper (CP)
+- Corporate bond characteristics
+- Corporate borrowing methods
+- Floating-rate notes (FRNs)
+- Medium-term notes (MTNs)
+- Private placement bonds
+- Equity valuation and analysis
+- Dividend discount models
+- Credit risk modeling
+- Default probability estimation
+- Fixed income securities
+- Interest rate derivatives
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Credit default swaps and credit risk
+tags:
+- equity
+- credit
+- cds
+- hedge_funds
+- corporate_bonds
+- structured_finance
+- mtns
+- interest_rates
+- floating_rate
+- portfolio-theory
+- fixed_income
+- fx
+- trading
+- bonds
+- corporate_loans
 ---
 
 # 14.1 CORPORATE BONDS AND LOANS  

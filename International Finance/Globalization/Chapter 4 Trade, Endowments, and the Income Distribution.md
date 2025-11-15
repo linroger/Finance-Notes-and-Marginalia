@@ -1,3 +1,65 @@
+---
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-eceb4d
+key_concepts:
+- Apt
+- Collateralized Debt Obligations
+- Option Greeks and portfolio risk management
+- Commodity markets and pricing dynamics
+- Solution
+- Historical simulation vs. parametric VaR models
+- Vega and volatility risk management
+- Portfolio immunization strategies
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- Monte Carlo VaR for complex portfolios
+- Stress testing and scenario analysis
+- Key rate duration and curve risk
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Value at Risk (VaR) methodologies and backtesting
+- Theta and time decay modeling
+- Case Study
+- Interest rate swap pricing and valuation
+- Expected Shortfall and coherent risk measures
+- Variance swaps and volatility trading strategies
+- Bond pricing and yield analysis
+- Quantitative Implementation
+- Gamma and convexity adjustments
+- Delta hedging and the replication argument
+- Exotic Options
+- Cross-currency basis swaps and funding
+- Duration and convexity measures for bond portfolios
+- Delta hedging and Greeks
+- Price sensitivity to interest rate changes
+- Modified duration vs. Macaulay duration
+- Duration and convexity
+- Options pricing and payoff structures
+tags:
+- commodities
+- collateralized-debt-obligations
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- course-material
+- capm
+- case-study
+- apt
+- bonds
+- greeks
+- value-at-risk
+- options
+- hull-white-model
+- quantitative-implementation
+- duration-convexity
+- solution
+- infrastructure
+- exotic-options
+- harvard-business-review
+---
+
 ## **Chapter 4**
 
 # **Trade, Endowments, and the Income Distribution**

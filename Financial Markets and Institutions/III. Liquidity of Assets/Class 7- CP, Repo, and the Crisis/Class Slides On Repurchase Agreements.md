@@ -1,24 +1,22 @@
 ---
-cssclasses:
-  - academia
-linter-yaml-title-alias: Class SlIdes On Repurchase Agreements
-title: Class Slides On Repurchase Agreements
-tags:
-  - haircut
-  - interest_calculation
-  - margin
-  - repo_transaction
-  - repurchase_agreements
 aliases:
-  - Repo Slides
-  - Repurchase Agreements
+- Repo Slides
+- Repurchase Agreements
+cssclasses:
+- academia
 key_concepts:
-  - Borrowing a security
-  - Interest calculation
-  - Margin or haircut
-  - Repo transaction example
-  - Selling the security
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Interest rate swaps and term structure modeling
+- Interest rate caps, floors, and swaptions
+linter-yaml-title-alias: Class SlIdes On Repurchase Agreements
+tags:
+- correlation
+- counterparty-risk
+- credit-risk
+title: Class Slides On Repurchase Agreements
 ---
+
 
 Class Note 12 Part 2 Repos
 

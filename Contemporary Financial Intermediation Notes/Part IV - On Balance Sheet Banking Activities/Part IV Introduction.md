@@ -1,3 +1,79 @@
+---
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-7876a4
+key_concepts:
+- Apt
+- Carry trades and momentum in FX markets
+- investment banking services and activities
+- Duration and convexity analysis for bond portfolio management
+- Active portfolio management and performance attribution
+- Treasury Bonds
+- Option Greeks and portfolio risk management
+- Risk budgeting and portfolio construction techniques
+- Capital Asset Pricing Model and beta estimation
+- Solution
+- Historical simulation vs. parametric VaR models
+- Vega and volatility risk management
+- Portfolio immunization strategies
+- Mathematical Finance
+- Infrastructure investment and project finance
+- Monte Carlo VaR for complex portfolios
+- Stress testing and scenario analysis
+- Key rate duration and curve risk
+- Shadow Banking
+- Currency risk management and hedging
+- Forward rates and interest rate parity
+- Value at Risk (VaR) methodologies and backtesting
+- Theta and time decay modeling
+- Case Study
+- Quantitative analysis and modeling
+- Exchange rate determination and PPP theory
+- Generally Accepted Accounting Principles
+- Net interest margin analysis and banking profitability
+- Expected Shortfall and coherent risk measures
+- ESG integration in portfolio management
+- Delta hedging strategies in options portfolio management
+- Shadow banking system and regulatory arbitrage
+- Quantitative Implementation
+- Financial markets and instruments
+- Gamma and convexity adjustments
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Delta hedging and the replication argument
+- Distressed Debt
+- Duration and convexity measures for bond portfolios
+- Currency hedging strategies for global portfolios
+- Mbs Cmos
+- Price sensitivity to interest rate changes
+- Modified duration vs. Macaulay duration
+- Currency markets and foreign exchange trading
+tags:
+- financial-analysis
+- duration-convexity
+- quantitative-implementation
+- solution
+- treasury-bonds
+- investment-banking
+- banking
+- mathematical-finance
+- infrastructure
+- capm
+- shadow-banking
+- wholesale-funding
+- financial-modeling
+- distressed-debt
+- mbs-cmos
+- case-study
+- apt
+- greeks
+- quantitative-finance
+- value-at-risk
+- gaap
+- exchange-rates
+- credit-risk
+---
+
 # Spot Lending and Credit Risk  
 
 “Neither a borrower nor a lender be; for loan oft loses itself and a friend, and borrowing dulls the edge of husbandry.”  

@@ -1,3 +1,168 @@
+---
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-1ea1ed
+key_concepts:
+- Apt
+- Stage 2 credit exposure classification
+- Caps Floors
+- Extensions to multi-factor CAPM models
+- regulatory capital requirements and buffers
+- Stage 3 credit exposure classification
+- Term structure of interest rates and yield curve shapes
+- capital markets and issuance
+- Currency hedging strategies
+- net interest margin analysis
+- Forward exchange rate determination
+- Single-name vs. index CDS trading
+- Expectations hypothesis and liquidity preference theory
+- Capital Asset Pricing Model and expected returns
+- private equity transactions
+- Historical simulation vs. parametric VaR models
+- Basel III capital and liquidity standards
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- option pricing models and PDE solutions
+- CDS clearing and central counterparties
+- fixed income risk measurement
+- forward commitments and hedging
+- CDS-Bond basis and arbitrrage opportunities
+- Spot rates vs. forward rates modeling
+- 2008 financial crisis and systemic risk analysis
+- leverage ratio calculation and monitoring
+- CIP deviations and regulatory effects
+- Monte Carlo VaR for complex portfolios
+- option sensitivity analysis and hedging
+- Security Market Line and beta measurement
+- portfolio optimization and risk decomposition
+- Cross-currency basis and funding spreads
+- Value at Risk (VaR) methodologies and backtesting
+- Case Study
+- Dividend Policy
+- Covered interest rate parity and no-arbitrage
+- fundamental valuation methods
+- Expected Shortfall and coherent risk measures
+- excess returns and manager skill
+- interest rate and currency derivatives
+- Basel III regulatory framework and capital requirements
+- Credit default swap pricing and risk-neutral probabilities
+- regulatory stress testing and risk assessment
+- systematic risk and market exposure
+- asset transformation and structured finance
+- simulation methods in financial engineering
+- financial stability and contagion analysis
+- risk measurement and management
+- Tier 1 capital and core equity requirements
+- Stage 1 credit exposure classification
+- Parallel and non-parallel shifts in the yield curve
+- risk-adjusted performance measurement
+- Dodd-Frank Act regulatory reforms
+- banking regulation and capital adequacy
+- liquidity measurement and management
+- Market portfolio and risk-free rate assumptions
+- alternative investment strategies
+- credit risk transfer mechanisms
+- Empirical tests and anomalies in CAPM
+tags:
+- basel-iii
+- yield-curve
+- binomial-model
+- commodities
+- straddle
+- credit-default-swaps
+- liquidity-crisis
+- covered-interest-parity
+- stochastic-calculus
+- dividend-policy
+- default-probability
+- 2008-financial-crisis
+- bank-regulation
+- volatility-surface
+- capm
+- pairs-trading
+- case-study
+- apt
+- caps-floors
+- covenant-lite
+- value-at-risk
+- kalman-filter
+- factor-models
+- cir-model
+- credit-risk
+- efficient-market
+- european-options
+- duration-convexity
+- solution
+- private-equity
+- investment-banking
+- financial-crisis
+- algorithmic-trading
+- corporate-bonds
+- wholesale-funding
+- stochastic-volatility
+- volatility-smile
+- vasicek-model
+- futures-markets
+- municipal-bonds
+- expected-shortfall
+- operational-risk
+- credit-analysis
+- artificial-intelligence
+- treasury-futures
+- convexity
+- balance-of-payments
+- collateralized-debt-obligations
+- garch-models
+- mergers-acquisitions
+- interest-rate-swaps
+- mathematical-finance
+- monte-carlo-simulation
+- course-material
+- capital-structure
+- market-risk
+- martingales
+- cointegration
+- brownian-motion
+- high-frequency-trading
+- lehman-brothers
+- greeks
+- scenario-analysis
+- black-scholes-model
+- high-yield-bonds
+- basis-trading
+- exchange-rates
+- hedge-funds
+- libor-market-model
+- leveraged-buyouts
+- currency-swaps
+- hull-white-model
+- hjm-model
+- momentum-strategies
+- quantitative-implementation
+- statistical-arbitrage
+- real-estate
+- treasury-bonds
+- american-options
+- fra
+- stress-testing
+- monetary-policy
+- lookback-options
+- infrastructure
+- liquidity-risk
+- systemic-risk
+- exotic-options
+- distressed-debt
+- mbs-cmos
+- martingale
+- delta-hedging
+- implied-volatility
+- swaptions
+- dcf-valuation
+- harvard-business-review
+- mean-reversion
+- monte-carlo
+---
+
 # Comprehensive Primer on Financial Mathematics: Instrument Pricing and Risk Analysis
 
 ## Executive Summary

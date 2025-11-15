@@ -1,27 +1,57 @@
 ---
-title: Quality Spread Differential (QSD) - What It Is
-source: https://www.investopedia.com/terms/q/qsd.asp
+aliases:
+- QSD
+- QSD Example
+- Quality Spread
 description: A quality spread differential (QSD) is the difference between market
   interest rates achieved by two parties who enter an interest rate swap.
-tags:
-  - bond_investors
-  - counterparty_risk
-  - creditworthiness
-  - fixed_rate_debt
-  - floating_rate_debt
-  - interest_rate_swap
-  - quality_spread_differential
-aliases:
-  - QSD
-  - QSD Example
-  - Quality Spread
 key_concepts:
-  - Benefit both parties
-  - Difference in market rates
-  - Gauge counterparty risk
-  - Measure creditworthiness
-  - Subtract contracted market rate
+- Benefit both parties
+- Difference in market rates
+- Gauge counterparty risk
+- Measure creditworthiness
+- Subtract contracted market rate
+- interest rate and currency derivatives
+- Risk-neutral pricing methodology for derivative securities
+- DV01 calculation and interest rate risk hedging
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk migration matrices and rating transition
+- Value-at-Risk calculation using historical simulation
+- Expected Shortfall and coherent risk measures
+- Backtesting procedures for risk models
+- Extreme value theory and tail risk modeling
+- Liquidity risk measurement and management
+- Operational risk quantification and modeling
+- Systemic risk indicators and early warning systems
+- Mean-variance optimization and the efficient frontier
+- Risk budgeting and portfolio construction techniques
+- Credit risk assessment and loan portfolio management
+- Bank liquidity ratios and funding risk management
+- Deposit insurance and systemic risk prevention
+- Arbitrage opportunities and risk-free profit extraction
+- Monte Carlo integration and variance reduction
+- Control variates and importance sampling techniques
+- Sovereign risk assessment and country analysis
+- Global financial stability and systemic risk monitoring
+- interest rate and currency derivatives
+- Risk-neutral pricing methodology for derivative securities
+- DV01 calculation and interest rate risk hedging
+source: https://www.investopedia.com/terms/q/qsd.asp
+tags:
+- bond_investors
+- counterparty-risk
+- counterparty_risk
+- credit-risk
+- creditworthiness
+- fixed_rate_debt
+- floating_rate_debt
+- interest-rate-swaps
+- interest_rate_swap
+- quality_spread_differential
+title: Quality Spread Differential (QSD) - What It Is
 ---
+
+
 
 
 ## What Is Quality Spread Differential (QSD)?

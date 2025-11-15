@@ -1,3 +1,82 @@
+---
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-ac84c4
+key_concepts:
+- Apt
+- Currency markets and foreign exchange trading
+- Single-name vs. index CDS trading
+- Option Greeks and portfolio risk management
+- Commodity markets and pricing dynamics
+- Futures contracts and forward pricing
+- Historical simulation vs. parametric VaR models
+- Default probability estimation
+- Credit spread decomposition and hazard rates
+- Vega and volatility risk management
+- CDS clearing and central counterparties
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- Monte Carlo VaR for complex portfolios
+- Stress testing and scenario analysis
+- Equity valuation and analysis
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Forward rates and interest rate parity
+- Value at Risk (VaR) methodologies and backtesting
+- Theta and time decay modeling
+- Counterparty risk and settlement
+- Case Study
+- Exchange rate determination and PPP theory
+- Interest rate swap pricing and valuation
+- Margin requirements and clearing
+- Expected Shortfall and coherent risk measures
+- Credit default swap pricing and risk-neutral probabilities
+- Variance swaps and volatility trading strategies
+- Bond pricing and yield analysis
+- Gamma and convexity adjustments
+- Capital Structure
+- Delta hedging and the replication argument
+- Credit default swaps and credit risk
+- Credit risk modeling
+- Cross-currency basis swaps and funding
+- Delta hedging and Greeks
+- Duration and convexity
+- Options pricing and payoff structures
+- Dividend discount models
+tags:
+- commodities
+- credit-default-swaps
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- course-material
+- capital-structure
+- case-study
+- apt
+- bonds
+- greeks
+- value-at-risk
+- exchange-rates
+- valuation
+- options
+- credit-risk
+- quantitative-implementation
+- duration-convexity
+- solution
+- real-estate
+- treasury-bonds
+- equity
+- infrastructure
+- bridgewater-perspective
+- distressed-debt
+- credit
+- harvard-business-review
+- futures
+- cds
+---
+
 Chapter 2: The Big Cycle of Money, Credit, Debt, and Economic Activity
 
 # **Chapter 2: The Big Cycle of Money, Credit, Debt, and Economic Activity**

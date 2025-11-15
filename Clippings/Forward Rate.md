@@ -1,25 +1,60 @@
 ---
-title: Forward Rate
-source: https://www.investopedia.com/terms/f/forwardrate.asp
+aliases:
+- Forward Interest Rate
+- Future Rate
 description: A forward rate is an interest rate applicable to a financial transaction
   that will take place in the future. Forward rates are calculated from the spot rate
   and are adjusted for the cost of carry.
-tags:
-  - exchange_rate
-  - financial_markets
-  - forward_rate
-  - hedging
-  - interest_rate
-aliases:
-  - Forward Interest Rate
-  - Future Rate
 key_concepts:
-  - Contractual obligation
-  - Exchange rate agreement
-  - Future interest rate
-  - Hedging currency risk
-  - Market expectations
+- Contractual obligation
+- Exchange rate agreement
+- Future interest rate
+- Hedging currency risk
+- Market expectations
+- forward commitments and hedging
+- Delta hedging strategies in options portfolio management
+- Duration and convexity analysis for bond portfolio management
+- Credit risk modeling and portfolio correlation analysis
+- Capital Asset Pricing Model and beta estimation
+- Arbitrage Pricing Theory and multifactor models
+- Active portfolio management and performance attribution
+- Risk budgeting and portfolio construction techniques
+- ESG integration in portfolio management
+- Credit risk assessment and loan portfolio management
+- Shadow banking system and regulatory arbitrage
+- Arbitrage opportunities and risk-free profit extraction
+- International arbitrage and covered interest rate parity
+- Currency hedging strategies for global portfolios
+- forward commitments and hedging
+- Delta hedging strategies in options portfolio management
+- Duration and convexity analysis for bond portfolio management
+- Credit risk modeling and portfolio correlation analysis
+- Capital Asset Pricing Model and beta estimation
+- Arbitrage Pricing Theory and multifactor models
+- Active portfolio management and performance attribution
+- Risk budgeting and portfolio construction techniques
+- ESG integration in portfolio management
+- Credit risk assessment and loan portfolio management
+- Shadow banking system and regulatory arbitrage
+source: https://www.investopedia.com/terms/f/forwardrate.asp
+tags:
+- arbitrage
+- bond-pricing
+- commodities
+- exchange-rate
+- exchange_rate
+- financial_markets
+- forward-exchange
+- forward_rate
+- hedging
+- interest-rate-derivatives
+- interest_rate
+- monetary-policy
+- risk-management
+title: Forward Rate
 ---
+
+
 
 
 Definition

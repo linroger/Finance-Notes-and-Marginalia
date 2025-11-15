@@ -1,26 +1,27 @@
 ---
+aliases:
+- LTCM
+- Long-Term Arbitrage
+- PBA
 cssclasses:
-  - academia
+- academia
+key_concepts:
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Interest rate swaps and term structure modeling
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
 linter-yaml-title-alias: Class Slides The LTCM Meltdown Liquidity and “Performance
   Based Arbitraged
-title: Class Slides The LTCM Meltdown Liquidity and “Performance Based Arbitrage.”
 tags:
-  - hedge_fund
-  - ltcm_meltdown
-  - news_trade
-  - pba_arb
-  - performance_based_arbitrage
-aliases:
-  - LTCM
-  - Long-Term Arbitrage
-  - PBA
-key_concepts:
-  - Hedge Fund Behavior
-  - LTCM Meltdown
-  - News Trade
-  - PBA Investor Decisions
-  - Performance Based Arbitrage
+- arbitrage
+- calls
+- correlation
+- credit-risk
+- risk-management
+title: Class Slides The LTCM Meltdown Liquidity and “Performance Based Arbitrage.”
 ---
+
 
 LTCM Meltdown]]
 

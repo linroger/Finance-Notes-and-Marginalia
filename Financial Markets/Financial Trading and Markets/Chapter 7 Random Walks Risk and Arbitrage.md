@@ -1,19 +1,44 @@
 ---
-tags:
-  - market_efficiency
-  - markov_process
-  - martingale
-  - random_walks
-  - stochastic_process
 aliases:
-  - Markov Process
-  - Random Security Price Changes
+- Markov Process
+- Random Security Price Changes
 key_concepts:
-  - Discrete time process
-  - Market efficiency
-  - Martingale process
-  - Random security price changes
-  - Stochastic process
+- Discrete time process
+- Market efficiency
+- Martingale process
+- Random security price changes
+- Stochastic process
+- Equity valuation and analysis
+- Dividend discount models
+- Foreign exchange markets
+- Currency derivatives
+- Option sensitivity analysis
+- Delta, gamma, vega, theta, rho
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Arbitrage theory and practice
+- Law of one price
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Value at risk and stress testing
+tags:
+- equity
+- regulatory-framework
+- random_walks
+- greeks
+- arbitrage
+- hedge_funds
+- structured_finance
+- martingale
+- mathematical-finance
+- monte_carlo
+- portfolio-theory
+- stochastic_calculus
+- fx
+- trading
+- bonds
 ---
 
 # Random Walks, Risk, and Arbitrage  

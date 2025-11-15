@@ -1,20 +1,45 @@
 ---
-tags:
-  - delta_hedging
-  - gamma_risk
-  - options_pricing
-  - vega_risk
-  - volatility_risk
 aliases:
-  - Delta Hedge Risk
-  - Gamma Vega Volatility
-  - Residual Risk
+- Delta Hedge Risk
+- Gamma Vega Volatility
+- Residual Risk
 key_concepts:
-  - Binomial model
-  - Delta hedging
-  - Gamma risk
-  - Vega risk
-  - Volatility assumption
+- Binomial model
+- Delta hedging
+- Gamma risk
+- Vega risk
+- Volatility assumption
+- Equity valuation and analysis
+- Dividend discount models
+- Foreign exchange markets
+- Currency derivatives
+- Option sensitivity analysis
+- Delta, gamma, vega, theta, rho
+- Bond pricing and yield analysis
+- Duration and convexity
+- Black-Scholes option pricing model
+- Continuous-time finance
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Derivatives pricing theory
+- Risk-neutral valuation
+- Options pricing and payoff structures
+tags:
+- equity
+- volatility_risk
+- gamma_risk
+- greeks
+- delta_hedging
+- structured_finance
+- binomial
+- interest_rates
+- portfolio-theory
+- valuation
+- fx
+- bonds
+- black_scholes
+- volatility
+- futures
 ---
 
 # 5.8 RESIDUAL RISK OF OPTIONS: GAMMA, VEGA, AND VOLATILITY  

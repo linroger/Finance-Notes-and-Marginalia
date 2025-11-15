@@ -1,3 +1,16 @@
+---
+key_concepts:
+- Alternative investment strategies
+- Hedge fund replication
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+tags:
+- portfolio-theory
+- stochastic_calculus
+- hedge_funds
+- options
+- stochastic-calculus
+---
 # CHAPTER 11  
 
 # Trade Policy in Developing Countries  

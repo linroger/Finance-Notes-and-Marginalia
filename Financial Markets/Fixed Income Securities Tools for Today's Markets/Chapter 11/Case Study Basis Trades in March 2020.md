@@ -1,20 +1,45 @@
 ---
-tags:
-  - basis_trades
-  - futures_contracts
-  - hedge_funds
-  - market_volatility
-  - treasury_bonds
 aliases:
-  - COVID-19 market
-  - CTD bonds
-  - March 2020 Basis Trades
+- COVID-19 market
+- CTD bonds
+- March 2020 Basis Trades
 key_concepts:
-  - Basis trade in March 2020
-  - CTD bond and repo rate
-  - Hedge funds and basis trade
-  - Market volatility increase
-  - Treasury yields and futures
+- Basis trade in March 2020
+- CTD bond and repo rate
+- Hedge funds and basis trade
+- Market volatility increase
+- Treasury yields and futures
+- Fixed income securities
+- Interest rate derivatives
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+tags:
+- treasury_bonds
+- hedge_funds
+- cds
+- interest_rates
+- futures_contracts
+- fixed_income
+- fx
+- trading
+- bonds
+- volatility
+- market_volatility
+- swaps
+- futures
+- options
+- basis_trades
 ---
 
 # 11.13 CASE STUDY: BASIS TRADES IN MARCH 2020  

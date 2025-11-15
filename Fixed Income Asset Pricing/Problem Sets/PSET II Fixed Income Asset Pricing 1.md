@@ -1,23 +1,74 @@
 ---
-linter-yaml-title-alias: FIXED INCOME ASSET PRICING
-title: PSET II Fixed Income Asset Pricing 1
-tags:
-  - duration_convexity
-  - fixed_income_asset_pricing
-  - interest_rate_hedge
-  - leveraged_inverse_floater
-  - term_sheet
 aliases:
-  - Homework 2
-  - JCH Fixed Income Group
-  - LIF
-  - PSET II
+- Homework 2
+- JCH Fixed Income Group
+- LIF
+- PSET II
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-18c420
 key_concepts:
-  - Cash flows decomposition
-  - Convexity
-  - Duration calculation
-  - Fixed rate note
-  - Leveraged Inverse Floaters
+- Apt
+- Term structure of interest rates
+- Term structure of interest rates and yield curve shapes
+- Treasury Bonds
+- Option Greeks and portfolio risk management
+- Expectations hypothesis and liquidity preference theory
+- Solution
+- Yield curve fitting and interpolation methods
+- Interest rate modeling
+- Vega and volatility risk management
+- Portfolio immunization strategies
+- Mathematical Finance
+- Spot rates vs. forward rates modeling
+- GARCH models and volatility forecasting
+- Key rate duration and curve risk
+- Course Material
+- Cash flows decomposition
+- Theta and time decay modeling
+- Leveraged Inverse Floaters
+- Interest rate derivatives
+- Fixed income securities
+- Bond pricing and yield analysis
+- Quantitative Implementation
+- Gamma and convexity adjustments
+- Duration calculation
+- Capital Structure
+- Fixed rate note
+- Delta hedging and the replication argument
+- Parallel and non-parallel shifts in the yield curve
+- Exotic Options
+- Duration and convexity measures for bond portfolios
+- Delta hedging and Greeks
+- Price sensitivity to interest rate changes
+- Modified duration vs. Macaulay duration
+- Duration and convexity
+- Options pricing and payoff structures
+- Convexity
+linter-yaml-title-alias: FIXED INCOME ASSET PRICING
+tags:
+- yield-curve
+- garch-models
+- duration_convexity
+- mathematical-finance
+- course-material
+- capital-structure
+- interest_rate_hedge
+- apt
+- bonds
+- greeks
+- fixed_income
+- leveraged_inverse_floater
+- options
+- term_sheet
+- quantitative-implementation
+- duration-convexity
+- solution
+- treasury-bonds
+- interest_rates
+- exotic-options
+- fixed_income_asset_pricing
+title: PSET II Fixed Income Asset Pricing 1
 ---
 
 # PSET II Fixed Income Asset Pricing 1

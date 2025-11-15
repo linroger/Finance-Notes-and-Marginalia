@@ -1,31 +1,77 @@
 ---
-cssclasses: academia
-title: Financial Engineering
-tags:
-  - derivative_pricing
-  - financial_engineering
-  - financial_markets
-  - investment_strategies
-  - risk_management
-  - quantitative_finance
-  - stochastic_calculus
-  - fixed_income
 aliases:
-  - Fin. Engineering
-  - FinEng
-  - Financial Eng.
-  - Quantitative Finance
+- Fin. Engineering
+- FinEng
+- Financial Eng.
+- Quantitative Finance
+cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-4f5d74
 key_concepts:
-  - Derivatives pricing models
-  - Financial innovation techniques
-  - Structured products design
-  - Arbitrage pricing theory
-  - Risk-neutral valuation
-  - Stochastic processes in finance
-  - Credit risk modeling
-  - Interest rate modeling
-  - Volatility surface calibration
-  - Financial engineering tools
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Ito's lemma and stochastic calculus applications
+- Monte Carlo simulation for derivatives valuation
+- Partial differential equations in financial modeling
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility smile, skew, and surface modeling
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- apt
+- arbitrage
+- arch
+- binomial
+- black-scholes
+- bonds
+- calibration
+- capm
+- caps
+- cds
+- convexity
+- credit-default-swaps
+- credit-risk
+- currency-swaps
+- delta
+- derivatives-pricing
+- duration
+- exotic-options
+- fixed_income
+- floors
+- forwards
+- futures
+- garch
+- greeks
+- hedging
+- hjm
+- hull-white
+- implied-volatility
+- interest-rate-swaps
+- martingale
+- monte-carlo
+- options
+- pde
+- replication
+- risk-management
+- risk-neutral
+- stochastic-calculus
+- swaps
+- term-structure
+- theta
+- var
+- yield-curve
+- zero-coupon
+title: Financial Engineering
 ---
 
 # Financial Engineering

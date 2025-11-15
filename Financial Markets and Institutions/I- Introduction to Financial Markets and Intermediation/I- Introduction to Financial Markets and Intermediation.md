@@ -1,36 +1,19 @@
 ---
-cssclasses: academia
-linter-yaml-title-alias: I - Introduction to Financial Markets and Intermediation
-title: I - Introduction to Financial Markets and Intermediation
-tags:
-  - financial_instruments
-  - financial_markets
-  - financial_system
-  - market_intermediation
-  - market_participants
-  - debt_contracts
-  - borrower_lender_dynamics
-  - agency_problems
-  - credit_monitoring
 aliases:
-  - Finance Intro
-  - Financial Markets
-  - Market Intermediation
-  - Introduction to Financial Markets
-  - Financial Markets and Intermediation
+- Finance Intro
+- Financial Markets
+- Market Intermediation
+- Introduction to Financial Markets
+- Financial Markets and Intermediation
+cssclasses: academia
 key_concepts:
-  - Financial instrument types
-  - Financial markets overview
-  - Market efficiency
-  - Market participants and roles
-  - Role of financial intermediaries
-  - Borrower-lender conflicts
-  - Agency problems in finance
-  - Debt pricing mechanisms
-  - Information asymmetry
-  - Contract enforcement
-  - Delegated monitoring
+- Ito's lemma and stochastic calculus applications
+- Credit risk modeling and default probability estimation
+linter-yaml-title-alias: I - Introduction to Financial Markets and Intermediation
+tags: []
+title: I - Introduction to Financial Markets and Intermediation
 ---
+
 
 # I - Introduction to Financial Markets and Intermediation
 

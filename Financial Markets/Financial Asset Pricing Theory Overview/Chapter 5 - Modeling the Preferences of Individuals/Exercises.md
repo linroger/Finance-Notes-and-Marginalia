@@ -1,19 +1,17 @@
 ---
 tags:
-  - exercises
-  - expected_utility
-  - insurance
-  - probability_distributions
-  - risk_aversion
+- apt
+- delta
+- derivatives-pricing
+- gamma
+- risk-management
+- risk-neutral
 aliases:
-  - consumption plans
-  - exercise problems
+- consumption plans
+- exercise problems
 key_concepts:
-  - actuarially fair insurance
-  - expected utility maximization
-  - one-period choice problem
-  - probability distributions
-  - risk averse consumer
+- Risk-neutral measures and martingale pricing
+- Options Greeks and sensitivity analysis
 ---
 
 # 5.8 Exercises  

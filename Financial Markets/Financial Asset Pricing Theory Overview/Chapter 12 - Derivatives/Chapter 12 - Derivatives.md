@@ -1,19 +1,35 @@
 ---
 tags:
-  - chapter_12
-  - chapter_introduction
-  - derivative_markets
-  - derivatives
-  - financial_derivatives
+- apt
+- arbitrage
+- black-scholes
+- bonds
+- caps
+- commodities
+- derivatives-pricing
+- fixed_income
+- floors
+- forwards
+- futures
+- options
+- risk-management
+- swaps
+- swaptions
+- var
+- vega
+- zero-coupon
 aliases:
-  - Chapter 12
-  - Derivatives
+- Chapter 12
+- Derivatives
 key_concepts:
-  - Derivatives
-  - financial instruments
-  - market participants
-  - pricing models
-  - risk management
+- Black-Scholes model and option pricing theory
+- Bond pricing and fixed income securities valuation
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
+- Options Greeks and sensitivity analysis
 ---
 %% Begin Waypoint %%
 - **Chapter 12 - Derivatives**

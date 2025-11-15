@@ -1,37 +1,117 @@
 ---
+aliases:
+- Bank Business Model
+- Banking Regulation Framework
+- Bank Accounting Rules
 cssclasses:
-  - academia
-title: Week 6 Bank Business Model, Regulation, and Accounting Rules
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-c2afb8
+key_concepts:
+- Liquidity coverage ratio and net stable funding ratio
+- IFRS 9 expected credit loss model
+- Carry trades and momentum in FX markets
+- Banks as financial intermediaries
+- regulatory capital requirements and buffers
+- Balance sheets of U.S. banks
+- Risk-weighted assets calculation
+- Stress testing and supervisory review processes
+- Regulatory capital requirements
+- Market risk measurement and portfolio volatility
+- Credit risk modeling and default probability estimation
+- US Generally Accepted Accounting Principles
+- Loan loss accounting and provisions
+- Historical simulation vs. parametric VaR models
+- Credit, liquidity, and interest rate risks
+- Expected credit loss models (CECL)
+- Basel III capital and liquidity standards
+- Leverage ratio and large exposures
+- fixed income risk measurement
+- Interest rate spread business model
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- leverage ratio calculation and monitoring
+- GARCH models and volatility forecasting
+- Monte Carlo VaR for complex portfolios
+- Stress testing and scenario analysis
+- Basel III capital ratios
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Risk-weighted assets and capital adequacy ratios
+- Currency risk management and hedging
+- Core Deposits
+- Value at Risk (VaR) methodologies and backtesting
+- Forward rates and interest rate parity
+- Case Study
+- Exchange rate determination and PPP theory
+- Generally Accepted Accounting Principles
+- Interest rate swap pricing and valuation
+- Expected Shortfall and coherent risk measures
+- Basel III regulatory framework and capital requirements
+- Variance swaps and volatility trading strategies
+- Credit exposure measurement and EAD
+- deposit insurance and protection systems
+- expected credit loss modeling and provisioning
+- Tier 2 capital and supplementary requirements
+- Federal Deposit Insurance Corporation
+- IFRS versus US GAAP differences
+- financial stability and contagion analysis
+- risk measurement and management
+- Duration mismatch between assets and liabilities
+- Capital Structure
+- Tier 1 capital and core equity requirements
+- Income statements of U.S. banks
+- Cross-currency basis swaps and funding
+- loan loss provisioning and reserve adequacy
+- banking regulation and capital adequacy
+- Dodd-Frank Act regulatory reforms
+- Loss given default and recovery rates
+- Deposit taking and lending functions
+- Currency markets and foreign exchange trading
 linter-yaml-title-alias: Week 6 Bank Business Model, Regulation, and Accounting Rules
 tags:
-  - accounting_rules
-  - balance_sheets
-  - bank_business_model
-  - banking_regulation
-  - financial_intermediaries
-  - basel_iii
-  - regulatory_capital
-  - loan_loss_provisions
-  - risk_weighted_assets
-  - tier_1_capital
-aliases:
-  - Bank Business Model
-  - Banking Regulation Framework
-  - Bank Accounting Rules
-key_concepts:
-  - Banks as financial intermediaries
-  - Deposit taking and lending functions
-  - Interest rate spread business model
-  - Duration mismatch between assets and liabilities
-  - Credit, liquidity, and interest rate risks
-  - Balance sheets of U.S. banks
-  - Income statements of U.S. banks
-  - Regulatory capital requirements
-  - Risk-weighted assets calculation
-  - Basel III capital ratios
-  - Loan loss accounting and provisions
-  - Expected credit loss models (CECL)
-  - IFRS versus US GAAP differences
+- basel-iii
+- ifrs
+- bank-regulation
+- sovereign-debt
+- case-study
+- core-deposits
+- value-at-risk
+- credit-risk
+- duration-convexity
+- solution
+- wacc
+- banking
+- financial-crisis
+- tier-2-capital
+- wholesale-funding
+- accounting-standards
+- deposit-insurance
+- syndicated-loans
+- basel
+- credit-analysis
+- liquidity-ratios
+- net-stable-funding-ratio
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- course-material
+- capital-structure
+- var
+- market-risk
+- impairment
+- tier-1-capital
+- exchange-rates
+- quantitative-implementation
+- treasury-bonds
+- financial-accounting
+- systemic-risk
+- leverage-ratio
+- gaap
+- harvard-business-review
+- duration
+title: Week 6 Bank Business Model, Regulation, and Accounting Rules
 ---
 
 # Bank Business Model, Regulation, and Accounting Rules

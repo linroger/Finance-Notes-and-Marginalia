@@ -1,25 +1,100 @@
 ---
-cssclasses:
-  - academia
-linter-yaml-title-alias: Forward Rates and Term Structure
-title: Forward Rates and Term Structure
-tags:
-  - expectations_hypothesis
-  - forward_rates
-  - interest_rates
-  - term_structure
-  - yield_curve
 aliases:
-  - Expectations
-  - Forward Rates
-  - Term Structure
-  - Yields
+- Expectations
+- Forward Rates
+- Term Structure
+- Yields
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-32ae58
 key_concepts:
-  - Expectations hypothesis
-  - Forward rates calculation
-  - Risk premium impact
-  - Term structure of rates
-  - Yield curve decomposition
+- Apt
+- Term structure of interest rates
+- Extensions to multi-factor CAPM models
+- Term structure of interest rates and yield curve shapes
+- Stochastic calculus in financial modeling
+- Risk premium impact
+- Option Greeks and portfolio risk management
+- Expectations hypothesis and liquidity preference theory
+- Capital Asset Pricing Model and expected returns
+- Futures contracts and forward pricing
+- Historical simulation vs. parametric VaR models
+- Interest rate modeling
+- Yield curve fitting and interpolation methods
+- Vega and volatility risk management
+- Swap spread and credit risk considerations
+- Expectations hypothesis
+- Spot rates vs. forward rates modeling
+- Option sensitivity analysis
+- Mathematical Finance
+- Monte Carlo VaR for complex portfolios
+- Market portfolio and risk-free rate assumptions
+- Stress testing and scenario analysis
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Security Market Line and beta measurement
+- Value at Risk (VaR) methodologies and backtesting
+- Theta and time decay modeling
+- Case Study
+- Interest rate swap pricing and valuation
+- Margin requirements and clearing
+- Expected Shortfall and coherent risk measures
+- Delta, gamma, vega, theta, rho
+- Variance swaps and volatility trading strategies
+- Forward rates calculation
+- Interest rate derivatives
+- Derivatives pricing theory
+- Fixed income securities
+- Bond pricing and yield analysis
+- Term structure of rates
+- Gamma and convexity adjustments
+- Risk-neutral valuation
+- Delta hedging and the replication argument
+- Parallel and non-parallel shifts in the yield curve
+- Cross-currency basis swaps and funding
+- Delta hedging and Greeks
+- Yield curve decomposition
+- Duration and convexity
+- Options pricing and payoff structures
+- Empirical tests and anomalies in CAPM
+linter-yaml-title-alias: Forward Rates and Term Structure
+tags:
+- yield-curve
+- stochastic-calculus
+- derivatives
+- interest-rate-swaps
+- mathematical-finance
+- course-material
+- capm
+- case-study
+- apt
+- expectations_hypothesis
+- greeks
+- bonds
+- value-at-risk
+- kalman-filter
+- factor-models
+- fixed_income
+- forward_rates
+- exchange-rates
+- valuation
+- options
+- yield_curve
+- term_structure
+- duration-convexity
+- quantitative-implementation
+- solution
+- treasury-bonds
+- interest_rates
+- stochastic_calculus
+- infrastructure
+- vasicek-model
+- volatility
+- dcf-valuation
+- futures
+title: Forward Rates and Term Structure
 ---
 
 Fixed Income Lecture Notes]]

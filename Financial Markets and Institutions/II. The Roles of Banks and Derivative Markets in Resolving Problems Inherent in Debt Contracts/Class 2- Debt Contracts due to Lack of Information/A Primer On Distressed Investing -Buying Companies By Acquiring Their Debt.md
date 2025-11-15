@@ -1,22 +1,30 @@
 ---
-title: A Primer On Distressed Investing -Buying Companies By Acquiring Their Debt
-tags:
-  - capital_structure
-  - company_restructuring
-  - debt_acquisition
-  - distressed_investing
-  - institutional_investors
 aliases:
-  - Buying Distressed Debt
-  - Distressed Debt Investing
-  - Investing in Distressed Companies
+- Buying Distressed Debt
+- Distressed Debt Investing
+- Investing in Distressed Companies
 key_concepts:
-  - Acquiring company debt
-  - Debt capacity and risk
-  - Institutional investor battles
-  - Restructuring plan execution
-  - Warren Buffett distressed investing
+- Risk-neutral measures and martingale pricing
+- 'Short-rate models: Vasicek, CIR, and mean reversion'
+- Ito's lemma and stochastic calculus applications
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Portfolio hedging and risk reduction strategies
+tags:
+- apt
+- cds
+- cir
+- correlation
+- credit-risk
+- hedging
+- risk-management
+- risk-neutral
+- var
+title: A Primer On Distressed Investing -Buying Companies By Acquiring Their Debt
 ---
+
 
 # A Primer On Distressed Investing -Buying Companies By Acquiring Their Debt
 

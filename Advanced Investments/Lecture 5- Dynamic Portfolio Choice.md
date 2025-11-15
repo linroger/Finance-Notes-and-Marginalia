@@ -1,40 +1,69 @@
 ---
-title: Lecture 5 - Dynamic Portfolio Choice
-cssclasses:
-  - academia
-  - finance
-tags:
-  - dynamic_portfolio_choice
-  - iid_assumption
-  - long_term_investor
-  - portfolio_weights
-  - risk_return
-  - time_varying_returns
-  - multi_period_investing
-  - log_normal_returns
-  - wealth_accumulation
-  - portfolio_rebalancing
-  - asset_allocation_strategies
 aliases:
-  - Dynamic Portfolio Selection
-  - Long-Term Investing
-  - Multi-Period Portfolio Optimization
-  - Dynamic Asset Allocation
-  - Intertemporal Portfolio Choice
+- Dynamic Portfolio Selection
+- Long-Term Investing
+- Multi-Period Portfolio Optimization
+- Dynamic Asset Allocation
+- Intertemporal Portfolio Choice
+cssclasses:
+- academia
+- finance
 key_concepts:
-  - Dynamic portfolio problem
-  - IID setting
-  - Long-term investment horizons
-  - Optimal portfolio formulas
-  - Predictable stock market returns
-  - Time-varying expected returns
-  - Compounding of returns
-  - Portfolio rebalancing strategies
-  - Long-run wealth distribution
-  - Multi-period utility maximization
-  - Mean-variance portfolio analysis
-  - Intertemporal hedging demand
+- Dynamic portfolio problem
+- IID setting
+- Long-term investment horizons
+- Optimal portfolio formulas
+- Predictable stock market returns
+- Time-varying expected returns
+- Compounding of returns
+- Portfolio rebalancing strategies
+- Long-run wealth distribution
+- Multi-period utility maximization
+- Mean-variance portfolio analysis
+- Intertemporal hedging demand
+- simulation methods in financial engineering
+- risk measurement and management
+- forward commitments and hedging
+- alternative investment strategies
+- portfolio optimization and risk decomposition
+- risk-adjusted performance measurement
+- zero-coupon bond pricing and yields
+- coupon-bearing bond analysis
+- Monte Carlo simulation techniques for path-dependent options
+- Value-at-Risk calculation using historical simulation
+- Mean-variance optimization and the efficient frontier
+- Arbitrage Pricing Theory and multifactor models
+- Shadow banking system and regulatory arbitrage
+- Arbitrage opportunities and risk-free profit extraction
+- Monte Carlo integration and variance reduction
+- Control variates and importance sampling techniques
+- International arbitrage and covered interest rate parity
+- simulation methods in financial engineering
+tags:
+- arbitrage
+- asset-allocation
+- autocorrelation
+- financial-crisis
+- initial-public-offerings
+- interest-rate-swaps
+- log_normal_returns
+- long_term_investor
+- mean-variance
+- monte-carlo
+- multi_period_investing
+- net-income
+- portfolio_weights
+- private-equity
+- risk_return
+- term-structure
+- time-series
+- time_varying_returns
+- treasury-bonds
+- var
+title: Lecture 5 - Dynamic Portfolio Choice
 ---
+
+
 
 # Lecture 5-Dynamic Portfolio Choice
 

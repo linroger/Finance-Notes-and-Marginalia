@@ -1,21 +1,54 @@
 ---
-title: The T₁ -period Binomial Model
-tags:
-  - binomial_model
-  - derivatives
-  - hull_chapter_11
-  - option_pricing
-  - risk_neutral_valuation
 aliases:
-  - T1 model
-  - binomial tree model
-  - multi-period binomial model
+- T1 model
+- binomial tree model
+- multi-period binomial model
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-1f616d
 key_concepts:
-  - Binomial coefficients
-  - Delta hedging
-  - Risk-neutral probability
-  - Synthetic options
-  - Two-period binomial model
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+- Binomial option pricing model and lattice methods
+tags:
+- american-options
+- apt
+- binomial
+- black-scholes
+- capm
+- convexity
+- correlation
+- credit-risk
+- delta
+- delta-hedging
+- derivatives-pricing
+- duration
+- european-options
+- fixed_income
+- gamma
+- greeks
+- hedging
+- implied-volatility
+- interest-rate-swaps
+- options
+- replication
+- risk-management
+- risk-neutral
+- swaps
+- theta
+- var
+- vega
+title: The T₁ -period Binomial Model
 ---
 
 # The T₁ -period Binomial Model

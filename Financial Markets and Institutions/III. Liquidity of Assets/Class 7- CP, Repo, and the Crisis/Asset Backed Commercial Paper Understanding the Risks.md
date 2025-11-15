@@ -1,34 +1,34 @@
 ---
-cssclasses:
-  - academia
-title: "Asset Backed Commercial Paper: Understanding the Risks"
-linter-yaml-title-alias: "Asset Backed Commercial Paper: Understanding the Risks"
-tags:
-  - abcp_programs
-  - asset_backed_securities
-  - credit_risk
-  - liquidity_risk
-  - short_term_financing
-  - structural_risk
 aliases:
-  - ABCP
-  - Asset-Backed
-  - Structured Finance
-  - "Asset Backed CP Risks"
+- ABCP
+- Asset-Backed
+- Structured Finance
+- Asset Backed CP Risks
+cssclasses:
+- academia
 key_concepts:
-  - ABCP programs
-  - Credit risk
-  - Fully supported program
-  - Liquidity risk
-  - Partially supported program
-  - Short-term financing
-  - Structural risk
-  - Conduit structures
-  - Liquidity backstops
-  - Credit enhancements
-  - Maturity mismatches
-  - SIV structures
+- Monte Carlo simulation for derivatives valuation
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+linter-yaml-title-alias: 'Asset Backed Commercial Paper: Understanding the Risks'
+tags:
+- abs
+- bonds
+- cds
+- correlation
+- credit-risk
+- default-probability
+- derivatives-pricing
+- fixed_income
+- monte-carlo
+- options
+- risk-management
+- time-series
+- var
+title: 'Asset Backed Commercial Paper: Understanding the Risks'
 ---
+
 
 # Asset Backed Commercial Paper: Understanding the Risks
 

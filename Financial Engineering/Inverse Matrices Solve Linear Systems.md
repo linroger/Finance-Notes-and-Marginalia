@@ -1,20 +1,50 @@
 ---
-tags:
-  - gauss_jordan
-  - inverse_matrices
-  - linear_systems
-  - matrix_algebra
-  - nonsingular_matrix
 aliases:
-  - Linear Systems Solutions
-  - Matrix Inverses
-  - Solving Equations
+- Linear Systems Solutions
+- Matrix Inverses
+- Solving Equations
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-9e69c0
 key_concepts:
-  - Gauss-Jordan method inverse
-  - Inverse matrix definition
-  - Linear equation solution
-  - Matrix equation representation
-  - Nonsingular matrix property
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Ito's lemma and stochastic calculus applications
+- Monte Carlo simulation for derivatives valuation
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- apt
+- arbitrage
+- convexity
+- correlation
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- expected-shortfall
+- fixed_income
+- gamma
+- greeks
+- hedging
+- interest-rate-swaps
+- monte-carlo
+- replication
+- risk-management
+- risk-neutral
+- stochastic-calculus
+- stress-testing
+- swaps
+- theta
+- var
+- vega
 ---
 
 # Chapter 1 Additional Readings  

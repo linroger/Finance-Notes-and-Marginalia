@@ -1,22 +1,46 @@
 ---
-tags:
-  - corporate_bonds
-  - credit_default_swaps
-  - credit_derivatives
-  - credit_risk
-  - floating_rate_bonds
-  - no_arbitrage
 aliases:
-  - CDS
-  - Credit Default Swap
-  - Default Insurance
-  - Protection Contract
+- CDS
+- Credit Default Swap
+- Default Insurance
+- Protection Contract
 key_concepts:
-  - Default insurance arrangement
-  - No-arbitrage principle
-  - Periodic premium payments
-  - Protection buyer seller
-  - Reference issue default risk
+- Default insurance arrangement
+- No-arbitrage principle
+- Periodic premium payments
+- Protection buyer seller
+- Reference issue default risk
+- Credit risk modeling
+- Default probability estimation
+- Fixed income securities
+- Interest rate derivatives
+- Foreign exchange markets
+- Currency derivatives
+- Option sensitivity analysis
+- Delta, gamma, vega, theta, rho
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Futures contracts and forward pricing
+tags:
+- credit
+- greeks
+- arbitrage
+- no_arbitrage
+- cds
+- hedge_funds
+- corporate_bonds
+- structured_finance
+- floating_rate_bonds
+- interest_rates
+- credit_risk
+- fixed_income
+- fx
+- trading
+- bonds
 ---
 
 # 7.1 CREDIT DEFAULT SWAPS  

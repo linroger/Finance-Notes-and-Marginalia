@@ -1,34 +1,38 @@
 ---
-cssclasses:
-  - academia
-title: "Case Study of Bear Stearns"
-linter-yaml-title-alias: "Case Study of Bear Stearns"
-tags:
-  - asset_management
-  - bear_stearns_case_study
-  - cdo_market
-  - financial_crisis
-  - subprime_mortgages
-  - repo_market
-  - 2008_crisis
-  - investment_banking
-  - liquidity_crisis
 aliases:
-  - BS Case Study
-  - Bear Stearns Collapse
-  - "Bear Stearns Case"
+- BS Case Study
+- Bear Stearns Collapse
+- Bear Stearns Case
+cssclasses:
+- academia
 key_concepts:
-  - Bear Stearns leveraged bank
-  - CDO market major player
-  - High-Grade funds collapse
-  - Repo market leverage
-  - Securitization repackaging techniques
-  - Liquidity crisis and bank run
-  - JP Morgan acquisition
-  - Prime brokerage business
-  - Counterparty risk
-  - Fed intervention
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+linter-yaml-title-alias: Case Study of Bear Stearns
+tags:
+- arbitrage
+- arch
+- convexity
+- correlation
+- counterparty-risk
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- fixed_income
+- hedging
+- options
+- repo-markets
+- rho
+- risk-management
+title: Case Study of Bear Stearns
 ---
+
 
 # Case Study of Bear Stearns
 

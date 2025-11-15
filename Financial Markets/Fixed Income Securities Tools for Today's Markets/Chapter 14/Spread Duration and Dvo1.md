@@ -1,20 +1,44 @@
 ---
-tags:
-  - corporate_bonds
-  - credit_portfolios
-  - dvo1
-  - spread_duration
-  - spread_risk
 aliases:
-  - DTS
-  - Duration times spread
+- DTS
+- Duration times spread
 key_concepts:
-  - benchmark curve
-  - bond price sensitivity
-  - hazard rate model
-  - risky Dv01
-  - spread Dv01
-  - spread duration
+- benchmark curve
+- bond price sensitivity
+- hazard rate model
+- risky Dv01
+- spread Dv01
+- spread duration
+- Credit risk modeling
+- Default probability estimation
+- Fixed income securities
+- Interest rate derivatives
+- Foreign exchange markets
+- Currency derivatives
+- Option sensitivity analysis
+- Delta, gamma, vega, theta, rho
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+tags:
+- dvo1
+- credit
+- credit_portfolios
+- greeks
+- cds
+- corporate_bonds
+- interest_rates
+- portfolio-theory
+- fixed_income
+- fx
+- spread_duration
+- trading
+- bonds
+- swaps
+- portfolio
 ---
 
 # 14.10 SPREAD DURATION AND DVO1  

@@ -1,22 +1,44 @@
 ---
-tags:
-  - basis_trades
-  - deliverable_bond
-  - futures_contract
-  - gross_basis
-  - net_basis
 aliases:
-  - Basis Trade
-  - CTD
-  - Package Trade
-  - TYU1
+- Basis Trade
+- CTD
+- Package Trade
+- TYU1
 key_concepts:
-  - Basis Trade Definition
-  - Carry Calculation Example
-  - Conversion Factor Definition
-  - Deliverable Bond Price
-  - Futures Contract Price
-  - Gross and Net Basis
+- Basis Trade Definition
+- Carry Calculation Example
+- Conversion Factor Definition
+- Deliverable Bond Price
+- Futures Contract Price
+- Gross and Net Basis
+- Fixed income securities
+- Interest rate derivatives
+- Foreign exchange markets
+- Currency derivatives
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Derivatives pricing theory
+- Risk-neutral valuation
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Structured products and CDOs
+- Credit derivatives
+tags:
+- fixed_income
+- fx
+- net_basis
+- deliverable_bond
+- volatility
+- bonds
+- futures
+- derivatives
+- options
+- basis_trades
+- structured_finance
+- futures_contract
+- gross_basis
 ---
 
 # 11.9 GROSS AND NET BASIS AND BASIS TRADES  

@@ -1,32 +1,35 @@
 ---
-cssclasses:
-  - academia
-title: "Class Note 6: Restructuring Public Debt Out of Bankruptcy - Exchange Offers"
-tags:
-  - bankruptcy
-  - coercive_exchange
-  - exchange_offers
-  - federal_trust_act
-  - public_debt
-  - junior_securities
-  - senior_securities
-  - holdout_problem
 aliases:
-  - Bankruptcy Exchange
-  - Debt Restructuring
-  - Note 6
-  - Exchange Offers
+- Bankruptcy Exchange
+- Debt Restructuring
+- Note 6
+- Exchange Offers
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batchAA-tnsmoh
 key_concepts:
-  - Bankruptcy exchange offers
-  - Coercive exchange offers
-  - Junior securities failure
-  - Public debt restructuring
-  - Tendering vs holding out
-  - Senior vs junior securities
-  - Trust Indenture Act
-  - Collective action problems
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+tags:
+- arbitrage
+- bonds
+- convexity
+- counterparty-risk
+- credit-risk
+- duration
+- fixed-income
+- fixed_income
+- futures
+- hedging
+- jump-diffusion
+- risk-management
+title: 'Class Note 6: Restructuring Public Debt Out of Bankruptcy - Exchange Offers'
 ---
-
 # Class Note 6: Restructuring Public Debt Out of Bankruptcy - Exchange Offers
 
 **Includes Note 6A: Coercive Exchange Offers and Exit Consents at the End**

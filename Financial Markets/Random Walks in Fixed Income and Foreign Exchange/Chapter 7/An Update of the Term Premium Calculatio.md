@@ -1,19 +1,44 @@
 ---
-tags:
-  - interest_rates
-  - monetary_policy
-  - recession
-  - term_premium
-  - yield_curve
 aliases:
-  - Term Premium Update
-  - Yield Curve Analysis
+- Term Premium Update
+- Yield Curve Analysis
 key_concepts:
-  - Inverted yield curves
-  - Monetary policy impact
-  - Quantitative easing (QE)
-  - Term premium measurement
-  - Yield curve evolution
+- Inverted yield curves
+- Monetary policy impact
+- Quantitative easing (QE)
+- Term premium measurement
+- Yield curve evolution
+- Credit risk modeling
+- Default probability estimation
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Vasicek short-rate model
+- Mean-reverting processes
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Value at risk and stress testing
+tags:
+- model-calibration
+- credit
+- monetary_policy
+- yield_curve
+- vasicek
+- cds
+- structured_finance
+- interest_rates
+- stochastic_calculus
+- trading
+- bonds
+- term_premium
+- futures
+- risk_management
+- options
 ---
 
 # Chapter 7 An Update of the Term Premium Calculation

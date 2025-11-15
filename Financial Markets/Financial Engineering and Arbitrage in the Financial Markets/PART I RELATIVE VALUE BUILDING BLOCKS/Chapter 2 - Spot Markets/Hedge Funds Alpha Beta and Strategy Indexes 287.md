@@ -1,20 +1,14 @@
 ---
 tags:
-  - alpha_beta
-  - hedge_funds
-  - market_neutral
-  - relative_value
-  - strategy_indexes
+- arbitrage
+- replication
+- risk-management
 aliases:
-  - Hedge Fund Strategies
-  - Market-Neutral Plays
-  - Portable Alpha
+- Hedge Fund Strategies
+- Market-Neutral Plays
+- Portable Alpha
 key_concepts:
-  - Hedge fund replication
-  - Hedge fund strategies
-  - Market-neutral plays
-  - Relative asset value funds
-  - Strategy indexes
+- Arbitrage opportunities and no-arbitrage pricing
 ---
 
 # 2 Hedge Funds: Alpha, Beta, and Strategy Indexes 287  

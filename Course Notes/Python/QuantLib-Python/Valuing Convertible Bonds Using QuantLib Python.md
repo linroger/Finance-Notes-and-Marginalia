@@ -1,26 +1,83 @@
 ---
-category: 'Clippings'
-author:
-title: Valuing Convertible Bonds Using QuantLib Python
-source: http://gouthamanbalaraman.com/blog/value-convertible-bond-quantlib-python.html
-clipped: 2024-10-25
-published:
-topics:
-tags:
-  - black_scholes
-  - bond_valuation
-  - convertible_bonds
-  - pricing_engine
-  - quantlib_python
 aliases:
-  - Convertible Bond Valuation
-  - QuantLib Example
+- Convertible Bond Valuation
+- QuantLib Example
+author: null
+category: Clippings
+clipped: 2024-10-25
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-53447a
 key_concepts:
-  - Black-Scholes-Merton process
-  - Call and put schedule
-  - QuantLib Python implementation
-  - Redemption amount scaling
-  - Valuing convertible bonds
+- Carry trades and momentum in FX markets
+- Term structure of interest rates and yield curve shapes
+- Sensitivity analysis in DCF models
+- Risk assessment and management
+- Treasury Bonds
+- Binomial option pricing model for American-style options
+- Common pitfalls in DCF valuation
+- Expectations hypothesis and liquidity preference theory
+- Mathematical derivation of the Black-Scholes partial differential equation
+- Solution
+- Discounted Cash Flow valuation methodology
+- Yield curve fitting and interpolation methods
+- Call and put schedule
+- Redemption amount scaling
+- option pricing models and PDE solutions
+- Mathematical Finance
+- Black-Scholes partial differential equation and its boundary conditions
+- Spot rates vs. forward rates modeling
+- Infrastructure investment and project finance
+- Portfolio optimization and asset allocation
+- Black-Scholes-Merton process
+- convertible bond analysis and conversion value
+- Currency risk management and hedging
+- Forward rates and interest rate parity
+- Case Study
+- Quantitative analysis and modeling
+- Dividend Policy
+- Exchange rate determination and PPP theory
+- Risk-neutral valuation in continuous time models
+- Fixed income analysis and term structure
+- Free cash flow to equity and firm valuation
+- Boundary conditions and parameter interpretation in Black-Scholes model
+- Limitations and extensions of the Black-Scholes framework
+- Derivatives pricing and hedging strategies
+- Terminal value estimation and perpetuity growth
+- Quantitative Implementation
+- Financial markets and instruments
+- Valuing convertible bonds
+- Parallel and non-parallel shifts in the yield curve
+- Black-Scholes-Merton option pricing model and its applications
+- QuantLib Python implementation
+- Currency markets and foreign exchange trading
+- Corporate Bonds
+published: null
+source: http://gouthamanbalaraman.com/blog/value-convertible-bond-quantlib-python.html
+tags:
+- financial-analysis
+- yield-curve
+- dividend-policy
+- mathematical-finance
+- bond-pricing
+- financial-modeling
+- case-study
+- black-scholes-model
+- exchange-rates
+- quantitative-implementation
+- solution
+- treasury-bonds
+- convertible_bonds
+- infrastructure
+- corporate-bonds
+- quantitative-finance
+- pricing_engine
+- dcf-valuation
+- quantlib_python
+- bond_valuation
+- black_scholes
+title: Valuing Convertible Bonds Using QuantLib Python
+topics: null
 ---
 
 # Valuing Convertible Bonds Using QuantLib Python

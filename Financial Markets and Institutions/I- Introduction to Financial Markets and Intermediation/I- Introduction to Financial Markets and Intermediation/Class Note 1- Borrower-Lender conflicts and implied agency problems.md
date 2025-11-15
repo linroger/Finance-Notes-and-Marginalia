@@ -1,35 +1,28 @@
 ---
-cssclasses: academia
-linter-yaml-title-alias: Class Note 1 - Borrower-Lender Conflicts and Implied Agency Problems
-title: Class Note 1 - Borrower-Lender Conflicts and Implied Agency Problems
-tags:
-  - agency_problems
-  - asset_substitution
-  - borrower_lender_conflicts
-  - capital_structure
-  - debt_holders
-  - leverage_effects
-  - capital_budgeting
-  - debt_covenants
-  - financial_incentives
 aliases:
-  - Capital Budgeting
-  - Class Note 1
-  - Debt and Equity
-  - Incentive Conflicts
-  - Borrower-Lender Agency Problems
+- Capital Budgeting
+- Class Note 1
+- Debt and Equity
+- Incentive Conflicts
+- Borrower-Lender Agency Problems
+cssclasses: academia
 key_concepts:
-  - Capital budgeting decisions
-  - Covenant changes and enforcement
-  - Debt holder ownership claims
-  - Equity owner ownership claims
-  - Leverage and incentives
-  - Owner-managed firms
-  - Asset substitution theory
-  - Perverse incentive effects
-  - Debt capacity calculation
-  - Trust Indenture Act
+- Bond pricing and fixed income securities valuation
+- Ito's lemma and stochastic calculus applications
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Interest rate swaps and term structure modeling
+- Interest rate caps, floors, and swaptions
+linter-yaml-title-alias: Class Note 1 - Borrower-Lender Conflicts and Implied Agency
+  Problems
+tags:
+- bonds
+- correlation
+- credit-risk
+- fixed_income
+title: Class Note 1 - Borrower-Lender Conflicts and Implied Agency Problems
 ---
+
 
 # Class Note 1 - Borrower-Lender Conflicts and Implied Agency Problems
 

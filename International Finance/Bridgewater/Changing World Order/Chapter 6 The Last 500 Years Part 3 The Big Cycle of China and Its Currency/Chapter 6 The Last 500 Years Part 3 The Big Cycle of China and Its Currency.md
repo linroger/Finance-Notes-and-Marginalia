@@ -1,3 +1,86 @@
+---
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-24dd2d
+key_concepts:
+- Apt
+- Term structure of interest rates
+- Term structure of interest rates and yield curve shapes
+- Currency markets and foreign exchange trading
+- Option Greeks and portfolio risk management
+- Commodity markets and pricing dynamics
+- Currency derivatives
+- Expectations hypothesis and liquidity preference theory
+- Historical simulation vs. parametric VaR models
+- Default probability estimation
+- Yield curve fitting and interpolation methods
+- Interest rate modeling
+- Vega and volatility risk management
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- Foreign exchange markets
+- Monte Carlo VaR for complex portfolios
+- Shadow Banking
+- Stress testing and scenario analysis
+- Equity valuation and analysis
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Value at Risk (VaR) methodologies and backtesting
+- Theta and time decay modeling
+- Case Study
+- Exchange rate determination and PPP theory
+- Balance Of Payments
+- Interest rate swap pricing and valuation
+- Expected Shortfall and coherent risk measures
+- Variance swaps and volatility trading strategies
+- Bond pricing and yield analysis
+- Gamma and convexity adjustments
+- Delta hedging and the replication argument
+- Parallel and non-parallel shifts in the yield curve
+- Credit risk modeling
+- Cross-currency basis swaps and funding
+- Delta hedging and Greeks
+- Duration and convexity
+- Options pricing and payoff structures
+- Dividend discount models
+tags:
+- yield-curve
+- fx
+- commodities
+- balance-of-payments
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- course-material
+- shadow-banking
+- case-study
+- apt
+- bonds
+- greeks
+- value-at-risk
+- exchange-rates
+- options
+- credit-risk
+- quantitative-implementation
+- duration-convexity
+- solution
+- real-estate
+- treasury-bonds
+- equity
+- interest_rates
+- stress-testing
+- infrastructure
+- bridgewater-perspective
+- exotic-options
+- distressed-debt
+- credit
+- regulatory-framework
+- harvard-business-review
+- municipal-bonds
+---
+
 Chapter 6: The Last 500 Years Part 3: The Big Cycle of China and Its Currency
 
 # **Chapter 6: The Last 500 Years Part 3: The Big Cycle of China and Its Currency**

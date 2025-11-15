@@ -1,38 +1,45 @@
 ---
+aliases:
+- Corporate Liquidity
+- Liquidity Insurance
+- Liquidity Risk Report
+- Moody's Liquidity Assessment
+- Moody's Rating Methodology
 cssclasses:
-  - academia
+- academia
+key_concepts:
+- Delta hedging strategies in options portfolio management
+- 'Short-rate models: Vasicek, CIR, and mean reversion'
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
 linter-yaml-title-alias: Moody's Approach to Assessing the Adequacy of "Liquidity
   Risk Insurance"
-title: Moody's Approach to Assessing the Adequacy of Liquidity Risk Insurance
 tags:
-  - alternate_liquidity
-  - backstop_liquidity
-  - contingency_plans
-  - corporate_issuer
-  - fixed_income_market
-  - issuer_analysis
-  - liquidity_insurance
-  - liquidity_risk
-  - moodys_approach
-  - rating_methodology
-aliases:
-  - Corporate Liquidity
-  - Liquidity Insurance
-  - Liquidity Risk Report
-  - Moody's Liquidity Assessment
-  - Moody's Rating Methodology
-key_concepts:
-  - Alternate liquidity provisions
-  - Backstop liquidity sources
-  - Changing liquidity landscape
-  - Contingent claims and obligations
-  - Fixed income market concerns
-  - Industry-specific liquidity needs
-  - Issuer-by-issuer approach
-  - Liquidity risk insurance assessment
-  - Quantitative and qualitative analysis
-  - Total liquidity risk
+- apt
+- arbitrage
+- cir
+- convexity
+- correlation
+- counterparty-risk
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- fixed_income
+- hedging
+- options
+- risk-management
+- stress-testing
+- var
+title: Moody's Approach to Assessing the Adequacy of Liquidity Risk Insurance
 ---
+
 
 # Moody's Approach to Assessing the Adequacy of Liquidity Risk Insurance
 

@@ -1,3 +1,66 @@
+---
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-f8b7d8
+key_concepts:
+- Apt
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Credit risk modeling and default probability estimation
+- Probability of default estimation from credit spreads
+- Credit spread analysis and OAS methodology
+- Solution
+- After-tax cost of debt and capital structure
+- Credit portfolio diversification and concentration
+- Credit spread decomposition and hazard rates
+- WACC for multinational corporations
+- Structural models of default and Merton formulation
+- CDS clearing and central counterparties
+- CDS-Bond basis and arbitrrage opportunities
+- Mathematical Finance
+- Credit default swap pricing and recovery assumptions
+- 'Structured products: CDOs, CLOs, and credit derivatives'
+- Shadow Banking
+- Synthetic credit derivatives and index trades
+- Net interest margin analysis and banking profitability
+- Cost of equity estimation using CAPM and other models
+- Credit default swap pricing and risk-neutral probabilities
+- letter of credit credit support
+- Weighted Average Cost of Capital calculation
+- Market value weights vs. book value weights
+- Credit exposure measurement and EAD
+- Wrong-way risk in derivative transactions
+- Credit intermediation and information asymmetry
+- asset transformation and structured finance
+- Shadow banking system and regulatory arbitrage
+- Quantitative Implementation
+- Credit risk migration matrices and rating transition
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Counterparty credit exposure measurement
+- Mbs Cmos
+- Loss given default and recovery rates
+- Corporate Bonds
+tags:
+- financial-analysis
+- quantitative-implementation
+- solution
+- credit-default-swaps
+- wacc
+- securitization
+- collateralized-debt-obligations
+- banking
+- mathematical-finance
+- corporate-bonds
+- cost-of-capital
+- shadow-banking
+- financial-modeling
+- mbs-cmos
+- apt
+- quantitative-finance
+- credit-risk
+---
+
 # The Evolution of Banks and Markets and the Role of Financial Innovation  
 
 “Finance is wholly different from the rest of the economy.”  

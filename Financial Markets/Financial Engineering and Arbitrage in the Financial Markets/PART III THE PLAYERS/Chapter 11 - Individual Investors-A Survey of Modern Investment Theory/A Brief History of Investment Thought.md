@@ -1,22 +1,45 @@
 ---
-tags:
-  - capital_asset_pricing
-  - efficient_market
-  - investment_thought
-  - portfolio_theory
-  - value_investing
 aliases:
-  - Graham's Philosophy
-  - Investment History
-  - Markowitz's Theory
+- Graham's Philosophy
+- Investment History
+- Markowitz's Theory
 key_concepts:
-  - Active vs passive style
-  - Efficient market hypothesis
-  - Portfolio theory
-  - Rational investment philosophy
-  - Risk and return
-  - Short-term vs value
-  - Value investing father
+- Active vs passive style
+- Efficient market hypothesis
+- Portfolio theory
+- Rational investment philosophy
+- Risk and return
+- Short-term vs value
+- Value investing father
+- Equity valuation and analysis
+- Dividend discount models
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Value at risk and stress testing
+- Portfolio risk metrics
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Alternative investment strategies
+tags:
+- equity
+- model-calibration
+- regulatory-framework
+- value_investing
+- hedge_funds
+- structured_finance
+- portfolio_theory
+- regulation
+- capital_asset_pricing
+- portfolio-theory
+- valuation
+- trading
+- volatility
+- bonds
+- commodities
 ---
 
 # 11.1 A BRIEF HISTORY OF INVESTMENT THOUGHT  

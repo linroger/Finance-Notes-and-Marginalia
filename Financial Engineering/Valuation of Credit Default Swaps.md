@@ -1,20 +1,66 @@
 ---
-tags:
-  - credit_default_swaps
-  - credit_risk
-  - derivative_contract
-  - market_standard
-  - valuation_model
 aliases:
-  - CDS Valuation
-  - Credit Derivatives
-  - O'Kane & Turnbull
+- CDS Valuation
+- Credit Derivatives
+- O'Kane & Turnbull
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-5978d8
 key_concepts:
-  - Credit default swap
-  - Credit event
-  - Market standard model
-  - Protection buyer/seller
-  - Trading credit risk
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Monte Carlo simulation for derivatives valuation
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- apt
+- arbitrage
+- arch
+- binomial
+- black-scholes
+- bonds
+- cds
+- convexity
+- corporate-bonds
+- correlation
+- credit-default-swaps
+- credit-risk
+- default-probability
+- delta
+- derivatives-pricing
+- duration
+- exotic-options
+- expected-shortfall
+- fixed_income
+- futures
+- gamma
+- garch
+- greeks
+- hedging
+- interest-rate-swaps
+- monte-carlo
+- options
+- recovery-rate
+- reduced-form
+- replication
+- risk-management
+- risk-neutral
+- stress-testing
+- structural-models
+- swaps
+- term-structure
+- var
+- yield-curve
 ---
 
 # Valuation of Credit Default Swaps

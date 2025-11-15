@@ -1,32 +1,110 @@
 ---
-title: Week 1 Market Efficiency
-cssclasses:
-  - academia
-tags:
-  - arbitrage
-  - behavioral_biases
-  - fundamental_analysis
-  - market_efficiency
-  - stock_prices
-  - financial_theory
-  - efficient_markets
 aliases:
-  - Efficient Markets
-  - Market Anomalies
-  - Market Efficiency
+- Efficient Markets
+- Market Anomalies
+- Market Efficiency
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-2e127d
 key_concepts:
-  - Arbitrage limitations and constraints in real markets
-  - Behavioral biases affecting financial decision making
-  - Capital markets as a fair game under efficiency conditions
-  - Cost of information acquisition and paradox of efficient markets
-  - Evidence supporting and contradicting market efficiency
-  - Information processing speed and market reaction to news
-  - Market anomalies and their persistence over time
-  - Market efficiency definition and relationship to fundamental analysis
-  - Passive vs active investment strategies implications
-  - Quantitative and machine learning approaches to investment
-  - Random walk hypothesis and unpredictability of price movements
-  - Stock prices rapidly adjusting to incorporate new information
+- Apt
+- Passive vs active investment strategies implications
+- Extensions to multi-factor CAPM models
+- Stock prices rapidly adjusting to incorporate new information
+- Duration and convexity analysis for bond portfolio management
+- Active portfolio management and performance attribution
+- Brownian motion and Wiener processes in finance
+- Single-name vs. index CDS trading
+- Behavioral biases affecting financial decision making
+- Option Greeks and portfolio risk management
+- Capital Asset Pricing Model and beta estimation
+- Random walk hypothesis and unpredictability of price movements
+- Risk budgeting and portfolio construction techniques
+- Capital Asset Pricing Model and expected returns
+- Historical simulation vs. parametric VaR models
+- Credit spread decomposition and hazard rates
+- Vega and volatility risk management
+- CDS clearing and central counterparties
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- Cost of information acquisition and paradox of efficient markets
+- GARCH models and volatility forecasting
+- Market anomalies and their persistence over time
+- Shadow Banking
+- Market efficiency definition and relationship to fundamental analysis
+- Fixed-for-floating swap cash flows and valuation
+- Arbitrage Pricing Theory and multifactor models
+- Capital markets as a fair game under efficiency conditions
+- Course Material
+- Security Market Line and beta measurement
+- Value at Risk (VaR) methodologies and backtesting
+- Theta and time decay modeling
+- International arbitrage and covered interest rate parity
+- Quantitative and machine learning approaches to investment
+- Case Study
+- Information processing speed and market reaction to news
+- Arbitrage opportunities and risk-free profit extraction
+- Interest rate swap pricing and valuation
+- excess returns and manager skill
+- Credit default swap pricing and risk-neutral probabilities
+- ESG integration in portfolio management
+- Variance swaps and volatility trading strategies
+- Delta hedging strategies in options portfolio management
+- Shadow banking system and regulatory arbitrage
+- Gamma and convexity adjustments
+- Capital Structure
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Delta hedging and the replication argument
+- Arbitrage limitations and constraints in real markets
+- Evidence supporting and contradicting market efficiency
+- Cross-currency basis swaps and funding
+- publicly available information in CDS
+- Currency hedging strategies for global portfolios
+- Market portfolio and risk-free rate assumptions
+- alternative investment strategies
+- Empirical tests and anomalies in CAPM
+tags:
+- credit-default-swaps
+- market-efficiency
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- behavioral_biases
+- course-material
+- capital-structure
+- capm
+- shadow-banking
+- roic
+- big-data
+- brownian-motion
+- case-study
+- apt
+- greeks
+- stock_prices
+- efficient_markets
+- financial_theory
+- quantitative-strategies
+- value-at-risk
+- factor-models
+- market_efficiency
+- hedge-funds
+- credit-risk
+- efficient-market
+- momentum-strategies
+- duration-convexity
+- quantitative-implementation
+- solution
+- wacc
+- machine-learning
+- arbitrage
+- cost-of-capital
+- exotic-options
+- fundamental_analysis
+title: Week 1 Market Efficiency
 ---
 
 # Week 1 Market Efficiency

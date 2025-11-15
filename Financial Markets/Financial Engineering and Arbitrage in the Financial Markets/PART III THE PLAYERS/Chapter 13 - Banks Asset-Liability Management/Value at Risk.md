@@ -1,19 +1,44 @@
 ---
-tags:
-  - market_risk
-  - risk_management
-  - value_at_risk
-  - var_calculation
-  - yield_curve
 aliases:
-  - Market VaR
-  - VaR
+- Market VaR
+- VaR
 key_concepts:
-  - Confidence level and horizon
-  - Factor change data
-  - Historical bootstrap method
-  - Portfolio sensitivity to factors
-  - 'VaR: critical value'
+- Confidence level and horizon
+- Factor change data
+- Historical bootstrap method
+- Portfolio sensitivity to factors
+- 'VaR: critical value'
+- Equity valuation and analysis
+- Dividend discount models
+- Option sensitivity analysis
+- Delta, gamma, vega, theta, rho
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Foreign exchange markets
+- Currency derivatives
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Derivatives pricing theory
+- Risk-neutral valuation
+- Credit risk modeling
+- Default probability estimation
+- Alternative investment strategies
+tags:
+- equity
+- credit
+- greeks
+- yield_curve
+- cds
+- hedge_funds
+- value_at_risk
+- structured_finance
+- interest_rates
+- var_calculation
+- market_risk
+- portfolio-theory
+- valuation
+- fx
+- trading
 ---
 
 # 13.4 VALUE AT RISK  

@@ -1,11 +1,115 @@
 ---
-title: "Week 7- Kohler Case Assignment Review"
-linter-yaml-title-alias: "Week 7- Kohler Case Assignment Review"
-aliases: [Kohler Valuation Case, Kohler Recapitalization Analysis, Private Company Fair Value Case]
-date created: Tuesday, November 26th 2024, 6:12:44 pm
+aliases:
+- Kohler Valuation Case
+- Kohler Recapitalization Analysis
+- Private Company Fair Value Case
 cssclasses: academia
-tags: [private-company-valuation, dissenting-shareholders, fair-value-standard, kohler-case, recapitalization, dcf-valuation, multiples-analysis, majority-shareholder-squeeze-out, dual-class-shares, illiquidity-discount, control-premium, wisconsin-law, minority-oppression]
-key_concepts: [kohler-recapitalization, going-concern-value, fair-value-determination, dissenter-rights, dual-class-structure, illiquidity-discount, control-premium, minority-squeeze-out, wisconsin-statute, entire-fairness-standard, dcf-methodology, comparable-company-analysis, wacc-calculation, terminal-value, equity-value-per-share]
+date created: Tuesday, November 26th 2024, 6:12:44 pm
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-0d72d5
+key_concepts:
+- Liquidity coverage ratio and net stable funding ratio
+- Regulatory changes and market structure evolution
+- Extensions to multi-factor CAPM models
+- going-concern-value
+- Stress testing and supervisory review processes
+- Market risk measurement and portfolio volatility
+- Debt capacity analysis in LBO transactions
+- Option Greeks and portfolio risk management
+- Capital Asset Pricing Model and expected returns
+- Solution
+- control-premium
+- terminal-value
+- Vega and volatility risk management
+- Leverage ratio and large exposures
+- 'Hedge fund strategies: long-short, market neutral, event-driven'
+- Mathematical Finance
+- dual-class-structure
+- dcf-methodology
+- wacc-calculation
+- Leveraged buyout financial modeling and returns
+- Capital structure theory and optimal debt levels
+- kohler-recapitalization
+- dissenter-rights
+- cost of capital estimation
+- Deposit insurance and systemic risk prevention
+- GARCH models and volatility forecasting
+- Exit strategies and return maximization
+- Capital account liberalization and financial development
+- minority-squeeze-out
+- Risk-weighted assets and capital adequacy ratios
+- Course Material
+- Security Market Line and beta measurement
+- LBO financing sources and covenant structures
+- entire-fairness-standard
+- Basel III capital and liquidity standards development
+- Margin lending and leverage in alternative investments
+- Theta and time decay modeling
+- Balance Of Payments
+- fundamental valuation methods
+- fair-value-determination
+- Basel III regulatory framework and capital requirements
+- present value and discounting methods
+- Comparable Analysis
+- fair value measurement and hierarchy
+- systematic risk and market exposure
+- Quantitative Implementation
+- Gamma and convexity adjustments
+- Capital Structure
+- Hedge fund strategies and alternative investments
+- wisconsin-statute
+- illiquidity-discount
+- Delta hedging and the replication argument
+- Leveraged Buyout financial structures and returns
+- equity-value-per-share
+- Commercial bank business model and revenue streams
+- Market portfolio and risk-free rate assumptions
+- Equity returns and value creation mechanisms
+- comparable-company-analysis
+- Empirical tests and anomalies in CAPM
+linter-yaml-title-alias: Week 7- Kohler Case Assignment Review
+tags:
+- basel-iii
+- bank-regulation
+- capm
+- control-premium
+- comparable-analysis
+- fair-value-standard
+- solution
+- private-equity
+- wacc
+- depreciation
+- cost-of-capital
+- deposit-insurance
+- illiquidity-discount
+- enterprise-value
+- balance-of-payments
+- garch-models
+- mathematical-finance
+- course-material
+- capital-structure
+- market-risk
+- greeks
+- multiples-analysis
+- hedge-funds
+- ebitda
+- leveraged-buyouts
+- quantitative-implementation
+- wisconsin-law
+- recapitalization
+- kohler-case
+- dissenting-shareholders
+- systemic-risk
+- majority-shareholder-squeeze-out
+- dual-class-shares
+- ev
+- exotic-options
+- private-company-valuation
+- dcf-valuation
+- comps
+- harvard-business-review
+title: Week 7- Kohler Case Assignment Review
 ---
 
 # Week 7- Kohler Case Assignment Review

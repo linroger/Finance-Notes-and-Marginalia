@@ -1,24 +1,37 @@
 ---
-title: Fear of Fire Sales Illiquidity Seeking and Credit Freezes
-tags:
-  - banking_system
-  - credit_freeze
-  - financial_crisis
-  - fire_sales
-  - illiquidity
 aliases:
-  - Diamond and Rajan
-  - Financial Institutions
-  - Fire Sale Paper
-  - Liquidity Shock
+- Diamond and Rajan
+- Financial Institutions
+- Fire Sale Paper
+- Liquidity Shock
 key_concepts:
-  - Banking system cleanup
-  - Financial crisis consequences
-  - Fire sales and illiquidity
-  - Illiquid asset sales
-  - Lending reduction impact
-  - Liquidity shock fears
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Ito's lemma and stochastic calculus applications
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- abs
+- arbitrage
+- convexity
+- correlation
+- counterparty-risk
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- fixed_income
+- hedging
+- options
+- risk-management
+- var
+title: Fear of Fire Sales Illiquidity Seeking and Credit Freezes
 ---
+
 
 # Fear of Fire Sales Illiquidity Seeking and Credit Freezes
 

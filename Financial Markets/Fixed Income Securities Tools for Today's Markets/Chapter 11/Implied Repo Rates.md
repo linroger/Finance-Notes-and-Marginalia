@@ -1,19 +1,29 @@
 ---
-tags:
-  - ctd_bond
-  - futures_contract
-  - implied_repo_rate
-  - relative_pricing
-  - repo_rate
 aliases:
-  - Implied Repo
-  - Repo Rates
+- Implied Repo
+- Repo Rates
 key_concepts:
-  - Bond spot and forward prices
-  - CTD bond futures contract
-  - Implied repo rate calculation
-  - Relative value measure
-  - Repo rate and forward price
+- Bond spot and forward prices
+- CTD bond futures contract
+- Implied repo rate calculation
+- Relative value measure
+- Repo rate and forward price
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Bond pricing and yield analysis
+- Duration and convexity
+tags:
+- ctd_bond
+- bonds
+- implied_repo_rate
+- repo_rate
+- futures
+- options
+- futures_contract
+- mathematical-finance
+- relative_pricing
 ---
 
 # 11.10 IMPLIED REPO RATES  

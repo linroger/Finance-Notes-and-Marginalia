@@ -1,20 +1,47 @@
 ---
-tags:
-  - call_option
-  - delta_hedging
-  - option_pricing
-  - static_hedging
-  - volatility
 aliases:
-  - Option Hedging
-  - Static Hedge
-  - Uncertain Volatility
+- Option Hedging
+- Static Hedge
+- Uncertain Volatility
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-49aaa5
 key_concepts:
-  - Black-Scholes equation
-  - Delta hedging
-  - Digital option payoff
-  - Static hedging
-  - Volatility range
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Monte Carlo simulation for derivatives valuation
+- Partial differential equations in financial modeling
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- black-scholes
+- calls
+- capm
+- convexity
+- correlation
+- credit-risk
+- delta
+- delta-hedging
+- derivatives-pricing
+- duration
+- fixed_income
+- gamma
+- greeks
+- hedging
+- options
+- pde
+- replication
+- risk-management
+- risk-neutral
+- theta
+- var
+- vega
 ---
 
 # Uncertain Volatility with Static Hedge

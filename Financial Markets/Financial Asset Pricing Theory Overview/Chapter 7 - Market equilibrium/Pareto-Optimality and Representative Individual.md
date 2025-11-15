@@ -1,20 +1,16 @@
 ---
 tags:
-  - consumption_allocation
-  - pareto_optimality
-  - risk_sharing
-  - utility_function
-  - welfare_theorem
+- delta
+- derivatives-pricing
+- risk-management
+- var
 aliases:
-  - Central Planner
-  - Pareto optimal
-  - Second Welfare Theorem
+- Central Planner
+- Pareto optimal
+- Second Welfare Theorem
 key_concepts:
-  - Central planner's problem
-  - Feasible consumption plan
-  - Marginal rates of substitution
-  - Pareto-optimal consumption allocation
-  - Time-additive expected utility
+- Value at Risk and tail risk measurement
+- Options Greeks and sensitivity analysis
 ---
 
 # 7.2 Pareto-optimality and representative individuals  

@@ -1,29 +1,56 @@
 ---
-cssclasses:
-  - academia
-linter-yaml-title-alias: Commodity Options
-title: Commodity Options
-tags:
-  - call_option
-  - commodity_options
-  - commodity_price_hedging
-  - jet_fuel
-  - options_strategy
-  - zero_cost_collar
-  - hedging_strategies
 aliases:
-  - Commodity Options
-  - Options Hedging
-  - Fuel Price Hedging
+- Commodity Options
+- Options Hedging
+- Fuel Price Hedging
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-757b2e
 key_concepts:
-  - Call option parameters
-  - Commodity price hedging
-  - Zero-cost collar strategies
-  - Evaluating option performance
-  - Jet fuel price hedging
-  - Optimal number of options calculation
-  - Pass-through pricing effects
-  - Implicit short position management
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Monte Carlo simulation for derivatives valuation
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Volatility smile, skew, and surface modeling
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+linter-yaml-title-alias: Commodity Options
+tags:
+- arch
+- binomial
+- bonds
+- cds
+- commodities
+- convexity
+- credit-default-swaps
+- credit-risk
+- delta
+- derivatives-pricing
+- fixed_income
+- futures
+- gamma
+- garch
+- greeks
+- hedging
+- implied-volatility
+- interest-rate-swaps
+- monte-carlo
+- options
+- replication
+- risk-management
+- risk-neutral
+- swaps
+- theta
+- var
+- vega
+title: Commodity Options
 ---
 
 # Commodity Options

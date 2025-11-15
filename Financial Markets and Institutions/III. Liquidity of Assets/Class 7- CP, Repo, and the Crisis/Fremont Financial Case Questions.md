@@ -1,23 +1,21 @@
 ---
-cssclasses:
-  - academia
-title: Fremont Financial Case Questions
-tags:
-  - banking_industry
-  - case_study
-  - financial_crisis
-  - fremont_financial
-  - mortgage_loans
 aliases:
-  - FFC Questions
-  - Fremont Case
-  - Fremont Financial
+- FFC Questions
+- Fremont Case
+- Fremont Financial
+cssclasses:
+- academia
 key_concepts:
-  - Bank regulatory issues
-  - Financial crisis impact
-  - Fremont Financial history
-  - Risk management failures
-  - Subprime mortgage lending
+- Term structure of interest rates and yield curve modeling
+- Credit risk modeling and default probability estimation
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+tags:
+- arbitrage
+- hedging
+- risk-management
+title: Fremont Financial Case Questions
 ---
+
 
 # Fremont Financial Case Questions

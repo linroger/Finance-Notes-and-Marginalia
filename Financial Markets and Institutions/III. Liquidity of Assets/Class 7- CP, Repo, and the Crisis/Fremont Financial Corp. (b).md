@@ -1,24 +1,22 @@
 ---
+aliases:
+- FFC
+- Fremont Corp
+- Fremont Financial
 cssclasses:
-  - academia
-title: Fremont Financial Corp. (b)
+- academia
+key_concepts:
+- Term structure of interest rates and yield curve modeling
+- Credit risk modeling and default probability estimation
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
 linter-yaml-title-alias: Fremont Financial Corp
 tags:
-  - bank_failure
-  - corporate_debt
-  - financial_crisis
-  - mortgage_loans
-  - subprime_mortgages
-aliases:
-  - FFC
-  - Fremont Corp
-  - Fremont Financial
-key_concepts:
-  - Bank failures analysis
-  - Corporate debt exposure
-  - Financial crisis impact
-  - Mortgage-backed securities
-  - Subprime lending practices
+- arbitrage
+- hedging
+- risk-management
+title: Fremont Financial Corp. (b)
 ---
+
 
 # Fremont Financial Corp. (b)

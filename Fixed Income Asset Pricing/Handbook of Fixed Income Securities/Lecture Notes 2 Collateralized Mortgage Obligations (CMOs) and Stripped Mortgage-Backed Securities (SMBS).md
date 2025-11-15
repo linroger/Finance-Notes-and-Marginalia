@@ -1,25 +1,129 @@
 ---
+aliases:
+- CMOs
+- Collateralized Mortgage Obligations
+- SMBS
+- Stripped MBS
+cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-e25e4b
+key_concepts:
+- Liquidity coverage ratio and net stable funding ratio
+- Cox-Ross-Rubinstein parameter specification
+- Term structure of interest rates and yield curve shapes
+- Working Capital
+- Computational implementation of binomial option pricing
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- 'CMOs: structured securities'
+- Expectations hypothesis and liquidity preference theory
+- 'Support bonds: variable cash flows'
+- Futures contracts and forward pricing
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- CDS clearing and central counterparties
+- CDS-Bond basis and arbitrrage opportunities
+- 'SMBS: interest/principal split'
+- Spot rates vs. forward rates modeling
+- Swap spread and credit risk considerations
+- Option sensitivity analysis
+- GARCH models and volatility forecasting
+- Mathematical Finance
+- Liquidity and price discovery
+- 'PAC: stable cash flows'
+- Equity valuation and analysis
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Risk-weighted assets and capital adequacy ratios
+- Counterparty risk and settlement
+- Dividend Policy
+- 'POs: principal only'
+- Interest rate swap pricing and valuation
+- Margin requirements and clearing
+- Delta, gamma, vega, theta, rho
+- Credit default swap pricing and risk-neutral probabilities
+- Market microstructure and trading
+- Basel III regulatory framework and capital requirements
+- Variance swaps and volatility trading strategies
+- Pairs trading and statistical arbitrage strategies
+- Convergence of binomial model to Black-Scholes solution
+- Interest rate derivatives
+- Fixed income securities
+- Bond pricing and yield analysis
+- Binomial option pricing model with multiple time steps
+- American option pricing in binomial trees
+- 'IOs: interest only'
+- Credit default swaps and credit risk
+- Parallel and non-parallel shifts in the yield curve
+- Cross-currency basis swaps and funding
+- Duration and convexity
+- Dividend discount models
+tags:
+- yield-curve
+- binomial-model
+- working-capital
+- credit-default-swaps
+- dividend-policy
+- collateralized-debt-obligations
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- trading
+- course-material
+- bank-regulation
+- pairs-trading
+- capital-structure
+- market-risk
+- case-study
+- apt
+- bonds
+- greeks
+- covenant-lite
+- smbs
+- black-scholes-model
+- high-yield-bonds
+- credit-analysis
+- value-at-risk
+- factor-models
+- fixed_income
+- exchange-rates
+- valuation
+- hedge-funds
+- libor-market-model
+- credit-risk
+- leveraged-buyouts
+- quantitative-implementation
+- duration-convexity
+- solution
+- private-equity
+- real-estate
+- treasury-bonds
+- wacc
+- structured_finance
+- equity
+- interest_rates
+- prepayment_risk
+- stress-testing
+- infrastructure
+- liquidity-risk
+- corporate-bonds
+- mortgage_backed_securities
+- distressed-debt
+- mbs-cmos
+- portfolio-theory
+- implied-volatility
+- cmo
+- swaptions
+- vasicek-model
+- volatility
+- dcf-valuation
+- municipal-bonds
+- mean-reversion
+- cds
+- monte-carlo
 title: Lecture Notes 2 Collateralized Mortgage Obligations (CMOs) and Stripped Mortgage-Backed
   Securities (SMBS)
-cssclasses: academia
-tags:
-  - cmo
-  - mortgage_backed_securities
-  - prepayment_risk
-  - smbs
-  - structured_securities
-aliases:
-  - CMOs
-  - Collateralized Mortgage Obligations
-  - SMBS
-  - Stripped MBS
-key_concepts:
-  - 'CMOs: structured securities'
-  - 'IOs: interest only'
-  - 'PAC: stable cash flows'
-  - 'POs: principal only'
-  - 'SMBS: interest/principal split'
-  - 'Support bonds: variable cash flows'
 ---
 
 # Lecture Notes 2 Collateralized Mortgage Obligations (CMOs) and Stripped Mortgage-Backed Securities (SMBS)

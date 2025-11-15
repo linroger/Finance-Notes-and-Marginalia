@@ -1,20 +1,20 @@
 ---
 tags:
-  - asset_pricing
-  - brownian_motion
-  - continuous_time
-  - random_walk
-  - stochastic_process
+- arch
+- delta
+- derivatives-pricing
+- filtration
+- martingale
+- risk-management
+- var
 aliases:
-  - Bachelier model
-  - Brownian motion
-  - Wiener process
+- Bachelier model
+- Brownian motion
+- Wiener process
 key_concepts:
-  - Brownian motion definition
-  - Independent increments
-  - Markov process
-  - Martingale property
-  - Option pricing formula
+- Value at Risk and tail risk measurement
+- Volatility modeling and forecasting techniques
+- Options Greeks and sensitivity analysis
 ---
 
 # 2.6 Continuous-time stochastic processes  

@@ -1,21 +1,26 @@
 ---
 tags:
-  - asset_pricing
-  - consumption_dynamics
-  - epstein_zin_utility
-  - long_run_risks
-  - market_portfolio
+- abs
+- apt
+- closed-form
+- correlation
+- credit-risk
+- delta
+- derivatives-pricing
+- fixed_income
+- rho
+- risk-management
+- theta
+- var
 aliases:
-  - Bansal Yaron
-  - Consumption Growth
-  - Long-Run Risk
+- Bansal Yaron
+- Consumption Growth
+- Long-Run Risk
 key_concepts:
-  - Consumption and return data
-  - Consumption dynamics model
-  - Epstein-Zin utility
-  - Long-run risk component
-  - Market portfolio dividends
-  - Time-varying economic uncertainty
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Options Greeks and sensitivity analysis
 ---
 
 # 8.8 Long-run risks and Epstein-Zin utility  

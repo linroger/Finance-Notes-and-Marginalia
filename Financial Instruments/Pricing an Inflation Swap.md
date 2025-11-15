@@ -1,28 +1,54 @@
 ---
-tags:
-  - cpi
-  - derivative_pricing
-  - fixed_income
-  - inflation_swap
-  - risk_management
-  - inflation_expectations
-  - swap_valuation
 aliases:
-  - CPI
-  - Consumer Price Index
-  - IS
-  - Inflation Swap
-  - Inflation-linked derivatives
-key_concepts:
-  - CPI index
-  - Fixed side payment
-  - Floating side payout
-  - Inflation swap contract
-  - Swap valuation
-  - Present value calculation
-  - Discount factors
-  - Inflation rate calculation
+- CPI
+- Consumer Price Index
+- IS
+- Inflation Swap
+- Inflation-linked derivatives
 cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-0c3e06
+key_concepts:
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Partial differential equations in financial modeling
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- apt
+- black-scholes
+- bonds
+- capm
+- cds
+- convexity
+- corporate-bonds
+- correlation
+- credit-default-swaps
+- credit-risk
+- delta
+- derivatives-pricing
+- fixed_income
+- gamma
+- greeks
+- hedging
+- pde
+- replication
+- rho
+- risk-management
+- risk-neutral
+- swaps
+- swaptions
+- theta
+- vega
 ---
 
 # Pricing an Inflation Swap

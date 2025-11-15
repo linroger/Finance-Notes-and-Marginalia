@@ -1,19 +1,43 @@
 ---
-tags:
-  - financial_trading
-  - fraud_detection
-  - investor_behavior
-  - market_dysfunction
-  - securities_fraud
 aliases:
-  - Dark Side of Finance
-  - Trading Failures
+- Dark Side of Finance
+- Trading Failures
 key_concepts:
-  - Dysfunctional markets
-  - Financial fraud impact
-  - Fraud detection rates
-  - Investor capital allocation
-  - Securities fraud costs
+- Dysfunctional markets
+- Financial fraud impact
+- Fraud detection rates
+- Investor capital allocation
+- Securities fraud costs
+- Fixed income securities
+- Interest rate derivatives
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Value at risk and stress testing
+- Portfolio risk metrics
+tags:
+- financial_trading
+- regulatory-framework
+- stochastic_calculus
+- fraud_detection
+- securities_fraud
+- fixed_income
+- fx
+- trading
+- bonds
+- swaps
+- cds
+- risk_management
+- stochastic-calculus
+- market_dysfunction
+- investor_behavior
 ---
 
 # Trading Gone Awry  

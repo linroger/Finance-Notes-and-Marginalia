@@ -1,26 +1,60 @@
 ---
-cssclasses:
-  - academia
-linter-yaml-title-alias: Arbitrage Opportunity Accounting
-title: Arbitrage Opportunity Accounting
-tags:
-  - arbitrage_opportunity
-  - bond_valuation
-  - currency_swaps
-  - exchange_rate_risk
-  - government_bonds
-  - hedging_strategies
 aliases:
-  - Currency Swap Accounting
-  - FX Risk Management
-  - Foreign Currency Bonds
+- Currency Swap Accounting
+- FX Risk Management
+- Foreign Currency Bonds
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-9c993f
 key_concepts:
-  - Bond valuation in foreign currencies
-  - Currency swap contracts
-  - Exchange rate risk hedging
-  - Foreign currency bonds issuance
-  - Spot exchange rate mechanics
-  - Swap rate determination
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Monte Carlo simulation for derivatives valuation
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Volatility smile, skew, and surface modeling
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+linter-yaml-title-alias: Arbitrage Opportunity Accounting
+tags:
+- apt
+- arbitrage
+- binomial
+- bonds
+- cds
+- commodities
+- convexity
+- credit-default-swaps
+- credit-risk
+- currency-swaps
+- delta
+- derivatives-pricing
+- factor-models
+- fixed_income
+- futures
+- fx
+- gamma
+- greeks
+- hedging
+- implied-volatility
+- interest-rate-swaps
+- monte-carlo
+- options
+- replication
+- risk-management
+- risk-neutral
+- swaps
+- theta
+- var
+- vega
+title: Arbitrage Opportunity Accounting
 ---
 
 # Arbitrage Opportunity Accounting

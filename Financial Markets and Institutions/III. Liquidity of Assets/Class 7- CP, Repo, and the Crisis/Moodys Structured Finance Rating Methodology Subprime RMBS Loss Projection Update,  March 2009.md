@@ -1,23 +1,43 @@
 ---
+aliases:
+- Loss Projection Update
+- Moody's Report
+- Subprime RMBS
+key_concepts:
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Ito's lemma and stochastic calculus applications
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- abs
+- arbitrage
+- arch
+- bonds
+- cds
+- convexity
+- correlation
+- credit-risk
+- default-probability
+- delta
+- derivatives-pricing
+- duration
+- fixed_income
+- hedging
+- mbs
+- options
+- recovery-rate
+- risk-management
+- var
 title: Moodys Structured Finance Rating Methodology Subprime RMBS Loss Projection
   Update,  March 2009
-tags:
-  - 2007_financial_crisis
-  - loss_projections
-  - mortgage_performance
-  - rmbs
-  - subprime_mortgages
-aliases:
-  - Loss Projection Update
-  - Moody's Report
-  - Subprime RMBS
-key_concepts:
-  - Delinquency projection methodology
-  - Homeowner Affordability Plan
-  - Recent vintage subprime pools
-  - Subprime RMBS loss projections
-  - Updated loss projection results
 ---
+
 
 # Moodys Structured Finance Rating Methodology Subprime RMBS Loss Projection Update,  March 2009
 

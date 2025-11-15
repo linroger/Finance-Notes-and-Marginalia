@@ -1,19 +1,37 @@
 ---
-tags:
-  - corporate_bonds
-  - credit_losses
-  - credit_risk
-  - credit_spread
-  - risk_premium
 aliases:
-  - Credit Risk
-  - Credit Spread Premium
+- Credit Risk
+- Credit Spread Premium
 key_concepts:
-  - Baa-rated bond
-  - Corporate bond spreads
-  - Credit losses compensation
-  - Credit risk premium
-  - Risk-averse investors
+- Baa-rated bond
+- Corporate bond spreads
+- Credit losses compensation
+- Credit risk premium
+- Risk-averse investors
+- Credit risk modeling
+- Default probability estimation
+- Fixed income securities
+- Interest rate derivatives
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+tags:
+- credit
+- fixed_income
+- credit_risk
+- fx
+- trading
+- risk_premium
+- credit_losses
+- bonds
+- cds
+- corporate_bonds
+- credit_spread
 ---
 
 # 14.4 CREDIT RISK PREMIUM  

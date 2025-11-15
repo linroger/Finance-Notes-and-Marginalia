@@ -1,24 +1,103 @@
 ---
-title: Introduction to QuantLib Python
-source: https://gouthamanbalaraman.com/blog/quantlib-basics.html
-description: This post will walk through some of the basics of QuantLib Python library.
-tags:
-  - date_object
-  - interest_rate
-  - quantlib_python
-  - schedule_object
-  - time_module
 aliases:
-  - QL
-  - QuantLib
-  - QuantLib Python
+- QL
+- QuantLib
+- QuantLib Python
+description: This post will walk through some of the basics of QuantLib Python library.
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-c974d0
 key_concepts:
-  - Compound factor method
-  - Date object construction
-  - Discount factor calculation
-  - InterestRate class usage
-  - QuantLib Python library
-  - Schedule object dates
+- Carry trades and momentum in FX markets
+- Sovereign risk assessment and country analysis
+- Mean-variance optimization and the efficient frontier
+- Date object construction
+- Extreme value theory and tail risk modeling
+- Single-name vs. index CDS trading
+- Credit risk modeling and default probability estimation
+- Risk budgeting and portfolio construction techniques
+- Historical simulation vs. parametric VaR models
+- Credit portfolio diversification and concentration
+- Credit spread decomposition and hazard rates
+- CDS clearing and central counterparties
+- DV01 calculation and interest rate risk hedging
+- Portfolio immunization strategies
+- CDS-Bond basis and arbitrrage opportunities
+- Schedule object dates
+- Mathematical Finance
+- Monte Carlo integration and variance reduction
+- GARCH models and volatility forecasting
+- Deposit insurance and systemic risk prevention
+- Monte Carlo VaR for complex portfolios
+- InterestRate class usage
+- Stress testing and scenario analysis
+- Key rate duration and curve risk
+- day count convention in CDS
+- Course Material
+- Currency risk management and hedging
+- QuantLib Python library
+- Control variates and importance sampling techniques
+- Value at Risk (VaR) methodologies and backtesting
+- Risk-neutral pricing methodology for derivative securities
+- Forward rates and interest rate parity
+- Case Study
+- Operational risk quantification and modeling
+- Exchange rate determination and PPP theory
+- Arbitrage opportunities and risk-free profit extraction
+- Expected Shortfall and coherent risk measures
+- Credit default swap pricing and risk-neutral probabilities
+- present value and discounting methods
+- Bank liquidity ratios and funding risk management
+- Compound factor method
+- Discount factor calculation
+- Credit exposure measurement and EAD
+- Wrong-way risk in derivative transactions
+- Value-at-Risk calculation using historical simulation
+- Quantitative Implementation
+- Credit risk migration matrices and rating transition
+- Credit risk modeling and portfolio correlation analysis
+- Backtesting procedures for risk models
+- Credit risk assessment and loan portfolio management
+- Liquidity risk measurement and management
+- Duration and convexity measures for bond portfolios
+- Systemic risk indicators and early warning systems
+- Global financial stability and systemic risk monitoring
+- Price sensitivity to interest rate changes
+- Loss given default and recovery rates
+- Modified duration vs. Macaulay duration
+- Currency markets and foreign exchange trading
+source: https://gouthamanbalaraman.com/blog/quantlib-basics.html
+tags:
+- financial-analysis
+- schedule_object
+- credit-default-swaps
+- garch-models
+- mathematical-finance
+- course-material
+- financial-modeling
+- case-study
+- value-at-risk
+- exchange-rates
+- time_module
+- credit-risk
+- quantitative-implementation
+- duration-convexity
+- solution
+- date_object
+- stress-testing
+- liquidity-risk
+- systemic-risk
+- exotic-options
+- net-present-value
+- deposit-insurance
+- quantitative-finance
+- dcf-valuation
+- quantlib_python
+- expected-shortfall
+- operational-risk
+- monte-carlo
+- interest_rate
+title: Introduction to QuantLib Python
 ---
 
 # Introduction to QuantLib Python

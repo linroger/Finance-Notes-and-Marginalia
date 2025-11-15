@@ -1,3 +1,40 @@
+---
+key_concepts:
+- forward commitments and hedging
+- present value and discounting methods
+- delivery date in CDS settlement
+- Credit spread analysis and OAS methodology
+- Credit default swap pricing and recovery assumptions
+- Probability of default estimation from credit spreads
+- Structural models of default and Merton formulation
+- Credit risk modeling and portfolio correlation analysis
+- Synthetic credit derivatives and index trades
+- Credit risk migration matrices and rating transition
+- Counterparty credit exposure measurement
+- Credit risk assessment and loan portfolio management
+- Credit intermediation and information asymmetry
+- 'Structured products: CDOs, CLOs, and credit derivatives'
+- Financial markets and instruments
+- forward commitments and hedging
+- present value and discounting methods
+- delivery date in CDS settlement
+- Credit spread analysis and OAS methodology
+- Credit default swap pricing and recovery assumptions
+- Probability of default estimation from credit spreads
+- Structural models of default and Merton formulation
+- Credit risk modeling and portfolio correlation analysis
+- Synthetic credit derivatives and index trades
+- Credit risk migration matrices and rating transition
+- Counterparty credit exposure measurement
+- Credit risk assessment and loan portfolio management
+- Credit intermediation and information asymmetry
+- 'Structured products: CDOs, CLOs, and credit derivatives'
+tags:
+- financial-analysis
+- financial-modeling
+- quantitative-finance
+---
+
 \begin{aligned} &F_0 = S_0 \times e^{rT} \\ \end{aligned}
 \begin{aligned} &F = S \times e ^ { (r \times t) } \\ &\textbf{where:} \\ &F = \text{the contract's forward price} \\ &S = \text{the underlying asset's current spot price} \\ &e = \text{the mathematical irrational constant approximated} \\ &\text{by 2.7183} \\ &r = \text{the risk-free rate that applies to the life of the} \\ &\text{forward contract} \\ &t = \text{the delivery date in years} \\ \end{aligned}
 \begin{aligned} &F = \$100 \times e ^ { (0.06 \times 1) } = \$106.18 \\ \end{aligned}

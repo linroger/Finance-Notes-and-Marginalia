@@ -1,21 +1,45 @@
 ---
-tags:
-  - asset_liability_management
-  - bond_hedging
-  - duration
-  - dv01
-  - key_rates
 aliases:
-  - Duration
-  - Dv01
-  - Hedging
-  - Key Rate
+- Duration
+- Dv01
+- Hedging
+- Key Rate
 key_concepts:
-  - Asset liability management
-  - Key rate Dv01s
-  - Key rate durations
-  - Par bond key rate
-  - Pension liabilities hedging
+- Asset liability management
+- Key rate Dv01s
+- Key rate durations
+- Par bond key rate
+- Pension liabilities hedging
+- Equity valuation and analysis
+- Dividend discount models
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Derivatives pricing theory
+- Risk-neutral valuation
+tags:
+- equity
+- asset_liability_management
+- cds
+- portfolio-theory
+- bond_hedging
+- valuation
+- duration
+- dv01
+- fx
+- trading
+- bonds
+- derivatives
+- options
+- portfolio
+- mathematical-finance
 ---
 
 # 5.4 KEY RATES: 'O1S, DURATIONS, AND HEDGING  

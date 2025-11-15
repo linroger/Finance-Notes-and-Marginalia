@@ -1,20 +1,45 @@
 ---
-tags:
-  - black_scholes_merton
-  - bond_pricing
-  - equity_derivatives
-  - fixed_income
-  - interest_rates
 aliases:
-  - BSM Model
-  - Bond Option Pricing
-  - Fixed Income vs. Equity Derivatives
+- BSM Model
+- Bond Option Pricing
+- Fixed Income vs. Equity Derivatives
 key_concepts:
-  - BSM option pricing
-  - Bond price convergence
-  - Interest rate volatility
-  - Short-term rate modeling
-  - Term structure evolution
+- BSM option pricing
+- Bond price convergence
+- Interest rate volatility
+- Short-term rate modeling
+- Term structure evolution
+- Equity valuation and analysis
+- Dividend discount models
+- Fixed income securities
+- Interest rate derivatives
+- Bond pricing and yield analysis
+- Duration and convexity
+- Black-Scholes option pricing model
+- Continuous-time finance
+- Arbitrage theory and practice
+- Law of one price
+- Derivatives pricing theory
+- Risk-neutral valuation
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Alternative investment strategies
+tags:
+- equity
+- black_scholes_merton
+- hedge_funds
+- bond_pricing
+- binomial
+- interest_rates
+- portfolio-theory
+- equity_derivatives
+- fixed_income
+- bonds
+- black_scholes
+- volatility
+- derivatives
+- options
+- portfolio
 ---
 
 # 7.9 FIXED INCOME VERSUS EQUITY DERIVATIVES  

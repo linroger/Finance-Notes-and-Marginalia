@@ -1,30 +1,52 @@
 ---
-cssclasses:
-  - academia
-linter-yaml-title-alias: Binomial Trees and Option Pricing MBA
-title: Binomial Trees and Option Pricing MBA
-tags:
-  - binomial_tree
-  - capm
-  - option_pricing
-  - risk_neutral
-  - stock_valuation
-  - dynamic_replication
-  - comparative_statics
 aliases:
-  - BOPM
-  - Binomial Option Pricing
-  - Option Valuation
-  - Single-Period Option Model
+- BOPM
+- Binomial Option Pricing
+- Option Valuation
+- Single-Period Option Model
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-eb6d1b
 key_concepts:
-  - ATM option valuation
-  - Binomial tree parameters
-  - CAPM formula
-  - Risk neutral probability
-  - Stock price at maturity
-  - Dynamic replication strategies
-  - Single-period option pricing
-  - Risk-neutral methodology
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Monte Carlo simulation for derivatives valuation
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+- Binomial option pricing model and lattice methods
+linter-yaml-title-alias: Binomial Trees and Option Pricing MBA
+tags:
+- binomial
+- black-scholes
+- bonds
+- capm
+- convexity
+- correlation
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- exotic-options
+- fixed_income
+- gamma
+- greeks
+- hedging
+- options
+- replication
+- risk-management
+- risk-neutral
+- theta
+- var
+- vega
+title: Binomial Trees and Option Pricing MBA
 ---
 
 # Binomial Trees and Option Pricing MBA

@@ -1,25 +1,40 @@
 ---
-cssclasses:
-  - academia
-linter-yaml-title-alias: Greece Faces Bond-Swap Holdouts
-title: Greece Faces Bond Swap Holdouts
-tags:
-  - bond_holdouts
-  - bond_swap
-  - debt_restructuring
-  - foreign_law_bonds
-  - greece_debt
 aliases:
-  - Greece bond swap
-  - Greek debt deal
+- Greece bond swap
+- Greek debt deal
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batchAA-gn11t6
 key_concepts:
-  - Greece bond swap
-  - bond swap participation
-  - debt burden reduction
-  - debt restructuring deal
-  - foreign law bonds
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Bond pricing and fixed income securities valuation
+- Ito's lemma and stochastic calculus applications
+- Credit risk modeling and default probability estimation
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+tags:
+- abs
+- american-options
+- apt
+- arch
+- binomial
+- black-scholes
+- bonds
+- calls
+- convexity
+- derivatives-pricing
+- duration
+- european-options
+- fixed-income
+- fixed_income
+- options
+- risk-management
+- risk-neutral
+title: Greece Faces Bond Swap Holdouts
 ---
-
 # Greece Faces Bond Swap Holdouts
 
 ## Abstract

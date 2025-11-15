@@ -1,19 +1,41 @@
 ---
-tags:
-  - bank_of_japan
-  - european_central_bank
-  - monetary_policy
-  - negative_interest_rates
-  - qe
 aliases:
-  - Negative Interest Rates
-  - Quantitative Easing
+- Negative Interest Rates
+- Quantitative Easing
 key_concepts:
-  - Bank of Japan (BOJ)
-  - European Central Bank (ECB)
-  - Falling prices (deflation)
-  - Negative interest rates
-  - Quantitative easing (QE)
+- Bank of Japan (BOJ)
+- European Central Bank (ECB)
+- Falling prices (deflation)
+- Negative interest rates
+- Quantitative easing (QE)
+- Fixed income securities
+- Interest rate derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Value at risk and stress testing
+- Portfolio risk metrics
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Interest rate modeling
+- Term structure of interest rates
+tags:
+- regulatory-framework
+- monetary_policy
+- negative_interest_rates
+- fixed_income
+- trading
+- bonds
+- european_central_bank
+- futures
+- risk_management
+- options
+- bank_of_japan
+- interest_rates
+- qe
 ---
 
 # 0.5 NEGATIVE RATES AND QE IN EUROPE AND JAPAN  

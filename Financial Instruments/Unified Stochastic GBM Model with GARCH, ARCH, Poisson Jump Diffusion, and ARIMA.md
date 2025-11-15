@@ -1,33 +1,74 @@
 ---
-cssclasses: academia
-title: Unified Stochastic GBM Model with GARCH, ARCH, Poisson Jump Diffusion, and ARIMA
-tags:
-  - arima_model
-  - asset_prices
-  - garch_model
-  - gbm_model
-  - heavy_tails
-  - jump_diffusion
-  - regime_shifts
-  - time_series_model
-  - volatility_clustering
-  - financial_mathematics
-  - stochastic_modeling
 aliases:
-  - ARIMA-Driven Drift
-  - GARCH Jump-Diffusion
-  - Regime-Switching Model
-  - Unified Stochastic Process
+- ARIMA-Driven Drift
+- GARCH Jump-Diffusion
+- Regime-Switching Model
+- Unified Stochastic Process
+cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-0feab7
 key_concepts:
-  - Asset price dynamics
-  - Heavy-tailed distributions
-  - Regime-dependent volatility
-  - Time-varying drift
-  - Volatility clustering
-  - Stochastic differential equations
-  - Exponential jump diffusion
-  - GARCH volatility model
-  - Parameter calibration
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- 'Short-rate models: Vasicek, CIR, and mean reversion'
+- Monte Carlo simulation for derivatives valuation
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility smile, skew, and surface modeling
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- abs
+- apt
+- arbitrage
+- arch
+- black-scholes
+- brownian-motion
+- calibration
+- capm
+- caps
+- convexity
+- correlation
+- credit-risk
+- delta
+- derivatives-pricing
+- expected-shortfall
+- factor-models
+- fixed_income
+- gamma
+- garch
+- geometric-brownian-motion
+- greeks
+- hedging
+- heston
+- implied-volatility
+- interest-rate-swaps
+- jump-diffusion
+- kalman-filter
+- martingale
+- maximum-likelihood
+- mean-reversion
+- monte-carlo
+- options
+- regime-switching
+- replication
+- risk-management
+- risk-neutral
+- swaps
+- theta
+- time-series
+- var
+- vasicek
+- vega
+- wiener-process
+title: Unified Stochastic GBM Model with GARCH, ARCH, Poisson Jump Diffusion, and
+  ARIMA
 ---
 
 # A Regime-Switching GARCH Jump-Diffusion Model with ARIMA-Driven Drift for Asset Prices

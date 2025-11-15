@@ -1,20 +1,44 @@
 ---
-tags:
-  - caplets
-  - caps_floors
-  - interest_rate_derivatives
-  - libor
-  - option_pricing
-  - volatility
 aliases:
-  - Caps
-  - Floors
+- Caps
+- Floors
 key_concepts:
-  - ATM cap pricing example
-  - 'Cap: portfolio of caplets'
-  - Caplet valuation formula
-  - 'Caplets: LIBOR and strike'
-  - Implied cap volatility
+- ATM cap pricing example
+- 'Cap: portfolio of caplets'
+- Caplet valuation formula
+- 'Caplets: LIBOR and strike'
+- Implied cap volatility
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Black-Scholes option pricing model
+- Continuous-time finance
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Derivatives pricing theory
+- Risk-neutral valuation
+- Options pricing and payoff structures
+tags:
+- caps_floors
+- caplets
+- option_pricing
+- interest_rate_derivatives
+- interest_rates
+- portfolio-theory
+- valuation
+- fx
+- trading
+- volatility
+- bonds
+- black_scholes
+- swaps
+- futures
+- derivatives
 ---
 
 # 16.4 CAPS AND FLOORS  

@@ -1,42 +1,107 @@
 ---
-title: Credit Markets Homework 2
-tags:
-  - bond_market_data
-  - cashflow_schedules
-  - credit_markets
-  - fixed_rate_bonds
-  - quantlib
-  - yield_curve_calibration
-  - credit_spreads
-  - risk_metrics
-  - z_spread
-  - duration_convexity
-  - treasury_bonds
-  - corporate_bonds
-  - discount_factors
 aliases:
-  - Credit Markets Homework 2
-  - Fixed Rate Bonds Homework
-  - Bond Cash Flow Analysis
+- Credit Markets Homework 2
+- Fixed Rate Bonds Homework
+- Bond Cash Flow Analysis
 cssclasses:
-  - homework
+- homework
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-2525b2
 key_concepts:
-  - Bond cash flows
-  - Cashflow schedules
-  - Fixed rate bonds
-  - QuantLib date object
-  - Symbology data
-  - Yield curve calibration
-  - Duration and convexity calculation
-  - Discount factor curves
-  - Z-spread calculation
-  - Bond pricing using discount curves
-  - PiecewiseLogCubicDiscount curve
-  - Bootstrapping yield curves
-  - Analytical vs scenario-based risk metrics
-  - Treasury bond pricing
-  - Corporate bond pricing
-  - Bond risk measurement
+- Corporate bond pricing
+- Bond convexity adjustment for large interest rate changes
+- Term structure of interest rates and yield curve shapes
+- Duration and convexity analysis for bond portfolio management
+- Treasury Bonds
+- Bond risk measurement
+- Single-name vs. index CDS trading
+- Bond cash flows
+- Probability of default estimation from credit spreads
+- termination date in CDS
+- maturity date in CDS
+- Option Greeks and portfolio risk management
+- Credit spread analysis and OAS methodology
+- Expectations hypothesis and liquidity preference theory
+- Solution
+- Z-spread calculation
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- Vega and volatility risk management
+- Fixed rate bonds
+- Structural models of default and Merton formulation
+- fixed income risk measurement
+- DV01 calculation and interest rate risk hedging
+- Portfolio immunization strategies
+- Discount factor curves
+- CDS-Bond basis and arbitrrage opportunities
+- Spot rates vs. forward rates modeling
+- CDS clearing and central counterparties
+- Swap spread and credit risk considerations
+- Credit default swap pricing and recovery assumptions
+- Mathematical Finance
+- Cashflow schedules
+- QuantLib date object
+- Key rate duration and curve risk
+- Fixed-for-floating swap cash flows and valuation
+- Theta and time decay modeling
+- Case Study
+- Interest rate swap pricing and valuation
+- Credit default swap pricing and risk-neutral probabilities
+- present value and discounting methods
+- Variance swaps and volatility trading strategies
+- Treasury bond pricing
+- PiecewiseLogCubicDiscount curve
+- Symbology data
+- Yield curve calibration
+- Analytical vs scenario-based risk metrics
+- Quantitative Implementation
+- Gamma and convexity adjustments
+- effective date in CDS
+- Credit risk modeling and portfolio correlation analysis
+- Delta hedging and the replication argument
+- Parallel and non-parallel shifts in the yield curve
+- Gamma trading and convexity adjustment techniques
+- Cross-currency basis swaps and funding
+- Duration and convexity measures for bond portfolios
+- Duration and convexity calculation
+- Bond pricing using discount curves
+- Bootstrapping yield curves
+- Price sensitivity to interest rate changes
+- Modified duration vs. Macaulay duration
+tags:
+- yield-curve
+- duration-convexity
+- convexity
+- quantitative-implementation
+- fixed_rate_bonds
+- treasury_bonds
+- treasury-bonds
+- credit-default-swaps
+- solution
+- z_spread
+- interest-rate-swaps
+- duration_convexity
+- corporate_bonds
+- yield_curve_calibration
+- mathematical-finance
+- course-material
+- infrastructure
+- corporate-bonds
+- bond_market_data
+- credit_spreads
+- case-study
+- discount_factors
+- risk_metrics
+- greeks
+- credit_markets
+- duration
+- dcf-valuation
+- dv01
+- quantlib
+- cashflow_schedules
+- credit-risk
+title: Credit Markets Homework 2
 ---
 
 # Credit Markets Homework 2

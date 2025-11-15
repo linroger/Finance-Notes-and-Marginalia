@@ -1,25 +1,24 @@
 ---
-cssclasses:
-  - academia
-title: Class Note 9 Bid and Ask Prices With Private Information
-tags:
-  - adverse_selection
-  - bid_ask_spread
-  - liquidity_traders
-  - market_makers
-  - private_information
 aliases:
-  - Adverse Selection
-  - Bid and Ask
-  - Glosten-Milgrom
-  - Market Maker
+- Adverse Selection
+- Bid and Ask
+- Glosten-Milgrom
+- Market Maker
+cssclasses:
+- academia
 key_concepts:
-  - Bid-Ask Spread
-  - Informed vs. Liquidity Traders
-  - Market Maker Profits
-  - Private Information Impact
-  - Risk Neutrality Assumption
+- Credit default swaps and counterparty risk analysis
+- Arbitrage opportunities and no-arbitrage pricing
+tags:
+- abs
+- arbitrage
+- cds
+- credit-risk
+- fixed_income
+- risk-management
+title: Class Note 9 Bid and Ask Prices With Private Information
 ---
+
 
 # Class Note 9 Bid and Ask Prices With Private Information
 

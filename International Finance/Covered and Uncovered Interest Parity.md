@@ -1,23 +1,93 @@
 ---
-cssclasses: academia
-title: Covered and Uncovered Interest Parity
-tags:
-  - covered_interest_parity
-  - exchange_rates
-  - interest_rates
-  - international_finance
-  - uncovered_interest_parity
 aliases:
-  - CIP
-  - FX Parity
-  - Interest Parity
-  - UIP
+- CIP
+- FX Parity
+- Interest Parity
+- UIP
+cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-853225
 key_concepts:
-  - Arbitrage in FX markets
-  - 'CIP: interest rate parity'
-  - Forward exchange contracts
-  - Risk premium deviations
-  - 'UIP: exchange rate expectations'
+- Term structure of interest rates and yield curve shapes
+- Currency hedging strategies
+- Stochastic calculus in financial modeling
+- Forward exchange rate determination
+- Risk premium deviations
+- Single-name vs. index CDS trading
+- Option Greeks and portfolio risk management
+- 'UIP: exchange rate expectations'
+- Currency derivatives
+- Arbitrage in FX markets
+- Expectations hypothesis and liquidity preference theory
+- Futures contracts and forward pricing
+- Solution
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- Vega and volatility risk management
+- CDS clearing and central counterparties
+- CDS-Bond basis and arbitrrage opportunities
+- Mathematical Finance
+- Spot rates vs. forward rates modeling
+- Option sensitivity analysis
+- CIP deviations and regulatory effects
+- Foreign exchange markets
+- Liquidity and price discovery
+- Alternative investment strategies
+- Course Material
+- Currency risk management and hedging
+- Forward rates and interest rate parity
+- Cross-currency basis and funding spreads
+- Theta and time decay modeling
+- Counterparty risk and settlement
+- Exchange rate determination and PPP theory
+- Covered interest rate parity and no-arbitrage
+- Margin requirements and clearing
+- Delta, gamma, vega, theta, rho
+- Credit default swap pricing and risk-neutral probabilities
+- Market microstructure and trading
+- Derivatives pricing theory
+- 'CIP: interest rate parity'
+- Forward exchange contracts
+- Quantitative Implementation
+- Gamma and convexity adjustments
+- Risk-neutral valuation
+- Uncovered Interest Parity
+- Delta hedging and the replication argument
+- Credit default swaps and credit risk
+- Parallel and non-parallel shifts in the yield curve
+- Delta hedging and Greeks
+- Options pricing and payoff structures
+- Currency markets and foreign exchange trading
+tags:
+- uncovered-interest-parity
+- fx
+- yield-curve
+- credit-default-swaps
+- stochastic-calculus
+- covered-interest-parity
+- derivatives
+- mathematical-finance
+- trading
+- course-material
+- greeks
+- exchange-rates
+- hedge-funds
+- options
+- credit-risk
+- quantitative-implementation
+- international_finance
+- solution
+- uncovered_interest_parity
+- interest_rates
+- stochastic_calculus
+- arbitrage
+- hedge_funds
+- volatility
+- regulatory-framework
+- futures
+- cds
+title: Covered and Uncovered Interest Parity
 ---
 
 # Covered and Uncovered Interest Parity

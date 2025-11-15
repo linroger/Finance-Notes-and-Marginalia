@@ -1,23 +1,48 @@
 ---
-title: Foreign Exchange Markets and Exchange Rate Determination
-cssclasses:
-  - academia
-tags:
-  - exchange_rate
-  - foreign_exchange_market
-  - forex_market
-  - market_volume
-  - trading_centers
 aliases:
-  - Currency Exchange
-  - FX Market
-  - Forex
+- Currency Exchange
+- FX Market
+- Forex
+cssclasses:
+- academia
 key_concepts:
-  - Exchange rate determination
-  - Foreign exchange market
-  - London trading center
-  - Major trading centers
-  - Market trading volume
+- Exchange rate determination
+- Foreign exchange market
+- London trading center
+- Major trading centers
+- Market trading volume
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Alternative investment strategies
+- Hedge fund replication
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Structured products and CDOs
+- Credit derivatives
+- Arbitrage theory and practice
+tags:
+- forex_market
+- arbitrage
+- hedge_funds
+- structured_finance
+- foreign_exchange_market
+- interest_rates
+- market_volume
+- trading_centers
+- stochastic_calculus
+- fx
+- trading
+- bonds
+- futures
+- options
+- mathematical-finance
+title: Foreign Exchange Markets and Exchange Rate Determination
 ---
 
 # Foreign Exchange Markets and Exchange Rate Determination

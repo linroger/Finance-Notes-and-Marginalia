@@ -1,19 +1,44 @@
 ---
-tags:
-  - futures_mechanics
-  - interest_rate_futures
-  - marking_to_market
-  - physical_commodities
-  - variation_margin
 aliases:
-  - Commodity Futures
-  - Futures Trading
+- Commodity Futures
+- Futures Trading
 key_concepts:
-  - Futures trading mechanics
-  - Lock in purchase price
-  - Physical commodity contracts
-  - Two-way insurance contract
-  - Variation margin calculation
+- Futures trading mechanics
+- Lock in purchase price
+- Physical commodity contracts
+- Two-way insurance contract
+- Variation margin calculation
+- Equity valuation and analysis
+- Dividend discount models
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Value at risk and stress testing
+- Portfolio risk metrics
+- Options pricing and payoff structures
+tags:
+- equity
+- physical_commodities
+- futures_mechanics
+- variation_margin
+- hedge_funds
+- structured_finance
+- marking_to_market
+- interest_rates
+- interest_rate_futures
+- fx
+- trading
+- bonds
+- commodities
+- swaps
+- futures
 ---
 
 # 3.2 FUTURES MECHANICS  

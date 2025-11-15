@@ -1,19 +1,107 @@
 ---
-tags:
-  - dissenting_shareholders
-  - fair_value
-  - kohler_co
-  - private_company
-  - valuation
 aliases:
-  - Kohler Case
-  - Kohler Valuation
+- Kohler Case
+- Kohler Valuation
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-b491fe
 key_concepts:
-  - Dissenting shareholder valuation
-  - Fair market value definition
-  - Kohler Co. family business
-  - MBCA fair value
-  - Valuation date adjustment
+- Kohler Co. family business
+- Extensions to multi-factor CAPM models
+- MBCA fair value
+- Mean-variance optimization and the efficient frontier
+- Extreme value theory and tail risk modeling
+- Credit risk modeling and default probability estimation
+- Option Greeks and portfolio risk management
+- Risk budgeting and portfolio construction techniques
+- Capital Asset Pricing Model and expected returns
+- Historical simulation vs. parametric VaR models
+- Credit portfolio diversification and concentration
+- Vega and volatility risk management
+- DV01 calculation and interest rate risk hedging
+- Swap spread and credit risk considerations
+- Capital structure theory and optimal debt levels
+- Mathematical Finance
+- Leveraged buyout financial modeling and returns
+- GARCH models and volatility forecasting
+- Deposit insurance and systemic risk prevention
+- cost of capital estimation
+- Monte Carlo VaR for complex portfolios
+- Stress testing and scenario analysis
+- Fixed-for-floating swap cash flows and valuation
+- Security Market Line and beta measurement
+- Value at Risk (VaR) methodologies and backtesting
+- Theta and time decay modeling
+- Risk-neutral pricing methodology for derivative securities
+- Case Study
+- Operational risk quantification and modeling
+- fundamental valuation methods
+- Expected Shortfall and coherent risk measures
+- Arbitrage opportunities and risk-free profit extraction
+- Interest rate swap pricing and valuation
+- Bank liquidity ratios and funding risk management
+- Variance swaps and volatility trading strategies
+- Dissenting shareholder valuation
+- Comparable Analysis
+- Credit exposure measurement and EAD
+- fair value measurement and hierarchy
+- Loss given default and recovery rates
+- Wrong-way risk in derivative transactions
+- systematic risk and market exposure
+- Value-at-Risk calculation using historical simulation
+- risk measurement and management
+- Gamma and convexity adjustments
+- Credit risk migration matrices and rating transition
+- Capital Structure
+- Credit risk modeling and portfolio correlation analysis
+- Backtesting procedures for risk models
+- Credit risk assessment and loan portfolio management
+- Delta hedging and the replication argument
+- Liquidity risk measurement and management
+- Cross-currency basis swaps and funding
+- Fair market value definition
+- Systemic risk indicators and early warning systems
+- Commercial bank business model and revenue streams
+- Valuation date adjustment
+- Market portfolio and risk-free rate assumptions
+- Empirical tests and anomalies in CAPM
+tags:
+- private_company
+- income-statement
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- balance-sheet
+- capital-structure
+- capm
+- var
+- case-study
+- greeks
+- comparable-analysis
+- value-at-risk
+- valuation
+- ebitda
+- credit-risk
+- leveraged-buyouts
+- quantitative-implementation
+- fair_value
+- duration-convexity
+- kohler_co
+- private-equity
+- solution
+- wacc
+- depreciation
+- stress-testing
+- liquidity-risk
+- systemic-risk
+- ev
+- dissenting_shareholders
+- distressed-debt
+- deposit-insurance
+- dcf-valuation
+- expected-shortfall
+- operational-risk
+- monte-carlo
 ---
 
 Thomas Rauter

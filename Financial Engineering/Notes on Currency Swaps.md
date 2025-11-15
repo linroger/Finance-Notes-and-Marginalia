@@ -1,21 +1,53 @@
 ---
-tags:
-  - currency_swaps
-  - debt_markets
-  - financial_markets
-  - foreign_currency
-  - interest_rates
 aliases:
-  - Cross-Currency Swaps
-  - Currency Exchange
-  - FX Swaps
+- Cross-Currency Swaps
+- Currency Exchange
+- FX Swaps
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-f056bd
 key_concepts:
-  - All-in financing cost
-  - Borrowing costs
-  - Currency swap diagram
-  - Debt service
-  - Exchange currency
-  - Interest and principal
+- Delta hedging strategies in options portfolio management
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- apt
+- arbitrage
+- bonds
+- capm
+- commodities
+- convexity
+- correlation
+- counterparty-risk
+- credit-risk
+- currency-swaps
+- delta
+- derivatives-pricing
+- duration
+- factor-models
+- fixed_income
+- fx
+- gamma
+- greeks
+- hedging
+- interest-rate-swaps
+- no-arbitrage
+- options
+- replication
+- risk-management
+- swaps
+- var
+- vega
+- yield-curve
 ---
 
 # Currency Swaps  

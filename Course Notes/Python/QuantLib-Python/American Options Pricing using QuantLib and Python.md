@@ -1,21 +1,81 @@
 ---
-title: American Option Pricing with QuantLib and Python
-tags:
-  - american_option_pricing
-  - binomial_tree
-  - european_option
-  - python
-  - quantlib
 aliases:
-  - AAPL
-  - Option Pricing
-  - QuantLib Python
+- AAPL
+- Option Pricing
+- QuantLib Python
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-ed2569
 key_concepts:
-  - American option valuation
-  - Binomial tree approach
-  - European option pricing
-  - Option exercise type
-  - Strike price
+- European Options
+- Cox-Ross-Rubinstein parameter specification
+- Strike price
+- American Options
+- Sensitivity analysis in DCF models
+- Risk assessment and management
+- Computational implementation of binomial option pricing
+- Binomial option pricing model for American-style options
+- Common pitfalls in DCF valuation
+- Commodity markets and pricing dynamics
+- Mathematical derivation of the Black-Scholes partial differential equation
+- Solution
+- Historical simulation vs. parametric VaR models
+- Discounted Cash Flow valuation methodology
+- option pricing models and PDE solutions
+- forward commitments and hedging
+- Mathematical Finance
+- Black-Scholes partial differential equation and its boundary conditions
+- European option pricing
+- Monte Carlo VaR for complex portfolios
+- Stress testing and scenario analysis
+- Portfolio optimization and asset allocation
+- Option exercise type
+- Value at Risk (VaR) methodologies and backtesting
+- Case Study
+- Quantitative analysis and modeling
+- Dividend Policy
+- Exchange rate determination and PPP theory
+- Expected Shortfall and coherent risk measures
+- excess returns and manager skill
+- Risk-neutral valuation in continuous time models
+- American option valuation
+- Convergence of binomial model to Black-Scholes solution
+- Binomial option pricing model with multiple time steps
+- Free cash flow to equity and firm valuation
+- Boundary conditions and parameter interpretation in Black-Scholes model
+- Limitations and extensions of the Black-Scholes framework
+- simulation methods in financial engineering
+- Terminal value estimation and perpetuity growth
+- Quantitative Implementation
+- Financial markets and instruments
+- American option pricing in binomial trees
+- Binomial tree approach
+- Black-Scholes-Merton option pricing model and its applications
+- Currency markets and foreign exchange trading
+tags:
+- python
+- binomial-model
+- commodities
+- dividend-policy
+- american_option_pricing
+- mathematical-finance
+- european_option
+- financial-modeling
+- case-study
+- black-scholes-model
+- value-at-risk
+- exchange-rates
+- hull-white-model
+- european-options
+- quantitative-implementation
+- solution
+- american-options
+- binomial_tree
+- quantitative-finance
+- dcf-valuation
+- quantlib
+- monte-carlo
+title: American Option Pricing with QuantLib and Python
 ---
 
 # American Options Pricing using QuantLib and Python

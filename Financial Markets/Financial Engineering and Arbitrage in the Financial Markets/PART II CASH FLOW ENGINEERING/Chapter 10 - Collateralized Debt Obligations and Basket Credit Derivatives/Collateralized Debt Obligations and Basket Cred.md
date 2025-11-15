@@ -1,19 +1,37 @@
 ---
-tags:
-  - basket_credit_derivatives
-  - credit_derivative_indexes
-  - default_correlation
-  - synthetic_cdo
 aliases:
-  - Basket Credit Derivatives
-  - CDO
-  - Credit Derivatives
+- Basket Credit Derivatives
+- CDO
+- Credit Derivatives
 key_concepts:
-  - CDO Tranche Pricing
-  - Cash CDO
-  - Copula Models
-  - First-to-Default Basket
-  - Synthetic CDO
+- CDO Tranche Pricing
+- Cash CDO
+- Copula Models
+- First-to-Default Basket
+- Synthetic CDO
+- Credit risk modeling
+- Default probability estimation
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Derivatives pricing theory
+- Risk-neutral valuation
+- Alternative investment strategies
+- Hedge fund replication
+- Structured products and CDOs
+- Credit derivatives
+- Arbitrage theory and practice
+- Law of one price
+tags:
+- basket_credit_derivatives
+- credit
+- default_correlation
+- synthetic_cdo
+- cds
+- derivatives
+- hedge_funds
+- structured_finance
+- arbitrage
+- credit_derivative_indexes
 ---
 
 # 10  Collateralized Debt Obligations and Basket Credit Derivatives  

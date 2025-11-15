@@ -1,19 +1,25 @@
 ---
 tags:
-  - financial_markets
-  - forward_transactions
-  - risk_transfer
-  - spot_markets
-  - transactional_structure
+- apt
+- arbitrage
+- bonds
+- calls
+- caps
+- fixed_income
+- forwards
+- futures
+- options
+- risk-management
+- var
 aliases:
-  - Financial Markets Structure
-  - Transactional Finance
+- Financial Markets Structure
+- Transactional Finance
 key_concepts:
-  - Financial market bazaar
-  - Forward buy transaction
-  - Risk transfer mechanism
-  - Spot market transactions
-  - Time of delivery
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
 ---
 
 # 1.3 TRANSACTIONAL STRUCTURE OF FINANCIAL MARKETS  

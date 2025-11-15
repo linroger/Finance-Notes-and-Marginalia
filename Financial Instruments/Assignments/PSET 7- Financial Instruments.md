@@ -1,35 +1,51 @@
 ---
-linter-yaml-title-alias: FINANCIAL INSTRUMENTS
-title: PSET 7 - Financial Instruments
-cssclasses:
-  - academia
-tags:
-  - american_options
-  - binomial_tree
-  - call_option
-  - financial_instruments
-  - put_option
-  - merton_model
-  - credit_risk
-  - probability_of_default
-  - structural_models
-  - kmv_model
-  - distance_to_default
 aliases:
-  - Homework 7
-  - PSET 7
+- Homework 7
+- PSET 7
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-aa1188
 key_concepts:
-  - American call option
-  - American put option
-  - Binomial tree model
-  - Continuously compounded rate
-  - Strike price
-  - Merton model
-  - Default probability
-  - Credit spread
-  - Distance to default
-  - Asset volatility
-  - Leverage effect
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Bond pricing and fixed income securities valuation
+- Monte Carlo simulation for derivatives valuation
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+linter-yaml-title-alias: FINANCIAL INSTRUMENTS
+tags:
+- abs
+- american-options
+- arbitrage
+- binomial
+- black-scholes
+- bonds
+- commodities
+- convexity
+- corporate-bonds
+- correlation
+- credit-risk
+- default-probability
+- derivatives-pricing
+- duration
+- exotic-options
+- expected-shortfall
+- fixed_income
+- hedging
+- implied-volatility
+- monte-carlo
+- options
+- risk-management
+- risk-neutral
+- stress-testing
+- var
+title: PSET 7 - Financial Instruments
 ---
 
 # PSET 7 - Financial Instruments

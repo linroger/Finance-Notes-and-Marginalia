@@ -1,20 +1,43 @@
 ---
-tags:
-  - cds_market
-  - cds_strategies
-  - hovnanian
-  - manufactured_default
-  - opportunistic_strategies
 aliases:
-  - CDS Strategies
-  - Manufactured Default
-  - Opportunistic CDS
+- CDS Strategies
+- Manufactured Default
+- Opportunistic CDS
 key_concepts:
-  - CDS buyers and sellers
-  - CDS traders and issuers
-  - Final recovery expectations
-  - Hovnanian manufactured default
-  - Opportunistic CDS strategies
+- CDS buyers and sellers
+- CDS traders and issuers
+- Final recovery expectations
+- Hovnanian manufactured default
+- Opportunistic CDS strategies
+- Credit risk modeling
+- Default probability estimation
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Derivatives pricing theory
+- Risk-neutral valuation
+- Alternative investment strategies
+tags:
+- credit
+- cds_strategies
+- hovnanian
+- trading
+- bonds
+- cds_market
+- futures
+- opportunistic_strategies
+- cds
+- options
+- derivatives
+- hedge_funds
+- manufactured_default
 ---
 
 # 14.12 OPPORTUNISTIC CDS STRATEGIES  

@@ -1,20 +1,23 @@
 ---
 tags:
-  - dividend_pricing
-  - forward_measure
-  - risk_neutral_valuation
-  - state_price_deflator
-  - zero_coupon_bonds
+- bonds
+- delta
+- derivatives-pricing
+- fixed_income
+- martingale
+- risk-management
+- risk-neutral
+- var
+- zero-coupon
 aliases:
-  - Forward martingale measure
-  - Forward neutral measure
-  - Forward risk-adjusted measure
+- Forward martingale measure
+- Forward neutral measure
+- Forward risk-adjusted measure
 key_concepts:
-  - Forward risk-adjusted measure
-  - Radon-Nikodym derivative
-  - Risk-neutral valuation approach
-  - Time price of dividend
-  - Zero-coupon bond price
+- Risk-neutral measures and martingale pricing
+- Bond pricing and fixed income securities valuation
+- Value at Risk and tail risk measurement
+- Options Greeks and sensitivity analysis
 ---
 
 # 11.4 Forward risk-adjusted probability measures  

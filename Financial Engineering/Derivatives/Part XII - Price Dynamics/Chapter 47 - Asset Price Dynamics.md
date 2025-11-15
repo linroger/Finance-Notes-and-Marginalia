@@ -1,25 +1,102 @@
 ---
-tags:
-  - asset_price_dynamics
-  - black_scholes
-  - continuous_time
-  - geometric_brownian_motion
-  - ito_lemma
-  - sde
-  - stochastic_process
-  - wiener_process
 aliases:
-  - Asset Price
-  - GBM
-  - Price Dynamics
+- Asset Price
+- GBM
+- Price Dynamics
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-122d64
 key_concepts:
-  - Black-Scholes formula
-  - Continuous time mathematics
-  - Geometric Brownian motion
-  - Ito's lemma
-  - Stochastic process
-  - Wiener process
+- Apt
+- Extensions to multi-factor CAPM models
+- Duration and convexity analysis for bond portfolio management
+- Active portfolio management and performance attribution
+- Stochastic calculus in financial modeling
+- Mean-variance optimization and the efficient frontier
+- Brownian motion and Wiener processes in finance
+- Collateralized Debt Obligations
+- Option Greeks and portfolio risk management
+- Capital Asset Pricing Model and beta estimation
+- Risk budgeting and portfolio construction techniques
+- Capital Asset Pricing Model and expected returns
+- Mathematical derivation of the Black-Scholes partial differential equation
+- Historical simulation vs. parametric VaR models
+- Vega and volatility risk management
+- Ito's lemma
+- Mathematical Finance
+- Monte Carlo integration and variance reduction
+- Monte Carlo VaR for complex portfolios
+- Wiener process
+- Shadow Banking
+- Stress testing and scenario analysis
+- Arbitrage Pricing Theory and multifactor models
+- Continuous time mathematics
+- Security Market Line and beta measurement
+- Control variates and importance sampling techniques
+- Theta and time decay modeling
+- International arbitrage and covered interest rate parity
+- Value at Risk (VaR) methodologies and backtesting
+- Case Study
+- Exchange rate determination and PPP theory
+- Arbitrage opportunities and risk-free profit extraction
+- Expected Shortfall and coherent risk measures
+- Black-Scholes formula
+- Risk-neutral valuation in continuous time models
+- ESG integration in portfolio management
+- Factor Models
+- Delta hedging strategies in options portfolio management
+- Geometric Brownian motion
+- Boundary conditions and parameter interpretation in Black-Scholes model
+- Limitations and extensions of the Black-Scholes framework
+- risk measurement and management
+- Shadow banking system and regulatory arbitrage
+- Gamma and convexity adjustments
+- Stochastic process
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Delta hedging and the replication argument
+- Currency hedging strategies for global portfolios
+- Black-Scholes-Merton option pricing model and its applications
+- Market portfolio and risk-free rate assumptions
+- Currency markets and foreign exchange trading
+- Empirical tests and anomalies in CAPM
+tags:
+- quantitative-implementation
+- duration-convexity
+- solution
+- stochastic-calculus
+- collateralized-debt-obligations
+- sde
+- ito_lemma
+- mathematical-finance
+- arbitrage
+- infrastructure
+- option-pricing
+- capm
+- var
+- shadow-banking
+- exotic-options
+- brownian-motion
+- asset_price_dynamics
+- geometric-brownian-motion
+- case-study
+- apt
+- credit-risk
+- delta-hedging
+- greeks
+- black-scholes-model
+- wiener_process
+- value-at-risk
+- factor-models
+- continuous_time
+- geometric_brownian_motion
+- wiener-process
+- exchange-rates
+- monte-carlo
+- black_scholes
+- stochastic_process
 ---
+
 # PRICE DYNAMICS  
 
 # Asset Price Dynamics  

@@ -1,22 +1,93 @@
 ---
-title: Understanding the Yield Curve Notes
-tags:
-  - holding_period
-  - spot_rate
-  - yield_curve
-  - yield_spread
-  - zero_coupon_bond
 aliases:
-  - Break-even Yield Change
-  - Carry
-  - Implied Forward Rate
-  - Yield Spread
+- Break-even Yield Change
+- Carry
+- Implied Forward Rate
+- Yield Spread
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-2b1f77
 key_concepts:
-  - Break-even yield change
-  - Holding-period returns equivalence
-  - Implied forward rate calculation
-  - Positive and negative carry
-  - Yield spread and carry
+- Term structure of interest rates and yield curve shapes
+- Treasury Bonds
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Option Greeks and portfolio risk management
+- Expectations hypothesis and liquidity preference theory
+- Futures contracts and forward pricing
+- Solution
+- Historical simulation vs. parametric VaR models
+- Interest rate modeling
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- Vega and volatility risk management
+- CDS clearing and central counterparties
+- Value at risk and stress testing
+- Portfolio immunization strategies
+- CDS-Bond basis and arbitrrage opportunities
+- Spot rates vs. forward rates modeling
+- Option sensitivity analysis
+- Monte Carlo VaR for complex portfolios
+- Break-even yield change
+- Liquidity and price discovery
+- Key rate duration and curve risk
+- Yield spread and carry
+- Positive and negative carry
+- Value at Risk (VaR) methodologies and backtesting
+- Theta and time decay modeling
+- Counterparty risk and settlement
+- Portfolio risk metrics
+- Case Study
+- Implied forward rate calculation
+- Margin requirements and clearing
+- Credit derivatives
+- Delta, gamma, vega, theta, rho
+- Credit default swap pricing and risk-neutral probabilities
+- Market microstructure and trading
+- Expected Shortfall and coherent risk measures
+- Structured products and CDOs
+- Holding-period returns equivalence
+- High Yield Bonds
+- Bond pricing and yield analysis
+- Quantitative Implementation
+- Gamma and convexity adjustments
+- Delta hedging and the replication argument
+- Credit default swaps and credit risk
+- Parallel and non-parallel shifts in the yield curve
+- Duration and convexity measures for bond portfolios
+- Price sensitivity to interest rate changes
+- Modified duration vs. Macaulay duration
+- Duration and convexity
+tags:
+- yield-curve
+- credit-default-swaps
+- collateralized-debt-obligations
+- mathematical-finance
+- trading
+- pairs-trading
+- case-study
+- bonds
+- greeks
+- high-yield-bonds
+- risk_management
+- value-at-risk
+- exchange-rates
+- zero_coupon_bond
+- credit-risk
+- holding_period
+- yield_curve
+- duration-convexity
+- quantitative-implementation
+- solution
+- treasury-bonds
+- structured_finance
+- interest_rates
+- stress-testing
+- yield_spread
+- spot_rate
+- futures
+- cds
+title: Understanding the Yield Curve Notes
 ---
 
 # Understanding the Yield Curve Notes

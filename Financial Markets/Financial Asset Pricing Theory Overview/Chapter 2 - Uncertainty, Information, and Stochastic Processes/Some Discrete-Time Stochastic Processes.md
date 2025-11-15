@@ -1,19 +1,24 @@
 ---
 tags:
-  - asset_pricing
-  - discrete_time
-  - markov_process
-  - random_walk
-  - stochastic_processes
+- apt
+- arch
+- binomial
+- correlation
+- credit-risk
+- delta
+- derivatives-pricing
+- garch
+- martingale
+- rho
+- risk-management
+- var
 aliases:
-  - Discrete-time stochastic process
-  - Stochastic process
+- Discrete-time stochastic process
+- Stochastic process
 key_concepts:
-  - Autoregressive process
-  - Exogenous shocks
-  - Filtered probability space
-  - Markov process
-  - Random walk
+- Value at Risk and tail risk measurement
+- Volatility modeling and forecasting techniques
+- Options Greeks and sensitivity analysis
 ---
 
 # 2.5 Some discrete-time stochastic processes  

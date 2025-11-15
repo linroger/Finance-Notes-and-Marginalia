@@ -1,27 +1,56 @@
 ---
-title: Credit Default Swaps
-cssclasses: academia
-tags:
-  - cds_market
-  - cds_valuation
-  - cdx_index
-  - credit_curves
-  - credit_default_swaps
-  - credit_derivatives
-  - credit_risk
-  - credit_risk_management
-  - financial_crisis
 aliases:
-  - CDS
-  - CDS market
-  - CDX
-  - Credit Default Swaps
+- CDS
+- CDS market
+- CDX
+- Credit Default Swaps
+cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-3dfa95
 key_concepts:
-  - CDS spread
-  - credit derivative
-  - protection buyer
-  - protection seller
-  - transfer credit risk
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Options Greeks and sensitivity analysis
+tags:
+- abs
+- apt
+- arbitrage
+- arch
+- binomial
+- black-scholes
+- bonds
+- cds
+- commodities
+- corporate-bonds
+- credit-default-swaps
+- credit-risk
+- derivatives-pricing
+- fixed_income
+- garch
+- greeks
+- interest-rate-swaps
+- options
+- puts
+- recovery-rate
+- risk-management
+- risk-neutral
+- swaps
+- term-structure
+- var
+- yield-curve
+- zero-coupon
+title: Credit Default Swaps
 ---
 
 # Credit Default Swaps

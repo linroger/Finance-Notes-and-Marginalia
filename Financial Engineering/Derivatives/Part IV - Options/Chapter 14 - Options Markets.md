@@ -1,22 +1,98 @@
 ---
-tags:
-  - cboe
-  - market_maker
-  - options_markets
-  - otc_market
-  - strike_price
 aliases:
-  - CBOE
-  - OTC
-  - Options
-  - Options Markets
+- CBOE
+- OTC
+- Options
+- Options Markets
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-62b8ea
 key_concepts:
-  - Call and put payoffs
-  - ITM, ATM, OTM
-  - Intrinsic and time value
-  - Options market organization
-  - Speculation and insurance
+- Apt
+- Extensions to multi-factor CAPM models
+- Options market organization
+- Duration and convexity analysis for bond portfolio management
+- Active portfolio management and performance attribution
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Option Greeks and portfolio risk management
+- maturity date in CDS
+- Commodity markets and pricing dynamics
+- Capital Asset Pricing Model and beta estimation
+- Risk budgeting and portfolio construction techniques
+- market maker in CDS markets
+- Capital Asset Pricing Model and expected returns
+- Historical simulation vs. parametric VaR models
+- Credit spread decomposition and hazard rates
+- future value and compounding
+- Vega and volatility risk management
+- CDS clearing and central counterparties
+- forward commitments and hedging
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- Monte Carlo VaR for complex portfolios
+- Intrinsic and time value
+- Speculation and insurance
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Security Market Line and beta measurement
+- Value at Risk (VaR) methodologies and backtesting
+- Theta and time decay modeling
+- Case Study
+- Call and put payoffs
+- Interest rate swap pricing and valuation
+- Expected Shortfall and coherent risk measures
+- Credit default swap pricing and risk-neutral probabilities
+- ESG integration in portfolio management
+- present value and discounting methods
+- Variance swaps and volatility trading strategies
+- Delta hedging strategies in options portfolio management
+- Gamma and convexity adjustments
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Delta hedging and the replication argument
+- Cross-currency basis swaps and funding
+- Currency hedging strategies for global portfolios
+- Market portfolio and risk-free rate assumptions
+- cash settlement in CDS
+- ITM, ATM, OTM
+- Empirical tests and anomalies in CAPM
+tags:
+- commodities
+- market_maker
+- credit-default-swaps
+- collateralized-debt-obligations
+- interest-rate-swaps
+- call-options
+- mathematical-finance
+- course-material
+- capm
+- case-study
+- apt
+- greeks
+- value-at-risk
+- put-options
+- options_markets
+- exchange-rates
+- cboe
+- counterparty-risk
+- credit-risk
+- otc_market
+- european-options
+- duration-convexity
+- quantitative-implementation
+- solution
+- treasury-bonds
+- american-options
+- investment-banking
+- exotic-options
+- options-strategies
+- dcf-valuation
+- strike_price
+- municipal-bonds
 ---
+
 # OPTIONS  
 
 # Options Markets  

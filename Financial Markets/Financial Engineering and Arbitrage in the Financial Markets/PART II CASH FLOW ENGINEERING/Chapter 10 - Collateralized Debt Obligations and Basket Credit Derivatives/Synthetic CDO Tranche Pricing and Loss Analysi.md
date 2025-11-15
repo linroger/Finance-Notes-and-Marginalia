@@ -1,20 +1,45 @@
 ---
-tags:
-  - cdo_pricing
-  - credit_derivatives
-  - credit_spreads
-  - default_correlation
-  - synthetic_cdo
 aliases:
-  - CDO Loss Analysis
-  - CDO Tranche Pricing
-  - Synthetic CDO Analysis
+- CDO Loss Analysis
+- CDO Tranche Pricing
+- Synthetic CDO Analysis
 key_concepts:
-  - CDS spreads
-  - Credit derivative market
-  - Rising default correlation
-  - Synthetic CDO growth
-  - Tranche pricing and loss
+- CDS spreads
+- Credit derivative market
+- Rising default correlation
+- Synthetic CDO growth
+- Tranche pricing and loss
+- Equity valuation and analysis
+- Dividend discount models
+- Credit risk modeling
+- Default probability estimation
+- Fixed income securities
+- Interest rate derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Option sensitivity analysis
+- Delta, gamma, vega, theta, rho
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Credit default swaps and credit risk
+tags:
+- equity
+- credit
+- greeks
+- cdo_pricing
+- cds
+- structured_finance
+- interest_rates
+- portfolio-theory
+- fixed_income
+- credit_spreads
+- default_correlation
+- trading
+- bonds
+- synthetic_cdo
+- futures
 ---
 
 # 10.4  SYNTHETIC CDO TRANCHE PRICING AND LOSS ANALYSIS  

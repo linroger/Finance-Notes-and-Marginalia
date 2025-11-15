@@ -1,22 +1,68 @@
 ---
-tags:
-  - black_model
-  - caps_and_floors
-  - interest_rate_derivatives
-  - option_pricing
-  - risk_neutral
 aliases:
-  - Black-Scholes Approach
-  - Caps and Floors Pricing
-  - Interest Rate Derivatives
+- Black-Scholes Approach
+- Caps and Floors Pricing
+- Interest Rate Derivatives
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-751e3c
 key_concepts:
-  - Black-Scholes model
-  - Caps and floors
-  - Floating rate borrowers
-  - Interest rate derivatives
-  - Option payoff structure
-  - Over-the-counter market
-  - Risk neutral representation
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Ito's lemma and stochastic calculus applications
+- Partial differential equations in financial modeling
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- abs
+- apt
+- arbitrage
+- arch
+- black-scholes
+- bonds
+- brownian-motion
+- capm
+- caps
+- cds
+- convexity
+- correlation
+- credit-default-swaps
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- factor-models
+- fixed_income
+- floors
+- futures
+- garch
+- greeks
+- hedging
+- implied-volatility
+- interest-rate-swaps
+- kalman-filter
+- options
+- pde
+- risk-management
+- risk-neutral
+- stochastic-calculus
+- swaps
+- swaptions
+- time-series
+- var
+- yield-curve
+- zero-coupon
 ---
 
 # Interest Rate Derivatives-An Introduction to the  Pricing of Caps and Floors

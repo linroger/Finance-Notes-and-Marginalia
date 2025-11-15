@@ -1,20 +1,34 @@
 ---
-tags:
-  - fnma
-  - mbs
-  - mortgage_pools
-  - prepayments
-  - wac
 aliases:
-  - FNMA Pools
-  - MBS
-  - Mortgage Pool
+- FNMA Pools
+- MBS
+- Mortgage Pool
 key_concepts:
-  - Coupon and WAC
-  - MBS characteristics
-  - Mortgage pool definition
-  - Prepayment rates
-  - WAM and WALA
+- Coupon and WAC
+- MBS characteristics
+- Mortgage pool definition
+- Prepayment rates
+- WAM and WALA
+- Fixed income securities
+- Interest rate derivatives
+- Bond pricing and yield analysis
+- Duration and convexity
+- Value at risk and stress testing
+- Portfolio risk metrics
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+tags:
+- portfolio-theory
+- fixed_income
+- prepayments
+- mortgage_pools
+- wac
+- bonds
+- mbs
+- portfolio
+- risk_management
+- options
+- fnma
 ---
 
 # 15.5 MORTGAGE POOLS  

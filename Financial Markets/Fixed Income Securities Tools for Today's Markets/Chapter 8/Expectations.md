@@ -1,19 +1,28 @@
 ---
-tags:
-  - expectations_theory
-  - forward_rates
-  - interest_rates
-  - term_structure
-  - zero_coupon_bonds
 aliases:
-  - Expectations Framework
-  - Term Structure of Rates
+- Expectations Framework
+- Term Structure of Rates
 key_concepts:
-  - Expectations and term structure
-  - Forward rates definition
-  - Investor certainty
-  - Shape of term structure
-  - Short-term rate expectations
+- Expectations and term structure
+- Forward rates definition
+- Investor certainty
+- Shape of term structure
+- Short-term rate expectations
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Bond pricing and yield analysis
+- Duration and convexity
+- Interest rate modeling
+- Term structure of interest rates
+tags:
+- zero_coupon_bonds
+- bonds
+- expectations_theory
+- forward_rates
+- term_structure
+- futures
+- mathematical-finance
+- interest_rates
 ---
 
 # 8.1 EXPECTATIONS  

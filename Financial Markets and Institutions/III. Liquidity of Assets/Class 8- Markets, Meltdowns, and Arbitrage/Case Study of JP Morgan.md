@@ -1,23 +1,43 @@
 ---
-cssclasses:
-  - academia
-title: Case Study of JP Morgan
-tags:
-  - banking_system
-  - case_study
-  - financial_crisis
-  - jp_morgan
-  - risk_management
 aliases:
-  - JP Morgan Case Study
-  - JPMorgan Chase
+- JP Morgan Case Study
+- JPMorgan Chase
+cssclasses:
+- academia
 key_concepts:
-  - 2008 financial crisis
-  - 'JP Morgan: financial leader'
-  - Risk management framework
-  - Too big to fail
-  - Value-at-Risk (VaR)
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Ito's lemma and stochastic calculus applications
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- arbitrage
+- arch
+- bonds
+- cds
+- commodities
+- convexity
+- correlation
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- fixed_income
+- hedging
+- options
+- puts
+- risk-management
+- var
+title: Case Study of JP Morgan
 ---
+
 
 # Case Study of JP Morgan
 

@@ -1,23 +1,81 @@
 ---
-title: Hull White Term Structure Simulations with QuantLib Python
-source: https://gouthamanbalaraman.com/blog/hull-white-simulation-quantlib-python.html
+aliases:
+- Hull-White model
+- QuantLib simulation
 description: Discusses simulation of the Hull White interest rate term structure model
   in QuantLib Python
-tags:
-  - hull_white_model
-  - interest_rate_model
-  - quantlib_python
-  - simulation
-  - term_structure
-aliases:
-  - Hull-White model
-  - QuantLib simulation
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-30aa45
 key_concepts:
-  - Hull-White short rate model
-  - Interest rate properties
-  - QuantLib Python simulation
-  - Simulating interest rates
-  - Term structure modeling
+- Carry trades and momentum in FX markets
+- Term structure of interest rates and yield curve shapes
+- Hull White Model
+- Hull-White short rate model
+- Monte Carlo simulation techniques for path-dependent options
+- Mean-variance optimization and the efficient frontier
+- Option Greeks and portfolio risk management
+- Expectations hypothesis and liquidity preference theory
+- Solution
+- Historical simulation vs. parametric VaR models
+- Yield curve fitting and interpolation methods
+- Vega and volatility risk management
+- Interest rate properties
+- Mathematical Finance
+- Spot rates vs. forward rates modeling
+- Monte Carlo integration and variance reduction
+- Monte Carlo VaR for complex portfolios
+- Monte Carlo simulation for derivative pricing
+- Stress testing and scenario analysis
+- Currency risk management and hedging
+- Forward rates and interest rate parity
+- Control variates and importance sampling techniques
+- Theta and time decay modeling
+- Value at Risk (VaR) methodologies and backtesting
+- Case Study
+- Quantitative analysis and modeling
+- Exchange rate determination and PPP theory
+- Expected Shortfall and coherent risk measures
+- excess returns and manager skill
+- interest rate and currency derivatives
+- Monte Carlo methods for risk measurement
+- Term structure modeling
+- Value-at-Risk calculation using historical simulation
+- risk measurement and management
+- Quantitative Implementation
+- Financial markets and instruments
+- Gamma and convexity adjustments
+- Quasi-Monte Carlo and low-discrepancy sequences
+- Delta hedging and the replication argument
+- Path-dependent options and Monte Carlo integration
+- Parallel and non-parallel shifts in the yield curve
+- QuantLib Python simulation
+- Variance reduction techniques in Monte Carlo methods
+- Simulating interest rates
+- Currency markets and foreign exchange trading
+source: https://gouthamanbalaraman.com/blog/hull-white-simulation-quantlib-python.html
+tags:
+- financial-analysis
+- yield-curve
+- mathematical-finance
+- hull_white_model
+- var
+- financial-modeling
+- case-study
+- greeks
+- value-at-risk
+- exchange-rates
+- hull-white-model
+- simulation
+- term_structure
+- quantitative-implementation
+- solution
+- interest_rate_model
+- quantitative-finance
+- quantlib_python
+- monte-carlo
+- term-structure
+title: Hull White Term Structure Simulations with QuantLib Python
 ---
 
 # Hull White Term Structure Simulations with QuantLib Python

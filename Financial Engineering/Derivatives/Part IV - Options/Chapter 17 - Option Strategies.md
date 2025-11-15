@@ -1,30 +1,107 @@
 ---
-tags:
-  - bear_spreads
-  - bull_spreads
-  - butterfly_spreads
-  - condors
-  - financial_engineering
-  - option_strategies
-  - straddles
-  - strangles
-  - volatility_strategies
 aliases:
-  - Call Premium
-  - Option Payoffs
-  - Put Premium
-  - Structured Products
-  - Synthetic Securities
+- Call Premium
+- Option Payoffs
+- Put Premium
+- Structured Products
+- Synthetic Securities
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-b1289a
 key_concepts:
-  - Bull and bear spreads
-  - Combine options for payoffs
-  - Forecasting stock prices
-  - Long call payoff
-  - Long put payoff
-  - Short call payoff
-  - Short put payoff
-  - Volatility strategies
+- Apt
+- Extensions to multi-factor CAPM models
+- Combine options for payoffs
+- Duration and convexity analysis for bond portfolio management
+- Active portfolio management and performance attribution
+- Short call payoff
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Option Greeks and portfolio risk management
+- maturity date in CDS
+- Commodity markets and pricing dynamics
+- Capital Asset Pricing Model and beta estimation
+- Risk budgeting and portfolio construction techniques
+- Capital Asset Pricing Model and expected returns
+- Short put payoff
+- Mathematical derivation of the Black-Scholes partial differential equation
+- Credit spread decomposition and hazard rates
+- future value and compounding
+- Long call payoff
+- Vega and volatility risk management
+- CDS clearing and central counterparties
+- forward commitments and hedging
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- Fixed-for-floating swap cash flows and valuation
+- Long put payoff
+- Security Market Line and beta measurement
+- Theta and time decay modeling
+- Case Study
+- Interest rate swap pricing and valuation
+- Risk-neutral valuation in continuous time models
+- Credit default swap pricing and risk-neutral probabilities
+- ESG integration in portfolio management
+- Variance swaps and volatility trading strategies
+- Forecasting stock prices
+- Delta hedging strategies in options portfolio management
+- systematic risk and market exposure
+- Boundary conditions and parameter interpretation in Black-Scholes model
+- Gamma and convexity adjustments
+- Bull and bear spreads
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Delta hedging and the replication argument
+- Cross-currency basis swaps and funding
+- Currency hedging strategies for global portfolios
+- Volatility strategies
+- Black-Scholes-Merton option pricing model and its applications
+- Market portfolio and risk-free rate assumptions
+- Empirical tests and anomalies in CAPM
+tags:
+- volatility_strategies
+- straddle
+- commodities
+- credit-default-swaps
+- financial_engineering
+- strangle
+- capm
+- option_strategies
+- case-study
+- apt
+- condors
+- value-at-risk
+- put-options
+- bear_spreads
+- credit-risk
+- european-options
+- duration-convexity
+- solution
+- strangles
+- exchange-rate
+- collateralized-debt-obligations
+- garch-models
+- interest-rate-swaps
+- call-options
+- mathematical-finance
+- greeks
+- black-scholes-model
+- bull_spreads
+- exchange-rates
+- quantitative-implementation
+- butterfly_spreads
+- treasury-bonds
+- american-options
+- exotic-options
+- distressed-debt
+- structured-products
+- implied-volatility
+- straddles
+- options-strategies
 ---
+
 # Option Strategies  
 
 # Aims  

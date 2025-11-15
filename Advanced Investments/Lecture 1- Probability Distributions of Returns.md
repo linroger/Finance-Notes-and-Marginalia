@@ -1,39 +1,68 @@
 ---
-title: Lecture 1 - Probability Distributions of Returns
-cssclasses:
-  - academia
-  - finance
-tags:
-  - asset_returns
-  - empirical_distribution
-  - macro_decisions
-  - portfolio_risk
-  - probability_distributions
-  - risk_aversion
-  - portfolio_optimization
-  - modern_portfolio_theory
-  - investment_horizon
 aliases:
-  - Advanced Investments Lecture
-  - Lecture 1
-  - Probability of Returns
-  - Return Distributions
+- Advanced Investments Lecture
+- Lecture 1
+- Probability of Returns
+- Return Distributions
+cssclasses:
+- academia
+- finance
 key_concepts:
-  - Asset class allocation
-  - Empirical distribution
-  - Expected return
-  - Portfolio risk properties
-  - Returns correlation
-  - Risk measurement approaches
-  - Mean-variance optimization
-  - Sharpe ratio
-  - Risk aversion calibration
-  - Risk-return tradeoffs
-  - Market equilibrium concepts
-  - Conditional return distributions
-  - Crash risk modeling
-  - Estimation uncertainty
+- Asset class allocation
+- Empirical distribution
+- Expected return
+- Portfolio risk properties
+- Returns correlation
+- Risk measurement approaches
+- Mean-variance optimization
+- Sharpe ratio
+- Risk aversion calibration
+- Risk-return tradeoffs
+- Market equilibrium concepts
+- Conditional return distributions
+- Crash risk modeling
+- Estimation uncertainty
+- portfolio theory and asset pricing
+- risk measurement and management
+- risk-adjusted performance measurement
+- Monte Carlo simulation techniques for path-dependent options
+- Value-at-Risk calculation using historical simulation
+- Mean-variance optimization and the efficient frontier
+- Monte Carlo integration and variance reduction
+- Control variates and importance sampling techniques
+- portfolio theory and asset pricing
+- risk measurement and management
+- risk-adjusted performance measurement
+- Monte Carlo simulation techniques for path-dependent options
+- Value-at-Risk calculation using historical simulation
+- Mean-variance optimization and the efficient frontier
+- Monte Carlo integration and variance reduction
+- Control variates and importance sampling techniques
+tags:
+- asset-allocation
+- autocorrelation
+- capital-asset-pricing-model
+- commodities
+- corporate-bonds
+- expected-shortfall
+- investment_horizon
+- macro_decisions
+- mean-variance
+- modern_portfolio_theory
+- portfolio_risk
+- private-equity
+- probability_distributions
+- real-estate
+- real-estate-investment-trusts
+- reits
+- time-series
+- treasury-bonds
+- value-at-risk
+- var
+title: Lecture 1 - Probability Distributions of Returns
 ---
+
+
 
 # Lecture 1: Probability Distributions of Returns
 

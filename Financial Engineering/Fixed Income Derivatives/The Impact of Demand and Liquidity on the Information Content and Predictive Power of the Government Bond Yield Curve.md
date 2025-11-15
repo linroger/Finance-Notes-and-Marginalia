@@ -1,21 +1,68 @@
 ---
-tags:
-  - government_bonds
-  - interest_rates
-  - liquidity
-  - market_expectations
-  - yield_curve
 aliases:
-  - Forward Rates
-  - Spot Yield Curve
-  - Term Structure
-  - UK Gilt Market
+- Forward Rates
+- Spot Yield Curve
+- Term Structure
+- UK Gilt Market
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-f960c3
 key_concepts:
-  - Government bond yield curve
-  - Impact of liquidity
-  - Market interest rate expectations
-  - Money market swap yield curve
-  - Predictive power of yield curve
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Term structure of interest rates and yield curve modeling
+- 'Short-rate models: Vasicek, CIR, and mean reversion'
+- Bond pricing and fixed income securities valuation
+- Monte Carlo simulation for derivatives valuation
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- abs
+- apt
+- arbitrage
+- arch
+- binomial
+- black-scholes
+- bonds
+- capm
+- cir
+- convexity
+- corporate-bonds
+- correlation
+- credit-risk
+- credit-spreads
+- delta
+- derivatives-pricing
+- duration
+- expected-shortfall
+- factor-models
+- fixed_income
+- gamma
+- garch
+- greeks
+- hedging
+- hull-white
+- interest-rate-swaps
+- monte-carlo
+- replication
+- risk-management
+- risk-neutral
+- stress-testing
+- swaps
+- term-structure
+- theta
+- var
+- vega
+- yield-curve
+- zero-coupon
 ---
 
 # The Impact of Demand and Liquidity on the Information Content and Predictive Power of the Government Bond Yield Curve

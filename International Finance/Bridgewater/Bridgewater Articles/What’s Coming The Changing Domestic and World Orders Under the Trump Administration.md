@@ -1,25 +1,73 @@
 ---
-cssclasses:
-  - academia
-title: What’s Coming The Changing Domestic and World Orders Under the Trump Administration
-source: 
-  https://www.linkedin.com/pulse/whats-coming-changing-domestic-world-orders-under-trump-ray-dalio-v4yge/?trackingId=sJ1rfJbWRGiqvZgzbZMYUw%3D%3D
-description:
-tags:
-  - america_first
-  - domestic_policy
-  - foreign_policy
-  - political_war
-  - trump_administration
 aliases:
-  - Post-election analysis
-  - Trump's future plans
+- Post-election analysis
+- Trump's future plans
+cssclasses:
+- academia
+description: null
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-167063
 key_concepts:
-  - America first foreign policy
-  - Deep state replacement
-  - Department of Government Efficiency
-  - External war with China
-  - Renovation of government
+- Cox-Ross-Rubinstein parameter specification
+- Deep state replacement
+- Computational implementation of binomial option pricing
+- Option Greeks and portfolio risk management
+- Commodity markets and pricing dynamics
+- Currency derivatives
+- Solution
+- Historical simulation vs. parametric VaR models
+- Municipal Bonds
+- Renovation of government
+- Vega and volatility risk management
+- Swap spread and credit risk considerations
+- Foreign exchange markets
+- Monte Carlo VaR for complex portfolios
+- Stress testing and scenario analysis
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Value at Risk (VaR) methodologies and backtesting
+- Theta and time decay modeling
+- External war with China
+- Case Study
+- Interest rate swap pricing and valuation
+- Expected Shortfall and coherent risk measures
+- Variance swaps and volatility trading strategies
+- Department of Government Efficiency
+- Convergence of binomial model to Black-Scholes solution
+- Binomial option pricing model with multiple time steps
+- Quantitative Implementation
+- American option pricing in binomial trees
+- Gamma and convexity adjustments
+- Delta hedging and the replication argument
+- Cross-currency basis swaps and funding
+- Bridgewater Perspective
+- Delta hedging and Greeks
+- America first foreign policy
+- Options pricing and payoff structures
+source: https://www.linkedin.com/pulse/whats-coming-changing-domestic-world-orders-under-trump-ray-dalio-v4yge/?trackingId=sJ1rfJbWRGiqvZgzbZMYUw%3D%3D
+tags:
+- fx
+- binomial-model
+- commodities
+- america_first
+- interest-rate-swaps
+- political_war
+- course-material
+- case-study
+- domestic_policy
+- greeks
+- value-at-risk
+- options
+- quantitative-implementation
+- solution
+- bridgewater-perspective
+- trump_administration
+- foreign_policy
+- portfolio-theory
+- regulatory-framework
+- municipal-bonds
+title: What’s Coming The Changing Domestic and World Orders Under the Trump Administration
 ---
 
 # What’s Coming The Changing Domestic and World Orders Under the Trump Administration

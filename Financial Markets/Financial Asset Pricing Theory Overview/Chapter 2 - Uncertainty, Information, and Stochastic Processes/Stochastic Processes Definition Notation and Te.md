@@ -1,20 +1,16 @@
 ---
 tags:
-  - adapted_process
-  - information_filtration
-  - multi_period_model
-  - random_variable
-  - stochastic_process
+- apt
+- filtration
+- martingale
+- risk-management
+- var
 aliases:
-  - Stochastic Process Definition
-  - Stochastic Process Notation
-  - Stochastic Process Terminology
+- Stochastic Process Definition
+- Stochastic Process Notation
+- Stochastic Process Terminology
 key_concepts:
-  - Adapted stochastic process
-  - Information filtration
-  - Multi-period models
-  - Random variable representation
-  - Stochastic process definition
+- Value at Risk and tail risk measurement
 ---
 
 # 2.4 Stochastic processes: definition, notation, and terminology  

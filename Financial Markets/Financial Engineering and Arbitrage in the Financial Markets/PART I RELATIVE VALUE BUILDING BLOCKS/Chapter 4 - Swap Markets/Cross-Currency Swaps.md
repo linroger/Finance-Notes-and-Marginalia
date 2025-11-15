@@ -1,21 +1,45 @@
 ---
-tags:
-  - bond_valuation
-  - cross_currency_swaps
-  - currency_swaps
-  - fixed_income
-  - interest_rate_swaps
-  - liability_management
 aliases:
-  - Currency swaps
-  - FX swaps
-  - XCCY swaps
+- Currency swaps
+- FX swaps
+- XCCY swaps
 key_concepts:
-  - Alter currency of liabilities
-  - Currency exchange of bonds
-  - Fixed-for-fixed exchange
-  - Present valuing both sides
-  - Principal exchange included
+- Alter currency of liabilities
+- Currency exchange of bonds
+- Fixed-for-fixed exchange
+- Present valuing both sides
+- Principal exchange included
+- Equity valuation and analysis
+- Dividend discount models
+- Credit risk modeling
+- Default probability estimation
+- Foreign exchange markets
+- Currency derivatives
+- Bond pricing and yield analysis
+- Duration and convexity
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Derivatives pricing theory
+- Risk-neutral valuation
+- Options pricing and payoff structures
+tags:
+- equity
+- regulatory-framework
+- credit
+- interest_rate_swaps
+- cross_currency_swaps
+- hedge_funds
+- currency_swaps
+- interest_rates
+- valuation
+- fixed_income
+- liability_management
+- fx
+- bonds
+- swaps
+- bond_valuation
 ---
 
 # 4.3 CROSS-CURRENCY SWAPS  

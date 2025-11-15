@@ -1,3 +1,53 @@
+---
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-aaba95
+key_concepts:
+- Stochastic calculus in financial modeling
+- Collateralized Debt Obligations
+- Option Greeks and portfolio risk management
+- Solution
+- Historical simulation vs. parametric VaR models
+- Vega and volatility risk management
+- Value at risk and stress testing
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- Monte Carlo VaR for complex portfolios
+- Stress testing and scenario analysis
+- Fixed-for-floating swap cash flows and valuation
+- Value at Risk (VaR) methodologies and backtesting
+- Theta and time decay modeling
+- Portfolio risk metrics
+- Case Study
+- Interest rate swap pricing and valuation
+- Credit derivatives
+- Expected Shortfall and coherent risk measures
+- Structured products and CDOs
+- Variance swaps and volatility trading strategies
+- Stress Testing
+- Quantitative Implementation
+- Gamma and convexity adjustments
+- Delta hedging and the replication argument
+- Cross-currency basis swaps and funding
+- Delta hedging and Greeks
+- Options pricing and payoff structures
+tags:
+- quantitative-implementation
+- solution
+- stochastic-calculus
+- collateralized-debt-obligations
+- structured_finance
+- interest-rate-swaps
+- mathematical-finance
+- stress-testing
+- stochastic_calculus
+- case-study
+- greeks
+- risk_management
+- value-at-risk
+- options
+---
+
 # Chain rule (probability)
 
 In [probability theory](https://en.wikipedia.org/wiki/Probability_theory "Probability theory"), the **chain rule**[[1]](https://en.wikipedia.org/wiki/Chain_rule_\(probability\)#cite_note-1) (also called the **general product rule**[[2]](https://en.wikipedia.org/wiki/Chain_rule_\(probability\)#cite_note-2)[[3]](https://en.wikipedia.org/wiki/Chain_rule_\(probability\)#cite_note-3)) describes how to calculate the probability of the intersection of, not necessarily [independent](https://en.wikipedia.org/wiki/Independence_\(probability_theory\) "Independence (probability theory)"), events or the [joint distribution](https://en.wikipedia.org/wiki/Joint_distribution "Joint distribution") of [random variables](https://en.wikipedia.org/wiki/Random_variables "Random variables") respectively, using [conditional probabilities](https://en.wikipedia.org/wiki/Conditional_probabilities "Conditional probabilities"). This rule allows one to express a joint probability in terms of only conditional probabilities.[[4]](https://en.wikipedia.org/wiki/Chain_rule_\(probability\)#cite_note-4) The rule is notably used in the context of discrete [stochastic processes](https://en.wikipedia.org/wiki/Stochastic_process "Stochastic process") and in applications, e.g. the study of [Bayesian networks](https://en.wikipedia.org/wiki/Bayesian_network "Bayesian network"), which describe a [probability distribution](https://en.wikipedia.org/wiki/Probability_distribution "Probability distribution") in terms of conditional probabilities.

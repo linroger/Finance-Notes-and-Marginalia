@@ -1,21 +1,97 @@
 ---
-title: Basic Usage of QuantLib analytics library
-tags:
-  - analytics
-  - bond_pricing
-  - cashflow_schedule
-  - quantlib
-  - yield_curve
 aliases:
-  - QuantLib example
-  - QuantLib tutorial
-  - QuantLib usage
+- QuantLib example
+- QuantLib tutorial
+- QuantLib usage
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-6ef7c0
 key_concepts:
-  - Bond pricing
-  - Cashflow schedule
-  - QuantLib library
-  - Quote object
-  - Yield curve
+- Bond convexity adjustment for large interest rate changes
+- Carry trades and momentum in FX markets
+- Term structure of interest rates and yield curve shapes
+- Duration and convexity analysis for bond portfolio management
+- dirty price in CDS settlement
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Market risk measurement and portfolio volatility
+- Cashflow schedule
+- Bond pricing
+- Quote object
+- Probability of default estimation from credit spreads
+- Credit spread analysis and OAS methodology
+- Expectations hypothesis and liquidity preference theory
+- Option Greeks and portfolio risk management
+- Credit portfolio diversification and concentration
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- Vega and volatility risk management
+- Structural models of default and Merton formulation
+- CDS clearing and central counterparties
+- fixed income risk measurement
+- CDS-Bond basis and arbitrrage opportunities
+- Yield curve
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- Credit default swap pricing and recovery assumptions
+- GARCH models and volatility forecasting
+- 'Structured products: CDOs, CLOs, and credit derivatives'
+- Course Material
+- Currency risk management and hedging
+- Forward rates and interest rate parity
+- Theta and time decay modeling
+- QuantLib library
+- Synthetic credit derivatives and index trades
+- Case Study
+- Exchange rate determination and PPP theory
+- Credit default swap pricing and risk-neutral probabilities
+- present value and discounting methods
+- Credit exposure measurement and EAD
+- Loss given default and recovery rates
+- settlement date in CDS
+- Credit intermediation and information asymmetry
+- clean price in CDS settlement
+- Gamma and convexity adjustments
+- Credit risk migration matrices and rating transition
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Delta hedging and the replication argument
+- Parallel and non-parallel shifts in the yield curve
+- Gamma trading and convexity adjustment techniques
+- Counterparty credit exposure measurement
+- Credit risk modeling and default probability estimation
+- Currency markets and foreign exchange trading
+tags:
+- yield-curve
+- convexity
+- credit-default-swaps
+- collateralized-debt-obligations
+- sofr
+- garch-models
+- bond_pricing
+- mathematical-finance
+- cashflow_schedule
+- course-material
+- bond-pricing
+- market-risk
+- case-study
+- greeks
+- exchange-rates
+- analytics
+- credit-risk
+- yield_curve
+- duration-convexity
+- quantitative-implementation
+- solution
+- treasury-bonds
+- infrastructure
+- corporate-bonds
+- quantlib
+- exotic-options
+- dcf-valuation
+- duration
+- term-structure
+title: Basic Usage of QuantLib analytics library
 ---
 
 # Basic Usage of QuantLib analytics library

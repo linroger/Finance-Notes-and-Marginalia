@@ -1,28 +1,71 @@
 ---
-title: Caps/Floors and Swaptions with an Application to Mortgages
-tags:
-  - caps
-  - floors
-  - swaptions
-  - interest-rate-derivatives
-  - mortgages
-  - prepayment-risk
-  - financial-engineering
-  - hedging-strategies
 aliases:
-  - Chapter 17 Caps Floors Swaptions
-  - Interest Rate Options
-  - Mortgage Applications
-key_concepts:
-  - Interest rate caps
-  - Interest rate floors
-  - Swaptions
-  - Mortgage market mechanics
-  - Prepayment risk
-  - Hedging mortgage portfolios
-  - Convexity risk
-  - Option-adjusted spreads
+- Chapter 17 Caps Floors Swaptions
+- Interest Rate Options
+- Mortgage Applications
 cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-52362c
+key_concepts:
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Monte Carlo simulation for derivatives valuation
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility smile, skew, and surface modeling
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- apt
+- arbitrage
+- binomial
+- black-scholes
+- bonds
+- capm
+- caps
+- cds
+- commodities
+- convexity
+- corporate-bonds
+- correlation
+- credit-default-swaps
+- credit-risk
+- currency-swaps
+- delta
+- derivatives-pricing
+- duration
+- european-options
+- factor-models
+- fixed-income
+- fixed_income
+- floors
+- gamma
+- greeks
+- hedging
+- hull-white
+- implied-volatility
+- interest-rate-swaps
+- martingale
+- mbs
+- monte-carlo
+- options
+- puts
+- risk-management
+- risk-neutral
+- swaps
+- swaptions
+- var
+- yield-curve
+title: Caps/Floors and Swaptions with an Application to Mortgages
 ---
 
 # CAPS/FLOORS AND SWAPTIONS WITH AN APPLICATION TO MORTGAGES  

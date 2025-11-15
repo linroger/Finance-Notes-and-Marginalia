@@ -1,20 +1,44 @@
 ---
-tags:
-  - bond_valuation
-  - duration
-  - effective_duration
-  - interest_rate_risk
-  - yield_based_duration
 aliases:
-  - DV01
-  - bond risk
-  - price sensitivity
+- DV01
+- bond risk
+- price sensitivity
 key_concepts:
-  - 'DV01: price change'
-  - asset manager perspective
-  - bond price sensitivity
-  - 'duration: % price change'
-  - portfolio duration calculation
+- 'DV01: price change'
+- asset manager perspective
+- bond price sensitivity
+- 'duration: % price change'
+- portfolio duration calculation
+- Fixed income securities
+- Interest rate derivatives
+- Foreign exchange markets
+- Currency derivatives
+- Option sensitivity analysis
+- Delta, gamma, vega, theta, rho
+- Bond pricing and yield analysis
+- Duration and convexity
+- Derivatives pricing theory
+- Risk-neutral valuation
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Interest rate modeling
+- Term structure of interest rates
+tags:
+- portfolio-theory
+- duration
+- effective_duration
+- fixed_income
+- fx
+- greeks
+- bonds
+- bond_valuation
+- derivatives
+- options
+- portfolio
+- interest_rate_risk
+- mathematical-finance
+- interest_rates
+- yield_based_duration
 ---
 
 # 4.4 DURATION  

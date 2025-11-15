@@ -1,28 +1,122 @@
 ---
-title: Price-to-Sales Ratios in Stock Valuation
-tags:
-  - financial_ratios
-  - growth_stocks
-  - price_sales_ratio
-  - ps_ratio
-  - stock_valuation
-  - valuation_metrics
-  - corporate_finance
 aliases:
-  - P/S
-  - P/S Ratio
-  - Price/Sales
+- P/S
+- P/S Ratio
+- Price/Sales
 cssclasses:
-  - academia
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch04-FE-tags-v2
 key_concepts:
-  - Company revenue assessment
-  - Low P/S indicating potential undervaluation
-  - Market capitalization relationship to sales
-  - Stock valuation for unprofitable or growth companies
-  - Industry-specific comparative analysis
-  - Debt consideration in P/S interpretation
-  - Enterprise value/sales alternative metric
-  - Profit margin correlation with sales metrics
+- Liquidity coverage ratio and net stable funding ratio
+- Deposit Insurance
+- Regulatory changes and market structure evolution
+- Carry trades and momentum in FX markets
+- Stress testing and supervisory review processes
+- Debt capacity analysis in LBO transactions
+- Solution
+- Profit margin correlation with sales metrics
+- Leverage ratio and large exposures
+- Financial distress and bankruptcy valuation
+- 'Hedge fund strategies: long-short, market neutral, event-driven'
+- Debt consideration in P/S interpretation
+- Mathematical Finance
+- Capital structure theory and optimal debt levels
+- Exit strategies and return maximization
+- Leveraged buyout financial modeling and returns
+- Deposit insurance and systemic risk prevention
+- Shadow Banking
+- Capital account liberalization and financial development
+- Bank resolution and too-big-to-fail policies
+- Course Material
+- Risk-weighted assets and capital adequacy ratios
+- Currency risk management and hedging
+- Forward rates and interest rate parity
+- LBO financing sources and covenant structures
+- Basel III capital and liquidity standards development
+- Company revenue assessment
+- Margin lending and leverage in alternative investments
+- Dividend Policy
+- Case Study
+- Exchange rate determination and PPP theory
+- Net interest margin analysis and banking profitability
+- Balance Of Payments
+- Private equity investing and leveraged buyouts
+- Basel III regulatory framework and capital requirements
+- Bank liquidity ratios and funding risk management
+- Industry-specific comparative analysis
+- Stress Testing
+- Systemic risk and financial stability
+- Market capitalization relationship to sales
+- Shadow banking system and regulatory arbitrage
+- Quantitative Implementation
+- Bank stress testing and supervisory oversight
+- Capital Structure
+- Hedge fund strategies and alternative investments
+- Leveraged Buyout financial structures and returns
+- Stock valuation for unprofitable or growth companies
+- Distressed Debt
+- Low P/S indicating potential undervaluation
+- Commercial bank business model and revenue streams
+- Enterprise value/sales alternative metric
+- Currency markets and foreign exchange trading
+- Equity returns and value creation mechanisms
+tags:
+- basel-iii
+- enterprise-value
+- balance-of-payments
+- dividend-policy
+- mathematical-finance
+- balance-sheet
+- growth_stocks
+- ps_ratio
+- course-material
+- bank-regulation
+- capital-structure
+- shadow-banking
+- financial_ratios
+- corporate_finance
+- case-study
+- valuation_metrics
+- exchange-rates
+- hedge-funds
+- leveraged-buyouts
+- quantitative-implementation
+- solution
+- private-equity
+- stress-testing
+- systemic-risk
+- ev
+- distressed-debt
+- stock_valuation
+- deposit-insurance
+- financial-ratios
+- price_sales_ratio
+- price-sales-ratio
+- revenue-valuation
+- growth-stock-valuation
+- market-cap-analysis
+- sales-multiples
+- revenue-multiples
+- stock-valuation-metrics
+- growth-valuation
+- cyclical-industries
+- unprofitable-companies
+- revenue-analysis
+- market-valuation
+- equity-valuation
+- valuation-multiples
+- sales-based-valuation
+- growth-potential
+- market-efficiency
+- value-investing
+- undervaluation-signals
+- market-cap-to-sales
+- profit-margins
+- debt-consideration
+- company-revenue
+title: Price-to-Sales Ratios in Stock Valuation
 ---
 
 # Price-to-Sales Ratios in Stock Valuation

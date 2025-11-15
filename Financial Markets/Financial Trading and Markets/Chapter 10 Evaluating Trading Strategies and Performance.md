@@ -1,19 +1,44 @@
 ---
-tags:
-  - investment_portfolio
-  - net_asset_value
-  - portfolio_performance
-  - risk_assessment
-  - trading_strategies
 aliases:
-  - Portfolio Performance Analysis
-  - Trading Strategy Evaluation
+- Portfolio Performance Analysis
+- Trading Strategy Evaluation
 key_concepts:
-  - Buy and hold strategy
-  - Investment system
-  - Net asset value (NAV)
-  - Portfolio decision performance
-  - Risk and return
+- Buy and hold strategy
+- Investment system
+- Net asset value (NAV)
+- Portfolio decision performance
+- Risk and return
+- Equity valuation and analysis
+- Dividend discount models
+- Fixed income securities
+- Interest rate derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Value at risk and stress testing
+- Portfolio risk metrics
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Alternative investment strategies
+tags:
+- trading_strategies
+- equity
+- investment_portfolio
+- risk_assessment
+- hedge_funds
+- structured_finance
+- portfolio-theory
+- valuation
+- fixed_income
+- trading
+- bonds
+- net_asset_value
+- futures
+- risk_management
+- options
 ---
 
 # Evaluating Trading Strategies and Performance  

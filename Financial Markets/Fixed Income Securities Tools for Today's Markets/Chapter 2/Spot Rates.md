@@ -1,19 +1,36 @@
 ---
-tags:
-  - discount_factors
-  - semiannual_compounding
-  - sofr_swap_rates
-  - spot_loan
-  - spot_rates
 aliases:
-  - Spot Rate
-  - Spot Rates Definition
+- Spot Rate
+- Spot Rates Definition
 key_concepts:
-  - Discount factors and spot rates
-  - Forward vs spot transactions
-  - SOFR swap rates
-  - Semiannual compounded spot rate
-  - Spot rate definition
+- Discount factors and spot rates
+- Forward vs spot transactions
+- SOFR swap rates
+- Semiannual compounded spot rate
+- Spot rate definition
+- Foreign exchange markets
+- Currency derivatives
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Interest rate modeling
+- Term structure of interest rates
+tags:
+- discount_factors
+- valuation
+- sofr_swap_rates
+- fx
+- swaps
+- futures
+- options
+- spot_loan
+- spot_rates
+- mathematical-finance
+- semiannual_compounding
+- interest_rates
 ---
 
 # 2.4 SPOT RATES  

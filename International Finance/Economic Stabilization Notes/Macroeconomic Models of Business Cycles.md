@@ -1,40 +1,51 @@
 ---
-cssclasses: ["academia"]
-title: Macroeconomic Models of Business Cycles
+aliases:
+- IS curve
+- business cycle models
+- consumption smoothing
+- Aggregate Demand Models
+- Macroeconomic Stabilization
+cssclasses:
+- academia
+key_concepts:
+- aggregate demand
+- consumer durables
+- consumption smoothing
+- ex ante real interest
+- real interest rate
+- IS curve derivation
+- life-cycle hypothesis
+- permanent income hypothesis
+- marginal propensity to consume
+- wealth effects
+- time preference
+- capital market imperfections
+- borrowing constraints
+- policy effectiveness
+- Equity valuation and analysis
+- Dividend discount models
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
 linter-yaml-title-alias: Macroeconomic Models of Business Cycles
 tags:
-  - aggregate_demand
-  - business_cycles
-  - is_curve
-  - macroeconomic_models
-  - real_interest_rate
-  - consumption_theory
-  - life_cycle_hypothesis
-  - permanent_income_hypothesis
-  - fiscal_policy
-  - monetary_policy
-  - stabilization_policy
-aliases:
-  - IS curve
-  - business cycle models
-  - consumption smoothing
-  - Aggregate Demand Models
-  - Macroeconomic Stabilization
-key_concepts:
-  - aggregate demand
-  - consumer durables
-  - consumption smoothing
-  - ex ante real interest
-  - real interest rate
-  - IS curve derivation
-  - life-cycle hypothesis
-  - permanent income hypothesis
-  - marginal propensity to consume
-  - wealth effects
-  - time preference
-  - capital market imperfections
-  - borrowing constraints
-  - policy effectiveness
+- equity
+- regulatory-framework
+- monetary_policy
+- aggregate_demand
+- mathematical-finance
+- real_interest_rate
+- interest_rates
+- permanent_income_hypothesis
+- business_cycles
+- consumption_theory
+- life_cycle_hypothesis
+- trading
+- bonds
+- futures
+- risk_management
+title: Macroeconomic Models of Business Cycles
 ---
 
 # Macroeconomic Models of Business Cycles

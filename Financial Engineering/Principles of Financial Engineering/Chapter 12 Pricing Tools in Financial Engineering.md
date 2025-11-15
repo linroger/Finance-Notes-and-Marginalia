@@ -1,8 +1,69 @@
 ---
-title: "Pricing Tools in Financial Engineering"
+category: Principles of Financial Engineering
 chapter: 12
-subject: "Financial Engineering"
-category: "Principles of Financial Engineering"
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-1a56e3
+key_concepts:
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Monte Carlo simulation for derivatives valuation
+- Partial differential equations in financial modeling
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+subject: Financial Engineering
+tags:
+- abs
+- american-options
+- apt
+- arbitrage
+- asian-options
+- barrier-options
+- binomial
+- black-scholes
+- bonds
+- brownian-motion
+- capm
+- commodities
+- convexity
+- correlation
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- european-options
+- exotic-options
+- factor-models
+- fixed_income
+- forwards
+- fx
+- gamma
+- greeks
+- hedging
+- interest-rate-swaps
+- martingale
+- monte-carlo
+- options
+- pde
+- replication
+- risk-management
+- risk-neutral
+- stochastic-calculus
+- swaps
+- swaptions
+- theta
+- var
+- vega
+title: Pricing Tools in Financial Engineering
 ---
 
 # PRICING TOOLS IN FINANCIAL ENGINEERING  

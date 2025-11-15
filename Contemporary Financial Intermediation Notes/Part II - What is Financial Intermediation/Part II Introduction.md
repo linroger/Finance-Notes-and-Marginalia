@@ -1,3 +1,97 @@
+---
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-3bfa6c
+key_concepts:
+- Apt
+- Carry trades and momentum in FX markets
+- Term structure of interest rates and yield curve shapes
+- investment banking services and activities
+- Duration and convexity analysis for bond portfolio management
+- Sovereign risk assessment and country analysis
+- Mean-variance optimization and the efficient frontier
+- Extreme value theory and tail risk modeling
+- Single-name vs. index CDS trading
+- Credit risk modeling and default probability estimation
+- Commodity markets and pricing dynamics
+- Risk budgeting and portfolio construction techniques
+- Expectations hypothesis and liquidity preference theory
+- Historical simulation vs. parametric VaR models
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- CDS clearing and central counterparties
+- fixed income risk measurement
+- DV01 calculation and interest rate risk hedging
+- forward commitments and hedging
+- CDS-Bond basis and arbitrrage opportunities
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- Monte Carlo integration and variance reduction
+- Deposit insurance and systemic risk prevention
+- Monte Carlo VaR for complex portfolios
+- Shadow Banking
+- Stress testing and scenario analysis
+- Course Material
+- Currency risk management and hedging
+- Forward rates and interest rate parity
+- Control variates and importance sampling techniques
+- Value at Risk (VaR) methodologies and backtesting
+- Risk-neutral pricing methodology for derivative securities
+- Case Study
+- Operational risk quantification and modeling
+- Exchange rate determination and PPP theory
+- Net interest margin analysis and banking profitability
+- Arbitrage opportunities and risk-free profit extraction
+- Expected Shortfall and coherent risk measures
+- Credit default swap pricing and risk-neutral probabilities
+- zero-coupon bond pricing and yields
+- Bank liquidity ratios and funding risk management
+- Credit exposure measurement and EAD
+- par value in CDS settlement
+- Value-at-Risk calculation using historical simulation
+- Shadow banking system and regulatory arbitrage
+- Credit risk migration matrices and rating transition
+- Credit risk modeling and portfolio correlation analysis
+- Backtesting procedures for risk models
+- Credit risk assessment and loan portfolio management
+- Hedge fund strategies and alternative investments
+- Parallel and non-parallel shifts in the yield curve
+- Liquidity risk measurement and management
+- Systemic risk indicators and early warning systems
+- Global financial stability and systemic risk monitoring
+- Loss given default and recovery rates
+- Currency markets and foreign exchange trading
+tags:
+- yield-curve
+- commodities
+- credit-default-swaps
+- mathematical-finance
+- course-material
+- rating-agencies
+- shadow-banking
+- case-study
+- apt
+- value-at-risk
+- exchange-rates
+- hedge-funds
+- credit-risk
+- quantitative-implementation
+- duration-convexity
+- solution
+- private-equity
+- banking
+- investment-banking
+- stress-testing
+- liquidity-risk
+- systemic-risk
+- deposit-insurance
+- financial-intermediation
+- duration
+- expected-shortfall
+- operational-risk
+- monte-carlo
+---
+
 # The Nature and Variety of Financial Intermediation  
 
 “Don’t it always seem to go that you don’t know what you’ve got ‘til it’s gone?”  

@@ -1,19 +1,44 @@
 ---
-tags:
-  - arbitrage
-  - bond_pricing
-  - cash_flows
-  - coupon_bonds
-  - riskless_bonds
 aliases:
-  - Bond Arbitrage
-  - Fixed Income Arbitrage
+- Bond Arbitrage
+- Fixed Income Arbitrage
 key_concepts:
-  - Bond portfolio value
-  - Bond replication
-  - Cash flow series
-  - Guaranteed payments
-  - Riskless arbitrage
+- Bond portfolio value
+- Bond replication
+- Cash flow series
+- Guaranteed payments
+- Riskless arbitrage
+- Credit risk modeling
+- Default probability estimation
+- Fixed income securities
+- Interest rate derivatives
+- Foreign exchange markets
+- Currency derivatives
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Derivatives pricing theory
+- Risk-neutral valuation
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Value at risk and stress testing
+tags:
+- credit
+- hedge_funds
+- bond_pricing
+- mathematical-finance
+- interest_rates
+- portfolio-theory
+- fixed_income
+- fx
+- bonds
+- commodities
+- futures
+- derivatives
+- options
+- coupon_bonds
+- risk_management
 ---
 
 # Arbitrage and Hedging With Fixed Income Instruments and Currencies  

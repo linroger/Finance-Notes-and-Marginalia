@@ -1,36 +1,29 @@
 ---
-title: Financial Markets and Institutions Lecture Notes
-tags:
-  - agency_problems
-  - asset_substitution_theory
-  - borrower_lender_conflicts
-  - capital_structure
-  - debt_capacity
-  - financial_institutions
-  - debt_contracts
-  - corporate_control
-  - leverage_effects
-  - bankruptcy_risk
-  - asymmetric_information
 aliases:
-  - Financial Institutions Lecture Notes
-  - Financial Markets Lecture Notes
-  - Markets and Institutions Notes
-key_concepts:
-  - Asset substitution theory
-  - Borrower-Lender conflicts
-  - Debt capacity impact
-  - Implied agency problems
-  - Perverse incentive effects
-  - Debt contract monitoring
-  - Credit risk assessment
-  - Information asymmetry
-  - Leverage and capital structure
-  - Covenant enforcement
-  - Single lender advantages
-  - Federal Trust Indenture Act
+- Financial Institutions Lecture Notes
+- Financial Markets Lecture Notes
+- Markets and Institutions Notes
 cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+key_concepts:
+- Risk-neutral measures and martingale pricing
+- Bond pricing and fixed income securities valuation
+- Ito's lemma and stochastic calculus applications
+- Credit risk modeling and default probability estimation
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
+tags:
+- arbitrage
+- correlation
+- credit-risk
+- martingale
+- no-arbitrage
+- risk-management
+- risk-neutral
+title: Financial Markets and Institutions Lecture Notes
 ---
+
 
 # Financial Markets and Institutions Lecture Notes
 

@@ -1,30 +1,24 @@
 ---
 tags:
-  - financial_markets
-  - investment_banking
-  - ipo
-  - issuance
-  - otc
-  - primary_markets
-  - resale
-  - secondary_markets
-  - securities
+- apt
+- bonds
+- fixed_income
+- floors
+- forwards
+- options
+- risk-management
+- var
 aliases:
-  - Issuance and Resale Markets
-  - Primary Market
-  - Primary and Secondary Markets
-  - Secondary Market
+- Issuance and Resale Markets
+- Primary Market
+- Primary and Secondary Markets
+- Secondary Market
 key_concepts:
-  - Asset markets
-  - Initial public offering
-  - Investment bankers
-  - Primary markets
-  - Private placement
-  - Secondary markets
-  - Securities transaction
-  - Share risks
-  - Transfer funds
-  - Users of capital
+- Ito's lemma and stochastic calculus applications
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
 ---
 
 # 1.6 PRIMARY (ISSUANCE) AND SECONDARY (RESALE) MARKETS  

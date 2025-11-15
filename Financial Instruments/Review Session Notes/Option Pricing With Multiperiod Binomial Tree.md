@@ -1,31 +1,50 @@
 ---
-cssclasses:
-  - academia
-linter-yaml-title-alias: Option Pricing with Multiperiod Binomial Tree
-title: Option Pricing with Multiperiod Binomial Tree
-tags:
-  - binomial_tree
-  - dividend_yield
-  - european_option
-  - option_pricing
-  - stock_price
-  - replicating_portfolio
-  - self_financing
-  - no_arbitrage
 aliases:
-  - BOPM
-  - Binomial Option Pricing
-  - Multiperiod Binomial Model
-  - Option Tree Model
+- BOPM
+- Binomial Option Pricing
+- Multiperiod Binomial Model
+- Option Tree Model
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-0b2eb0
 key_concepts:
-  - European call option pricing
-  - Multiperiod binomial tree construction
-  - Option pricing with dividends
-  - Replicating portfolio strategy
-  - Stock price payoff tree modeling
-  - Delta hedging calculation
-  - Self-financing portfolio properties
-  - Backward induction methodology
+- Black-Scholes model and option pricing theory
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+- Binomial option pricing model and lattice methods
+linter-yaml-title-alias: Option Pricing with Multiperiod Binomial Tree
+tags:
+- arbitrage
+- binomial
+- black-scholes
+- bonds
+- capm
+- convexity
+- correlation
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- european-options
+- exotic-options
+- fixed_income
+- gamma
+- greeks
+- hedging
+- options
+- replication
+- risk-management
+- theta
+- vega
+title: Option Pricing with Multiperiod Binomial Tree
 ---
 
 # Option Pricing with Multiperiod Binomial Tree

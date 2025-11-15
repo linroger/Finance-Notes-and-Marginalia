@@ -1,23 +1,56 @@
 ---
-cssclasses: academia
-linter-yaml-title-alias: LECTURE NOTE 5 BLACK SCHOLES FORMULA
-title: Lecture Note 5- Black Scholes Formula
-tags:
-  - black_scholes_formula
-  - delta_hedging
-  - dynamic_replication
-  - option_premium
-  - option_pricing
 aliases:
-  - Black Scholes Formula
-  - Black and Scholes Formula
-  - Lecture Note 5- Black Scholes Formula
+- Black Scholes Formula
+- Black and Scholes Formula
+- Lecture Note 5- Black Scholes Formula
+cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-3d5b3d
 key_concepts:
-  - Black Scholes Formula
-  - Delta Hedging
-  - Dynamic Replication
-  - Option Premium
-  - Replicating Portfolio
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Monte Carlo simulation for derivatives valuation
+- Partial differential equations in financial modeling
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+linter-yaml-title-alias: LECTURE NOTE 5 BLACK SCHOLES FORMULA
+tags:
+- apt
+- arbitrage
+- binomial
+- black-scholes
+- bonds
+- capm
+- convexity
+- delta
+- delta-hedging
+- derivatives-pricing
+- duration
+- exotic-options
+- factor-models
+- fixed_income
+- gamma
+- gamma-hedging
+- greeks
+- hedging
+- monte-carlo
+- options
+- pde
+- replication
+- risk-management
+- risk-neutral
+- theta
+- var
+- vega
+- zero-coupon
+title: Lecture Note 5- Black Scholes Formula
 ---
 
 # Lecture Note 5- Black Scholes Formula

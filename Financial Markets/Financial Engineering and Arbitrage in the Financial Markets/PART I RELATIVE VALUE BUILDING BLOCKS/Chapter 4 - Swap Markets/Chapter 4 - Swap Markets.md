@@ -1,3 +1,31 @@
+---
+key_concepts:
+- Equity valuation and analysis
+- Dividend discount models
+- Foreign exchange markets
+- Currency derivatives
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Derivatives pricing theory
+- Risk-neutral valuation
+- Structured products and CDOs
+- Credit derivatives
+- Interest rate modeling
+- Term structure of interest rates
+tags:
+- equity
+- valuation
+- fx
+- volatility
+- commodities
+- swaps
+- futures
+- derivatives
+- structured_finance
+- interest_rates
+---
 %% Begin Waypoint %%
 - **Chapter 4 - Swap Markets**
 	- Chapter 4 - Swap Markets

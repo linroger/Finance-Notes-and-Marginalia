@@ -1,3 +1,48 @@
+---
+key_concepts:
+- fixed income risk measurement
+- credit risk transfer mechanisms
+- interest rate and currency derivatives
+- liquidity measurement and management
+- termination date in CDS
+- Delta hedging strategies in options portfolio management
+- Duration and convexity analysis for bond portfolio management
+- Credit risk modeling and portfolio correlation analysis
+- Capital Asset Pricing Model and beta estimation
+- Arbitrage Pricing Theory and multifactor models
+- Active portfolio management and performance attribution
+- Risk budgeting and portfolio construction techniques
+- ESG integration in portfolio management
+- Credit risk assessment and loan portfolio management
+- Shadow banking system and regulatory arbitrage
+- Arbitrage opportunities and risk-free profit extraction
+- International arbitrage and covered interest rate parity
+- Currency hedging strategies for global portfolios
+- fixed income risk measurement
+- credit risk transfer mechanisms
+- interest rate and currency derivatives
+- liquidity measurement and management
+- termination date in CDS
+- Delta hedging strategies in options portfolio management
+- Duration and convexity analysis for bond portfolio management
+- Credit risk modeling and portfolio correlation analysis
+- Capital Asset Pricing Model and beta estimation
+- Arbitrage Pricing Theory and multifactor models
+- Active portfolio management and performance attribution
+- Risk budgeting and portfolio construction techniques
+tags:
+- arbitrage
+- cds
+- counterparty-risk
+- credit-risk
+- currency-risk
+- currency-swaps
+- duration
+- exchange-rate
+- interest-rate-swaps
+- structured-products
+---
+
  
 source: https://www.investopedia.com/terms/s/swaprate.asp
 description: The swap rate is a fixed interest rate that is used to calculate payments

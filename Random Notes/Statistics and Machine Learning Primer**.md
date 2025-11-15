@@ -1,3 +1,87 @@
+---
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-ce0bff
+key_concepts:
+- Apt
+- Liquidity coverage ratio and net stable funding ratio
+- Cox-Ross-Rubinstein parameter specification
+- Extensions to multi-factor CAPM models
+- Stochastic calculus in financial modeling
+- Stress testing and supervisory review processes
+- Brownian motion and Wiener processes in finance
+- Computational implementation of binomial option pricing
+- Collateralized Debt Obligations
+- Option Greeks and portfolio risk management
+- Capital Asset Pricing Model and expected returns
+- Path-dependent derivatives
+- Leverage ratio and large exposures
+- Value at risk and stress testing
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- Option sensitivity analysis
+- GARCH models and volatility forecasting
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Risk-weighted assets and capital adequacy ratios
+- Security Market Line and beta measurement
+- Portfolio risk metrics
+- Monte Carlo simulation
+- Case Study
+- Interest rate swap pricing and valuation
+- Delta, gamma, vega, theta, rho
+- Basel III regulatory framework and capital requirements
+- Variance swaps and volatility trading strategies
+- Convergence of binomial model to Black-Scholes solution
+- Binomial option pricing model with multiple time steps
+- American option pricing in binomial trees
+- Capital Structure
+- Cross-currency basis swaps and funding
+- Delta hedging and Greeks
+- Market portfolio and risk-free rate assumptions
+- Options pricing and payoff structures
+- Empirical tests and anomalies in CAPM
+tags:
+- binomial-model
+- stochastic-calculus
+- collateralized-debt-obligations
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- monte_carlo
+- course-material
+- calibration
+- bank-regulation
+- capital-structure
+- capm
+- brownian-motion
+- case-study
+- apt
+- greeks
+- risk_management
+- kalman-filter
+- value-at-risk
+- portfolio
+- exchange-rates
+- hedge-funds
+- options
+- efficient-market
+- momentum-strategies
+- quantitative-implementation
+- solution
+- real-estate
+- model-calibration
+- stress-testing
+- stochastic_calculus
+- infrastructure
+- portfolio-theory
+- implied-volatility
+- volatility
+- municipal-bonds
+- mean-reversion
+- monte-carlo
+---
+
 # **Statistics and Machine Learning Primer**
 
 ## **Table of Contents**

@@ -1,22 +1,44 @@
 ---
-tags:
-  - commodity_markets
-  - credit_risk
-  - currency_linked_note
-  - inflation_risk
-  - sec_rule_434
-  - structured_notes
 aliases:
-  - Structured Products
-  - Structured Securities
+- Structured Products
+- Structured Securities
 key_concepts:
-  - Access to risk
-  - Commodity price exposure
-  - Credit risk of issuer
-  - Currency-linked note example
-  - Implicit options embedded
-  - Inflation risk hedging
-  - Structured notes characteristics
+- Access to risk
+- Commodity price exposure
+- Credit risk of issuer
+- Currency-linked note example
+- Implicit options embedded
+- Inflation risk hedging
+- Structured notes characteristics
+- Equity valuation and analysis
+- Dividend discount models
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Foreign exchange markets
+- Currency derivatives
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Derivatives pricing theory
+- Risk-neutral valuation
+- Credit risk modeling
+tags:
+- equity
+- model-calibration
+- currency_linked_note
+- sec_rule_434
+- credit
+- calibration
+- cds
+- structured_finance
+- interest_rates
+- credit_risk
+- portfolio-theory
+- valuation
+- fx
+- trading
+- commodities
 ---
 
 # 8.1  A SIMPLE CLASSIFICATION OF STRUCTURED NOTES  

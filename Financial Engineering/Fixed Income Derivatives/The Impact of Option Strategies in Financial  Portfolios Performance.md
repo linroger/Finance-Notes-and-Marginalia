@@ -1,24 +1,45 @@
 ---
-tags:
-  - covered_call
-  - french_data
-  - it_m
-  - mean_variance
-  - option_strategies
-  - otm
-  - portfolio_performance
-  - protective_put
-  - stochastic_dominance
 aliases:
-  - Option Strategy Impact
-  - Portfolio Performance Analysis
+- Option Strategy Impact
+- Portfolio Performance Analysis
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-771e81
 key_concepts:
-  - Covered call writing
-  - Mean-variance criterion
-  - Option strategies performance
-  - Portfolio management
-  - Protective put buying
-  - Stochastic dominance analysis
+- Bond pricing and fixed income securities valuation
+- Monte Carlo simulation for derivatives valuation
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility smile, skew, and surface modeling
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+tags:
+- abs
+- apt
+- arbitrage
+- arch
+- bonds
+- calls
+- capm
+- derivatives-pricing
+- factor-models
+- fixed_income
+- futures
+- futures-markets
+- fx
+- garch
+- hedging
+- implied-volatility
+- interest-rate-swaps
+- monte-carlo
+- options
+- puts
+- risk-management
+- swaps
+- var
 ---
 
 # The Impact of Option Strategies in Financial  Portfolios Performance

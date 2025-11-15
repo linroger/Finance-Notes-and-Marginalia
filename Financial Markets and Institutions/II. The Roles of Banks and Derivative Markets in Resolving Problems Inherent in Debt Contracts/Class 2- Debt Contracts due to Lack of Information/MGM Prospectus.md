@@ -1,33 +1,40 @@
 ---
-cssclasses:
-  - academia
-title: MGM Prospectus
-tags:
-  - debt_offering
-  - filing_424b5
-  - mgm_mirage
-  - prospectus
-  - senior_notes
-  - bond_covenants
-  - corporate_bonds
 aliases:
-  - MGM
-  - MGM Mirage
-  - Prospectus Supplement
-  - MGM Bond Offering
-  - Senior Notes Prospectus
+- MGM
+- MGM Mirage
+- Prospectus Supplement
+- MGM Bond Offering
+- Senior Notes Prospectus
+cssclasses:
+- academia
 key_concepts:
-  - Joint Book-Running Managers
-  - Prospectus Information
-  - Redemption Price
-  - Senior Notes
-  - Unsecured Senior Obligations
-  - Interest Payment Dates
-  - Guarantee Structure
-  - Covenant Restrictions
-  - Use of Proceeds
-  - Risk Factors
+- Risk-neutral measures and martingale pricing
+- 'Short-rate models: Vasicek, CIR, and mean reversion'
+- Bond pricing and fixed income securities valuation
+- Monte Carlo simulation for derivatives valuation
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- arbitrage
+- bonds
+- cir
+- correlation
+- credit-risk
+- derivatives-pricing
+- fixed_income
+- hedging
+- monte-carlo
+- risk-management
+- risk-neutral
+- var
+- vega
+title: MGM Prospectus
 ---
+
 
 # MGM Prospectus
 

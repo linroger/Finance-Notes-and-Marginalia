@@ -1,21 +1,43 @@
 ---
-tags:
-  - arbitrage
-  - bond_contract
-  - forward_contracts
-  - forward_prices
-  - repo_rate
-  - treasury_bonds
 aliases:
-  - Forward agreement
-  - Forward bond contract
-  - Forward price
+- Forward agreement
+- Forward bond contract
+- Forward price
 key_concepts:
-  - Arbitrage arguments
-  - Forward bond contract
-  - Forward price definition
-  - Invoice price
-  - Repo rate
+- Arbitrage arguments
+- Forward bond contract
+- Forward price definition
+- Invoice price
+- Repo rate
+- Fixed income securities
+- Interest rate derivatives
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Alternative investment strategies
+- Hedge fund replication
+- Arbitrage theory and practice
+- Law of one price
+- Interest rate modeling
+tags:
+- fixed_income
+- bond_contract
+- bonds
+- treasury_bonds
+- repo_rate
+- futures
+- cds
+- options
+- forward_prices
+- hedge_funds
+- arbitrage
+- forward_contracts
+- interest_rates
 ---
 
 # 11.1 FORWARD CONTRACTS AND FORWARD PRICES  

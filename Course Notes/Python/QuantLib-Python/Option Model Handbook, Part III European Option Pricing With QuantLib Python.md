@@ -1,24 +1,82 @@
 ---
-title: Option Model Handbook,  Part III European Option Pricing With QuantLib Python
-source: 
-  https://gouthamanbalaraman.com/blog/european-option-binomial-tree-quantlib-python.html
+aliases:
+- Option Pricing with QuantLib
+- QuantLib European Options
 description: Demonstrates how to price European options using QuantLib Python. Methods
   using Black-Scholes-Merton formula and binomial tree will be discussed.
-tags:
-  - aapl_option
-  - binomial_tree
-  - black_scholes_merton
-  - european_option_pricing
-  - quantlib_python
-aliases:
-  - Option Pricing with QuantLib
-  - QuantLib European Options
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-2ddcb1
 key_concepts:
-  - AAPL call option
-  - Binomial tree method
-  - Black-Scholes-Merton formula
-  - European option pricing
-  - QuantLib Python example
+- European Options
+- Black-Scholes-Merton formula
+- Cox-Ross-Rubinstein parameter specification
+- Term structure of interest rates and yield curve shapes
+- Sensitivity analysis in DCF models
+- Risk assessment and management
+- Computational implementation of binomial option pricing
+- Binomial option pricing model for American-style options
+- Expectations hypothesis and liquidity preference theory
+- Mathematical derivation of the Black-Scholes partial differential equation
+- Solution
+- Historical simulation vs. parametric VaR models
+- Discounted Cash Flow valuation methodology
+- Yield curve fitting and interpolation methods
+- option pricing models and PDE solutions
+- Mathematical Finance
+- Black-Scholes partial differential equation and its boundary conditions
+- Spot rates vs. forward rates modeling
+- European option pricing
+- Monte Carlo VaR for complex portfolios
+- Stress testing and scenario analysis
+- Portfolio optimization and asset allocation
+- Value at Risk (VaR) methodologies and backtesting
+- Case Study
+- Quantitative analysis and modeling
+- Dividend Policy
+- Expected Shortfall and coherent risk measures
+- excess returns and manager skill
+- Risk-neutral valuation in continuous time models
+- Binomial tree method
+- Convergence of binomial model to Black-Scholes solution
+- AAPL call option
+- Binomial option pricing model with multiple time steps
+- Fixed income analysis and term structure
+- QuantLib Python example
+- Free cash flow to equity and firm valuation
+- Boundary conditions and parameter interpretation in Black-Scholes model
+- Limitations and extensions of the Black-Scholes framework
+- Derivatives pricing and hedging strategies
+- Terminal value estimation and perpetuity growth
+- American option pricing in binomial trees
+- Financial markets and instruments
+- Quantitative Implementation
+- Parallel and non-parallel shifts in the yield curve
+- Black-Scholes-Merton option pricing model and its applications
+source: https://gouthamanbalaraman.com/blog/european-option-binomial-tree-quantlib-python.html
+tags:
+- financial-analysis
+- yield-curve
+- binomial-model
+- dividend-policy
+- mathematical-finance
+- aapl_option
+- financial-modeling
+- case-study
+- black-scholes-model
+- value-at-risk
+- exchange-rates
+- european-options
+- quantitative-implementation
+- solution
+- black_scholes_merton
+- option-pricing
+- binomial_tree
+- european_option_pricing
+- quantitative-finance
+- dcf-valuation
+- quantlib_python
+title: Option Model Handbook,  Part III European Option Pricing With QuantLib Python
 ---
 
 # Option Model Handbook, Part III European Option Pricing With QuantLib Python

@@ -1,20 +1,108 @@
 ---
-tags:
-  - equilibrium_models
-  - fixed_income_derivatives
-  - risk_neutral_valuation
-  - short_rate
-  - term_structure
 aliases:
-  - Equilibrium Term Structure
-  - Short Rate Models
+- Equilibrium Term Structure
+- Short Rate Models
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-2aca1d
 key_concepts:
-  - Black's model
-  - Bond prices and options
-  - Continuous time stochastic process
-  - Path-dependent options
-  - Risk-neutral valuation
+- Apt
+- coupon-bearing bond analysis
+- Term structure of interest rates and yield curve shapes
+- Treasury Futures
+- Extensions to multi-factor CAPM models
+- Duration and convexity analysis for bond portfolio management
+- Active portfolio management and performance attribution
+- Brownian motion and Wiener processes in finance
+- Option Greeks and portfolio risk management
+- Path-dependent options
+- Risk budgeting and portfolio construction techniques
+- Capital Asset Pricing Model and beta estimation
+- Expectations hypothesis and liquidity preference theory
+- Capital Asset Pricing Model and expected returns
+- Mathematical derivation of the Black-Scholes partial differential equation
+- Yield curve fitting and interpolation methods
+- Vega and volatility risk management
+- Cointegration analysis and error correction models
+- forward commitments and hedging
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- option sensitivity analysis and hedging
+- Shadow Banking
+- Fixed-for-floating swap cash flows and valuation
+- Arbitrage Pricing Theory and multifactor models
+- Security Market Line and beta measurement
+- Black's model
+- Continuous time stochastic process
+- Cointegration
+- International arbitrage and covered interest rate parity
+- Theta and time decay modeling
+- Case Study
+- Arbitrage opportunities and risk-free profit extraction
+- Interest rate swap pricing and valuation
+- Risk-neutral valuation in continuous time models
+- ESG integration in portfolio management
+- zero-coupon bond pricing and yields
+- Variance swaps and volatility trading strategies
+- Delta hedging strategies in options portfolio management
+- Shadow banking system and regulatory arbitrage
+- Gamma and convexity adjustments
+- Risk-neutral valuation
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Delta hedging and the replication argument
+- Parallel and non-parallel shifts in the yield curve
+- Cross-currency basis swaps and funding
+- Currency hedging strategies for global portfolios
+- Black-Scholes-Merton option pricing model and its applications
+- Market portfolio and risk-free rate assumptions
+- Bond prices and options
+- Empirical tests and anomalies in CAPM
+tags:
+- short_rate
+- yield-curve
+- interest-rate-derivatives
+- capm
+- case-study
+- apt
+- value-at-risk
+- kalman-filter
+- factor-models
+- put-options
+- time-series
+- cir-model
+- credit-risk
+- european-options
+- term_structure
+- duration-convexity
+- solution
+- geometric-brownian-motion
+- vasicek-model
+- treasury-futures
+- interest-rate-swaps
+- mathematical-finance
+- shadow-banking
+- cointegration
+- brownian-motion
+- risk_neutral_valuation
+- greeks
+- black-scholes-model
+- equilibrium_models
+- exchange-rates
+- bond-futures
+- hull-white-model
+- quantitative-implementation
+- treasury-bonds
+- fixed_income_derivatives
+- arbitrage
+- exotic-options
+- swaptions
+- wiener-process
+- mean-reversion
+- term-structure
 ---
+
 # Equilibrium Models: Term Structure  
 
 # Aims  

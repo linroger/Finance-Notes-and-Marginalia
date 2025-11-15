@@ -1,3 +1,36 @@
+---
+key_concepts:
+- Bond pricing and yield analysis
+- Duration and convexity
+- Vasicek short-rate model
+- Mean-reverting processes
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Value at risk and stress testing
+- Portfolio risk metrics
+- Alternative investment strategies
+- Hedge fund replication
+- Arbitrage theory and practice
+- Law of one price
+- Interest rate modeling
+- Term structure of interest rates
+tags:
+- model-calibration
+- bonds
+- vasicek
+- swaps
+- futures
+- calibration
+- options
+- risk_management
+- hedge_funds
+- arbitrage
+- interest_rates
+---
 %% Begin Waypoint %%
 - **Chapter 6 Options on Non-Price Variables**
 	- Arbitrage-Free Interest Rate Models

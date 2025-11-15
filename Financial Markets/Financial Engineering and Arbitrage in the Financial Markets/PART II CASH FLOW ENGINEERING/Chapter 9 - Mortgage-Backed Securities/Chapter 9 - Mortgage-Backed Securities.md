@@ -1,3 +1,13 @@
+---
+key_concepts:
+- Bond pricing and yield analysis
+- Duration and convexity
+- Structured products and CDOs
+- Credit derivatives
+tags:
+- bonds
+- structured_finance
+---
 %% Begin Waypoint %%
 - **Chapter 9 - Mortgage-Backed Securities**
 	- Chapter 9 - Mortgage-Backed Securities

@@ -1,21 +1,87 @@
 ---
-title: Modeling Volatility Smile and Heston Model Calibration Using QuantLib Python
-tags:
-  - european_options
-  - heston_model
-  - implied_volatility
-  - quantlib_python
-  - volatility_smile
 aliases:
-  - Heston Calibration
-  - QuantLib Python Tutorial
-  - Volatility Surface Modeling
+- Heston Calibration
+- QuantLib Python Tutorial
+- Volatility Surface Modeling
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-20da00
 key_concepts:
-  - Arbitrage-free smoothing
-  - European option pricing
-  - Heston model calibration
-  - Implied volatility surface
-  - Market volatility quotes
+- Apt
+- Monte Carlo simulation techniques for path-dependent options
+- Option Greeks and portfolio risk management
+- Heston model calibration
+- Commodity markets and pricing dynamics
+- Mathematical derivation of the Black-Scholes partial differential equation
+- Historical simulation vs. parametric VaR models
+- Vega and volatility risk management
+- option pricing models and PDE solutions
+- forward commitments and hedging
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- European option pricing
+- Monte Carlo integration and variance reduction
+- Monte Carlo VaR for complex portfolios
+- Shadow Banking
+- Stress testing and scenario analysis
+- Market volatility quotes
+- Fixed-for-floating swap cash flows and valuation
+- Arbitrage Pricing Theory and multifactor models
+- Forward rates and interest rate parity
+- Value at Risk (VaR) methodologies and backtesting
+- Theta and time decay modeling
+- International arbitrage and covered interest rate parity
+- Arbitrage-free smoothing
+- Case Study
+- Dividend Policy
+- Exchange rate determination and PPP theory
+- Arbitrage opportunities and risk-free profit extraction
+- Interest rate swap pricing and valuation
+- Expected Shortfall and coherent risk measures
+- Risk-neutral valuation in continuous time models
+- Factor Models
+- Variance swaps and volatility trading strategies
+- Boundary conditions and parameter interpretation in Black-Scholes model
+- Limitations and extensions of the Black-Scholes framework
+- simulation methods in financial engineering
+- Implied volatility surface
+- Value-at-Risk calculation using historical simulation
+- Shadow banking system and regulatory arbitrage
+- Gamma and convexity adjustments
+- Delta hedging and the replication argument
+- Cross-currency basis swaps and funding
+- Black-Scholes-Merton option pricing model and its applications
+- Currency markets and foreign exchange trading
+tags:
+- european_options
+- commodities
+- dividend-policy
+- interest-rate-swaps
+- mathematical-finance
+- volatility-surface
+- shadow-banking
+- heston_model
+- implied_volatility
+- case-study
+- apt
+- greeks
+- black-scholes-model
+- value-at-risk
+- factor-models
+- exchange-rates
+- heston-model
+- hull-white-model
+- european-options
+- quantitative-implementation
+- solution
+- volatility_smile
+- arbitrage
+- infrastructure
+- volatility-smile
+- implied-volatility
+- quantlib_python
+- monte-carlo
+title: Modeling Volatility Smile and Heston Model Calibration Using QuantLib Python
 ---
 
 # Modeling Volatility Smile and Heston Model Calibration Using QuantLib Python

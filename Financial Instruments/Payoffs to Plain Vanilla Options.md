@@ -1,29 +1,61 @@
 ---
-cssclasses: academia
-title: Payoffs to Plain Vanilla Options
-tags:
-  - american_options
-  - european_options
-  - option_payoffs
-  - option_pricing
-  - plain_vanilla_options
-  - derivatives_trading
-  - financial_derivatives
 aliases:
-  - Options Payoffs
-  - Vanilla Options
-  - Option Trading Strategies
+- Options Payoffs
+- Vanilla Options
+- Option Trading Strategies
+cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-3ce29a
 key_concepts:
-  - Call and put options
-  - European and American options
-  - Option holder and writer
-  - Option trading properties
-  - Strike price and maturity
-  - Time and intrinsic value
-  - Bull and bear spreads
-  - Butterfly spreads
-  - Option arbitrage bounds
-  - Covered calls and protective puts
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Monte Carlo simulation for derivatives valuation
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- american-options
+- apt
+- arbitrage
+- arch
+- calls
+- capm
+- cds
+- convexity
+- correlation
+- credit-default-swaps
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- european-options
+- factor-models
+- fixed_income
+- futures
+- gamma
+- garch
+- greeks
+- hedging
+- interest-rate-swaps
+- options
+- puts
+- replication
+- risk-management
+- risk-neutral
+- swaps
+- theta
+- var
+- vega
+title: Payoffs to Plain Vanilla Options
 ---
 
 # Payoffs to Plain Vanilla Options

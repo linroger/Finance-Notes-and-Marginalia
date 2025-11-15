@@ -1,3 +1,89 @@
+---
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-0f1722
+key_concepts:
+- Deposit Insurance
+- Arbitrage opportunities and risk-free profit extraction
+- Operational risk management in financial institutions
+- Risk budgeting and portfolio construction techniques
+- DV01 calculation and interest rate risk hedging
+- Expected Shortfall and coherent risk measures
+- Backtesting procedures for risk models
+- Price sensitivity to interest rate changes
+- Case Study
+- Sovereign risk assessment and country analysis
+- Credit risk migration matrices and rating transition
+- Value at Risk (VaR) methodologies and backtesting
+- Duration and convexity measures for bond portfolios
+- Credit risk modeling and portfolio correlation analysis
+- Control variates and importance sampling techniques
+- liquidity measurement and management
+- Monte Carlo integration and variance reduction
+- Credit portfolio diversification and concentration
+- Stress testing and scenario analysis
+- Funding liquidity vs. market liquidity
+- Wrong-way risk in derivative transactions
+- Systemic risk and financial stability
+- Deposit stability and core funding
+- Mathematical Finance
+- Global financial stability and systemic risk monitoring
+- Solution
+- Stress Testing
+- Net interest margin analysis and banking profitability
+- Deposit insurance and systemic risk prevention
+- Value-at-Risk calculation using historical simulation
+- Credit risk assessment and loan portfolio management
+- Expected Shortfall
+- Quantitative Implementation
+- Monte Carlo VaR for complex portfolios
+- Systemic risk indicators and early warning systems
+- Credit risk modeling and default probability estimation
+- Liquidity risk management in financial institutions
+- Extreme value theory and tail risk modeling
+- Operational risk quantification and modeling
+- Key rate duration and curve risk
+- Liquidity stress testing and contingency funding plans
+- Portfolio immunization strategies
+- Bank liquidity ratios and funding risk management
+- Risk-neutral pricing methodology for derivative securities
+- Credit exposure measurement and EAD
+- Liquidity risk measurement and management
+- Modified duration vs. Macaulay duration
+- Shadow Banking
+- Loss given default and recovery rates
+- Mean-variance optimization and the efficient frontier
+- Historical simulation vs. parametric VaR models
+- Shadow banking system and regulatory arbitrage
+- Wholesale funding markets and maturity transformation
+- Commodity markets and pricing dynamics
+tags:
+- credit-risk
+- mathematical-finance
+- sovereign-risk
+- solution
+- systemic-risk
+- expected-shortfall
+- duration-convexity
+- value-at-risk
+- monte-carlo
+- risk-management
+- deposit-insurance
+- stress-testing
+- financial-modeling
+- financial-analysis
+- banking
+- commodities
+- quantitative-finance
+- operational-risk
+- liquidity-risk
+- case-study
+- municipal-bonds
+- shadow-banking
+- quantitative-implementation
+- wholesale-funding
+---
+
 # Bank Risks  
 
 “You got to know when to hold ‘em, know when to fold ‘em. Know when to walk away and know when to run.”  

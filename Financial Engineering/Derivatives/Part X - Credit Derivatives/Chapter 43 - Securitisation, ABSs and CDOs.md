@@ -1,21 +1,117 @@
 ---
-tags:
-  - abs_cdos
-  - credit_crisis
-  - credit_risk
-  - securitization
-  - structured_products
 aliases:
-  - ABS
-  - CDO
-  - asset backed securities
+- ABS
+- CDO
+- asset backed securities
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-901af2
 key_concepts:
-  - ABS-CDOs in credit crisis
-  - Securitization process analysis
-  - Single tranche trading
-  - Structured product credit enhancement
-  - Total return swaps
+- Apt
+- Liquidity coverage ratio and net stable funding ratio
+- equity tranche in securitization
+- Cox-Ross-Rubinstein parameter specification
+- Structured product credit enhancement
+- regulatory capital requirements and buffers
+- ABS-CDOs in credit crisis
+- Stress testing and supervisory review processes
+- senior tranche in securitization
+- Computational implementation of binomial option pricing
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Option Greeks and portfolio risk management
+- maturity date in CDS
+- Credit spread decomposition and hazard rates
+- physical settlement in CDS
+- Leverage ratio and large exposures
+- CDS clearing and central counterparties
+- tranche structure in structured finance
+- synthetic CDO structure
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- 2008 financial crisis and systemic risk analysis
+- Total return swaps
+- waterfall structure and cash flow distribution
+- securities repackaging and structuring
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Risk-weighted assets and capital adequacy ratios
+- Securitization process analysis
+- pass-through securities structure
+- Case Study
+- Interest rate swap pricing and valuation
+- tranche CDS and portfolio credit derivatives
+- Basel III regulatory framework and capital requirements
+- interest rate and currency derivatives
+- Credit default swap pricing and risk-neutral probabilities
+- CDO-squared and second-generation structures
+- Variance swaps and volatility trading strategies
+- Liquidity crisis and market dysfunction
+- SPV structure and accounting
+- Convergence of binomial model to Black-Scholes solution
+- deposit insurance and protection systems
+- Single tranche trading
+- par value in CDS settlement
+- Binomial option pricing model with multiple time steps
+- credit enhancement mechanisms
+- protection seller in CDS
+- American option pricing in binomial trees
+- Capital Structure
+- reference entity in CDS
+- super senior tranche in securitization
+- Delta hedging and the replication argument
+- Cross-currency basis swaps and funding
+- mezzanine tranche in securitization
+- liquidity measurement and management
+- alternative investment strategies
+- credit risk transfer mechanisms
+- CDX North American CDS index
+tags:
+- basel-iii
+- binomial-model
+- liquidity-crisis
+- credit-default-swaps
+- default-probability
+- 2008-financial-crisis
+- bank-regulation
+- cdo
+- credit-default-swap
+- case-study
+- apt
+- cds-tranches
+- value-at-risk
+- credit-risk
+- solution
+- private-equity
+- banking
+- corporate-bonds
+- wholesale-funding
+- deposit-insurance
+- credit-analysis
+- cds
+- synthetic-cdos
+- collateralized-debt-obligations
+- interest-rate-swaps
+- mathematical-finance
+- balance-sheet
+- course-material
+- capital-structure
+- rating-agencies
+- asset-backed-securities
+- greeks
+- hedge-funds
+- leveraged-buyouts
+- quantitative-implementation
+- treasury-bonds
+- 2008-crisis
+- arbitrage
+- liquidity-risk
+- mbs-cmos
+- structured-products
+- credit-derivatives
 ---
+
 # Securitisation, ABSs and CDOs  
 
 # Aims  

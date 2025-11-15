@@ -1,26 +1,101 @@
 ---
+aliases:
+- CIC
+- China Investment Corp
+- Chinese Sovereign Wealth Fund
 cssclasses:
-  - academia
-title: China Investment Corporation (CIC)
-source: https://www.investopedia.com/terms/c/china-inv-corp.asp
+- academia
 description: China Investment Corporation is the sovereign wealth fund of China that
   invests in public and private assets to diversify foreign exchange holdings.
-tags:
-  - asset_management
-  - china_investment
-  - cic
-  - investment_strategy
-  - sovereign_wealth_fund
-aliases:
-  - CIC
-  - China Investment Corp
-  - Chinese Sovereign Wealth Fund
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-b19d44
 key_concepts:
-  - China's sovereign wealth fund
-  - Global investments
-  - Investment principles
-  - Portfolio structure
-  - Subsidiaries and operations
+- Investment Banking
+- Treasury Bonds
+- Single-name vs. index CDS trading
+- Debt capacity analysis in LBO transactions
+- Commodity markets and pricing dynamics
+- Currency derivatives
+- Solution
+- Historical simulation vs. parametric VaR models
+- Default probability estimation
+- Credit spread decomposition and hazard rates
+- CDS clearing and central counterparties
+- Portfolio immunization strategies
+- CDS-Bond basis and arbitrrage opportunities
+- Mathematical Finance
+- Exit strategies and return maximization
+- GARCH models and volatility forecasting
+- Foreign exchange markets
+- Liquidity and price discovery
+- Portfolio structure
+- Monte Carlo VaR for complex portfolios
+- Stress testing and scenario analysis
+- Key rate duration and curve risk
+- Equity valuation and analysis
+- Course Material
+- LBO financing sources and covenant structures
+- Value at Risk (VaR) methodologies and backtesting
+- Counterparty risk and settlement
+- China's sovereign wealth fund
+- Private equity investing and leveraged buyouts
+- Subsidiaries and operations
+- Expected Shortfall and coherent risk measures
+- Credit default swap pricing and risk-neutral probabilities
+- Market microstructure and trading
+- Interest rate derivatives
+- Derivatives pricing theory
+- Fixed income securities
+- Bond pricing and yield analysis
+- Quantitative Implementation
+- Leveraged Buyout financial structures and returns
+- Credit default swaps and credit risk
+- Real estate investment and property valuation
+- Credit risk modeling
+- Duration and convexity measures for bond portfolios
+- Global investments
+- Price sensitivity to interest rate changes
+- Modified duration vs. Macaulay duration
+- Duration and convexity
+- Dividend discount models
+- Equity returns and value creation mechanisms
+- Investment principles
+source: https://www.investopedia.com/terms/c/china-inv-corp.asp
+tags:
+- fx
+- commodities
+- credit-default-swaps
+- private_equity
+- garch-models
+- mathematical-finance
+- trading
+- investment_strategy
+- course-material
+- bonds
+- value-at-risk
+- fixed_income
+- hedge-funds
+- credit-risk
+- leveraged-buyouts
+- quantitative-implementation
+- duration-convexity
+- solution
+- private-equity
+- real-estate
+- treasury-bonds
+- investment-banking
+- equity
+- infrastructure
+- corporate-bonds
+- asset_management
+- china_investment
+- credit
+- portfolio-theory
+- hedge_funds
+- regulatory-framework
+- cds
+title: China Investment Corporation (CIC)
 ---
 
 # China Investment Corporation (CIC)

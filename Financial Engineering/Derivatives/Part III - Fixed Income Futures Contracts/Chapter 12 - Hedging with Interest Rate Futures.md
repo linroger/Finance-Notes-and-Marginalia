@@ -1,28 +1,102 @@
 ---
-tags:
-  - bank_loans
-  - eurodollar_contract
-  - fixed_income
-  - hedging
-  - interest_rate_futures
-  - t_bills
 aliases:
-  - Chapter 12
-  - Futures Contracts
-  - Hedging Strategies
-  - Interest Rate Futures
+- Chapter 12
+- Futures Contracts
+- Hedging Strategies
+- Interest Rate Futures
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-f2c047
 key_concepts:
-  - 90-day Eurodollar contracts
-  - 90-day T-bill contracts
-  - Bank deposit hedging
-  - Duration-based hedge ratio
-  - Floating rate bank loans
-  - Hedging fixed income assets
-  - Interest rate futures
-  - Locking in future rates
-  - Price value of basis point
-  - Strip, rolling, stack hedges
+- Apt
+- Interest rate futures
+- Cox-Ross-Rubinstein parameter specification
+- Extensions to multi-factor CAPM models
+- Term structure of interest rates and yield curve shapes
+- Treasury Futures
+- Bank deposit hedging
+- Duration and convexity analysis for bond portfolio management
+- Active portfolio management and performance attribution
+- Computational implementation of binomial option pricing
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Option Greeks and portfolio risk management
+- maturity date in CDS
+- Commodity markets and pricing dynamics
+- Capital Asset Pricing Model and beta estimation
+- Risk budgeting and portfolio construction techniques
+- Expectations hypothesis and liquidity preference theory
+- Capital Asset Pricing Model and expected returns
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- Floating rate bank loans
+- fixed income risk measurement
+- CDS clearing and central counterparties
+- Hedging fixed income assets
+- forward commitments and hedging
+- CDS-Bond basis and arbitrrage opportunities
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- 90-day Eurodollar contracts
+- day count convention in CDS
+- Security Market Line and beta measurement
+- Strip, rolling, stack hedges
+- 90-day T-bill contracts
+- Locking in future rates
+- Case Study
+- excess returns and manager skill
+- Credit default swap pricing and risk-neutral probabilities
+- ESG integration in portfolio management
+- Convergence of binomial model to Black-Scholes solution
+- Binomial option pricing model with multiple time steps
+- Delta hedging strategies in options portfolio management
+- Price value of basis point
+- systematic risk and market exposure
+- American option pricing in binomial trees
+- Gamma and convexity adjustments
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Delta hedging and the replication argument
+- Parallel and non-parallel shifts in the yield curve
+- Currency hedging strategies for global portfolios
+- Market portfolio and risk-free rate assumptions
+- Duration-based hedge ratio
+- Empirical tests and anomalies in CAPM
+tags:
+- yield-curve
+- treasury-futures
+- binomial-model
+- commodities
+- credit-default-swaps
+- collateralized-debt-obligations
+- garch-models
+- bank_loans
+- mathematical-finance
+- capm
+- interest_rate_futures
+- case-study
+- apt
+- greeks
+- t_bills
+- eurodollar_contract
+- value-at-risk
+- fixed_income
+- exchange-rates
+- bond-futures
+- credit-risk
+- quantitative-implementation
+- duration-convexity
+- solution
+- hedging
+- treasury-bonds
+- wholesale-funding
+- exotic-options
+- delta-hedging
+- duration
+- term-structure
 ---
+
 # Hedging with Interest Rate Futures  
 
 # Aims  

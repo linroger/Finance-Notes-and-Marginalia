@@ -1,22 +1,97 @@
 ---
-tags:
-  - brownian_motion
-  - european_options
-  - monte_carlo_simulation
-  - risk_neutral_valuation
-  - stochastic_process
 aliases:
-  - Brownian Motion
-  - Greeks
-  - MCS
-  - RNV
+- Brownian Motion
+- Greeks
+- MCS
+- RNV
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-033682
 key_concepts:
-  - Calculate the Greeks
-  - Complex option pricing
-  - Pricing options with MCS
-  - Reduce computational time
-  - Stochastic path for asset
+- Apt
+- Extensions to multi-factor CAPM models
+- Monte Carlo simulation techniques for path-dependent options
+- Mean-variance optimization and the efficient frontier
+- Brownian motion and Wiener processes in finance
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Option Greeks and portfolio risk management
+- maturity date in CDS
+- Capital Asset Pricing Model and expected returns
+- Mathematical derivation of the Black-Scholes partial differential equation
+- Calculate the Greeks
+- Credit spread decomposition and hazard rates
+- Vega and volatility risk management
+- CDS clearing and central counterparties
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- Monte Carlo integration and variance reduction
+- option sensitivity analysis and hedging
+- Market portfolio and risk-free rate assumptions
+- Fixed-for-floating swap cash flows and valuation
+- Security Market Line and beta measurement
+- portfolio optimization and risk decomposition
+- Control variates and importance sampling techniques
+- Theta and time decay modeling
+- Case Study
+- Dividend Policy
+- Interest rate swap pricing and valuation
+- excess returns and manager skill
+- Credit default swap pricing and risk-neutral probabilities
+- Risk-neutral valuation in continuous time models
+- Reduce computational time
+- Variance swaps and volatility trading strategies
+- Pricing options with MCS
+- systematic risk and market exposure
+- Boundary conditions and parameter interpretation in Black-Scholes model
+- simulation methods in financial engineering
+- Value-at-Risk calculation using historical simulation
+- risk measurement and management
+- Gamma and convexity adjustments
+- Delta hedging and the replication argument
+- Cross-currency basis swaps and funding
+- Black-Scholes-Merton option pricing model and its applications
+- Complex option pricing
+- Stochastic path for asset
+- Empirical tests and anomalies in CAPM
+tags:
+- european-options
+- european_options
+- quantitative-implementation
+- solution
+- brownian_motion
+- credit-default-swaps
+- american-options
+- dividend-policy
+- collateralized-debt-obligations
+- interest-rate-swaps
+- antithetic-variates
+- mathematical-finance
+- monte-carlo-simulation
+- option-pricing
+- capm
+- var
+- stochastic-volatility
+- exotic-options
+- brownian-motion
+- geometric-brownian-motion
+- risk_neutral_valuation
+- apt
+- case-study
+- greeks
+- implied-volatility
+- black-scholes-model
+- control-variates
+- monte_carlo_simulation
+- value-at-risk
+- dcf-valuation
+- barrier-options
+- exchange-rates
+- monte-carlo
+- stochastic_process
 ---
+
 # Pricing Options: Monte Carlo Simulation  
 
 # Aims  

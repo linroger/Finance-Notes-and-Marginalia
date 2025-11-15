@@ -1,21 +1,29 @@
 ---
 tags:
-  - liquidity_preference
-  - market_segmentation
-  - maturity_preference
-  - preferred_habitats
-  - yield_curve
+- apt
+- arbitrage
+- bonds
+- completeness
+- convexity
+- duration
+- fixed_income
+- hedging
+- risk-management
+- var
 aliases:
-  - Culbertson
-  - Hicks
-  - Modigliani
-  - Sutch
+- Culbertson
+- Hicks
+- Modigliani
+- Sutch
 key_concepts:
-  - Liquidity preference hypothesis
-  - Market segmentation hypothesis
-  - Maturity preference hypothesis
-  - Preferred habitats hypothesis
-  - Yield curve shape
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
 ---
 
 # 10.8 Liquidity preference, market segmentation, and preferred habitats  

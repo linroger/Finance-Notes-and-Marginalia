@@ -1,3 +1,36 @@
+---
+key_concepts:
+- Equity valuation and analysis
+- Dividend discount models
+- Credit risk modeling
+- Default probability estimation
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Value at risk and stress testing
+- Portfolio risk metrics
+tags:
+- equity
+- regulatory-framework
+- credit
+- fx
+- trading
+- bonds
+- commodities
+- futures
+- cds
+- options
+- risk_management
+---
 # CHAPTER 22  
 
 # Developing Countries: Growth, Crisis, and Reform  

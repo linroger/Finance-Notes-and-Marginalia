@@ -1,21 +1,46 @@
 ---
-title: The Foreign Exchange Market Annotations
-tags:
-  - currency_arbitrage
-  - exchange_rate
-  - foreign_exchange_market
-  - forward_exchange_rate
-  - spot_exchange_rate
 aliases:
-  - Currency Trading
-  - FX Market
-  - Forex
+- Currency Trading
+- FX Market
+- Forex
 key_concepts:
-  - Currency arbitrage
-  - Currency price
-  - Forward rate
-  - Nominal exchange rate
-  - Spot rate
+- Currency arbitrage
+- Currency price
+- Forward rate
+- Nominal exchange rate
+- Spot rate
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Derivatives pricing theory
+- Risk-neutral valuation
+- Value at risk and stress testing
+- Portfolio risk metrics
+- Alternative investment strategies
+tags:
+- interest_rates
+- exchange_rate
+- fx
+- trading
+- bonds
+- forward_exchange_rate
+- futures
+- cds
+- derivatives
+- risk_management
+- hedge_funds
+- arbitrage
+- currency_arbitrage
+- foreign_exchange_market
+- spot_exchange_rate
+title: The Foreign Exchange Market Annotations
 ---
 
 # The Foreign Exchange Market Annotations

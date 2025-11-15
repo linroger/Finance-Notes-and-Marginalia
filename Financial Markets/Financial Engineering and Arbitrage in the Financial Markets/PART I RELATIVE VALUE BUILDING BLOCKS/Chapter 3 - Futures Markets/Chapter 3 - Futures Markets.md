@@ -1,3 +1,32 @@
+---
+key_concepts:
+- Equity valuation and analysis
+- Dividend discount models
+- Foreign exchange markets
+- Currency derivatives
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Alternative investment strategies
+- Hedge fund replication
+- Structured products and CDOs
+- Credit derivatives
+- Arbitrage theory and practice
+- Law of one price
+- Interest rate modeling
+- Term structure of interest rates
+tags:
+- equity
+- fx
+- bonds
+- commodities
+- futures
+- hedge_funds
+- structured_finance
+- arbitrage
+- interest_rates
+---
 %% Begin Waypoint %%
 - **Chapter 3 - Futures Markets**
 	- Cash-And-Carry Arbitrage

@@ -1,21 +1,41 @@
 ---
-tags:
-  - abnormal_returns
-  - efficient_market
-  - market_efficiency
-  - security_prices
-  - technical_analysis
 aliases:
-  - Efficient Market
-  - Market Efficiency
-  - Weak Form Efficiency
+- Efficient Market
+- Market Efficiency
+- Weak Form Efficiency
 key_concepts:
-  - efficient capital market
-  - investors earn abnormal returns
-  - markets approach efficiency
-  - prices fluctuate randomly
-  - security prices reflect info
-  - zero net present value
+- efficient capital market
+- investors earn abnormal returns
+- markets approach efficiency
+- prices fluctuate randomly
+- security prices reflect info
+- zero net present value
+- Equity valuation and analysis
+- Dividend discount models
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+tags:
+- security_prices
+- equity
+- regulatory-framework
+- abnormal_returns
+- technical_analysis
+- portfolio-theory
+- valuation
+- trading
+- volatility
+- bonds
+- commodities
+- futures
+- options
+- market_efficiency
+- efficient_market
 ---
 
 # Market Efficiency  

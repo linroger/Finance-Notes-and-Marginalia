@@ -1,24 +1,57 @@
 ---
-cssclasses:
-  - academia
-title: Exotic Options
-tags:
-  - barrier_options
-  - digital_options
-  - exotic_options
-  - path_dependent
-  - range_forward
 aliases:
-  - binary option
-  - break forward
-  - digital put
-  - exotic derivatives
+- binary option
+- break forward
+- digital put
+- exotic derivatives
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-72a729
 key_concepts:
-  - break forward contract
-  - digital/binary option
-  - exotic option payoffs
-  - path dependent options
-  - range forward contract
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Monte Carlo simulation for derivatives valuation
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+- Exotic options and path-dependent payoffs
+tags:
+- asian-options
+- barrier-options
+- calls
+- capm
+- cds
+- convexity
+- correlation
+- credit-default-swaps
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- exotic-options
+- fixed_income
+- gamma
+- greeks
+- hedging
+- options
+- puts
+- replication
+- risk-management
+- risk-neutral
+- swaps
+- theta
+- var
+- vega
+title: Exotic Options
 ---
 
 # Exotic Options

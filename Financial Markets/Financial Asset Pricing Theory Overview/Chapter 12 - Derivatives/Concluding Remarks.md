@@ -1,19 +1,18 @@
 ---
 tags:
-  - continuous_time_models
-  - credit_derivatives
-  - derivatives_pricing
-  - exotic_derivatives
-  - numerical_solution
+- apt
+- arch
+- bonds
+- commodities
+- fixed_income
+- risk-management
+- var
 aliases:
-  - Concluding Chapter
-  - Final Thoughts
+- Concluding Chapter
+- Final Thoughts
 key_concepts:
-  - continuous-time models
-  - credit event derivatives
-  - derivatives pricing introduction
-  - exotic derivatives variations
-  - numerical solution techniques
+- Bond pricing and fixed income securities valuation
+- Value at Risk and tail risk measurement
 ---
 
 # 12.6 Concluding remarks  

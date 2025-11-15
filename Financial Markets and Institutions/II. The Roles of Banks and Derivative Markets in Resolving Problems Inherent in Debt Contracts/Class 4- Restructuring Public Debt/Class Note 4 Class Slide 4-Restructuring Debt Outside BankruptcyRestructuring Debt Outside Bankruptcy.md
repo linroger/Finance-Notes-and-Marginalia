@@ -1,35 +1,40 @@
 ---
-cssclasses:
-  - academia
-title: "Class Note 4: Restructuring Debt Outside Bankruptcy"
-tags:
-  - bank_debt
-  - bankruptcy
-  - bondholders
-  - public_debt
-  - renegotiation
-  - debt_restructuring
-  - going_concern_value
-  - trust_indenture_act
-  - debt_concessions
 aliases:
-  - Bank Debt
-  - Class Note 4
-  - Restructuring Outside Bankruptcy
-  - Debt Renegotiation
+- Bank Debt
+- Class Note 4
+- Restructuring Outside Bankruptcy
+- Debt Renegotiation
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batchAA-005yqs
 key_concepts:
-  - Bank lending limit
-  - Bankruptcy implications
-  - Private placement debt
-  - Public debt concessions
-  - Single bank lender
-  - Going concern value
-  - Trust indenture act
-  - Senior vs junior debt
-  - Debt covenant restrictions
-  - Me-first rules
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Portfolio hedging and risk reduction strategies
+tags:
+- american-options
+- binomial
+- black-scholes
+- convexity
+- derivatives-pricing
+- duration
+- european-options
+- fixed-income
+- fixed_income
+- futures
+- hedging
+- options
+- risk-management
+- risk-neutral
+- var
+title: 'Class Note 4: Restructuring Debt Outside Bankruptcy'
 ---
-
 # Class Note 4: Restructuring Debt Outside Bankruptcy
 
 **Course:** Financial Markets and Institutions

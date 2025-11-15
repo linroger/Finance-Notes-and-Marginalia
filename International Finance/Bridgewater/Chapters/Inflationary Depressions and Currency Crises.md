@@ -1,28 +1,43 @@
 ---
-title: Inflationary Depressions and Currency Crises
-cssclasses: academia
-tags:
-  - central_banks
-  - currency_crisis
-  - debt_crisis
-  - inflationary_depression
-  - monetary_policy
 aliases:
-  - Currency Dynamic
-  - Inflationary Debt Crisis
-  - Policy Makers
-  - Weimar Republic
+- Currency Dynamic
+- Inflationary Debt Crisis
+- Policy Makers
+- Weimar Republic
+cssclasses: academia
 key_concepts:
-  - Central bank control
-  - Currency weakness
-  - Deflationary debt crisis
-  - Inflationary debt crisis
-  - Lending dries up
-  - Mediums of exchange
-  - Opposing pressures balance
-  - Printing money
-  - Store holds of wealth
-  - Symbiotic relationship
+- Inflationary Depressions and Currency Crises
+- Archetypal Inflationary Debt Cycle
+- Balance of Payments and Currency Defense
+- Capital Flows and Currency Depreciation
+- Foreign Exchange Reserves and Interventions
+- Exchange Rate Dynamics and Interest Rate Differentials
+- Currency Defense and Managed Declines
+- Hyperinflation Spirals and Currency Collapse
+- Foreign Currency Denominated Debt
+- Capital Flight and Currency Crises
+- Economic Depressions and Policy Responses
+- Central Bank Policy Trade-offs
+- Inflation Psychology and Wage-Price Spirals
+- Currency Speculation and Market Dynamics
+- International Financial Crises
+tags:
+- inflationary_depression
+- currency_crisis
+- balance_of_payments
+- capital_flights
+- currency_defense
+- exchange_rate
+- hyperinflation
+- central_banks
+- monetary_policy
+- foreign_exchange
+- debt_crisis
+- economic_cycles
+- policy_makers
+- international_finance
+- currency_markets
+title: Inflationary Depressions and Currency Crises
 ---
 
 # Inflationary Depressions and Currency Crises

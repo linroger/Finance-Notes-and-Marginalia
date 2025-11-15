@@ -1,23 +1,46 @@
 ---
-tags:
-  - arbitrage
-  - cds_bond_basis
-  - cds_market
-  - corporate_debt
-  - credit_risk
-  - repo_market
 aliases:
-  - Basis Trade
-  - CDS-Bond Basis
-  - Negative Basis Trade
-  - Positive Basis Trade
+- Basis Trade
+- CDS-Bond Basis
+- Negative Basis Trade
+- Positive Basis Trade
 key_concepts:
-  - Arbitrage opportunity
-  - Bond spread
-  - CDS and bond pricing
-  - CDS spread
-  - Relative value trading
-  - Repo market financing
+- Arbitrage opportunity
+- Bond spread
+- CDS and bond pricing
+- CDS spread
+- Relative value trading
+- Repo market financing
+- Credit risk modeling
+- Default probability estimation
+- Fixed income securities
+- Interest rate derivatives
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+tags:
+- credit
+- corporate_debt
+- cds_market
+- cds_bond_basis
+- cds
+- hedge_funds
+- structured_finance
+- credit_risk
+- stochastic_calculus
+- fixed_income
+- fx
+- trading
+- bonds
+- swaps
+- options
 ---
 
 # 14.8 CDS-BOND BASIS  

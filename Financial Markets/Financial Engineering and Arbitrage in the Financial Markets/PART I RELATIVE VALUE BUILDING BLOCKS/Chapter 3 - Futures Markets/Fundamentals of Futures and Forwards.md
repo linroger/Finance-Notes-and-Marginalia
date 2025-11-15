@@ -1,22 +1,45 @@
 ---
-tags:
-  - cash_settled
-  - clearinghouse
-  - futures_contracts
-  - futures_forwards
-  - marking_to_market
-  - spot_transactions
 aliases:
-  - Forward Contracts
-  - Fundamentals of Futures
-  - Futures vs Forwards
+- Forward Contracts
+- Fundamentals of Futures
+- Futures vs Forwards
 key_concepts:
-  - Cash settlement
-  - Clearinghouse purpose
-  - Forward contract
-  - Futures contract
-  - Physical settlement
-  - Spot transaction
+- Cash settlement
+- Clearinghouse purpose
+- Forward contract
+- Futures contract
+- Physical settlement
+- Spot transaction
+- Equity valuation and analysis
+- Dividend discount models
+- Fixed income securities
+- Interest rate derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+tags:
+- equity
+- regulatory-framework
+- spot_transactions
+- cash_settled
+- clearinghouse
+- cds
+- hedge_funds
+- futures_forwards
+- structured_finance
+- marking_to_market
+- interest_rates
+- futures_contracts
+- fixed_income
+- trading
+- bonds
 ---
 
 # 3.1 FUNDAMENTALS OF FUTURES AND FORWARDS  

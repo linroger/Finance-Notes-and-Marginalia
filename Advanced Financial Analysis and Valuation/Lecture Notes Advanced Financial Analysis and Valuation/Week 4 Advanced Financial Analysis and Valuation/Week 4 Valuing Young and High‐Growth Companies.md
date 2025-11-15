@@ -1,36 +1,118 @@
 ---
-title: Week 4 Valuing Young and High‐Growth Companies
+aliases:
+- Valuation of Growth Companies
+- Valuing Young Firms
+- High-Growth Valuation
 cssclasses:
-  - academia
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-1d8e92
+key_concepts:
+- Apt
+- revenue recognition standards
+- Working Capital
+- Treasury Futures
+- Interest rate swap valuation and fixed-floating spreads
+- Mean reversion competition
+- DCF model assumptions
+- Monte Carlo simulation techniques for path-dependent options
+- Treasury Bonds
+- Real options valuation in corporate investment decisions
+- Binomial option pricing model for American-style options
+- Greeks calculation and their interpretation in options trading
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Market risk measurement and portfolio volatility
+- Option Greeks and portfolio risk management
+- Solution
+- After-tax cost of debt and capital structure
+- Credit spread decomposition and hazard rates
+- Vega and volatility risk management
+- CDS clearing and central counterparties
+- Forecasting issues
+- Terminal value importance
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- Credit default swap pricing and recovery assumptions
+- cost of capital estimation
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Scenario analysis
+- Sales growth decline
+- Theta and time decay modeling
+- Risk-neutral pricing methodology for derivative securities
+- Synthetic credit derivatives and index trades
+- Case Study
+- Treasury futures trading and basis point value calculations
+- Generally Accepted Accounting Principles
+- fundamental valuation methods
+- CVA and DVA adjustments in derivative pricing
+- Interest rate swap pricing and valuation
+- Cost of equity estimation using CAPM and other models
+- Credit default swap pricing and risk-neutral probabilities
+- Variance swaps and volatility trading strategies
+- Weighted Average Cost of Capital calculation
+- Analysts use multiples
+- Backward induction approach
+- High growth valuation challenges
+- Market value implied rates
+- Delta hedging strategies in options portfolio management
+- Theta decay modeling for time-sensitive options strategies
+- Implied volatility extraction from market option prices
+- Accounting shenanigans
+- Quantitative Implementation
+- Volatility smile and skew modeling in options markets
+- Gamma and convexity adjustments
+- Capital Structure
+- Delta hedging and the replication argument
+- Cross-currency basis swaps and funding
+- Executive stock compensation
 linter-yaml-title-alias: Week 4 Valuing Young and High‐Growth Companies
 tags:
-  - accounting_shenanigans
-  - dcf_model
-  - executive_stock_compensation
-  - forecasting
-  - high_growth_companies
-  - market_multiples
-  - mean_reversion
-  - netflix_valuation
-  - valuation
-  - scenario_analysis
-aliases:
-  - Valuation of Growth Companies
-  - Valuing Young Firms
-  - High-Growth Valuation
-key_concepts:
-  - Accounting shenanigans
-  - Analysts use multiples
-  - Backward induction approach
-  - DCF model assumptions
-  - Executive stock compensation
-  - Forecasting issues
-  - High growth valuation challenges
-  - Market value implied rates
-  - Mean reversion competition
-  - Sales growth decline
-  - Scenario analysis
-  - Terminal value importance
+- credit-default-swaps
+- high_growth_companies
+- forecasting
+- market_multiples
+- case-study
+- apt
+- valuation
+- solution
+- wacc
+- algorithmic-trading
+- cost-of-capital
+- mean_reversion
+- accounting_shenanigans
+- vasicek-model
+- sensitivity-analysis
+- treasury-futures
+- working-capital
+- netflix_valuation
+- collateralized-debt-obligations
+- interest-rate-swaps
+- mathematical-finance
+- course-material
+- capital-structure
+- market-risk
+- greeks
+- scenario-analysis
+- internal-controls
+- quantitative-implementation
+- treasury-bonds
+- dcf_model
+- stress-testing
+- infrastructure
+- scenario_analysis
+- exotic-options
+- implied-volatility
+- dcf-valuation
+- gaap
+- executive_stock_compensation
+- real-options
+- mean-reversion
+- monte-carlo
+title: Week 4 Valuing Young and High‐Growth Companies
 ---
 
 # Week 4 Valuing Young and High‐Growth Companies

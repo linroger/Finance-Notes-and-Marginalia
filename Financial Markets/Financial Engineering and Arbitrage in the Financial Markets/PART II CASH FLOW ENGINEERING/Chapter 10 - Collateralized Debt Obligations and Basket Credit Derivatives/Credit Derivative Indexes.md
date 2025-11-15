@@ -1,21 +1,46 @@
 ---
-tags:
-  - cdx_index
-  - credit_derivatives
-  - credit_index
-  - dodd_frank
-  - itraxx_index
 aliases:
-  - CDS indexes
-  - CDX
-  - Credit Derivative Indexes
-  - iTraxx
+- CDS indexes
+- CDX
+- Credit Derivative Indexes
+- iTraxx
 key_concepts:
-  - CDS market
-  - Counterparty risk
-  - Credit derivative indexes
-  - Dodd-Frank Act
-  - Investment grade corporate credits
+- CDS market
+- Counterparty risk
+- Credit derivative indexes
+- Dodd-Frank Act
+- Investment grade corporate credits
+- Equity valuation and analysis
+- Dividend discount models
+- Credit risk modeling
+- Default probability estimation
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Derivatives pricing theory
+tags:
+- equity
+- regulatory-framework
+- dodd_frank
+- credit
+- cds
+- hedge_funds
+- structured_finance
+- regulation
+- itraxx_index
+- portfolio-theory
+- valuation
+- cdx_index
+- fx
+- trading
+- bonds
 ---
 
 # 10.5  CREDIT DERIVATIVE INDEXES  

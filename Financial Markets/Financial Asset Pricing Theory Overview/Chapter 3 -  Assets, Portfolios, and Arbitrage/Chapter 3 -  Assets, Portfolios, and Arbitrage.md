@@ -1,17 +1,12 @@
 ---
 tags:
-  - arbitrage
-  - assets
-  - market_completeness
-  - multi_period_models
-  - portfolios
-  - redundant_assets
+- apt
+- arbitrage
+- completeness
+- risk-management
 aliases: []
 key_concepts:
-  - arbitrage and redundant assets
-  - market completeness introduced
-  - model assets and portfolios
-  - one- and multi-period models
+- Arbitrage opportunities and no-arbitrage pricing
 ---
 %% Begin Waypoint %%
 - **Chapter 3**

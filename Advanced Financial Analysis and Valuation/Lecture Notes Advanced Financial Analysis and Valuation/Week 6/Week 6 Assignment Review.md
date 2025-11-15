@@ -1,35 +1,117 @@
 ---
+aliases:
+- Blackstone Citigroup Case
+- Loan Portfolio Valuation
+- Week 6 Review
 cssclasses:
-  - academia
-title: Week 6 Assignment Review
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-22d12a
+key_concepts:
+- Liquidity coverage ratio and net stable funding ratio
+- Extensions to multi-factor CAPM models
+- regulatory capital requirements and buffers
+- Duration and convexity analysis for bond portfolio management
+- net interest margin analysis
+- Bank regulatory capital requirements
+- Stress testing and supervisory review processes
+- Duration mismatch in banking
+- Credit market dislocations
+- Single-name vs. index CDS trading
+- Option Greeks and portfolio risk management
+- Level 1 fair value hierarchy inputs
+- Dividend payments during crisis
+- Loan loss provisions cyclicality
+- Capital Asset Pricing Model and expected returns
+- Credit spread decomposition and hazard rates
+- Vega and volatility risk management
+- Leverage ratio and large exposures
+- CDS clearing and central counterparties
+- fixed income risk measurement
+- Run on the bank mechanics
+- Expected cash flows calculation
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- leverage ratio calculation and monitoring
+- GARCH models and volatility forecasting
+- Mergers Acquisitions
+- Asset sales versus capital raising
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Risk-weighted assets and capital adequacy ratios
+- Security Market Line and beta measurement
+- Interest rate swap pricing and valuation
+- Basel III regulatory framework and capital requirements
+- Cost of risky debt computation
+- Credit default swap pricing and risk-neutral probabilities
+- present value and discounting methods
+- Level 3 fair value hierarchy inputs
+- Variance swaps and volatility trading strategies
+- Liquidity crisis and market dysfunction
+- deposit insurance and protection systems
+- fair value measurement and hierarchy
+- Tier 2 capital and supplementary requirements
+- Delta hedging strategies in options portfolio management
+- systematic risk and market exposure
+- unobservable inputs for valuation
+- Gamma and convexity adjustments
+- Capital Structure
+- Tier 1 capital ratio impacts
+- Tier 1 capital and core equity requirements
+- Credit risk modeling and portfolio correlation analysis
+- Delta hedging and the replication argument
+- Cross-currency basis swaps and funding
+- Level 2 fair value hierarchy inputs
+- Market portfolio and risk-free rate assumptions
+- Citigroup financial statements analysis
+- credit risk transfer mechanisms
+- Loan portfolio valuation methods
+- Empirical tests and anomalies in CAPM
 linter-yaml-title-alias: Week 6 Assignment Review
 tags:
-  - bank_regulation
-  - blackstone
-  - citigroup
-  - financial_statements
-  - loan_portfolio
-  - tier_1_capital
-  - bank_run
-  - loan_valuation
-  - regulatory_capital
-aliases:
-  - Blackstone Citigroup Case
-  - Loan Portfolio Valuation
-  - Week 6 Review
-key_concepts:
-  - Citigroup financial statements analysis
-  - Bank regulatory capital requirements
-  - Tier 1 capital ratio impacts
-  - Run on the bank mechanics
-  - Loan portfolio valuation methods
-  - Expected cash flows calculation
-  - Duration mismatch in banking
-  - Loan loss provisions cyclicality
-  - Cost of risky debt computation
-  - Credit market dislocations
-  - Asset sales versus capital raising
-  - Dividend payments during crisis
+- basel-iii
+- liquidity-crisis
+- credit-default-swaps
+- loan_valuation
+- default-probability
+- bank-regulation
+- capm
+- duration
+- blackstone
+- bank_run
+- credit-risk
+- duration-convexity
+- solution
+- financial_statements
+- private-equity
+- tier-2-capital
+- loan_portfolio
+- deposit-insurance
+- tier_1_capital
+- sensitivity-analysis
+- credit-analysis
+- cds
+- income-statement
+- garch-models
+- mergers-acquisitions
+- interest-rate-swaps
+- mathematical-finance
+- balance-sheet
+- course-material
+- capital-structure
+- greeks
+- regulatory_capital
+- tier-1-capital
+- citigroup
+- net-income
+- quantitative-implementation
+- leverage-ratio
+- dcf-valuation
+- harvard-business-review
+- bank_regulation
+title: Week 6 Assignment Review
 ---
 
 # Week 6 Assignment Review

@@ -1,28 +1,104 @@
 ---
-cssclasses:
-  - academia
-title: Black-Scholes Model
-tags:
-  - black_scholes_model
-  - geometric_brownian_motion
-  - kospi_200
-  - stock_price_process
-  - volatility
-  - option_pricing
-  - risk_neutral_valuation
 aliases:
-  - BSM
-  - Black Scholes
-  - Black-Scholes Formula
+- BSM
+- Black Scholes
+- Black-Scholes Formula
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-41e01d
 key_concepts:
-  - Drift and volatility
-  - Geometric Brownian motion
-  - KOSPI 200 index data
-  - Normal distribution histograms
-  - Stock price process
-  - Risk-neutral valuation
-  - Black-Scholes PDE
-  - Option pricing
+- Apt
+- Extensions to multi-factor CAPM models
+- Option pricing
+- Duration and convexity analysis for bond portfolio management
+- Active portfolio management and performance attribution
+- Brownian motion and Wiener processes in finance
+- Collateralized Debt Obligations
+- Option Greeks and portfolio risk management
+- Commodity markets and pricing dynamics
+- Risk budgeting and portfolio construction techniques
+- Capital Asset Pricing Model and beta estimation
+- Capital Asset Pricing Model and expected returns
+- Mathematical derivation of the Black-Scholes partial differential equation
+- Vega and volatility risk management
+- option pricing models and PDE solutions
+- fixed income risk measurement
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- Martingale theory and risk-neutral pricing
+- Shadow Banking
+- Fixed-for-floating swap cash flows and valuation
+- Arbitrage Pricing Theory and multifactor models
+- Course Material
+- Security Market Line and beta measurement
+- Value at Risk (VaR) methodologies and backtesting
+- Theta and time decay modeling
+- International arbitrage and covered interest rate parity
+- Case Study
+- Arbitrage opportunities and risk-free profit extraction
+- Interest rate swap pricing and valuation
+- Risk-neutral valuation in continuous time models
+- ESG integration in portfolio management
+- Drift and volatility
+- Variance swaps and volatility trading strategies
+- Normal distribution histograms
+- Delta hedging strategies in options portfolio management
+- Stock price process
+- Black-Scholes PDE
+- Geometric Brownian motion
+- Boundary conditions and parameter interpretation in Black-Scholes model
+- Limitations and extensions of the Black-Scholes framework
+- Shadow banking system and regulatory arbitrage
+- Gamma and convexity adjustments
+- Risk-neutral valuation
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Delta hedging and the replication argument
+- KOSPI 200 index data
+- Cross-currency basis swaps and funding
+- Currency hedging strategies for global portfolios
+- Black-Scholes-Merton option pricing model and its applications
+- Market portfolio and risk-free rate assumptions
+- Empirical tests and anomalies in CAPM
+tags:
+- commodities
+- collateralized-debt-obligations
+- interest-rate-swaps
+- mathematical-finance
+- course-material
+- capm
+- shadow-banking
+- martingales
+- brownian-motion
+- risk_neutral_valuation
+- apt
+- case-study
+- greeks
+- black-scholes-model
+- option_pricing
+- value-at-risk
+- put-options
+- factor-models
+- credit-risk
+- european-options
+- duration-convexity
+- quantitative-implementation
+- solution
+- treasury-bonds
+- black_scholes_model
+- arbitrage
+- stock_price_process
+- kospi_200
+- stochastic-volatility
+- exotic-options
+- geometric-brownian-motion
+- martingale
+- volatility
+- geometric_brownian_motion
+- duration
+title: Black-Scholes Model
 ---
 
 # Black-Scholes Model

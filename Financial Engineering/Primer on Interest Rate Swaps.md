@@ -1,20 +1,53 @@
 ---
-tags:
-  - fixed_interest_rate
-  - interest_rate_swaps
-  - libor
-  - loan_agreement
-  - variable_interest_rate
 aliases:
-  - IRS
-  - Interest Rate Swap
-  - Swaps
+- IRS
+- Interest Rate Swap
+- Swaps
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-04bc51
 key_concepts:
-  - Fixed vs. Variable Rates
-  - Interest Rate Definitions
-  - LIBOR and Prime Rate
-  - Loan Interest Payments
-  - Repayment Schedule
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- apt
+- arbitrage
+- binomial
+- black-scholes
+- capm
+- cds
+- convexity
+- correlation
+- credit-default-swaps
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- factor-models
+- fixed_income
+- greeks
+- hedging
+- interest-rate-swaps
+- options
+- risk-management
+- risk-neutral
+- swaps
+- var
+- yield-curve
+- zero-coupon
 ---
 
 # EDUCATION AND EXAMINATION COMMITTEE  

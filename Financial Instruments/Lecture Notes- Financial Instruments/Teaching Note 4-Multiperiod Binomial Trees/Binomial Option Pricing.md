@@ -1,21 +1,63 @@
 ---
-linter-yaml-title-alias: Binomial Option Pricing
-title: Binomial Option Pricing
-tags:
-  - american_option
-  - binomial_model
-  - european_option
-  - option_pricing
-  - stock_option
 aliases:
-  - Binomial Pricing
-  - CRR model
+- Binomial Pricing
+- CRR model
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-7c82cc
 key_concepts:
-  - Binomial option pricing model
-  - European and American options
-  - Market maker synthetic options
-  - No-arbitrage option price
-  - Underlying asset price movement
+- Black-Scholes model and option pricing theory
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Monte Carlo simulation for derivatives valuation
+- Partial differential equations in financial modeling
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+- Binomial option pricing model and lattice methods
+linter-yaml-title-alias: Binomial Option Pricing
+tags:
+- american-options
+- apt
+- arbitrage
+- binomial
+- black-scholes
+- bonds
+- brownian-motion
+- capm
+- convexity
+- correlation
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- european-options
+- exotic-options
+- factor-models
+- fixed_income
+- futures
+- gamma
+- greeks
+- hedging
+- implied-volatility
+- interest-rate-swaps
+- monte-carlo
+- no-arbitrage
+- options
+- pde
+- replication
+- risk-management
+- swaps
+- theta
+- var
+- vega
+title: Binomial Option Pricing
 ---
 
 - **Binomial Trees]]**

@@ -1,20 +1,45 @@
 ---
-tags:
-  - cross_currency
-  - fixed_income
-  - fx_hedging
-  - fx_risk
-  - maturity_matched
 aliases:
-  - FX Hedge Strategies
-  - FX Hedging
-  - Maturity-Matched Hedges
+- FX Hedge Strategies
+- FX Hedging
+- Maturity-Matched Hedges
 key_concepts:
-  - Cross-currency basis
-  - FX risk for fixed income
-  - Foreign yield curve
-  - Maturity-matched pickup
-  - Unhedged positions
+- Cross-currency basis
+- FX risk for fixed income
+- Foreign yield curve
+- Maturity-matched pickup
+- Unhedged positions
+- Credit risk modeling
+- Default probability estimation
+- Fixed income securities
+- Interest rate derivatives
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+tags:
+- fx_risk
+- credit
+- maturity_matched
+- cds
+- cross_currency
+- interest_rates
+- fx_hedging
+- valuation
+- fixed_income
+- fx
+- trading
+- bonds
+- swaps
+- derivatives
+- options
 ---
 
 # Chapter 4 FX Hedging of Fixed Income - What is the Best Way?

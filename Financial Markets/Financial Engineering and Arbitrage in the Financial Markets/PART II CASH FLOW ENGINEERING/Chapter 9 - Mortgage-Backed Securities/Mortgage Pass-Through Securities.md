@@ -1,20 +1,41 @@
 ---
-tags:
-  - interest_rates
-  - mbs
-  - mortgage_backed_securities
-  - pass_through_securities
-  - prepayment_risk
 aliases:
-  - MBS
-  - Mortgage Pools
-  - Pass-Throughs
+- MBS
+- Mortgage Pools
+- Pass-Throughs
 key_concepts:
-  - Cash flow distribution
-  - Duration and convexity
-  - Mortgage pool information
-  - Prepayment risk
-  - Servicing fee
+- Cash flow distribution
+- Duration and convexity
+- Mortgage pool information
+- Prepayment risk
+- Servicing fee
+- Equity valuation and analysis
+- Dividend discount models
+- Fixed income securities
+- Interest rate derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Option sensitivity analysis
+- Delta, gamma, vega, theta, rho
+- Bond pricing and yield analysis
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Interest rate modeling
+- Term structure of interest rates
+tags:
+- equity
+- mortgage_backed_securities
+- valuation
+- fixed_income
+- trading
+- greeks
+- bonds
+- prepayment_risk
+- mbs
+- pass_through_securities
+- options
+- mathematical-finance
+- interest_rates
 ---
 
 # 9.3 MORTGAGE PASS-THROUGH SECURITIES  

@@ -1,34 +1,134 @@
 ---
+aliases:
+- Financial Intermediation
+- Banking and Finance
+- Financial Systems
+- Credit Markets Analysis
 cssclasses: academia
-title: Contemporary Financial Intermediation
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-57886c
+key_concepts:
+- Interest rate risk management
+- Cox-Ross-Rubinstein parameter specification
+- Extensions to multi-factor CAPM models
+- Term structure of interest rates and yield curve shapes
+- Working Capital
+- investment banking services and activities
+- default events and remedies
+- Duration and convexity analysis for bond portfolio management
+- Active portfolio management and performance attribution
+- Regulatory frameworks
+- Computational implementation of binomial option pricing
+- Collateralized Debt Obligations
+- Market risk measurement and portfolio volatility
+- Commodity markets and pricing dynamics
+- Capital Asset Pricing Model and beta estimation
+- Risk budgeting and portfolio construction techniques
+- Expectations hypothesis and liquidity preference theory
+- private equity transactions
+- Capital Asset Pricing Model and expected returns
+- Yield curve fitting and interpolation methods
+- Financial market channels from savers to borrowers
+- fixed income risk measurement
+- Swap spread and credit risk considerations
+- Bank capital requirements
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- leverage ratio calculation and monitoring
+- GARCH models and volatility forecasting
+- Shadow Banking
+- Risk transformation and management
+- Fractional reserve banking stability
+- Fixed-for-floating swap cash flows and valuation
+- Arbitrage Pricing Theory and multifactor models
+- Course Material
+- Security Market Line and beta measurement
+- commercial banking operations and management
+- Net interest margin analysis and banking profitability
+- Credit screening and monitoring
+- Interest rate swap pricing and valuation
+- Liquidity provision
+- ESG integration in portfolio management
+- present value and discounting methods
+- Variance swaps and volatility trading strategies
+- Liquidity crisis and market dysfunction
+- Convergence of binomial model to Black-Scholes solution
+- deposit insurance and protection systems
+- Binomial option pricing model with multiple time steps
+- Delta hedging strategies in options portfolio management
+- Shadow banking system and regulatory arbitrage
+- American option pricing in binomial trees
+- Capital Structure
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Parallel and non-parallel shifts in the yield curve
+- Cross-currency basis swaps and funding
+- liquidity measurement and management
+- Market portfolio and risk-free rate assumptions
+- Financial crisis prevention
+- Collateral and loan covenants
+- Empirical tests and anomalies in CAPM
 linter-yaml-title-alias: Contemporary Financial Intermediation
 tags:
-  - financial_intermediation
-  - banking_systems
-  - risk_management
-  - credit_risk
-  - capital_markets
-  - debt_financing
-  - equity_financing
-  - regulatory_framework
-  - financial_institutions
-  - fractional_reserve_banking
-aliases:
-  - Financial Intermediation
-  - Banking and Finance
-  - Financial Systems
-  - Credit Markets Analysis
-key_concepts:
-  - Financial market channels from savers to borrowers
-  - Risk transformation and management
-  - Credit screening and monitoring
-  - Fractional reserve banking stability
-  - Bank capital requirements
-  - Collateral and loan covenants
-  - Interest rate risk management
-  - Liquidity provision
-  - Regulatory frameworks
-  - Financial crisis prevention
+- yield-curve
+- binomial-model
+- commodities
+- liquidity-crisis
+- capm
+- commercial-banking
+- case-study
+- apt
+- value-at-risk
+- factor-models
+- credit-risk
+- duration-convexity
+- solution
+- private-equity
+- wacc
+- depreciation
+- banking
+- moral-hazard
+- leverage-ratios
+- corporate-bonds
+- wholesale-funding
+- deposit-insurance
+- syndicated-loans
+- financial-ratios
+- municipal-bonds
+- operational-risk
+- credit-analysis
+- income-statement
+- working-capital
+- risk-management
+- collateralized-debt-obligations
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- balance-sheet
+- course-material
+- capital-structure
+- rating-agencies
+- shadow-banking
+- market-risk
+- amortization
+- greeks
+- lbo
+- net-income
+- ebitda
+- leveraged-buyouts
+- quantitative-implementation
+- real-estate
+- treasury-bonds
+- liquidity-risk
+- exotic-options
+- distressed-debt
+- mbs-cmos
+- financial-intermediation
+- dcf-valuation
+- harvard-business-review
+- duration
+title: Contemporary Financial Intermediation
 ---
 
 # Contemporary Financial Intermediation

@@ -1,22 +1,104 @@
 ---
-title: "Appendix 19.A Formulas for Geometric Average Options"
-cssclasses: academia
-tags:
-  - asian-options
-  - average-strike-options
-  - black-scholes-formula
-  - geometric-average-options
-  - monte-carlo-valuation
 aliases:
-  - Average Price Options
-  - Geometric Asian Options
-  - Geometric Average Options Formulas
+- Average Price Options
+- Geometric Asian Options
+- Geometric Average Options Formulas
+cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-ec17e7
 key_concepts:
-  - Average strike options
-  - Black-Scholes formula
-  - Geometric average price options
-  - Monte Carlo valuation
-  - Prepaid forward price
+- Geometric average price options
+- Carry trades and momentum in FX markets
+- Sovereign risk assessment and country analysis
+- Mean-variance optimization and the efficient frontier
+- Extreme value theory and tail risk modeling
+- Credit risk modeling and default probability estimation
+- Collateralized Debt Obligations
+- Option Greeks and portfolio risk management
+- Risk budgeting and portfolio construction techniques
+- Mathematical derivation of the Black-Scholes partial differential equation
+- Prepaid forward price
+- Historical simulation vs. parametric VaR models
+- Vega and volatility risk management
+- option pricing models and PDE solutions
+- DV01 calculation and interest rate risk hedging
+- Average strike options
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- Monte Carlo integration and variance reduction
+- Deposit insurance and systemic risk prevention
+- Monte Carlo VaR for complex portfolios
+- Stress testing and scenario analysis
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- portfolio optimization and risk decomposition
+- Forward rates and interest rate parity
+- Control variates and importance sampling techniques
+- Theta and time decay modeling
+- Risk-neutral pricing methodology for derivative securities
+- Value at Risk (VaR) methodologies and backtesting
+- Currency risk management and hedging
+- Operational risk quantification and modeling
+- Monte Carlo valuation
+- Dividend Policy
+- Exchange rate determination and PPP theory
+- Arbitrage opportunities and risk-free profit extraction
+- Expected Shortfall and coherent risk measures
+- Interest rate swap pricing and valuation
+- Black-Scholes formula
+- Risk-neutral valuation in continuous time models
+- Bank liquidity ratios and funding risk management
+- Variance swaps and volatility trading strategies
+- Boundary conditions and parameter interpretation in Black-Scholes model
+- Limitations and extensions of the Black-Scholes framework
+- simulation methods in financial engineering
+- Value-at-Risk calculation using historical simulation
+- risk measurement and management
+- Gamma and convexity adjustments
+- Credit risk migration matrices and rating transition
+- Credit risk modeling and portfolio correlation analysis
+- Backtesting procedures for risk models
+- Credit risk assessment and loan portfolio management
+- Delta hedging and the replication argument
+- Liquidity risk measurement and management
+- Cross-currency basis swaps and funding
+- Systemic risk indicators and early warning systems
+- Global financial stability and systemic risk monitoring
+- Black-Scholes-Merton option pricing model and its applications
+- Currency markets and foreign exchange trading
+tags:
+- financial-analysis
+- average-strike-options
+- dividend-policy
+- collateralized-debt-obligations
+- interest-rate-swaps
+- mathematical-finance
+- course-material
+- var
+- geometric-average-options
+- asian-options
+- monte-carlo-valuation
+- financial-modeling
+- black-scholes-formula
+- greeks
+- black-scholes-model
+- value-at-risk
+- exchange-rates
+- credit-risk
+- quantitative-implementation
+- duration-convexity
+- solution
+- stress-testing
+- liquidity-risk
+- systemic-risk
+- exotic-options
+- deposit-insurance
+- quantitative-finance
+- expected-shortfall
+- operational-risk
+- monte-carlo
+title: Appendix 19.A Formulas for Geometric Average Options
 ---
 
 # Appendix 19.A Formulas for Geometric Average Options

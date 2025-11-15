@@ -1,3 +1,42 @@
+---
+key_concepts:
+- Option sensitivity analysis
+- Delta, gamma, vega, theta, rho
+- Monte Carlo simulation
+- Path-dependent derivatives
+- Foreign exchange markets
+- Currency derivatives
+- Black-Scholes option pricing model
+- Continuous-time finance
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Derivatives pricing theory
+- Risk-neutral valuation
+- Arbitrage theory and practice
+- Law of one price
+- Alternative investment strategies
+- Hedge fund replication
+- Binomial option pricing
+- Lattice models and recombination
+tags:
+- model-calibration
+- greeks
+- calibration
+- hedge_funds
+- monte_carlo
+- regulation
+- binomial
+- interest_rates
+- stochastic_calculus
+- fixed_income
+- fx
+- trading
+- bonds
+- black_scholes
+- volatility
+---
 %% Begin Waypoint %%
 - **Financial Markets**
 	- **Financial Asset Pricing Theory Overview**

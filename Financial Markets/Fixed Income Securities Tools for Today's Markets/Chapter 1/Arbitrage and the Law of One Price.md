@@ -1,19 +1,37 @@
 ---
-tags:
-  - arbitrage
-  - bond_pricing
-  - law_of_one_price
-  - market_efficiency
-  - replicating_portfolio
 aliases:
-  - Arbitrage Opportunity
-  - Law of One Price
+- Arbitrage Opportunity
+- Law of One Price
 key_concepts:
-  - Arbitrage profit generation
-  - Law of one price
-  - Market price adjustment
-  - Replicating portfolio
-  - Riskless profit trade
+- Arbitrage profit generation
+- Law of one price
+- Market price adjustment
+- Replicating portfolio
+- Riskless profit trade
+- Fixed income securities
+- Interest rate derivatives
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Alternative investment strategies
+- Hedge fund replication
+- Arbitrage theory and practice
+tags:
+- portfolio-theory
+- fixed_income
+- bonds
+- futures
+- portfolio
+- law_of_one_price
+- options
+- bond_pricing
+- market_efficiency
+- hedge_funds
+- arbitrage
+- replicating_portfolio
 ---
 
 # 1.4 ARBITRAGE AND THE LAW OF ONE PRICE  

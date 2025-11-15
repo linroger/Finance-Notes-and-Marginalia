@@ -1,3 +1,28 @@
+---
+key_concepts:
+- Equity valuation and analysis
+- Dividend discount models
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Value at risk and stress testing
+- Portfolio risk metrics
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+tags:
+- trading
+- equity
+- futures
+- risk_management
+- options
+- fx
+- bonds
+---
 # CHAPTER 14  
 
 # Exchange Rates and the Foreign Exchange Market: An Asset Approach  

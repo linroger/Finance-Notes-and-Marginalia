@@ -1,20 +1,45 @@
 ---
-tags:
-  - fed_funds_futures
-  - fed_funds_market
-  - futures_contracts
-  - interest_rates
-  - monetary_policy
 aliases:
-  - FF Futures
-  - Fed Funds
-  - Fed Funds Futures
+- FF Futures
+- Fed Funds
+- Fed Funds Futures
 key_concepts:
-  - Federal Reserve system
-  - abundant reserves regime
-  - effective fed funds rate
-  - overnight borrowing/lending
-  - policy target range
+- Federal Reserve system
+- abundant reserves regime
+- effective fed funds rate
+- overnight borrowing/lending
+- policy target range
+- Credit risk modeling
+- Default probability estimation
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Value at risk and stress testing
+tags:
+- regulatory-framework
+- credit
+- monetary_policy
+- fed_funds_futures
+- cds
+- regulation
+- interest_rates
+- futures_contracts
+- fx
+- trading
+- bonds
+- futures
+- risk_management
+- options
+- fed_funds_market
 ---
 
 # 12.3 FED FUND FUTURES  

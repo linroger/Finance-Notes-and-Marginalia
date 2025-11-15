@@ -1,19 +1,44 @@
 ---
-tags:
-  - bsm_model
-  - forward_rate
-  - implied_volatility
-  - swaption_skew
-  - volatility_smile
 aliases:
-  - Swaption Volatility
-  - Volatility Skew
+- Swaption Volatility
+- Volatility Skew
 key_concepts:
-  - At-the-money options
-  - BSM delta
-  - BSM normal model
-  - Implied volatility varies
-  - Volatility skew
+- At-the-money options
+- BSM delta
+- BSM normal model
+- Implied volatility varies
+- Volatility skew
+- Foreign exchange markets
+- Currency derivatives
+- Option sensitivity analysis
+- Delta, gamma, vega, theta, rho
+- Bond pricing and yield analysis
+- Duration and convexity
+- Black-Scholes option pricing model
+- Continuous-time finance
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Value at risk and stress testing
+- Portfolio risk metrics
+- Options pricing and payoff structures
+tags:
+- implied_volatility
+- model-calibration
+- bsm_model
+- greeks
+- hedge_funds
+- forward_rate
+- volatility_smile
+- swaption_skew
+- interest_rates
+- stochastic_calculus
+- fx
+- bonds
+- black_scholes
+- volatility
+- swaps
 ---
 
 # 16.6 SWAPTION SKEW  

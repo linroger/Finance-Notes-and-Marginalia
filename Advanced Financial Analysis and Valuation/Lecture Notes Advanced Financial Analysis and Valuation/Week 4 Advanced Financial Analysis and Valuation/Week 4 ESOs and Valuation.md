@@ -1,33 +1,105 @@
 ---
-title: Week 4 ESOs and Valuation
+aliases:
+- Employee Stock Options Valuation
+- ESO Analysis
+- Stock-Based Compensation
 cssclasses:
-  - academia
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-9c50f9
+key_concepts:
+- Vesting periods
+- Apt
+- Treasury stock method
+- Accounting for stock compensation
+- Treasury Futures
+- Cash-equivalent cost of grants
+- Interest rate swap valuation and fixed-floating spreads
+- American Options
+- Monte Carlo simulation techniques for path-dependent options
+- Treasury Bonds
+- Real options valuation in corporate investment decisions
+- Binomial option pricing model for American-style options
+- Greeks calculation and their interpretation in options trading
+- Single-name vs. index CDS trading
+- Option Greeks and portfolio risk management
+- Collateralized Debt Obligations
+- Commodity markets and pricing dynamics
+- Mathematical derivation of the Black-Scholes partial differential equation
+- Exercise behavior
+- Solution
+- Credit spread decomposition and hazard rates
+- Vega and volatility risk management
+- option pricing models and PDE solutions
+- CDS clearing and central counterparties
+- Commodity futures pricing and storage costs
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Credit default swap pricing and recovery assumptions
+- GARCH models and volatility forecasting
+- ESOs align management interests
+- expense recognition and matching
+- Implied Volatility
+- Fixed-for-floating swap cash flows and valuation
+- Theta and time decay modeling
+- Risk-neutral pricing methodology for derivative securities
+- Synthetic credit derivatives and index trades
+- Treasury futures trading and basis point value calculations
+- CVA and DVA adjustments in derivative pricing
+- Interest rate swap pricing and valuation
+- Valuation of compensation tricky
+- Risk-neutral valuation in continuous time models
+- Credit default swap pricing and risk-neutral probabilities
+- Variance swaps and volatility trading strategies
+- Employee stock options impact valuation
+- fair value measurement and hierarchy
+- Delta hedging strategies in options portfolio management
+- Theta decay modeling for time-sensitive options strategies
+- Implied volatility extraction from market option prices
+- Boundary conditions and parameter interpretation in Black-Scholes model
+- Limitations and extensions of the Black-Scholes framework
+- High-growth firms use ESOs
+- Quantitative Implementation
+- Volatility smile and skew modeling in options markets
+- Gamma and convexity adjustments
+- Black-Scholes valuation
+- Delta hedging and the replication argument
+- Cross-currency basis swaps and funding
+- Stock-based compensation at Google
+- Black-Scholes-Merton option pricing model and its applications
+- Option dilution effects
 linter-yaml-title-alias: Week 4 ESOs and Valuation
 tags:
-  - accounting_for_esos
-  - equity_compensation
-  - employee_stock_options
-  - stock_options
-  - valuation
-  - option_dilution
-  - executive_compensation
-aliases:
-  - Employee Stock Options Valuation
-  - ESO Analysis
-  - Stock-Based Compensation
-key_concepts:
-  - Accounting for stock compensation
-  - Cash-equivalent cost of grants
-  - ESOs align management interests
-  - Employee stock options impact valuation
-  - High-growth firms use ESOs
-  - Stock-based compensation at Google
-  - Valuation of compensation tricky
-  - Option dilution effects
-  - Black-Scholes valuation
-  - Treasury stock method
-  - Vesting periods
-  - Exercise behavior
+- treasury-futures
+- commodities
+- credit-default-swaps
+- collateralized-debt-obligations
+- stock_options
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- accounting_for_esos
+- course-material
+- option_dilution
+- financial-modeling
+- equity_compensation
+- apt
+- case-study
+- greeks
+- black-scholes-model
+- valuation
+- executive_compensation
+- quantitative-implementation
+- solution
+- treasury-bonds
+- american-options
+- option-pricing
+- employee-stock-options
+- employee_stock_options
+- implied-volatility
+- monte-carlo
+title: Week 4 ESOs and Valuation
 ---
 
 # Week 4 ESOs and Valuation

@@ -1,21 +1,28 @@
 ---
-title: Wellman Inc the Importance of Loan Covenants
-tags:
-  - business_strategy
-  - credit_quality
-  - financial_analysis
-  - loan_covenants
-  - wellman_inc
 aliases:
-  - Loan Covenants
-  - Wellman Inc.
+- Loan Covenants
+- Wellman Inc.
 key_concepts:
-  - 'Borrower: Wellman Inc.'
-  - Conflicts of interest
-  - Credit quality
-  - Loan covenants
-  - Rating downgrade
+- Bond pricing and fixed income securities valuation
+- Ito's lemma and stochastic calculus applications
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Portfolio hedging and risk reduction strategies
+tags:
+- arch
+- bonds
+- cds
+- correlation
+- credit-risk
+- fixed_income
+- hedging
+- risk-management
+title: Wellman Inc the Importance of Loan Covenants
 ---
+
 
 # Wellman Inc the Importance of Loan Covenants
 

@@ -1,38 +1,122 @@
 ---
-title: Credit Markets Session 5
-tags:
-  - black_scholes_model
-  - capital_structure
-  - cdos
-  - correlated_defaults
-  - credit_markets
-  - merton_model
-  - volatility_smiles
-  - structural_credit_models
-  - credit_default_risk
-  - option_pricing
 aliases:
-  - BS Model
-  - Credit Risk
-  - Merton
-  - Structural Credit
-  - Capital Structure Models
+- BS Model
+- Credit Risk
+- Merton
+- Structural Credit
+- Capital Structure Models
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-c1619a
 key_concepts:
-  - Base correlations
-  - Black-Scholes formula
-  - CS strategies
-  - Capital structure modeling
-  - Collateralized debt obligations
-  - Credit default risk
-  - Fair value bonds
-  - Fair value equity
-  - Hedging bonds defaults
-  - Merton model
-  - Synthetic cdo pricing
-  - Volatility smiles
-  - Structural Credit Models
-  - Correlated Defaults
-  - Default Barrier
+- hazard rate modeling and estimation
+- Cox-Ross-Rubinstein parameter specification
+- Term structure of interest rates and yield curve shapes
+- Volatility smiles
+- Duration and convexity analysis for bond portfolio management
+- Stochastic calculus in financial modeling
+- Brownian motion and Wiener processes in finance
+- Capital structure modeling
+- Computational implementation of binomial option pricing
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Market risk measurement and portfolio volatility
+- Expectations hypothesis and liquidity preference theory
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- option pricing models and PDE solutions
+- CDS clearing and central counterparties
+- forward commitments and hedging
+- Correlated Defaults
+- tranche structure in structured finance
+- synthetic CDO structure
+- Spot rates vs. forward rates modeling
+- CDS-Bond basis and arbitrrage opportunities
+- GARCH models and volatility forecasting
+- waterfall structure and cash flow distribution
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- CDX North American CDS index
+- Martingale theory and risk-neutral pricing
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Collateralized debt obligations
+- Merton model
+- Case Study
+- CS strategies
+- Interest rate swap pricing and valuation
+- Black-Scholes formula
+- Credit default swap pricing and risk-neutral probabilities
+- present value and discounting methods
+- Fair value equity
+- Variance swaps and volatility trading strategies
+- Convergence of binomial model to Black-Scholes solution
+- Fair value bonds
+- fair value measurement and hierarchy
+- Credit default risk
+- Binomial option pricing model with multiple time steps
+- survival probability estimation
+- Delta hedging strategies in options portfolio management
+- Default Barrier
+- simulation methods in financial engineering
+- American option pricing in binomial trees
+- Capital Structure
+- super senior tranche in securitization
+- Parallel and non-parallel shifts in the yield curve
+- Cross-currency basis swaps and funding
+- Hedging bonds defaults
+- Synthetic cdo pricing
+- Structural Credit Models
+- credit risk transfer mechanisms
+- Base correlations
+tags:
+- yield-curve
+- binomial-model
+- credit-default-swaps
+- stochastic-calculus
+- cdo
+- volatility-surface
+- case-study
+- apt
+- value-at-risk
+- credit-risk
+- duration-convexity
+- solution
+- financial-crisis
+- corporate-bonds
+- option-pricing
+- geometric-brownian-motion
+- vasicek-model
+- cds
+- asset-allocation
+- collateralized-debt-obligations
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- balance-sheet
+- monte-carlo-simulation
+- course-material
+- capital-structure
+- market-risk
+- martingales
+- asset-backed-securities
+- brownian-motion
+- greeks
+- black-scholes-model
+- exchange-rates
+- quantitative-implementation
+- real-estate
+- treasury-bonds
+- arbitrage
+- exotic-options
+- mbs-cmos
+- martingale
+- delta-hedging
+- implied-volatility
+- dcf-valuation
+- monte-carlo
+- term-structure
+title: Credit Markets Session 5
 ---
 
 # Credit Markets Session 5

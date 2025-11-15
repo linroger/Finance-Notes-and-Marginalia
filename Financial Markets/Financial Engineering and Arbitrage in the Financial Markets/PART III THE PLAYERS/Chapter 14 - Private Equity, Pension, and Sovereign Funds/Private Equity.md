@@ -1,28 +1,43 @@
 ---
-tags:
-  - investment
-  - lbo
-  - limited_partnership
-  - private_equity
-  - venture_capital
 aliases:
-  - LBO
-  - Leveraged Buyout
-  - PE
-  - Private Equity
+- LBO
+- Leveraged Buyout
+- PE
+- Private Equity
 key_concepts:
-  - Capital call liability
-  - General partner (GP)
-  - Leverage buyout (LBO)
-  - Limited partners (LPs)
-  - Limited partnership funds
-  - Limited partnership shares
-  - Mezzanine debt financing
-  - Net asset value (NAV)
-  - Operating cash flows
-  - Private equity firms
-  - Raise funds for acquisitions
-  - Return on investment
+- Capital call liability
+- General partner (GP)
+- Leverage buyout (LBO)
+- Limited partners (LPs)
+- Limited partnership funds
+- Limited partnership shares
+- Mezzanine debt financing
+- Net asset value (NAV)
+- Operating cash flows
+- Private equity firms
+- Raise funds for acquisitions
+- Return on investment
+- Equity valuation and analysis
+- Dividend discount models
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+tags:
+- equity
+- portfolio-theory
+- regulatory-framework
+- trading
+- bonds
+- private_equity
+- venture_capital
+- portfolio
+- options
+- investment
+- limited_partnership
+- lbo
 ---
 
 # 14.1  PRIVATE EQUITY  

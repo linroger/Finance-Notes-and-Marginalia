@@ -1,38 +1,59 @@
 ---
-tags:
-  - annuities
-  - bond_valuation
-  - duration_convexity
-  - financial_instruments
-  - financial_mathematics
-  - interest_rates
-  - term_structure
-  - actuarial_science
-  - present_value
-  - future_value
 aliases:
-  - Actuarial Guide
-  - Business Professionals
-  - Financial Math
-  - Financial Mathematics
-  - Time Value of Money
-key_concepts:
-  - Bond valuation
-  - Duration, convexity, immunization
-  - Financial instruments
-  - Interest rates and factors
-  - Level annuities
-  - Project appraisal and loans
-  - Varying annuities
-  - Amortization and sinking fund methods
-  - Term structure of interest rates
-  - Annuity-immediate and annuity-due
-  - Continuously payable annuities
-  - Perpetuities
-  - Equations of value
-  - Deferred annuities
-  - Varying force of interest
+- Actuarial Guide
+- Business Professionals
+- Financial Math
+- Financial Mathematics
+- Time Value of Money
 cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-378624
+key_concepts:
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Ito's lemma and stochastic calculus applications
+- Monte Carlo simulation for derivatives valuation
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- arch
+- bonds
+- commodities
+- convexity
+- correlation
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- exotic-options
+- expected-shortfall
+- fixed_income
+- gamma
+- garch
+- greeks
+- hedging
+- interest-rate-swaps
+- monte-carlo
+- options
+- replication
+- risk-management
+- risk-neutral
+- swaps
+- term-structure
+- theta
+- var
+- vega
+- yield-curve
+- yield-to-maturity
 ---
 
 # Financial Mathematics: A Practical Guide for Actuaries and other Business Professionals

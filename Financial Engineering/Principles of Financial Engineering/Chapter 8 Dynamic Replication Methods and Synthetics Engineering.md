@@ -1,28 +1,68 @@
 ---
-title: Dynamic Replication Methods and Synthetics Engineering
-tags:
-  - dynamic-replication
-  - synthetic-instruments
-  - financial-engineering
-  - delta-hedging
-  - options-replication
-  - static-replication
-  - black-scholes
-  - hedging-strategies
 aliases:
-  - Chapter 8 Dynamic Replication
-  - Synthetic Instruments Engineering
-  - Dynamic Hedging Methods
-key_concepts:
-  - Dynamic vs static replication
-  - Delta hedging
-  - Synthetic positions
-  - Black-Scholes framework
-  - Continuous rebalancing
-  - Path dependency
-  - Transaction costs
-  - Volatility estimation
+- Chapter 8 Dynamic Replication
+- Synthetic Instruments Engineering
+- Dynamic Hedging Methods
 cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-df241c
+key_concepts:
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Monte Carlo simulation for derivatives valuation
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility smile, skew, and surface modeling
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- apt
+- arbitrage
+- arch
+- binomial
+- black-scholes
+- bonds
+- capm
+- cds
+- convexity
+- counterparty-risk
+- credit-default-swaps
+- credit-risk
+- delta
+- delta-hedging
+- derivatives-pricing
+- duration
+- european-options
+- exotic-options
+- factor-models
+- fixed_income
+- gamma
+- garch
+- greeks
+- hedging
+- hull-white
+- implied-volatility
+- interest-rate-swaps
+- martingale
+- monte-carlo
+- options
+- replication
+- risk-management
+- risk-neutral
+- swaps
+- var
+- yield-curve
+- zero-coupon
+title: Dynamic Replication Methods and Synthetics Engineering
 ---
 
 # DYNAMIC REPLICATION METHODS AND SYNTHETICS ENGINEERING

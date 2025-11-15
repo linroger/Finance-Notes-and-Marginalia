@@ -1,24 +1,46 @@
 ---
-title: Lecture Notes 9A-Credit Default Swaps
-tags:
-  - bis_report
-  - cds_indexes
-  - credit_default_swaps
-  - financial_instruments
-  - his_markit
-  - multi_name_cds
-  - reference_entity
-  - single_name_cds
 aliases:
-  - CDS
-  - Credit Default Swap
-  - Lecture 9A
+- CDS
+- Credit Default Swap
+- Lecture 9A
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-768886
 key_concepts:
-  - CDS Indexes
-  - Credit Default Swaps
-  - Multi-name CDS
-  - Reference Entity
-  - Single-name CDS
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- capm
+- cds
+- convexity
+- correlation
+- credit-default-swaps
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- fixed_income
+- gamma
+- greeks
+- hedging
+- mbs
+- options
+- replication
+- risk-management
+- risk-neutral
+- swaps
+- theta
+- vega
+title: Lecture Notes 9A-Credit Default Swaps
 ---
 
 # Lecture Notes 9A- Credit Default Swaps

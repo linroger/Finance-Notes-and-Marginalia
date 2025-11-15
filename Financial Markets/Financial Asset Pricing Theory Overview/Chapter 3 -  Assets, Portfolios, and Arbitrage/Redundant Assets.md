@@ -1,21 +1,22 @@
 ---
 tags:
-  - arbitrage_free_pricing
-  - binomial_model
-  - law_of_one_price
-  - redundant_assets
-  - replicating_portfolio
+- apt
+- arbitrage
+- binomial
+- derivatives-pricing
+- no-arbitrage
+- options
+- risk-management
+- theta
+- var
 aliases:
-  - Asset Pricing
-  - Redundant Asset
-  - Replicating Portfolio
+- Asset Pricing
+- Redundant Asset
+- Replicating Portfolio
 key_concepts:
-  - Arbitrage-free price
-  - Law of one price
-  - Multi-period model redundancy
-  - Pricing non-redundant assets
-  - Redundant asset definition
-  - Replicating portfolio creation
+- Value at Risk and tail risk measurement
+- Arbitrage opportunities and no-arbitrage pricing
+- Options Greeks and sensitivity analysis
 ---
 
 # 3.5 Redundant assets  

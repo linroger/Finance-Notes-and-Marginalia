@@ -1,26 +1,26 @@
 ---
 cssclasses:
-  - academia
+- academia
 linter-yaml-title-alias: The Lehman Brothers Bankruptcy C Managing the Balance Sheet
   Through the Use of Repo
 title: The Lehman Brothers Bankruptcy C Managing the Balance Sheet Through the Use
   of Repo
 tags:
-  - balance_sheet_management
-  - financial_crisis
-  - lehman_brothers
-  - repo_transactions
-  - sfsa_140
+- abs
+- arch
+- cir
+- fixed_income
+- risk-management
+- var
 aliases:
-  - Anton R. Valukas Report
-  - Lehman Bankruptcy
-  - Repo 105
+- Anton R. Valukas Report
+- Lehman Bankruptcy
+- Repo 105
 key_concepts:
-  - Balance sheet manipulation
-  - Lehman Brothers bankruptcy
-  - Repo 105 transactions
-  - SFAS 140 interpretation
-  - Standard repo transactions
+- 'Short-rate models: Vasicek, CIR, and mean reversion'
+- Ito's lemma and stochastic calculus applications
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
 ---
 
 # The Lehman Brothers Bankruptcy C Managing the Balance Sheet Through the Use of Repo

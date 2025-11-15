@@ -1,21 +1,36 @@
 ---
-title: Moodys Recovery Rates 2009
-tags:
-  - corporate_default
-  - credit_loss_rates
-  - financial_industry
-  - moodys_recovery_rates
-  - recovery_rates
 aliases:
-  - Corporate Default Study
-  - Moody's 2009 Recovery Rates
+- Corporate Default Study
+- Moody's 2009 Recovery Rates
 key_concepts:
-  - corporate default rates
-  - credit loss calculations
-  - cumulative accuracy profile
-  - distressed exchanges
-  - financial industry defaults
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- arbitrage
+- arch
+- bonds
+- cds
+- convexity
+- correlation
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- fixed_income
+- hedging
+- options
+- puts
+- recovery-rate
+- risk-management
+title: Moodys Recovery Rates 2009
 ---
+
 
 # Moodys Recovery Rates 2009
 

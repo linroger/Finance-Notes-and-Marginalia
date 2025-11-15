@@ -1,25 +1,93 @@
 ---
-linter-yaml-title-alias: FIXED INCOME ASSET PRICING BUS 35130 SPRING 2024 JOHN HEATON
-title: PSET VI Fixed Income
-tags:
-  - bdt_model
-  - bond_pricing
-  - callable_bond
-  - fixed_income
-  - ho_lee_model
 aliases:
-  - Freddie Mac Bond
-  - HW6
-  - Homework 6
-  - PSET VI
+- Freddie Mac Bond
+- HW6
+- Homework 6
+- PSET VI
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-c38b48
 key_concepts:
-  - Bond duration convexity
-  - Callable bond valuation
-  - Freddie Mac 6% bond
-  - Ho-Lee interest rate
-  - Nelson-Siegel model
-  - Non-callable bond price
-  - Simple BDT model
+- Cox-Ross-Rubinstein parameter specification
+- Term structure of interest rates and yield curve shapes
+- Ho-Lee interest rate
+- Treasury Bonds
+- Computational implementation of binomial option pricing
+- Single-name vs. index CDS trading
+- Option Greeks and portfolio risk management
+- Expectations hypothesis and liquidity preference theory
+- Futures contracts and forward pricing
+- Simple BDT model
+- Solution
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- Vega and volatility risk management
+- CDS clearing and central counterparties
+- Portfolio immunization strategies
+- CDS-Bond basis and arbitrrage opportunities
+- Spot rates vs. forward rates modeling
+- Option sensitivity analysis
+- Liquidity and price discovery
+- Non-callable bond price
+- Key rate duration and curve risk
+- Equity valuation and analysis
+- Fixed-for-floating swap cash flows and valuation
+- Theta and time decay modeling
+- Bond duration convexity
+- Callable bond valuation
+- Interest rate swap pricing and valuation
+- Freddie Mac 6% bond
+- Margin requirements and clearing
+- Delta, gamma, vega, theta, rho
+- Credit default swap pricing and risk-neutral probabilities
+- Market microstructure and trading
+- Convergence of binomial model to Black-Scholes solution
+- Interest rate derivatives
+- Fixed income securities
+- Bond pricing and yield analysis
+- Binomial option pricing model with multiple time steps
+- American option pricing in binomial trees
+- Quantitative Implementation
+- Gamma and convexity adjustments
+- Delta hedging and the replication argument
+- Credit default swaps and credit risk
+- Parallel and non-parallel shifts in the yield curve
+- Nelson-Siegel model
+- Duration and convexity measures for bond portfolios
+- Price sensitivity to interest rate changes
+- Modified duration vs. Macaulay duration
+- Duration and convexity
+- Dividend discount models
+linter-yaml-title-alias: FIXED INCOME ASSET PRICING BUS 35130 SPRING 2024 JOHN HEATON
+tags:
+- yield-curve
+- binomial-model
+- credit-default-swaps
+- bond_pricing
+- interest-rate-swaps
+- mathematical-finance
+- trading
+- course-material
+- calibration
+- bonds
+- greeks
+- fixed_income
+- exchange-rates
+- valuation
+- credit-risk
+- bdt_model
+- quantitative-implementation
+- duration-convexity
+- solution
+- treasury-bonds
+- model-calibration
+- equity
+- interest_rates
+- callable_bond
+- ho_lee_model
+- volatility
+- cds
+title: PSET VI Fixed Income
 ---
 
 # PSET VI Fixed Income

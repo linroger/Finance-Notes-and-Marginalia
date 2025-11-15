@@ -1,21 +1,46 @@
 ---
-title: Principles Part I
-cssclasses: academia
-tags:
-  - bridgewater
-  - debt_cycles
-  - economic_cycles
-  - financial_crisis
-  - principles
 aliases:
-  - Big Debt Crises
-  - Principles Part 1
+- Big Debt Crises
+- Principles Part 1
+cssclasses: academia
 key_concepts:
-  - 2008 financial crisis
-  - mechanics of debt cycles
-  - money debt market cycles
-  - navigate big debt crises
-  - timeless universal mechanics
+- 2008 financial crisis
+- mechanics of debt cycles
+- money debt market cycles
+- navigate big debt crises
+- timeless universal mechanics
+- Equity valuation and analysis
+- Dividend discount models
+- Credit risk modeling
+- Default probability estimation
+- Fixed income securities
+- Interest rate derivatives
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+tags:
+- bridgewater
+- equity
+- credit
+- debt_cycles
+- cds
+- financial_crisis
+- interest_rates
+- principles
+- stochastic_calculus
+- fixed_income
+- fx
+- economic_cycles
+- trading
+- bonds
+- options
+title: Principles Part I
 ---
 
 # Principles Part I

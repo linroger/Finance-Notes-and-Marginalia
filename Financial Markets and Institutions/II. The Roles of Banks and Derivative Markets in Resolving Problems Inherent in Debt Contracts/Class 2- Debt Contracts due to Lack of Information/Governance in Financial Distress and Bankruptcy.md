@@ -1,33 +1,42 @@
 ---
-title: Governance in Financial Distress and Bankruptcy
-tags:
-  - bankruptcy
-  - board_turnover
-  - chapter_11
-  - corporate_governance
-  - creditor_rights
-  - distressed_firms
-  - financial_distress
-  - management
-  - restructuring
-  - shareholders
 aliases:
-  - Corporate Bankruptcy
-  - Distressed Firm Governance
-  - Financial Distress Governance
-  - Governance in Distress
+- Corporate Bankruptcy
+- Distressed Firm Governance
+- Financial Distress Governance
+- Governance in Distress
 key_concepts:
-  - Automatic stay
-  - Chapter 11 reorganization process
-  - Control rights of stakeholders
-  - Creditor-controlled outcomes
-  - Debtor in possession
-  - Equity holder-creditor conflicts
-  - Framework of control rights
-  - Governance and financial distress
-  - Influence of creditors
-  - Management and board turnover
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Ito's lemma and stochastic calculus applications
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- abs
+- apt
+- arbitrage
+- arch
+- cds
+- compound-options
+- convexity
+- correlation
+- credit-risk
+- credit-spreads
+- delta
+- derivatives-pricing
+- duration
+- fixed_income
+- hedging
+- options
+- puts
+- risk-management
+- term-structure
+title: Governance in Financial Distress and Bankruptcy
 ---
+
 
 # Governance in Financial Distress and Bankruptcy
 

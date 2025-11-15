@@ -1,19 +1,20 @@
 ---
 tags:
-  - commodity_markets
-  - currency_exchange
-  - discounting
-  - equity_valuation
-  - financial_assets
+- abs
+- apt
+- bonds
+- commodities
+- delta
+- derivatives-pricing
+- fixed_income
+- fx
 aliases:
-  - Equity, Commodity, Currency
-  - Stocks, Commodities, Currencies
+- Equity, Commodity, Currency
+- Stocks, Commodities, Currencies
 key_concepts:
-  - Commodity definition
-  - Currency trading
-  - Discounted cash flows
-  - Dividend growth
-  - Stock valuation
+- Bond pricing and fixed income securities valuation
+- Interest rate caps, floors, and swaptions
+- Options Greeks and sensitivity analysis
 ---
 
 # 2.5 EQUITY, COMMODITY, AND CURRENCY MATH  

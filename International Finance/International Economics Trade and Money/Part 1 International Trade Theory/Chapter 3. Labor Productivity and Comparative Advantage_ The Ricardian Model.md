@@ -1,18 +1,36 @@
 ---
-cssclasses: [international-economics]
-title: Chapter 3. Labor Productivity and Comparative Advantage_ The Ricardian Model
-tags: [international-economics, comparative-advantage, ricardian-model, labor-productivity]
-aliases: [Ricardian Model, Comparative Advantage]
+aliases:
+- Ricardian Model
+- Comparative Advantage
+cssclasses:
+- international-economics
 key_concepts:
-  - Comparative Advantage
-  - Absolute Advantage
-  - Ricardian Model
-  - Labor Productivity
-  - Production Possibility Frontier
-  - Opportunity Cost
-  - Unit Labor Requirements
-  - Relative Prices
-linter-yaml-title-alias: Chapter 3. Labor Productivity and Comparative Advantage_ The Ricardian Model
+- Comparative Advantage
+- Absolute Advantage
+- Ricardian Model
+- Labor Productivity
+- Production Possibility Frontier
+- Opportunity Cost
+- Unit Labor Requirements
+- Relative Prices
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Structured products and CDOs
+- Credit derivatives
+- Bond pricing and yield analysis
+- Duration and convexity
+linter-yaml-title-alias: Chapter 3. Labor Productivity and Comparative Advantage_
+  The Ricardian Model
+tags:
+- comparative-advantage
+- portfolio-theory
+- international-economics
+- bonds
+- labor-productivity
+- options
+- ricardian-model
+- structured_finance
+title: Chapter 3. Labor Productivity and Comparative Advantage_ The Ricardian Model
 ---
 
 # Chapter 3. Labor Productivity and Comparative Advantage: The Ricardian Model

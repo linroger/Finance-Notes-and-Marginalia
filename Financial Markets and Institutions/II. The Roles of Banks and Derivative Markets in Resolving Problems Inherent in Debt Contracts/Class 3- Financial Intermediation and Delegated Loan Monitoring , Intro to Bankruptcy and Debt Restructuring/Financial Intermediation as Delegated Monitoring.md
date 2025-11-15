@@ -1,20 +1,19 @@
 ---
-title: Financial Intermediation as Delegated Monitoring
-tags:
-  - agency_costs
-  - bank_intermediation
-  - credit_risk
-  - delegated_monitoring
-  - financial_intermediation
 aliases:
-  - Delegated Monitoring
-  - Financial Intermediation
+- Delegated Monitoring
+- Financial Intermediation
 key_concepts:
-  - Agency problems
-  - Credit risk management
-  - Delegated monitoring
-  - Financial intermediaries
-  - Information asymmetry
+- Term structure of interest rates and yield curve modeling
+- Ito's lemma and stochastic calculus applications
+- Credit risk modeling and default probability estimation
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+tags:
+- arbitrage
+- hedging
+- risk-management
+title: Financial Intermediation as Delegated Monitoring
 ---
+
 
 # Financial Intermediation as Delegated Monitoring

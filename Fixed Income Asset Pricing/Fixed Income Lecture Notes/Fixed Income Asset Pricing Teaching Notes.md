@@ -1,25 +1,123 @@
 ---
-title: Teaching Notes 1
-cssclasses:
-  - academia
-tags:
-  - federal_reserve
-  - fixed_income_securities
-  - interest_rates
-  - market_dynamics
-  - treasury_bonds
 aliases:
-  - Debt Securities
-  - Fixed Income
-  - Teaching Notes 1
+- Debt Securities
+- Fixed Income
+- Teaching Notes 1
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-427c96
 key_concepts:
-  - Federal Reserve actions
-  - Fixed income introduction
-  - Government debt increase
-  - Interest rate compounding
-  - Mortgage-backed securities changes
-  - Treasury bond behavior
-  - U.S. debt overview
+- Cox-Ross-Rubinstein parameter specification
+- Extensions to multi-factor CAPM models
+- Term structure of interest rates and yield curve shapes
+- Computational implementation of binomial option pricing
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Currency derivatives
+- Expectations hypothesis and liquidity preference theory
+- Capital Asset Pricing Model and expected returns
+- Interest rate compounding
+- Interest rate swaps and term structure
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- CDS clearing and central counterparties
+- U.S. debt overview
+- CDS-Bond basis and arbitrrage opportunities
+- Spot rates vs. forward rates modeling
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- 2008 financial crisis and systemic risk analysis
+- Foreign exchange markets
+- Liquidity and price discovery
+- Market portfolio and risk-free rate assumptions
+- Equity valuation and analysis
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Security Market Line and beta measurement
+- Mortgage-backed securities changes
+- Interest rate swap pricing and valuation
+- Credit default swap pricing and risk-neutral probabilities
+- Market microstructure and trading
+- Variance swaps and volatility trading strategies
+- Pairs trading and statistical arbitrage strategies
+- Convergence of binomial model to Black-Scholes solution
+- Interest rate derivatives
+- Fixed income securities
+- Treasury bond behavior
+- Bond pricing and yield analysis
+- Binomial option pricing model with multiple time steps
+- Federal Reserve actions
+- Fixed income introduction
+- American option pricing in binomial trees
+- Government debt increase
+- Credit default swaps and credit risk
+- Parallel and non-parallel shifts in the yield curve
+- Cross-currency basis swaps and funding
+- Basis swaps and cross-currency swaps
+- Duration and convexity
+- Dividend discount models
+tags:
+- yield-curve
+- fx
+- binomial-model
+- treasury_bonds
+- credit-default-swaps
+- collateralized-debt-obligations
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- trading
+- course-material
+- 2008-financial-crisis
+- pairs-trading
+- capm
+- market-risk
+- federal_reserve
+- case-study
+- apt
+- bonds
+- greeks
+- value-at-risk
+- market_dynamics
+- factor-models
+- kalman-filter
+- fixed_income_securities
+- fixed_income
+- exchange-rates
+- hedge-funds
+- credit-risk
+- leveraged-buyouts
+- currency-swaps
+- european-options
+- duration-convexity
+- hull-white-model
+- quantitative-implementation
+- solution
+- treasury-bonds
+- regulation
+- american-options
+- investment-banking
+- equity
+- interest_rates
+- binomial
+- infrastructure
+- wholesale-funding
+- exotic-options
+- mbs-cmos
+- swaptions
+- delta-hedging
+- implied-volatility
+- vasicek-model
+- volatility
+- dcf-valuation
+- regulatory-framework
+- harvard-business-review
+- cds
+- monte-carlo
+title: Teaching Notes 1
 ---
 
 # Teaching Notes

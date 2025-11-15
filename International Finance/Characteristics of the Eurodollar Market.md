@@ -1,33 +1,50 @@
 ---
-cssclasses:
-  - academia
-linter-yaml-title-alias: Characteristics of the Eurodollar Market
-title: Characteristics of the Eurodollar Market
-tags:
-  - eurobond_market
-  - eurocurrency_market
-  - eurodollar
-  - international_money_market
-  - libor
-  - fixed_income
-  - offshore_banking
-  - international_finance
 aliases:
-  - Eurocurrency Markets
-  - Eurodollar Deposits
-  - Euromarkets
-  - Offshore Banking Markets
+- Eurocurrency Markets
+- Eurodollar Deposits
+- Euromarkets
+- Offshore Banking Markets
+cssclasses:
+- academia
 key_concepts:
-  - Eurobond market structure and participants
-  - Eurodollar deposits and offshore markets
-  - International money vs capital markets
-  - LIBOR interest rate benchmarking
-  - Offshore banking jurisdictions
-  - Short-term borrowing and lending mechanisms
-  - Eurobond issuance and management process
-  - Sovereign bond spreads and credit ratings
-  - Syndicated lending structures
-  - Bearer bonds and tax advantages
+- Eurobond market structure and participants
+- Eurodollar deposits and offshore markets
+- International money vs capital markets
+- LIBOR interest rate benchmarking
+- Offshore banking jurisdictions
+- Short-term borrowing and lending mechanisms
+- Eurobond issuance and management process
+- Sovereign bond spreads and credit ratings
+- Syndicated lending structures
+- Bearer bonds and tax advantages
+- Equity valuation and analysis
+- Dividend discount models
+- Credit risk modeling
+- Default probability estimation
+- Fixed income securities
+- Interest rate derivatives
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+linter-yaml-title-alias: Characteristics of the Eurodollar Market
+tags:
+- equity
+- regulatory-framework
+- credit
+- eurocurrency_market
+- cds
+- structured_finance
+- regulation
+- interest_rates
+- portfolio-theory
+- offshore_banking
+- fixed_income
+- fx
+- trading
+- bonds
+- eurodollar
+title: Characteristics of the Eurodollar Market
 ---
 
 # Characteristics of the Eurodollar Market

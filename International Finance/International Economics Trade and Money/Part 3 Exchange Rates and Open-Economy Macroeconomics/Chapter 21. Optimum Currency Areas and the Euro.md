@@ -1,3 +1,25 @@
+---
+key_concepts:
+- Equity valuation and analysis
+- Dividend discount models
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Value at risk and stress testing
+- Portfolio risk metrics
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+tags:
+- equity
+- regulatory-framework
+- fx
+- trading
+- commodities
+- risk_management
+- options
+- regulation
+---
 # CHAPTER 21  
 
 # Optimum Currency Areas and the Euro  

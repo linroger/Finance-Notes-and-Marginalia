@@ -1,26 +1,97 @@
 ---
-cssclasses:
-  - academia
-linter-yaml-title-alias: TREASURY TRANSACTION AND CASH FLOW ANALYSIS
-title: Teaching Note 2Interest Rate Risk Management And Factors
-tags:
-  - coupon_bond
-  - duration
-  - interest_rate_risk
-  - pvbp
-  - zero_coupon_bond
 aliases:
-  - Duration
-  - Interest Rate Risk
-  - PVBP
+- Duration
+- Interest Rate Risk
+- PVBP
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-987df8
 key_concepts:
-  - Duration definition
-  - Interest rate sensitivity
-  - Macaulay duration
-  - Modified duration
-  - Portfolio duration calculation
-  - Price value basis point
-  - Zero coupon bond duration
+- Hedge fund replication
+- Term structure of interest rates and yield curve shapes
+- Interest rate sensitivity
+- Treasury Bonds
+- Option Greeks and portfolio risk management
+- Expectations hypothesis and liquidity preference theory
+- Solution
+- Duration definition
+- Historical simulation vs. parametric VaR models
+- Interest rate modeling
+- Yield curve fitting and interpolation methods
+- Vega and volatility risk management
+- Value at risk and stress testing
+- Portfolio immunization strategies
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Portfolio duration calculation
+- Option sensitivity analysis
+- Modified duration
+- Macaulay duration
+- Monte Carlo VaR for complex portfolios
+- Alternative investment strategies
+- Key rate duration and curve risk
+- Delta Hedging
+- Fixed-for-floating swap cash flows and valuation
+- Value at Risk (VaR) methodologies and backtesting
+- Theta and time decay modeling
+- Portfolio risk metrics
+- Case Study
+- Interest rate swap pricing and valuation
+- Expected Shortfall and coherent risk measures
+- Delta, gamma, vega, theta, rho
+- Price value basis point
+- Variance swaps and volatility trading strategies
+- Derivatives pricing theory
+- Bond pricing and yield analysis
+- Zero coupon bond duration
+- Quantitative Implementation
+- Gamma and convexity adjustments
+- Risk-neutral valuation
+- Delta hedging and the replication argument
+- Parallel and non-parallel shifts in the yield curve
+- Exotic Options
+- Cross-currency basis swaps and funding
+- Duration and convexity measures for bond portfolios
+- Delta hedging and Greeks
+- Price sensitivity to interest rate changes
+- Modified duration vs. Macaulay duration
+- Duration and convexity
+- Options pricing and payoff structures
+linter-yaml-title-alias: TREASURY TRANSACTION AND CASH FLOW ANALYSIS
+tags:
+- yield-curve
+- derivatives
+- coupon_bond
+- interest-rate-swaps
+- mathematical-finance
+- course-material
+- capm
+- case-study
+- bonds
+- greeks
+- interest_rate_risk
+- risk_management
+- value-at-risk
+- portfolio
+- exchange-rates
+- zero_coupon_bond
+- hedge-funds
+- options
+- quantitative-implementation
+- duration-convexity
+- solution
+- treasury-bonds
+- interest_rates
+- stress-testing
+- exotic-options
+- portfolio-theory
+- delta-hedging
+- hedge_funds
+- pvbp
+- duration
+title: Teaching Note 2Interest Rate Risk Management And Factors
 ---
 
  !500

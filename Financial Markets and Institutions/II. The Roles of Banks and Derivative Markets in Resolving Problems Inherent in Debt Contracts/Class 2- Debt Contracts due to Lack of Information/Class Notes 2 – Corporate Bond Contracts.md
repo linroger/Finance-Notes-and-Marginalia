@@ -1,33 +1,36 @@
 ---
-cssclasses:
-  - academia
-title: Class Notes 2 – Corporate Bond Contracts
-tags:
-  - bondholder_rights
-  - corporate_bond_contracts
-  - indentures
-  - optional_redemption
-  - prospectus
-  - defeasance
-  - covenants
-  - trustee_role
 aliases:
-  - Bond Contracts
-  - Bond Indentures
-  - Corporate Bonds
-  - Indenture Provisions
+- Bond Contracts
+- Bond Indentures
+- Corporate Bonds
+- Indenture Provisions
+cssclasses:
+- academia
 key_concepts:
-  - bond legal contracts
-  - bondholder get out
-  - optional redemption
-  - present value calculation
-  - rights responsibilities
-  - covenant structures
-  - default remedies
-  - contract modification
-  - defeasance provisions
-  - trustee obligations
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Ito's lemma and stochastic calculus applications
+- Credit risk modeling and default probability estimation
+- Interest rate caps, floors, and swaptions
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- bonds
+- convexity
+- corporate-bonds
+- correlation
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- fixed_income
+- hedging
+- options
+- risk-management
+- yield-to-maturity
+title: Class Notes 2 – Corporate Bond Contracts
 ---
+
 
 # Class Notes 2 – Corporate Bond Contracts
 

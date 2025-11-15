@@ -1,20 +1,48 @@
 ---
-tags:
-  - alm_risk_management
-  - bank_risk
-  - credit_risk
-  - interest_rate_swaps
-  - swap_spreads
 aliases:
-  - Interest Rate Swap Spreads
-  - Swap Spread Determinants
-  - Swap Spread Factors
+- Interest Rate Swap Spreads
+- Swap Spread Determinants
+- Swap Spread Factors
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-24764d
 key_concepts:
-  - Bank risk premium
-  - Credit risk in swaps
-  - Interest rate swaps
-  - Macroeconomic factors impact
-  - Swap spread determinants
+- Risk-neutral measures and martingale pricing
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Monte Carlo simulation for derivatives valuation
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+tags:
+- abs
+- apt
+- arbitrage
+- bonds
+- convexity
+- corporate-bonds
+- correlation
+- credit-risk
+- derivatives-pricing
+- duration
+- exotic-options
+- expected-shortfall
+- fixed_income
+- hedging
+- interest-rate-swaps
+- monte-carlo
+- options
+- risk-management
+- risk-neutral
+- stress-testing
+- swaps
+- var
+- yield-curve
 ---
 
 # [](../1.%20DeterministicCashFlows.md#4.1%20The%20Yield%20Spread | The%20Determinants%20of%20the%20Swap%20Spread)

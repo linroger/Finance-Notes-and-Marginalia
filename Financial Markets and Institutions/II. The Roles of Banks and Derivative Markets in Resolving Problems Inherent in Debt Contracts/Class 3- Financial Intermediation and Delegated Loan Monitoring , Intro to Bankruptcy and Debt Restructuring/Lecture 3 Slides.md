@@ -1,23 +1,21 @@
 ---
-linter-yaml-title-alias: Direct Finance Without Monitoring
-title: Direct Finance Without Monitoring
-tags:
-  - costly_monitoring
-  - debt_contract
-  - delegated_monitoring
-  - financial_intermediation
-  - loan_monitoring
 aliases:
-  - Debt Without Monitoring
-  - Lender and Borrower
-  - Optimal Contract
+- Debt Without Monitoring
+- Lender and Borrower
+- Optimal Contract
 key_concepts:
-  - Borrower's cash flow
-  - Costly ex-post information
-  - Delegated loan monitoring
-  - Lender's expected repayment
-  - Optimal debt contract
+- Bond pricing and fixed income securities valuation
+- Ito's lemma and stochastic calculus applications
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Interest rate caps, floors, and swaptions
+linter-yaml-title-alias: Direct Finance Without Monitoring
+tags:
+- correlation
+- credit-risk
+title: Direct Finance Without Monitoring
 ---
+
 
 Financial Intermediation and Delegated Monitoring Business 35202 Class 3 1
 

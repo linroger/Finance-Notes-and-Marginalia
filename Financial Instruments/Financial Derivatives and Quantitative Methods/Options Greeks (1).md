@@ -1,24 +1,64 @@
 ---
-cssclasses: academia
-title: Options Greeks
-tags:
-  - delta
-  - gamma
-  - greeks
-  - options_greeks
-  - rho
-  - theta
-  - vega
 aliases:
-  - Black-Scholes
-  - Option Pricing
-  - The Greeks
+- Black-Scholes
+- Option Pricing
+- The Greeks
+cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-88bc83
 key_concepts:
-  - Delta of option
-  - Hedging risks
-  - Option price changes
-  - Risk management
-  - Volatility smiles
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Partial differential equations in financial modeling
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility smile, skew, and surface modeling
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+- Options Greeks and portfolio risk metrics
+tags:
+- american-options
+- apt
+- arbitrage
+- binomial
+- black-scholes
+- bonds
+- brownian-motion
+- capm
+- convexity
+- correlation
+- credit-risk
+- delta
+- delta-hedging
+- derivatives-pricing
+- duration
+- european-options
+- factor-models
+- fixed_income
+- gamma
+- geometric-brownian-motion
+- greeks
+- hedging
+- implied-volatility
+- interest-rate-swaps
+- options
+- pde
+- replication
+- rho
+- risk-management
+- risk-neutral
+- swaps
+- theta
+- var
+- vega
+title: Options Greeks
 ---
 
 # Options Greeks

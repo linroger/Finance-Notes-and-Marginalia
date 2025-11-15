@@ -1,24 +1,126 @@
 ---
-cssclasses:
-  - academia
 Owner: RRoger Lin
-title: A Primer on Distressed Investing
-tags:
-  - bankruptcy
-  - capital_markets
-  - corporate_debt
-  - distressed_investing
-  - restructuring
 aliases:
-  - Distressed Firm
-  - Distressed Investing
-  - Restructuring Process
+- Distressed Firm
+- Distressed Investing
+- Restructuring Process
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-2867bf
 key_concepts:
-  - Acquiring firm control
-  - Bankruptcy market role
-  - Creditor control process
-  - Distressed investing overview
-  - Restructuring process steps
+- Apt
+- Cox-Ross-Rubinstein parameter specification
+- Acquiring firm control
+- second lien security and collateral
+- Mean-variance optimization and the efficient frontier
+- Extreme value theory and tail risk modeling
+- Computational implementation of binomial option pricing
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- maturity date in CDS
+- Commodity markets and pricing dynamics
+- Risk budgeting and portfolio construction techniques
+- private equity transactions
+- Historical simulation vs. parametric VaR models
+- Credit spread decomposition and hazard rates
+- CDS clearing and central counterparties
+- DV01 calculation and interest rate risk hedging
+- tranche structure in structured finance
+- CDS-Bond basis and arbitrrage opportunities
+- Capital structure theory and optimal debt levels
+- Swap spread and credit risk considerations
+- Leveraged buyout financial modeling and returns
+- GARCH models and volatility forecasting
+- Mathematical Finance
+- waterfall structure and cash flow distribution
+- Monte Carlo VaR for complex portfolios
+- Stress testing and scenario analysis
+- Creditor control process
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Bankruptcy market role
+- Value at Risk (VaR) methodologies and backtesting
+- Risk-neutral pricing methodology for derivative securities
+- Case Study
+- Distressed investing overview
+- Operational risk quantification and modeling
+- Exchange rate determination and PPP theory
+- Interest rate swap pricing and valuation
+- Expected Shortfall and coherent risk measures
+- excess returns and manager skill
+- mid-point pricing in CDS
+- Restructuring process steps
+- Credit default swap pricing and risk-neutral probabilities
+- Variance swaps and volatility trading strategies
+- Convergence of binomial model to Black-Scholes solution
+- High Yield Bonds
+- Binomial option pricing model with multiple time steps
+- high yield debt and default risk
+- Value-at-Risk calculation using historical simulation
+- American option pricing in binomial trees
+- Credit risk migration matrices and rating transition
+- Capital Structure
+- Credit risk modeling and portfolio correlation analysis
+- Backtesting procedures for risk models
+- Liquidity risk measurement and management
+- Cross-currency basis swaps and funding
+- Systemic risk indicators and early warning systems
+- Commercial bank business model and revenue streams
+- senior note structure and priority
+tags:
+- ifrs
+- binomial-model
+- commodities
+- credit-default-swaps
+- goodwill
+- case-study
+- apt
+- value-at-risk
+- capital_markets
+- credit-risk
+- bankruptcy
+- ipos
+- duration-convexity
+- solution
+- private-equity
+- corporate_debt
+- depreciation
+- algorithmic-trading
+- municipal-bonds
+- expected-shortfall
+- operational-risk
+- enterprise-value
+- collateralized-debt-obligations
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- balance-sheet
+- course-material
+- capital-structure
+- amortization
+- distressed_investing
+- high-yield-bonds
+- leveraged-buyout
+- exchange-rates
+- net-income
+- hedge-funds
+- ebitda
+- leveraged-buyouts
+- momentum-strategies
+- quantitative-implementation
+- treasury-bonds
+- restructuring
+- stress-testing
+- liquidity-risk
+- systemic-risk
+- ev
+- distressed-debt
+- distressed-investing
+- harvard-business-review
+- monte-carlo
+title: A Primer on Distressed Investing
 ---
 
 # A Primer on Distressed Investing

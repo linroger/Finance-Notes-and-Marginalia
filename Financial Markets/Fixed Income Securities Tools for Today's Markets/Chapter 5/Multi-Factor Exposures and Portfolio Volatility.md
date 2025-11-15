@@ -1,19 +1,44 @@
 ---
-tags:
-  - interest_rate_risk
-  - portfolio_volatility
-  - principal_component_analysis
-  - regression_hedging
-  - risk_metrics
 aliases:
-  - Multi-Factor Exposures
-  - Portfolio Volatility
+- Multi-Factor Exposures
+- Portfolio Volatility
 key_concepts:
-  - Hedging interest rate risk
-  - Principal component analysis (PCA)
-  - Quantifying portfolio volatility
-  - Term structure of interest rates
-  - Two-variable regression hedging
+- Hedging interest rate risk
+- Principal component analysis (PCA)
+- Quantifying portfolio volatility
+- Term structure of interest rates
+- Two-variable regression hedging
+- Fixed income securities
+- Interest rate derivatives
+- Foreign exchange markets
+- Currency derivatives
+- Option sensitivity analysis
+- Delta, gamma, vega, theta, rho
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Derivatives pricing theory
+- Risk-neutral valuation
+- Options pricing and payoff structures
+tags:
+- model-calibration
+- greeks
+- risk_metrics
+- principal_component_analysis
+- interest_rates
+- portfolio-theory
+- fixed_income
+- fx
+- trading
+- bonds
+- volatility
+- futures
+- derivatives
+- options
+- risk_management
 ---
 
 # 5.7 MULTI-FACTOR EXPOSURES AND PORTFOLIO VOLATILITY  

@@ -1,20 +1,35 @@
 ---
-tags:
-  - bond_returns
-  - coupon_payments
-  - financing_costs
-  - horizon_return
-  - realized_returns
 aliases:
-  - Gross Horizon Return
-  - Net Horizon Return
-  - Realized Return
+- Gross Horizon Return
+- Net Horizon Return
+- Realized Return
 key_concepts:
-  - bond price
-  - coupon payments
-  - financing cost
-  - net horizon return
-  - return on capital
+- bond price
+- coupon payments
+- financing cost
+- net horizon return
+- return on capital
+- Bond pricing and yield analysis
+- Duration and convexity
+- Derivatives pricing theory
+- Risk-neutral valuation
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Alternative investment strategies
+- Hedge fund replication
+tags:
+- bond_returns
+- regulatory-framework
+- portfolio-theory
+- realized_returns
+- bonds
+- coupon_payments
+- derivatives
+- options
+- financing_costs
+- horizon_return
+- hedge_funds
+- mathematical-finance
 ---
 
 # 3.1 REALIZED RETURNS  

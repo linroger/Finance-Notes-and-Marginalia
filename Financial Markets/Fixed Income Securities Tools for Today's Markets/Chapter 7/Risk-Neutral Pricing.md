@@ -1,19 +1,44 @@
 ---
-tags:
-  - arbitrage
-  - contingent_claim
-  - interest_rate_process
-  - option_pricing
-  - risk_neutral_pricing
 aliases:
-  - Risk-Neutral Method
-  - Risk-Neutral Valuation
+- Risk-Neutral Method
+- Risk-Neutral Valuation
 key_concepts:
-  - Arbitrage pricing
-  - Contingent claim valuation
-  - Drift in interest rates
-  - Expected discounted value
-  - Risk-neutral probabilities
+- Arbitrage pricing
+- Contingent claim valuation
+- Drift in interest rates
+- Expected discounted value
+- Risk-neutral probabilities
+- Foreign exchange markets
+- Currency derivatives
+- Bond pricing and yield analysis
+- Duration and convexity
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Alternative investment strategies
+- Hedge fund replication
+- Structured products and CDOs
+- Credit derivatives
+- Arbitrage theory and practice
+- Law of one price
+- Interest rate modeling
+tags:
+- contingent_claim
+- interest_rate_process
+- hedge_funds
+- structured_finance
+- option_pricing
+- mathematical-finance
+- interest_rates
+- risk_neutral_pricing
+- portfolio-theory
+- fx
+- bonds
+- swaps
+- portfolio
+- options
+- arbitrage
 ---
 
 # 7.3 RISK-NEUTRAL PRICING  

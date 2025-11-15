@@ -1,3 +1,37 @@
+---
+key_concepts:
+- interest rate and currency derivatives
+- Delta hedging strategies in options portfolio management
+- Duration and convexity analysis for bond portfolio management
+- Credit risk modeling and portfolio correlation analysis
+- Capital Asset Pricing Model and beta estimation
+- Active portfolio management and performance attribution
+- Risk budgeting and portfolio construction techniques
+- ESG integration in portfolio management
+- Credit risk assessment and loan portfolio management
+- Currency hedging strategies for global portfolios
+- Financial markets and instruments
+- Quantitative analysis and modeling
+- Risk assessment and management
+- Portfolio optimization and asset allocation
+- Derivatives pricing and hedging strategies
+- interest rate and currency derivatives
+- Delta hedging strategies in options portfolio management
+- Duration and convexity analysis for bond portfolio management
+- Credit risk modeling and portfolio correlation analysis
+- Capital Asset Pricing Model and beta estimation
+- Active portfolio management and performance attribution
+- Risk budgeting and portfolio construction techniques
+- ESG integration in portfolio management
+- Credit risk assessment and loan portfolio management
+- Currency hedging strategies for global portfolios
+tags:
+- counterparty-risk
+- financial-analysis
+- financial-modeling
+- quantitative-finance
+---
+
  
 source: https://www.investopedia.com/terms/e/equityswap.asp
 description: An equity swap is an exchange of cash flows between two parties that

@@ -1,29 +1,105 @@
 ---
-tags:
-  - at_the_money
-  - black_scholes
-  - bopm_model
-  - delta_hedging
-  - gamma_hedging
-  - option_greeks
-  - option_pricing
-  - portfolio_management
-  - underlying_asset
-  - volatility
 aliases:
-  - Delta-Gamma Hedging
-  - Greeks
-  - Option Sensitivities
-  - Portfolio Delta
+- Delta-Gamma Hedging
+- Greeks
+- Option Sensitivities
+- Portfolio Delta
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-25525b
 key_concepts:
-  - 'BOPM: Greek calculation'
-  - Black-Scholes formula
-  - 'Delta hedging: small price changes'
-  - Delta-gamma-vega hedging
-  - 'Gamma hedging: large price changes'
-  - 'Greeks: delta, gamma, rho, vega'
-  - 'Greeks: option price approximation'
+- Apt
+- 'Delta hedging: small price changes'
+- Cox-Ross-Rubinstein parameter specification
+- 'BOPM: Greek calculation'
+- Extensions to multi-factor CAPM models
+- Duration and convexity analysis for bond portfolio management
+- Active portfolio management and performance attribution
+- 'Gamma hedging: large price changes'
+- Delta-gamma-vega hedging
+- Computational implementation of binomial option pricing
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Option Greeks and portfolio risk management
+- maturity date in CDS
+- Risk budgeting and portfolio construction techniques
+- Capital Asset Pricing Model and beta estimation
+- market maker in CDS markets
+- Capital Asset Pricing Model and expected returns
+- Credit spread decomposition and hazard rates
+- Vega and volatility risk management
+- option pricing models and PDE solutions
+- CDS clearing and central counterparties
+- forward commitments and hedging
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- option sensitivity analysis and hedging
+- Fixed-for-floating swap cash flows and valuation
+- Security Market Line and beta measurement
+- 'Greeks: option price approximation'
+- 'Greeks: delta, gamma, rho, vega'
+- Theta and time decay modeling
+- Case Study
+- Dividend Policy
+- Interest rate swap pricing and valuation
+- Black-Scholes formula
+- Credit default swap pricing and risk-neutral probabilities
+- ESG integration in portfolio management
+- Variance swaps and volatility trading strategies
+- Convergence of binomial model to Black-Scholes solution
+- Binomial option pricing model with multiple time steps
+- Delta hedging strategies in options portfolio management
+- American option pricing in binomial trees
+- Gamma and convexity adjustments
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Delta hedging and the replication argument
+- Cross-currency basis swaps and funding
+- Currency hedging strategies for global portfolios
+- Market portfolio and risk-free rate assumptions
+- Empirical tests and anomalies in CAPM
+tags:
+- binomial-model
+- credit-default-swaps
+- dividend-policy
+- gamma_hedging
+- underlying_asset
+- capm
+- vega-hedging
+- case-study
+- apt
+- value-at-risk
+- put-options
+- credit-risk
+- european-options
+- duration-convexity
+- solution
+- bopm_model
+- exchange-rate
+- option-pricing
+- stochastic-volatility
+- at_the_money
+- risk-management
+- delta_hedging
+- collateralized-debt-obligations
+- interest-rate-swaps
+- call-options
+- mathematical-finance
+- option_greeks
+- greeks
+- black-scholes-model
+- option_pricing
+- exchange-rates
+- quantitative-implementation
+- gamma-hedging
+- exotic-options
+- delta-hedging
+- volatility
+- portfolio_management
+- black_scholes
 ---
+
 # The Greeks  
 
 # Aims  

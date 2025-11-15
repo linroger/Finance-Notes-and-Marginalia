@@ -1,20 +1,45 @@
 ---
-tags:
-  - financial_crisis
-  - interbank_borrowing
-  - libor_transition
-  - short_term_rates
-  - sofr
 aliases:
-  - LIBOR
-  - London Interbank Offered Rate
-  - SOFR
+- LIBOR
+- London Interbank Offered Rate
+- SOFR
 key_concepts:
-  - Interbank borrowing
-  - LIBOR reference rates
-  - Overnight rates
-  - SOFR benchmark
-  - Term loans
+- Interbank borrowing
+- LIBOR reference rates
+- Overnight rates
+- SOFR benchmark
+- Term loans
+- Credit risk modeling
+- Default probability estimation
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+tags:
+- regulatory-framework
+- libor_transition
+- sofr
+- credit
+- interbank_borrowing
+- cds
+- structured_finance
+- financial_crisis
+- stochastic_calculus
+- short_term_rates
+- fx
+- trading
+- bonds
+- swaps
+- futures
 ---
 
 # 12.1 SHORT-TERM RATES AND THE TRANSITION FROM LIBOR  

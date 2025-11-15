@@ -1,3 +1,86 @@
+---
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-ae21f4
+key_concepts:
+- Apt
+- Liquidity coverage ratio and net stable funding ratio
+- Deposit Insurance
+- Stress testing and supervisory review processes
+- Treasury Bonds
+- Single-name vs. index CDS trading
+- Debt capacity analysis in LBO transactions
+- Collateralized Debt Obligations
+- Probability of default estimation from credit spreads
+- Credit spread analysis and OAS methodology
+- private equity transactions
+- Solution
+- Credit spread decomposition and hazard rates
+- Structural models of default and Merton formulation
+- CDS clearing and central counterparties
+- Leverage ratio and large exposures
+- Portfolio immunization strategies
+- CDS-Bond basis and arbitrrage opportunities
+- Mathematical Finance
+- Exit strategies and return maximization
+- Credit default swap pricing and recovery assumptions
+- 'Structured products: CDOs, CLOs, and credit derivatives'
+- Key rate duration and curve risk
+- Risk-weighted assets and capital adequacy ratios
+- Arbitrage Pricing Theory and multifactor models
+- LBO financing sources and covenant structures
+- International arbitrage and covered interest rate parity
+- Synthetic credit derivatives and index trades
+- Private equity investing and leveraged buyouts
+- Generally Accepted Accounting Principles
+- Net interest margin analysis and banking profitability
+- Arbitrage opportunities and risk-free profit extraction
+- Basel III regulatory framework and capital requirements
+- Credit default swap pricing and risk-neutral probabilities
+- Factor Models
+- deposit insurance and protection systems
+- Federal Deposit Insurance Corporation
+- Credit intermediation and information asymmetry
+- Shadow banking system and regulatory arbitrage
+- Quantitative Implementation
+- Credit risk migration matrices and rating transition
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Leveraged Buyout financial structures and returns
+- Duration and convexity measures for bond portfolios
+- Counterparty credit exposure measurement
+- Price sensitivity to interest rate changes
+- Modified duration vs. Macaulay duration
+- Equity returns and value creation mechanisms
+- Corporate Bonds
+tags:
+- financial-analysis
+- credit-default-swaps
+- collateralized-debt-obligations
+- mathematical-finance
+- bank-regulation
+- capital-structure
+- shadow-banking
+- financial-modeling
+- apt
+- leveraged-buyout
+- factor-models
+- lbo
+- leveraged-buyouts
+- credit-risk
+- quantitative-implementation
+- duration-convexity
+- solution
+- private-equity
+- treasury-bonds
+- banking
+- arbitrage
+- corporate-bonds
+- deposit-insurance
+- quantitative-finance
+- gaap
+---
+
 # Objectives of Bank Regulation  
 
 “There have been three great inventions since the beginning of time: fire, the wheel, and central banking.”  

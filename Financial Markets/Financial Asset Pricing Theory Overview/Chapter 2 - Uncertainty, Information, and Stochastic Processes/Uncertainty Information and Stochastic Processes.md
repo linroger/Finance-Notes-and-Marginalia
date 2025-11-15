@@ -1,20 +1,11 @@
 ---
-tags:
-  - brownian_motion
-  - diffusion_process
-  - ito_process
-  - jump_process
-  - stochastic_processes
+tags: []
 aliases:
-  - Brownian Motion
-  - Ito's Lemma
-  - Stochastic Processes
+- Brownian Motion
+- Ito's Lemma
+- Stochastic Processes
 key_concepts:
-  - Brownian motion
-  - Ito processes
-  - Multi-dimensional processes
-  - Probability space
-  - Stochastic process definition
+- Ito's lemma and stochastic calculus applications
 ---
 
 # 2 Uncertainty, information, and stochastic processes 13  

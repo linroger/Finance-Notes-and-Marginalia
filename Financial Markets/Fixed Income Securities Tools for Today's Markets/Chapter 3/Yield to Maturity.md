@@ -1,20 +1,40 @@
 ---
-tags:
-  - bond_pricing
-  - bond_valuation
-  - bond_yield
-  - coupon_rate
-  - yield_to_maturity
 aliases:
-  - Bond Yield
-  - YTM
-  - Yield
+- Bond Yield
+- YTM
+- Yield
 key_concepts:
-  - Bond price and yield
-  - Bond valuation with rates
-  - Coupon rate and yield
-  - Price-yield relationship
-  - Yield to maturity definition
+- Bond price and yield
+- Bond valuation with rates
+- Coupon rate and yield
+- Price-yield relationship
+- Yield to maturity definition
+- Equity valuation and analysis
+- Dividend discount models
+- Fixed income securities
+- Interest rate derivatives
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Interest rate modeling
+- Term structure of interest rates
+tags:
+- equity
+- valuation
+- fixed_income
+- bond_yield
+- bonds
+- yield_to_maturity
+- coupon_rate
+- bond_valuation
+- futures
+- options
+- bond_pricing
+- mathematical-finance
+- interest_rates
 ---
 
 # 3.2 YIELD TO MATURITY  

@@ -1,20 +1,45 @@
 ---
-tags:
-  - forward_rates
-  - interest_rates
-  - sofr
-  - spot_rates
-  - term_structure
 aliases:
-  - Forward Rate
-  - SOFR
-  - Spot Rate
+- Forward Rate
+- SOFR
+- Spot Rate
 key_concepts:
-  - Discount factors and rates
-  - Forward loan agreement
-  - SOFR swap market
-  - Spot rates and forward rates
-  - Term structure relationships
+- Discount factors and rates
+- Forward loan agreement
+- SOFR swap market
+- Spot rates and forward rates
+- Term structure relationships
+- Fixed income securities
+- Interest rate derivatives
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+tags:
+- sofr
+- term_structure
+- cds
+- spot_rates
+- structured_finance
+- interest_rates
+- fixed_income
+- fx
+- trading
+- bonds
+- forward_rates
+- swaps
+- futures
+- risk_management
+- options
 ---
 
 # 2.5 FORWARD RATES  

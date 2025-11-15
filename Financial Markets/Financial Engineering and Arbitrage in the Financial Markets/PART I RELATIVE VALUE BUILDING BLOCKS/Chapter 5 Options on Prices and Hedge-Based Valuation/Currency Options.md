@@ -1,19 +1,35 @@
 ---
-tags:
-  - call_option
-  - currency_options
-  - fx_market
-  - fx_rates
-  - put_option
 aliases:
-  - Currency Derivatives
-  - FX Options
+- Currency Derivatives
+- FX Options
 key_concepts:
-  - Call option on dollar
-  - Currency option mechanics
-  - Dual nature of FX rates
-  - Put option on yen
-  - Strike price inversion
+- Call option on dollar
+- Currency option mechanics
+- Dual nature of FX rates
+- Put option on yen
+- Strike price inversion
+- Equity valuation and analysis
+- Dividend discount models
+- Foreign exchange markets
+- Currency derivatives
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+tags:
+- equity
+- fx_rates
+- call_option
+- fx
+- bonds
+- futures
+- options
+- currency_options
+- mathematical-finance
+- fx_market
+- put_option
 ---
 
 # 5.5 CURRENCY OPTIONS  

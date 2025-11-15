@@ -1,19 +1,23 @@
 ---
 tags:
-  - asset_pricing
-  - ccapm
-  - consumption_based_model
-  - consumption_growth
-  - risk_aversion
+- abs
+- capm
+- correlation
+- credit-risk
+- delta
+- derivatives-pricing
+- fixed_income
+- gamma
+- rho
+- risk-management
+- var
 aliases:
-  - One-Period CCAPM
-  - Simple CCAPM
+- One-Period CCAPM
+- Simple CCAPM
 key_concepts:
-  - Expected excess returns
-  - Marginal rate of substitution
-  - Risk-free return
-  - State-price deflator
-  - Time-additive utility
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Options Greeks and sensitivity analysis
 ---
 
 # 8.2 The one-period CCAPM  

@@ -1,38 +1,28 @@
 ---
-cssclasses:
-  - academia
-title: "Class 4: Restructuring Public Debt"
-tags:
-  - bankruptcy
-  - bond_markets
-  - case_studies
-  - corporate_restructuring
-  - debt_restructuring
-  - exchange_offers
-  - exit_consents
-  - public_finance
-  - sovereign_debt
-  - coercive_exchanges
-  - holdout_problem
-  - trust_indenture_act
 aliases:
-  - Class 4 Restructuring
-  - Public Debt Restructuring
-  - Debt Restructuring Outside Bankruptcy
+- Class 4 Restructuring
+- Public Debt Restructuring
+- Debt Restructuring Outside Bankruptcy
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batchAA-i03ilk
 key_concepts:
-  - Bankruptcy process
-  - Bond markets
-  - Debt restructuring
-  - Exchange offers
-  - Sovereign debt
-  - Coercive exchange offers
-  - Exit consents
-  - Trust Indenture Act
-  - Holdout problem
-  - CIT Group restructuring
-  - Greece bond swap
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+tags:
+- apt
+- convexity
+- duration
+- fixed-income
+- fixed_income
+- yield-curve
+title: 'Class 4: Restructuring Public Debt'
 ---
-
 # Class 4: Restructuring Public Debt
 %% Begin Waypoint %%
 	- Class Note 4 Class Slide 4-Restructuring Debt Outside BankruptcyRestructuring Debt Outside Bankruptcy

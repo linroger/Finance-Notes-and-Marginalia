@@ -1,19 +1,44 @@
 ---
-tags:
-  - call_spread
-  - option_payoffs
-  - option_spreads
-  - put_spread
-  - straddle_strangle
 aliases:
-  - Composite Option Payoffs
-  - Option Strategies
+- Composite Option Payoffs
+- Option Strategies
 key_concepts:
-  - Call and put spreads
-  - Long and short positions
-  - Long call spread
-  - Straddles and strangles
-  - Upfront cost and premium
+- Call and put spreads
+- Long and short positions
+- Long call spread
+- Straddles and strangles
+- Upfront cost and premium
+- Equity valuation and analysis
+- Dividend discount models
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Alternative investment strategies
+- Hedge fund replication
+- Interest rate modeling
+tags:
+- equity
+- portfolio-theory
+- option_payoffs
+- trading
+- bonds
+- option_spreads
+- straddle_strangle
+- futures
+- cds
+- options
+- portfolio
+- hedge_funds
+- put_spread
+- interest_rates
+- call_spread
 ---
 
 # 5.2 COMPOSITE PAYOFFS AT EXPIRY  

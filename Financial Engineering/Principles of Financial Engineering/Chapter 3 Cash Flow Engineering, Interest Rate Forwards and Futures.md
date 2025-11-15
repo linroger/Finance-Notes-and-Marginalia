@@ -1,30 +1,61 @@
 ---
-title: Cash Flow Engineering, Interest Rate Forwards and Futures
-tags:
-  - cash-flow-engineering
-  - interest-rate-forwards
-  - interest-rate-futures
-  - fixed-income
-  - libor
-  - yield-curve
-  - synthetic-assets
-  - day-count-conventions
 aliases:
-  - Chapter 3 Cash Flow Engineering
-  - Interest Rate Derivatives Engineering
-  - Synthetic Interest Rate Instruments
-key_concepts:
-  - Cash flow engineering
-  - Synthetic instruments
-  - Interest rate forwards
-  - Interest rate futures
-  - LIBOR benchmarks
-  - Fixed income conventions
-  - Day-count conventions
-  - Forward loans
-  - Contractual equations
-  - Replication strategies
+- Chapter 3 Cash Flow Engineering
+- Interest Rate Derivatives Engineering
+- Synthetic Interest Rate Instruments
 cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-4f2d16
+key_concepts:
+- Risk-neutral measures and martingale pricing
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Monte Carlo simulation for derivatives valuation
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- apt
+- arbitrage
+- arch
+- bonds
+- cds
+- commodities
+- convexity
+- counterparty-risk
+- credit-default-swaps
+- credit-risk
+- derivatives-pricing
+- duration
+- exotic-options
+- expected-shortfall
+- fixed_income
+- forwards
+- futures
+- futures-markets
+- garch
+- greeks
+- hedging
+- interest-rate-swaps
+- monte-carlo
+- options
+- replication
+- risk-management
+- risk-neutral
+- swaps
+- term-structure
+- var
+- yield-curve
+- zero-coupon
+title: Cash Flow Engineering, Interest Rate Forwards and Futures
 ---
 
 # CASH FLOW ENGINEERING, INTEREST RATE FORWARDS AND FUTURES  

@@ -1,20 +1,63 @@
 ---
-tags:
-  - cubic_spline
-  - curve_fitting
-  - interest_rates
-  - market_practitioners
-  - term_structure
 aliases:
-  - Cubic Spline Implementation
-  - Fitting Interest Rates
-  - Term Structure Modeling
+- Cubic Spline Implementation
+- Fitting Interest Rates
+- Term Structure Modeling
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-84a901
 key_concepts:
-  - cubic spline method
-  - fitting discount function
-  - market practitioners valuation
-  - parametric vs spline methods
-  - term structure interest rates
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Term structure of interest rates and yield curve modeling
+- 'Short-rate models: Vasicek, CIR, and mean reversion'
+- Bond pricing and fixed income securities valuation
+- Monte Carlo simulation for derivatives valuation
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- apt
+- arbitrage
+- arch
+- bonds
+- cir
+- convexity
+- correlation
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- exotic-options
+- expected-shortfall
+- factor-models
+- fixed_income
+- futures
+- gamma
+- garch
+- greeks
+- hedging
+- interest-rate-swaps
+- monte-carlo
+- options
+- replication
+- risk-management
+- risk-neutral
+- stress-testing
+- swaps
+- term-structure
+- theta
+- var
+- vasicek
+- vega
+- yield-curve
+- zero-coupon
 ---
 
 # [](../1.%20DeterministicCashFlows.md#3%20The%20Term%20Structure%20Of%20Interest%20Rates | Fitting%20the%20Term%20Structure%20of%20Interest%20Rates)

@@ -1,14 +1,32 @@
 ---
-cssclasses: [international-economics]
-title: International Economics Trade and Money
-tags: [international-economics, trade, monetary-economics, exchange-rates]
-aliases: [International Econ]
+aliases:
+- International Econ
+cssclasses:
+- international-economics
 key_concepts:
-  - International Trade Theory
-  - Trade Policy
-  - Exchange Rates
-  - Open Economy Macroeconomics
+- International Trade Theory
+- Trade Policy
+- Exchange Rates
+- Open Economy Macroeconomics
+- Foreign exchange markets
+- Currency derivatives
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Interest rate modeling
+- Term structure of interest rates
+- Bond pricing and yield analysis
+- Duration and convexity
 linter-yaml-title-alias: International Economics Trade and Money
+tags:
+- international-economics
+- exchange-rates
+- monetary-economics
+- fx
+- bonds
+- options
+- trade
+- interest_rates
+title: International Economics Trade and Money
 ---
 
 # International Economics Trade and Money

@@ -1,38 +1,37 @@
 ---
-cssclasses:
-  - academia
-title: "Class Note 10: Liquidity and Liquidity Management"
-linter-yaml-title-alias: "Class Note 10: Liquidity and Liquidity Management"
-tags:
-  - asset_liquidity
-  - balance_sheet
-  - financial_intermediaries
-  - illiquidity
-  - liquidity_management
-  - financial_markets
-  - liquidity_risk
-  - liquidity_crisis
-  - federal_funds
-  - repurchase_agreements
 aliases:
-  - "Class Note 10"
-  - "Illiquid Assets"
-  - "Liquidity"
-  - "Liquidity Management"
+- Class Note 10
+- Illiquid Assets
+- Liquidity
+- Liquidity Management
+cssclasses:
+- academia
 key_concepts:
-  - Liquidity measurement and forced sales
-  - Illiquid asset bid-ask spreads
-  - Perfectly liquid assets vs illiquid assets
-  - Financial intermediary liquidity provision
-  - Bank liquidity risk management
-  - Sources of bank liquidity
-  - Asset management for liquidity
-  - Liability management for liquidity
-  - Federal funds market
-  - Federal Reserve discount window
-  - Liquidity crisis prevention
-  - Forward-looking liquidity management
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Ito's lemma and stochastic calculus applications
+- Credit risk modeling and default probability estimation
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+linter-yaml-title-alias: 'Class Note 10: Liquidity and Liquidity Management'
+tags:
+- abs
+- bonds
+- convexity
+- correlation
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- fixed_income
+- hedging
+- options
+- risk-management
+title: 'Class Note 10: Liquidity and Liquidity Management'
 ---
+
 
 # Class Note 10: Liquidity and Liquidity Management
 

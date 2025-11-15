@@ -1,20 +1,18 @@
 ---
 tags:
-  - financial_markets
-  - market_completeness
-  - marketed_dividends
-  - one_period_framework
-  - random_variables
+- apt
+- completeness
+- derivatives-pricing
+- risk-management
+- theta
+- var
 aliases:
-  - Market Completeness
-  - Marketed Dividend
-  - Spanned Dividend
+- Market Completeness
+- Marketed Dividend
+- Spanned Dividend
 key_concepts:
-  - Complete financial market
-  - Incomplete financial market
-  - Marketed dividends
-  - Non-redundant assets
-  - One-period framework
+- Value at Risk and tail risk measurement
+- Options Greeks and sensitivity analysis
 ---
 
 # 3.6 Marketed dividends and market completeness  

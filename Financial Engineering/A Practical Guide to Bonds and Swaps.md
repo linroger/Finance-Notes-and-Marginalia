@@ -1,42 +1,117 @@
 ---
-tags:
-  - bonds
-  - fixed_income
-  - market_risk
-  - pv_valuation
-  - swaps
-  - interest_rate_swaps
-  - derivatives
-  - yield_curves
-  - duration
-  - convexity
-  - hedging
-  - credit_spreads
 aliases:
-  - Bond and Swap Guide
-  - Fixed Income Markets
-  - Practical Guide
-  - Fixed Income Capital Markets Guide
-  - Bond and Swap Valuation Manual
-key_concepts:
-  - Bond market overview
-  - Fixed income markets
-  - Mark-to-market valuation
-  - Present value (PV)
-  - Swap market introduction
-  - Bond risk measures (BPV, DV01)
-  - Duration concepts (Modified, Macaulay's)
-  - Yield to maturity calculations
-  - Clean price vs dirty price
-  - Accrued interest conventions
-  - Interest rate hedging strategies
-  - Swap valuation methodology
-  - Fixed-floating interest rate swaps
-  - Credit arbitrage in swap markets
-  - Convexity and second-order risk
-  - Yield curve risk management
-  - Swap spread risk
+- Bond and Swap Guide
+- Fixed Income Markets
+- Practical Guide
+- Fixed Income Capital Markets Guide
+- Bond and Swap Valuation Manual
 cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-c4bf2f
+key_concepts:
+- Apt
+- Bond market overview
+- Swap valuation methodology
+- coupon-bearing bond analysis
+- Convexity and second-order risk
+- Term structure of interest rates and yield curve shapes
+- Fixed income markets
+- sinking fund redemption provisions
+- Duration concepts (Modified, Macaulay's)
+- Collateralized Debt Obligations
+- Market risk measurement and portfolio volatility
+- Yield curve risk management
+- Interest rate hedging strategies
+- Swap spread risk
+- Fixed-floating interest rate swaps
+- Commodity markets and pricing dynamics
+- Expectations hypothesis and liquidity preference theory
+- Option Greeks and portfolio risk management
+- Historical simulation vs. parametric VaR models
+- Yield curve fitting and interpolation methods
+- Bond risk measures (BPV, DV01)
+- future value and compounding
+- Vega and volatility risk management
+- fixed income risk measurement
+- Accrued interest conventions
+- forward commitments and hedging
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- Monte Carlo VaR for complex portfolios
+- perpetual bond and consol valuation
+- securities repackaging and structuring
+- Stress testing and scenario analysis
+- Credit arbitrage in swap markets
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Value at Risk (VaR) methodologies and backtesting
+- Theta and time decay modeling
+- Case Study
+- Swap market introduction
+- Exchange rate determination and PPP theory
+- Interest rate swap pricing and valuation
+- Expected Shortfall and coherent risk measures
+- Present value (PV)
+- interest rate and currency derivatives
+- excess returns and manager skill
+- callable bond pricing and yield calculation
+- Clean price vs dirty price
+- present value and discounting methods
+- zero-coupon bond pricing and yields
+- investment grade bonds and ratings
+- Variance swaps and volatility trading strategies
+- Gamma and convexity adjustments
+- Delta hedging and the replication argument
+- Parallel and non-parallel shifts in the yield curve
+- Cross-currency basis swaps and funding
+- Mark-to-market valuation
+- Yield to maturity calculations
+- Currency markets and foreign exchange trading
+tags:
+- yield-curve
+- commodities
+- market_risk
+- credit_spreads
+- case-study
+- apt
+- value-at-risk
+- credit-ratings
+- dv01
+- credit-risk
+- duration-convexity
+- solution
+- algorithmic-trading
+- corporate-bonds
+- accruals
+- credit-analysis
+- convexity
+- credit-spreads
+- collateralized-debt-obligations
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- course-material
+- pv_valuation
+- market-risk
+- amortization
+- greeks
+- exchange-rates
+- currency-swaps
+- quantitative-implementation
+- treasury-bonds
+- fra
+- arbitrage
+- infrastructure
+- exotic-options
+- distressed-debt
+- net-present-value
+- structured-products
+- delta-hedging
+- dcf-valuation
+- duration
 ---
 
 # A PRACTICAL GUIDE TO BONDS AND SWAPS  

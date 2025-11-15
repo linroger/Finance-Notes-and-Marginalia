@@ -1,21 +1,81 @@
 ---
-tags:
-  - bond_fundamentals
-  - credit_markets
-  - fixed_income
-  - inflation
-  - market_risk
 aliases:
-  - Credit Markets
-  - Fixed Income Markets
-  - Trading Fixed Income
+- Credit Markets
+- Fixed Income Markets
+- Trading Fixed Income
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-5ca1cd
 key_concepts:
-  - Bond fundamentals
-  - Market risk management
-  - Pricing relationships
-  - Relative value
-  - Spot-forward relationship
-  - Yield curve formation
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Term structure of interest rates and yield curve modeling
+- 'Short-rate models: Vasicek, CIR, and mean reversion'
+- Bond pricing and fixed income securities valuation
+- Monte Carlo simulation for derivatives valuation
+- Partial differential equations in financial modeling
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility smile, skew, and surface modeling
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- apt
+- arbitrage
+- arch
+- binomial
+- black-scholes
+- bonds
+- capm
+- caps
+- cds
+- closed-form
+- commodities
+- convexity
+- corporate-bonds
+- credit-default-swaps
+- credit-risk
+- credit-spreads
+- currency-swaps
+- delta
+- delta-hedging
+- derivatives-pricing
+- duration
+- exotic-options
+- fixed_income
+- floors
+- forwards
+- futures
+- gamma
+- garch
+- greeks
+- hedging
+- implied-volatility
+- interest-rate-swaps
+- kalman-filter
+- mbs
+- mean-reversion
+- monte-carlo
+- options
+- pde
+- risk-management
+- risk-neutral
+- stress-testing
+- swaps
+- swaptions
+- term-structure
+- theta
+- var
+- vasicek
+- vega
+- yield-curve
+- zero-coupon
 ---
 
 Trading the Fixed Income, Inflation/War%20Economies%20and%20Hyperinflation.md) and Credit Markets  

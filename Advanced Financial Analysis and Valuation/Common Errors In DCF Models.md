@@ -1,23 +1,115 @@
 ---
-cssclasses:
-  - academia
-title: Common Errors In DCF Models
-tags:
-  - cash_flow
-  - dcf_models
-  - equity_investing
-  - financial_analysis
-  - valuation
 aliases:
-  - DCF Errors
-  - Mauboussin Valuation
-  - Valuation Mistakes
+- DCF Errors
+- Mauboussin Valuation
+- Valuation Mistakes
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch04-FE-tags-v2
 key_concepts:
-  - Discounted cash flow analysis
-  - Economically sound models
-  - Present value of cash flows
-  - Transparent DCF models
-  - Value of a business
+- Apt
+- Investment analysis and portfolio management
+- Financial valuation and pricing methodologies
+- Cox-Ross-Rubinstein parameter specification
+- Extensions to multi-factor CAPM models
+- Working Capital
+- Computational implementation of binomial option pricing
+- Option Greeks and portfolio risk management
+- Equity markets and stock valuation
+- Capital Asset Pricing Model and expected returns
+- Futures contracts and forward pricing
+- Historical simulation vs. parametric VaR models
+- Vega and volatility risk management
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- Monte Carlo VaR for complex portfolios
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Security Market Line and beta measurement
+- Value at Risk (VaR) methodologies and backtesting
+- Theta and time decay modeling
+- Case Study
+- Interest rate swap pricing and valuation
+- Practical examples and implementation
+- Capital Asset Pricing Model (CAPM)
+- Variance swaps and volatility trading strategies
+- Convergence of binomial model to Black-Scholes solution
+- Binomial option pricing model with multiple time steps
+- American option pricing in binomial trees
+- Gamma and convexity adjustments
+- Capital Structure
+- Delta hedging and the replication argument
+- Cross-currency basis swaps and funding
+- Mathematical and statistical modeling in finance
+- Market portfolio and risk-free rate assumptions
+- Empirical tests and anomalies in CAPM
+last_enhanced: '2025-11-06 08:42:53'
+tags:
+- binomial-model
+- working-capital
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- course-material
+- dcf_models
+- capital-structure
+- capm
+- equity_investing
+- case-study
+- apt
+- greeks
+- caps-floors
+- futures-contracts
+- value-at-risk
+- exchange-rates
+- valuation
+- options
+- quantitative-implementation
+- asset-pricing
+- solution
+- real-estate
+- wacc
+- high-yield
+- banking
+- cash_flow
+- stress-testing
+- infrastructure
+- financial_analysis
+- corporate-bonds
+- dcf-valuation
+- municipal-bonds
+- options-greeks
+- forward-contracts
+- dcf-errors
+- valuation-errors
+- dcf-modeling
+- valuation-principles
+- cash-flow-valuation
+- terminal-value
+- continuing-value
+- forecast-horizon
+- valuation-methodology
+- corporate-valuation
+- business-valuation
+- investment-analysis
+- valuation-best-practices
+- valuation-techniques
+- intrinsic-valuation
+- fundamental-analysis
+- valuation-framework
+- financial-modeling-errors
+- valuation-pitfalls
+- investment-valuation
+- equity-valuation
+- valuation-process
+- financial-planning
+- business-analysis
+- corporate-finance
+- financial-strategy
+title: Common Errors In DCF Models
 ---
 
 Michael J. Mauboussin

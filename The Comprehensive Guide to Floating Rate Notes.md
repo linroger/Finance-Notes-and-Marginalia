@@ -1,3 +1,111 @@
+---
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-0f5104
+key_concepts:
+- Apt
+- Liquidity coverage ratio and net stable funding ratio
+- Term structure of interest rates and yield curve shapes
+- Stress testing and supervisory review processes
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Option Greeks and portfolio risk management
+- Expectations hypothesis and liquidity preference theory
+- Futures contracts and forward pricing
+- Interest rate swaps and term structure
+- Default probability estimation
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- Leverage ratio and large exposures
+- CDS clearing and central counterparties
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- Option sensitivity analysis
+- GARCH models and volatility forecasting
+- Liquidity and price discovery
+- Martingale theory and risk-neutral pricing
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Risk-weighted assets and capital adequacy ratios
+- Counterparty risk and settlement
+- Case Study
+- Interest rate swap pricing and valuation
+- Margin requirements and clearing
+- Delta, gamma, vega, theta, rho
+- Basel III regulatory framework and capital requirements
+- Market microstructure and trading
+- Credit default swap pricing and risk-neutral probabilities
+- Variance swaps and volatility trading strategies
+- Pairs trading and statistical arbitrage strategies
+- Interest rate derivatives
+- Derivatives pricing theory
+- Fixed income securities
+- Bond pricing and yield analysis
+- Risk-neutral valuation
+- Capital Structure
+- Credit default swaps and credit risk
+- Parallel and non-parallel shifts in the yield curve
+- Credit risk modeling
+- Cross-currency basis swaps and funding
+- Delta hedging and Greeks
+- Basis swaps and cross-currency swaps
+- Duration and convexity
+- Options pricing and payoff structures
+tags:
+- basel-iii
+- yield-curve
+- swaps
+- credit-default-swaps
+- collateralized-debt-obligations
+- derivatives
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- trading
+- course-material
+- bank-regulation
+- pairs-trading
+- capital-structure
+- martingales
+- case-study
+- apt
+- bonds
+- greeks
+- core-deposits
+- value-at-risk
+- factor-models
+- fixed_income
+- exchange-rates
+- options
+- credit-risk
+- currency-swaps
+- efficient-market
+- duration-convexity
+- quantitative-implementation
+- solution
+- treasury-bonds
+- model-calibration
+- interest_rates
+- stress-testing
+- infrastructure
+- liquidity-risk
+- algorithmic-trading
+- corporate-bonds
+- exotic-options
+- distressed-debt
+- mbs-cmos
+- credit
+- portfolio-theory
+- volatility
+- dcf-valuation
+- regulatory-framework
+- futures
+- cds
+- monte-carlo
+---
+
 # The Comprehensive Guide to Floating-Rate Notes: From Theory to Practice
 ## Executive Abstract
 Floating-Rate Notes (FRNs) represent a fundamental innovation in fixed income markets, offering variable coupons that reset periodically based on reference rates plus a quoted spread. This primer develops a rigorous analytical framework for understanding, pricing, and managing FRNs in today's post-LIBOR environment. FRNs' defining characteristic—minimal price sensitivity to interest rate movements—has made them increasingly valuable tools for balance sheet management, particularly during monetary policy uncertainty. The transition from LIBOR to risk-free rates like SOFR has fundamentally transformed the FRN landscape, requiring practitioners to adapt pricing methodologies, risk metrics, and trading strategies. Understanding these instruments' unique properties allows investors to capitalize on their distinct risk-return profile while enabling issuers to optimize funding strategies across different market environments.

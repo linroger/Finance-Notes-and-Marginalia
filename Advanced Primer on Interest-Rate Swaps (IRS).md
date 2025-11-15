@@ -1,3 +1,118 @@
+---
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-243965
+key_concepts:
+- Bond convexity adjustment for large interest rate changes
+- Liquidity coverage ratio and net stable funding ratio
+- Cox-Ross-Rubinstein parameter specification
+- coupon-bearing bond analysis
+- Term structure of interest rates and yield curve shapes
+- Extensions to multi-factor CAPM models
+- Duration and convexity analysis for bond portfolio management
+- Active portfolio management and performance attribution
+- Stress testing and supervisory review processes
+- Mean-variance optimization and the efficient frontier
+- Computational implementation of binomial option pricing
+- Collateralized Debt Obligations
+- Capital Asset Pricing Model and beta estimation
+- Risk budgeting and portfolio construction techniques
+- Expectations hypothesis and liquidity preference theory
+- Capital Asset Pricing Model and expected returns
+- Yield curve fitting and interpolation methods
+- option pricing models and PDE solutions
+- Leverage ratio and large exposures
+- fixed income risk measurement
+- DV01 calculation and interest rate risk hedging
+- forward commitments and hedging
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- leverage ratio calculation and monitoring
+- option sensitivity analysis and hedging
+- Shadow Banking
+- Fixed-for-floating swap cash flows and valuation
+- Arbitrage Pricing Theory and multifactor models
+- Risk-weighted assets and capital adequacy ratios
+- portfolio optimization and risk decomposition
+- Security Market Line and beta measurement
+- Arbitrage opportunities and risk-free profit extraction
+- Interest rate swap pricing and valuation
+- excess returns and manager skill
+- interest rate and currency derivatives
+- Basel III regulatory framework and capital requirements
+- ESG integration in portfolio management
+- present value and discounting methods
+- zero-coupon bond pricing and yields
+- Variance swaps and volatility trading strategies
+- Pairs trading and statistical arbitrage strategies
+- Convergence of binomial model to Black-Scholes solution
+- Binomial option pricing model with multiple time steps
+- Delta hedging strategies in options portfolio management
+- simulation methods in financial engineering
+- Value-at-Risk calculation using historical simulation
+- risk measurement and management
+- Shadow banking system and regulatory arbitrage
+- American option pricing in binomial trees
+- Capital Structure
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Parallel and non-parallel shifts in the yield curve
+- Gamma trading and convexity adjustment techniques
+- Cross-currency basis swaps and funding
+- Dodd-Frank Act regulatory reforms
+- Market portfolio and risk-free rate assumptions
+- Empirical tests and anomalies in CAPM
+tags:
+- yield-curve
+- binomial-model
+- bank-regulation
+- pairs-trading
+- capm
+- case-study
+- apt
+- value-at-risk
+- factor-models
+- dv01
+- credit-risk
+- duration-convexity
+- solution
+- wacc
+- cost-of-capital
+- expected-shortfall
+- credit-analysis
+- convexity
+- risk-management
+- collateralized-debt-obligations
+- dodd-frank
+- interest-rate-swaps
+- mathematical-finance
+- capital-structure
+- var
+- bond-pricing
+- shadow-banking
+- greeks
+- black-scholes-model
+- exchange-rates
+- hedge-funds
+- currency-swaps
+- quantitative-implementation
+- hjm-model
+- treasury-bonds
+- american-options
+- stress-testing
+- arbitrage
+- leverage-ratio
+- exotic-options
+- net-present-value
+- swaptions
+- delta-hedging
+- dcf-valuation
+- duration
+- monte-carlo
+- term-structure
+---
+
 # Advanced Primer on Interest-Rate Swaps (IRS)
 ## Plain Vanilla Fixed-for-Floating Swaps
 ---

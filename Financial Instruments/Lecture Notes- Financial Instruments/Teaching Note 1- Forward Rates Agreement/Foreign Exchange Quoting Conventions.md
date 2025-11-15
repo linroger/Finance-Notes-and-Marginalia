@@ -1,23 +1,38 @@
 ---
-title: Foreign Exchange Quoting Conventions
-tags:
-  - currency_pair
-  - foreign_exchange
-  - fx_forward_rate
-  - fx_spot_rate
-  - interest_rate_parity
-  - outright_forward
 aliases:
-  - FX
-  - FX Quoting
-  - Forex
+- FX
+- FX Quoting
+- Forex
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-8aa9a8
 key_concepts:
-  - Base and quote currency
-  - Exchange rate definition
-  - FX forward rate
-  - FX spot rate
-  - Forward contract value
-  - Interest rate parity
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Volatility modeling and forecasting techniques
+- Portfolio hedging and risk reduction strategies
+tags:
+- commodities
+- convexity
+- credit-risk
+- duration
+- exotic-options
+- fixed_income
+- forwards
+- futures
+- fx
+- hedging
+- interest-rate-swaps
+- options
+- risk-management
+- swaps
+- var
+- yield-curve
+title: Foreign Exchange Quoting Conventions
 ---
 
 - Introduction to Derivative Markets]]

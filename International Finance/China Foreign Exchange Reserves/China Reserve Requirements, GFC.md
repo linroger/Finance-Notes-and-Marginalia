@@ -1,27 +1,93 @@
 ---
+aliases:
+- China Reserve Requirements
+- GFC
+- PBOC policy
+- RRR cuts
 cssclasses:
-  - academia
-title: China Reserve Requirements,  GFC
-source: https://newbagehot.yale.edu/docs/china-reserve-requirements-gfc
+- academia
 description: The New Bagehot Project is an online platform for disseminating our knowledge
   on how to fight financial crises.
-tags:
-  - china_monetary_policy
-  - global_financial_crisis
-  - liquidity_management
-  - pboc
-  - rrr
-aliases:
-  - China Reserve Requirements
-  - GFC
-  - PBOC policy
-  - RRR cuts
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-42ea63
 key_concepts:
-  - China reserve requirements
-  - Foreign currency reserves
-  - Global financial crisis
-  - Liquidity management tools
-  - PBOC monetary policy
+- Treasury Bonds
+- Single-name vs. index CDS trading
+- Option Greeks and portfolio risk management
+- Commodity markets and pricing dynamics
+- Solution
+- Default probability estimation
+- Credit spread decomposition and hazard rates
+- Vega and volatility risk management
+- CDS clearing and central counterparties
+- Portfolio immunization strategies
+- CDS-Bond basis and arbitrrage opportunities
+- China reserve requirements
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- 2008 financial crisis and systemic risk analysis
+- Liquidity and price discovery
+- Key rate duration and curve risk
+- Fixed-for-floating swap cash flows and valuation
+- Theta and time decay modeling
+- Counterparty risk and settlement
+- Case Study
+- Balance Of Payments
+- Interest rate swap pricing and valuation
+- Basel III regulatory framework and capital requirements
+- Credit default swap pricing and risk-neutral probabilities
+- Market microstructure and trading
+- Variance swaps and volatility trading strategies
+- Foreign currency reserves
+- Bond pricing and yield analysis
+- Systemic risk and financial stability
+- Quantitative Implementation
+- Gamma and convexity adjustments
+- PBOC monetary policy
+- Delta hedging and the replication argument
+- Credit default swaps and credit risk
+- Credit risk modeling
+- Global financial crisis
+- Duration and convexity measures for bond portfolios
+- Cross-currency basis swaps and funding
+- Delta hedging and Greeks
+- Liquidity management tools
+- Price sensitivity to interest rate changes
+- Modified duration vs. Macaulay duration
+- Duration and convexity
+- Options pricing and payoff structures
+source: https://newbagehot.yale.edu/docs/china-reserve-requirements-gfc
+tags:
+- basel-iii
+- commodities
+- credit-default-swaps
+- china_monetary_policy
+- balance-of-payments
+- interest-rate-swaps
+- mathematical-finance
+- liquidity_management
+- trading
+- course-material
+- 2008-financial-crisis
+- global_financial_crisis
+- case-study
+- bonds
+- greeks
+- rrr
+- options
+- credit-risk
+- quantitative-implementation
+- duration-convexity
+- solution
+- treasury-bonds
+- pboc
+- systemic-risk
+- credit
+- portfolio-theory
+- municipal-bonds
+- cds
+title: China Reserve Requirements,  GFC
 ---
 
 # China Reserve Requirements,  GFC

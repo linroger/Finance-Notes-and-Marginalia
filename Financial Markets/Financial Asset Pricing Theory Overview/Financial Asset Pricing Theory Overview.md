@@ -1,3 +1,38 @@
+---
+tags:
+- apt
+- arbitrage
+- black-scholes
+- bonds
+- capm
+- derivatives-pricing
+- factor-models
+- fixed_income
+- greeks
+- hedging
+- jump-diffusion
+- machine-learning
+- options
+- replication
+- risk-management
+- risk-neutral
+- stochastic-processes
+- term-structure
+- var
+key_concepts:
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+---
+
 %% Begin Waypoint %%
 - **Financial Asset Pricing Theory Overview**
 	- **Chapter 1 - Introduction and Overview**

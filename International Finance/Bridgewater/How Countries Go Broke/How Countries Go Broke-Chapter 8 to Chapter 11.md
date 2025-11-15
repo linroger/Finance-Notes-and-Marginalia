@@ -1,29 +1,119 @@
 ---
-title: How Countries Go Broke-Chapter 8 to Chapter 11
-source: 
-  https://www.linkedin.com/pulse/how-countries-go-broke-chapter-8-11-ray-dalio-yzlle/
-description:
-tags:
-  - acts_of_nature
-  - debt_money_economics
-  - geopolitical_cycle
-  - geopolitical_order
-  - how_countries_go_broke
-  - political_cycle
-  - technological_advances
-  - world_monetary_order
 aliases:
-  - Chapter 8-11
-  - Excerpt
-  - How Countries Go Broke
-  - Part 3
+- Chapter 8-11
+- Excerpt
+- How Countries Go Broke
+- Part 3
+description: null
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-4ffe06
 key_concepts:
-  - Archetypical sequence
-  - Five big forces
-  - Humanity's advances
-  - Internal order and cycle
-  - International order and cycle
-  - Mechanics of money-credit-debt
+- Apt
+- Cox-Ross-Rubinstein parameter specification
+- Term structure of interest rates and yield curve shapes
+- Stochastic calculus in financial modeling
+- Computational implementation of binomial option pricing
+- Collateralized Debt Obligations
+- Market risk measurement and portfolio volatility
+- Option Greeks and portfolio risk management
+- Humanity's advances
+- Commodity markets and pricing dynamics
+- Currency derivatives
+- Expectations hypothesis and liquidity preference theory
+- Interest rate swaps and term structure
+- Default probability estimation
+- Yield curve fitting and interpolation methods
+- Value at risk and stress testing
+- Government bailout mechanisms and market interventions
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- Option sensitivity analysis
+- GARCH models and volatility forecasting
+- 2008 financial crisis and systemic risk analysis
+- Foreign exchange markets
+- Duration and convexity
+- Equity valuation and analysis
+- Fixed-for-floating swap cash flows and valuation
+- Five big forces
+- Course Material
+- Portfolio risk metrics
+- Case Study
+- International order and cycle
+- Balance Of Payments
+- Interest rate swap pricing and valuation
+- Delta, gamma, vega, theta, rho
+- Variance swaps and volatility trading strategies
+- Convergence of binomial model to Black-Scholes solution
+- Internal order and cycle
+- Binomial option pricing model with multiple time steps
+- Bond pricing and yield analysis
+- Archetypical sequence
+- American option pricing in binomial trees
+- Mechanics of money-credit-debt
+- Capital Structure
+- Delta hedging and the replication argument
+- Parallel and non-parallel shifts in the yield curve
+- Credit risk modeling
+- Cross-currency basis swaps and funding
+- Basis swaps and cross-currency swaps
+- Dividend discount models
+source: https://www.linkedin.com/pulse/how-countries-go-broke-chapter-8-11-ray-dalio-yzlle/
+tags:
+- yield-curve
+- binomial-model
+- commodities
+- balance-of-payments
+- stochastic-calculus
+- collateralized-debt-obligations
+- garch-models
+- interest-rate-swaps
+- technological_advances
+- mathematical-finance
+- course-material
+- political_cycle
+- 2008-financial-crisis
+- capital-structure
+- market-risk
+- world_monetary_order
+- case-study
+- apt
+- bailout
+- greeks
+- acts_of_nature
+- value-at-risk
+- exchange-rates
+- deleveraging
+- valuation
+- hedge-funds
+- credit-risk
+- currency-swaps
+- quantitative-implementation
+- duration-convexity
+- solution
+- geopolitical_order
+- real-estate
+- treasury-bonds
+- regulation
+- equity
+- interest_rates
+- stress-testing
+- stochastic_calculus
+- infrastructure
+- systemic-risk
+- bridgewater-perspective
+- corporate-bonds
+- wholesale-funding
+- exotic-options
+- how_countries_go_broke
+- distressed-debt
+- credit
+- geopolitical_cycle
+- regulatory-framework
+- harvard-business-review
+- municipal-bonds
+title: How Countries Go Broke-Chapter 8 to Chapter 11
 ---
 
 ## Part 3: Looking Back

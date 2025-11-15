@@ -1,32 +1,49 @@
 ---
-cssclasses:
-  - academia
-title: Lecture Notes - Financial Instruments
-tags:
-  - derivatives
-  - financial_instruments
-  - lecture_notes
-  - risk_management
-  - valuation
-  - options_pricing
-  - black_scholes
-  - credit_derivatives
 aliases:
-  - Fin Instruments
-  - Financial Instruments
-  - Lecture Notes
-  - Financial Instruments Lecture Notes
+- Fin Instruments
+- Financial Instruments
+- Lecture Notes
+- Financial Instruments Lecture Notes
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-73df90
 key_concepts:
-  - Derivatives and risk
-  - Financial instrument valuation
-  - Instrument types and pricing
-  - Black-Scholes formula
-  - Implied volatility
-  - Forward rate agreements
-  - Futures contracts
-  - Interest rate derivatives
-  - Credit default swaps
-  - American options
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Monte Carlo simulation for derivatives valuation
+- Partial differential equations in financial modeling
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Volatility modeling and forecasting techniques
+- Portfolio hedging and risk reduction strategies
+tags:
+- american-options
+- binomial
+- black-scholes
+- cds
+- credit-default-swaps
+- credit-risk
+- derivatives-pricing
+- exotic-options
+- fixed_income
+- futures
+- hedging
+- implied-volatility
+- machine-learning
+- monte-carlo
+- options
+- pde
+- risk-management
+- risk-neutral
+- swaps
+- yield-curve
+title: Lecture Notes - Financial Instruments
 ---
 
 # Lecture Notes - Financial Instruments

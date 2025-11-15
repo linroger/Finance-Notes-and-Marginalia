@@ -1,19 +1,26 @@
 ---
 tags:
-  - aggregate_production
-  - brownian_motion
-  - general_equilibrium
-  - investment
-  - real_interest_rates
+- arch
+- cir
+- completeness
+- correlation
+- credit-risk
+- hedging
+- martingale
+- risk-management
+- risk-neutral
+- var
 aliases:
-  - CIR model
-  - Interest Rates and Production
+- CIR model
+- Interest Rates and Production
 key_concepts:
-  - Aggregate production
-  - Brownian motion
-  - General equilibrium model
-  - Investment in production
-  - Real interest rates
+- Risk-neutral measures and martingale pricing
+- 'Short-rate models: Vasicek, CIR, and mean reversion'
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Portfolio hedging and risk reduction strategies
 ---
 
 # 10.4 Real interest rates and aggregate production  

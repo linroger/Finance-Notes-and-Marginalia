@@ -1,22 +1,45 @@
 ---
-tags:
-  - factor_exposure
-  - forward_rates
-  - gauss_model
-  - macro_trading
-  - relative_value
-  - term_structure
 aliases:
-  - GAU Model
-  - Macro-Style Trading
-  - Relative Value Trading
+- GAU Model
+- Macro-Style Trading
+- Relative Value Trading
 key_concepts:
-  - Factor exposure minimization
-  - Forward rate convergence
-  - Macro trading factors
-  - Mean reverting trades
-  - Relative value trade
-  - Term structure model
+- Factor exposure minimization
+- Forward rate convergence
+- Macro trading factors
+- Mean reverting trades
+- Relative value trade
+- Term structure model
+- Fixed income securities
+- Interest rate derivatives
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Derivatives pricing theory
+- Risk-neutral valuation
+tags:
+- gauss_model
+- model-calibration
+- macro_trading
+- term_structure
+- calibration
+- factor_exposure
+- relative_value
+- structured_finance
+- regulation
+- interest_rates
+- fixed_income
+- fx
+- trading
+- bonds
+- forward_rates
 ---
 
 # 9.4 RELATIVE VALUE AND MACRO-STYLE TRADING WITH THE GAU $\S\S+$ MODEL  

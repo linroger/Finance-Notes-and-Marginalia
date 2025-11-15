@@ -1,20 +1,17 @@
 ---
 tags:
-  - arrow_debreu_asset
-  - gop
-  - growth_optimal_portfolio
-  - numeraire
-  - tangency_portfolio
+- delta
+- derivatives-pricing
+- risk-management
+- theta
+- var
 aliases:
-  - Arrow-Debreu assets
-  - GOP strategy
-  - Growth-optimal trading strategy
+- Arrow-Debreu assets
+- GOP strategy
+- Growth-optimal trading strategy
 key_concepts:
-  - Arrow-Debreu asset definition
-  - Changing numeraire, measure
-  - GOP in multi-period setting
-  - Growth-optimal portfolio (GOP)
-  - Maximize expected log-return
+- Value at Risk and tail risk measurement
+- Options Greeks and sensitivity analysis
 ---
 
 # 11.6 Changing the numeraire without changing the measure  

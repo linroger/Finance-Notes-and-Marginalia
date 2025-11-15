@@ -1,3 +1,102 @@
+---
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-d67ab2
+key_concepts:
+- Apt
+- Term structure of interest rates
+- Extensions to multi-factor CAPM models
+- Term structure of interest rates and yield curve shapes
+- Working Capital
+- Stochastic calculus in financial modeling
+- Option Greeks and portfolio risk management
+- Commodity markets and pricing dynamics
+- Currency derivatives
+- Expectations hypothesis and liquidity preference theory
+- Capital Asset Pricing Model and expected returns
+- Default probability estimation
+- Interest rate modeling
+- Yield curve fitting and interpolation methods
+- Vega and volatility risk management
+- Value at risk and stress testing
+- Government bailout mechanisms and market interventions
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- Option sensitivity analysis
+- GARCH models and volatility forecasting
+- Foreign exchange markets
+- Liquidity and price discovery
+- Market portfolio and risk-free rate assumptions
+- Equity valuation and analysis
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Security Market Line and beta measurement
+- Portfolio risk metrics
+- Case Study
+- Balance Of Payments
+- Interest rate swap pricing and valuation
+- Delta, gamma, vega, theta, rho
+- Market microstructure and trading
+- Variance swaps and volatility trading strategies
+- Derivatives pricing theory
+- Bond pricing and yield analysis
+- Gamma and convexity adjustments
+- Risk-neutral valuation
+- Capital Structure
+- Delta hedging and the replication argument
+- Parallel and non-parallel shifts in the yield curve
+- Credit risk modeling
+- Cross-currency basis swaps and funding
+- Delta hedging and Greeks
+- Duration and convexity
+- Options pricing and payoff structures
+- Dividend discount models
+- Empirical tests and anomalies in CAPM
+tags:
+- yield-curve
+- fx
+- working-capital
+- commodities
+- balance-of-payments
+- stochastic-calculus
+- derivatives
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- trading
+- course-material
+- capital-structure
+- capm
+- case-study
+- apt
+- bonds
+- greeks
+- bailout
+- risk_management
+- value-at-risk
+- portfolio
+- exchange-rates
+- deleveraging
+- valuation
+- options
+- credit-risk
+- quantitative-implementation
+- duration-convexity
+- solution
+- treasury-bonds
+- interest_rates
+- equity
+- stress-testing
+- stochastic_calculus
+- corporate-bonds
+- exotic-options
+- distressed-debt
+- credit
+- regulatory-framework
+- harvard-business-review
+---
+
 # Part 2: The Archetypical Sequence Leading to Central Governments and Central Banks Going Broke
 
 _Throughout history, central governments and central banks have repeatedly followed similar paths to financial ruin—a pattern that remains insufficiently understood despite its recurrence. This section illuminates this archetypical sequence, offering a comprehensive template of the typical case alongside analysis of the two principal variants: (1) crises involving debt denominated in currencies the country's central bank can print, and (2) those involving debt denominated in currencies beyond the central bank's printing capacity. After establishing this foundational framework, Part 3 will examine how the current Big Cycle, from 1944 to the present, has unfolded relative to this timeless template._

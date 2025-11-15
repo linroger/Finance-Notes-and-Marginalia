@@ -1,23 +1,128 @@
 ---
-title: '# Lecture Notes 4-Mechanics of Futures Trading and Fixed Income Derivatives'
-cssclasses: academia
-tags:
-  - derivatives
-  - fixed_income
-  - futures_trading
-  - limit_orders
-  - market_orders
-  - stop_orders
 aliases:
-  - Futures and Derivatives
-  - Lecture 4
-  - Trading Mechanics
+- Futures and Derivatives
+- Lecture 4
+- Trading Mechanics
+cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-e7f5d3
 key_concepts:
-  - Exchange-traded futures options
-  - Futures trading mechanics
-  - Long and short positions
-  - Managing interest rate risk
-  - Types of futures orders
+- Liquidity coverage ratio and net stable funding ratio
+- Cox-Ross-Rubinstein parameter specification
+- Term structure of interest rates and yield curve shapes
+- Treasury Futures
+- Stress testing and supervisory review processes
+- Computational implementation of binomial option pricing
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Currency derivatives
+- Expectations hypothesis and liquidity preference theory
+- Futures contracts and forward pricing
+- Default probability estimation
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- Leverage ratio and large exposures
+- CDS clearing and central counterparties
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- Foreign exchange markets
+- Liquidity and price discovery
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Types of futures orders
+- Risk-weighted assets and capital adequacy ratios
+- Managing interest rate risk
+- Counterparty risk and settlement
+- Interest rate swap pricing and valuation
+- Margin requirements and clearing
+- Basel III regulatory framework and capital requirements
+- Credit default swap pricing and risk-neutral probabilities
+- Market microstructure and trading
+- Variance swaps and volatility trading strategies
+- Convergence of binomial model to Black-Scholes solution
+- Interest rate derivatives
+- Fixed income securities
+- Bond pricing and yield analysis
+- Binomial option pricing model with multiple time steps
+- Long and short positions
+- American option pricing in binomial trees
+- Credit default swaps and credit risk
+- Futures trading mechanics
+- Parallel and non-parallel shifts in the yield curve
+- Credit risk modeling
+- Cross-currency basis swaps and funding
+- Duration and convexity
+- Options pricing and payoff structures
+- Exchange-traded futures options
+tags:
+- basel-iii
+- fx
+- binomial-model
+- treasury-futures
+- yield-curve
+- credit-default-swaps
+- collateralized-debt-obligations
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- trading
+- course-material
+- bank-regulation
+- capital-structure
+- capm
+- market-risk
+- case-study
+- apt
+- bonds
+- greeks
+- stop_orders
+- caps-floors
+- futures_trading
+- black-scholes-model
+- credit-analysis
+- value-at-risk
+- kalman-filter
+- factor-models
+- fixed_income
+- exchange-rates
+- hedge-funds
+- credit-risk
+- hull-white-model
+- european-options
+- duration-convexity
+- quantitative-implementation
+- solution
+- treasury-bonds
+- limit_orders
+- american-options
+- structured_finance
+- investment-banking
+- interest_rates
+- stress-testing
+- infrastructure
+- algorithmic-trading
+- corporate-bonds
+- systemic-risk
+- exotic-options
+- distressed-debt
+- mbs-cmos
+- credit
+- portfolio-theory
+- delta-hedging
+- implied-volatility
+- swaptions
+- hedge_funds
+- volatility
+- dcf-valuation
+- regulatory-framework
+- harvard-business-review
+- municipal-bonds
+- cds
+title: '# Lecture Notes 4-Mechanics of Futures Trading and Fixed Income Derivatives'
 ---
 
 # # Lecture Notes 4-Mechanics of Futures Trading and Fixed Income Derivatives

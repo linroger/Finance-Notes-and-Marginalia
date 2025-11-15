@@ -1,28 +1,69 @@
 ---
-title: Essentials of Structured Product Engineering
-tags:
-  - structured-products
-  - financial-engineering
-  - exotic-options
-  - hybrid-instruments
-  - retail-products
-  - capital-protected
-  - yield-enhancement
-  - rainbow-options
 aliases:
-  - Chapter 20 Structured Products
-  - Structured Product Engineering
-  - Exotic Product Design
-key_concepts:
-  - Structured product design
-  - Capital protection
-  - Yield enhancement
-  - Touch and digital options
-  - Rainbow options
-  - Barrier options
-  - Product decomposition
-  - Risk-return profiles
+- Chapter 20 Structured Products
+- Structured Product Engineering
+- Exotic Product Design
 cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-8d4d4d
+key_concepts:
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Monte Carlo simulation for derivatives valuation
+- Partial differential equations in financial modeling
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- apt
+- asian-options
+- black-scholes
+- bonds
+- capm
+- caps
+- cds
+- commodities
+- convexity
+- credit-default-swaps
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- european-options
+- exotic-options
+- fixed-income
+- fixed_income
+- floors
+- fx
+- gamma
+- greeks
+- hedging
+- implied-volatility
+- interest-rate-swaps
+- libor-market-model
+- monte-carlo
+- options
+- pde
+- replication
+- risk-management
+- risk-neutral
+- swaps
+- swaptions
+- var
+- vega
+- yield-curve
+- zero-coupon
+title: Essentials of Structured Product Engineering
 ---
 
 # ESSENTIALS OF STRUCTURED PRODUCT ENGINEERING  

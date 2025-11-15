@@ -1,21 +1,45 @@
 ---
-tags:
-  - bond_pricing
-  - bond_yields
-  - hqm_curve
-  - interest_rate_risk
-  - price_rate_curves
-  - treasury_bonds
 aliases:
-  - Bond Sensitivity
-  - HQM Curve
-  - Price-Rate Curve
+- Bond Sensitivity
+- HQM Curve
+- Price-Rate Curve
 key_concepts:
-  - 30-year par rate
-  - Bond price sensitivity
-  - Bond yield spreads
-  - HQM par rate curve
-  - Interest rate risk metrics
+- 30-year par rate
+- Bond price sensitivity
+- Bond yield spreads
+- HQM par rate curve
+- Interest rate risk metrics
+- Fixed income securities
+- Interest rate derivatives
+- Foreign exchange markets
+- Currency derivatives
+- Option sensitivity analysis
+- Delta, gamma, vega, theta, rho
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Interest rate modeling
+tags:
+- price_rate_curves
+- hqm_curve
+- valuation
+- fixed_income
+- interest_rate_risk
+- fx
+- greeks
+- trading
+- bonds
+- treasury_bonds
+- cds
+- options
+- bond_pricing
+- bond_yields
+- interest_rates
 ---
 
 # 4.1 PRICE-RATE CURVES  

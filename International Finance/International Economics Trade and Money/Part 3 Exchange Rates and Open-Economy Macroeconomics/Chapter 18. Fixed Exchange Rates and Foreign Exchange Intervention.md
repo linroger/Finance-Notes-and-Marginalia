@@ -1,3 +1,26 @@
+---
+key_concepts:
+- Credit risk modeling
+- Default probability estimation
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+tags:
+- trading
+- regulatory-framework
+- futures
+- options
+- credit
+- fx
+- bonds
+---
 # CHAPTER 18  
 
 # Fixed Exchange Rates and Foreign Exchange Intervention  

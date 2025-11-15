@@ -1,3 +1,89 @@
+---
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-adca96
+key_concepts:
+- Apt
+- Liquidity coverage ratio and net stable funding ratio
+- Cox-Ross-Rubinstein parameter specification
+- Extensions to multi-factor CAPM models
+- Stress testing and supervisory review processes
+- Computational implementation of binomial option pricing
+- Collateralized Debt Obligations
+- Option Greeks and portfolio risk management
+- Commodity markets and pricing dynamics
+- Currency derivatives
+- Capital Asset Pricing Model and expected returns
+- Futures contracts and forward pricing
+- Default probability estimation
+- Leverage ratio and large exposures
+- Value at risk and stress testing
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- Foreign exchange markets
+- Liquidity and price discovery
+- Market portfolio and risk-free rate assumptions
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Risk-weighted assets and capital adequacy ratios
+- Security Market Line and beta measurement
+- Portfolio risk metrics
+- Case Study
+- Balance Of Payments
+- Interest rate swap pricing and valuation
+- Margin requirements and clearing
+- Basel III regulatory framework and capital requirements
+- Market microstructure and trading
+- Variance swaps and volatility trading strategies
+- Convergence of binomial model to Black-Scholes solution
+- Binomial option pricing model with multiple time steps
+- Bond pricing and yield analysis
+- American option pricing in binomial trees
+- Delta hedging and the replication argument
+- Credit risk modeling
+- Cross-currency basis swaps and funding
+- Delta hedging and Greeks
+- Duration and convexity
+- Options pricing and payoff structures
+- Empirical tests and anomalies in CAPM
+tags:
+- fx
+- binomial-model
+- commodities
+- balance-of-payments
+- collateralized-debt-obligations
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- trading
+- course-material
+- bank-regulation
+- capm
+- case-study
+- apt
+- bonds
+- greeks
+- risk_management
+- value-at-risk
+- exchange-rates
+- options
+- credit-risk
+- quantitative-implementation
+- duration-convexity
+- solution
+- treasury-bonds
+- stress-testing
+- infrastructure
+- corporate-bonds
+- exotic-options
+- distressed-debt
+- credit
+- regulatory-framework
+- harvard-business-review
+- futures
+---
+
 # **Chapter 14 Capital Flows and the Current Account**
 
 Once upon a time there was a politician, running on the following election platform: "As soon as I am in office, I will make our region both a leader in exports and a top destination for outside investors. I will make sure that our region will run a trade surplus, exporting more goods and services than we import. A trade surplus is what I call export success. Moreover, I will also make sure that our region attracts foreign capital clearly in excess of the investments that our residents make abroad. Large net capital inflows are what I mean by a top destination for outside investors. Vote for me to make these successes in trade and finance happen for our region." To live happily ever after, should you vote for this politician?

@@ -1,19 +1,40 @@
 ---
-tags:
-  - american_option
-  - call_option
-  - european_option
-  - option_payoff
-  - put_option
 aliases:
-  - Call and Put Payoffs
-  - Option Payoffs at Expiry
+- Call and Put Payoffs
+- Option Payoffs at Expiry
 key_concepts:
-  - American options
-  - Call option payoff
-  - European options
-  - Put option payoff
-  - Strike price
+- American options
+- Call option payoff
+- European options
+- Put option payoff
+- Strike price
+- Equity valuation and analysis
+- Dividend discount models
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Value at risk and stress testing
+- Portfolio risk metrics
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Interest rate modeling
+- Term structure of interest rates
+tags:
+- interest_rates
+- equity
+- option_payoff
+- call_option
+- trading
+- bonds
+- futures
+- risk_management
+- options
+- european_option
+- american_option
+- put_option
 ---
 
 # 5.1 CALL AND PUT PAYOFFS AT EXPIRY  

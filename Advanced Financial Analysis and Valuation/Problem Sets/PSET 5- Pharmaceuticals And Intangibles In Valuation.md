@@ -1,33 +1,76 @@
 ---
-title: PSET 5 - Pharmaceuticals and Intangibles in Valuation
-cssclasses: academia
-tags:
-  - dcf_model
-  - intangibles
-  - medfield_pharma
-  - pharmaceuticals
-  - pset_5
-  - valuations
-  - financial_analysis
-  - drug_pipeline
-  - research_advantage
-  - patent_protection
-  - acquisition_analysis
 aliases:
-  - Fleximat Reformulation
-  - Medfield Case
-  - PSET 5
+- Fleximat Reformulation
+- Medfield Case
+- PSET 5
+cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-35a4f1
 key_concepts:
-  - Discounted Cash Flow (DCF) model
-  - Free Cash Flow (FCF) calculation
-  - Fleximat drug reformulation value
-  - Medfield pharmaceuticals valuation
-  - Research and development advantage valuation
-  - Reximet new drug value proposition
-  - Patent protection and drug lifecycle
-  - Terminal value estimation
-  - Intangible asset valuation
-  - Pharmaceutical company acquisitions
+- Working Capital
+- Sensitivity analysis in DCF models
+- Risk assessment and management
+- Treasury Bonds
+- Common pitfalls in DCF valuation
+- Pharmaceutical company acquisitions
+- Solution
+- Discounted Cash Flow valuation methodology
+- Terminal value estimation
+- Patent protection and drug lifecycle
+- Fleximat drug reformulation value
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- Discounted Cash Flow (DCF) model
+- GARCH models and volatility forecasting
+- Medfield pharmaceuticals valuation
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Research and development advantage valuation
+- Case Study
+- Quantitative analysis and modeling
+- fundamental valuation methods
+- Interest rate swap pricing and valuation
+- present value and discounting methods
+- Variance swaps and volatility trading strategies
+- Reximet new drug value proposition
+- Free cash flow to equity and firm valuation
+- Terminal value estimation and perpetuity growth
+- Free Cash Flow (FCF) calculation
+- Financial markets and instruments
+- Quantitative Implementation
+- Harvard Business Review
+- Cross-currency basis swaps and funding
+- Intangible asset valuation
+tags:
+- quantitative-implementation
+- solution
+- income-statement
+- research_advantage
+- working-capital
+- dcf_model
+- valuations
+- treasury-bonds
+- depreciation
+- goodwill
+- garch-models
+- interest-rate-swaps
+- drug_pipeline
+- mathematical-finance
+- intangibles
+- course-material
+- financial_analysis
+- pset_5
+- acquisition_analysis
+- case-study
+- amortization
+- net-present-value
+- patent_protection
+- pharmaceuticals
+- dcf-valuation
+- harvard-business-review
+- medfield_pharma
+title: PSET 5 - Pharmaceuticals and Intangibles in Valuation
 ---
 
 # PSET 5 - Pharmaceuticals and Intangibles in Valuation

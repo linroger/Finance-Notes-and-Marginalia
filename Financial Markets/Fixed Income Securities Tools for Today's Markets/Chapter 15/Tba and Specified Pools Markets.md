@@ -1,21 +1,42 @@
 ---
-tags:
-  - delivery_option
-  - mortgage_pools
-  - pass_through_securities
-  - specified_pools
-  - tba_market
 aliases:
-  - Specified Pools
-  - TBA
-  - To Be Announced
-  - UMBS
+- Specified Pools
+- TBA
+- To Be Announced
+- UMBS
 key_concepts:
-  - Cheapest-to-deliver
-  - Current coupon rate
-  - Delivery option
-  - Forward market
-  - TBA market
+- Cheapest-to-deliver
+- Current coupon rate
+- Delivery option
+- Forward market
+- TBA market
+- Credit risk modeling
+- Default probability estimation
+- Fixed income securities
+- Interest rate derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Value at risk and stress testing
+- Portfolio risk metrics
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+tags:
+- credit
+- fixed_income
+- trading
+- mortgage_pools
+- bonds
+- delivery_option
+- tba_market
+- pass_through_securities
+- futures
+- risk_management
+- options
+- specified_pools
 ---
 
 # 15.8 TBA AND SPECIFIED POOLS MARKETS  

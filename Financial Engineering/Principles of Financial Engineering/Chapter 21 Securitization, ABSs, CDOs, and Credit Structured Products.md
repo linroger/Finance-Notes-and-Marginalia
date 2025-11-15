@@ -1,8 +1,62 @@
 ---
-title: "Chapter 21: Securitization, ABSs, CDOs, and Credit Structured Products"
-author: "Principles of Financial Engineering"
-date: "2024"
+author: Principles of Financial Engineering
+date: '2024'
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-ae3860
+key_concepts:
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Ito's lemma and stochastic calculus applications
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility smile, skew, and surface modeling
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
 output: pdf_document
+tags:
+- abs
+- apt
+- arbitrage
+- arch
+- bonds
+- cds
+- convexity
+- corporate-bonds
+- correlation
+- credit-default-swaps
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- exotic-options
+- expected-shortfall
+- fixed_income
+- fx
+- gamma
+- garch
+- greeks
+- hedging
+- implied-volatility
+- interest-rate-swaps
+- mbs
+- options
+- recovery-rate
+- replication
+- risk-management
+- risk-neutral
+- stress-testing
+- swaps
+- theta
+- var
+- vega
+title: 'Chapter 21: Securitization, ABSs, CDOs, and Credit Structured Products'
 ---
 
 # SECURITIZATION, ABSs, CDOs, AND CREDIT STRUCTURED PRODUCTS  

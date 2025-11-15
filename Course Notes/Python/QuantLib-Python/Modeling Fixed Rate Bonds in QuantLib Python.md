@@ -1,23 +1,107 @@
 ---
-title: Modeling Fixed Rate Bonds in QuantLib Python
-source: https://gouthamanbalaraman.com/blog/quantlib-bond-modeling.html
+aliases:
+- Bond Modeling
+- QuantLib Example
 description: This post will walk through an example of modeling fixed rate bonds using
   QuantLib Python.
-tags:
-  - bond_valuation
-  - coupon_bond
-  - fixed_rate_bond
-  - quantlib_python
-  - term_structure
-aliases:
-  - Bond Modeling
-  - QuantLib Example
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-9e405a
 key_concepts:
-  - Bond fair value
-  - Coupon payments
-  - Fixed rate bonds
-  - QuantLib Python modeling
-  - Spot rates
+- Carry trades and momentum in FX markets
+- Term structure of interest rates and yield curve shapes
+- Sovereign risk assessment and country analysis
+- Mean-variance optimization and the efficient frontier
+- Extreme value theory and tail risk modeling
+- Single-name vs. index CDS trading
+- Credit risk modeling and default probability estimation
+- maturity date in CDS
+- Commodity markets and pricing dynamics
+- Risk budgeting and portfolio construction techniques
+- Expectations hypothesis and liquidity preference theory
+- QuantLib Python modeling
+- Historical simulation vs. parametric VaR models
+- Spot rates
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- Fixed rate bonds
+- CDS clearing and central counterparties
+- DV01 calculation and interest rate risk hedging
+- Coupon payments
+- forward commitments and hedging
+- Spot rates vs. forward rates modeling
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Monte Carlo integration and variance reduction
+- GARCH models and volatility forecasting
+- Deposit insurance and systemic risk prevention
+- Mathematical Finance
+- Monte Carlo VaR for complex portfolios
+- Bond fair value
+- Stress testing and scenario analysis
+- Fixed-for-floating swap cash flows and valuation
+- Currency risk management and hedging
+- Forward rates and interest rate parity
+- Control variates and importance sampling techniques
+- Value at Risk (VaR) methodologies and backtesting
+- Risk-neutral pricing methodology for derivative securities
+- Case Study
+- Operational risk quantification and modeling
+- Exchange rate determination and PPP theory
+- Arbitrage opportunities and risk-free profit extraction
+- Expected Shortfall and coherent risk measures
+- Interest rate swap pricing and valuation
+- interest rate and currency derivatives
+- Credit default swap pricing and risk-neutral probabilities
+- Bank liquidity ratios and funding risk management
+- Variance swaps and volatility trading strategies
+- fair value measurement and hierarchy
+- par value in CDS settlement
+- Value-at-Risk calculation using historical simulation
+- Credit risk migration matrices and rating transition
+- Credit risk modeling and portfolio correlation analysis
+- Backtesting procedures for risk models
+- Credit risk assessment and loan portfolio management
+- Parallel and non-parallel shifts in the yield curve
+- Liquidity risk measurement and management
+- Cross-currency basis swaps and funding
+- Systemic risk indicators and early warning systems
+- Currency markets and foreign exchange trading
+source: https://gouthamanbalaraman.com/blog/quantlib-bond-modeling.html
+tags:
+- financial-analysis
+- yield-curve
+- commodities
+- credit-default-swaps
+- garch-models
+- coupon_bond
+- interest-rate-swaps
+- mathematical-finance
+- financial-modeling
+- case-study
+- value-at-risk
+- exchange-rates
+- credit-risk
+- quantitative-implementation
+- term_structure
+- duration-convexity
+- solution
+- treasury-bonds
+- fixed_rate_bond
+- stress-testing
+- liquidity-risk
+- systemic-risk
+- exotic-options
+- deposit-insurance
+- quantitative-finance
+- dcf-valuation
+- quantlib_python
+- expected-shortfall
+- operational-risk
+- bond_valuation
+- monte-carlo
+- term-structure
+title: Modeling Fixed Rate Bonds in QuantLib Python
 ---
 
 # Modeling Fixed Rate Bonds in QuantLib Python

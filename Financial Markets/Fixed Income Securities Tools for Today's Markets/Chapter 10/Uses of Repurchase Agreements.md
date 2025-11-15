@@ -1,21 +1,45 @@
 ---
-tags:
-  - cash_management
-  - collateral_swaps
-  - long_financing
-  - repo_market
-  - repurchase_agreements
-  - short_financing
 aliases:
-  - Repo applications
-  - Repo uses
-  - Repurchase agreement uses
+- Repo applications
+- Repo uses
+- Repurchase agreement uses
 key_concepts:
-  - Repo agreement duration
-  - Repo as short-term investment
-  - Repo for cash management
-  - Repo for collateral swaps
-  - Repo for short financing
+- Repo agreement duration
+- Repo as short-term investment
+- Repo for cash management
+- Repo for collateral swaps
+- Repo for short financing
+- Equity valuation and analysis
+- Dividend discount models
+- Fixed income securities
+- Interest rate derivatives
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Credit default swaps and credit risk
+tags:
+- equity
+- model-calibration
+- regulatory-framework
+- cds
+- hedge_funds
+- collateral_swaps
+- repurchase_agreements
+- cash_management
+- short_financing
+- fixed_income
+- fx
+- long_financing
+- trading
+- bonds
+- swaps
 ---
 
 # 10.2 USES OF REPURCHASE AGREEMENTS  

@@ -1,21 +1,46 @@
 ---
-tags:
-  - brokerage_operations
-  - financial_market_utilities
-  - price_quotation_systems
-  - securities_trading
-  - trading_infrastructure
 aliases:
-  - Chapter 3
-  - Financial Markets
-  - Market Infrastructure
-  - Securities Trading
+- Chapter 3
+- Financial Markets
+- Market Infrastructure
+- Securities Trading
 key_concepts:
-  - Brokerage operations
-  - Clearing and settlement
-  - Financial market utilities
-  - Price and quote systems
-  - Securities trading mechanics
+- Brokerage operations
+- Clearing and settlement
+- Financial market utilities
+- Price and quote systems
+- Securities trading mechanics
+- Equity valuation and analysis
+- Dividend discount models
+- Credit risk modeling
+- Default probability estimation
+- Fixed income securities
+- Interest rate derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Credit default swaps and credit risk
+tags:
+- equity
+- financial_market_utilities
+- brokerage_operations
+- credit
+- trading_infrastructure
+- cds
+- regulation
+- price_quotation_systems
+- stochastic_calculus
+- fixed_income
+- trading
+- bonds
+- securities_trading
+- swaps
+- futures
 ---
 
 # Financial Market Utilities and Securities Trading Support  

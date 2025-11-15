@@ -1,36 +1,48 @@
 ---
-cssclasses:
-  - academia
-linter-yaml-title-alias: The Balance of Payments
-title: The Balance of Payments
-tags:
-  - balance_of_payments
-  - capital_financial_account
-  - current_account
-  - economic_transactions
-  - residents_non_residents
-  - trade_balance
-  - international_finance
-  - bop_accounting
-  - foreign_exchange_reserves
-  - macroeconomics
-  - open_economy
 aliases:
-  - Balance of Payments
-  - Balance of Payments Accounting
+- Balance of Payments
+- Balance of Payments Accounting
+cssclasses:
+- academia
 key_concepts:
-  - Balance of payments accounting system
-  - Current account structure and components
-  - Capital and financial account transactions
-  - Official settlements balance measurement
-  - Trade balance calculation methods
-  - Visible vs invisible balance distinction
-  - Net international investment position (NIIP)
-  - Foreign exchange reserves management
-  - IMF quota and credit facilities
-  - Open economy multipliers and identities
-  - Current account financing mechanisms
-  - International transactions recording principles
+- Balance of payments accounting system
+- Current account structure and components
+- Capital and financial account transactions
+- Official settlements balance measurement
+- Trade balance calculation methods
+- Visible vs invisible balance distinction
+- Net international investment position (NIIP)
+- Foreign exchange reserves management
+- IMF quota and credit facilities
+- Open economy multipliers and identities
+- Current account financing mechanisms
+- International transactions recording principles
+- Equity valuation and analysis
+- Dividend discount models
+- Credit risk modeling
+- Default probability estimation
+- Foreign exchange markets
+- Currency derivatives
+- Bond pricing and yield analysis
+- Duration and convexity
+linter-yaml-title-alias: The Balance of Payments
+tags:
+- equity
+- regulatory-framework
+- credit
+- residents_non_residents
+- bop_accounting
+- capital_financial_account
+- balance_of_payments
+- structured_finance
+- current_account
+- open_economy
+- trade_balance
+- economic_transactions
+- stochastic_calculus
+- valuation
+- foreign_exchange_reserves
+title: The Balance of Payments
 ---
 
 # The Balance of Payments

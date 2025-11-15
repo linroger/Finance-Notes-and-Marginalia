@@ -1,24 +1,107 @@
 ---
-cssclasses:
-  - academia
 Owner: RRoger Lin
-linter-yaml-title-alias: A Strategic Perspective on Bankruptcy
-title: A Strategic Perspective on Bankruptcy
-tags:
-  - bankruptcy
-  - chapter_11
-  - liquidation
-  - reorganization
-  - secured_debt
 aliases:
-  - Bankruptcy Overview
-  - Strategic Bankruptcy
+- Bankruptcy Overview
+- Strategic Bankruptcy
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-bf7f78
 key_concepts:
-  - Chapter 11 reorganization
-  - Liquidation process
-  - Plan of reorganization
-  - Prepackaged bankruptcy
-  - Secured vs. unsecured debt
+- Apt
+- Plan of reorganization
+- Sovereign risk assessment and country analysis
+- Mean-variance optimization and the efficient frontier
+- Extreme value theory and tail risk modeling
+- Credit risk modeling and default probability estimation
+- Option Greeks and portfolio risk management
+- Commodity markets and pricing dynamics
+- Risk budgeting and portfolio construction techniques
+- Chapter 11 reorganization
+- Historical simulation vs. parametric VaR models
+- Credit portfolio diversification and concentration
+- future value and compounding
+- Vega and volatility risk management
+- DV01 calculation and interest rate risk hedging
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- 2008 financial crisis and systemic risk analysis
+- Monte Carlo integration and variance reduction
+- GARCH models and volatility forecasting
+- Deposit insurance and systemic risk prevention
+- Prepackaged bankruptcy
+- Monte Carlo VaR for complex portfolios
+- Stress testing and scenario analysis
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Secured vs. unsecured debt
+- Control variates and importance sampling techniques
+- Risk-neutral pricing methodology for derivative securities
+- trustee duties and trust administration
+- Case Study
+- Operational risk quantification and modeling
+- Theta and time decay modeling
+- Value at Risk (VaR) methodologies and backtesting
+- Arbitrage opportunities and risk-free profit extraction
+- Expected Shortfall and coherent risk measures
+- Interest rate swap pricing and valuation
+- Bank liquidity ratios and funding risk management
+- Variance swaps and volatility trading strategies
+- Credit exposure measurement and EAD
+- Wrong-way risk in derivative transactions
+- Value-at-Risk calculation using historical simulation
+- Quantitative Implementation
+- Gamma and convexity adjustments
+- Credit risk migration matrices and rating transition
+- Credit risk modeling and portfolio correlation analysis
+- Liquidation process
+- Backtesting procedures for risk models
+- Credit risk assessment and loan portfolio management
+- Delta hedging and the replication argument
+- Liquidity risk measurement and management
+- Cross-currency basis swaps and funding
+- Duration and convexity measures for bond portfolios
+- Systemic risk indicators and early warning systems
+- Global financial stability and systemic risk monitoring
+- Price sensitivity to interest rate changes
+- Loss given default and recovery rates
+linter-yaml-title-alias: A Strategic Perspective on Bankruptcy
+tags:
+- ifrs
+- commodities
+- chapter_11
+- goodwill
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- balance-sheet
+- course-material
+- 2008-financial-crisis
+- reorganization
+- financial-modeling
+- lehman-brothers
+- case-study
+- apt
+- greeks
+- value-at-risk
+- credit-risk
+- bankruptcy
+- quantitative-implementation
+- duration-convexity
+- solution
+- stress-testing
+- liquidity-risk
+- systemic-risk
+- exotic-options
+- distressed-debt
+- secured_debt
+- liquidation
+- deposit-insurance
+- expected-shortfall
+- operational-risk
+- monte-carlo
+title: A Strategic Perspective on Bankruptcy
 ---
 
 # A Strategic Perspective on Bankruptcy

@@ -1,3 +1,43 @@
+---
+key_concepts:
+- interest rate and currency derivatives
+- day count convention in CDS
+- Risk-neutral pricing methodology for derivative securities
+- DV01 calculation and interest rate risk hedging
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk migration matrices and rating transition
+- Value-at-Risk calculation using historical simulation
+- Expected Shortfall and coherent risk measures
+- Backtesting procedures for risk models
+- Extreme value theory and tail risk modeling
+- Liquidity risk measurement and management
+- Operational risk quantification and modeling
+- Systemic risk indicators and early warning systems
+- Mean-variance optimization and the efficient frontier
+- Risk budgeting and portfolio construction techniques
+- Credit risk assessment and loan portfolio management
+- Bank liquidity ratios and funding risk management
+- Deposit insurance and systemic risk prevention
+- Arbitrage opportunities and risk-free profit extraction
+- Monte Carlo integration and variance reduction
+- Control variates and importance sampling techniques
+- Sovereign risk assessment and country analysis
+- Global financial stability and systemic risk monitoring
+- interest rate and currency derivatives
+- day count convention in CDS
+- Risk-neutral pricing methodology for derivative securities
+- DV01 calculation and interest rate risk hedging
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk migration matrices and rating transition
+- Value-at-Risk calculation using historical simulation
+tags:
+- commodities
+- currency-swaps
+- financial-analysis
+- financial-modeling
+- quantitative-finance
+---
+
  
 source: https://www.investopedia.com/terms/p/plain-vanilla-swap.asp
 description: A plain vanilla swap is the most basic type of forward claim that is

@@ -2,20 +2,17 @@
 linter-yaml-title-alias: Sizing Up the Fed’s Historic Coronavirus Crisis Intervention
 title: Sizing Up the Fed’s Historic Coronavirus Crisis Intervention
 tags:
-  - bond_market
-  - coronavirus_crisis
-  - federal_reserve
-  - market_intervention
-  - treasurys
+- arch
+- bonds
+- fixed-income
+- fixed_income
+- futures
+- swaps
 aliases:
-  - Coronavirus market intervention
-  - Fed's intervention
+- Coronavirus market intervention
+- Fed's intervention
 key_concepts:
-  - Agency mortgage-backed securities
-  - Federal Reserve actions
-  - Market stresses remain
-  - Repo market rates
-  - Treasury yield
+- Currency swaps and FX risk management
 ---
 
 # WSJ-Sizing Up the Fed’s Historic Coronavirus Crisis Intervention

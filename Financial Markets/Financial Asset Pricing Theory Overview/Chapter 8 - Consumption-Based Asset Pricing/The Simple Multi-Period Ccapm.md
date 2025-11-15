@@ -1,19 +1,21 @@
 ---
 tags:
-  - ccapm
-  - consumption_based_model
-  - crra_utility
-  - risk_free_rate
-  - sharpe_ratio
+- capm
+- correlation
+- credit-risk
+- delta
+- derivatives-pricing
+- gamma
+- rho
+- risk-management
+- var
 aliases:
-  - Multi-Period CCAPM
-  - Simple CCAPM
+- Multi-Period CCAPM
+- Simple CCAPM
 key_concepts:
-  - CRRA utility
-  - Constant Sharpe ratio
-  - Lognormal consumption
-  - Representative individual
-  - Risk-free return
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Options Greeks and sensitivity analysis
 ---
 
 # 8.4 The simple multi-period CCAPM  

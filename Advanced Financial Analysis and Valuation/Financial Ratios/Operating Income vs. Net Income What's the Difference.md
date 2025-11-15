@@ -1,24 +1,93 @@
 ---
-title: Operating Income vs. Net Income What's the Difference
-cssclasses:
-  - academia
-tags:
-  - financial_metrics
-  - income_statement
-  - net_income
-  - operating_income
-  - profitability
 aliases:
-  - Bottom Line
-  - J.C. Penney Example
-  - Operating Profit
+- Bottom Line
+- J.C. Penney Example
+- Operating Profit
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch04-FE-tags-v2
 key_concepts:
-  - Operating income vs net income differences
-  - Operating expenses components
-  - Net income calculation methodology
-  - Gross profit relationship to operating income
-  - J.C. Penney financial analysis example
-  - Impact of interest expenses on profitability
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Credit risk modeling and default probability estimation
+- Net income calculation methodology
+- Probability of default estimation from credit spreads
+- Credit spread analysis and OAS methodology
+- Solution
+- Impact of interest expenses on profitability
+- Operating income vs net income differences
+- Credit spread decomposition and hazard rates
+- Gross profit relationship to operating income
+- Operating expenses components
+- Credit portfolio diversification and concentration
+- Structural models of default and Merton formulation
+- CDS clearing and central counterparties
+- CDS-Bond basis and arbitrrage opportunities
+- Mathematical Finance
+- Infrastructure investment and project finance
+- Credit default swap pricing and recovery assumptions
+- 'Structured products: CDOs, CLOs, and credit derivatives'
+- Course Material
+- Synthetic credit derivatives and index trades
+- Case Study
+- Credit default swap pricing and risk-neutral probabilities
+- Credit exposure measurement and EAD
+- Wrong-way risk in derivative transactions
+- Credit intermediation and information asymmetry
+- Quantitative Implementation
+- Credit risk migration matrices and rating transition
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Counterparty credit exposure measurement
+- J.C. Penney financial analysis example
+- Loss given default and recovery rates
+- Corporate Bonds
+tags:
+- income-statement
+- operating_income
+- credit-default-swaps
+- collateralized-debt-obligations
+- profitability
+- mathematical-finance
+- course-material
+- financial-modeling
+- case-study
+- amortization
+- net_income
+- net-income
+- credit-risk
+- quantitative-implementation
+- solution
+- financial_metrics
+- depreciation
+- infrastructure
+- corporate-bonds
+- income_statement
+- income-comparison
+- operating-vs-net
+- profit-measurement
+- financial-analysis
+- profitability-metrics
+- business-performance
+- earnings-analysis
+- operating-performance
+- financial-health
+- bottom-line
+- profit-calculations
+- revenue-analysis
+- expense-analysis
+- financial-statement
+- performance-metrics
+- business-analysis
+- corporate-finance
+- financial-performance
+- financial-reporting
+- earnings-statement
+- business-metrics
+- operating-metrics
+title: Operating Income vs. Net Income What's the Difference
 ---
 
 # Operating Income vs. Net Income What's the Difference

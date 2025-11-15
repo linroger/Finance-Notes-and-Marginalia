@@ -1,20 +1,45 @@
 ---
-tags:
-  - bilateral_swaps
-  - ccp_risk
-  - central_counterparties
-  - cleared_swaps
-  - clearinghouse
 aliases:
-  - Bilateral Swap
-  - CCP
-  - Cleared Swap
+- Bilateral Swap
+- CCP
+- Cleared Swap
 key_concepts:
-  - Bilateral vs. Cleared Swaps
-  - Cash flow risk
-  - Central Counterparty (CCP)
-  - Clearinghouse Members
-  - Default Backstopping
+- Bilateral vs. Cleared Swaps
+- Cash flow risk
+- Central Counterparty (CCP)
+- Clearinghouse Members
+- Default Backstopping
+- Equity valuation and analysis
+- Dividend discount models
+- Credit risk modeling
+- Default probability estimation
+- Market microstructure and trading
+- Liquidity and price discovery
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Derivatives pricing theory
+tags:
+- cleared_swaps
+- equity
+- regulatory-framework
+- credit
+- clearinghouse
+- cds
+- ccp_risk
+- trading
+- volatility
+- swaps
+- futures
+- derivatives
+- bilateral_swaps
+- options
+- risk_management
 ---
 
 # 13.5 CLEARING AND CENTRAL COUNTERPARTIES  

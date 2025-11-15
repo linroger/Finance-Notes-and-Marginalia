@@ -1,38 +1,28 @@
 ---
-cssclasses: academia
-linter-yaml-title-alias: Lecture Note 1 - Debt Pricing
-title: Lecture Note 1 - Debt Pricing
-tags:
-  - bankruptcy
-  - capital_structure
-  - debt_contracts
-  - financial_crisis
-  - securitization
-  - debt_pricing
-  - leverage_effects
-  - liquidity_provision
-  - asset_substitution
-  - agency_costs
 aliases:
-  - Bankruptcy & Reorganization
-  - Debt Contracts
-  - Debt Pricing
-  - Lecture 1
-  - Strategic Effects of Debt
+- Bankruptcy & Reorganization
+- Debt Contracts
+- Debt Pricing
+- Lecture 1
+- Strategic Effects of Debt
+cssclasses: academia
 key_concepts:
-  - Banks and financial engineering
-  - Debt contracts and bankruptcy
-  - Liquidity in markets
-  - Securitization structures
-  - Strategic effects of debt
-  - Capital structure choice
-  - Source of funds selection
-  - Debt capacity calculation
-  - Agency costs of debt
-  - Asset substitution problem
-  - Public vs private debt
-  - Financial crisis mechanisms
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
+linter-yaml-title-alias: Lecture Note 1 - Debt Pricing
+tags:
+- arbitrage
+- bonds
+- correlation
+- credit-risk
+- fixed_income
+- risk-management
+title: Lecture Note 1 - Debt Pricing
 ---
+
 
 # Lecture Note 1 - Debt Pricing
 

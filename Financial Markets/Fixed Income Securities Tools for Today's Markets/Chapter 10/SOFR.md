@@ -1,18 +1,30 @@
 ---
-tags:
-  - federal_reserve
-  - libor_transition
-  - overnight_borrowing
-  - repo_transactions
-  - sofr
 aliases:
-  - Secured Overnight Financing Rate
+- Secured Overnight Financing Rate
 key_concepts:
-  - DVP market
-  - Daily repo transactions
-  - Exclude lower-rate trades
-  - 'SOFR: overnight borrowing rate'
-  - Transition from LIBOR
+- DVP market
+- Daily repo transactions
+- Exclude lower-rate trades
+- 'SOFR: overnight borrowing rate'
+- Transition from LIBOR
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Bond pricing and yield analysis
+- Duration and convexity
+- Foreign exchange markets
+- Currency derivatives
+- Fixed income securities
+- Interest rate derivatives
+tags:
+- libor_transition
+- sofr
+- fixed_income
+- fx
+- repo_transactions
+- bonds
+- federal_reserve
+- swaps
+- overnight_borrowing
 ---
 
 # 10.4 SOFR  

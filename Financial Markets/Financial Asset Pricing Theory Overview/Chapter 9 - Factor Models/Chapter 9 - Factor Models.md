@@ -1,8 +1,24 @@
 ---
 tags:
-  - '#chapter_9'
-  - '#factor_models'
+- apt
+- arbitrage
+- arch
+- bonds
+- capm
+- factor-models
+- fixed_income
+- gmm
+- risk-management
+- var
+key_concepts:
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
 ---
+
 # Chapter 9 - Factor Models
 %% Begin Waypoint %%
 - **Chapter 9 - Factor Models**

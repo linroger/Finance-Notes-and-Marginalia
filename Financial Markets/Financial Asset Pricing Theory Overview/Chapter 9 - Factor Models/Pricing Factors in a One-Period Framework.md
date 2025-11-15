@@ -1,19 +1,14 @@
 ---
 tags:
-  - factor_beta
-  - one_period_framework
-  - pricing_factors
-  - risk_premium
-  - zero_beta_return
+- capm
+- risk-management
+- var
 aliases:
-  - Factor Model
-  - Pricing Factor
+- Factor Model
+- Pricing Factor
 key_concepts:
-  - Factor beta calculation
-  - Gross return equation
-  - Pricing factor definition
-  - Pricing factor theorem
-  - Zero-beta return
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
 ---
 
 # 9.3 Pricing factors in a one-period framework  

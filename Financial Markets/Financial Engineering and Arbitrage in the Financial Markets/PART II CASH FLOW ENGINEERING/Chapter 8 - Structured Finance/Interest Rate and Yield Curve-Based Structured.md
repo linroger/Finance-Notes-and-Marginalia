@@ -1,21 +1,46 @@
 ---
-tags:
-  - bond_valuation
-  - interest_rate_risk
-  - inverse_floater
-  - structured_products
-  - yield_curve
 aliases:
-  - floating rate bond
-  - inverse floater
-  - structured notes
-  - yield curve structures
+- floating rate bond
+- inverse floater
+- structured notes
+- yield curve structures
 key_concepts:
-  - cash flow engineering
-  - floating rate bond pricing
-  - inverse floater coupon payout
-  - investor interest rate exposure
-  - structured bond building blocks
+- cash flow engineering
+- floating rate bond pricing
+- inverse floater coupon payout
+- investor interest rate exposure
+- structured bond building blocks
+- Equity valuation and analysis
+- Dividend discount models
+- Credit risk modeling
+- Default probability estimation
+- Fixed income securities
+- Interest rate derivatives
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Futures contracts and forward pricing
+tags:
+- equity
+- credit
+- yield_curve
+- inverse_floater
+- cds
+- structured_finance
+- interest_rates
+- structured_products
+- fixed_income
+- fx
+- trading
+- bonds
+- swaps
+- bond_valuation
+- futures
 ---
 
 # 8.2 INTEREST RATE AND YIELD CURVE-BASED STRUCTURED PRODUCTS  

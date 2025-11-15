@@ -1,22 +1,91 @@
 ---
-tags:
-  - american_options
-  - futures_contract
-  - futures_options
-  - market_conventions
-  - option_pricing
 aliases:
-  - Eurodollar futures
-  - Futures Option
-  - Options on Futures
-  - T-bond futures
+- Eurodollar futures
+- Futures Option
+- Options on Futures
+- T-bond futures
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-3f2db6
 key_concepts:
-  - European call/put bounds
-  - Futures option underlying futures
-  - Options on spot assets
-  - Payoffs and trading strategies
-  - Price quotes and delivery
+- Apt
+- Treasury Futures
+- Futures option underlying futures
+- Monte Carlo simulation techniques for path-dependent options
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Option Greeks and portfolio risk management
+- maturity date in CDS
+- Commodity markets and pricing dynamics
+- Mathematical derivation of the Black-Scholes partial differential equation
+- Historical simulation vs. parametric VaR models
+- Credit spread decomposition and hazard rates
+- Vega and volatility risk management
+- CDS clearing and central counterparties
+- forward commitments and hedging
+- CDS-Bond basis and arbitrrage opportunities
+- Payoffs and trading strategies
+- Mathematical Finance
+- Monte Carlo integration and variance reduction
+- Monte Carlo VaR for complex portfolios
+- Shadow Banking
+- Stress testing and scenario analysis
+- Arbitrage Pricing Theory and multifactor models
+- Value at Risk (VaR) methodologies and backtesting
+- Theta and time decay modeling
+- International arbitrage and covered interest rate parity
+- Case Study
+- Exchange rate determination and PPP theory
+- Arbitrage opportunities and risk-free profit extraction
+- Expected Shortfall and coherent risk measures
+- Risk-neutral valuation in continuous time models
+- Credit default swap pricing and risk-neutral probabilities
+- Factor Models
+- Boundary conditions and parameter interpretation in Black-Scholes model
+- Limitations and extensions of the Black-Scholes framework
+- simulation methods in financial engineering
+- Value-at-Risk calculation using historical simulation
+- Shadow banking system and regulatory arbitrage
+- Gamma and convexity adjustments
+- European call/put bounds
+- Delta hedging and the replication argument
+- Price quotes and delivery
+- Options on spot assets
+- Black-Scholes-Merton option pricing model and its applications
+- cash settlement in CDS
+- Currency markets and foreign exchange trading
+tags:
+- treasury-futures
+- commodities
+- credit-default-swaps
+- collateralized-debt-obligations
+- mathematical-finance
+- monte-carlo-simulation
+- futures_contract
+- shadow-banking
+- case-study
+- apt
+- greeks
+- black-scholes-model
+- option_pricing
+- value-at-risk
+- factor-models
+- exchange-rates
+- bond-futures
+- european-options
+- quantitative-implementation
+- solution
+- treasury-bonds
+- american-options
+- futures_options
+- arbitrage
+- option-pricing
+- options-strategies
+- market_conventions
+- american_options
+- monte-carlo
 ---
+
 # Options on Futures  
 
 # Aims  

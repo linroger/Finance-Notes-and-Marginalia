@@ -1,35 +1,113 @@
 ---
-title: Credit Markets Homework 3
-cssclasses: 
-  - academia
-tags:
-  - bond_pricing
-  - bootstrapping
-  - credit_market_homework
-  - duration_convexity
-  - fixed_rate_bond
-  - perpetual_bond
-  - scenario_analysis
-  - sofr_swap
-  - yield_curve
-  - cds_calibration
-  - hazard_rates
-  - risk_metrics
 aliases:
-  - Credit Markets
-  - Homework 3
-  - Perpetual Bond
-  - SOFR Curve
+- Credit Markets
+- Homework 3
+- Perpetual Bond
+- SOFR Curve
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-b2c66c
 key_concepts:
-  - Bond price and risk analysis
-  - DV01 and duration calculations
-  - Fixed rate corporate bond pricing
-  - Perpetual bond valuation
-  - SOFR yield curve calibration
-  - Scenario analysis for bonds
-  - US SOFR swap curve bootstrapping
-  - CDS spread calibration
-  - Hazard rate curves
+- hazard rate modeling and estimation
+- Bond convexity adjustment for large interest rate changes
+- coupon-bearing bond analysis
+- CDS spread calibration
+- Term structure of interest rates and yield curve shapes
+- Duration and convexity analysis for bond portfolio management
+- Scenario analysis for bonds
+- Treasury Bonds
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Probability of default estimation from credit spreads
+- termination date in CDS
+- Option Greeks and portfolio risk management
+- Credit spread analysis and OAS methodology
+- Expectations hypothesis and liquidity preference theory
+- Solution
+- Yield curve fitting and interpolation methods
+- SOFR yield curve calibration
+- Credit spread decomposition and hazard rates
+- Vega and volatility risk management
+- Structural models of default and Merton formulation
+- CDS clearing and central counterparties
+- fixed income risk measurement
+- DV01 calculation and interest rate risk hedging
+- Portfolio immunization strategies
+- Fixed rate corporate bond pricing
+- CDS-Bond basis and arbitrrage opportunities
+- Spot rates vs. forward rates modeling
+- DV01 and duration calculations
+- Swap spread and credit risk considerations
+- Credit default swap pricing and recovery assumptions
+- Key rate duration and curve risk
+- Fixed-for-floating swap cash flows and valuation
+- Theta and time decay modeling
+- Synthetic credit derivatives and index trades
+- Interest rate swap pricing and valuation
+- US SOFR swap curve bootstrapping
+- interest rate and currency derivatives
+- Credit default swap pricing and risk-neutral probabilities
+- present value and discounting methods
+- Hazard rate curves
+- Variance swaps and volatility trading strategies
+- survival probability estimation
+- clean price in CDS settlement
+- Quantitative Implementation
+- Credit risk migration matrices and rating transition
+- Gamma and convexity adjustments
+- effective date in CDS
+- Credit risk modeling and portfolio correlation analysis
+- Delta hedging and the replication argument
+- Parallel and non-parallel shifts in the yield curve
+- Bond price and risk analysis
+- Perpetual bond valuation
+- Gamma trading and convexity adjustment techniques
+- Exotic Options
+- Duration and convexity measures for bond portfolios
+- Cross-currency basis swaps and funding
+- Price sensitivity to interest rate changes
+- Modified duration vs. Macaulay duration
+- credit risk transfer mechanisms
+tags:
+- yield-curve
+- duration-convexity
+- convexity
+- quantitative-implementation
+- solution
+- credit-default-swaps
+- treasury-bonds
+- cds_calibration
+- collateralized-debt-obligations
+- sofr
+- bond_pricing
+- fixed_rate_bond
+- duration_convexity
+- interest-rate-swaps
+- mathematical-finance
+- stress-testing
+- course-material
+- infrastructure
+- hazard_rates
+- corporate-bonds
+- scenario_analysis
+- bond-pricing
+- exotic-options
+- bootstrapping
+- greeks
+- scenario-analysis
+- dcf-valuation
+- dv01
+- recovery-rate
+- term-structure
+- sofr_swap
+- exchange-rates
+- duration
+- cds
+- credit-risk
+- credit_market_homework
+title: Credit Markets Homework 3
 ---
 
 # Credit Markets Homework 3

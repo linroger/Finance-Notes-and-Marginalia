@@ -1,11 +1,117 @@
 ---
-title: "Week 8 - Bringing International Risks into the Valuation Process"
-linter-yaml-title-alias: "Week 8 - Bringing International Risks into the Valuation Process"
-aliases: [International Valuation Methods, Country Risk Analysis, Global Financial Valuation]
-date created: Tuesday, November 26th 2024, 8:45:23 pm
+aliases:
+- International Valuation Methods
+- Country Risk Analysis
+- Global Financial Valuation
 cssclasses: academia
-tags: [corporate_governance, cost_of_capital, emerging_markets, international_risks, investor_protection, ownership_structure, political_risk, transparency, valuation, currency_risk, sovereign_risk, institutional_risks, wacc, capm, global_valuation]
-key_concepts: [international dcf valuation, emerging market opportunities, global valuation process, international risk measurement, ownership structure impacts, political risk assessment, transparency and information risk, cost of capital pitfalls, country risk premium approach, sovereign spread, institutional risk factors, correlation of risks, scenario analysis method, implied cost of capital]
+date created: Tuesday, November 26th 2024, 8:45:23 pm
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-875e93
+key_concepts:
+- Apt
+- international dcf valuation
+- Carry trades and momentum in FX markets
+- Extensions to multi-factor CAPM models
+- cost of capital pitfalls
+- Term structure of interest rates and yield curve shapes
+- country risk premium approach
+- Duration and convexity analysis for bond portfolio management
+- Active portfolio management and performance attribution
+- correlation of risks
+- Credit risk modeling and default probability estimation
+- Collateralized Debt Obligations
+- Option Greeks and portfolio risk management
+- Commodity markets and pricing dynamics
+- Capital Asset Pricing Model and beta estimation
+- Risk budgeting and portfolio construction techniques
+- Expectations hypothesis and liquidity preference theory
+- Capital Asset Pricing Model and expected returns
+- portfolio theory and asset pricing
+- Yield curve fitting and interpolation methods
+- Covenant Lite
+- Vega and volatility risk management
+- fixed income risk measurement
+- Mathematical Finance
+- global valuation process
+- Spot rates vs. forward rates modeling
+- GARCH models and volatility forecasting
+- cost of capital estimation
+- transparency and information risk
+- implied cost of capital
+- international risk measurement
+- Course Material
+- Security Market Line and beta measurement
+- Currency risk management and hedging
+- Forward rates and interest rate parity
+- Theta and time decay modeling
+- institutional risk factors
+- Case Study
+- emerging market opportunities
+- Exchange rate determination and PPP theory
+- fundamental valuation methods
+- sovereign spread
+- excess returns and manager skill
+- ESG integration in portfolio management
+- ownership structure impacts
+- Delta hedging strategies in options portfolio management
+- systematic risk and market exposure
+- scenario analysis method
+- Gamma and convexity adjustments
+- Capital Structure
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Delta hedging and the replication argument
+- Parallel and non-parallel shifts in the yield curve
+- political risk assessment
+- Currency hedging strategies for global portfolios
+- Market portfolio and risk-free rate assumptions
+- Currency markets and foreign exchange trading
+- Empirical tests and anomalies in CAPM
+linter-yaml-title-alias: Week 8 - Bringing International Risks into the Valuation
+  Process
+tags:
+- yield-curve
+- commodities
+- corporate-governance
+- sovereign-risk
+- capm
+- case-study
+- apt
+- covenant-lite
+- ownership_structure
+- credit-ratings
+- credit-risk
+- duration-convexity
+- solution
+- wacc
+- exchange-rate
+- cost-of-capital
+- capital-budgeting
+- country-risk
+- municipal-bonds
+- credit-analysis
+- collateralized-debt-obligations
+- garch-models
+- mathematical-finance
+- course-material
+- capital-structure
+- greeks
+- scenario-analysis
+- cost_of_capital
+- exchange-rates
+- quantitative-implementation
+- treasury-bonds
+- currency_risk
+- political-risk
+- stress-testing
+- liquidity-risk
+- emerging-markets
+- exotic-options
+- currency-risk
+- dcf-valuation
+- duration
+title: Week 8 - Bringing International Risks into the Valuation Process
 ---
 
 # Week 8 - Bringing International Risks into the Valuation Process

@@ -1,3 +1,26 @@
+---
+key_concepts:
+- Equity valuation and analysis
+- Dividend discount models
+- Bond pricing and yield analysis
+- Duration and convexity
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Structured products and CDOs
+- Credit derivatives
+- Interest rate modeling
+- Term structure of interest rates
+tags:
+- swaps
+- equity
+- options
+- structured_finance
+- commodities
+- interest_rates
+- bonds
+---
 %% Begin Waypoint %%
 - **Chapter 8 - Structured Finance**
 	- A Simple Classification of Structured Notes

@@ -1,21 +1,38 @@
 ---
 tags:
-  - brokerage_houses
-  - buying_on_margin
-  - fair_price_discovery
-  - margin_accounts
-  - short_selling
+  - arbitrage-principle
+  - bond-shorting
+  - brokerage-houses
+  - buying-on-margin
+  - cost-of-carry
+  - daily-mark-to-market
+  - fair-price-discovery
+  - margin-accounts
+  - margin-calls
+  - naked-short-selling
+  - price-discovery-mechanism
+  - repurchase-agreements
+  - reverse-repo
+  - securities-lending
+  - short-selling
+  - spot-markets
 aliases:
   - Going Short
   - Short Sale
   - Shorting
 key_concepts:
-  - borrowing securities
-  - broker's pool
-  - buying on margin
-  - margin accounts
-  - repurchasing securities
-  - selling securities
+  - Arbitrage and Price Discovery in Financial Markets
+  - Bond Short Selling and Repo Mechanics
+  - Brokerage House Operations and Securities Lending
+  - Buying on Margin and Leverage Amplification
+  - Daily Mark-to-Market and Margin Call Procedures
+  - Financial Market Structure and Trading Mechanisms
+  - Margin Account Requirements and Maintenance
+  - Naked Short Selling and Regulatory Concerns
+  - Securities Borrowing and Lending Process
+  - Short Selling Strategies and Risk Management
+  - Spot Markets and Futures Price Relationships
+  - Stock and Bond Short Sale Mechanics
 ---
 
 # 2.6 SHORT SELLING  

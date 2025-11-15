@@ -1,20 +1,43 @@
 ---
-linter-yaml-title-alias: OPTIONS STRATEGIES CONSTRUCTION
-title: OPTIONS STRATEGIES CONSTRUCTION
-tags:
-  - butterfly_spread
-  - option_expiration
-  - options_strategies
-  - protective_put
-  - stock_price
 aliases:
-  - Protective Put Strategy
+- Protective Put Strategy
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-33d6c9
 key_concepts:
-  - Limited risk
-  - Minimal stock movement
-  - Protective put portfolio
-  - Stock near expiration
-  - Stock price movement
+- Black-Scholes model and option pricing theory
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+linter-yaml-title-alias: OPTIONS STRATEGIES CONSTRUCTION
+tags:
+- binomial
+- black-scholes
+- calls
+- capm
+- caps
+- convexity
+- correlation
+- credit-risk
+- delta
+- derivatives-markets
+- derivatives-pricing
+- duration
+- fixed_income
+- gamma
+- greeks
+- hedging
+- options
+- puts
+- replication
+- risk-management
+- theta
+- vega
+title: OPTIONS STRATEGIES CONSTRUCTION
 ---
 
 - **Binomial Trees]]**

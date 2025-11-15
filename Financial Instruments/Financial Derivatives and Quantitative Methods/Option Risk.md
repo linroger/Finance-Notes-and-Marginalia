@@ -1,21 +1,47 @@
 ---
-title: Option Risk
-tags:
-  - binomial_model
-  - call_option
-  - elasticity
-  - option_risk
-  - volatility
 aliases:
-  - Option Risk
-  - Option Risk Notes
-  - Risk of an Option
+- Option Risk
+- Option Risk Notes
+- Risk of an Option
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-87af1a
 key_concepts:
-  - Binomial model risk
-  - Call option elasticity
-  - Expected return calculation
-  - Option risk and CAPM
-  - Stock volatility
+- Black-Scholes model and option pricing theory
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Monte Carlo simulation for derivatives valuation
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- binomial
+- black-scholes
+- capm
+- convexity
+- correlation
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- fixed_income
+- gamma
+- greeks
+- hedging
+- interest-rate-swaps
+- options
+- replication
+- risk-management
+- swaps
+- theta
+- var
+- vega
+title: Option Risk
 ---
 
 # Option Risk

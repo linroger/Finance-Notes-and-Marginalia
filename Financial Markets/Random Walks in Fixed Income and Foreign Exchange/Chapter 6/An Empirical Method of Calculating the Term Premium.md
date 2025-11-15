@@ -1,19 +1,44 @@
 ---
-tags:
-  - forward_rates
-  - interest_rates
-  - monetary_policy
-  - term_premium
-  - yield_curve
 aliases:
-  - Calculating Term Premium
-  - Term Premium Calculation
+- Calculating Term Premium
+- Term Premium Calculation
 key_concepts:
-  - Forward rate errors
-  - Interest rate risk
-  - Monetary policy impact
-  - Term premium importance
-  - Yield curve slope
+- Forward rate errors
+- Interest rate risk
+- Monetary policy impact
+- Term premium importance
+- Yield curve slope
+- Fixed income securities
+- Interest rate derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Value at risk and stress testing
+- Portfolio risk metrics
+- Alternative investment strategies
+tags:
+- model-calibration
+- regulatory-framework
+- monetary_policy
+- yield_curve
+- arbitrage
+- cds
+- hedge_funds
+- interest_rates
+- fixed_income
+- trading
+- bonds
+- commodities
+- forward_rates
+- term_premium
+- futures
 ---
 
 # Chapter 6 An Empirical Method of Calculating the Term Premium

@@ -1,23 +1,43 @@
 ---
-tags:
-  - carry_roll_down
-  - oas
-  - profit_loss_attribution
-  - relative_value_trading
-  - term_structure_models
 aliases:
-  - OAS
-  - P&L attribution
-  - Spread change
+- OAS
+- P&L attribution
+- Spread change
 key_concepts:
-  - Carry-roll-down
-  - OAS definition
-  - One-factor model
-  - P&L attribution
-  - Rate changes
-  - Risk-neutral process
-  - Spread change
-  - Taylor approximation
+- Carry-roll-down
+- OAS definition
+- One-factor model
+- P&L attribution
+- Rate changes
+- Risk-neutral process
+- Spread change
+- Taylor approximation
+- Market microstructure and trading
+- Liquidity and price discovery
+- Option sensitivity analysis
+- Delta, gamma, vega, theta, rho
+- Bond pricing and yield analysis
+- Duration and convexity
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Derivatives pricing theory
+- Risk-neutral valuation
+tags:
+- interest_rates
+- oas
+- trading
+- greeks
+- relative_value_trading
+- bonds
+- term_structure_models
+- cds
+- options
+- derivatives
+- carry_roll_down
+- mathematical-finance
+- profit_loss_attribution
 ---
 
 # 7.7 PROFIT AND LOSS ATTRIBUTION WITH AN OAS  

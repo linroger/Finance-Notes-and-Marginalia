@@ -1,52 +1,52 @@
 ---
-cssclasses: ["academia"]
-title: Lecture Notes on International Finance
-tags:
-  - exchange_rates
-  - global_imbalances
-  - government_debt
-  - international_finance
-  - market_segmentation
-  - monetary_policy
-  - portfolio_choice
-  - risk_premia
-  - exchange_rate_puzzles
-  - currency_markets
-  - international_monetary_system
-  - fiscal_policy
-  - incomplete_markets
-  - convenience_yields
-  - financial_intermediation
-  - capital_flows
 aliases:
-  - International Financial
-  - Intl Finance
-  - Intl. Finance
-  - International Finance Lecture Notes
-  - Exchange Rate Theory
-  - Global Financial Markets
+- International Financial
+- Intl Finance
+- Intl. Finance
+- International Finance Lecture Notes
+- Exchange Rate Theory
+- Global Financial Markets
+cssclasses:
+- academia
 key_concepts:
-  - Convenience yields
-  - Currency risk premia
-  - Exchange rate accounting
-  - Global imbalances
-  - Government debt valuation
-  - Incomplete markets
-  - Monetary fiscal policies
-  - Portfolio choice approach
-  - No-arbitrage approach
-  - Complete market solution
-  - Asset demand systems
-  - Market segmentation
-  - Financial intermediation
-  - Net foreign assets
-  - Exorbitant privilege
-  - Reserve currency paradox
-  - Safe asset view
-  - Factor structure models
-  - Multi-currency dynamics
-  - International spillovers
+- Convenience yields
+- Currency risk premia
+- Exchange rate accounting
+- Global imbalances
+- Government debt valuation
+- Incomplete markets
+- Monetary fiscal policies
+- Portfolio choice approach
+- No-arbitrage approach
+- Complete market solution
+- Asset demand systems
+- Market segmentation
+- Financial intermediation
+- Net foreign assets
+- Exorbitant privilege
+- Reserve currency paradox
+- Safe asset view
+- Factor structure models
+- Multi-currency dynamics
+- International spillovers
 linter-yaml-title-alias: Lecture Notes on International Finance
+tags:
+- equity
+- regulatory-framework
+- monetary_policy
+- capital_flows
+- greeks
+- arbitrage
+- hedge_funds
+- exchange_rate_puzzles
+- financial_intermediation
+- government_debt
+- global_imbalances
+- risk_premia
+- valuation
+- portfolio_choice
+- fx
+title: Lecture Notes on International Finance
 ---
 
 # Lecture Notes on International Finance

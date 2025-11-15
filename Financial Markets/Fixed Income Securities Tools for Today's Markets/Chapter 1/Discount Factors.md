@@ -1,20 +1,37 @@
 ---
-tags:
-  - bond_pricing
-  - discount_factors
-  - present_value
-  - term_structure
-  - treasury_bonds
 aliases:
-  - Discount Factor
-  - Present Value
-  - d(t)
+- Discount Factor
+- Present Value
+- d(t)
 key_concepts:
-  - Bonds and discount factors
-  - Discount factor definition
-  - Present value of currency
-  - US Treasury bonds
-  - Value decreases with term
+- Bonds and discount factors
+- Discount factor definition
+- Present value of currency
+- US Treasury bonds
+- Value decreases with term
+- Fixed income securities
+- Interest rate derivatives
+- Foreign exchange markets
+- Currency derivatives
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+tags:
+- discount_factors
+- present_value
+- valuation
+- fixed_income
+- fx
+- bonds
+- term_structure
+- treasury_bonds
+- futures
+- options
+- bond_pricing
+- mathematical-finance
 ---
 
 # 1.2 DISCOUNT FACTORS  

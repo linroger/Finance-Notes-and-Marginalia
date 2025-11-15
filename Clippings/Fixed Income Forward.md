@@ -1,3 +1,43 @@
+---
+key_concepts:
+- fixed income risk measurement
+- forward commitments and hedging
+- present value and discounting methods
+- Risk-neutral pricing methodology for derivative securities
+- Monte Carlo simulation techniques for path-dependent options
+- Binomial option pricing model for American-style options
+- Greeks calculation and their interpretation in options trading
+- Implied volatility extraction from market option prices
+- Volatility smile and skew modeling in options markets
+- Delta hedging strategies in options portfolio management
+- Theta decay modeling for time-sensitive options strategies
+- Duration and convexity analysis for bond portfolio management
+- Interest rate swap valuation and fixed-floating spreads
+- Treasury futures trading and basis point value calculations
+- Credit default swap pricing and recovery assumptions
+- Synthetic credit derivatives and index trades
+- CVA and DVA adjustments in derivative pricing
+- Real options valuation in corporate investment decisions
+- Commodity futures pricing and storage costs
+- 'Structured products: CDOs, CLOs, and credit derivatives'
+- fixed income risk measurement
+- forward commitments and hedging
+- present value and discounting methods
+- Risk-neutral pricing methodology for derivative securities
+- Monte Carlo simulation techniques for path-dependent options
+- Binomial option pricing model for American-style options
+- Greeks calculation and their interpretation in options trading
+- Implied volatility extraction from market option prices
+- Volatility smile and skew modeling in options markets
+- Delta hedging strategies in options portfolio management
+tags:
+- bond-pricing
+- duration
+- financial-analysis
+- financial-modeling
+- quantitative-finance
+---
+
  
 source: https://www.investopedia.com/terms/f/fixed-income-forward.asp
 description: A fixed income forward is a contract between two parties to either buy

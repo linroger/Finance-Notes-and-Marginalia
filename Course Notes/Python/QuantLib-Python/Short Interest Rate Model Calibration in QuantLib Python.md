@@ -1,24 +1,106 @@
 ---
-title: Short Interest Rate Model Calibration in QuantLib Python
-source: 
-  http://gouthamanbalaraman.com/blog/short-interest-rate-model-calibration-quantlib.html
+aliases:
+- QuantLib Calibration
+- Short Rate Calibration
 description: Provides examples of short interest rate model calibration to swaption
   volatilities in QuantLib Python
-tags:
-  - hull_white_model
-  - interest_rate_models
-  - model_calibration
-  - quantlib_python
-  - swaption_volatilities
-aliases:
-  - QuantLib Calibration
-  - Short Rate Calibration
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-ea35c6
 key_concepts:
-  - Black Karasinski model
-  - Calibrating model parameters
-  - Hull-White model details
-  - QuantLib Python examples
-  - Swaption volatility calibration
+- Apt
+- Cox-Ross-Rubinstein parameter specification
+- Hull-White model details
+- Term structure of interest rates and yield curve shapes
+- Sovereign risk assessment and country analysis
+- Swaption volatility calibration
+- Mean-variance optimization and the efficient frontier
+- Extreme value theory and tail risk modeling
+- Computational implementation of binomial option pricing
+- Option Greeks and portfolio risk management
+- QuantLib Python examples
+- Risk budgeting and portfolio construction techniques
+- Expectations hypothesis and liquidity preference theory
+- Historical simulation vs. parametric VaR models
+- Yield curve fitting and interpolation methods
+- Vega and volatility risk management
+- DV01 calculation and interest rate risk hedging
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- Monte Carlo integration and variance reduction
+- Deposit insurance and systemic risk prevention
+- Monte Carlo VaR for complex portfolios
+- Stress testing and scenario analysis
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Control variates and importance sampling techniques
+- Theta and time decay modeling
+- Risk-neutral pricing methodology for derivative securities
+- Value at Risk (VaR) methodologies and backtesting
+- Case Study
+- Operational risk quantification and modeling
+- Arbitrage opportunities and risk-free profit extraction
+- Expected Shortfall and coherent risk measures
+- Interest rate swap pricing and valuation
+- Calibrating model parameters
+- Bank liquidity ratios and funding risk management
+- Black Karasinski model
+- Variance swaps and volatility trading strategies
+- Convergence of binomial model to Black-Scholes solution
+- Binomial option pricing model with multiple time steps
+- Operational risk management in financial institutions
+- Value-at-Risk calculation using historical simulation
+- American option pricing in binomial trees
+- Gamma and convexity adjustments
+- Credit risk migration matrices and rating transition
+- Credit risk modeling and portfolio correlation analysis
+- Backtesting procedures for risk models
+- Credit risk assessment and loan portfolio management
+- Delta hedging and the replication argument
+- Parallel and non-parallel shifts in the yield curve
+- Liquidity risk measurement and management
+- Cross-currency basis swaps and funding
+- Systemic risk indicators and early warning systems
+- Global financial stability and systemic risk monitoring
+source: http://gouthamanbalaraman.com/blog/short-interest-rate-model-calibration-quantlib.html
+tags:
+- financial-analysis
+- yield-curve
+- binomial-model
+- swaption_volatilities
+- operational-risk
+- interest-rate-swaps
+- mathematical-finance
+- course-material
+- hull_white_model
+- model_calibration
+- financial-modeling
+- case-study
+- apt
+- greeks
+- interest_rate_models
+- value-at-risk
+- factor-models
+- exchange-rates
+- credit-risk
+- hull-white-model
+- quantitative-implementation
+- duration-convexity
+- solution
+- stress-testing
+- liquidity-risk
+- systemic-risk
+- swaptions
+- deposit-insurance
+- vasicek-model
+- quantitative-finance
+- quantlib_python
+- expected-shortfall
+- mean-reversion
+- monte-carlo
+- term-structure
+title: Short Interest Rate Model Calibration in QuantLib Python
 ---
 
 # Short Interest Rate Model Calibration in QuantLib Python

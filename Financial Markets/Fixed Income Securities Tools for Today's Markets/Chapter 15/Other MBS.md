@@ -1,25 +1,46 @@
 ---
-tags:
-  - agency_mbs
-  - cmo
-  - io_po
-  - mbs
-  - pac
-  - prepayment_risk
-  - remic
-  - tac
 aliases:
-  - Collateralized Mortgage Obligations
-  - IO
-  - MBS
-  - PO
-  - Real Estate Mortgage Investment Conduits
+- Collateralized Mortgage Obligations
+- IO
+- MBS
+- PO
+- Real Estate Mortgage Investment Conduits
 key_concepts:
-  - Address prepayment risk
-  - Combine pools into MBS
-  - IO and PO strips
-  - MBS other than pools
-  - PAC classes
+- Address prepayment risk
+- Combine pools into MBS
+- IO and PO strips
+- MBS other than pools
+- PAC classes
+- Fixed income securities
+- Interest rate derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Option sensitivity analysis
+- Delta, gamma, vega, theta, rho
+- Bond pricing and yield analysis
+- Duration and convexity
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Structured products and CDOs
+- Credit derivatives
+- Interest rate modeling
+- Term structure of interest rates
+tags:
+- portfolio-theory
+- pac
+- fixed_income
+- remic
+- trading
+- cmo
+- greeks
+- prepayment_risk
+- mbs
+- bonds
+- tac
+- portfolio
+- io_po
+- options
+- structured_finance
 ---
 
 # 15.11 OTHER MBS  

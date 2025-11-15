@@ -1,31 +1,45 @@
 ---
-title: Inflationary Debt Crisis Lecture Notes
-cssclasses:
-  - academia
-tags:
-  - central_bank_policy
-  - currency_devaluation
-  - economic_growth
-  - inflationary_debt_crisis
-  - inflationary_depressions
-  - investor_behavior
-  - monetary_policy
 aliases:
-  - Currency Dynamics
-  - Debt Crisis
-  - Inflationary Crisis
-  - Weimar Republic
+- Currency Dynamics
+- Debt Crisis
+- Inflationary Crisis
+- Weimar Republic
+cssclasses:
+- academia
 key_concepts:
-  - Capital flight, safer investments
-  - Central banks, money, credit
-  - Currency depreciation, debt holders
-  - Currency devaluation, rising inflation
-  - Debt as asset, liability
-  - Debt holders' expectations
-  - Deflationary vs. inflationary crises
-  - Inflation, economic growth balance
-  - Investor reactions, currency weakness
-  - Policy makers, burden redistribution
+- Inflationary Debt Crisis Fundamentals
+- Currency and Debt as Mediums of Exchange and Stores of Wealth
+- Central Banks' Role in Managing Currency and Debt
+- Investor Behavior During Currency Weakness
+- Capital Flight and Safe Haven Investments
+- Balance of Payments and Currency Defense
+- Vulnerability Factors for Inflationary Depressions
+- Phases of Classic Inflationary Debt Cycles
+- Foreign Currency Denominated Debt Risks
+- Currency Defense Mechanisms and Their Limitations
+- Economic Depression and Currency Devaluation
+- Self-Reinforcing Inflationary Spirals
+- Hyperinflation Dynamics and Economic Breakdown
+- Wage-Price Spirals and Inflation Psychology
+- Policy Responses to Currency Crises
+- Economic Recovery and Normalization
+tags:
+- inflationary_debt_crisis
+- inflationary_depressions
+- currency_crisis
+- capital_flights
+- balance_of_payments
+- currency_defense
+- central_bank_policy
+- monetary_policy
+- currency_devaluation
+- hyperinflation
+- economic_cycles
+- foreign_exchange
+- policy_makers
+- debt_restructuring
+- economic_recovery
+title: Inflationary Debt Crisis Lecture Notes
 ---
 
 # Inflationary Debt Crisis Lecture Notes

@@ -1,37 +1,38 @@
 ---
 tags:
-  - arbitrage
-  - asset_pricing
-  - continuous_time
-  - dividend
-  - expected_return
-  - one_period_economy
-  - portfolio
-  - redundant_assets
-  - risk_free_asset
-  - sharpe_ratio
-  - state_price_deflator
-  - state_price_vector
+- abs
+- apt
+- arbitrage
+- binomial
+- derivatives-pricing
+- fixed_income
+- risk-management
+- var
+- zero-coupon
 aliases:
-  - Exercise 4.1
-  - Exercise 4.2
-  - Exercise 4.3
-  - Exercise 4.4
-  - Exercise 4.5
-  - Exercise 4.6
-  - Exercise 4.7
-  - Exercise 4.8
+- Exercise 4.1
+- Exercise 4.2
+- Exercise 4.3
+- Exercise 4.4
+- Exercise 4.5
+- Exercise 4.6
+- Exercise 4.7
+- Exercise 4.8
 key_concepts:
-  - Absence of arbitrage
-  - Continuous-time framework
-  - Dividend payments
-  - Expected return calculation
-  - Maximal Sharpe ratio
-  - One-period economy
-  - Portfolio construction
-  - Redundant assets
-  - Risk-free asset pricing
-  - State-price deflator
+- State-Price Deflators and Risk-Neutral Pricing Theory
+- Arbitrage-Free Multi-Period Binomial Asset Pricing Models
+- No-Arbitrage Conditions and Complete Market Theory
+- Zero-Coupon Bond Pricing and Yield Curve Construction
+- Risk-Neutral Measures and State-Contingent Pricing
+- Continuous-Time Asset Pricing with Geometric Brownian Motion
+- Risk-Free Rate Determination and Short-Rate Models
+- Portfolio Optimization and Mean-Variance Analysis
+- State Price Vectors and Market Completeness
+- Sharpe Ratio and Risk-Adjusted Return Metrics
+- Covariance and Correlation in Multi-Asset Portfolios
+- Dynamic Asset Pricing in Binomial Tree Structures
+- Valuation of Contingent Claims and Derivatives
+- Risk Management and Value at Risk Calculations
 ---
 
 # 4.8 Exercises  

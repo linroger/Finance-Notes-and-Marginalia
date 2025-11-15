@@ -1,40 +1,17 @@
 ---
-cssclasses:
-  - academia
-title: "Class 5: Private Information, Liquidity, and Securitization"
-linter-yaml-title-alias: "Class 5: Private Information, Liquidity, and Securitization"
-tags:
-  - liquidity
-  - liquidity_management
-  - private_information
-  - securitization
-  - adverse_selection
-  - market_microstructure
-  - bid_ask_spreads
-  - asymmetric_information
-  - specialist_markets
-  - transaction_costs
-  - insider_trading
-  - financial_markets
 aliases:
-  - "Private Information"
-  - "Liquidity"
-  - "Securitization"
-  - "Private Information and Liquidity"
-key_concepts:
-  - Market microstructure and bid-ask spreads
-  - Private information and adverse selection
-  - Asymmetric information effects on market liquidity
-  - Specialist market behavior
-  - Informed vs uninformed traders
-  - Liquidity management
-  - Transaction price dynamics
-  - Securitization and liquidity
-  - High-frequency trading
-  - Market breakdown
-  - Insider trading impact
-  - Price discovery process
+- Private Information
+- Liquidity
+- Securitization
+- Private Information and Liquidity
+cssclasses:
+- academia
+key_concepts: []
+linter-yaml-title-alias: 'Class 5: Private Information, Liquidity, and Securitization'
+tags: []
+title: 'Class 5: Private Information, Liquidity, and Securitization'
 ---
+
 # Class 5: Private Information, Liquidity, and Securitization
 %% Begin Waypoint %%
 - **Class 5- Private Information, Liquidity, and Securitization**

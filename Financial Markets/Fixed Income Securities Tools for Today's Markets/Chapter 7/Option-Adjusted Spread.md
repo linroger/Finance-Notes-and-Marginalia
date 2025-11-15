@@ -1,19 +1,42 @@
 ---
-tags:
-  - cmt_swap
-  - discounting
-  - market_price
-  - option_adjusted_spread
-  - relative_value
 aliases:
-  - OAS
-  - Option Adjusted Spread
+- OAS
+- Option Adjusted Spread
 key_concepts:
-  - CMT swap example
-  - Discount rates in model
-  - Model value of security
-  - OAS market price
-  - Risk-neutral rates
+- CMT swap example
+- Discount rates in model
+- Model value of security
+- OAS market price
+- Risk-neutral rates
+- Equity valuation and analysis
+- Dividend discount models
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+tags:
+- equity
+- valuation
+- market_price
+- fx
+- trading
+- bonds
+- swaps
+- option_adjusted_spread
+- cds
+- options
+- relative_value
+- mathematical-finance
+- discounting
+- cmt_swap
 ---
 
 # 7.6 OPTION-ADJUSTED SPREAD  

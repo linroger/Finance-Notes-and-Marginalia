@@ -1,21 +1,25 @@
 ---
 title: Squam Lake Group Introduction
 tags:
-  - economic_growth
-  - financial_crisis
-  - mortgage_backed_securities
-  - policy_recommendations
-  - world_financial_crisis
+- abs
+- apt
+- arch
+- bonds
+- cir
+- fixed_income
+- options
+- swaps
 aliases:
-  - Chapter 1
-  - Introduction
-  - WFC
+- Chapter 1
+- Introduction
+- WFC
 key_concepts:
-  - economic welfare
-  - financial firms
-  - financial system
-  - policy interventions
-  - sovereign debts
+- 'Short-rate models: Vasicek, CIR, and mean reversion'
+- Ito's lemma and stochastic calculus applications
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Interest rate swaps and term structure modeling
+- Interest rate caps, floors, and swaptions
 ---
 
 # Squam Lake Group Introduction

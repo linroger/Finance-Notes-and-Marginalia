@@ -1,19 +1,38 @@
 ---
 tags:
-  - discount_function
-  - interest_rate
-  - ornstein_uhlenbeck
-  - term_premium
-  - zero_coupon_bond
+- apt
+- arbitrage
+- arch
+- bonds
+- calibration
+- completeness
+- convexity
+- correlation
+- credit-risk
+- derivatives-pricing
+- duration
+- fixed_income
+- gamma
+- hedging
+- martingale
+- no-arbitrage
+- rho
+- risk-management
+- var
+- vasicek
+- zero-coupon
 aliases:
-  - Chapter 10 Exercises
-  - Exercises
+- Chapter 10 Exercises
+- Exercises
 key_concepts:
-  - Arbitrage and short rate
-  - Interest rate uncertainty
-  - Nominal term structure
-  - SAINTS model
-  - Term premium and deflator
+- Term structure of interest rates and yield curve modeling
+- 'Short-rate models: Vasicek, CIR, and mean reversion'
+- Bond pricing and fixed income securities valuation
+- Value at Risk and tail risk measurement
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
 ---
 
 # 10.10 Exercises  

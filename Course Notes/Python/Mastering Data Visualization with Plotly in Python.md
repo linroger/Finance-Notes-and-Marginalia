@@ -1,24 +1,95 @@
 ---
-cssclasses: academia
-title: Mastering Data Visualization with Plotly in Python
-source: 
-  https://blog.enterprisedna.co/mastering-data-visualization-with-plotly-in-python/
-description:
-tags:
-  - data_visualization
-  - line_plot
-  - plotly
-  - python
-  - scatter_plot
 aliases:
-  - Data Viz with Python
-  - Plotly Tutorial
+- Data Viz with Python
+- Plotly Tutorial
+cssclasses: academia
+description: null
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-cfca5f
 key_concepts:
-  - Advanced plot techniques
-  - Create scatter plots
-  - Customize plot appearance
-  - Interactive dashboards
-  - Plotly library
+- Deposit Insurance
+- Create scatter plots
+- Sovereign risk assessment and country analysis
+- Mean-variance optimization and the efficient frontier
+- Extreme value theory and tail risk modeling
+- Credit risk modeling and default probability estimation
+- Funding liquidity vs. market liquidity
+- Risk budgeting and portfolio construction techniques
+- Solution
+- Historical simulation vs. parametric VaR models
+- Credit portfolio diversification and concentration
+- DV01 calculation and interest rate risk hedging
+- Portfolio immunization strategies
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- Monte Carlo integration and variance reduction
+- Deposit insurance and systemic risk prevention
+- Monte Carlo VaR for complex portfolios
+- Customize plot appearance
+- Key rate duration and curve risk
+- Stress testing and scenario analysis
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Control variates and importance sampling techniques
+- Value at Risk (VaR) methodologies and backtesting
+- Risk-neutral pricing methodology for derivative securities
+- Case Study
+- Operational risk quantification and modeling
+- Arbitrage opportunities and risk-free profit extraction
+- Expected Shortfall and coherent risk measures
+- Interest rate swap pricing and valuation
+- Liquidity risk management in financial institutions
+- Bank liquidity ratios and funding risk management
+- Variance swaps and volatility trading strategies
+- Credit exposure measurement and EAD
+- Loss given default and recovery rates
+- Wrong-way risk in derivative transactions
+- Stress Testing
+- Value-at-Risk calculation using historical simulation
+- Plotly library
+- Interactive dashboards
+- Quantitative Implementation
+- Credit risk migration matrices and rating transition
+- Credit risk modeling and portfolio correlation analysis
+- Backtesting procedures for risk models
+- Credit risk assessment and loan portfolio management
+- Liquidity risk measurement and management
+- Cross-currency basis swaps and funding
+- Duration and convexity measures for bond portfolios
+- Systemic risk indicators and early warning systems
+- Global financial stability and systemic risk monitoring
+- Price sensitivity to interest rate changes
+- Modified duration vs. Macaulay duration
+- Advanced plot techniques
+- Liquidity stress testing and contingency funding plans
+source: https://blog.enterprisedna.co/mastering-data-visualization-with-plotly-in-python/
+tags:
+- financial-analysis
+- python
+- scatter_plot
+- interest-rate-swaps
+- mathematical-finance
+- data_visualization
+- line_plot
+- course-material
+- financial-modeling
+- case-study
+- plotly
+- value-at-risk
+- credit-risk
+- quantitative-implementation
+- duration-convexity
+- solution
+- stress-testing
+- liquidity-risk
+- systemic-risk
+- deposit-insurance
+- quantitative-finance
+- expected-shortfall
+- operational-risk
+- monte-carlo
+title: Mastering Data Visualization with Plotly in Python
 ---
 
 # Mastering Data Visualization with Plotly in Python

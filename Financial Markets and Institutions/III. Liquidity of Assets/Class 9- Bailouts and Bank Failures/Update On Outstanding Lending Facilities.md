@@ -1,23 +1,15 @@
 ---
 title: Update On Outstanding Lending Facilities
 tags:
-  - cpff
-  - federal_reserve
-  - financial_markets
-  - lending_facilities
-  - mmlf
-  - pdcf
+- arch
 aliases:
-  - CPFF
-  - MMLF
-  - PDCF
-  - Primary Dealer Credit Facility
+- CPFF
+- MMLF
+- PDCF
+- Primary Dealer Credit Facility
 key_concepts:
-  - Federal Reserve lending facilities
-  - Financial market functioning
-  - Funding Facility
-  - Money Market Liquidity Facility
-  - Primary Dealer Credit Facility
+- Ito's lemma and stochastic calculus applications
+- Credit risk modeling and default probability estimation
 ---
 
 # Update On Outstanding Lending Facilities

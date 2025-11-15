@@ -1,3 +1,24 @@
+---
+key_concepts:
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+tags:
+- trading
+- cds
+- options
+- fx
+- mathematical-finance
+- commodities
+- bonds
+---
 # CHAPTER 19  
 
 # International Monetary Systems: A Historical Overview  

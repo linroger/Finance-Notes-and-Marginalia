@@ -1,33 +1,31 @@
 ---
-title: The Workout Crew
-cssclasses: academia
-tags:
-  - banking_fraternity
-  - business_failures
-  - nonperforming_loans
-  - workout_crew
-  - workout_officer
-  - debt_restructuring
-  - bank_control
-  - troubled_companies
-  - loan_recovery
-  - financial_distress
-  - turnaround_management
-  - special_assets
-  - problem_loans
-  - workout_specialists
-  - institutional_recovery
 aliases:
-  - black hats
-  - morticians
-  - surgeons
+- black hats
+- morticians
+- surgeons
+cssclasses: academia
 key_concepts:
-  - bank control
-  - banking fraternity
-  - business loan
-  - nonperforming loans
-  - workout specialists
+- Risk-neutral measures and martingale pricing
+- Ito's lemma and stochastic calculus applications
+- Monte Carlo simulation for derivatives valuation
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+tags:
+- arbitrage
+- arch
+- calls
+- correlation
+- credit-risk
+- hedging
+- risk-management
+- risk-neutral
+- var
+title: The Workout Crew
 ---
+
 
 # The Workout Crew
 

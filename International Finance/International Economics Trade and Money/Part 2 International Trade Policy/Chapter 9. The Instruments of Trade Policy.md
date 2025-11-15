@@ -1,3 +1,17 @@
+---
+key_concepts:
+- Market microstructure and trading
+- Liquidity and price discovery
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Bond pricing and yield analysis
+- Duration and convexity
+tags:
+- trading
+- commodities
+- options
+- bonds
+---
 # CHAPTER 9  
 
 # The Instruments of Trade Policy  

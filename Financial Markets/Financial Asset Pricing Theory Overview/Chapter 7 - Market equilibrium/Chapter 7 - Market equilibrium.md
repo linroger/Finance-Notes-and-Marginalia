@@ -1,9 +1,18 @@
 ---
 tags:
-  - '#chapter_7'
-  - '#market_equilibrium'
+- apt
+- arbitrage
+- derivatives-pricing
+- risk-management
+- theta
+- var
+key_concepts:
+- Value at Risk and tail risk measurement
+- Arbitrage opportunities and no-arbitrage pricing
+- Options Greeks and sensitivity analysis
 ---
-# Market equilibrium  
+
+# Market equilibrium
 7.1 Introduction 161   
 7.2 Pareto-optimality and representative individuals 162   
 7.3 Pareto-optimality in complete markets. 165   

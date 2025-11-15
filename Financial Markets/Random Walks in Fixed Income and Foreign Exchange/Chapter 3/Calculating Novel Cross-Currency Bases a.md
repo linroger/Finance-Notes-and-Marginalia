@@ -1,21 +1,46 @@
 ---
-tags:
-  - cross_currency_basis
-  - fx_hedged_pickup
-  - government_bonds
-  - interest_rates
-  - xccy_basis
 aliases:
-  - Cross-currency basis
-  - FX Hedged Pickup
-  - Hedged Pickups
-  - XCCY basis
+- Cross-currency basis
+- FX Hedged Pickup
+- Hedged Pickups
+- XCCY basis
 key_concepts:
-  - FX hedged pickup
-  - cross currency basis
-  - currency quote convention
-  - government bond yields
-  - xccy basis calculation
+- FX hedged pickup
+- cross currency basis
+- currency quote convention
+- government bond yields
+- xccy basis calculation
+- Credit risk modeling
+- Default probability estimation
+- Fixed income securities
+- Interest rate derivatives
+- Foreign exchange markets
+- Currency derivatives
+- Option sensitivity analysis
+- Delta, gamma, vega, theta, rho
+- Bond pricing and yield analysis
+- Duration and convexity
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Credit default swaps and credit risk
+tags:
+- fx_hedged_pickup
+- credit
+- greeks
+- cds
+- xccy_basis
+- interest_rates
+- fixed_income
+- fx
+- bonds
+- government_bonds
+- swaps
+- futures
+- derivatives
+- cross_currency_basis
+- options
 ---
 
 # Chapter 3 Calculating Novel Cross-Currency Bases and FX Hedged Pickups

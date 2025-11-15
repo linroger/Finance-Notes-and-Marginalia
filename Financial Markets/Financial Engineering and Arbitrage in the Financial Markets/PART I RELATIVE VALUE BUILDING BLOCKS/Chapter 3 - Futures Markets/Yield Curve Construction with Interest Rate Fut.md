@@ -1,20 +1,45 @@
 ---
-tags:
-  - eurodollar_futures
-  - financing_rate
-  - interest_rate_futures
-  - libor_rate
-  - yield_curve
 aliases:
-  - Eurodollar futures
-  - LIBOR
-  - Yield curve
+- Eurodollar futures
+- LIBOR
+- Yield curve
 key_concepts:
-  - Discount factors calculation
-  - Eurodollar futures role
-  - Financing rate information
-  - Spot LIBOR rate
-  - Yield curve construction
+- Discount factors calculation
+- Eurodollar futures role
+- Financing rate information
+- Spot LIBOR rate
+- Yield curve construction
+- Equity valuation and analysis
+- Dividend discount models
+- Credit risk modeling
+- Default probability estimation
+- Fixed income securities
+- Interest rate derivatives
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Futures contracts and forward pricing
+tags:
+- equity
+- credit
+- financing_rate
+- yield_curve
+- cds
+- libor_rate
+- hedge_funds
+- structured_finance
+- interest_rates
+- valuation
+- fixed_income
+- interest_rate_futures
+- fx
+- trading
+- bonds
 ---
 
 # 3.5 YIELD CURVE CONSTRUCTION WITH INTEREST RATE FUTURES  

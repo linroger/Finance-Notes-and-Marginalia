@@ -1,43 +1,19 @@
 ---
-cssclasses: academia
-title: I - Introduction to Financial Markets and Intermediation
-linter-yaml-title-alias: I - Introduction to Financial Markets and Intermediation
-tags:
-  - banking_industry
-  - financial_instruments
-  - financial_markets
-  - market_intermediation
-  - market_participants
-  - debt_contracts
-  - agency_problems
-  - financial_intermediaries
-  - credit_markets
-  - delegated_monitoring
 aliases:
-  - Finance 101
-  - Financial Markets
-  - Market Overview
-  - Introduction to Financial Markets
-  - Financial Markets and Intermediation
+- Finance 101
+- Financial Markets
+- Market Overview
+- Introduction to Financial Markets
+- Financial Markets and Intermediation
+cssclasses: academia
 key_concepts:
-  - Commercial banking
-  - Credit markets
-  - Derivatives markets
-  - Equity markets
-  - Financial instruments
-  - Financial markets structure
-  - Financial regulations
-  - Global markets
-  - Interest rates
-  - Investment banking
-  - Market efficiency
-  - Market intermediation
-  - Market participants
-  - Risk management
-  - Delegated monitoring
-  - Information asymmetry
-  - Debt contract design
+- Ito's lemma and stochastic calculus applications
+- Credit risk modeling and default probability estimation
+linter-yaml-title-alias: I - Introduction to Financial Markets and Intermediation
+tags: []
+title: I - Introduction to Financial Markets and Intermediation
 ---
+
 
 # I - Introduction to Financial Markets and Intermediation
 

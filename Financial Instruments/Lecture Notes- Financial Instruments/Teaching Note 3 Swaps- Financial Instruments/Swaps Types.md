@@ -1,19 +1,50 @@
 ---
-tags:
-  - commodity_swap
-  - forward_contract
-  - hedging
-  - oil_swap
-  - swap
 aliases:
-  - Commodity Swap Example
-  - Swap Contract
+- Commodity Swap Example
+- Swap Contract
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-c0f300
 key_concepts:
-  - Borrowing and lending
-  - Exchange of payments
-  - Forward contract pricing
-  - Hedging risky payments
-  - Lock in fixed price
+- Risk-neutral measures and martingale pricing
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Monte Carlo simulation for derivatives valuation
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+tags:
+- arbitrage
+- cds
+- commodities
+- convexity
+- correlation
+- credit-default-swaps
+- credit-risk
+- currency-swaps
+- derivatives-pricing
+- duration
+- expected-shortfall
+- fixed_income
+- forwards
+- futures
+- fx
+- hedging
+- interest-rate-swaps
+- mbs
+- monte-carlo
+- risk-management
+- risk-neutral
+- stress-testing
+- swaps
+- var
+- yield-curve
+- zero-coupon
 ---
 
 **Teaching Note 3 SwapsFinancial Instruments**

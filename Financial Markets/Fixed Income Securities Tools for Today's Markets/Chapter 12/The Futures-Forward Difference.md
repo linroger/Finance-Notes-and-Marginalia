@@ -1,21 +1,45 @@
 ---
-tags:
-  - daily_settlement
-  - forward_agreement
-  - futures_contract
-  - futures_forward_difference
-  - interest_rates
-  - market_rates
 aliases:
-  - Forward Rates vs Futures Rates
-  - Futures vs. Forwards
-  - Futures-Forward
+- Forward Rates vs Futures Rates
+- Futures vs. Forwards
+- Futures-Forward
 key_concepts:
-  - Daily settlement impact
-  - Futures contract P&L
-  - Futures rates exceed forward rates
-  - One-factor term structure model
-  - Volatility and time
+- Daily settlement impact
+- Futures contract P&L
+- Futures rates exceed forward rates
+- One-factor term structure model
+- Volatility and time
+- Credit risk modeling
+- Default probability estimation
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+tags:
+- forward_agreement
+- credit
+- cds
+- structured_finance
+- futures_contract
+- market_rates
+- regulation
+- interest_rates
+- fx
+- futures_forward_difference
+- trading
+- bonds
+- volatility
+- swaps
+- futures
 ---
 
 # 12.6 THE FUTURES-FORWARD DIFFERENCE  

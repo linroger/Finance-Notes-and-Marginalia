@@ -1,39 +1,69 @@
 ---
-title: Lecture 2 - Asset Allocation with Multiple Risky Assets
-cssclasses:
-  - academia
-  - finance
-tags:
-  - asset_allocation
-  - covariance_matrix
-  - multiple_assets
-  - portfolio_theory
-  - risk_return
-  - portfolio_optimization
-  - modern_portfolio_theory
-  - efficient_frontier
-  - diversification
-  - risk_management
 aliases:
-  - Asset Allocation
-  - Multiple Risky Assets
-  - Lecture 2
-  - Portfolio Optimization
-  - Tangency Portfolio
+- Asset Allocation
+- Multiple Risky Assets
+- Lecture 2
+- Portfolio Optimization
+- Tangency Portfolio
+cssclasses:
+- academia
+- finance
 key_concepts:
-  - CRRA preferences
-  - Mean-standard deviation frontier
-  - Optimal portfolio framework
-  - Portfolio return variance
-  - Tangency portfolio formulas
-  - Efficient frontier construction
-  - Diversification benefits
-  - Correlation effects
-  - Capital allocation line
-  - Matrix algebra in portfolio theory
-  - Constrained optimization
-  - Global minimum variance portfolio
+- CRRA preferences
+- Mean-standard deviation frontier
+- Optimal portfolio framework
+- Portfolio return variance
+- Tangency portfolio formulas
+- Efficient frontier construction
+- Diversification benefits
+- Correlation effects
+- Capital allocation line
+- Matrix algebra in portfolio theory
+- Constrained optimization
+- Global minimum variance portfolio
+- portfolio theory and asset pricing
+- risk measurement and management
+- alternative investment strategies
+- portfolio optimization and risk decomposition
+- systematic risk and market exposure
+- risk-adjusted performance measurement
+- Monte Carlo simulation techniques for path-dependent options
+- Value-at-Risk calculation using historical simulation
+- Mean-variance optimization and the efficient frontier
+- Monte Carlo integration and variance reduction
+- Control variates and importance sampling techniques
+- portfolio theory and asset pricing
+- risk measurement and management
+- alternative investment strategies
+- portfolio optimization and risk decomposition
+- systematic risk and market exposure
+- risk-adjusted performance measurement
+- Monte Carlo simulation techniques for path-dependent options
+tags:
+- asset-allocation
+- asset_allocation
+- capital-asset-pricing-model
+- capm
+- corporate-bonds
+- covariance_matrix
+- diversification
+- efficient_frontier
+- machine-learning
+- modern_portfolio_theory
+- multiple_assets
+- portfolio_optimization
+- portfolio_theory
+- private-equity
+- risk_management
+- risk_return
+- sensitivity-analysis
+- time-series
+- treasury-bonds
+- var
+title: Lecture 2 - Asset Allocation with Multiple Risky Assets
 ---
+
+
 
 # Lecture 2: Asset Allocation with Multiple Risky Assets
 

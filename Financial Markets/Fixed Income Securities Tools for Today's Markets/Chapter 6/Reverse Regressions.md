@@ -1,19 +1,36 @@
 ---
-tags:
-  - bond_yields
-  - hedging
-  - reverse_regression
-  - treasury_bonds
-  - volatility
 aliases:
-  - Regression Hedge
-  - Reverse Regressions
+- Regression Hedge
+- Reverse Regressions
 key_concepts:
-  - Hedged position volatility
-  - JNJ bonds
-  - Regression coefficient
-  - Treasury bonds
-  - Variance of P&L
+- Hedged position volatility
+- JNJ bonds
+- Regression coefficient
+- Treasury bonds
+- Variance of P&L
+- Fixed income securities
+- Interest rate derivatives
+- Foreign exchange markets
+- Currency derivatives
+- Bond pricing and yield analysis
+- Duration and convexity
+- Derivatives pricing theory
+- Risk-neutral valuation
+- Value at risk and stress testing
+- Portfolio risk metrics
+tags:
+- portfolio-theory
+- fixed_income
+- fx
+- volatility
+- bonds
+- treasury_bonds
+- derivatives
+- risk_management
+- portfolio
+- bond_yields
+- hedging
+- reverse_regression
 ---
 
 # 6.4 REVERSE REGRESSIONS  

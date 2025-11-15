@@ -1,35 +1,23 @@
 ---
-cssclasses:
-  - academia
-title: Class 2 - Debt Contracts due to Lack of Information
-tags:
-  - bankruptcy
-  - bond_covenants
-  - corporate_governance
-  - creditor_rights
-  - debt_contracts
-  - financial_distress
-  - loan_covenants
-  - information_asymmetry
-  - adverse_selection
 aliases:
-  - Bankruptcy Risk
-  - Debt Contracts
-  - Distressed Debt
-  - Information Asymmetry in Debt Markets
-  - Debt as a Threat and Promise
+- Bankruptcy Risk
+- Debt Contracts
+- Distressed Debt
+- Information Asymmetry in Debt Markets
+- Debt as a Threat and Promise
+cssclasses:
+- academia
 key_concepts:
-  - Asymmetric information problems
-  - Bankruptcy process overview
-  - Bond covenant protection
-  - Creditor control rights
-  - Debt contract information
-  - Distressed debt investing
-  - Financial distress factors
-  - Investment policy impact
-  - Loan covenant importance
-  - Screening and signaling mechanisms
+- Bond pricing and fixed income securities valuation
+- Ito's lemma and stochastic calculus applications
+- Credit risk modeling and default probability estimation
+- Portfolio hedging and risk reduction strategies
+tags:
+- hedging
+- risk-management
+title: Class 2 - Debt Contracts due to Lack of Information
 ---
+
 
 # Class 2 - Debt Contracts due to Lack of Information
 

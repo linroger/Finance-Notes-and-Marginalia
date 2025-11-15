@@ -1,20 +1,45 @@
 ---
-tags:
-  - bond_yields
-  - interest_rate_risk
-  - market_maker
-  - regression_hedging
-  - relative_value_trading
 aliases:
-  - DV01 Hedge
-  - JNJ Bonds
-  - Regression Hedge
+- DV01 Hedge
+- JNJ Bonds
+- Regression Hedge
 key_concepts:
-  - Regression hedge risk weight
-  - Regression hedge variance
-  - Single-variable regression hedging
-  - Standard deviation residuals
-  - Yield-based DV01 hedge
+- Regression hedge risk weight
+- Regression hedge variance
+- Single-variable regression hedging
+- Standard deviation residuals
+- Yield-based DV01 hedge
+- Fixed income securities
+- Interest rate derivatives
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Derivatives pricing theory
+tags:
+- model-calibration
+- relative_value_trading
+- cds
+- bond_yields
+- market_maker
+- interest_rates
+- portfolio-theory
+- fixed_income
+- fx
+- trading
+- bonds
+- futures
+- derivatives
+- options
+- risk_management
 ---
 
 # 6.1 SINGLE-VARIABLE REGRESSION HEDGING  

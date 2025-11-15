@@ -1,20 +1,45 @@
 ---
-tags:
-  - bid_ask_spread
-  - liquidity
-  - market_depth
-  - market_trends
-  - trading
 aliases:
-  - Liquidity in Trading
-  - Market Liquidity
-  - Trading and Liquidity
+- Liquidity in Trading
+- Market Liquidity
+- Trading and Liquidity
 key_concepts:
-  - Bid-ask spread measurement
-  - Market depth in CLOB
-  - Market liquidity definition
-  - Price impact on trading
-  - Volume and turnover metrics
+- Bid-ask spread measurement
+- Market depth in CLOB
+- Market liquidity definition
+- Price impact on trading
+- Volume and turnover metrics
+- Equity valuation and analysis
+- Dividend discount models
+- Fixed income securities
+- Interest rate derivatives
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+tags:
+- equity
+- liquidity
+- cds
+- hedge_funds
+- regulation
+- portfolio-theory
+- fixed_income
+- trading
+- fx
+- bonds
+- market_trends
+- futures
+- market_depth
+- options
+- risk_management
 ---
 
 # 0.6 TRADING AND LIQUIDITY  

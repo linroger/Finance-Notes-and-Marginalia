@@ -1,25 +1,115 @@
 ---
-title: '(24) How Countries Go Broke: Chapter 12 to Chapter 14 | LinkedIn'
-source: 
-  https://www.linkedin.com/pulse/how-countries-go-broke-chapter-12-14-ray-dalio-jdc9e/
-description:
-tags:
-  - big_debt_cycle
-  - covid_pandemic
-  - fiscal_policy
-  - interest_rates
-  - monetary_policy
 aliases:
-  - COVID-19
-  - How Countries Go Broke
-  - MP4
-  - Monetary Policy 4
+- COVID-19
+- How Countries Go Broke
+- MP4
+- Monetary Policy 4
+description: null
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-6be02b
 key_concepts:
-  - Big fiscal deficits
-  - COVID pandemic impact
-  - Central bank monetization
-  - Interest rate changes
-  - Monetary policy independence
+- Apt
+- COVID pandemic impact
+- Term structure of interest rates and yield curve shapes
+- Stochastic calculus in financial modeling
+- Market risk measurement and portfolio volatility
+- Option Greeks and portfolio risk management
+- Commodity markets and pricing dynamics
+- Currency derivatives
+- Expectations hypothesis and liquidity preference theory
+- Historical simulation vs. parametric VaR models
+- Interest rate swaps and term structure
+- Default probability estimation
+- Yield curve fitting and interpolation methods
+- Central bank monetization
+- Vega and volatility risk management
+- Value at risk and stress testing
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- Option sensitivity analysis
+- GARCH models and volatility forecasting
+- Foreign exchange markets
+- Monte Carlo VaR for complex portfolios
+- Stress testing and scenario analysis
+- Equity valuation and analysis
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Value at Risk (VaR) methodologies and backtesting
+- Theta and time decay modeling
+- Portfolio risk metrics
+- Case Study
+- Monetary policy independence
+- Interest rate swap pricing and valuation
+- Expected Shortfall and coherent risk measures
+- Delta, gamma, vega, theta, rho
+- Variance swaps and volatility trading strategies
+- High Yield Bonds
+- Bond pricing and yield analysis
+- Interest rate changes
+- Big fiscal deficits
+- Gamma and convexity adjustments
+- Capital Structure
+- Delta hedging and the replication argument
+- Parallel and non-parallel shifts in the yield curve
+- Credit risk modeling
+- Cross-currency basis swaps and funding
+- Basis swaps and cross-currency swaps
+- Duration and convexity
+- Options pricing and payoff structures
+- Dividend discount models
+source: https://www.linkedin.com/pulse/how-countries-go-broke-chapter-12-14-ray-dalio-jdc9e/
+tags:
+- yield-curve
+- fx
+- swaps
+- commodities
+- stochastic-calculus
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- big_debt_cycle
+- course-material
+- capital-structure
+- market-risk
+- case-study
+- apt
+- bonds
+- greeks
+- high-yield-bonds
+- risk_management
+- value-at-risk
+- exchange-rates
+- deleveraging
+- hedge-funds
+- credit-risk
+- leveraged-buyouts
+- currency-swaps
+- quantitative-implementation
+- duration-convexity
+- solution
+- private-equity
+- covid_pandemic
+- real-estate
+- treasury-bonds
+- regulation
+- equity
+- interest_rates
+- stress-testing
+- stochastic_calculus
+- infrastructure
+- bridgewater-perspective
+- corporate-bonds
+- distressed-debt
+- mbs-cmos
+- credit
+- monetary_policy
+- dcf-valuation
+- regulatory-framework
+- harvard-business-review
+- municipal-bonds
+title: '(24) How Countries Go Broke: Chapter 12 to Chapter 14 | LinkedIn'
 ---
 
 ## Chapter 12: The History and Lessons from Phase 4, Since 2020—Pandemic and Big Fiscal Deficits Monetized (MP4)

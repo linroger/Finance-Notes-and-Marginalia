@@ -1,28 +1,30 @@
 ---
 tags:
-  - cash_flow_engineering
-  - finance_textbook
-  - hedge_funds
-  - investment_banking
-  - market_participants
-  - market_segments
-  - relative_value
-  - security_valuation
+- abs
+- apt
+- arbitrage
+- bonds
+- commodities
+- duration
+- fixed_income
+- futures
+- options
+- replication
+- risk-management
+- swaps
+- zero-coupon
 aliases:
-  - Book Preview
-  - Cash Flow
-  - Finance Book Overview
-  - Relative Value
+- Book Preview
+- Cash Flow
+- Finance Book Overview
+- Relative Value
 key_concepts:
-  - asset-liability management
-  - cash flow diversion
-  - demand side participants
-  - internal workings of markets
-  - market segments
-  - relative value trades
-  - security valuation
-  - spot, forward, option contracts
-  - structured products
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
 ---
 
 # 1.8  PREVIEW OF THE BOOK  

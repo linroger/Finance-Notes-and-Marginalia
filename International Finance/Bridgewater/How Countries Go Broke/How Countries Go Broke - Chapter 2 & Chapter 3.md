@@ -1,27 +1,113 @@
 ---
-title: How Countries Go Broke-Chapter Two & Chapter Three
-source: 
-  https://www.linkedin.com/pulse/how-countries-go-broke-chapter-two-three-ray-dalio-w1gue/
-description:
-tags:
-  - central_banks
-  - debt_cycle
-  - economic_cycle
-  - geopolitical_cycle
-  - market_mechanics
 aliases:
-  - Big Cycle
-  - Chapter 2 Excerpt
-  - Debt Cycle Mechanics
-  - How Countries Go Broke
+- Big Cycle
+- Chapter 2 Excerpt
+- Debt Cycle Mechanics
+- How Countries Go Broke
+description: null
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-cb73d2
 key_concepts:
-  - Acts of nature
-  - Debt/credit/money/economic cycle
-  - External geopolitical order/disorder
-  - Human inventiveness
-  - Internal political order/disorder
+- Apt
+- Internal political order/disorder
+- Liquidity coverage ratio and net stable funding ratio
+- Term structure of interest rates and yield curve shapes
+- Human inventiveness
+- Stochastic calculus in financial modeling
+- Stress testing and supervisory review processes
+- Single-name vs. index CDS trading
+- Market risk measurement and portfolio volatility
+- Commodity markets and pricing dynamics
+- Currency derivatives
+- Expectations hypothesis and liquidity preference theory
+- Interest rate swaps and term structure
+- Default probability estimation
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- Leverage ratio and large exposures
+- CDS clearing and central counterparties
+- Acts of nature
+- CDS-Bond basis and arbitrrage opportunities
+- Spot rates vs. forward rates modeling
+- Swap spread and credit risk considerations
+- Option sensitivity analysis
+- GARCH models and volatility forecasting
+- Mathematical Finance
+- Foreign exchange markets
+- Liquidity and price discovery
+- Equity valuation and analysis
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Risk-weighted assets and capital adequacy ratios
+- Debt/credit/money/economic cycle
+- Case Study
+- Interest rate swap pricing and valuation
+- Delta, gamma, vega, theta, rho
+- Credit default swap pricing and risk-neutral probabilities
+- Market microstructure and trading
+- Basel III regulatory framework and capital requirements
+- External geopolitical order/disorder
+- Variance swaps and volatility trading strategies
+- Pairs trading and statistical arbitrage strategies
+- Bond pricing and yield analysis
+- Capital Structure
+- Credit default swaps and credit risk
+- Parallel and non-parallel shifts in the yield curve
+- Credit risk modeling
+- Cross-currency basis swaps and funding
+- Basis swaps and cross-currency swaps
+- Duration and convexity
+- Dividend discount models
+source: https://www.linkedin.com/pulse/how-countries-go-broke-chapter-two-three-ray-dalio-w1gue/
+tags:
+- yield-curve
+- fx
+- commodities
+- credit-default-swaps
+- stochastic-calculus
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- trading
+- course-material
+- bank-regulation
+- pairs-trading
+- capital-structure
+- market-risk
+- market_mechanics
+- case-study
+- apt
+- bonds
+- greeks
+- value-at-risk
+- exchange-rates
+- deleveraging
+- hedge-funds
+- credit-risk
+- currency-swaps
+- quantitative-implementation
+- duration-convexity
+- solution
+- real-estate
+- treasury-bonds
+- regulation
+- central_banks
+- equity
+- interest_rates
+- stochastic_calculus
+- infrastructure
+- bridgewater-perspective
+- exotic-options
+- distressed-debt
+- credit
+- geopolitical_cycle
+- dcf-valuation
+- economic_cycle
+- harvard-business-review
+- cds
+title: How Countries Go Broke-Chapter Two & Chapter Three
 ---
-
 
 ### Chapter 2: The Mechanics in Words and Concepts
 

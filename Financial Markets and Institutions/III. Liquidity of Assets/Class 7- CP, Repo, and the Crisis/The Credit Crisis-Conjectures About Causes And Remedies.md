@@ -1,25 +1,41 @@
 ---
-linter-yaml-title-alias: 'The Credit Crisis: Conjectures About Causes And Remedies'
-title: 'The Credit Crisis: Conjectures About Causes And Remedies'
-tags:
-  - asset_prices
-  - credit_crisis
-  - financial_crisis
-  - subprime_loans
-  - us_financial_sector
 aliases:
-  - Causes and Remedies
-  - Credit Crisis
-  - Douglas W. Diamond
-  - Raghuram G. Rajan
+- Causes and Remedies
+- Credit Crisis
+- Douglas W. Diamond
+- Raghuram G. Rajan
 key_concepts:
-  - asset price depression
-  - emerging market crises
-  - financial crisis causes
-  - misallocation of resources
-  - securitization of loans
-  - subprime loan buyers
+- Delta hedging strategies in options portfolio management
+- 'Short-rate models: Vasicek, CIR, and mean reversion'
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+linter-yaml-title-alias: 'The Credit Crisis: Conjectures About Causes And Remedies'
+tags:
+- abs
+- arbitrage
+- bonds
+- cir
+- convexity
+- correlation
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- fixed_income
+- hedging
+- mbs
+- options
+- puts
+- risk-management
+- var
+title: 'The Credit Crisis: Conjectures About Causes And Remedies'
 ---
+
 
 # The Credit Crisis-Conjectures About Causes And Remedies
 

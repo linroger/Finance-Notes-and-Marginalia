@@ -1,22 +1,18 @@
 ---
 title: The Fall of Bear Stearns
 tags:
-  - alan_schwartz
-  - bear_stearns
-  - financial_crisis
-  - henry_paulson
-  - jp_morgan
-  - timothy_geithner
+- apt
+- arch
+- bonds
+- fixed_income
 aliases:
-  - Bear Stearns
-  - Bear Stearns Collapse
-  - JP Morgan
+- Bear Stearns
+- Bear Stearns Collapse
+- JP Morgan
 key_concepts:
-  - Bear Stearns collapse
-  - Financial system impact
-  - Find buyer for firm
-  - J.P. Morgan Chase deal
-  - Paulson pushed low bid
+- Ito's lemma and stochastic calculus applications
+- Credit risk modeling and default probability estimation
+- Interest rate caps, floors, and swaptions
 ---
 
 # The Fall of Bear Stearns

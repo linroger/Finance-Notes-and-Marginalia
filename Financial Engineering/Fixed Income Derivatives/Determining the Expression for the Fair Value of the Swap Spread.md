@@ -1,23 +1,54 @@
 ---
-tags:
-  - debt_market
-  - interest_rate_swap
-  - libor_rate
-  - repo_rate
-  - swap_spread
 aliases:
-  - Interest Rate Swap Curve
-  - Par Swap
-  - Swap Curve
-  - Swap Spread Fair Value
+- Interest Rate Swap Curve
+- Par Swap
+- Swap Curve
+- Swap Spread Fair Value
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-9ed289
 key_concepts:
-  - Fair Value Swap Spread
-  - Fixed and Floating Legs
-  - Government Bond Yields
-  - Interest Rate Swaps
-  - Libor and Repo Rates
-  - Swap Curve Benchmark
-  - Swap Spread Definition
+- Delta hedging strategies in options portfolio management
+- Term structure of interest rates and yield curve modeling
+- 'Short-rate models: Vasicek, CIR, and mean reversion'
+- Bond pricing and fixed income securities valuation
+- Monte Carlo simulation for derivatives valuation
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- apt
+- arch
+- bonds
+- capm
+- cir
+- convexity
+- corporate-bonds
+- correlation
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- fixed_income
+- gamma
+- garch
+- greeks
+- hedging
+- interest-rate-swaps
+- options
+- replication
+- risk-management
+- swaps
+- theta
+- var
+- vega
+- yield-curve
+- zero-coupon
 ---
 
 # Determining the Expression for the Fair Value of the Swap Spread

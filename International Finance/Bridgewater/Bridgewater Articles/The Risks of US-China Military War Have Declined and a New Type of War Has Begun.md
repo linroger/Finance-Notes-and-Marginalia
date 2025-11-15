@@ -1,25 +1,62 @@
 ---
-title: The Risks of US-China Military War Have Declined and a New Type of War Has
-Begun | LinkedIn
-source: 
-  https://www.linkedin.com/pulse/risks-us-china-military-war-have-declined-new-type-has-ray-dalio-dck8e/
-description:
-tags:
-  - apec_meeting
-  - changing_world_order
-  - geopolitical_conflict
-  - military_war
-  - us_china_relations
-aliases:
-  - Biden-Xi meeting
-  - US-China conflict
-  - geopolitical risks
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-2ff4b5
 key_concepts:
-  - APEC meeting in San Francisco
-  - Military war risk declines
-  - New type of war begins
-  - Principles for world order
-  - US-China conflict changes
+- Carry trades and momentum in FX markets
+- Treasury Bonds
+- Option Greeks and portfolio risk management
+- Commodity markets and pricing dynamics
+- Solution
+- Futures contracts and forward pricing
+- Historical simulation vs. parametric VaR models
+- Municipal Bonds
+- Vega and volatility risk management
+- Value at risk and stress testing
+- Swap spread and credit risk considerations
+- Infrastructure investment and project finance
+- GARCH models and volatility forecasting
+- Monte Carlo VaR for complex portfolios
+- Stress testing and scenario analysis
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Currency risk management and hedging
+- Forward rates and interest rate parity
+- Value at Risk (VaR) methodologies and backtesting
+- Theta and time decay modeling
+- Portfolio risk metrics
+- Case Study
+- Exchange rate determination and PPP theory
+- Interest rate swap pricing and valuation
+- Margin requirements and clearing
+- Expected Shortfall and coherent risk measures
+- Variance swaps and volatility trading strategies
+- Stress Testing
+- Quantitative Implementation
+- Gamma and convexity adjustments
+- Delta hedging and the replication argument
+- Cross-currency basis swaps and funding
+- Delta hedging and Greeks
+- Options pricing and payoff structures
+- Currency markets and foreign exchange trading
+tags:
+- quantitative-implementation
+- solution
+- commodities
+- case-study
+- treasury-bonds
+- greeks
+- garch-models
+- interest-rate-swaps
+- risk_management
+- stress-testing
+- value-at-risk
+- course-material
+- exchange-rates
+- futures
+- infrastructure
+- options
+- municipal-bonds
 ---
 
 *This will become more apparent at the upcoming Biden-Xi APEC meeting.*

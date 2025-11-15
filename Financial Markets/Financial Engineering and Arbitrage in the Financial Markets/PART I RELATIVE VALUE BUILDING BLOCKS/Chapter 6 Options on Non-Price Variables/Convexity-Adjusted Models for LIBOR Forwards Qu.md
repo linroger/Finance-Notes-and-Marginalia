@@ -1,22 +1,45 @@
 ---
-tags:
-  - arrears_swap
-  - convexity_adjustment
-  - eurodollar_futures
-  - libor_forwards
-  - quanto_futures
-  - swap_rates
-  - yield_curve_bootstrap
 aliases:
-  - Black model
-  - European structures
-  - LIBOR/swap curve
+- Black model
+- European structures
+- LIBOR/swap curve
 key_concepts:
-  - Convexity adjustment for pricing
-  - Eurodollar futures
-  - Quantoed futures contract
-  - Swaps as convex instruments
-  - Yield curve construction
+- Convexity adjustment for pricing
+- Eurodollar futures
+- Quantoed futures contract
+- Swaps as convex instruments
+- Yield curve construction
+- Equity valuation and analysis
+- Dividend discount models
+- Foreign exchange markets
+- Currency derivatives
+- Option sensitivity analysis
+- Delta, gamma, vega, theta, rho
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Black-Scholes option pricing model
+- Continuous-time finance
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Futures contracts and forward pricing
+tags:
+- equity
+- libor_forwards
+- convexity_adjustment
+- greeks
+- arbitrage
+- arrears_swap
+- quanto_futures
+- cds
+- hedge_funds
+- structured_finance
+- interest_rates
+- fx
+- trading
+- bonds
+- black_scholes
 ---
 
 # 6.2 CONVEXITY-ADJUSTED MODELS FOR LIBOR FORWARDS, QUANTOS, AND CONSTANT MATURITY SWAPS  

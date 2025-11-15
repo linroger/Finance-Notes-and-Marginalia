@@ -1,21 +1,44 @@
 ---
-tags:
-  - basket_credit_derivatives
-  - cds
-  - credit_risk
-  - default_events
-  - protection_buyer
-  - protection_seller
-  - synthetic_cdo
 aliases:
-  - Basket CDS
-  - Credit Derivatives Basket
+- Basket CDS
+- Credit Derivatives Basket
 key_concepts:
-  - CDS on defaultable securities
-  - Dealer buys and sells CDS
-  - First default triggers payout
-  - Protection buyer pays premium
-  - Protection seller receives losses
+- CDS on defaultable securities
+- Dealer buys and sells CDS
+- First default triggers payout
+- Protection buyer pays premium
+- Protection seller receives losses
+- Credit risk modeling
+- Default probability estimation
+- Foreign exchange markets
+- Currency derivatives
+- Option sensitivity analysis
+- Delta, gamma, vega, theta, rho
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Credit default swaps and credit risk
+tags:
+- basket_credit_derivatives
+- credit
+- greeks
+- cds
+- hedge_funds
+- structured_finance
+- credit_risk
+- portfolio-theory
+- protection_buyer
+- fx
+- trading
+- bonds
+- synthetic_cdo
+- swaps
+- futures
 ---
 
 # 10.2 BASKET CREDIT DERIVATIVES  

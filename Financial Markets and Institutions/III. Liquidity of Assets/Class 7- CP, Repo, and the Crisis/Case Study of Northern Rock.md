@@ -1,36 +1,23 @@
 ---
-cssclasses:
-  - academia
-title: "Case Study of Northern Rock"
-linter-yaml-title-alias: "Case Study of Northern Rock"
-tags:
-  - bank_run
-  - financial_crisis
-  - mortgage_finance
-  - securitization
-  - uk_banking_system
-  - liquidity_crisis
-  - 2007_crisis
-  - bank_nationalization
-  - regulatory_failure
 aliases:
-  - Basel III Case Study
-  - Northern Rock Case Study
-  - UK Banking Woes
-  - "Northern Rock Run"
+- Basel III Case Study
+- Northern Rock Case Study
+- UK Banking Woes
+- Northern Rock Run
+cssclasses:
+- academia
 key_concepts:
-  - FSA supervision
-  - liquidity shock
-  - mortgage book growth
-  - regulatory capital requirements
-  - Wholesale funding dependence
-  - Bank run dynamics
-  - UK deposit guarantee scheme
-  - Bank of England intervention
-  - Granite securitization program
-  - Tripartite regulatory system
-  - wholesale-funded model
+- Ito's lemma and stochastic calculus applications
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
+linter-yaml-title-alias: Case Study of Northern Rock
+tags:
+- arbitrage
+- risk-management
+- stress-testing
+title: Case Study of Northern Rock
 ---
+
 
 # Case Study of Northern Rock
 

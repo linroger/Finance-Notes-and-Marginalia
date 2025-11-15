@@ -1,24 +1,46 @@
 ---
-tags:
-  - bond_pricing
-  - credit_risk
-  - fixed_income
-  - market_participants
-  - yield_spreads
 aliases:
-  - BTP-Bund spread
-  - JNJ bond
-  - bond spreads
-  - yield spread
+- BTP-Bund spread
+- JNJ bond
+- bond spreads
+- yield spread
 key_concepts:
-  - European sovereign debt
-  - German government bond
-  - benchmark bonds
-  - coupon effect
-  - fixed income securities
-  - idiosyncratic factors
-  - market-wide interest rates
-  - yield spreads
+- European sovereign debt
+- German government bond
+- benchmark bonds
+- coupon effect
+- fixed income securities
+- idiosyncratic factors
+- market-wide interest rates
+- yield spreads
+- Equity valuation and analysis
+- Dividend discount models
+- Credit risk modeling
+- Default probability estimation
+- Fixed income securities
+- Interest rate derivatives
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+tags:
+- equity
+- regulatory-framework
+- credit
+- cds
+- bond_pricing
+- regulation
+- interest_rates
+- yield_spreads
+- credit_risk
+- valuation
+- fixed_income
+- fx
+- trading
+- bonds
+- market_participants
 ---
 
 # 3.5 SPREADS  

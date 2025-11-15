@@ -1,21 +1,61 @@
 ---
-title: Forward and Futures Contracts
-tags:
-  - arbitrage
-  - derivative_pricing
-  - forward_contracts
-  - futures_contracts
-  - hedging
 aliases:
-  - Derivatives
-  - Forwards and Futures
-  - Hull Chapters 1, 2, 5
+- Derivatives
+- Forwards and Futures
+- Hull Chapters 1, 2, 5
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-2f754d
 key_concepts:
-  - Arbitrage
-  - Forward contracts
-  - Futures contracts
-  - Hedging
-  - Replication
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- abs
+- apt
+- arbitrage
+- arch
+- bonds
+- capm
+- cds
+- commodities
+- convexity
+- correlation
+- credit-default-swaps
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- exotic-options
+- factor-models
+- fixed_income
+- forwards
+- futures
+- futures-markets
+- gamma
+- garch
+- greeks
+- hedging
+- interest-rate-swaps
+- options
+- replication
+- risk-management
+- risk-neutral
+- swaps
+- theta
+- var
+- vega
+title: Forward and Futures Contracts
 ---
 
 # Forward and Futures Contracts

@@ -1,19 +1,43 @@
 ---
-tags:
-  - cds_spread
-  - cds_upfront_amounts
-  - financial_crisis
-  - market_conventions
-  - maturity_dates
 aliases:
-  - CDS Upfront
-  - Upfront Amounts
+- CDS Upfront
+- Upfront Amounts
 key_concepts:
-  - Annual coupon contracts
-  - CDS trading like swaps
-  - Market conventions simplify CDS
-  - Standardized maturity dates
-  - Upfront amount compensation
+- Annual coupon contracts
+- CDS trading like swaps
+- Market conventions simplify CDS
+- Standardized maturity dates
+- Upfront amount compensation
+- Credit risk modeling
+- Default probability estimation
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Derivatives pricing theory
+tags:
+- cds_upfront_amounts
+- credit
+- fx
+- trading
+- bonds
+- cds_spread
+- swaps
+- cds
+- options
+- derivatives
+- market_conventions
+- financial_crisis
+- interest_rates
+- maturity_dates
 ---
 
 # 14.6 CDS UPFRONT AMOUNTS  

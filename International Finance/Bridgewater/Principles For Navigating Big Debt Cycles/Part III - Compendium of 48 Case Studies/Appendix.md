@@ -1,3 +1,39 @@
+---
+key_concepts:
+- Equity valuation and analysis
+- Dividend discount models
+- Credit risk modeling
+- Default probability estimation
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Vasicek short-rate model
+- Mean-reverting processes
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Structured products and CDOs
+- Credit derivatives
+- Interest rate modeling
+- Term structure of interest rates
+tags:
+- equity
+- regulatory-framework
+- credit
+- fx
+- trading
+- bonds
+- commodities
+- vasicek
+- futures
+- options
+- structured_finance
+- interest_rates
+---
 
 # **Appendix: Macroprudential Policies**
 

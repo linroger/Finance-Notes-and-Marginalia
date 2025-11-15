@@ -1,17 +1,25 @@
 ---
 tags:
-  - chapter_10
-  - economics
-  - interest_rates
-  - term_structure
-  - yield_curve
+- apt
+- arbitrage
+- bonds
+- cir
+- fixed_income
+- no-arbitrage
+- risk-management
+- risk-neutral
+- var
+- vasicek
 aliases: []
 key_concepts:
-  - Forward rate models
-  - Interest rate curves
-  - Spot rates
-  - Term structure economics
-  - Yield curve analysis
+- Risk-neutral measures and martingale pricing
+- Term structure of interest rates and yield curve modeling
+- 'Short-rate models: Vasicek, CIR, and mean reversion'
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
 ---
 
 

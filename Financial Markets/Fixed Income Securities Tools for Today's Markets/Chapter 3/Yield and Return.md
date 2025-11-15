@@ -1,19 +1,30 @@
 ---
-tags:
-  - bond_valuation
-  - coupon_reinvestment
-  - holding_period_return
-  - realized_return
-  - yield_to_maturity
 aliases:
-  - Bond Return
-  - IRR
+- Bond Return
+- IRR
 key_concepts:
-  - Bond's Internal Rate
-  - Holding Period Return
-  - Initial Yield
-  - Reinvested Coupons
-  - Yield vs. Return
+- Bond's Internal Rate
+- Holding Period Return
+- Initial Yield
+- Reinvested Coupons
+- Yield vs. Return
+- Fixed income securities
+- Interest rate derivatives
+- Bond pricing and yield analysis
+- Duration and convexity
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+tags:
+- coupon_reinvestment
+- valuation
+- fixed_income
+- bonds
+- yield_to_maturity
+- bond_valuation
+- options
+- holding_period_return
+- mathematical-finance
+- realized_return
 ---
 
 # 3.3 YIELD AND RETURN  

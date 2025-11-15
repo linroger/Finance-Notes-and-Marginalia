@@ -1,8 +1,72 @@
 ---
-title: "Some Applications of the Fundamental Theorem"
+category: Principles of Financial Engineering
 chapter: 13
-subject: "Financial Engineering"
-category: "Principles of Financial Engineering"
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-7eb0c1
+key_concepts:
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Monte Carlo simulation for derivatives valuation
+- Partial differential equations in financial modeling
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+subject: Financial Engineering
+tags:
+- american-options
+- apt
+- arbitrage
+- barrier-options
+- binomial
+- black-scholes
+- bonds
+- brownian-motion
+- calibration
+- closed-form
+- convexity
+- counterparty-risk
+- credit-risk
+- delta
+- delta-hedging
+- derivatives-pricing
+- duration
+- european-options
+- exotic-options
+- factor-models
+- fixed_income
+- fx
+- gamma
+- geometric-brownian-motion
+- greeks
+- hedging
+- interest-rate-swaps
+- martingale
+- monte-carlo
+- no-arbitrage
+- options
+- pde
+- replication
+- risk-management
+- risk-neutral
+- swaps
+- term-structure
+- theta
+- var
+- vega
+- wiener-process
+- yield-curve
+- zero-coupon
+title: Some Applications of the Fundamental Theorem
 ---
 
 # SOME APPLICATIONS OF THE FUNDAMENTAL THEOREM  

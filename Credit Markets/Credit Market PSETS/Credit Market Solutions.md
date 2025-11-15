@@ -1,32 +1,114 @@
 ---
-title: Credit Market Solutions
-cssclasses: 
-  - academia
-tags:
-  - bond_symbology
-  - credit_market_solutions
-  - government_bonds
-  - us_treasuries
-  - yield_curve
-  - credit_spreads
-  - g_spreads
-  - quantlib_analysis
-  - homework_solutions
 aliases:
-  - FINM 35700
-  - Homework 1
-  - Treasury bonds
-  - UChicago
+- FINM 35700
+- Homework 1
+- Treasury bonds
+- UChicago
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-e03cd3
 key_concepts:
-  - Bond symbology exploration
-  - Historical coupon time series
-  - On-the-run US treasuries
-  - US treasury instruments
-  - US treasury yield curve
-  - Credit spread calculations
-  - G-spread computation
-  - Benchmark bond analysis
-  - QuantLib bond pricing
+- Carry trades and momentum in FX markets
+- Term structure of interest rates and yield curve shapes
+- US treasury instruments
+- Mean-variance optimization and the efficient frontier
+- Extreme value theory and tail risk modeling
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- maturity date in CDS
+- Risk budgeting and portfolio construction techniques
+- Expectations hypothesis and liquidity preference theory
+- Historical simulation vs. parametric VaR models
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- CDS clearing and central counterparties
+- QuantLib bond pricing
+- DV01 calculation and interest rate risk hedging
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- Monte Carlo integration and variance reduction
+- Deposit insurance and systemic risk prevention
+- Monte Carlo VaR for complex portfolios
+- US treasury yield curve
+- Stress testing and scenario analysis
+- On-the-run US treasuries
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Currency risk management and hedging
+- Forward rates and interest rate parity
+- Value at Risk (VaR) methodologies and backtesting
+- Risk-neutral pricing methodology for derivative securities
+- Case Study
+- Operational risk quantification and modeling
+- Credit spread calculations
+- Exchange rate determination and PPP theory
+- Historical coupon time series
+- Arbitrage opportunities and risk-free profit extraction
+- Expected Shortfall and coherent risk measures
+- Interest rate swap pricing and valuation
+- Kalman Filter
+- Credit default swap pricing and risk-neutral probabilities
+- Bank liquidity ratios and funding risk management
+- Variance swaps and volatility trading strategies
+- Value-at-Risk calculation using historical simulation
+- Credit risk migration matrices and rating transition
+- Credit risk modeling and portfolio correlation analysis
+- Backtesting procedures for risk models
+- Credit risk assessment and loan portfolio management
+- G-spread computation
+- Parallel and non-parallel shifts in the yield curve
+- Liquidity risk measurement and management
+- Cross-currency basis swaps and funding
+- Bond symbology exploration
+- Systemic risk indicators and early warning systems
+- Benchmark bond analysis
+- credit risk transfer mechanisms
+- Currency markets and foreign exchange trading
+- CDX North American CDS index
+tags:
+- yield-curve
+- government_bonds
+- credit-default-swaps
+- quantlib_analysis
+- credit_spreads
+- case-study
+- value-at-risk
+- kalman-filter
+- time-series
+- us_treasuries
+- credit-risk
+- duration-convexity
+- homework_solutions
+- solution
+- credit_market_solutions
+- corporate-bonds
+- deposit-insurance
+- expected-shortfall
+- operational-risk
+- cds
+- credit-spreads
+- collateralized-debt-obligations
+- sofr
+- interest-rate-swaps
+- mathematical-finance
+- course-material
+- bond_symbology
+- exchange-rates
+- yield_curve
+- quantitative-implementation
+- treasury-bonds
+- stress-testing
+- infrastructure
+- liquidity-risk
+- g_spreads
+- systemic-risk
+- harvard-business-review
+- monte-carlo
+title: Credit Market Solutions
 ---
 
 # Credit Market Solutions

@@ -1,24 +1,85 @@
 ---
-title: Valuing European Option Using the Heston Model in QuantLib Python
-source: 
-  https://gouthamanbalaraman.com/blog/valuing-european-option-heston-model-quantLib.html
+aliases:
+- Heston Option Pricing
+- QuantLib Heston
 description: Introduces an example on how to value European options using Heston model
   in Quantlib Python
-tags:
-  - aapl_option
-  - european_option
-  - heston_model
-  - quantlib_python
-  - stochastic_volatility
-aliases:
-  - Heston Option Pricing
-  - QuantLib Heston
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-e1e4c9
 key_concepts:
-  - Black-Scholes comparison
-  - European option valuation
-  - Heston model
-  - QuantLib Python example
-  - Stochastic volatility
+- European Options
+- Term structure of interest rates and yield curve shapes
+- Risk assessment and management
+- Binomial option pricing model for American-style options
+- Option Greeks and portfolio risk management
+- Expectations hypothesis and liquidity preference theory
+- Mathematical derivation of the Black-Scholes partial differential equation
+- Solution
+- Historical simulation vs. parametric VaR models
+- Yield curve fitting and interpolation methods
+- Black-Scholes comparison
+- Vega and volatility risk management
+- option pricing models and PDE solutions
+- Swap spread and credit risk considerations
+- Black-Scholes partial differential equation and its boundary conditions
+- Spot rates vs. forward rates modeling
+- Monte Carlo VaR for complex portfolios
+- Portfolio optimization and asset allocation
+- Fixed-for-floating swap cash flows and valuation
+- Value at Risk (VaR) methodologies and backtesting
+- Theta and time decay modeling
+- Case Study
+- Quantitative analysis and modeling
+- Dividend Policy
+- Interest rate swap pricing and valuation
+- Expected Shortfall and coherent risk measures
+- Risk-neutral valuation in continuous time models
+- present value and discounting methods
+- Variance swaps and volatility trading strategies
+- Heston model
+- Fixed income analysis and term structure
+- QuantLib Python example
+- Boundary conditions and parameter interpretation in Black-Scholes model
+- Limitations and extensions of the Black-Scholes framework
+- Derivatives pricing and hedging strategies
+- Quantitative Implementation
+- Financial markets and instruments
+- Gamma and convexity adjustments
+- Delta hedging and the replication argument
+- Vasicek Model
+- Parallel and non-parallel shifts in the yield curve
+- Cross-currency basis swaps and funding
+- European option valuation
+- Black-Scholes-Merton option pricing model and its applications
+- Stochastic volatility
+source: https://gouthamanbalaraman.com/blog/valuing-european-option-heston-model-quantLib.html
+tags:
+- yield-curve
+- dividend-policy
+- interest-rate-swaps
+- mathematical-finance
+- european_option
+- aapl_option
+- financial-modeling
+- heston_model
+- case-study
+- greeks
+- black-scholes-model
+- value-at-risk
+- exchange-rates
+- heston-model
+- european-options
+- stochastic_volatility
+- quantitative-implementation
+- solution
+- stochastic-volatility
+- net-present-value
+- vasicek-model
+- dcf-valuation
+- quantlib_python
+- mean-reversion
+title: Valuing European Option Using the Heston Model in QuantLib Python
 ---
 
 # Valuing European Option Using the Heston Model in QuantLib Python

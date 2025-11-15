@@ -1,21 +1,18 @@
 ---
 tags:
-  - american_style_derivatives
-  - exercise_strategy
-  - numerical_techniques
-  - option_pricing
-  - stopping_time
+- binomial
+- closed-form
+- derivatives-pricing
+- options
+- trinomial
 aliases:
-  - American derivatives
-  - Derivative valuation
-  - Early exercise
+- American derivatives
+- Derivative valuation
+- Early exercise
 key_concepts:
-  - American-style derivative
-  - Closed-form pricing formulas
-  - Exercise strategy
-  - Holder exercise right
-  - Optimal exercise strategy
-  - Stopping time
+- Monte Carlo simulation for derivatives valuation
+- Partial differential equations in financial modeling
+- American options and early exercise feature
 ---
 
 # 12.5 American-style derivatives  

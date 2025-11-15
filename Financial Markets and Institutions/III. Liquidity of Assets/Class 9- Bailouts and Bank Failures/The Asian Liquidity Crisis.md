@@ -1,20 +1,21 @@
 ---
 title: The Asian Liquidity Crisis
 tags:
-  - asian_liquidity_crisis
-  - exchange_rate_collapse
-  - financial_crisis
-  - financial_liberalization
-  - international_illiquidity
+- abs
+- bonds
+- cir
+- fixed_income
+- risk-management
+- var
 aliases:
-  - Asian Crash
-  - Emerging Markets Crisis
+- Asian Crash
+- Emerging Markets Crisis
 key_concepts:
-  - classic financial crisis
-  - exchange rate collapses
-  - financial liberalization impact
-  - financial system collapse
-  - international illiquidity
+- 'Short-rate models: Vasicek, CIR, and mean reversion'
+- Ito's lemma and stochastic calculus applications
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
 ---
 
 # The Asian Liquidity Crisis

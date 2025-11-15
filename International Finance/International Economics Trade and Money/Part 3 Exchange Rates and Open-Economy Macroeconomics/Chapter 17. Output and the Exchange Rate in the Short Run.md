@@ -1,3 +1,27 @@
+---
+key_concepts:
+- Foreign exchange markets
+- Currency derivatives
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Value at risk and stress testing
+- Portfolio risk metrics
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Interest rate modeling
+- Term structure of interest rates
+tags:
+- stochastic_calculus
+- fx
+- bonds
+- futures
+- risk_management
+- options
+- stochastic-calculus
+- interest_rates
+---
 # CHAPTER 17  
 
 # Output and the Exchange Rate in the Short Run  

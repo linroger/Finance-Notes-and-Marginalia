@@ -1,19 +1,44 @@
 ---
-tags:
-  - buy_side_traders
-  - market_mechanics
-  - securities_trading
-  - sell_side_traders
-  - trading_vs_investing
 aliases:
-  - Securities Markets
-  - Trading Basics
+- Securities Markets
+- Trading Basics
 key_concepts:
-  - buy side
-  - investment decision
-  - sell side
-  - trade action
-  - trading profits
+- buy side
+- investment decision
+- sell side
+- trade action
+- trading profits
+- Equity valuation and analysis
+- Dividend discount models
+- Fixed income securities
+- Interest rate derivatives
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Derivatives pricing theory
+tags:
+- equity
+- regulatory-framework
+- market_mechanics
+- sell_side_traders
+- cds
+- hedge_funds
+- portfolio-theory
+- stochastic_calculus
+- valuation
+- fixed_income
+- buy_side_traders
+- fx
+- trading
+- bonds
+- securities_trading
 ---
 
 # Introduction to Securities Trading and Markets  

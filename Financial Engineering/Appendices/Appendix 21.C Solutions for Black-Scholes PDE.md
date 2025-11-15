@@ -1,21 +1,103 @@
 ---
-cssclasses: academia
-title: Appendix 21. C Solutions for Black-Scholes PDE
-tags:
-  - backward_equation
-  - black_scholes
-  - geometric_brownian_motion
-  - option_pricing
-  - pde
 aliases:
-  - BS equation solutions
-  - Black-Scholes PDE solutions
+- BS equation solutions
+- Black-Scholes PDE solutions
+cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-62a090
 key_concepts:
-  - Asset-or-nothing option
-  - Backward equation
-  - Black-Scholes equation
-  - Boundary conditions
-  - General solution
+- Apt
+- Extensions to multi-factor CAPM models
+- Sovereign risk assessment and country analysis
+- Mean-variance optimization and the efficient frontier
+- Brownian motion and Wiener processes in finance
+- Extreme value theory and tail risk modeling
+- Option Greeks and portfolio risk management
+- Black-Scholes equation
+- Risk budgeting and portfolio construction techniques
+- Capital Asset Pricing Model and expected returns
+- Mathematical derivation of the Black-Scholes partial differential equation
+- Asset-or-nothing option
+- Boundary conditions
+- Historical simulation vs. parametric VaR models
+- Vega and volatility risk management
+- option pricing models and PDE solutions
+- DV01 calculation and interest rate risk hedging
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- Monte Carlo integration and variance reduction
+- Deposit insurance and systemic risk prevention
+- Monte Carlo VaR for complex portfolios
+- Stress testing and scenario analysis
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Security Market Line and beta measurement
+- Control variates and importance sampling techniques
+- Theta and time decay modeling
+- Risk-neutral pricing methodology for derivative securities
+- Value at Risk (VaR) methodologies and backtesting
+- Case Study
+- Operational risk quantification and modeling
+- Arbitrage opportunities and risk-free profit extraction
+- Expected Shortfall and coherent risk measures
+- Interest rate swap pricing and valuation
+- Risk-neutral valuation in continuous time models
+- Bank liquidity ratios and funding risk management
+- Variance swaps and volatility trading strategies
+- General solution
+- systematic risk and market exposure
+- Boundary conditions and parameter interpretation in Black-Scholes model
+- Limitations and extensions of the Black-Scholes framework
+- Value-at-Risk calculation using historical simulation
+- Gamma and convexity adjustments
+- Backward equation
+- Credit risk migration matrices and rating transition
+- Credit risk modeling and portfolio correlation analysis
+- Backtesting procedures for risk models
+- Credit risk assessment and loan portfolio management
+- Delta hedging and the replication argument
+- Liquidity risk measurement and management
+- Cross-currency basis swaps and funding
+- Systemic risk indicators and early warning systems
+- Global financial stability and systemic risk monitoring
+- Black-Scholes-Merton option pricing model and its applications
+- Market portfolio and risk-free rate assumptions
+- Empirical tests and anomalies in CAPM
+tags:
+- interest-rate-swaps
+- mathematical-finance
+- course-material
+- pde
+- capm
+- financial-modeling
+- brownian-motion
+- case-study
+- apt
+- greeks
+- black-scholes-model
+- option_pricing
+- value-at-risk
+- monte-carlo
+- exchange-rates
+- credit-risk
+- quantitative-implementation
+- duration-convexity
+- solution
+- stress-testing
+- liquidity-risk
+- systemic-risk
+- exotic-options
+- geometric-brownian-motion
+- deposit-insurance
+- quantitative-finance
+- barrier-options
+- geometric_brownian_motion
+- expected-shortfall
+- operational-risk
+- black_scholes
+- backward_equation
+title: Appendix 21. C Solutions for Black-Scholes PDE
 ---
 
 # Appendix 21. C Solutions for Black-Scholes PDE

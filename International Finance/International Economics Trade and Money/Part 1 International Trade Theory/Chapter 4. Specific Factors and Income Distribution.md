@@ -1,18 +1,40 @@
 ---
-cssclasses: [international-economics]
-title: Chapter 4. Specific Factors and Income Distribution
-tags: [international-economics, specific-factors-model, income-distribution, short-run-effects]
-aliases: [Specific Factors Model, Income Distribution]
+aliases:
+- Specific Factors Model
+- Income Distribution
+cssclasses:
+- international-economics
 key_concepts:
-  - Specific Factors
-  - Mobile Factors
-  - Income Distribution
-  - Short-run Effects of Trade
-  - Winners and Losers from Trade
-  - Diminishing Returns
-  - Production Possibility Frontier
-  - Factor Price Equalization
+- Specific Factors
+- Mobile Factors
+- Income Distribution
+- Short-run Effects of Trade
+- Winners and Losers from Trade
+- Diminishing Returns
+- Production Possibility Frontier
+- Factor Price Equalization
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Options pricing and payoff structures
+- Delta hedging and Greeks
 linter-yaml-title-alias: Chapter 4. Specific Factors and Income Distribution
+tags:
+- regulatory-framework
+- portfolio-theory
+- international-economics
+- trading
+- bonds
+- income-distribution
+- futures
+- options
+- short-run-effects
+- mathematical-finance
+- specific-factors-model
+title: Chapter 4. Specific Factors and Income Distribution
 ---
 
 # Chapter 4. Specific Factors and Income Distribution

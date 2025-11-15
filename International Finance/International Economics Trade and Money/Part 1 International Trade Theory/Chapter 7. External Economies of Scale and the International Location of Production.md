@@ -1,3 +1,16 @@
+---
+key_concepts:
+- Market microstructure and trading
+- Liquidity and price discovery
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Value at risk and stress testing
+- Portfolio risk metrics
+tags:
+- trading
+- cds
+- risk_management
+---
 # External Economies of Scale and the International Location of Production  
 
 I n Chapter 3, we pointed out that there are two reasons why countries specialize and trade. First, countries differ either in their resources or in their technology and specialize in the things they do relatively well; second, economies of scale (or increasing returns) make it advantageous for each country to specialize in the production of only a limited range of goods and services. Chapters 3 through 6 considered models in which all trade is based on comparative advantage; that is, differences between countries are the only reason for trade. This chapter introduces the role of economies of scale.  

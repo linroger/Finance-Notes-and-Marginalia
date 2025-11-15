@@ -1,22 +1,96 @@
 ---
-tags:
-  - bond_duration
-  - convexity
-  - spot_rates
-  - yield_curve
-  - ytm
 aliases:
-  - Bond Pricing
-  - Chapter 10
-  - Duration
-  - Yield Curve
+- Bond Pricing
+- Chapter 10
+- Duration
+- Yield Curve
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-30ee8b
 key_concepts:
-  - Convexity adjustment
-  - Duration and bond price
-  - Parallel shift in yield curve
-  - Spot rates and yield curve
-  - YTM changes and bond prices
+- Apt
+- Bond convexity adjustment for large interest rate changes
+- coupon-bearing bond analysis
+- Term structure of interest rates and yield curve shapes
+- Duration and convexity analysis for bond portfolio management
+- Active portfolio management and performance attribution
+- YTM changes and bond prices
+- Treasury Bonds
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Duration and bond price
+- Option Greeks and portfolio risk management
+- Capital Asset Pricing Model and beta estimation
+- Risk budgeting and portfolio construction techniques
+- Expectations hypothesis and liquidity preference theory
+- Solution
+- Historical simulation vs. parametric VaR models
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- Vega and volatility risk management
+- CDS clearing and central counterparties
+- fixed income risk measurement
+- DV01 calculation and interest rate risk hedging
+- Portfolio immunization strategies
+- CDS-Bond basis and arbitrrage opportunities
+- Spot rates vs. forward rates modeling
+- Monte Carlo VaR for complex portfolios
+- Key rate duration and curve risk
+- Value at Risk (VaR) methodologies and backtesting
+- Theta and time decay modeling
+- Case Study
+- Parallel shift in yield curve
+- interest rate and currency derivatives
+- Credit default swap pricing and risk-neutral probabilities
+- ESG integration in portfolio management
+- present value and discounting methods
+- zero-coupon bond pricing and yields
+- Convexity adjustment
+- par value in CDS settlement
+- Delta hedging strategies in options portfolio management
+- Quantitative Implementation
+- Gamma and convexity adjustments
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Delta hedging and the replication argument
+- Parallel and non-parallel shifts in the yield curve
+- Exotic Options
+- Gamma trading and convexity adjustment techniques
+- Duration and convexity measures for bond portfolios
+- Spot rates and yield curve
+- Currency hedging strategies for global portfolios
+- Price sensitivity to interest rate changes
+- Modified duration vs. Macaulay duration
+tags:
+- yield-curve
+- convexity
+- credit-default-swaps
+- collateralized-debt-obligations
+- mathematical-finance
+- capm
+- market-risk
+- financial-modeling
+- case-study
+- apt
+- greeks
+- value-at-risk
+- dv01
+- exchange-rates
+- ytm
+- credit-risk
+- yield_curve
+- duration-convexity
+- quantitative-implementation
+- solution
+- treasury-bonds
+- bond_duration
+- exotic-options
+- spot_rates
+- dcf-valuation
+- duration
+- term-structure
 ---
+
 # Bonds: Duration and Convexity  
 
 # Aims  

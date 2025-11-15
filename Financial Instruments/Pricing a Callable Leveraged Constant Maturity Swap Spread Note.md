@@ -1,36 +1,62 @@
 ---
-tags:
-  - callable_leveraged_cms
-  - cms_spread_note
-  - interest_rate_risk
-  - monte_carlo_simulation
-  - swaption_volatility
-  - structured_products
-  - fixed_income
-  - quantitative_finance
-  - derivative_pricing
 aliases:
-  - CMS Spread Note
-  - Callable Note
-  - Swap Spread Note
-  - Constant Maturity Swap Note
-  - Leveraged CMS Spread Structure
-key_concepts:
-  - CMS spread
-  - Discount curve construction
-  - Implied swaption volatility
-  - Monte Carlo simulation
-  - Stochastic cash flows
-  - Interest rate correlation
-  - Black-76 model
-  - Bermudan option valuation
-  - Term structure modeling
-  - Correlation calibration
-  - Antithetic variance reduction
-  - Interest rate path simulation
-  - Rational call strategy
-  - Yield curve bootstrapping
+- CMS Spread Note
+- Callable Note
+- Swap Spread Note
+- Constant Maturity Swap Note
+- Leveraged CMS Spread Structure
 cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-a84de7
+key_concepts:
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Monte Carlo simulation for derivatives valuation
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- apt
+- calibration
+- capm
+- cds
+- commodities
+- convexity
+- correlation
+- credit-default-swaps
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- exotic-options
+- fixed_income
+- futures
+- gamma
+- greeks
+- hedging
+- implied-volatility
+- interest-rate-swaps
+- monte-carlo
+- options
+- replication
+- rho
+- risk-management
+- risk-neutral
+- swaps
+- swaptions
+- term-structure
+- var
+- vega
+- yield-curve
 ---
 
 # Pricing a Callable Leveraged Constant Maturity Swap Spread Note

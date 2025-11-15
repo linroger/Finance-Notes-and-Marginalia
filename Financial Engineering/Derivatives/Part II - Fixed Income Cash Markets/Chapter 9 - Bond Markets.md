@@ -1,21 +1,106 @@
 ---
-tags:
-  - bond_markets
-  - coupon_bonds
-  - default_risk
-  - spot_yields
-  - zero_coupon_bonds
 aliases:
-  - Bond Pricing
-  - Chapter 9
-  - Yield to Maturity
+- Bond Pricing
+- Chapter 9
+- Yield to Maturity
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-8735b1
 key_concepts:
-  - Coupon bond pricing
-  - Default risk in bonds
-  - Risk-free arbitrage profits
-  - Spot rates explained
-  - Zero-coupon bonds analysis
+- Apt
+- Cox-Ross-Rubinstein parameter specification
+- coupon-bearing bond analysis
+- Term structure of interest rates and yield curve shapes
+- Extensions to multi-factor CAPM models
+- Duration and convexity analysis for bond portfolio management
+- Active portfolio management and performance attribution
+- Computational implementation of binomial option pricing
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Option Greeks and portfolio risk management
+- maturity date in CDS
+- Capital Asset Pricing Model and beta estimation
+- Risk budgeting and portfolio construction techniques
+- Risk-free arbitrage profits
+- Expectations hypothesis and liquidity preference theory
+- Capital Asset Pricing Model and expected returns
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- CDS clearing and central counterparties
+- fixed income risk measurement
+- forward commitments and hedging
+- CDS-Bond basis and arbitrrage opportunities
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- Shadow Banking
+- Spot rates explained
+- Arbitrage Pricing Theory and multifactor models
+- Course Material
+- Security Market Line and beta measurement
+- International arbitrage and covered interest rate parity
+- Case Study
+- Arbitrage opportunities and risk-free profit extraction
+- interest rate and currency derivatives
+- Credit default swap pricing and risk-neutral probabilities
+- ESG integration in portfolio management
+- Zero-coupon bonds analysis
+- present value and discounting methods
+- zero-coupon bond pricing and yields
+- Coupon bond pricing
+- Convergence of binomial model to Black-Scholes solution
+- fair value measurement and hierarchy
+- par value in CDS settlement
+- Delta hedging strategies in options portfolio management
+- Binomial option pricing model with multiple time steps
+- Shadow banking system and regulatory arbitrage
+- clean price in CDS settlement
+- American option pricing in binomial trees
+- Gamma and convexity adjustments
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Delta hedging and the replication argument
+- Parallel and non-parallel shifts in the yield curve
+- Currency hedging strategies for global portfolios
+- Default risk in bonds
+- Market portfolio and risk-free rate assumptions
+- Empirical tests and anomalies in CAPM
+tags:
+- yield-curve
+- binomial-model
+- credit-default-swaps
+- collateralized-debt-obligations
+- garch-models
+- mathematical-finance
+- course-material
+- capm
+- shadow-banking
+- municipal-bonds
+- spot_yields
+- coupon_bonds
+- apt
+- case-study
+- greeks
+- default_risk
+- value-at-risk
+- factor-models
+- exchange-rates
+- credit-risk
+- quantitative-implementation
+- duration-convexity
+- solution
+- treasury-bonds
+- bond_markets
+- zero_coupon_bonds
+- arbitrage
+- infrastructure
+- corporate-bonds
+- exotic-options
+- dcf-valuation
+- duration
+- term-structure
 ---
+
 # Bond Markets  
 
 # Aims  

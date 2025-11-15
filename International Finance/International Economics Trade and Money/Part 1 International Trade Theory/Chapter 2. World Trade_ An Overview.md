@@ -1,16 +1,34 @@
 ---
-cssclasses: [international-economics]
-title: Chapter 2. World Trade_ An Overview
-tags: [international-economics, world-trade, gravity-model, trade-patterns]
-aliases: [World Trade Overview]
+aliases:
+- World Trade Overview
+cssclasses:
+- international-economics
 key_concepts:
-  - Gravity Model
-  - Size Matters in Trade
-  - Distance and Trade
-  - Trade Impediments
-  - Trade Agreements
-  - Border Effects
+- Gravity Model
+- Size Matters in Trade
+- Distance and Trade
+- Trade Impediments
+- Trade Agreements
+- Border Effects
+- Market microstructure and trading
+- Liquidity and price discovery
+- Equity valuation and analysis
+- Dividend discount models
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Bond pricing and yield analysis
+- Duration and convexity
 linter-yaml-title-alias: Chapter 2. World Trade_ An Overview
+tags:
+- equity
+- international-economics
+- trading
+- gravity-model
+- bonds
+- trade-patterns
+- options
+- world-trade
+title: Chapter 2. World Trade_ An Overview
 ---
 
 # Chapter 2. World Trade: An Overview

@@ -1,25 +1,36 @@
 ---
-cssclasses:
-  - academia
-linter-yaml-title-alias: 'Syndicated Bank Loans: 2006 Default Review and 2007 Outlook'
-title: Moody's Syndicated Bank Loans 2006 Default Review and 2007 Outlook
-tags:
-  - default_rates
-  - loan_defaults
-  - moodys_ratings
-  - recovery_rates
-  - speculative_grade
 aliases:
-  - 2006 Default Review
-  - 2007 Outlook
-  - Moody's Default Review
+- 2006 Default Review
+- 2007 Outlook
+- Moody's Default Review
+cssclasses:
+- academia
 key_concepts:
-  - bond default rates
-  - economic growth impact
-  - loan default volume
-  - recovery rate decline
-  - speculative grade default
+- Risk-neutral measures and martingale pricing
+- Bond pricing and fixed income securities valuation
+- Monte Carlo simulation for derivatives valuation
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+linter-yaml-title-alias: 'Syndicated Bank Loans: 2006 Default Review and 2007 Outlook'
+tags:
+- arbitrage
+- arch
+- bonds
+- correlation
+- credit-risk
+- fixed_income
+- hedging
+- recovery-rate
+- risk-management
+- risk-neutral
+- var
+- yield-curve
+title: Moody's Syndicated Bank Loans 2006 Default Review and 2007 Outlook
 ---
+
 
 Syndicated Loans
 

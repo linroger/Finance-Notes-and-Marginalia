@@ -1,33 +1,12 @@
 ---
 tags:
-  - asset_pricing
-  - constrained_optimization
-  - financial_interpretations
-  - lagrange_approach
-  - linear_algebra
-  - mathematics_economics
-  - optimization
-  - probability_theory
-  - utility_function
-  - vectors_matrices
+- risk-management
+- var
 aliases:
-  - Mathematical Foundations
-  - Prerequisites for Asset Pricing
+- Mathematical Foundations
+- Prerequisites for Asset Pricing
 key_concepts:
-  - asset pricing
-  - constrained optimization
-  - dot product
-  - formal derivations
-  - identity matrix
-  - lagrange approach
-  - linear algebra
-  - non-singular matrix
-  - optimization problems
-  - precise definitions
-  - probability theory review
-  - transpose matrix
-  - utility maximization
-  - vectors and matrices
+- Value at Risk and tail risk measurement
 ---
 
 # 1.5 Prerequisites  

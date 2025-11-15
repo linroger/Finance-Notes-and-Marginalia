@@ -1,35 +1,36 @@
 ---
-cssclasses:
-  - academia
-title: "Runs on Money Market Mutual Funds"
-linter-yaml-title-alias: "Runs on Money Market Mutual Funds"
-tags:
-  - 2008_financial_crisis
-  - institutional_investors
-  - lehman_brothers
-  - money_market_funds
-  - run_risk
-  - financial_stability
-  - systemic_risk
-  - prime_funds
-  - fund_redemptions
 aliases:
-  - MMMFs
-  - Money Market Funds
-  - Reserve Primary Fund
-  - "Runs on MMFs"
+- MMMFs
+- Money Market Funds
+- Reserve Primary Fund
+- Runs on MMFs
+cssclasses:
+- academia
 key_concepts:
-  - institutional share classes
-  - investor behavior
-  - liquidity mismatch
-  - money market fund flows
-  - run-like behavior
-  - Flow-performance sensitivity
-  - Prime fund vulnerabilities
-  - Breaking the buck risk
-  - Institutional vs retail dynamics
-  - Contagion effects
+- Bond pricing and fixed income securities valuation
+- Ito's lemma and stochastic calculus applications
+- Monte Carlo simulation for derivatives valuation
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
+linter-yaml-title-alias: Runs on Money Market Mutual Funds
+tags:
+- apt
+- arbitrage
+- arch
+- bonds
+- convexity
+- credit-risk
+- duration
+- fixed_income
+- options
+- risk-management
+- time-series
+- var
+title: Runs on Money Market Mutual Funds
 ---
+
 
 # Runs on Money Market Mutual Funds
 

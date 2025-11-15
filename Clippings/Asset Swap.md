@@ -1,3 +1,43 @@
+---
+key_concepts:
+- interest rate and currency derivatives
+- present value and discounting methods
+- default events and remedies
+- protection buyer in CDS
+- protection seller in CDS
+- par value in CDS settlement
+- dirty price in CDS settlement
+- Credit spread analysis and OAS methodology
+- Credit default swap pricing and recovery assumptions
+- Probability of default estimation from credit spreads
+- Structural models of default and Merton formulation
+- Credit risk modeling and portfolio correlation analysis
+- Synthetic credit derivatives and index trades
+- Credit risk migration matrices and rating transition
+- Counterparty credit exposure measurement
+- Credit risk assessment and loan portfolio management
+- Credit intermediation and information asymmetry
+- 'Structured products: CDOs, CLOs, and credit derivatives'
+- interest rate and currency derivatives
+- present value and discounting methods
+- default events and remedies
+- protection buyer in CDS
+- protection seller in CDS
+- par value in CDS settlement
+- dirty price in CDS settlement
+- Credit spread analysis and OAS methodology
+- Credit default swap pricing and recovery assumptions
+- Probability of default estimation from credit spreads
+- Structural models of default and Merton formulation
+- Credit risk modeling and portfolio correlation analysis
+tags:
+- credit-risk
+- financial-analysis
+- financial-modeling
+- quantitative-finance
+- sofr
+---
+
  
 source: https://www.investopedia.com/terms/a/assetswap.asp
 description: An asset swap is a derivative contract where two parties exchange fixed

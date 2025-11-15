@@ -1,20 +1,43 @@
 ---
-tags:
-  - benchmark_rates
-  - credit_risk
-  - credit_spreads
-  - default_timing
-  - hazard_adjusted_duration
 aliases:
-  - Duration
-  - Dv01
-  - HAD
+- Duration
+- Dv01
+- HAD
 key_concepts:
-  - Benchmark rate curve
-  - Conventional vs hazard-adjusted
-  - Credit spreads and durations
-  - Expected cash flow timing
-  - Hazard-adjusted duration (HAD)
+- Benchmark rate curve
+- Conventional vs hazard-adjusted
+- Credit spreads and durations
+- Expected cash flow timing
+- Hazard-adjusted duration (HAD)
+- Credit risk modeling
+- Default probability estimation
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Value at risk and stress testing
+- Portfolio risk metrics
+- Interest rate modeling
+tags:
+- credit
+- credit_spreads
+- fx
+- trading
+- bonds
+- benchmark_rates
+- cds
+- options
+- risk_management
+- hazard_adjusted_duration
+- default_timing
+- interest_rates
+- credit_risk
 ---
 
 # 14.9 HAZARD-ADJUSTED DURATION AND DVO1  

@@ -1,31 +1,54 @@
 ---
-title: "PSET 5 - Financial Instruments - Options Pricing"
-linter-yaml-title-alias: "PSET 5 - Financial Instruments - Options Pricing"
-cssclasses: academia
-tags:
-  - binomial_tree
-  - european_call_option
-  - hedging_risk
-  - option_pricing
-  - stock_price
-  - black_scholes
-  - delta_hedging
-  - risk_neutral_pricing
 aliases:
-  - Homework 5
-  - John Heaton
-  - Multiperiod Binomial Tree
-  - Suna Bai
+- Homework 5
+- John Heaton
+- Multiperiod Binomial Tree
+- Suna Bai
+cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-3d8b4f
 key_concepts:
-  - Black Scholes formula
-  - Binomial tree convergence
-  - Option delta hedging strategies
-  - Replicating portfolio construction
-  - Risk-neutral pricing
-  - Dividend effects on option pricing
-  - Put-call parity
-  - European option valuation
-  - Stock price volatility effects
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Partial differential equations in financial modeling
+- Credit risk modeling and default probability estimation
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+linter-yaml-title-alias: PSET 5 - Financial Instruments - Options Pricing
+tags:
+- binomial
+- black-scholes
+- bonds
+- capm
+- convexity
+- correlation
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- european-options
+- exotic-options
+- fixed_income
+- gamma
+- greeks
+- hedging
+- interest-rate-swaps
+- options
+- pde
+- replication
+- risk-management
+- risk-neutral
+- swaps
+- theta
+- vega
+title: PSET 5 - Financial Instruments - Options Pricing
 ---
 
 # PSET 5 - Financial Instruments - Options Pricing

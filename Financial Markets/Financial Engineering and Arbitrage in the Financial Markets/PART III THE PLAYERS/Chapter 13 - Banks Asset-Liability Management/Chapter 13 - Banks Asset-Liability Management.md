@@ -1,3 +1,13 @@
+---
+key_concepts:
+- Value at risk and stress testing
+- Portfolio risk metrics
+- Bond pricing and yield analysis
+- Duration and convexity
+tags:
+- risk_management
+- bonds
+---
 %% Begin Waypoint %%
 - **Chapter 13 - Banks Asset-Liability Management**
 	- Bank Balance Sheets and Income Statements

@@ -1,30 +1,119 @@
 ---
-title: Credit Market Session 2
-tags:
-  - cds
-  - cdx_index
-  - credit_market
-  - etfs
-  - sovereign_bonds
-  - fixed_income
-  - hazard_rate
 aliases:
-  - CDS
-  - CDX
-  - Fixed Income ETFs
-  - Sovereign Bonds
-  - Credit Default Swap
+- CDS
+- CDX
+- Fixed Income ETFs
+- Sovereign Bonds
+- Credit Default Swap
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-e0ef1a
 key_concepts:
-  - cdx index trading
-  - credit default swap
-  - currency devaluation risk
-  - etf basis arbitrage
-  - fixed income etfs
-  - hazard rate model
-  - sovereign bonds
-  - sovereign debt issuers
-  - floating rate bonds
-  - reference interest rates
+- hazard rate modeling and estimation
+- Apt
+- Cox-Ross-Rubinstein parameter specification
+- Extensions to multi-factor CAPM models
+- reference interest rates
+- Duration and convexity analysis for bond portfolio management
+- Active portfolio management and performance attribution
+- etf basis arbitrage
+- Computational implementation of binomial option pricing
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Option Greeks and portfolio risk management
+- maturity date in CDS
+- Capital Asset Pricing Model and beta estimation
+- Risk budgeting and portfolio construction techniques
+- Capital Asset Pricing Model and expected returns
+- currency devaluation risk
+- Credit spread decomposition and hazard rates
+- Empirical tests and anomalies in CAPM
+- CDS clearing and central counterparties
+- hazard rate model
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- Shadow Banking
+- Fixed-for-floating swap cash flows and valuation
+- Arbitrage Pricing Theory and multifactor models
+- Security Market Line and beta measurement
+- International arbitrage and covered interest rate parity
+- Case Study
+- Arbitrage opportunities and risk-free profit extraction
+- Interest rate swap pricing and valuation
+- interest rate and currency derivatives
+- Credit default swap pricing and risk-neutral probabilities
+- ESG integration in portfolio management
+- investment grade bonds and ratings
+- Variance swaps and volatility trading strategies
+- Pairs trading and statistical arbitrage strategies
+- Convergence of binomial model to Black-Scholes solution
+- sovereign bonds
+- Delta hedging strategies in options portfolio management
+- survival probability estimation
+- Binomial option pricing model with multiple time steps
+- high yield debt and default risk
+- credit default swap
+- cdx index trading
+- Shadow banking system and regulatory arbitrage
+- floating rate bonds
+- American option pricing in binomial trees
+- fixed income etfs
+- sovereign debt issuers
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Capital Structure
+- Delta hedging and the replication argument
+- Cross-currency basis swaps and funding
+- Market portfolio and risk-free rate assumptions
+- credit risk transfer mechanisms
+- CDX North American CDS index
+tags:
+- binomial-model
+- credit-default-swaps
+- pairs-trading
+- sovereign-debt
+- capm
+- credit-default-swap
+- case-study
+- apt
+- factor-models
+- recovery-rate
+- credit-risk
+- efficient-market
+- duration-convexity
+- solution
+- credit_market
+- exchange-rate
+- investment-banking
+- cdx_index
+- corporate-bonds
+- wholesale-funding
+- etfs
+- cds
+- credit-spreads
+- collateralized-debt-obligations
+- sofr
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- sovereign_bonds
+- capital-structure
+- shadow-banking
+- greeks
+- high-yield-bonds
+- fixed_income
+- exchange-rates
+- sovereign-bonds
+- fed-funds
+- quantitative-implementation
+- treasury-bonds
+- hazard_rate
+- arbitrage
+- emerging-markets
+- distressed-debt
+title: Credit Market Session 2
 ---
 
 # Credit Market Session 2

@@ -1,20 +1,45 @@
 ---
-tags:
-  - black_model
-  - bond_price_options
-  - european_swaptions
-  - option_pricing
-  - yield_curve
 aliases:
-  - Caps/Floors
-  - European Swaptions
-  - Options on Bond Prices
+- Caps/Floors
+- European Swaptions
+- Options on Bond Prices
 key_concepts:
-  - Black model
-  - Bond price options
-  - Forward bond price
-  - Price volatility
-  - Yield curve construction
+- Black model
+- Bond price options
+- Forward bond price
+- Price volatility
+- Yield curve construction
+- Equity valuation and analysis
+- Dividend discount models
+- Foreign exchange markets
+- Currency derivatives
+- Bond pricing and yield analysis
+- Duration and convexity
+- Black-Scholes option pricing model
+- Continuous-time finance
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Value at risk and stress testing
+- Portfolio risk metrics
+- Options pricing and payoff structures
+tags:
+- equity
+- yield_curve
+- arbitrage
+- hedge_funds
+- structured_finance
+- option_pricing
+- interest_rates
+- stochastic_calculus
+- bond_price_options
+- black_model
+- fx
+- bonds
+- black_scholes
+- volatility
+- swaps
 ---
 
 # 6.1  BLACK MODELS FOR BOND PRICE OPTIONS, CAPS/FLOORS, AND EUROPEAN SWAPTIONS  

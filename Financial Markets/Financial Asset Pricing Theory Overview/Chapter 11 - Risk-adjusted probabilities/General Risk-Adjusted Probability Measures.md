@@ -1,19 +1,23 @@
 ---
 tags:
-  - derivative_pricing
-  - girsanov_theorem
-  - martingale
-  - numeraire
-  - risk_adjusted_probability
+- apt
+- delta
+- derivatives-pricing
+- fixed_income
+- martingale
+- risk-management
+- risk-neutral
+- theta
+- var
+- zero-coupon
 aliases:
-  - General Risk-Adjusted Probability
-  - Risk-Adjusted Measures
+- General Risk-Adjusted Probability
+- Risk-Adjusted Measures
 key_concepts:
-  - Law of Iterated Expectations
-  - Pricing condition and martingale
-  - Radon-Nikodym derivative
-  - Risk-neutral probability measure
-  - Zero-coupon bond as numeraire
+- Risk-neutral measures and martingale pricing
+- Bond pricing and fixed income securities valuation
+- Value at Risk and tail risk measurement
+- Options Greeks and sensitivity analysis
 ---
 
 # 11.5 General risk-adjusted probability measures  

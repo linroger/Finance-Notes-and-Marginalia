@@ -1,20 +1,45 @@
 ---
-tags:
-  - bond_pricing
-  - bsm_model
-  - callable_bonds
-  - embedded_options
-  - european_style_option
 aliases:
-  - Bank of America bond
-  - BoA bonds
-  - Embedded call option
+- Bank of America bond
+- BoA bonds
+- Embedded call option
 key_concepts:
-  - BSM pricing approach
-  - Callable bond provisions
-  - Effective maturity duration
-  - Embedded bond call options
-  - European-style option pricing
+- BSM pricing approach
+- Callable bond provisions
+- Effective maturity duration
+- Embedded bond call options
+- European-style option pricing
+- Equity valuation and analysis
+- Dividend discount models
+- Fixed income securities
+- Interest rate derivatives
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Black-Scholes option pricing model
+- Continuous-time finance
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Futures contracts and forward pricing
+tags:
+- european_style_option
+- equity
+- bsm_model
+- cds
+- bond_pricing
+- interest_rates
+- valuation
+- fixed_income
+- embedded_options
+- fx
+- trading
+- bonds
+- black_scholes
+- volatility
+- callable_bonds
 ---
 
 # 16.1 EMBEDDED BOND CALL OPTIONS  

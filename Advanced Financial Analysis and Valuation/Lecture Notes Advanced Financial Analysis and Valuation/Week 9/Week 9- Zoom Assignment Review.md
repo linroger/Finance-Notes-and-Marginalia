@@ -1,38 +1,73 @@
 ---
-title: "Week 9- Zoom Assignment Review"
 aliases:
-  - "Zoom Assignment Review"
-  - "ARR"
-  - "CAC"
-  - "SaaS"
-  - "TAM"
-  - "Zoom"
-tags:
-  - aFAV
-  - week9
-  - arr
-  - cac
-  - nopat_margin
-  - roic
-  - saas_valuation
-  - sales_multiple
-  - tam
-  - zoom_valuation
-  - stock-compensation
-  - market-share-analysis
-key_concepts:
-  - ARR x Multiple = Value
-  - Long-term Zoom market share
-  - Sales multiple valuation
-  - TAM, revenue retention, CAC
-  - Valuing SaaS business
-  - Stock-based compensation dilution effects
-  - Enterprise vs SMB customer mix
-  - JPMorgan valuation approach
-  - Unified communications market sizing
-  - ROIC = NOPAT margin x Asset turnover
+- Zoom Assignment Review
+- ARR
+- CAC
+- SaaS
+- TAM
+- Zoom
 cssclasses: academia
-linter-yaml-title-alias: "Week 9- Zoom Assignment Review"
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-2370c9
+key_concepts:
+- ARR x Multiple = Value
+- Investment Banking
+- Long-term Zoom market share
+- Sensitivity analysis in DCF models
+- JPMorgan valuation approach
+- Risk assessment and management
+- Common pitfalls in DCF valuation
+- Discounted Cash Flow valuation methodology
+- Solution
+- Municipal Bonds
+- Unified communications market sizing
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- Portfolio optimization and asset allocation
+- Course Material
+- Case Study
+- Quantitative analysis and modeling
+- Enterprise vs SMB customer mix
+- fundamental valuation methods
+- Valuing SaaS business
+- Free cash flow to equity and firm valuation
+- Stress Testing
+- Terminal value estimation and perpetuity growth
+- Quantitative Implementation
+- Financial markets and instruments
+- TAM, revenue retention, CAC
+- Harvard Business Review
+- Sales multiple valuation
+- ROIC = NOPAT margin x Asset turnover
+- Stock-based compensation dilution effects
+linter-yaml-title-alias: Week 9- Zoom Assignment Review
+tags:
+- tam
+- garch-models
+- market-share-analysis
+- nopat_margin
+- mathematical-finance
+- course-material
+- roic
+- sales_multiple
+- case-study
+- scenario-analysis
+- aFAV
+- zoom_valuation
+- stock-compensation
+- arr
+- week9
+- quantitative-implementation
+- solution
+- saas_valuation
+- investment-banking
+- stress-testing
+- cac
+- dcf-valuation
+- harvard-business-review
+- municipal-bonds
+title: Week 9- Zoom Assignment Review
 ---
 
 Thomas Rauter

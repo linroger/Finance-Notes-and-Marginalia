@@ -1,38 +1,72 @@
 ---
-title: Week 2 Fundamentals Of Forecasting
+aliases:
+- Forecasting Fundamentals
+- Behavioral Biases in Forecasting
+- Inside vs Outside View
 cssclasses:
-  - academia
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-daddfa
+key_concepts:
+- Confirmation bias
+- Behavioral biases in forecasting
+- Industry profit margin
+- Solution
+- After-tax cost of debt and capital structure
+- Competition and market forces
+- Consider range of alternatives
+- WACC for multinational corporations
+- Mean Reversion
+- Ignore base rates
+- Reference class statistics
+- Salience and availability heuristic
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- Base rates and outcomes
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Case Study
+- Inside vs outside view
+- Interest rate swap pricing and valuation
+- Cost of equity estimation using CAPM and other models
+- Weighted Average Cost of Capital calculation
+- Analyst forecast biases
+- Variance swaps and volatility trading strategies
+- Market value weights vs. book value weights
+- regulatory stress testing and risk assessment
+- Stress Testing
+- Forecasting fundamentals
+- Quantitative Implementation
+- Mean reversion in outcomes
+- Vasicek Model
+- Cross-currency basis swaps and funding
+- Anchoring and adjustment
+- Overconfidence in forecasts
 linter-yaml-title-alias: Week 2 Fundamentals Of Forecasting
 tags:
-  - analyst_forecasts
-  - behavioral_biases
-  - forecasting
-  - industry_metrics
-  - inside_view
-  - mean_reversion
-  - outside_view
-  - representativeness_heuristic
-  - financial_modeling
-aliases:
-  - Forecasting Fundamentals
-  - Behavioral Biases in Forecasting
-  - Inside vs Outside View
-key_concepts:
-  - Analyst forecast biases
-  - Base rates and outcomes
-  - Behavioral biases in forecasting
-  - Competition and market forces
-  - Confirmation bias
-  - Consider range of alternatives
-  - Forecasting fundamentals
-  - Ignore base rates
-  - Industry profit margin
-  - Inside vs outside view
-  - Mean reversion in outcomes
-  - Overconfidence in forecasts
-  - Reference class statistics
-  - Salience and availability heuristic
-  - Anchoring and adjustment
+- roe
+- interest-rate-swaps
+- mathematical-finance
+- forecasting
+- behavioral_biases
+- course-material
+- representativeness_heuristic
+- inside_view
+- case-study
+- quantitative-implementation
+- solution
+- wacc
+- stress-testing
+- cost-of-capital
+- mean_reversion
+- industry_metrics
+- analyst_forecasts
+- vasicek-model
+- outside_view
+- financial_modeling
+- mean-reversion
+title: Week 2 Fundamentals Of Forecasting
 ---
 
 # Week 2 Fundamentals Of Forecasting

@@ -1,22 +1,32 @@
 ---
-tags:
-  - currency_swap
-  - eurodollar_futures
-  - fx_swap
-  - interest_rate_risk
-  - swap_contract
 aliases:
-  - Currency Swap
-  - Eurodollar Futures
-  - FX Swap
-  - Hedging Strategy
-  - Swap Value
+- Currency Swap
+- Eurodollar Futures
+- FX Swap
+- Hedging Strategy
+- Swap Value
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-a31cfa
 key_concepts:
-  - Borrowing in foreign currency
-  - Eurodollar futures hedging
-  - Hedging principal amount
-  - Plain vanilla FX swaps
-  - Swap value formula
+- Term structure of interest rates and yield curve modeling
+- Credit risk modeling and default probability estimation
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Portfolio hedging and risk reduction strategies
+tags:
+- credit-risk
+- currency-swaps
+- derivatives-markets
+- fixed-income
+- fixed_income
+- forwards
+- futures
+- fx
+- hedging
+- risk-management
+- swaps
+- yield-curve
 ---
 
 **Teaching Note 3 SwapsFinancial Instruments**

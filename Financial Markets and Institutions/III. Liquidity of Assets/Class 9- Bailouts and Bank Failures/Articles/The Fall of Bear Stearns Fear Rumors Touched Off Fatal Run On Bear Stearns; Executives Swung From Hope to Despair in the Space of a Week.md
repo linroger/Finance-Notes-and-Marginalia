@@ -1,24 +1,35 @@
 ---
+aliases:
+- Alan Schwartz
+- Bear Stearns
+- James Dimon
+- Michael Minikes
+key_concepts:
+- Risk-neutral measures and martingale pricing
+- Bond pricing and fixed income securities valuation
+- Ito's lemma and stochastic calculus applications
+- Monte Carlo simulation for derivatives valuation
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+tags:
+- arbitrage
+- arch
+- calls
+- correlation
+- credit-risk
+- hedging
+- risk-management
+- risk-neutral
+- swaps
+- var
 title: The Fall of Bear Stearns Fear Rumors Touched Off Fatal Run On Bear Stearns;
   Executives Swung From Hope to Despair in the Space of a Week
-tags:
-  - alan_schwartz
-  - bear_stearns_collapse
-  - credit_crisis
-  - financial_crisis
-  - jp_morgan
-aliases:
-  - Alan Schwartz
-  - Bear Stearns
-  - James Dimon
-  - Michael Minikes
-key_concepts:
-  - Bear Stearns stock plunge
-  - Clients withdraw funds
-  - Fragility of trust
-  - Rumors of cash shortage
-  - Trading partner concerns
 ---
+
 
 # The Fall of Bear Stearns Fear Rumors Touched Off Fatal Run On Bear Stearns; Executives Swung From Hope to Despair in the Space of a Week
 

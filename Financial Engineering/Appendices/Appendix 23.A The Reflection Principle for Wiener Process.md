@@ -1,20 +1,95 @@
 ---
-title: Appendix 23. A The Reflection Principle for Wiener Process
-tags:
-  - barrier_probability
-  - brownian_motion
-  - knockout_call
-  - reflection_principle
-  - wiener_process
 aliases:
-  - Brownian Path
-  - Reflection Principle
+- Brownian Path
+- Reflection Principle
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-dc92b1
 key_concepts:
-  - Barrier probability calculation
-  - Brownian path reflection
-  - Down-and-in cash call
-  - Hitting barrier level
-  - Standard normal calculation
+- Barrier probability calculation
+- Deposit Insurance
+- Sovereign risk assessment and country analysis
+- Mean-variance optimization and the efficient frontier
+- Extreme value theory and tail risk modeling
+- Credit risk modeling and default probability estimation
+- Option Greeks and portfolio risk management
+- Risk budgeting and portfolio construction techniques
+- Solution
+- Historical simulation vs. parametric VaR models
+- Credit portfolio diversification and concentration
+- Vega and volatility risk management
+- DV01 calculation and interest rate risk hedging
+- Portfolio immunization strategies
+- Swap spread and credit risk considerations
+- Down-and-in cash call
+- Monte Carlo integration and variance reduction
+- Deposit insurance and systemic risk prevention
+- Monte Carlo VaR for complex portfolios
+- Key rate duration and curve risk
+- Fixed-for-floating swap cash flows and valuation
+- Control variates and importance sampling techniques
+- Theta and time decay modeling
+- Risk-neutral pricing methodology for derivative securities
+- Value at Risk (VaR) methodologies and backtesting
+- Case Study
+- Operational risk quantification and modeling
+- Arbitrage opportunities and risk-free profit extraction
+- Expected Shortfall and coherent risk measures
+- Interest rate swap pricing and valuation
+- Bank liquidity ratios and funding risk management
+- Variance swaps and volatility trading strategies
+- Standard normal calculation
+- Credit exposure measurement and EAD
+- Loss given default and recovery rates
+- Wrong-way risk in derivative transactions
+- Value-at-Risk calculation using historical simulation
+- Quantitative Implementation
+- Gamma and convexity adjustments
+- Credit risk migration matrices and rating transition
+- Brownian path reflection
+- Credit risk modeling and portfolio correlation analysis
+- Backtesting procedures for risk models
+- Credit risk assessment and loan portfolio management
+- Exotic Options
+- Delta hedging and the replication argument
+- Liquidity risk measurement and management
+- Cross-currency basis swaps and funding
+- Hitting barrier level
+- Systemic risk indicators and early warning systems
+- Duration and convexity measures for bond portfolios
+- Global financial stability and systemic risk monitoring
+- Price sensitivity to interest rate changes
+- Modified duration vs. Macaulay duration
+- Brownian motion and Wiener processes in finance
+tags:
+- interest-rate-swaps
+- mathematical-finance
+- financial-modeling
+- brownian-motion
+- case-study
+- greeks
+- value-at-risk
+- credit-risk
+- barrier_probability
+- duration-convexity
+- quantitative-implementation
+- solution
+- brownian_motion
+- stress-testing
+- liquidity-risk
+- systemic-risk
+- exotic-options
+- geometric-brownian-motion
+- deposit-insurance
+- quantitative-finance
+- wiener_process
+- wiener-process
+- expected-shortfall
+- operational-risk
+- knockout_call
+- monte-carlo
+- reflection_principle
+title: Appendix 23. A The Reflection Principle for Wiener Process
 ---
 
 # Appendix 23. A The Reflection Principle for Wiener Process

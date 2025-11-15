@@ -1,24 +1,48 @@
 ---
-linter-yaml-title-alias: 'EXAMPLE: HEDGING WITH FUTURES'
-title: Teaching Note 2-Futures Contracts
-tags:
-  - basis_risk
-  - cme_euro_fx
-  - forward_contracts
-  - futures_contracts
-  - mark_to_market
 aliases:
-  - CME
-  - Forwards
-  - Futures
-  - Hedging
+- CME
+- Forwards
+- Futures
+- Hedging
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-1df873
 key_concepts:
-  - Futures vs Forwards
-  - Margin Call
-  - Mark to Market
-  - Speculating with Futures
-  - Standardization and Liquidity
-  - Stock Index Futures
+- Risk-neutral measures and martingale pricing
+- Bond pricing and fixed income securities valuation
+- Ito's lemma and stochastic calculus applications
+- Monte Carlo simulation for derivatives valuation
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+linter-yaml-title-alias: 'EXAMPLE: HEDGING WITH FUTURES'
+tags:
+- arbitrage
+- arch
+- convexity
+- correlation
+- credit-risk
+- derivatives-pricing
+- duration
+- expected-shortfall
+- fixed_income
+- forwards
+- futures
+- fx
+- garch
+- hedging
+- interest-rate-swaps
+- monte-carlo
+- risk-management
+- risk-neutral
+- stress-testing
+- swaps
+- var
+title: Teaching Note 2-Futures Contracts
 ---
 
 Carry Trade 1](Carry%20Trade%201.md)

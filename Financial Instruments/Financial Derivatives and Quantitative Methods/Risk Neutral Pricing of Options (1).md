@@ -1,31 +1,65 @@
 ---
-cssclasses:
-  - academia
-title: Risk Neutral Pricing of Options
-tags:
-  - american_option
-  - call_option
-  - european_option
-  - intrinsic_value
-  - maturity_date
-  - options
-  - put_option
-  - strike_price
-  - time_value
 aliases:
-  - Option Holder
-  - Option Payoffs
-  - Option Pricing
-  - Option Writer
+- Option Holder
+- Option Payoffs
+- Option Pricing
+- Option Writer
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-876954
 key_concepts:
-  - Derivative assets
-  - Expiration date
-  - Option payoffs
-  - Option types
-  - Underlying asset
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- american-options
+- apt
+- arbitrage
+- arch
+- binomial
+- black-scholes
+- bonds
+- capm
+- cds
+- convexity
+- correlation
+- credit-default-swaps
+- credit-risk
+- delta
+- delta-hedging
+- derivatives-pricing
+- duration
+- european-options
+- exotic-options
+- factor-models
+- fixed_income
+- futures
+- garch
+- greeks
+- hedging
+- interest-rate-swaps
+- options
+- replication
+- risk-management
+- risk-neutral
+- swaps
+- var
+title: Risk Neutral Pricing of Options
 ---
 
- 
 Risk Neutral Pricing of Options | Risk Neutral Pricing]]
 
 # Risk Neutral Pricing of Options

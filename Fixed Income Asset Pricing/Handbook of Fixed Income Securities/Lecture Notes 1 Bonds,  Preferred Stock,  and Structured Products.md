@@ -1,27 +1,135 @@
 ---
 LLM-tagged: 2025-03-10 14:08:26.839000+00:00
-tags:
-  - bonds
-  - cmo
-  - credit_risk
-  - debt_instruments
-  - duration
-  - fixed_income
-  - market_dynamics
-  - oas
-  - prepayment_risk
-  - structured_products
 aliases:
-  - Bonds Lecture
-  - CMO Analysis
-  - Fixed Income
-  - Structured Products
+- Bonds Lecture
+- CMO Analysis
+- Fixed Income
+- Structured Products
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-9c2775
 key_concepts:
-  - CMOs, cash flows
-  - Duration, interest rate changes
-  - OAS, duration, returns
-  - Prepayment risk impacts CMOs
-  - Tranche types, structures
+- Cox-Ross-Rubinstein parameter specification
+- Term structure of interest rates and yield curve shapes
+- Currency hedging strategies
+- Forward exchange rate determination
+- Computational implementation of binomial option pricing
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Commodity markets and pricing dynamics
+- Prepayment risk impacts CMOs
+- Expectations hypothesis and liquidity preference theory
+- Futures contracts and forward pricing
+- Default probability estimation
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- Duration, interest rate changes
+- CDS clearing and central counterparties
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Option sensitivity analysis
+- GARCH models and volatility forecasting
+- CIP deviations and regulatory effects
+- Mergers Acquisitions
+- Equity valuation and analysis
+- Fixed-for-floating swap cash flows and valuation
+- Cross-currency basis and funding spreads
+- Counterparty risk and settlement
+- OAS, duration, returns
+- Balance Of Payments
+- Covered interest rate parity and no-arbitrage
+- Margin requirements and clearing
+- Interest rate swap pricing and valuation
+- Delta, gamma, vega, theta, rho
+- Basel III regulatory framework and capital requirements
+- Credit default swap pricing and risk-neutral probabilities
+- Liquidity crisis and market dysfunction
+- Convergence of binomial model to Black-Scholes solution
+- Interest rate derivatives
+- Fixed income securities
+- Bond pricing and yield analysis
+- Binomial option pricing model with multiple time steps
+- American option pricing in binomial trees
+- Tranche types, structures
+- CMOs, cash flows
+- Credit default swaps and credit risk
+- Parallel and non-parallel shifts in the yield curve
+- Credit risk modeling
+- Duration and convexity
+- Options pricing and payoff structures
+- Dividend discount models
+tags:
+- basel-iii
+- yield-curve
+- binomial-model
+- commodities
+- credit-default-swaps
+- liquidity-crisis
+- balance-of-payments
+- covered-interest-parity
+- collateralized-debt-obligations
+- garch-models
+- mergers-acquisitions
+- interest-rate-swaps
+- credit_risk
+- mathematical-finance
+- course-material
+- 2008-financial-crisis
+- bank-regulation
+- capital-structure
+- market-risk
+- municipal-bonds
+- case-study
+- apt
+- bailout
+- greeks
+- high-yield-bonds
+- credit-analysis
+- value-at-risk
+- factor-models
+- fixed_income
+- debt_instruments
+- exchange-rates
+- valuation
+- hedge-funds
+- structured_products
+- credit-risk
+- leveraged-buyouts
+- efficient-market
+- quantitative-implementation
+- duration-convexity
+- solution
+- trilemma
+- private-equity
+- real-estate
+- treasury-bonds
+- structured_finance
+- investment-banking
+- equity
+- interest_rates
+- prepayment_risk
+- stress-testing
+- infrastructure
+- liquidity-risk
+- algorithmic-trading
+- corporate-bonds
+- systemic-risk
+- exotic-options
+- distressed-debt
+- mbs-cmos
+- credit
+- deposit-insurance
+- implied-volatility
+- cmo
+- swaptions
+- syndicated-loans
+- oas
+- dcf-valuation
+- harvard-business-review
+- duration
+- expected-shortfall
+- cds
 ---
 
 Here is a summarized version of the text, tagged with relevant keywords:

@@ -1,3 +1,16 @@
+---
+key_concepts:
+- Equity valuation and analysis
+- Dividend discount models
+- Structured products and CDOs
+- Credit derivatives
+tags:
+- equity
+- portfolio-theory
+- portfolio
+- valuation
+- structured_finance
+---
 %% Begin Waypoint %%
 - **Chapter 11 - Individual Investors-A Survey of Modern Investment Theory**
 	- A Brief History of Investment Thought

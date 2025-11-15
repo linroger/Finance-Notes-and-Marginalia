@@ -1,33 +1,129 @@
 ---
+aliases:
+- Overview of Financial Intermediation
+- Financial System Introduction
+- Financial Markets and Institutions Introduction
 cssclasses: academia
-title: Introduction to Financial Intermediation
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-00f697
+key_concepts:
+- Financial leverage consequences
+- Cox-Ross-Rubinstein parameter specification
+- Extensions to multi-factor CAPM models
+- Term structure of interest rates and yield curve shapes
+- Duration and convexity analysis for bond portfolio management
+- Active portfolio management and performance attribution
+- Computational implementation of binomial option pricing
+- Collateralized Debt Obligations
+- Commodity markets and pricing dynamics
+- Capital Asset Pricing Model and beta estimation
+- Risk budgeting and portfolio construction techniques
+- Market information asymmetry
+- Expectations hypothesis and liquidity preference theory
+- Capital Asset Pricing Model and expected returns
+- Yield curve fitting and interpolation methods
+- fixed income risk measurement
+- Securitization impacts
+- forward commitments and hedging
+- Spot rates vs. forward rates modeling
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- 2008 financial crisis and systemic risk analysis
+- 'Structured products: CDOs, CLOs, and credit derivatives'
+- Shadow Banking
+- CDO tranche pricing and waterfall mechanics
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Security Market Line and beta measurement
+- Risk redistribution mechanisms
+- commercial banking operations and management
+- Net interest margin analysis and banking profitability
+- Balance Of Payments
+- Interest rate swap pricing and valuation
+- ESG integration in portfolio management
+- Variance swaps and volatility trading strategies
+- Convergence of binomial model to Black-Scholes solution
+- Intertemporal consumption adjustment
+- Delta hedging strategies in options portfolio management
+- Federal Deposit Insurance Corporation
+- Binomial option pricing model with multiple time steps
+- asset transformation and structured finance
+- Great Recession lessons
+- Shadow banking system and regulatory arbitrage
+- American option pricing in binomial trees
+- Shadow banking system
+- Capital Structure
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Parallel and non-parallel shifts in the yield curve
+- High Frequency Trading
+- Cross-currency basis swaps and funding
+- Financial system complexity and fragility
+- Currency hedging strategies for global portfolios
+- liquidity measurement and management
+- Market portfolio and risk-free rate assumptions
+- alternative investment strategies
+- Financial contracts and securities
+- Public intervention rationale
+- Empirical tests and anomalies in CAPM
 linter-yaml-title-alias: Introduction to Financial Intermediation
 tags:
-  - financial_intermediation
-  - financial_contracts
-  - risk_management
-  - financial_system
-  - financial_crisis
-  - great_recession
-  - financial_innovation
-  - banking_regulation
-  - securitization
-  - leverage
-aliases:
-  - Overview of Financial Intermediation
-  - Financial System Introduction
-  - Financial Markets and Institutions Introduction
-key_concepts:
-  - Financial contracts and securities
-  - Risk redistribution mechanisms
-  - Intertemporal consumption adjustment
-  - Financial system complexity and fragility
-  - Market information asymmetry
-  - Public intervention rationale
-  - Shadow banking system
-  - Securitization impacts
-  - Financial leverage consequences
-  - Great Recession lessons
+- yield-curve
+- binomial-model
+- commodities
+- 2008-financial-crisis
+- cdo
+- capm
+- commercial-banking
+- case-study
+- apt
+- bailout
+- value-at-risk
+- credit-risk
+- efficient-market
+- duration-convexity
+- solution
+- banking
+- investment-banking
+- financial-crisis
+- wholesale-funding
+- deposit-insurance
+- syndicated-loans
+- ltcm
+- tarp
+- credit-analysis
+- risk-management
+- balance-of-payments
+- collateralized-debt-obligations
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- balance-sheet
+- course-material
+- capital-structure
+- rating-agencies
+- shadow-banking
+- audit
+- high-frequency-trading
+- lehman-brothers
+- amortization
+- greeks
+- exchange-rates
+- hedge-funds
+- quantitative-implementation
+- treasury-bonds
+- securitization
+- infrastructure
+- liquidity-risk
+- financial-technology
+- distressed-debt
+- mbs-cmos
+- financial-intermediation
+- harvard-business-review
+- duration
+title: Introduction to Financial Intermediation
 ---
 
 # Introduction

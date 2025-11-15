@@ -1,22 +1,107 @@
 ---
-tags:
-  - forward_swaps
-  - interest_rates
-  - mbs
-  - payer_swaption
-  - swaptions
 aliases:
-  - Chapter 39
-  - Forward Swap
-  - Mortgage-Backed Securities
-  - Payer Swaption
+- Chapter 39
+- Forward Swap
+- Mortgage-Backed Securities
+- Payer Swaption
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-7f501a
 key_concepts:
-  - Cash market swap rates
-  - Greeks hedge fixed income
-  - Long forward swap known rate
-  - MBS and interest rate changes
-  - Payer swaption maximum swap rate
+- Apt
+- Extensions to multi-factor CAPM models
+- Term structure of interest rates and yield curve shapes
+- Treasury Futures
+- Duration and convexity analysis for bond portfolio management
+- Active portfolio management and performance attribution
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Option Greeks and portfolio risk management
+- maturity date in CDS
+- Capital Asset Pricing Model and beta estimation
+- Risk budgeting and portfolio construction techniques
+- Expectations hypothesis and liquidity preference theory
+- Capital Asset Pricing Model and expected returns
+- Yield curve fitting and interpolation methods
+- future value and compounding
+- Credit spread decomposition and hazard rates
+- CDS clearing and central counterparties
+- fixed income risk measurement
+- DV01 calculation and interest rate risk hedging
+- forward commitments and hedging
+- CDS-Bond basis and arbitrrage opportunities
+- Spot rates vs. forward rates modeling
+- Swap spread and credit risk considerations
+- Greeks hedge fixed income
+- Payer swaption maximum swap rate
+- GARCH models and volatility forecasting
+- Mathematical Finance
+- option sensitivity analysis and hedging
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Security Market Line and beta measurement
+- pass-through securities structure
+- Case Study
+- Interest rate swap pricing and valuation
+- interest rate and currency derivatives
+- Credit default swap pricing and risk-neutral probabilities
+- ESG integration in portfolio management
+- present value and discounting methods
+- zero-coupon bond pricing and yields
+- Long forward swap known rate
+- Variance swaps and volatility trading strategies
+- Delta hedging strategies in options portfolio management
+- Gamma and convexity adjustments
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Delta hedging and the replication argument
+- Parallel and non-parallel shifts in the yield curve
+- MBS and interest rate changes
+- Cash market swap rates
+- Currency hedging strategies for global portfolios
+- Cross-currency basis swaps and funding
+- Market portfolio and risk-free rate assumptions
+- Empirical tests and anomalies in CAPM
+tags:
+- yield-curve
+- treasury-futures
+- credit-default-swaps
+- collateralized-debt-obligations
+- garch-models
+- payer_swaption
+- interest-rate-swaps
+- mathematical-finance
+- course-material
+- capm
+- case-study
+- apt
+- greeks
+- caps-floors
+- value-at-risk
+- dv01
+- exchange-rates
+- bond-futures
+- hedge-funds
+- credit-risk
+- quantitative-implementation
+- duration-convexity
+- solution
+- treasury-bonds
+- mbs
+- investment-banking
+- interest_rates
+- forward_swaps
+- option-pricing
+- exotic-options
+- mbs-cmos
+- swaptions
+- delta-hedging
+- dcf-valuation
+- harvard-business-review
+- duration
+- term-structure
 ---
+
 # Swaptions, Forward Swaps, and MBS  
 
 # Aims  

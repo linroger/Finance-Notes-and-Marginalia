@@ -1,22 +1,42 @@
 ---
-tags:
-  - binomial_tree
-  - convexity
-  - interest_rates
-  - volatility
-  - zero_coupon_bonds
 aliases:
-  - Bond Pricing
-  - Jensen's Inequality
-  - Volatility and Convexity
+- Bond Pricing
+- Jensen's Inequality
+- Volatility and Convexity
 key_concepts:
-  - Binomial tree
-  - Bond price curve
-  - Forward rates
-  - Interest rate volatility
-  - Jensen's inequality
-  - Short-term rates
-  - Zero coupon bonds
+- Binomial tree
+- Bond price curve
+- Forward rates
+- Interest rate volatility
+- Jensen's inequality
+- Short-term rates
+- Zero coupon bonds
+- Foreign exchange markets
+- Currency derivatives
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Value at risk and stress testing
+- Portfolio risk metrics
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Binomial option pricing
+- Lattice models and recombination
+- Interest rate modeling
+tags:
+- zero_coupon_bonds
+- fx
+- binomial_tree
+- binomial
+- volatility
+- bonds
+- futures
+- risk_management
+- options
+- mathematical-finance
+- convexity
+- interest_rates
 ---
 
 # 8.2 VOLATILITY AND CONVEXITY  

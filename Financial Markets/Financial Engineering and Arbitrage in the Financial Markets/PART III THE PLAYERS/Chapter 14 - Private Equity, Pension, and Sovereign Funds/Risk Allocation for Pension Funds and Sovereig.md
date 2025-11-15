@@ -1,20 +1,45 @@
 ---
-tags:
-  - defined_benefit
-  - investment_strategy
-  - pension_funds
-  - risk_allocation
-  - sovereign_funds
 aliases:
-  - Pension Fund Risk
-  - Risk Management
-  - Sovereign Fund Risk
+- Pension Fund Risk
+- Risk Management
+- Sovereign Fund Risk
 key_concepts:
-  - Alternative investments
-  - Defined benefit plans
-  - Pension fund investment
-  - Risk budgeting approach
-  - Sovereign fund investments
+- Alternative investments
+- Defined benefit plans
+- Pension fund investment
+- Risk budgeting approach
+- Sovereign fund investments
+- Equity valuation and analysis
+- Dividend discount models
+- Credit risk modeling
+- Default probability estimation
+- Fixed income securities
+- Interest rate derivatives
+- Derivatives pricing theory
+- Risk-neutral valuation
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Value at risk and stress testing
+- Portfolio risk metrics
+- Alternative investment strategies
+- Hedge fund replication
+- Interest rate modeling
+tags:
+- equity
+- credit
+- defined_benefit
+- sovereign_funds
+- hedge_funds
+- interest_rates
+- portfolio-theory
+- investment_strategy
+- risk_allocation
+- fixed_income
+- volatility
+- private_equity
+- pension_funds
+- derivatives
+- options
 ---
 
 # 14.2 RISK ALLOCATION FOR PENSION FUNDS AND SOVEREIGN FUNDS  

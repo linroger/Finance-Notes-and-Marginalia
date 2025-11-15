@@ -1,19 +1,44 @@
 ---
-tags:
-  - bond_valuation
-  - coupon_bond
-  - default_probability
-  - no_arbitrage
-  - treasury_notes
 aliases:
-  - ABC Corp Bond
-  - Constant Default Model
+- ABC Corp Bond
+- Constant Default Model
 key_concepts:
-  - Bond valuation
-  - Constant default probability
-  - Coupon payment
-  - Cumulative survival probability
-  - Default-free yield curve
+- Bond valuation
+- Constant default probability
+- Coupon payment
+- Cumulative survival probability
+- Default-free yield curve
+- Equity valuation and analysis
+- Dividend discount models
+- Credit risk modeling
+- Default probability estimation
+- Fixed income securities
+- Interest rate derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+tags:
+- equity
+- default_probability
+- credit
+- arbitrage
+- no_arbitrage
+- cds
+- hedge_funds
+- interest_rates
+- valuation
+- fixed_income
+- treasury_notes
+- trading
+- bonds
+- coupon_bond
+- bond_valuation
 ---
 
 # 7.2 A CONSTANT DEFAULT PROBABILITY MODEL  

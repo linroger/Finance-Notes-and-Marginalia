@@ -1,22 +1,45 @@
 ---
-tags:
-  - floating_rate_notes
-  - inflation_risk
-  - municipal_securities
-  - nominal_bonds
-  - treasury_securities
-  - us_markets
 aliases:
-  - FRNs
-  - Treasury Bonds
-  - US Debt
+- FRNs
+- Treasury Bonds
+- US Debt
 key_concepts:
-  - Debt instruments in US
-  - Floating-rate notes (FRNs)
-  - Inflation risk measurement
-  - Municipal securities
-  - Nominal vs. real return
-  - Treasury securities
+- Debt instruments in US
+- Floating-rate notes (FRNs)
+- Inflation risk measurement
+- Municipal securities
+- Nominal vs. real return
+- Treasury securities
+- Equity valuation and analysis
+- Dividend discount models
+- Credit risk modeling
+- Default probability estimation
+- Fixed income securities
+- Interest rate derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Value at risk and stress testing
+- Portfolio risk metrics
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+tags:
+- interest_rates
+- equity
+- regulatory-framework
+- credit
+- fixed_income
+- municipal_securities
+- trading
+- treasury_securities
+- bonds
+- nominal_bonds
+- risk_management
+- options
+- floating_rate_notes
+- us_markets
+- inflation_risk
 ---
 
 # 0.2 US MARKETS  

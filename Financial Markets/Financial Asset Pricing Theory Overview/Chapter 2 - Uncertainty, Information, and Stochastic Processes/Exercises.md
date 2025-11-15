@@ -1,14 +1,13 @@
 ---
 tags:
-  - '#asset_pricing'
-  - '#asset_returns'
-  - '#brownian_motion'
-  - '#geometric_brownian_motion'
-  - '#law_of_iterated_expectations'
-  - '#ordinary_differential_equation'
-  - '#return_variance'
-  - '#stochastic_process'
-  - '#two_period_economy'
+- apt
+- correlation
+- credit-risk
+- risk-management
+- var
+key_concepts:
+- Value at Risk and tail risk measurement
+- Volatility modeling and forecasting techniques
 ---
 # 2.8 Exercises  
 

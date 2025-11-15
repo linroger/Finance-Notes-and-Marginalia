@@ -1,25 +1,36 @@
 ---
-cssclasses:
-  - academia
-title: SIVS An Oasis of Calm in the Sub Prime Maelstrom
-tags:
-  - cdos
-  - rmbs
-  - sivs
-  - structured_finance
-  - subprime_mortgages
 aliases:
-  - SIV-lite
-  - SIVs
-  - Structured Investment Vehicles
+- SIV-lite
+- SIVs
+- Structured Investment Vehicles
+cssclasses:
+- academia
 key_concepts:
-  - Aaa-rated assets
-  - CDOs of ABS
-  - RMBS exposure
-  - high-grade structured credit
-  - mark-to-market procedures
-  - maturity transformation
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Ito's lemma and stochastic calculus applications
+- Credit risk modeling and default probability estimation
+- Interest rate caps, floors, and swaptions
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- abs
+- arch
+- bonds
+- convexity
+- correlation
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- fixed_income
+- hedging
+- mbs
+- options
+- risk-management
+title: SIVS An Oasis of Calm in the Sub Prime Maelstrom
 ---
+
 
 # SIVS An Oasis of Calm in the Sub Prime Maelstrom
 

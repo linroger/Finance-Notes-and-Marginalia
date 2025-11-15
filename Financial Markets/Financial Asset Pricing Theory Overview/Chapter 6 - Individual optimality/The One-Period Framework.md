@@ -1,21 +1,21 @@
 ---
 tags:
-  - budget_constraints
-  - consumption_plan
-  - one_period_framework
-  - state_price_deflator
-  - time_additive_utility
+- apt
+- arbitrage
+- delta
+- derivatives-pricing
+- gamma
+- risk-management
+- theta
+- var
 aliases:
-  - Consumption Framework
-  - One-Period Model
+- Consumption Framework
+- One-Period Model
 key_concepts:
-  - Budget constraints
-  - Initial wealth
-  - Optimal consumption plan
-  - State-dependent consumption
-  - State-price deflator
-  - Time 0 and 1
-  - Time-additive utility
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
+- Options Greeks and sensitivity analysis
 ---
 
 # 6.2 The one-period framework  

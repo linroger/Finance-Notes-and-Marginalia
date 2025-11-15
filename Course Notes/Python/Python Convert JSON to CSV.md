@@ -1,23 +1,96 @@
 ---
-title: Python Convert JSON to CSV
-source: https://blog.enterprisedna.co/python-convert-json-to-csv/
-description:
-tags:
-  - csv_conversion
-  - data_analysis
-  - json_to_csv
-  - pandas
-  - python
 aliases:
-  - CSV conversion
-  - JSON conversion
-  - JSON to CSV
+- CSV conversion
+- JSON conversion
+- JSON to CSV
+description: null
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-93e2cc
 key_concepts:
-  - CSV file format
-  - Convert JSON to CSV
-  - JSON file format
-  - Pandas library usage
-  - Python data conversion
+- Deposit Insurance
+- Sovereign risk assessment and country analysis
+- Mean-variance optimization and the efficient frontier
+- Pandas library usage
+- Extreme value theory and tail risk modeling
+- Credit risk modeling and default probability estimation
+- Debt capacity analysis in LBO transactions
+- Risk budgeting and portfolio construction techniques
+- Solution
+- CSV file format
+- JSON file format
+- Credit portfolio diversification and concentration
+- Historical simulation vs. parametric VaR models
+- Python data conversion
+- DV01 calculation and interest rate risk hedging
+- Portfolio immunization strategies
+- Swap spread and credit risk considerations
+- Exit strategies and return maximization
+- Monte Carlo integration and variance reduction
+- GARCH models and volatility forecasting
+- Deposit insurance and systemic risk prevention
+- Monte Carlo VaR for complex portfolios
+- Stress testing and scenario analysis
+- Key rate duration and curve risk
+- Fixed-for-floating swap cash flows and valuation
+- LBO financing sources and covenant structures
+- Control variates and importance sampling techniques
+- Value at Risk (VaR) methodologies and backtesting
+- Risk-neutral pricing methodology for derivative securities
+- Case Study
+- Operational risk quantification and modeling
+- Arbitrage opportunities and risk-free profit extraction
+- Convert JSON to CSV
+- Expected Shortfall and coherent risk measures
+- Interest rate swap pricing and valuation
+- Bank liquidity ratios and funding risk management
+- Variance swaps and volatility trading strategies
+- Credit exposure measurement and EAD
+- Loss given default and recovery rates
+- Wrong-way risk in derivative transactions
+- Value-at-Risk calculation using historical simulation
+- Quantitative Implementation
+- Credit risk migration matrices and rating transition
+- Credit risk modeling and portfolio correlation analysis
+- Backtesting procedures for risk models
+- Credit risk assessment and loan portfolio management
+- Leveraged Buyout financial structures and returns
+- Liquidity risk measurement and management
+- Cross-currency basis swaps and funding
+- Duration and convexity measures for bond portfolios
+- Systemic risk indicators and early warning systems
+- Global financial stability and systemic risk monitoring
+- Price sensitivity to interest rate changes
+- Modified duration vs. Macaulay duration
+- Equity returns and value creation mechanisms
+source: https://blog.enterprisedna.co/python-convert-json-to-csv/
+tags:
+- financial-analysis
+- python
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- financial-modeling
+- data_analysis
+- case-study
+- value-at-risk
+- csv_conversion
+- leveraged-buyouts
+- credit-risk
+- quantitative-implementation
+- duration-convexity
+- solution
+- stress-testing
+- liquidity-risk
+- systemic-risk
+- deposit-insurance
+- quantitative-finance
+- pandas
+- expected-shortfall
+- operational-risk
+- json_to_csv
+- monte-carlo
+title: Python Convert JSON to CSV
 ---
 
 # Python Convert JSON to CSV

@@ -1,3 +1,92 @@
+---
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-b7a54b
+key_concepts:
+- Apt
+- Term structure of interest rates and yield curve shapes
+- Stochastic calculus in financial modeling
+- Treasury Bonds
+- Collateralized Debt Obligations
+- Option Greeks and portfolio risk management
+- Currency derivatives
+- Expectations hypothesis and liquidity preference theory
+- Solution
+- Historical simulation vs. parametric VaR models
+- Interest rate swaps and term structure
+- Yield curve fitting and interpolation methods
+- Vega and volatility risk management
+- Portfolio immunization strategies
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Option sensitivity analysis
+- GARCH models and volatility forecasting
+- Foreign exchange markets
+- Liquidity and price discovery
+- Monte Carlo VaR for complex portfolios
+- Key rate duration and curve risk
+- Equity valuation and analysis
+- Fixed-for-floating swap cash flows and valuation
+- Value at Risk (VaR) methodologies and backtesting
+- Theta and time decay modeling
+- Interest rate swap pricing and valuation
+- Credit derivatives
+- Delta, gamma, vega, theta, rho
+- Market microstructure and trading
+- Structured products and CDOs
+- Variance swaps and volatility trading strategies
+- Interest rate derivatives
+- Derivatives pricing theory
+- Fixed income securities
+- Bond pricing and yield analysis
+- Quantitative Implementation
+- Gamma and convexity adjustments
+- Risk-neutral valuation
+- Delta hedging and the replication argument
+- Parallel and non-parallel shifts in the yield curve
+- Cross-currency basis swaps and funding
+- Duration and convexity measures for bond portfolios
+- Delta hedging and Greeks
+- Basis swaps and cross-currency swaps
+- Price sensitivity to interest rate changes
+- Modified duration vs. Macaulay duration
+- Duration and convexity
+- Options pricing and payoff structures
+- Dividend discount models
+tags:
+- yield-curve
+- fx
+- swaps
+- stochastic-calculus
+- collateralized-debt-obligations
+- derivatives
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- trading
+- pairs-trading
+- capital-structure
+- apt
+- bonds
+- greeks
+- value-at-risk
+- fixed_income
+- valuation
+- options
+- currency-swaps
+- quantitative-implementation
+- duration-convexity
+- solution
+- treasury-bonds
+- structured_finance
+- equity
+- stress-testing
+- stochastic_calculus
+- portfolio-theory
+- volatility
+- regulatory-framework
+---
+
 # Inflation-Indexed Bonds: Theory, Market Mechanics, and Trading Strategies
 
 ## The analytical machinery behind TIPS pricing has evolved significantly

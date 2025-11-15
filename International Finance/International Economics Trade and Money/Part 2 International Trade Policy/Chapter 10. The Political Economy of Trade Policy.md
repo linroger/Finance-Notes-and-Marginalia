@@ -1,3 +1,19 @@
+---
+key_concepts:
+- Value at risk and stress testing
+- Portfolio risk metrics
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Credit risk modeling
+- Default probability estimation
+- Bond pricing and yield analysis
+- Duration and convexity
+tags:
+- risk_management
+- options
+- credit
+- bonds
+---
 # CHAPTER 10  
 
 # The Political Economy of Trade Policy  

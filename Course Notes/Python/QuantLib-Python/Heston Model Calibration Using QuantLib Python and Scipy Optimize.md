@@ -1,25 +1,103 @@
 ---
-title: Heston Model Calibration Using QuantLib Python and Scipy Optimize
-tags:
-  - heston_model
-  - option_pricing
-  - parameter_calibration
-  - quantlib_python
-  - scipy_optimize
 aliases:
-  - Heston Calibration
-  - Model Calibration
-  - QuantLib Calibration
-  - Scipy Optimization
+- Heston Calibration
+- Model Calibration
+- QuantLib Calibration
+- Scipy Optimization
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-1486e0
 key_concepts:
-  - Differential evolution
-  - Heston model
-  - Least squares method
-  - Levenberg-Marquardt solver
-  - Local minima solvers
-  - Parameter calibration methods
-  - QuantLib Python
-  - Scipy Optimize package
+- Carry trades and momentum in FX markets
+- Term structure of interest rates and yield curve shapes
+- Sovereign risk assessment and country analysis
+- Mean-variance optimization and the efficient frontier
+- Extreme value theory and tail risk modeling
+- Credit risk modeling and default probability estimation
+- Option Greeks and portfolio risk management
+- Risk budgeting and portfolio construction techniques
+- Expectations hypothesis and liquidity preference theory
+- Historical simulation vs. parametric VaR models
+- Yield curve fitting and interpolation methods
+- QuantLib Python
+- Vega and volatility risk management
+- DV01 calculation and interest rate risk hedging
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- Monte Carlo integration and variance reduction
+- GARCH models and volatility forecasting
+- Deposit insurance and systemic risk prevention
+- Monte Carlo VaR for complex portfolios
+- Stress testing and scenario analysis
+- Fixed-for-floating swap cash flows and valuation
+- Least squares method
+- Course Material
+- Currency risk management and hedging
+- Forward rates and interest rate parity
+- Control variates and importance sampling techniques
+- Theta and time decay modeling
+- Risk-neutral pricing methodology for derivative securities
+- Value at Risk (VaR) methodologies and backtesting
+- Case Study
+- Operational risk quantification and modeling
+- Exchange rate determination and PPP theory
+- Arbitrage opportunities and risk-free profit extraction
+- Expected Shortfall and coherent risk measures
+- Interest rate swap pricing and valuation
+- Bank liquidity ratios and funding risk management
+- Scipy Optimize package
+- Variance swaps and volatility trading strategies
+- Differential evolution
+- Heston model
+- Value-at-Risk calculation using historical simulation
+- Local minima solvers
+- Gamma and convexity adjustments
+- Credit risk migration matrices and rating transition
+- Levenberg-Marquardt solver
+- Credit risk modeling and portfolio correlation analysis
+- Backtesting procedures for risk models
+- Credit risk assessment and loan portfolio management
+- Delta hedging and the replication argument
+- Parallel and non-parallel shifts in the yield curve
+- Liquidity risk measurement and management
+- Cross-currency basis swaps and funding
+- Systemic risk indicators and early warning systems
+- Global financial stability and systemic risk monitoring
+- Parameter calibration methods
+- Currency markets and foreign exchange trading
+tags:
+- financial-analysis
+- yield-curve
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- course-material
+- parameter_calibration
+- financial-modeling
+- heston_model
+- case-study
+- greeks
+- option_pricing
+- value-at-risk
+- exchange-rates
+- credit-risk
+- heston-model
+- quantitative-implementation
+- duration-convexity
+- solution
+- stress-testing
+- scipy_optimize
+- infrastructure
+- liquidity-risk
+- systemic-risk
+- deposit-insurance
+- quantitative-finance
+- quantlib_python
+- expected-shortfall
+- operational-risk
+- monte-carlo
+title: Heston Model Calibration Using QuantLib Python and Scipy Optimize
 ---
 
 # Heston Model Calibration Using QuantLib Python and Scipy Optimize

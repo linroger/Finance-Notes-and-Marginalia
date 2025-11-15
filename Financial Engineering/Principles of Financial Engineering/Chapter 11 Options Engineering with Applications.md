@@ -1,8 +1,71 @@
 ---
-title: "Options Engineering with Applications"
+category: Principles of Financial Engineering
 chapter: 11
-subject: "Financial Engineering"
-category: "Principles of Financial Engineering"
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-ded3c7
+key_concepts:
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Monte Carlo simulation for derivatives valuation
+- Partial differential equations in financial modeling
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility smile, skew, and surface modeling
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+subject: Financial Engineering
+tags:
+- abs
+- american-options
+- apt
+- arbitrage
+- arch
+- barrier-options
+- black-scholes
+- bonds
+- caps
+- cds
+- commodities
+- convexity
+- credit-default-swaps
+- credit-risk
+- default-probability
+- delta
+- delta-hedging
+- derivatives-pricing
+- duration
+- exotic-options
+- factor-models
+- fixed_income
+- floors
+- futures
+- gamma
+- garch
+- greeks
+- hedging
+- implied-volatility
+- interest-rate-swaps
+- monte-carlo
+- no-arbitrage
+- options
+- pde
+- risk-management
+- risk-neutral
+- stress-testing
+- swaps
+- term-structure
+- var
+- yield-curve
+title: Options Engineering with Applications
 ---
 
 # OPTIONS ENGINEERING WITH APPLICATIONS  

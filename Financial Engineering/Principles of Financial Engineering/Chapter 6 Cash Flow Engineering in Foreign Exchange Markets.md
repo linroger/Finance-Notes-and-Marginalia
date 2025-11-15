@@ -1,16 +1,65 @@
 ---
-id: principles_of_financial_engineering_ch6
-title: "Ch. 6 Cash Flow Engineering in Foreign Exchange Markets"
 category: financial_engineering
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-afb69e
+id: principles_of_financial_engineering_ch6
+key_concepts:
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+market_context: Written in 1997-1998 context
+status: processed
 subject: derivatives
 tags:
-  - forward_contracts
-  - fx_markets
-  - synthetic_instruments
-  - cash_flow_engineering
-  - currency_swaps
-status: processed
-market_context: "Written in 1997-1998 context"
+- apt
+- arbitrage
+- arch
+- bonds
+- capm
+- cds
+- convexity
+- correlation
+- counterparty-risk
+- credit-default-swaps
+- credit-risk
+- currency-swaps
+- default-probability
+- delta
+- derivatives-pricing
+- duration
+- factor-models
+- fixed_income
+- forwards
+- futures
+- fx
+- garch
+- greeks
+- hedging
+- interest-rate-swaps
+- no-arbitrage
+- options
+- replication
+- rho
+- risk-management
+- risk-neutral
+- swaps
+- term-structure
+- var
+- yield-curve
+- zero-coupon
+title: Ch. 6 Cash Flow Engineering in Foreign Exchange Markets
 ---
 
 # Chapter 6: Cash Flow Engineering in Foreign Exchange Markets

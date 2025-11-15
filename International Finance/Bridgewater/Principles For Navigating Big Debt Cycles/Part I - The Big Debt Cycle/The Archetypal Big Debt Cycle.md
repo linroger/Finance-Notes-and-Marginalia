@@ -1,22 +1,47 @@
 ---
-title: The Archetypal Big Debt Cycle
-tags:
-  - credit_debt
-  - debt_crises
-  - debt_cycle
-  - economic_growth
-  - policy_makers
 aliases:
-  - Big Debt Cycle
-  - Credit and Debt
-  - Debt Crises
-  - Economic Cycles
+- Big Debt Cycle
+- Credit and Debt
+- Debt Crises
+- Economic Cycles
 key_concepts:
-  - Credit, debt, repayment
-  - Debt impact, productivity
-  - Economic cycles, credit
-  - Lending standards, development
-  - Policy makers, debt crises
+- Credit, debt, repayment
+- Debt impact, productivity
+- Economic cycles, credit
+- Lending standards, development
+- Policy makers, debt crises
+- Equity valuation and analysis
+- Dividend discount models
+- Credit risk modeling
+- Default probability estimation
+- Foreign exchange markets
+- Currency derivatives
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Interest rate modeling
+tags:
+- equity
+- regulatory-framework
+- credit
+- credit_debt
+- cds
+- debt_crises
+- interest_rates
+- portfolio-theory
+- valuation
+- policy_makers
+- fx
+- bonds
+- debt_cycle
+- futures
+- options
+title: The Archetypal Big Debt Cycle
 ---
 
 # The Archetypal Big Debt Cycle

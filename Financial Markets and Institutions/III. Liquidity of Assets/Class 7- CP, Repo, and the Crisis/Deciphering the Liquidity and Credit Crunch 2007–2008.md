@@ -1,23 +1,43 @@
 ---
-cssclasses: academia
-title: Deciphering the Liquidity and Credit Crunch 2007–2008
-tags:
-  - credit_crunch
-  - federal_reserve
-  - financial_crisis
-  - mortgage_delinquencies
-  - ted_spread
 aliases:
-  - Credit Crisis 2007-2008
-  - Financial Turmoil
-  - Liquidity Crisis
+- Credit Crisis 2007-2008
+- Financial Turmoil
+- Liquidity Crisis
+cssclasses: academia
 key_concepts:
-  - Federal Reserve actions
-  - Housing bubble burst
-  - Moody's rating downgrades
-  - Mortgage delinquencies impact
-  - Stock market decline
+- Delta hedging strategies in options portfolio management
+- Ito's lemma and stochastic calculus applications
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- abs
+- arbitrage
+- arch
+- bonds
+- cds
+- convexity
+- corporate-bonds
+- correlation
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- fixed_income
+- hedging
+- options
+- risk-management
+- swaps
+- var
+title: Deciphering the Liquidity and Credit Crunch 2007–2008
 ---
+
 
 # Deciphering the Liquidity and Credit Crunch 2007–2008
 

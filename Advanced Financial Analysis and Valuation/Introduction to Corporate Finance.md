@@ -1,38 +1,142 @@
 ---
-title: Introduction to Corporate Finance
-cssclasses:
-  - academia
-tags:
-  - capital_markets
-  - cfo
-  - corporate_finance
-  - project_valuation
-  - shareholder_wealth
-  - financial_management
-  - valuation_methods
-  - capital_budgeting
-  - capital_structure
-  - financial_decisions
 aliases:
-  - Corporate Finance Intro
-  - Finance Introduction
-  - CFO Decision Making
-  - Financial Decisions Framework
+- Corporate Finance Intro
+- Finance Introduction
+- CFO Decision Making
+- Financial Decisions Framework
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-aa7790
 key_concepts:
-  - capital structure optimization
-  - financial decision-making
-  - maximize shareholder wealth
-  - project valuation techniques
-  - cost of capital calculation
-  - discounted cash flow analysis
-  - risk and return tradeoff
-  - corporate governance principles
-  - shareholder value creation
-  - financial forecasting
-  - investment evaluation metrics
-  - net present value (NPV)
-  - internal rate of return (IRR)
-  - perfect capital markets
+- corporate governance principles
+- Liquidity coverage ratio and net stable funding ratio
+- Cox-Ross-Rubinstein parameter specification
+- Working Capital
+- capital markets and issuance
+- perfect capital markets
+- capital structure optimization
+- Stress testing and supervisory review processes
+- Computational implementation of binomial option pricing
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- financial forecasting
+- Commodity markets and pricing dynamics
+- Capital Asset Pricing Model and expected returns
+- private equity transactions
+- portfolio theory and asset pricing
+- Credit spread decomposition and hazard rates
+- option pricing models and PDE solutions
+- CDS clearing and central counterparties
+- fixed income risk measurement
+- Leverage ratio and large exposures
+- cost of capital calculation
+- forward commitments and hedging
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- financial decision-making
+- GARCH models and volatility forecasting
+- 2008 financial crisis and systemic risk analysis
+- cost of capital estimation
+- option sensitivity analysis and hedging
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Risk-weighted assets and capital adequacy ratios
+- portfolio optimization and risk decomposition
+- Dividend Policy
+- fundamental valuation methods
+- Interest rate swap pricing and valuation
+- investment evaluation metrics
+- interest rate and currency derivatives
+- excess returns and manager skill
+- Credit default swap pricing and risk-neutral probabilities
+- Basel III regulatory framework and capital requirements
+- internal rate of return (IRR)
+- Variance swaps and volatility trading strategies
+- Convergence of binomial model to Black-Scholes solution
+- risk and return tradeoff
+- Binomial option pricing model with multiple time steps
+- maximize shareholder wealth
+- systematic risk and market exposure
+- simulation methods in financial engineering
+- discounted cash flow analysis
+- American option pricing in binomial trees
+- project valuation techniques
+- Capital Structure
+- shareholder value creation
+- net present value (NPV)
+- Cross-currency basis swaps and funding
+- alternative investment strategies
+- credit risk transfer mechanisms
+tags:
+- binomial-model
+- commodities
+- credit-default-swaps
+- goodwill
+- dividend-policy
+- 2008-financial-crisis
+- bank-regulation
+- capm
+- case-study
+- apt
+- efficient-frontier
+- value-at-risk
+- kalman-filter
+- put-options
+- factor-models
+- credit-risk
+- efficient-market
+- european-options
+- duration-convexity
+- solution
+- private-equity
+- wacc
+- depreciation
+- investment-banking
+- corporate-bonds
+- option-pricing
+- ebitda-multiple
+- syndicated-loans
+- municipal-bonds
+- credit-analysis
+- enterprise-value
+- working-capital
+- collateralized-debt-obligations
+- garch-models
+- interest-rate-swaps
+- call-options
+- capital-asset-pricing-model
+- mathematical-finance
+- course-material
+- capital-structure
+- market-risk
+- greeks
+- black-scholes-model
+- leveraged-buyout
+- lbo
+- exchange-rates
+- net-income
+- hedge-funds
+- ebitda
+- leveraged-buyouts
+- momentum-strategies
+- quantitative-implementation
+- treasury-bonds
+- return-on-equity
+- american-options
+- infrastructure
+- regression-analysis
+- exotic-options
+- distressed-debt
+- mbs-cmos
+- delta-hedging
+- implied-volatility
+- dcf-valuation
+- harvard-business-review
+- monte-carlo
+title: Introduction to Corporate Finance
 ---
 
 # Introduction to Corporate Finance

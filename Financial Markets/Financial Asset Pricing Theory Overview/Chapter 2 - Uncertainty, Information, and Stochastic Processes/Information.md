@@ -1,20 +1,15 @@
 ---
 tags:
-  - information
-  - information_filtration
-  - multi_period_model
-  - state_space
-  - uncertainty
+- filtration
+- risk-management
+- var
 aliases:
-  - Information flow
-  - Partitions
-  - Sigma-algebra
+- Information flow
+- Partitions
+- Sigma-algebra
 key_concepts:
-  - Information filtration
-  - Information representation
-  - Multi-period model
-  - Sigma-algebra construction
-  - Uncertainty resolution over time
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
 ---
 
 # 2.3 Information  

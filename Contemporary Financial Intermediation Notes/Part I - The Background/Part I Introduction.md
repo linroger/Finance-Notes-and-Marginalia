@@ -1,26 +1,106 @@
 ---
+aliases:
+- Financial Intermediation Basic Concepts
+- Part I Background Introduction
 cssclasses: academia
-title: Part I - Basic Concepts Introduction
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-5629fa
+key_concepts:
+- Apt
+- Utility functions and wealth
+- Expected utility theory
+- Risk preferences (neutral, averse, preferring)
+- Mean-variance optimization and the efficient frontier
+- Extreme value theory and tail risk modeling
+- Credit risk modeling and default probability estimation
+- Wholesale funding markets and maturity transformation
+- Funding liquidity vs. market liquidity
+- Risk budgeting and portfolio construction techniques
+- Solution
+- Historical simulation vs. parametric VaR models
+- Credit portfolio diversification and concentration
+- Riskless arbitrage
+- DV01 calculation and interest rate risk hedging
+- Portfolio immunization strategies
+- Mathematical Finance
+- Market completeness
+- Deposit insurance and systemic risk prevention
+- Monte Carlo VaR for complex portfolios
+- Options
+- Shadow Banking
+- Stress testing and scenario analysis
+- Key rate duration and curve risk
+- Arbitrage Pricing Theory and multifactor models
+- Course Material
+- Value at Risk (VaR) methodologies and backtesting
+- Risk-neutral pricing methodology for derivative securities
+- Jensen's inequality
+- Operational risk quantification and modeling
+- commercial banking operations and management
+- Case Study
+- Net interest margin analysis and banking profitability
+- Market efficiency
+- Expected Shortfall and coherent risk measures
+- Liquidity risk management in financial institutions
+- Bank liquidity ratios and funding risk management
+- Factor Models
+- Credit exposure measurement and EAD
+- Efficient Market
+- Wrong-way risk in derivative transactions
+- Stress Testing
+- asset transformation and structured finance
+- Deposit stability and core funding
+- Value-at-Risk calculation using historical simulation
+- Shadow banking system and regulatory arbitrage
+- Quantitative Implementation
+- Credit risk migration matrices and rating transition
+- Credit risk modeling and portfolio correlation analysis
+- Backtesting procedures for risk models
+- Credit risk assessment and loan portfolio management
+- Liquidity risk measurement and management
+- Duration and convexity measures for bond portfolios
+- Systemic risk indicators and early warning systems
+- Price sensitivity to interest rate changes
+- Loss given default and recovery rates
+- Modified duration vs. Macaulay duration
+- Informational asymmetry
+- Liquidity stress testing and contingency funding plans
 linter-yaml-title-alias: Part I - Basic Concepts Introduction
 tags:
-  - financial_economics
-  - risk_preferences
-  - banking_theory
-  - financial_concepts
-  - market_completeness
-aliases:
-  - Financial Intermediation Basic Concepts
-  - Part I Background Introduction
-key_concepts:
-  - Risk preferences (neutral, averse, preferring)
-  - Utility functions and wealth
-  - Expected utility theory
-  - Jensen's inequality
-  - Market completeness
-  - Riskless arbitrage
-  - Options
-  - Market efficiency
-  - Informational asymmetry
+- market-efficiency
+- mathematical-finance
+- balance-sheet
+- market_completeness
+- course-material
+- commercial-banking
+- shadow-banking
+- case-study
+- apt
+- value-at-risk
+- factor-models
+- credit-risk
+- efficient-market
+- quantitative-implementation
+- duration-convexity
+- financial_economics
+- solution
+- securitization
+- banking
+- stress-testing
+- arbitrage
+- liquidity-risk
+- systemic-risk
+- financial_concepts
+- mbs-cmos
+- deposit-insurance
+- financial-intermediation
+- risk_preferences
+- banking_theory
+- expected-shortfall
+- operational-risk
+- monte-carlo
+title: Part I - Basic Concepts Introduction
 ---
 
 # Basic Concepts

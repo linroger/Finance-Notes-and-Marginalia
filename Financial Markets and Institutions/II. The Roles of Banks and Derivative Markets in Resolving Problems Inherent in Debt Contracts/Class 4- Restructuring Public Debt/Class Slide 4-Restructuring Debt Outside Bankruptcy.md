@@ -1,34 +1,43 @@
 ---
-cssclasses:
-  - academia
-title: "Class Slide 4: Restructuring Debt Outside Bankruptcy"
-tags:
-  - bank_debt
-  - bankruptcy
-  - negative_pledge
-  - public_debt
-  - renegotiation
-  - debt_restructuring
-  - senior_debt
-  - junior_debt
-  - holdout_problem
 aliases:
-  - Bank vs. Public Debt
-  - Debt Renegotiation
-  - Debt Restructuring
-  - Class Slide 4
+- Bank vs. Public Debt
+- Debt Renegotiation
+- Debt Restructuring
+- Class Slide 4
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batchAA-z5dv3a
 key_concepts:
-  - Bank concessions and bankruptcy
-  - Bank debt seniority
-  - Negative pledge covenant
-  - Public debt vs bank debt
-  - Restructuring debt outside bankruptcy
-  - Senior vs junior debt priority
-  - Holdout problem
-  - Coercive exchange offers
-  - Exit consent votes
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+tags:
+- american-options
+- arbitrage
+- binomial
+- black-scholes
+- bonds
+- convexity
+- derivatives-pricing
+- duration
+- european-options
+- fixed-income
+- fixed_income
+- futures
+- hedging
+- options
+- puts
+- risk-management
+- risk-neutral
+title: 'Class Slide 4: Restructuring Debt Outside Bankruptcy'
 ---
-
 # Class Slide 4: Restructuring Debt Outside Bankruptcy
 
 ## Bank Debt along with Public Debt

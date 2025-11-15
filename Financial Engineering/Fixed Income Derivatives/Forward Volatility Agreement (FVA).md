@@ -1,19 +1,70 @@
 ---
-tags:
-  - carry_trade
-  - forward_volatility
-  - fva
-  - implied_volatility
-  - volatility_swap
 aliases:
-  - FVA
-  - Forward Volatility Agreement
+- FVA
+- Forward Volatility Agreement
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-c756b0
 key_concepts:
-  - forward implied volatility
-  - future spot volatility
-  - long short straddle
-  - spot implied volatility
-  - volatility swap contract
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Term structure of interest rates and yield curve modeling
+- 'Short-rate models: Vasicek, CIR, and mean reversion'
+- Bond pricing and fixed income securities valuation
+- Partial differential equations in financial modeling
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility smile, skew, and surface modeling
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- abs
+- apt
+- arbitrage
+- arch
+- black-scholes
+- brownian-motion
+- capm
+- cds
+- cir
+- commodities
+- convexity
+- correlation
+- credit-default-swaps
+- credit-risk
+- delta
+- delta-hedging
+- derivatives-pricing
+- duration
+- exotic-options
+- factor-models
+- fixed_income
+- gamma
+- garch
+- geometric-brownian-motion
+- greeks
+- hedging
+- heston
+- implied-volatility
+- interest-rate-swaps
+- kalman-filter
+- mean-reversion
+- options
+- pde
+- risk-management
+- risk-neutral
+- swaps
+- term-structure
+- var
+- vasicek
+- yield-curve
+- zero-coupon
 ---
 
 # Forward Volatility Agreement (FVA)

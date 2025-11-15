@@ -1,9 +1,14 @@
 ---
-title: The Economist Going Public
+key_concepts:
+- Term structure of interest rates and yield curve modeling
+- Credit risk modeling and default probability estimation
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
 tags:
-  - '#business_publication'
-  - '#financial_news'
-  - '#going_public'
-  - '#the_economist'
+- arbitrage
+- hedging
+- risk-management
+title: The Economist Going Public
 ---
+
 # The Economist Going Public

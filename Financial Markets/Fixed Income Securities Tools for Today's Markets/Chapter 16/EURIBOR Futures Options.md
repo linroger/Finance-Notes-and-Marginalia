@@ -1,19 +1,36 @@
 ---
-tags:
-  - daily_settlement
-  - euribor_futures
-  - futures_style_options
-  - option_payoff
-  - strike_price
 aliases:
-  - Euribor Options
-  - Futures-style Options
+- Euribor Options
+- Futures-style Options
 key_concepts:
-  - Call option on rate
-  - Euribor futures contracts
-  - Final settlement price
-  - Futures-style call option
-  - Trader's daily settlement payments
+- Call option on rate
+- Euribor futures contracts
+- Final settlement price
+- Futures-style call option
+- Trader's daily settlement payments
+- Foreign exchange markets
+- Currency derivatives
+- Black-Scholes option pricing model
+- Continuous-time finance
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+tags:
+- option_payoff
+- fx
+- volatility
+- black_scholes
+- bonds
+- euribor_futures
+- futures_style_options
+- futures
+- options
+- mathematical-finance
+- strike_price
+- daily_settlement
 ---
 
 # 16.2 EURIBOR FUTURES OPTIONS  

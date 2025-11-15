@@ -1,20 +1,45 @@
 ---
-tags:
-  - arbitrage_free_models
-  - interest_rate_models
-  - short_rate_models
-  - swaptions
-  - yield_curve
 aliases:
-  - AFIRM
-  - IRM
-  - Interest Rate Modeling
+- AFIRM
+- IRM
+- Interest Rate Modeling
 key_concepts:
-  - Arbitrage-free model
-  - Model calibration
-  - Short rate models
-  - Trinomial trees
-  - Yield curve tilts
+- Arbitrage-free model
+- Model calibration
+- Short rate models
+- Trinomial trees
+- Yield curve tilts
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Black-Scholes option pricing model
+- Continuous-time finance
+- Vasicek short-rate model
+- Mean-reverting processes
+- Arbitrage theory and practice
+- Law of one price
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Credit default swaps and credit risk
+tags:
+- model-calibration
+- swaptions
+- yield_curve
+- vasicek
+- calibration
+- cds
+- hedge_funds
+- monte_carlo
+- interest_rates
+- interest_rate_models
+- short_rate_models
+- trading
+- bonds
+- black_scholes
+- volatility
 ---
 
 # 6.3 ARBITRAGE-FREE INTEREST RATE MODELS  

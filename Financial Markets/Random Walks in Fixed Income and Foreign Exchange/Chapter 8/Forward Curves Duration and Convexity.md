@@ -1,28 +1,44 @@
 ---
-tags:
-  - convexity
-  - curve_slope
-  - duration
-  - forward_curve
-  - yield_curve
 aliases:
-  - 2's-10's trade
-  - Curve inversion
-  - Forward rate
-  - Yield curve shape
+- 2's-10's trade
+- Curve inversion
+- Forward rate
+- Yield curve shape
 key_concepts:
-  - Bond duration increase
-  - Central bank expectations
-  - Convexity value volatility
-  - Curve slope forecasts
-  - Curve steepening trade
-  - Fixed income products
-  - Forward curve analysis
-  - Implied forward evolution
-  - Market anomalies
-  - Term premium effect
-  - Yield curve convexity
-  - Yield curve implications
+- Bond duration increase
+- Central bank expectations
+- Convexity value volatility
+- Curve slope forecasts
+- Curve steepening trade
+- Fixed income products
+- Forward curve analysis
+- Implied forward evolution
+- Market anomalies
+- Term premium effect
+- Yield curve convexity
+- Yield curve implications
+- Fixed income securities
+- Interest rate derivatives
+- Option sensitivity analysis
+- Delta, gamma, vega, theta, rho
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+tags:
+- curve_slope
+- valuation
+- duration
+- forward_curve
+- fixed_income
+- greeks
+- yield_curve
+- bonds
+- futures
+- derivatives
+- mathematical-finance
+- convexity
+- interest_rates
 ---
 
 # Chapter 8 Forward Curves, Duration and Convexity

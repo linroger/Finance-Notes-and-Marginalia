@@ -1,24 +1,43 @@
 ---
-tags:
-  - fico_score
-  - fixed_rate_mortgage
-  - gse
-  - loan_to_value
-  - mortgage_financing
-  - mortgage_loans
-  - servicing_fee
-  - underwriting_process
 aliases:
-  - Mortgage Basics
-  - Mortgage Financing
-  - Mortgage Loan Fundamentals
+- Mortgage Basics
+- Mortgage Financing
+- Mortgage Loan Fundamentals
 key_concepts:
-  - FICO score in loan evaluation
-  - Fixed rate mortgage terms
-  - Loan-to-value (LTV) ratio
-  - Mortgage loan collateralization
-  - Mortgage loan servicing fee
-  - Mortgage underwriting process
+- FICO score in loan evaluation
+- Fixed rate mortgage terms
+- Loan-to-value (LTV) ratio
+- Mortgage loan collateralization
+- Mortgage loan servicing fee
+- Mortgage underwriting process
+- Equity valuation and analysis
+- Dividend discount models
+- Credit risk modeling
+- Default probability estimation
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Interest rate modeling
+- Term structure of interest rates
+tags:
+- interest_rates
+- fixed_rate_mortgage
+- gse
+- equity
+- credit
+- valuation
+- loan_to_value
+- fico_score
+- mortgage_loans
+- futures
+- cds
+- underwriting_process
+- options
+- mathematical-finance
+- mortgage_financing
 ---
 
 # 9.1  MORTGAGE FINANCING BASICS  

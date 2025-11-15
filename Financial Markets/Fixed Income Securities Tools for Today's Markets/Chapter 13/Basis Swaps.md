@@ -1,19 +1,44 @@
 ---
-tags:
-  - basis_swaps
-  - cross_currency_swaps
-  - euribor
-  - sofr
-  - str
 aliases:
-  - Basis Swap
-  - STR vs Euribor
+- Basis Swap
+- STR vs Euribor
 key_concepts:
-  - Basis risk definition
-  - Credit risk perspective
-  - Floating rate on one leg
-  - Hedging basis risk
-  - STR vs Euribor swap
+- Basis risk definition
+- Credit risk perspective
+- Floating rate on one leg
+- Hedging basis risk
+- STR vs Euribor swap
+- Equity valuation and analysis
+- Dividend discount models
+- Credit risk modeling
+- Default probability estimation
+- Fixed income securities
+- Interest rate derivatives
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Credit default swaps and credit risk
+tags:
+- str
+- equity
+- sofr
+- credit
+- euribor
+- cross_currency_swaps
+- cds
+- structured_finance
+- basis_swaps
+- valuation
+- fixed_income
+- fx
+- trading
+- bonds
+- swaps
 ---
 
 # 13.6 BASIS SWAPS  

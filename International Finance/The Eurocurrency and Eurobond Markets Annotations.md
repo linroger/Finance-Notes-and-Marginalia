@@ -1,24 +1,102 @@
 ---
-cssclasses:
-  - academia
-title: The Eurocurrency and Eurobond Markets Annotations
-tags:
-  - eurobond_markets
-  - eurocurrency_markets
-  - international_markets
-  - offshore_markets
-  - trade_financing
 aliases:
-  - Eurobond
-  - Eurocurrency
-  - Euromarkets
-  - Offshore Markets
+- Eurobond
+- Eurocurrency
+- Euromarkets
+- Offshore Markets
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-78632a
 key_concepts:
-  - 'eurobond: international capital market'
-  - 'eurocurrency: short-term borrowing'
-  - 'eurodollar: dollar deposits outside US'
-  - speculative positions
-  - trade financing motive
+- Apt
+- Carry trades and momentum in FX markets
+- Term structure of interest rates and yield curve shapes
+- 'eurodollar: dollar deposits outside US'
+- Currency markets and foreign exchange trading
+- Single-name vs. index CDS trading
+- Currency derivatives
+- Expectations hypothesis and liquidity preference theory
+- Historical simulation vs. parametric VaR models
+- Interest rate swaps and term structure
+- Default probability estimation
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- CDS clearing and central counterparties
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- Foreign exchange markets
+- 'eurobond: international capital market'
+- Liquidity and price discovery
+- Monte Carlo VaR for complex portfolios
+- Stress testing and scenario analysis
+- Equity valuation and analysis
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Currency risk management and hedging
+- Forward rates and interest rate parity
+- Value at Risk (VaR) methodologies and backtesting
+- Case Study
+- Exchange rate determination and PPP theory
+- Balance Of Payments
+- Interest rate swap pricing and valuation
+- Expected Shortfall and coherent risk measures
+- Credit default swap pricing and risk-neutral probabilities
+- Market microstructure and trading
+- Variance swaps and volatility trading strategies
+- Interest rate derivatives
+- Fixed income securities
+- Bond pricing and yield analysis
+- 'eurocurrency: short-term borrowing'
+- trade financing motive
+- Credit default swaps and credit risk
+- Parallel and non-parallel shifts in the yield curve
+- Credit risk modeling
+- Cross-currency basis swaps and funding
+- Basis swaps and cross-currency swaps
+- Duration and convexity
+- speculative positions
+- Dividend discount models
+tags:
+- yield-curve
+- fx
+- swaps
+- credit-default-swaps
+- balance-of-payments
+- interest-rate-swaps
+- mathematical-finance
+- trading
+- course-material
+- case-study
+- apt
+- bonds
+- credit-analysis
+- risk_management
+- value-at-risk
+- fixed_income
+- exchange-rates
+- options
+- credit-risk
+- currency-swaps
+- quantitative-implementation
+- duration-convexity
+- solution
+- treasury-bonds
+- structured_finance
+- equity
+- interest_rates
+- international_markets
+- corporate-bonds
+- credit
+- deposit-insurance
+- syndicated-loans
+- regulatory-framework
+- cds
+- trade_financing
+title: The Eurocurrency and Eurobond Markets Annotations
 ---
 
 # The Eurocurrency and Eurobond Markets Annotations

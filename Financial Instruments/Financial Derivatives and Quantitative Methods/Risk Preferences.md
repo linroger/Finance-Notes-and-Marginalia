@@ -1,21 +1,47 @@
 ---
-title: Risk Preferences
-tags:
-  - hedging
-  - portfolio_risk
-  - risk_aversion
-  - risk_preferences
-  - utility_theory
 aliases:
-  - Investor Preferences
-  - Risk Assessment
-  - Riskiness
+- Investor Preferences
+- Risk Assessment
+- Riskiness
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-8e2954
 key_concepts:
-  - Hedging risk with assets
-  - Investor portfolio risk
-  - Risk aversion notions
-  - Total vs partial payoffs
-  - Utility theory
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Monte Carlo simulation for derivatives valuation
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- apt
+- capm
+- convexity
+- correlation
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- expected-shortfall
+- fixed_income
+- gamma
+- greeks
+- hedging
+- interest-rate-swaps
+- monte-carlo
+- options
+- replication
+- risk-management
+- swaps
+- theta
+- var
+- vega
+title: Risk Preferences
 ---
 
  #Risk_Preferences

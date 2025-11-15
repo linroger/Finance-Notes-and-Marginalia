@@ -1,28 +1,77 @@
 ---
-title: Engineering Convexity Positions
-tags:
-  - convexity
-  - bond-convexity
-  - options
-  - volatility-trading
-  - gamma-trading
-  - financial-engineering
-  - delta-hedging
-  - derivative-strategies
 aliases:
-  - Chapter 10 Convexity Engineering
-  - Convexity Positions
-  - Gamma Trading Strategies
-key_concepts:
-  - Bond convexity
-  - Options convexity
-  - Delta-hedged portfolios
-  - Gamma trading
-  - Volatility positions
-  - Convexity value
-  - Dynamic hedging
-  - Convexity trades
+- Chapter 10 Convexity Engineering
+- Convexity Positions
+- Gamma Trading Strategies
 cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-c81e01
+key_concepts:
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Term structure of interest rates and yield curve modeling
+- 'Short-rate models: Vasicek, CIR, and mean reversion'
+- Bond pricing and fixed income securities valuation
+- Partial differential equations in financial modeling
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- abs
+- apt
+- arbitrage
+- binomial
+- black-scholes
+- bonds
+- brownian-motion
+- capm
+- cds
+- cir
+- closed-form
+- commodities
+- convexity
+- correlation
+- counterparty-risk
+- credit-default-swaps
+- credit-risk
+- currency-swaps
+- delta
+- delta-hedging
+- derivatives-pricing
+- duration
+- exotic-options
+- factor-models
+- fixed-income
+- fixed_income
+- gamma
+- greeks
+- hedging
+- hull-white
+- implied-volatility
+- interest-rate-swaps
+- mbs
+- options
+- pde
+- risk-management
+- risk-neutral
+- swaps
+- swaptions
+- term-structure
+- var
+- vasicek
+- wiener-process
+- yield-curve
+- zero-coupon
+title: Engineering Convexity Positions
 ---
 
 # ENGINEERING CONVEXITY POSITIONS  

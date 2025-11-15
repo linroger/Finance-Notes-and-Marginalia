@@ -1,28 +1,120 @@
 ---
-tags:
-  - arbitrage
-  - cme
-  - derivative_securities
-  - forward_contracts
-  - futures_contracts
-  - hedging
-  - interest_rate_swaps
-  - options
-  - short_selling
-  - speculation
 aliases:
-  - Derivatives
-  - Forward Contracts
-  - Futures
-  - Options
-  - Swaps
+- Derivatives
+- Forward Contracts
+- Futures
+- Options
+- Swaps
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-ca9582
 key_concepts:
-  - Call and put options
-  - Derivative securities
-  - Futures and forwards
-  - Hedging and arbitrage
-  - Interest rate swaps
+- Apt
+- Extensions to multi-factor CAPM models
+- Treasury Futures
+- Duration and convexity analysis for bond portfolio management
+- Active portfolio management and performance attribution
+- alternative investment strategies
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Interest rate swaps
+- Market risk measurement and portfolio volatility
+- Option Greeks and portfolio risk management
+- maturity date in CDS
+- Commodity markets and pricing dynamics
+- Capital Asset Pricing Model and beta estimation
+- Risk budgeting and portfolio construction techniques
+- delivery date in CDS settlement
+- Capital Asset Pricing Model and expected returns
+- Credit spread decomposition and hazard rates
+- Hedging and arbitrage
+- CDS clearing and central counterparties
+- forward commitments and hedging
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- Shadow Banking
+- Derivative securities
+- Fixed-for-floating swap cash flows and valuation
+- Arbitrage Pricing Theory and multifactor models
+- Course Material
+- Security Market Line and beta measurement
+- International arbitrage and covered interest rate parity
+- Case Study
+- Dividend Policy
+- Call and put options
+- Arbitrage opportunities and risk-free profit extraction
+- Interest rate swap pricing and valuation
+- Futures and forwards
+- interest rate and currency derivatives
+- Credit default swap pricing and risk-neutral probabilities
+- ESG integration in portfolio management
+- present value and discounting methods
+- Variance swaps and volatility trading strategies
+- Delta hedging strategies in options portfolio management
+- Shadow banking system and regulatory arbitrage
+- Gamma and convexity adjustments
+- Capital Structure
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Delta hedging and the replication argument
+- Cross-currency basis swaps and funding
+- Currency hedging strategies for global portfolios
+- Market portfolio and risk-free rate assumptions
+- cash settlement in CDS
+- Empirical tests and anomalies in CAPM
+tags:
+- commodities
+- credit-default-swaps
+- dividend-policy
+- capm
+- case-study
+- apt
+- value-at-risk
+- put-options
+- factor-models
+- futures_contracts
+- options
+- credit-risk
+- european-options
+- duration-convexity
+- solution
+- hedging
+- exchange-rate
+- investment-banking
+- ltcm
+- futures-markets
+- municipal-bonds
+- treasury-futures
+- collateralized-debt-obligations
+- garch-models
+- interest-rate-swaps
+- call-options
+- mathematical-finance
+- course-material
+- interest_rate_swaps
+- forward_contracts
+- speculation
+- capital-structure
+- shadow-banking
+- market-risk
+- greeks
+- short_selling
+- exchange-rates
+- bond-futures
+- hedge-funds
+- derivative_securities
+- quantitative-implementation
+- treasury-bonds
+- arbitrage
+- exotic-options
+- distressed-debt
+- mbs-cmos
+- cme
+- dcf-valuation
 ---
+
 # Derivative Securities
 
 # Aims

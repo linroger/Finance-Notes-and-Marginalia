@@ -1,20 +1,44 @@
 ---
-tags:
-  - binomial_tree
-  - price_trees
-  - rate_trees
-  - term_structure
-  - zero_coupon_bonds
 aliases:
-  - Binomial Tree
-  - Price Tree
-  - Rate Tree
+- Binomial Tree
+- Price Tree
+- Rate Tree
 key_concepts:
-  - Binomial tree
-  - Expected value
-  - Spot rates
-  - Underlying securities
-  - Zero coupon bonds
+- Binomial tree
+- Expected value
+- Spot rates
+- Underlying securities
+- Zero coupon bonds
+- Foreign exchange markets
+- Currency derivatives
+- Bond pricing and yield analysis
+- Duration and convexity
+- Arbitrage theory and practice
+- Law of one price
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Alternative investment strategies
+- Hedge fund replication
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Binomial option pricing
+- Lattice models and recombination
+- Interest rate modeling
+tags:
+- rate_trees
+- zero_coupon_bonds
+- fx
+- binomial_tree
+- binomial
+- bonds
+- term_structure
+- futures
+- hedge_funds
+- options
+- mathematical-finance
+- price_trees
+- arbitrage
+- interest_rates
 ---
 
 # 7.1 RATE AND PRICE TREES  

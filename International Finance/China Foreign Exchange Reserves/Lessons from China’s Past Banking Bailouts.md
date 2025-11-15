@@ -1,24 +1,100 @@
 ---
-title: Lessons from China’s Past Banking Bailouts
-cssclasses:
-  - academia
-tags:
-  - bank_bailouts
-  - china_banking
-  - economic_history
-  - financial_stability
-  - npl
 aliases:
-  - Baoshang Bank
-  - Chinese bank rescues
-  - NPL crisis
-  - PBoC
+- Baoshang Bank
+- Chinese bank rescues
+- NPL crisis
+- PBoC
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-4cfd66
 key_concepts:
-  - Bank bailouts history
-  - China banking sector
-  - Economic growth trade tensions
-  - Financial stability threat
-  - NPL asset quality
+- Financial stability threat
+- Liquidity coverage ratio and net stable funding ratio
+- Term structure of interest rates
+- Term structure of interest rates and yield curve shapes
+- Economic growth trade tensions
+- Stochastic calculus in financial modeling
+- Stress testing and supervisory review processes
+- Currency markets and foreign exchange trading
+- Bank bailouts history
+- Option Greeks and portfolio risk management
+- Commodity markets and pricing dynamics
+- Expectations hypothesis and liquidity preference theory
+- Futures contracts and forward pricing
+- Default probability estimation
+- Interest rate modeling
+- Yield curve fitting and interpolation methods
+- Vega and volatility risk management
+- Leverage ratio and large exposures
+- Government bailout mechanisms and market interventions
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- NPL asset quality
+- Shadow Banking
+- Equity valuation and analysis
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Risk-weighted assets and capital adequacy ratios
+- Theta and time decay modeling
+- Case Study
+- Exchange rate determination and PPP theory
+- Balance Of Payments
+- Interest rate swap pricing and valuation
+- Margin requirements and clearing
+- Basel III regulatory framework and capital requirements
+- Variance swaps and volatility trading strategies
+- Bond pricing and yield analysis
+- Gamma and convexity adjustments
+- Delta hedging and the replication argument
+- Parallel and non-parallel shifts in the yield curve
+- Credit risk modeling
+- Cross-currency basis swaps and funding
+- Delta hedging and Greeks
+- Duration and convexity
+- Options pricing and payoff structures
+- Dividend discount models
+- China banking sector
+tags:
+- basel-iii
+- yield-curve
+- commodities
+- stochastic-calculus
+- balance-of-payments
+- interest-rate-swaps
+- mathematical-finance
+- course-material
+- bank-regulation
+- shadow-banking
+- municipal-bonds
+- financial_stability
+- bank_bailouts
+- case-study
+- china_banking
+- bonds
+- bailout
+- greeks
+- exchange-rates
+- options
+- credit-risk
+- quantitative-implementation
+- duration-convexity
+- solution
+- treasury-bonds
+- investment-banking
+- equity
+- interest_rates
+- stochastic_calculus
+- exotic-options
+- distressed-debt
+- credit
+- regulatory-framework
+- economic_history
+- npl
+- futures
+title: Lessons from China’s Past Banking Bailouts
 ---
 
 # Lessons from China’s Past Banking Bailouts

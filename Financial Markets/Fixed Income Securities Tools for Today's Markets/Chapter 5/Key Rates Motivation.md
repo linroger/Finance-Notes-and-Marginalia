@@ -1,19 +1,37 @@
 ---
-tags:
-  - curve_risk
-  - key_rates
-  - on_the_run_bonds
-  - term_structure
-  - treasury_yields
 aliases:
-  - Key Rates Motivation
-  - Term Structure Changes
+- Key Rates Motivation
+- Term Structure Changes
 key_concepts:
-  - Control curve risk
-  - Multi-factor hedging
-  - On-the-run bonds
-  - Term structure behavior
-  - Treasury yield changes
+- Control curve risk
+- Multi-factor hedging
+- On-the-run bonds
+- Term structure behavior
+- Treasury yield changes
+- Fixed income securities
+- Interest rate derivatives
+- Foreign exchange markets
+- Currency derivatives
+- Bond pricing and yield analysis
+- Duration and convexity
+- Derivatives pricing theory
+- Risk-neutral valuation
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Interest rate modeling
+- Term structure of interest rates
+tags:
+- fixed_income
+- fx
+- curve_risk
+- bonds
+- treasury_yields
+- term_structure
+- on_the_run_bonds
+- derivatives
+- options
+- key_rates
+- interest_rates
 ---
 
 # 5.1 KEY RATES: MOTIVATION  

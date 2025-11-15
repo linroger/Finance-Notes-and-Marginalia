@@ -1,19 +1,44 @@
 ---
-tags:
-  - financial_crisis
-  - financial_stress
-  - liquidity_management
-  - regulatory_issues
-  - repo_market
 aliases:
-  - Funding Stability
-  - Liquidity and Regulations
+- Funding Stability
+- Liquidity and Regulations
 key_concepts:
-  - financial crisis impact
-  - high-quality liquid assets
-  - liquidity coverage ratio
-  - repo borrowing instability
-  - stable funding sources
+- financial crisis impact
+- high-quality liquid assets
+- liquidity coverage ratio
+- repo borrowing instability
+- stable funding sources
+- Equity valuation and analysis
+- Dividend discount models
+- Credit risk modeling
+- Default probability estimation
+- Fixed income securities
+- Interest rate derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Derivatives pricing theory
+- Risk-neutral valuation
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Value at risk and stress testing
+tags:
+- equity
+- regulatory-framework
+- regulatory_issues
+- credit
+- liquidity_management
+- hedge_funds
+- financial_crisis
+- regulation
+- fixed_income
+- trading
+- bonds
+- derivatives
+- options
+- risk_management
+- repo_market
 ---
 
 # 10.6 LIQUIDITY MANAGEMENT AND CURRENTREGULATORY ISSUES  

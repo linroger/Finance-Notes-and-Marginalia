@@ -1,23 +1,45 @@
 ---
-tags:
-  - arbitrage
-  - derivative_securities
-  - futures_contracts
-  - hedging
-  - options
-  - risk_management
-  - swaps
 aliases:
-  - Chapter 9
-  - Derivatives
-  - Hedging with Options
+- Chapter 9
+- Derivatives
+- Hedging with Options
 key_concepts:
-  - Arbitrage and pricing
-  - Derivative security definition
-  - Futures contracts explained
-  - Hedging with derivatives
-  - Market participants roles
-  - Options and swaps
+- Arbitrage and pricing
+- Derivative security definition
+- Futures contracts explained
+- Hedging with derivatives
+- Market participants roles
+- Options and swaps
+- Equity valuation and analysis
+- Dividend discount models
+- Option sensitivity analysis
+- Delta, gamma, vega, theta, rho
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Foreign exchange markets
+- Currency derivatives
+- Black-Scholes option pricing model
+- Continuous-time finance
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+tags:
+- equity
+- greeks
+- cds
+- hedge_funds
+- structured_finance
+- mathematical-finance
+- hedging
+- futures_contracts
+- portfolio-theory
+- fx
+- trading
+- derivative_securities
+- black_scholes
+- bonds
+- volatility
 ---
 
 # Arbitrage and Hedging With Options  

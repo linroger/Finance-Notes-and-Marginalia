@@ -1,3 +1,73 @@
+---
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-171b23
+key_concepts:
+- Apt
+- Carry trades and momentum in FX markets
+- Hull White Model
+- Stochastic calculus in financial modeling
+- Collateralized Debt Obligations
+- Option Greeks and portfolio risk management
+- Commodity markets and pricing dynamics
+- Futures contracts and forward pricing
+- Historical simulation vs. parametric VaR models
+- Vega and volatility risk management
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- Monte Carlo VaR for complex portfolios
+- Stress testing and scenario analysis
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Currency risk management and hedging
+- Forward rates and interest rate parity
+- Value at Risk (VaR) methodologies and backtesting
+- Theta and time decay modeling
+- Case Study
+- Exchange rate determination and PPP theory
+- Interest rate swap pricing and valuation
+- Margin requirements and clearing
+- Expected Shortfall and coherent risk measures
+- Variance swaps and volatility trading strategies
+- Bond pricing and yield analysis
+- Quantitative Implementation
+- Gamma and convexity adjustments
+- Delta hedging and the replication argument
+- Cross-currency basis swaps and funding
+- Delta hedging and Greeks
+- Duration and convexity
+- Options pricing and payoff structures
+- Currency markets and foreign exchange trading
+tags:
+- quantitative-implementation
+- duration-convexity
+- solution
+- commodities
+- treasury-bonds
+- stochastic-calculus
+- model-calibration
+- collateralized-debt-obligations
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- stochastic_calculus
+- course-material
+- infrastructure
+- municipal-bonds
+- exotic-options
+- case-study
+- apt
+- bonds
+- greeks
+- value-at-risk
+- exchange-rates
+- futures
+- harvard-business-review
+- options
+- hull-white-model
+---
+
 # **Chapter 6**
 
 # **Intermediate Input Trade and Offshoring**

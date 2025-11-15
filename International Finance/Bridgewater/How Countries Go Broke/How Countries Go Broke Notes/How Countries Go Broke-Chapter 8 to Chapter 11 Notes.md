@@ -1,3 +1,103 @@
+---
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-e3e261
+key_concepts:
+- Liquidity coverage ratio and net stable funding ratio
+- Term structure of interest rates
+- Cox-Ross-Rubinstein parameter specification
+- Term structure of interest rates and yield curve shapes
+- Stochastic calculus in financial modeling
+- Stress testing and supervisory review processes
+- Computational implementation of binomial option pricing
+- Collateralized Debt Obligations
+- Commodity markets and pricing dynamics
+- Currency derivatives
+- Expectations hypothesis and liquidity preference theory
+- Capital Asset Pricing Model and expected returns
+- Futures contracts and forward pricing
+- Default probability estimation
+- Interest rate modeling
+- Yield curve fitting and interpolation methods
+- Leverage ratio and large exposures
+- Value at risk and stress testing
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- 2008 financial crisis and systemic risk analysis
+- GARCH models and volatility forecasting
+- Foreign exchange markets
+- Equity valuation and analysis
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Risk-weighted assets and capital adequacy ratios
+- Portfolio risk metrics
+- Balance Of Payments
+- Interest rate swap pricing and valuation
+- Margin requirements and clearing
+- Basel III regulatory framework and capital requirements
+- Variance swaps and volatility trading strategies
+- Convergence of binomial model to Black-Scholes solution
+- Binomial option pricing model with multiple time steps
+- Bond pricing and yield analysis
+- American option pricing in binomial trees
+- Capital Structure
+- Parallel and non-parallel shifts in the yield curve
+- Credit risk modeling
+- Cross-currency basis swaps and funding
+- Delta hedging and Greeks
+- Duration and convexity
+- Options pricing and payoff structures
+- Dividend discount models
+tags:
+- yield-curve
+- fx
+- binomial-model
+- commodities
+- stochastic-calculus
+- balance-of-payments
+- collateralized-debt-obligations
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- course-material
+- bank-regulation
+- 2008-financial-crisis
+- capital-structure
+- capm
+- case-study
+- apt
+- bonds
+- bailout
+- greeks
+- risk_management
+- value-at-risk
+- exchange-rates
+- deleveraging
+- options
+- credit-risk
+- quantitative-implementation
+- duration-convexity
+- solution
+- real-estate
+- treasury-bonds
+- equity
+- interest_rates
+- stress-testing
+- stochastic_calculus
+- infrastructure
+- systemic-risk
+- bridgewater-perspective
+- corporate-bonds
+- exotic-options
+- distressed-debt
+- credit
+- regulatory-framework
+- harvard-business-review
+- futures
+- municipal-bonds
+---
+
 # Breaking Down the Economic Evolution Since 1944: A Clearer Perspective on Debt Cycles and Monetary Policy
 
 ## Part 3: Looking Back

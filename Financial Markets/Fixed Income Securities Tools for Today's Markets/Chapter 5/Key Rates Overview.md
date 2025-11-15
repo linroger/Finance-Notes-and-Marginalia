@@ -1,20 +1,45 @@
 ---
-tags:
-  - bond_portfolio
-  - duration
-  - interest_rate_risk
-  - key_rates
-  - term_structure
 aliases:
-  - Bloomberg Index
-  - JPM Fund
-  - Key Rate Overview
+- Bloomberg Index
+- JPM Fund
+- Key Rate Overview
 key_concepts:
-  - Bond portfolio risks
-  - Interest rate risk
-  - Key rate durations
-  - Term structure changes
-  - Total duration
+- Bond portfolio risks
+- Interest rate risk
+- Key rate durations
+- Term structure changes
+- Total duration
+- Fixed income securities
+- Interest rate derivatives
+- Foreign exchange markets
+- Currency derivatives
+- Option sensitivity analysis
+- Delta, gamma, vega, theta, rho
+- Bond pricing and yield analysis
+- Duration and convexity
+- Derivatives pricing theory
+- Risk-neutral valuation
+- Value at risk and stress testing
+- Portfolio risk metrics
+- Structured products and CDOs
+- Credit derivatives
+- Interest rate modeling
+tags:
+- portfolio-theory
+- duration
+- fixed_income
+- fx
+- greeks
+- bonds
+- term_structure
+- bond_portfolio
+- derivatives
+- risk_management
+- portfolio
+- structured_finance
+- interest_rate_risk
+- key_rates
+- interest_rates
 ---
 
 # 5.2 KEY RATES: OVERVIEW  

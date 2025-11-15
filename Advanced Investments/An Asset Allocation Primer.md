@@ -1,43 +1,69 @@
 ---
-title: An Asset Allocation Primer
-cssclasses:
-  - academia
-  - finance
-tags:
-  - asset_allocation
-  - asset_classes
-  - diversification
-  - investment_strategy
-  - portfolio_management
-  - risk_budgeting
-  - efficient_frontier
-  - human_capital
-  - portfolio_construction
-  - risk_management
-  - institutional_investing
 aliases:
-  - Asset Allocation
-  - Investment Primer
-  - Portfolio Construction Basics
-  - Strategic Asset Allocation
-  - Asset Allocation Fundamentals
+- Asset Allocation
+- Investment Primer
+- Portfolio Construction Basics
+- Strategic Asset Allocation
+- Asset Allocation Fundamentals
+cssclasses:
+- academia
+- finance
 key_concepts:
-  - active versus systematic risk
-  - asset allocation methodology
-  - diversification benefits
-  - purchasing power transportation
-  - two-step allocation approach
-  - market-weighted portfolio construction
-  - conditional asset allocation strategies
-  - efficient frontier optimization
-  - asset location tax strategies
-  - liquidity premium capture
-  - risk budgeting techniques
-  - strategic versus tactical allocation
-  - lifestyle and lifecycle investment approaches
-  - multi-asset portfolio management
-  - risk factor decomposition
+- active versus systematic risk
+- asset allocation methodology
+- diversification benefits
+- purchasing power transportation
+- two-step allocation approach
+- market-weighted portfolio construction
+- conditional asset allocation strategies
+- efficient frontier optimization
+- asset location tax strategies
+- liquidity premium capture
+- risk budgeting techniques
+- strategic versus tactical allocation
+- lifestyle and lifecycle investment approaches
+- multi-asset portfolio management
+- risk factor decomposition
+- fixed income risk measurement
+- systematic risk and market exposure
+- excess returns and manager skill
+- Federal Deposit Insurance Corporation
+- Treasury Inflation-Protected Securities
+- coupon-bearing bond analysis
+- convertible bond analysis and conversion value
+- maturity date in CDS
+- par value in CDS settlement
+- Delta hedging strategies in options portfolio management
+- Duration and convexity analysis for bond portfolio management
+- Credit risk modeling and portfolio correlation analysis
+- Capital Asset Pricing Model and beta estimation
+- Active portfolio management and performance attribution
+- Risk budgeting and portfolio construction techniques
+tags:
+- asset-allocation
+- asset_allocation
+- capital-structure
+- commodities
+- diversification
+- duration
+- efficient-frontier
+- exchange-rate
+- human_capital
+- investment_strategy
+- municipal-bonds
+- portfolio-theory
+- portfolio_management
+- private-equity
+- real-estate
+- real-estate-investment-trusts
+- risk_budgeting
+- risk_management
+- term-structure
+- yield-curve
+title: An Asset Allocation Primer
 ---
+
+
 
 # An Asset Allocation Primer
 

@@ -1,19 +1,14 @@
 ---
 tags:
-  - empirical_factors
-  - factor_models
-  - fama_french_model
-  - market_data
-  - risk_premia
+- arch
+- risk-management
+- var
 aliases:
-  - Empirical Factor
-  - Fama and French
+- Empirical Factor
+- Fama and French
 key_concepts:
-  - Data snooping biases
-  - Factor models and betas
-  - Fama-French three factors
-  - Market data performance
-  - Measurement of beta
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
 ---
 
 # 9.6 Empirical factors  

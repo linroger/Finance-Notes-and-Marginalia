@@ -1,3 +1,41 @@
+---
+key_concepts:
+- Equity valuation and analysis
+- Dividend discount models
+- Credit risk modeling
+- Default probability estimation
+- Fixed income securities
+- Interest rate derivatives
+- Foreign exchange markets
+- Currency derivatives
+- Option sensitivity analysis
+- Delta, gamma, vega, theta, rho
+- Bond pricing and yield analysis
+- Duration and convexity
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Structured products and CDOs
+- Credit derivatives
+- Interest rate modeling
+- Term structure of interest rates
+tags:
+- equity
+- regulatory-framework
+- credit
+- fixed_income
+- valuation
+- fx
+- greeks
+- volatility
+- bonds
+- commodities
+- swaps
+- options
+- structured_finance
+- interest_rates
+---
 ### **1  Time-Series & Price-Level Concepts**
 
 |**Term**|**What it measures**|**How it is produced**|**Why it matters**|

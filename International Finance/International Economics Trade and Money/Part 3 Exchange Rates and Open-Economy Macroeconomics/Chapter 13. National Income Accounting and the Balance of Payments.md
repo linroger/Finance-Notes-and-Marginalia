@@ -1,3 +1,24 @@
+---
+key_concepts:
+- Credit risk modeling
+- Default probability estimation
+- Foreign exchange markets
+- Currency derivatives
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+tags:
+- regulatory-framework
+- portfolio-theory
+- futures
+- options
+- credit
+- fx
+- bonds
+---
 # CHAPTER 13  
 
 # National Income Accounting and the Balance of Payments  

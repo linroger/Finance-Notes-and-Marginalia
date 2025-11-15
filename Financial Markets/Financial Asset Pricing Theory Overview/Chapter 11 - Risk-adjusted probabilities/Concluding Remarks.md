@@ -1,19 +1,18 @@
 ---
 tags:
-  - consumption_capm
-  - factor_pricing
-  - risk_adjusted_measures
-  - risk_neutral_measure
-  - state_price_deflator
+- apt
+- capm
+- fixed_income
+- risk-management
+- risk-neutral
+- zero-coupon
 aliases:
-  - Chapter 11.7
-  - Concluding Chapter
+- Chapter 11.7
+- Concluding Chapter
 key_concepts:
-  - consumption-based CAPM
-  - real vs nominal
-  - risk-adjusted probability measures
-  - risk-neutral probability measure
-  - state-price deflators
+- Risk-neutral measures and martingale pricing
+- Bond pricing and fixed income securities valuation
+- Interest rate caps, floors, and swaptions
 ---
 
 # 11.7 Concluding remarks  

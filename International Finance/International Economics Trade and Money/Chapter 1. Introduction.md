@@ -1,17 +1,33 @@
 ---
-cssclasses: [international-economics]
-title: Chapter 1. Introduction
-tags: [international-economics, trade, monetary-economics, introduction]
-aliases: [International Econ Introduction]
+aliases:
+- International Econ Introduction
+cssclasses:
+- international-economics
 key_concepts:
-  - Gains from Trade
-  - Pattern of Trade
-  - Balance of Payments
-  - Exchange Rate Determination
-  - International Policy Coordination
-  - International Capital Markets
-  - Protectionism
+- Gains from Trade
+- Pattern of Trade
+- Balance of Payments
+- Exchange Rate Determination
+- International Policy Coordination
+- International Capital Markets
+- Protectionism
+- Foreign exchange markets
+- Currency derivatives
+- Equity valuation and analysis
+- Dividend discount models
+- Options pricing and payoff structures
+- Delta hedging and Greeks
 linter-yaml-title-alias: Chapter 1. Introduction
+tags:
+- equity
+- regulatory-framework
+- international-economics
+- monetary-economics
+- fx
+- introduction
+- options
+- trade
+title: Chapter 1. Introduction
 ---
 
 # Chapter 1. Introduction

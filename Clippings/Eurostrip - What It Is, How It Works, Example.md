@@ -1,3 +1,47 @@
+---
+key_concepts:
+- forward commitments and hedging
+- investment banking services and activities
+- Risk-neutral pricing methodology for derivative securities
+- DV01 calculation and interest rate risk hedging
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk migration matrices and rating transition
+- Value-at-Risk calculation using historical simulation
+- Expected Shortfall and coherent risk measures
+- Backtesting procedures for risk models
+- Extreme value theory and tail risk modeling
+- Liquidity risk measurement and management
+- Operational risk quantification and modeling
+- Systemic risk indicators and early warning systems
+- Mean-variance optimization and the efficient frontier
+- Risk budgeting and portfolio construction techniques
+- Net interest margin analysis and banking profitability
+- Credit risk assessment and loan portfolio management
+- Bank liquidity ratios and funding risk management
+- Deposit insurance and systemic risk prevention
+- Shadow banking system and regulatory arbitrage
+- Arbitrage opportunities and risk-free profit extraction
+- Monte Carlo integration and variance reduction
+- Control variates and importance sampling techniques
+- Sovereign risk assessment and country analysis
+- Global financial stability and systemic risk monitoring
+- forward commitments and hedging
+- investment banking services and activities
+- Risk-neutral pricing methodology for derivative securities
+- DV01 calculation and interest rate risk hedging
+- Credit risk modeling and portfolio correlation analysis
+tags:
+- banking
+- currency-risk
+- financial-analysis
+- financial-modeling
+- interest-rate-swaps
+- investment-banking
+- quantitative-finance
+- risk-management
+- term-structure
+---
+
  
 source: https://www.investopedia.com/terms/e/eurostrip.asp
 description: A eurostrip, short for "eurodollar futures strip," is a derivative transaction

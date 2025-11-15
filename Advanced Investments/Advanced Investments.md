@@ -1,41 +1,45 @@
 ---
-title: Advanced Investments
-cssclasses:
-  - academia
-  - finance
-tags:
-  - advanced_investments
-  - financial_analysis
-  - investment_analysis
-  - investment_strategy
-  - risk_management
-  - portfolio_theory
-  - asset_allocation
-  - modern_portfolio_theory
-  - quantitative_finance
-  - behavioral_finance
 aliases:
-  - Advanced Investing
-  - Investments
-  - Advanced Investment Analysis
-  - Portfolio Management Techniques
+- Advanced Investing
+- Investments
+- Advanced Investment Analysis
+- Portfolio Management Techniques
+cssclasses:
+- academia
+- finance
 key_concepts:
-  - mean-variance optimization
-  - efficient frontier construction
-  - capital allocation line
-  - risk-return tradeoffs
-  - asset allocation strategies
-  - dynamic portfolio construction
-  - probability distributions of returns
-  - investor sentiment analysis
-  - behavioral finance implications
-  - fixed income securities analysis
-  - bond duration and convexity
-  - tail risk management
-  - volatility modeling and products
-  - inflation hedging strategies
-  - sovereign default risk assessment
+- mean-variance optimization
+- efficient frontier construction
+- capital allocation line
+- risk-return tradeoffs
+- asset allocation strategies
+- dynamic portfolio construction
+- probability distributions of returns
+- investor sentiment analysis
+- behavioral finance implications
+- fixed income securities analysis
+- bond duration and convexity
+- tail risk management
+- volatility modeling and products
+- inflation hedging strategies
+- sovereign default risk assessment
+tags:
+- advanced_investments
+- asset-allocation
+- asset_allocation
+- behavioral_finance
+- financial_analysis
+- investment_analysis
+- investment_strategy
+- modern_portfolio_theory
+- portfolio_theory
+- quantitative_finance
+- risk_management
+- sovereign-default
+title: Advanced Investments
 ---
+
+
 
 # Advanced Investments
 

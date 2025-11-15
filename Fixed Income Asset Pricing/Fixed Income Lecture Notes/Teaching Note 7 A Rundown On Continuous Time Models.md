@@ -1,24 +1,106 @@
 ---
-cssclasses:
-  - academia
-title: Teaching Note 7 A Rundown On Continuous Time Models
-tags:
-  - brownian_motion
-  - continuous_time_models
-  - interest_rate_modeling
-  - ito_formula
-  - vasicek_model
 aliases:
-  - Continuous Time Models
-  - Vasicek
-  - Wiener Process
+- Continuous Time Models
+- Vasicek
+- Wiener Process
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-f323f0
 key_concepts:
-  - AR(1) model
-  - Annualized quantities
-  - Brownian motion properties
-  - Ito's formula derivation
-  - Risk neutral pricing
-  - Taylor rule approximation
+- Risk neutral pricing
+- Cox-Ross-Rubinstein parameter specification
+- Annualized quantities
+- Term structure of interest rates and yield curve shapes
+- Extensions to multi-factor CAPM models
+- Stochastic calculus in financial modeling
+- Brownian motion and Wiener processes in finance
+- Computational implementation of binomial option pricing
+- Option Greeks and portfolio risk management
+- Currency derivatives
+- Expectations hypothesis and liquidity preference theory
+- Capital Asset Pricing Model and expected returns
+- Yield curve fitting and interpolation methods
+- Ito's formula derivation
+- Taylor rule approximation
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- Option sensitivity analysis
+- Foreign exchange markets
+- Brownian motion properties
+- Martingale theory and risk-neutral pricing
+- Market portfolio and risk-free rate assumptions
+- Equity valuation and analysis
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Security Market Line and beta measurement
+- Case Study
+- Interest rate swap pricing and valuation
+- Delta, gamma, vega, theta, rho
+- Vasicek short-rate model
+- Variance swaps and volatility trading strategies
+- Pairs trading and statistical arbitrage strategies
+- Convergence of binomial model to Black-Scholes solution
+- Interest rate derivatives
+- Derivatives pricing theory
+- Fixed income securities
+- Bond pricing and yield analysis
+- Binomial option pricing model with multiple time steps
+- American option pricing in binomial trees
+- Mean-reverting processes
+- Gamma and convexity adjustments
+- Risk-neutral valuation
+- Delta hedging and the replication argument
+- Parallel and non-parallel shifts in the yield curve
+- Cross-currency basis swaps and funding
+- AR(1) model
+- Duration and convexity
+- Dividend discount models
+- Empirical tests and anomalies in CAPM
+tags:
+- yield-curve
+- fx
+- binomial-model
+- stochastic-calculus
+- interest-rate-swaps
+- mathematical-finance
+- monte_carlo
+- course-material
+- pairs-trading
+- capm
+- martingales
+- brownian-motion
+- vasicek_model
+- case-study
+- greeks
+- black-scholes-model
+- value-at-risk
+- fixed_income
+- cir-model
+- hedge-funds
+- hull-white-model
+- quantitative-implementation
+- duration-convexity
+- solution
+- brownian_motion
+- treasury-bonds
+- ito_formula
+- american-options
+- model-calibration
+- equity
+- interest_rates
+- vasicek
+- stochastic_calculus
+- interest_rate_modeling
+- portfolio-theory
+- delta-hedging
+- vasicek-model
+- hedge_funds
+- mean-reversion
+- monte-carlo
+title: Teaching Note 7 A Rundown On Continuous Time Models
 ---
 
 Overview of the Vasicek Short Rate Model | Vasicek Model]]

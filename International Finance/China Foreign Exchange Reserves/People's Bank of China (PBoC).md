@@ -1,25 +1,96 @@
 ---
-cssclasses:
-  - academia
-description: The People's Bank of China is the central
-  bank of the People's Republic of China and is located in Beijing.
-source: https://www.investopedia.com/terms/p/peoples-bank-china-pboc.asp
-title: People's Bank of China (PBoC)
-tags:
-  - china_economy
-  - chinese_central_bank
-  - financial_stability
-  - monetary_policy
-  - pboc
 aliases:
-  - PBOC
-  - People's Bank of China
+- PBOC
+- People's Bank of China
+cssclasses:
+- academia
+description: The People's Bank of China is the central bank of the People's Republic
+  of China and is located in Beijing.
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-2b40e8
 key_concepts:
-  - China's central bank
-  - Maintains economic stability
-  - Manages Renminbi currency
-  - Oversees monetary policy
-  - Regulates financial institutions
+- Term structure of interest rates and yield curve shapes
+- Treasury Bonds
+- Manages Renminbi currency
+- Maintains economic stability
+- Oversees monetary policy
+- Currency derivatives
+- Expectations hypothesis and liquidity preference theory
+- Futures contracts and forward pricing
+- Solution
+- Default probability estimation
+- Yield curve fitting and interpolation methods
+- Historical simulation vs. parametric VaR models
+- Value at risk and stress testing
+- Portfolio immunization strategies
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- Foreign exchange markets
+- Liquidity and price discovery
+- Monte Carlo VaR for complex portfolios
+- Stress testing and scenario analysis
+- Key rate duration and curve risk
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Currency risk management and hedging
+- Forward rates and interest rate parity
+- Value at Risk (VaR) methodologies and backtesting
+- Portfolio risk metrics
+- Exchange rate determination and PPP theory
+- China's central bank
+- Margin requirements and clearing
+- Interest rate swap pricing and valuation
+- Expected Shortfall and coherent risk measures
+- Market microstructure and trading
+- Variance swaps and volatility trading strategies
+- Interest rate derivatives
+- Fixed income securities
+- Regulates financial institutions
+- Bond pricing and yield analysis
+- Stress Testing
+- Quantitative Implementation
+- Parallel and non-parallel shifts in the yield curve
+- Credit risk modeling
+- Duration and convexity measures for bond portfolios
+- Cross-currency basis swaps and funding
+- Price sensitivity to interest rate changes
+- Modified duration vs. Macaulay duration
+- Duration and convexity
+- Options pricing and payoff structures
+- Currency markets and foreign exchange trading
+source: https://www.investopedia.com/terms/p/peoples-bank-china-pboc.asp
+tags:
+- yield-curve
+- fx
+- interest-rate-swaps
+- mathematical-finance
+- trading
+- course-material
+- financial_stability
+- bonds
+- risk_management
+- value-at-risk
+- fixed_income
+- exchange-rates
+- options
+- credit-risk
+- chinese_central_bank
+- quantitative-implementation
+- duration-convexity
+- solution
+- treasury-bonds
+- regulation
+- pboc
+- interest_rates
+- stress-testing
+- credit
+- monetary_policy
+- futures
+- municipal-bonds
+- china_economy
+title: People's Bank of China (PBoC)
 ---
 
 People's Bank of China) (PBoC)]]

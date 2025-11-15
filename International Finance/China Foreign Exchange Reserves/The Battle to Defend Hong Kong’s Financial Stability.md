@@ -1,27 +1,104 @@
 ---
+aliases:
+- AFC
+- Hong Kong financial stability
+- LERS
 cssclasses:
-  - academia
-title: The Battle to Defend Hong Kong’s Financial Stability
-source: https://www.hkma.gov.hk/eng/news-and-media/insight/2019/09/20190911/
+- academia
 description: During my nearly three decade career with the HKMA,     I have had the
   unenviable experience of very close encounters with two major financial crises,     namely
   the Asian Financial Crisis (AFC) which started
-tags:
-  - asian_financial_crisis
-  - currency_manipulation
-  - hedge_funds
-  - hkma
-  - linked_exchange_rate
-aliases:
-  - AFC
-  - Hong Kong financial stability
-  - LERS
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-8be6ec
 key_concepts:
-  - Asian currency crisis
-  - Hong Kong's history
-  - currency and stock markets
-  - financial crises
-  - hedge fund strategies
+- Apt
+- Carry trades and momentum in FX markets
+- Currency markets and foreign exchange trading
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Credit risk modeling and default probability estimation
+- Currency derivatives
+- Futures contracts and forward pricing
+- currency and stock markets
+- Default probability estimation
+- Credit spread decomposition and hazard rates
+- Historical simulation vs. parametric VaR models
+- CDS clearing and central counterparties
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- Foreign exchange markets
+- Liquidity and price discovery
+- Monte Carlo VaR for complex portfolios
+- hedge fund strategies
+- Stress testing and scenario analysis
+- Equity valuation and analysis
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Currency risk management and hedging
+- Forward rates and interest rate parity
+- Value at Risk (VaR) methodologies and backtesting
+- financial crises
+- Counterparty risk and settlement
+- Case Study
+- Exchange rate determination and PPP theory
+- Balance Of Payments
+- Interest rate swap pricing and valuation
+- Margin requirements and clearing
+- Expected Shortfall and coherent risk measures
+- Credit default swap pricing and risk-neutral probabilities
+- Market microstructure and trading
+- Variance swaps and volatility trading strategies
+- Credit exposure measurement and EAD
+- Bond pricing and yield analysis
+- Capital Structure
+- Asian currency crisis
+- Hedge fund strategies and alternative investments
+- Hong Kong's history
+- Credit default swaps and credit risk
+- Credit risk modeling
+- Cross-currency basis swaps and funding
+- Duration and convexity
+- Options pricing and payoff structures
+- Dividend discount models
+source: https://www.hkma.gov.hk/eng/news-and-media/insight/2019/09/20190911/
+tags:
+- fx
+- credit-default-swaps
+- balance-of-payments
+- asian_financial_crisis
+- collateralized-debt-obligations
+- interest-rate-swaps
+- mathematical-finance
+- trading
+- course-material
+- capital-structure
+- case-study
+- apt
+- bonds
+- value-at-risk
+- exchange-rates
+- valuation
+- hedge-funds
+- options
+- credit-risk
+- quantitative-implementation
+- duration-convexity
+- solution
+- equity
+- interest_rates
+- infrastructure
+- currency_manipulation
+- hkma
+- exotic-options
+- credit
+- hedge_funds
+- futures
+- municipal-bonds
+- cds
+- linked_exchange_rate
+title: The Battle to Defend Hong Kong’s Financial Stability
 ---
 
 # The Battle to Defend Hong Kong’s Financial Stability

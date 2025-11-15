@@ -1,26 +1,102 @@
 ---
-cssclasses:
-  - academia
-title: Teaching Note 1-Introduction To Fixed Income Securities
-tags:
-  - federal_reserve
-  - fixed_income
-  - floating_rate_notes
-  - mortgage_backed_securities
-  - treasury_bonds
 aliases:
-  - FRNs
-  - Fixed Income Intro
-  - TIPS
-  - Teaching Note 1
+- FRNs
+- Fixed Income Intro
+- TIPS
+- Teaching Note 1
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-a5fe7d
 key_concepts:
-  - Federal Reserve actions
-  - Fixed income markets
-  - Floating rate notes pricing
-  - Government debt increase
-  - Mortgage-backed securities market
-  - Treasury bond behavior
-  - Yield to maturity
+- Yield to maturity
+- Extensions to multi-factor CAPM models
+- Term structure of interest rates and yield curve shapes
+- Fixed income markets
+- Single-name vs. index CDS trading
+- Floating rate notes pricing
+- Option Greeks and portfolio risk management
+- Currency derivatives
+- Expectations hypothesis and liquidity preference theory
+- Capital Asset Pricing Model and expected returns
+- Futures contracts and forward pricing
+- Interest rate swaps and term structure
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- Vega and volatility risk management
+- CDS clearing and central counterparties
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- Option sensitivity analysis
+- GARCH models and volatility forecasting
+- Foreign exchange markets
+- Liquidity and price discovery
+- Market portfolio and risk-free rate assumptions
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Security Market Line and beta measurement
+- Value at Risk (VaR) methodologies and backtesting
+- Theta and time decay modeling
+- Case Study
+- Mortgage-backed securities market
+- Interest rate swap pricing and valuation
+- Delta, gamma, vega, theta, rho
+- Credit default swap pricing and risk-neutral probabilities
+- Market microstructure and trading
+- Variance swaps and volatility trading strategies
+- Interest rate derivatives
+- Fixed income securities
+- Treasury bond behavior
+- Bond pricing and yield analysis
+- Federal Reserve actions
+- Gamma and convexity adjustments
+- Government debt increase
+- Delta hedging and the replication argument
+- Parallel and non-parallel shifts in the yield curve
+- Cross-currency basis swaps and funding
+- Basis swaps and cross-currency swaps
+- Duration and convexity
+- Empirical tests and anomalies in CAPM
+tags:
+- yield-curve
+- fx
+- treasury_bonds
+- credit-default-swaps
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- trading
+- course-material
+- calibration
+- capm
+- federal_reserve
+- case-study
+- bonds
+- greeks
+- value-at-risk
+- fixed_income
+- exchange-rates
+- credit-risk
+- currency-swaps
+- quantitative-implementation
+- duration-convexity
+- solution
+- treasury-bonds
+- regulation
+- model-calibration
+- investment-banking
+- interest_rates
+- infrastructure
+- wholesale-funding
+- mortgage_backed_securities
+- exotic-options
+- regulatory-framework
+- cds
+- floating_rate_notes
+title: Teaching Note 1-Introduction To Fixed Income Securities
 ---
 
 # Teaching Note 1-Introduction To Fixed Income Securities

@@ -1,25 +1,41 @@
 ---
-cssclasses: academia
-linter-yaml-title-alias: Note On LBO Capital Structure
-title: Note on LBO Capital Structure
-tags:
-  - capital_structure
-  - debt_financing
-  - lbo
-  - leveraged_loans
-  - senior_debt
 aliases:
-  - Capital Structure
-  - Debt Layers
-  - LBO Debt
+- Capital Structure
+- Debt Layers
+- LBO Debt
+cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batchAA-zzhve8
 key_concepts:
-  - Asset-backed loans
-  - Junior debt
-  - LBO debt characteristics
-  - Leveraged loans
-  - Senior secured debt
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
+tags:
+- abs
+- american-options
+- arbitrage
+- binomial
+- black-scholes
+- bonds
+- capm
+- convexity
+- counterparty-risk
+- credit-risk
+- derivatives-pricing
+- duration
+- fixed_income
+- options
+- risk-management
+- risk-neutral
+- var
+title: Note on LBO Capital Structure
 ---
-
 # Note on LBO Capital Structure
 
 Leveraged buyouts (LBOs) are characterized by a high degree of debt ("leverage"). **Exhibit 1** and Exhibit 2 show that over the past decade LBO debt was between 50-70% of total funding sources, and debt-to-EBITDA was between 3.2x–6.3x.

@@ -1,11 +1,15 @@
 ---
 tags:
-  - '#chapter_5'
-  - '#individual_preferences'
-  - '#modeling_preferences'
-  - '#preference_modeling'
+- abs
+- apt
+- fixed_income
+- risk-management
+- var
+key_concepts:
+- Value at Risk and tail risk measurement
 ---
-# Chapter 5  
+
+# Chapter 5
 %% Begin Waypoint %%
 - **Chapter 5 - Modeling the Preferences of Individuals**
 	- Chapter 5 - Modeling the Preferences of Individuals

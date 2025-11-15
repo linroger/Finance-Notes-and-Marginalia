@@ -1,26 +1,63 @@
 ---
+aliases:
+- BSM
+- IV
+- The Smirk
 cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-1c6a14
+key_concepts:
+- Black-Scholes model and option pricing theory
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Monte Carlo simulation for derivatives valuation
+- Partial differential equations in financial modeling
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility smile, skew, and surface modeling
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
 linter-yaml-title-alias: LECTURE NOTE 7-EXOTIC OPTIONS AND DERIVATIVE PRICING BY MONTE
   CARLO SIMULATION
-title: Lecture Note 6-Implied Volatility
 tags:
-  - black_scholes
-  - implied_volatility
-  - market_uncertainty
-  - option_pricing
-  - volatility_surface
-aliases:
-  - BSM
-  - IV
-  - The Smirk
-key_concepts:
-  - Black-Scholes model issues
-  - Fat tails in returns
-  - Implied volatility definition
-  - Implied volatility surface
-  - Moneyness definition
-  - Stochastic volatility
-  - VIX volatility swaps
+- apt
+- arbitrage
+- arch
+- binomial
+- black-scholes
+- calls
+- capm
+- convexity
+- correlation
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- exotic-options
+- factor-models
+- fixed_income
+- gamma
+- garch
+- greeks
+- hedging
+- implied-volatility
+- interest-rate-swaps
+- monte-carlo
+- options
+- pde
+- puts
+- replication
+- risk-management
+- swaps
+- theta
+- var
+- vega
+title: Lecture Note 6-Implied Volatility
 ---
 
 # Lecture Note 6-Implied Volatility

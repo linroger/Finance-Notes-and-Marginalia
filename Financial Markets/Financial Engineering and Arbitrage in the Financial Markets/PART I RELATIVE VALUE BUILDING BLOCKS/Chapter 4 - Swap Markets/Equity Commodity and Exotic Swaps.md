@@ -1,20 +1,45 @@
 ---
-tags:
-  - commodity_swaps
-  - equity_linked_bonds
-  - equity_swaps
-  - exotic_swaps
-  - stock_index
 aliases:
-  - Equity Swap
-  - Equity, Commodity, and Exotic Swaps
-  - Equity-linked Bond
+- Equity Swap
+- Equity, Commodity, and Exotic Swaps
+- Equity-linked Bond
 key_concepts:
-  - Coupon payout formula
-  - Equity exposure in bond
-  - Exchange of return flows
-  - Flexible investment vehicle
-  - Structured bonds
+- Coupon payout formula
+- Equity exposure in bond
+- Exchange of return flows
+- Flexible investment vehicle
+- Structured bonds
+- Equity valuation and analysis
+- Dividend discount models
+- Option sensitivity analysis
+- Delta, gamma, vega, theta, rho
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Foreign exchange markets
+- Currency derivatives
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Derivatives pricing theory
+- Risk-neutral valuation
+- Arbitrage theory and practice
+tags:
+- equity
+- credit
+- equity_swaps
+- greeks
+- exotic_swaps
+- cds
+- structured_finance
+- stock_index
+- mathematical-finance
+- regulation
+- equity_linked_bonds
+- commodity_swaps
+- portfolio-theory
+- fx
+- commodities
 ---
 
 # 4.4 EQUITY, COMMODITY, AND EXOTIC SWAPS  

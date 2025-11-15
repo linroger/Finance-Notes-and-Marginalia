@@ -1,36 +1,26 @@
 ---
-title: II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts
-tags:
-  - banking
-  - debt_contracts
-  - derivatives
-  - financial_intermediation
-  - lending
-  - risk_management
-  - information_asymmetry
-  - credit_monitoring
-  - debt_restructuring
-  - bankruptcy
-  - covenants
-  - exchange_offers
-cssclasses: academia
 aliases:
-  - Debt Contracts
-  - Derivative Markets
-  - Bank Asset Services
-  - Debt Restructuring
+- Debt Contracts
+- Derivative Markets
+- Bank Asset Services
+- Debt Restructuring
+cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
 key_concepts:
-  - Banks and Debt Contracts
-  - Debt Contract Problems
-  - Derivative Market Roles
-  - Resolving Debt Contract Issues
-  - Information Asymmetry Solutions
-  - Delegated Monitoring
-  - Debt Restructuring Mechanisms
-  - Coercive Exchange Offers
-  - Bankruptcy Alternatives
-  - Loan vs Bond Covenants
+- Bond pricing and fixed income securities valuation
+- Ito's lemma and stochastic calculus applications
+- Credit risk modeling and default probability estimation
+- Interest rate caps, floors, and swaptions
+tags:
+- arch
+- bonds
+- fixed_income
+- heston
+title: II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent
+  in Debt Contracts
 ---
+
 
 # II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts
 

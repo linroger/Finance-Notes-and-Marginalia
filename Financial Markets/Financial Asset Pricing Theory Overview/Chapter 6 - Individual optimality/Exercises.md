@@ -1,27 +1,34 @@
 ---
 tags:
-  - arbitrage_free
-  - one_period_economy
-  - optimal_consumption
-  - risk_free_asset
-  - state_dependent_utility
+- arbitrage
+- delta
+- derivatives-pricing
+- gamma
+- risk-management
+- theta
+- var
 aliases:
-  - Exercise 6.1
-  - Exercise 6.2
-  - Exercise 6.3
-  - Exercise 6.4
-  - Exercise 6.5
+- Exercise 6.1
+- Exercise 6.2
+- Exercise 6.3
+- Exercise 6.4
+- Exercise 6.5
 key_concepts:
-  - arbitrage-free market
-  - logarithmic utility
-  - mean-variance
-  - one-period economy
-  - optimal consumption plan
-  - risk-free asset
-  - risk-free interest rate
-  - state price vector
-  - state-dependent utility
-  - state-price deflator
+- Individual Optimality and Consumption-Portfolio Choice
+- State-Dependent Utility and Marginal Rate of Substitution
+- CRRA and Logarithmic Utility Functions in Portfolio Theory
+- Market Completeness and Redundant Asset Identification
+- State-Price Vectors and Risk-Neutral Probability Measures
+- Mean-Variance Optimization and Efficient Frontiers
+- Risk-Free Assets and Risk-Free Rate Determination
+- Arbitrage-Free Pricing and Portfolio Replication
+- Lagrangian Characterization of Portfolio Optimization
+- Minimum-Variance Portfolio and Efficient Set Theory
+- Habit Formation Utility and Internal Consumption Habits
+- Negative Exponential Utility and Optimal Portfolios
+- Covariance and Correlation in Multi-Asset Portfolios
+- Budget Constraints and Intertemporal Choice Theory
+- State-Contingent Claims and Complete Market Pricing
 ---
 
 # 6.8 Exercises  

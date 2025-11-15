@@ -1,19 +1,44 @@
 ---
-tags:
-  - bond_pricing
-  - credit_migration
-  - credit_risk
-  - default_probability
-  - deterministic_model
 aliases:
-  - Credit Quality Model
-  - Deterministic Credit Model
+- Credit Quality Model
+- Deterministic Credit Model
 key_concepts:
-  - Conditional probabilities
-  - Credit migration model
-  - Deterministic default probability
-  - Non-constant default probability
-  - Transitional probabilities
+- Conditional probabilities
+- Credit migration model
+- Deterministic default probability
+- Non-constant default probability
+- Transitional probabilities
+- Credit risk modeling
+- Default probability estimation
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Derivatives pricing theory
+- Risk-neutral valuation
+- Structured products and CDOs
+tags:
+- default_probability
+- credit
+- cds
+- bond_pricing
+- structured_finance
+- credit_migration
+- binomial
+- interest_rates
+- credit_risk
+- valuation
+- trading
+- bonds
+- deterministic_model
+- futures
+- derivatives
 ---
 
 # 7.3 A DETERMINISTIC CREDIT MIGRATION MODEL  

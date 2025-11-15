@@ -1,22 +1,34 @@
 ---
 tags:
-  - black_scholes_merton
-  - coupon_bond
-  - dividend_payments
-  - european_call_option
-  - no_arbitrage
+- abs
+- apt
+- arbitrage
+- black-scholes
+- delta
+- derivatives-pricing
+- fixed_income
+- futures
+- no-arbitrage
+- rho
+- risk-management
+- var
+- vasicek
+- zero-coupon
 aliases:
-  - Exercise 12.1
-  - Exercise 12.2
-  - Exercise 12.3
-  - Exercise 12.4
-  - Exercise 12.5
+- Exercise 12.1
+- Exercise 12.2
+- Exercise 12.3
+- Exercise 12.4
+- Exercise 12.5
 key_concepts:
-  - Black-Scholes-Merton equation
-  - European call option pricing
-  - coupon bond futures price
-  - dividend payment impact
-  - no-arbitrage option price
+- Black-Scholes model and option pricing theory
+- 'Short-rate models: Vasicek, CIR, and mean reversion'
+- Bond pricing and fixed income securities valuation
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Options Greeks and sensitivity analysis
 ---
 
 # 12.7 Exercises  

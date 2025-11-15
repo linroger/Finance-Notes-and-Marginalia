@@ -1,25 +1,56 @@
 ---
-title: Forward Points in Currency
-source: https://www.investopedia.com/terms/f/forwardpoints.asp
+aliases:
+- Discount Spread
+- Forward Contract
+- Forward Rate
 description: Forward points are the number of basis points added to or subtracted
   from the current spot rate to determine the forward rate.
-tags:
-  - currency_trading
-  - forward_discount
-  - forward_points
-  - forward_premium
-  - spot_rate
-aliases:
-  - Discount Spread
-  - Forward Contract
-  - Forward Rate
 key_concepts:
-  - Basis points added/subtracted
-  - Calculate forward rate
-  - Currency trading
-  - Forward points in currency
-  - Forward premium vs discount
+- Basis points added/subtracted
+- Calculate forward rate
+- Currency trading
+- Forward points in currency
+- Forward premium vs discount
+- interest rate and currency derivatives
+- forward commitments and hedging
+- value date in CDS
+- Risk-neutral pricing methodology for derivative securities
+- Monte Carlo simulation techniques for path-dependent options
+- Binomial option pricing model for American-style options
+- Greeks calculation and their interpretation in options trading
+- Implied volatility extraction from market option prices
+- Volatility smile and skew modeling in options markets
+- Delta hedging strategies in options portfolio management
+- Theta decay modeling for time-sensitive options strategies
+- Interest rate swap valuation and fixed-floating spreads
+- Treasury futures trading and basis point value calculations
+- Credit default swap pricing and recovery assumptions
+- Synthetic credit derivatives and index trades
+- CVA and DVA adjustments in derivative pricing
+- Real options valuation in corporate investment decisions
+- Commodity futures pricing and storage costs
+- 'Structured products: CDOs, CLOs, and credit derivatives'
+- interest rate and currency derivatives
+- forward commitments and hedging
+- value date in CDS
+- Risk-neutral pricing methodology for derivative securities
+- Monte Carlo simulation techniques for path-dependent options
+- Binomial option pricing model for American-style options
+source: https://www.investopedia.com/terms/f/forwardpoints.asp
+tags:
+- currency-swaps
+- currency_trading
+- financial-analysis
+- financial-modeling
+- forward_discount
+- forward_points
+- forward_premium
+- quantitative-finance
+- spot_rate
+title: Forward Points in Currency
 ---
+
+
 
 
 ## What Are Forward Points?

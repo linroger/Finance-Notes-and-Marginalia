@@ -1,20 +1,71 @@
 ---
-tags:
-  - black_scholes_model
-  - derivative_pricing
-  - heston_model
-  - option_pricing
-  - stochastic_calculus
 aliases:
-  - Black-Scholes
-  - Heston
-  - Option Pricing
+- Black-Scholes
+- Heston
+- Option Pricing
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-e5b3f2
 key_concepts:
-  - Black-Scholes-Merton PDE
-  - Heston model introduction
-  - Option pricing formulas
-  - Stochastic calculus review
-  - Stochastic volatility modeling
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- 'Short-rate models: Vasicek, CIR, and mean reversion'
+- Bond pricing and fixed income securities valuation
+- Ito's lemma and stochastic calculus applications
+- Partial differential equations in financial modeling
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility smile, skew, and surface modeling
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- abs
+- apt
+- arbitrage
+- arch
+- black-scholes
+- bonds
+- brownian-motion
+- capm
+- completeness
+- convexity
+- correlation
+- credit-risk
+- delta
+- delta-hedging
+- derivatives-pricing
+- duration
+- european-options
+- exotic-options
+- factor-models
+- fixed_income
+- gamma
+- garch
+- geometric-brownian-motion
+- greeks
+- hedging
+- heston
+- implied-volatility
+- interest-rate-swaps
+- martingale
+- mean-reversion
+- no-arbitrage
+- options
+- pde
+- replication
+- risk-management
+- risk-neutral
+- stochastic-calculus
+- swaps
+- theta
+- var
+- vasicek
+- vega
 ---
 
 # MATHEMATICAL MODELING OF DERIVATIVE PRICING  

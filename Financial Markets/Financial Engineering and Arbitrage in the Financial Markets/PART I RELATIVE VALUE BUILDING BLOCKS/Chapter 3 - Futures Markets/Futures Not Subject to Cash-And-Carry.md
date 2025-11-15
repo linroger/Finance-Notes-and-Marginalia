@@ -1,20 +1,45 @@
 ---
-tags:
-  - cash_and_carry
-  - commodity_markets
-  - convenience_yield
-  - financial_assets
-  - futures_contracts
 aliases:
-  - Commodities
-  - Convenience Assets
-  - Futures
+- Commodities
+- Convenience Assets
+- Futures
 key_concepts:
-  - Commodities convenience assets
-  - Convenience yield definition
-  - Cost-of-carry equation
-  - Futures not cash-and-carry
-  - Pure financial assets
+- Commodities convenience assets
+- Convenience yield definition
+- Cost-of-carry equation
+- Futures not cash-and-carry
+- Pure financial assets
+- Equity valuation and analysis
+- Dividend discount models
+- Credit risk modeling
+- Default probability estimation
+- Fixed income securities
+- Interest rate derivatives
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Futures contracts and forward pricing
+tags:
+- convenience_yield
+- equity
+- credit
+- cash_and_carry
+- hedge_funds
+- financial_assets
+- futures_contracts
+- fixed_income
+- fx
+- trading
+- bonds
+- commodities
+- swaps
+- commodity_markets
+- futures
 ---
 
 # 3.4  FUTURES NOT SUBJECT TO CASH-AND-CARRY  

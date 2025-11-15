@@ -1,29 +1,20 @@
 ---
-cssclasses:
-  - academia
-title: Gordon Bargain Stores B
-tags:
-  - business_model
-  - company_valuation
-  - deep_discount_retail
-  - financial_analysis
-  - retail_industry
-  - case_study
-  - bankruptcy_risk
-  - debt_restructuring
 aliases:
-  - Bargain Stores B
-  - GBS Part B
-  - Gordon Bargain Case B
+- Bargain Stores B
+- GBS Part B
+- Gordon Bargain Case B
+cssclasses:
+- academia
 key_concepts:
-  - Business strategy
-  - Discount retail
-  - Financial performance
-  - Market analysis
-  - Valuation metrics
-  - Bankruptcy analysis
-  - Debt restructuring options
-  - Turnaround strategies
+- Term structure of interest rates and yield curve modeling
+- Credit risk modeling and default probability estimation
+- Portfolio hedging and risk reduction strategies
+tags:
+- hedging
+- options
+- risk-management
+title: Gordon Bargain Stores B
 ---
+
 
 # Gordon Bargain Stores B

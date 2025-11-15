@@ -1,20 +1,16 @@
 ---
 tags:
-  - asset_pricing
-  - consumption
-  - continuous_time
-  - expected_utility
-  - market_completeness
-  - state_price
+- completeness
+- delta
+- derivatives-pricing
+- risk-management
+- var
 aliases:
-  - Continuous Time Framework
-  - Continuous-time Model
+- Continuous Time Framework
+- Continuous-time Model
 key_concepts:
-  - Continuous-time setting
-  - Market completeness
-  - Optimal consumption process
-  - State-price deflator
-  - Time-additive utility
+- Value at Risk and tail risk measurement
+- Options Greeks and sensitivity analysis
 ---
 
 # 6.4 The continuous-time framework  

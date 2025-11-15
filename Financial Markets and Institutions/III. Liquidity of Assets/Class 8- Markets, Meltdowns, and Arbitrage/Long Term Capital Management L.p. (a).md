@@ -1,24 +1,18 @@
 ---
-tags:
-  - arbitrage_trading
-  - financial_crises
-  - financial_markets
-  - hedge_fund
-  - long_term_capital_management
-  - market_liquidity
-  - quantitative_finance
-  - risk_management
 aliases:
-  - L
-  - L.p. (a).md
-  - Long-Term Capital Management, L.P. (A)
+- L
+- L.p. (a).md
+- Long-Term Capital Management, L.P. (A)
 key_concepts:
-  - Long-Term Capital Management
-  - comparative balance sheet
-  - firm's future
-  - investment returns
-  - net capital
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+tags:
+- arbitrage
+- hedging
+- risk-management
 ---
+
 
 ---
 aliases:

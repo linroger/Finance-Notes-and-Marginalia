@@ -1,22 +1,45 @@
 ---
-title: The Mechanics of the Deflationary Debt Cycle
-cssclasses: academia
-tags:
-  - asset_bubbles
-  - debt_cycle
-  - deflation
-  - economic_cycles
-  - goldilocks_period
 aliases:
-  - Debt Cycle
-  - Debt-Driven Cycles
-  - Deflationary Debt Cycle
+- Debt Cycle
+- Debt-Driven Cycles
+- Deflationary Debt Cycle
+cssclasses: academia
 key_concepts:
-  - Bubble bursting
-  - Debt-driven booms and busts
-  - Early cycle growth
-  - Excessive debt accumulation
-  - Unsustainable asset prices
+- Bubble bursting
+- Debt-driven booms and busts
+- Early cycle growth
+- Excessive debt accumulation
+- Unsustainable asset prices
+- Equity valuation and analysis
+- Dividend discount models
+- Credit risk modeling
+- Default probability estimation
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Interest rate modeling
+- Term structure of interest rates
+tags:
+- asset_bubbles
+- equity
+- regulatory-framework
+- credit
+- trading
+- economic_cycles
+- bonds
+- commodities
+- debt_cycle
+- cds
+- options
+- goldilocks_period
+- interest_rates
+- deflation
+title: The Mechanics of the Deflationary Debt Cycle
 ---
 
 # The Mechanics of the Deflationary Debt Cycle

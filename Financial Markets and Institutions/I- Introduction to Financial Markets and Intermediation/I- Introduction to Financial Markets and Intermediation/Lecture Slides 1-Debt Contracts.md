@@ -1,36 +1,28 @@
 ---
-cssclasses: academia
-linter-yaml-title-alias: Lecture Slides 1 - Debt Contracts
-title: Lecture Slides 1 - Debt Contracts
-tags:
-  - bank_runs
-  - bankruptcy
-  - capital_structure
-  - debt_contracts
-  - financial_crisis
-  - liquidity
-  - securitization
-  - debt_pricing
-  - agency_costs
-  - trust_indenture_act
 aliases:
-  - Debt Contracts
-  - Debt and Bankruptcy
-  - Debt and Liquidity
-  - Lecture 1
-  - Strategic Effects of Debt Slides
+- Debt Contracts
+- Debt and Bankruptcy
+- Debt and Liquidity
+- Lecture 1
+- Strategic Effects of Debt Slides
+cssclasses: academia
 key_concepts:
-  - Bailouts and government crises
-  - Banks and financial engineering
-  - Capital structure choice
-  - Debt contracts and bankruptcy
-  - Financial panics and debt
-  - Liquidity in markets
-  - Securitization structures
-  - Strategic effects of debt
-  - Trust Indenture Act restrictions
-  - Debt capacity calculations
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
+linter-yaml-title-alias: Lecture Slides 1 - Debt Contracts
+tags:
+- arbitrage
+- bonds
+- correlation
+- credit-risk
+- fixed_income
+- risk-management
+title: Lecture Slides 1 - Debt Contracts
 ---
+
 
 # Lecture Slides 1 - Debt Contracts
 

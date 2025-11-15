@@ -1,37 +1,46 @@
 ---
-cssclasses: ["academia"]
-title: Business Cycles - Introduction, Characteristics, and History
+aliases:
+- Business Cycle
+- Business Cycle Overview
+- Economic Cycle
+- Business Cycles Introduction
+- Cyclical Fluctuations
+cssclasses:
+- academia
+key_concepts:
+- Aggregate output, income, employment
+- Business cycle characteristics
+- Fluctuations in economic activity
+- Macroeconomic fiscal and monetary policies
+- Recessions and expansions
+- Burns-Mitchell definition
+- Business cycle dating
+- Peak and trough identification
+- Cyclical vs. growth trends
+- Duration and amplitude of cycles
+- Synchronization across sectors
+- Historical business cycles
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Bond pricing and yield analysis
+- Duration and convexity
 linter-yaml-title-alias: Business Cycles - Introduction, Characteristics, and History
 tags:
-  - business_cycles
-  - economic_activity
-  - expansions
-  - macroeconomic_fluctuations
-  - recessions
-  - economic_growth
-  - cyclical_patterns
-  - turning_points
-  - nber_dating
-  - economic_history
-aliases:
-  - Business Cycle
-  - Business Cycle Overview
-  - Economic Cycle
-  - Business Cycles Introduction
-  - Cyclical Fluctuations
-key_concepts:
-  - Aggregate output, income, employment
-  - Business cycle characteristics
-  - Fluctuations in economic activity
-  - Macroeconomic fiscal and monetary policies
-  - Recessions and expansions
-  - Burns-Mitchell definition
-  - Business cycle dating
-  - Peak and trough identification
-  - Cyclical vs. growth trends
-  - Duration and amplitude of cycles
-  - Synchronization across sectors
-  - Historical business cycles
+- business_cycles
+- expansions
+- recessions
+- economic_activity
+- nber_dating
+- volatility
+- commodities
+- economic_history
+- bonds
+- options
+- economic_growth
+- macroeconomic_fluctuations
+- cyclical_patterns
+- turning_points
+title: Business Cycles - Introduction, Characteristics, and History
 ---
 
 # Business Cycles: Introduction, Characteristics, and History

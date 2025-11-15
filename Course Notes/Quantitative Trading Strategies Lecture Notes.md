@@ -1,20 +1,119 @@
 ---
-tags:
-  - credit_risk
-  - market_inefficiency
-  - quantitative_trading
-  - risk_management
-  - trading_strategies
 aliases:
-  - Quant Trading
-  - Quantitative Finance
-  - Trading Strategies
+- Quant Trading
+- Quantitative Finance
+- Trading Strategies
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-c22415
 key_concepts:
-  - Credit risk
-  - Market inefficiency
-  - Providing services
-  - Quantitative trading elements
-  - Sources of profit
+- Apt
+- coupon-bearing bond analysis
+- Term structure of interest rates and yield curve shapes
+- Extensions to multi-factor CAPM models
+- Duration and convexity analysis for bond portfolio management
+- Monte Carlo simulation techniques for path-dependent options
+- Brownian motion and Wiener processes in finance
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Market risk measurement and portfolio volatility
+- Commodity markets and pricing dynamics
+- Expectations hypothesis and liquidity preference theory
+- market maker in CDS markets
+- Market inefficiency
+- active management performance attribution
+- Capital Asset Pricing Model and expected returns
+- portfolio theory and asset pricing
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- Empirical tests and anomalies in CAPM
+- option pricing models and PDE solutions
+- CDS clearing and central counterparties
+- fixed income risk measurement
+- forward commitments and hedging
+- CDS-Bond basis and arbitrrage opportunities
+- Spot rates vs. forward rates modeling
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- Monte Carlo integration and variance reduction
+- GARCH models and volatility forecasting
+- Quantitative trading elements
+- Credit risk
+- convertible bond analysis and conversion value
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- portfolio optimization and risk decomposition
+- Security Market Line and beta measurement
+- Case Study
+- Interest rate swap pricing and valuation
+- excess returns and manager skill
+- interest rate and currency derivatives
+- Credit default swap pricing and risk-neutral probabilities
+- zero-coupon bond pricing and yields
+- Variance swaps and volatility trading strategies
+- systematic risk and market exposure
+- high yield debt and default risk
+- Providing services
+- Value-at-Risk calculation using historical simulation
+- Sources of profit
+- Capital Structure
+- Parallel and non-parallel shifts in the yield curve
+- risk-adjusted performance measurement
+- Cross-currency basis swaps and funding
+- Market portfolio and risk-free rate assumptions
+- alternative investment strategies
+- credit risk transfer mechanisms
+- CDX North American CDS index
+tags:
+- yield-curve
+- commodities
+- credit-default-swaps
+- capm
+- case-study
+- apt
+- value-at-risk
+- kalman-filter
+- factor-models
+- time-series
+- market-making
+- credit-risk
+- efficient-market
+- duration-convexity
+- solution
+- machine-learning
+- carry-trade
+- algorithmic-trading
+- bitcoin
+- corporate-bonds
+- futures-markets
+- operational-risk
+- risk-management
+- collateralized-debt-obligations
+- sofr
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- course-material
+- capital-structure
+- market-risk
+- smart-contracts
+- brownian-motion
+- greeks
+- black-scholes-model
+- high-yield-bonds
+- quantitative-strategies
+- exchange-rates
+- hedge-funds
+- momentum-strategies
+- quantitative-implementation
+- treasury-bonds
+- infrastructure
+- exotic-options
+- distressed-debt
+- delta-hedging
+- implied-volatility
+- options-strategies
+- monte-carlo
 ---
 
 # INTRODUCTION TO QUANTITATIVE TRADING  

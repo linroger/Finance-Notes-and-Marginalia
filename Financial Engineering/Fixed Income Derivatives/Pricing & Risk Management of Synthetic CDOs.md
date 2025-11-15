@@ -1,20 +1,60 @@
 ---
-tags:
-  - credit_risk
-  - default_modeling
-  - risk_management
-  - synthetic_cdos
-  - tranche_pricing
 aliases:
-  - CDO Risk Analysis
-  - Synthetic CDO Pricing
-  - Synthetic Collateralized Debt Obligations
+- CDO Risk Analysis
+- Synthetic CDO Pricing
+- Synthetic Collateralized Debt Obligations
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-4ec064
 key_concepts:
-  - Joint default distribution
-  - Model parameter sensitivities
-  - Reference asset correlations
-  - Synthetic CDO structures
-  - Tranche expected losses
+- Risk-neutral measures and martingale pricing
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Monte Carlo simulation for derivatives valuation
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Options Greeks and sensitivity analysis
+tags:
+- abs
+- apt
+- arbitrage
+- arch
+- bonds
+- capm
+- cds
+- commodities
+- copula
+- corporate-bonds
+- correlation
+- credit-default-swaps
+- credit-risk
+- credit-spreads
+- default-probability
+- derivatives-pricing
+- factor-models
+- fixed_income
+- garch
+- greeks
+- hull-white
+- interest-rate-swaps
+- mbs
+- monte-carlo
+- options
+- recovery-rate
+- rho
+- risk-management
+- risk-neutral
+- stress-testing
+- swaps
+- term-structure
+- var
+- yield-curve
 ---
 
 # Pricing & Risk Management of Synthetic CDOs

@@ -1,3 +1,72 @@
+---
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-72e159
+key_concepts:
+- Apt
+- Cox-Ross-Rubinstein parameter specification
+- Computational implementation of binomial option pricing
+- Collateralized Debt Obligations
+- Option Greeks and portfolio risk management
+- Commodity markets and pricing dynamics
+- Currency derivatives
+- Law of one price
+- Historical simulation vs. parametric VaR models
+- Vega and volatility risk management
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- Foreign exchange markets
+- Monte Carlo VaR for complex portfolios
+- Stress testing and scenario analysis
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Forward rates and interest rate parity
+- Value at Risk (VaR) methodologies and backtesting
+- Theta and time decay modeling
+- Case Study
+- Exchange rate determination and PPP theory
+- Interest rate swap pricing and valuation
+- Expected Shortfall and coherent risk measures
+- Variance swaps and volatility trading strategies
+- Arbitrage theory and practice
+- Convergence of binomial model to Black-Scholes solution
+- Binomial option pricing model with multiple time steps
+- Bond pricing and yield analysis
+- American option pricing in binomial trees
+- Gamma and convexity adjustments
+- Delta hedging and the replication argument
+- Cross-currency basis swaps and funding
+- Delta hedging and Greeks
+- Duration and convexity
+- Options pricing and payoff structures
+- Currency markets and foreign exchange trading
+tags:
+- quantitative-implementation
+- fx
+- binomial-model
+- duration-convexity
+- commodities
+- solution
+- treasury-bonds
+- collateralized-debt-obligations
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- course-material
+- arbitrage
+- case-study
+- apt
+- bonds
+- greeks
+- value-at-risk
+- exchange-rates
+- harvard-business-review
+- municipal-bonds
+- options
+- hull-white-model
+---
+
 # **Chapter 2 The Principle of Comparative Advantage**
 
 Imagine a place that grows avocados, strawberries, lemons, and almonds all at lower prices than anywhere else in the world. The same place also makes motorcycles, skateboards, laptops, and mobile apps. Whatever it makes is more competitively priced than in any other country. Should this place trade its products with other people around the world? After all, no growers and manufacturers elsewhere can match the imaginary place's prices. Moreover, what goods would other suppliers around the globe have to offer since it appears they would have little chance to compete?

@@ -1,23 +1,20 @@
 ---
-title: The Economist Time Is Cheap
-tags:
-  - bank_profits
-  - banking
-  - deutsche_bank
-  - interest_rates
-  - low_interest_rates
 aliases:
-  - Christian Sewing
-  - Low Interest Rates
-  - The Economist
-  - Time is Cheap
+- Christian Sewing
+- Low Interest Rates
+- The Economist
+- Time is Cheap
 key_concepts:
-  - Bank diversification strategy
-  - Banks and time travel
-  - Low rates and profits
-  - Negative interest rates impact
-  - Reversal rate and lending
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
+tags:
+- arbitrage
+- bonds
+- fixed_income
+- risk-management
+title: The Economist Time Is Cheap
 ---
+
 
 # The Economist Time Is Cheap
 

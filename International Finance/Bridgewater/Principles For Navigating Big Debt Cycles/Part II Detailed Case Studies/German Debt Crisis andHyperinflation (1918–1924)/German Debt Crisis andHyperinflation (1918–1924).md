@@ -1,3 +1,31 @@
+---
+key_concepts:
+- Equity valuation and analysis
+- Dividend discount models
+- Credit risk modeling
+- Default probability estimation
+- Foreign exchange markets
+- Currency derivatives
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Interest rate modeling
+- Term structure of interest rates
+tags:
+- equity
+- stochastic_calculus
+- credit
+- fx
+- bonds
+- commodities
+- futures
+- options
+- stochastic-calculus
+- interest_rates
+---
 # **German Debt Crisis and Hyperinflation (1918–1924)**
 
 This section provides a detailed account of the most iconic inflationary depression cycle in history—the German debt crisis.md) and hyperinflation that followed the end of World War I and carried into the mid-1920s, which set the stage for the economic and political changes of the 1930s. Much like my accounts of the 2008 US Financial Crisis and the 1930s Great Depression, this study goes through the particulars of the case in some detail with reference to the template laid out earlier in the "Archetypal Inflationary Depression." Although the German hyperinflation took place almost a century ago, and amid exceptional political circumstances (Germany's defeat in the First World War and the imposition of a huge reparation burden on it by the Allies), the basic dynamic of debt cycles, economic activity, and markets described in the template drove what happened. Noting the differences between this inflationary depression case (and other inflationary depression cases) and the deflationary depression cases highlights what makes some inflationary and others deflationary. To provide a vivid sense of what was happening in real time, a newsfeed runs along the sides of my description of what happened.

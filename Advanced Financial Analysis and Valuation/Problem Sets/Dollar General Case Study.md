@@ -1,22 +1,88 @@
 ---
-title: DOLLAR GENERAL CASE STUDY
-cssclasses:
-  - academia
-tags:
-  - dollar_general
-  - financial_performance
-  - peer_comparison
-  - profit_margins
-  - revenue_growth
 aliases:
-  - DG Performance
-  - Dollar General Case
+- DG Performance
+- Dollar General Case
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-4c724e
 key_concepts:
-  - Gross margin erosion
-  - Peer group comparison
-  - Profit margin decline
-  - ROA and ROE deterioration
-  - Revenue growth slowdown
+- Apt
+- Cox-Ross-Rubinstein parameter specification
+- Carry trades and momentum in FX markets
+- Term structure of interest rates and yield curve shapes
+- capital markets and issuance
+- Reduced-form models and intensity-based approaches
+- Risk assessment and management
+- Treasury Bonds
+- Computational implementation of binomial option pricing
+- Debt capacity analysis in LBO transactions
+- Expectations hypothesis and liquidity preference theory
+- private equity transactions
+- Solution
+- Yield curve fitting and interpolation methods
+- Mathematical Finance
+- Spot rates vs. forward rates modeling
+- Algorithmic trading and execution strategies
+- Portfolio optimization and asset allocation
+- Course Material
+- Currency risk management and hedging
+- Forward rates and interest rate parity
+- Case Study
+- Quantitative analysis and modeling
+- Private equity investing and leveraged buyouts
+- Exchange rate determination and PPP theory
+- gross margin in loan structures
+- Convergence of binomial model to Black-Scholes solution
+- Peer group comparison
+- Comparable Analysis
+- Binomial option pricing model with multiple time steps
+- Fixed income analysis and term structure
+- ROA and ROE deterioration
+- Derivatives pricing and hedging strategies
+- Quantitative Implementation
+- Financial markets and instruments
+- American option pricing in binomial trees
+- Capital Structure
+- Harvard Business Review
+- Leveraged Buyout financial structures and returns
+- Parallel and non-parallel shifts in the yield curve
+- Distressed Debt
+- Gross margin erosion
+- Revenue growth slowdown
+- Profit margin decline
+- Currency markets and foreign exchange trading
+tags:
+- yield-curve
+- binomial-model
+- income-statement
+- dollar_general
+- roe
+- mathematical-finance
+- course-material
+- capital-structure
+- peer_comparison
+- financial_performance
+- case-study
+- apt
+- impairment
+- comparable-analysis
+- lbo
+- exchange-rates
+- leveraged-buyouts
+- quantitative-implementation
+- solution
+- private-equity
+- treasury-bonds
+- profit_margins
+- algorithmic-trading
+- roa
+- distressed-debt
+- revenue_growth
+- comps
+- harvard-business-review
+title: DOLLAR GENERAL CASE STUDY
 ---
 
 # DOLLAR GENERAL CASE STUDY

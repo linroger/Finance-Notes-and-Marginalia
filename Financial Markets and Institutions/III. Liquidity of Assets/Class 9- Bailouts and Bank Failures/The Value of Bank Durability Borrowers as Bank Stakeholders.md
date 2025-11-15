@@ -1,22 +1,22 @@
 ---
 title: The Value of Bank Durability Borrowers as Bank Stakeholders
 tags:
-  - bank_durability
-  - bank_stakeholders
-  - borrowers
-  - continental_illinois
-  - fdic_rescue
+- abs
+- apt
+- arch
+- fixed_income
+- risk-management
+- var
 aliases:
-  - Bank Durability Borrowers
-  - Bank Lending Relationships
-  - Bank Stakeholders
-  - Continental Illinois Bank
+- Bank Durability Borrowers
+- Bank Lending Relationships
+- Bank Stakeholders
+- Continental Illinois Bank
 key_concepts:
-  - Asset services view
-  - Bank durability value
-  - Borrowing firms analysis
-  - Client firm share prices
-  - FDIC rescue effects
+- Ito's lemma and stochastic calculus applications
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
 ---
 
 # The Value of Bank Durability Borrowers as Bank Stakeholders

@@ -1,28 +1,61 @@
 ---
-tags:
-  - black_scholes
-  - european_call
-  - geometric_brownian_motion
-  - options_pricing
-  - pde
-  - financial_mathematics
-  - risk_neutral_pricing
 aliases:
-  - BS equation
-  - Black-Scholes model
-  - Option pricing derivation
-  - Black-Scholes-Merton model
-key_concepts:
-  - Black-Scholes PDE
-  - European call option
-  - Geometric Brownian motion
-  - Risk-free rate
-  - Risk-neutral portfolio
-  - Underlying asset price
-  - Ito's lemma
-  - Delta hedging
-  - No-arbitrage principle
+- BS equation
+- Black-Scholes model
+- Option pricing derivation
+- Black-Scholes-Merton model
 cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-8412e6
+key_concepts:
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Ito's lemma and stochastic calculus applications
+- Monte Carlo simulation for derivatives valuation
+- Partial differential equations in financial modeling
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- arbitrage
+- arch
+- black-scholes
+- brownian-motion
+- capm
+- convexity
+- correlation
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- exotic-options
+- fixed_income
+- gamma
+- garch
+- geometric-brownian-motion
+- greeks
+- hedging
+- interest-rate-swaps
+- no-arbitrage
+- options
+- pde
+- replication
+- risk-management
+- risk-neutral
+- swaps
+- theta
+- var
+- vega
+- wiener-process
 ---
 
 # Black-Scholes Derivation

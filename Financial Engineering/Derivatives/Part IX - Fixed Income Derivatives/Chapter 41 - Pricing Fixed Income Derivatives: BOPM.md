@@ -1,21 +1,119 @@
 ---
-tags:
-  - american_options
-  - bopm
-  - european_options
-  - fixed_income_derivatives
-  - interest_rate_lattice
 aliases:
-  - BOPM
-  - Chapter 41
-  - Pricing Derivatives
+- BOPM
+- Chapter 41
+- Pricing Derivatives
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-4b6508
 key_concepts:
-  - American option pricing
-  - Arbitrage-free pricing
-  - European option pricing
-  - Interest rate lattice
-  - Term structure consistency
+- Stage 2 credit exposure classification
+- Liquidity coverage ratio and net stable funding ratio
+- Cox-Ross-Rubinstein parameter specification
+- coupon-bearing bond analysis
+- Term structure of interest rates and yield curve shapes
+- Stage 3 credit exposure classification
+- Treasury Futures
+- Duration and convexity analysis for bond portfolio management
+- Active portfolio management and performance attribution
+- Stress testing and supervisory review processes
+- Computational implementation of binomial option pricing
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- maturity date in CDS
+- Commodity markets and pricing dynamics
+- Capital Asset Pricing Model and beta estimation
+- Risk budgeting and portfolio construction techniques
+- Dodd-Frank Act regulatory reforms and implementation
+- Expectations hypothesis and liquidity preference theory
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- Leverage ratio and large exposures
+- CDS clearing and central counterparties
+- forward commitments and hedging
+- CDS-Bond basis and arbitrrage opportunities
+- Spot rates vs. forward rates modeling
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- European option pricing
+- Interest rate lattice
+- Fixed-for-floating swap cash flows and valuation
+- Arbitrage Pricing Theory and multifactor models
+- Course Material
+- Risk-weighted assets and capital adequacy ratios
+- International arbitrage and covered interest rate parity
+- Arbitrage opportunities and risk-free profit extraction
+- Interest rate swap pricing and valuation
+- callable bond pricing and yield calculation
+- interest rate and currency derivatives
+- Credit default swap pricing and risk-neutral probabilities
+- ESG integration in portfolio management
+- present value and discounting methods
+- zero-coupon bond pricing and yields
+- Variance swaps and volatility trading strategies
+- Basel III regulatory framework and capital requirements
+- Convergence of binomial model to Black-Scholes solution
+- Term structure consistency
+- Arbitrage-free pricing
+- par value in CDS settlement
+- Delta hedging strategies in options portfolio management
+- Binomial option pricing model with multiple time steps
+- American option pricing
+- Shadow banking system and regulatory arbitrage
+- American option pricing in binomial trees
+- Credit risk modeling and portfolio correlation analysis
+- Stage 1 credit exposure classification
+- Credit risk assessment and loan portfolio management
+- Parallel and non-parallel shifts in the yield curve
+- Cross-currency basis swaps and funding
+- Currency hedging strategies for global portfolios
+tags:
+- yield-curve
+- binomial-model
+- commodities
+- credit-default-swaps
+- interest-rate-derivatives
+- bank-regulation
+- capm
+- case-study
+- apt
+- value-at-risk
+- factor-models
+- credit-risk
+- european-options
+- duration-convexity
+- solution
+- geometric-brownian-motion
+- vasicek-model
+- european_options
+- treasury-futures
+- collateralized-debt-obligations
+- interest-rate-swaps
+- mathematical-finance
+- course-material
+- shadow-banking
+- brownian-motion
+- bopm
+- interest_rate_lattice
+- greeks
+- black-scholes-model
+- exchange-rates
+- bond-futures
+- quantitative-implementation
+- treasury-bonds
+- american-options
+- fra
+- fixed_income_derivatives
+- arbitrage
+- exotic-options
+- swaptions
+- delta-hedging
+- dcf-valuation
+- american_options
+- mean-reversion
+- term-structure
 ---
+
 # Pricing Fixed Income Derivatives: BOPM  
 
 # Aims  

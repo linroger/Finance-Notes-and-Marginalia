@@ -1,32 +1,41 @@
 ---
-cssclasses:
-  - academia
-title: "Pilgrim Prime Rate Trust"
-linter-yaml-title-alias: "Pilgrim Prime Rate Trust"
-tags:
-  - closed_end_fund
-  - corporate_loans
-  - participation_interests
-  - prime_rate
-  - senior_loans
-  - investment_company
-  - credit_instruments
-  - loan_participations
 aliases:
-  - Pilgrim Prime
-  - Prime Rate Trust
-  - "Pilgrim Prime Rate Fund"
+- Pilgrim Prime
+- Prime Rate Trust
+- Pilgrim Prime Rate Fund
+cssclasses:
+- academia
 key_concepts:
-  - closed-end investment company
-  - participation interests
-  - preservation of capital
-  - seeks current income
-  - senior corporate loans
-  - Variable rate instruments
-  - Credit quality focus
-  - Closed-end fund structure
-  - Below investment grade loans
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+linter-yaml-title-alias: Pilgrim Prime Rate Trust
+tags:
+- abs
+- arbitrage
+- bonds
+- cds
+- convexity
+- corporate-bonds
+- correlation
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- fixed_income
+- hedging
+- options
+- risk-management
+- var
+title: Pilgrim Prime Rate Trust
 ---
+
 
 # Pilgrim Prime Rate Trust
 

@@ -1,32 +1,60 @@
 ---
-cssclasses:
-  - academia
-title: Problem Set 1 - Fixed Income Asset Pricing
-tags:
-  - asset_pricing
-  - bond_equivalent_yield
-  - fixed_income
-  - interest_rates
-  - t_bill_rate
-  - treasury_strips
-  - forecasting
 aliases:
-  - 3-month T-bill rate
-  - BEY
-  - Homework 1
-  - PSET 1
-  - Fixed Income Problem Set
+- 3-month T-bill rate
+- BEY
+- Homework 1
+- PSET 1
+- Fixed Income Problem Set
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-375847
 key_concepts:
-  - Bond equivalent yield
-  - Fixed income asset pricing
-  - Historical interest rate data
-  - Mean reversion of rates
-  - Short term interest rates
-  - AR(1) process modeling
-  - Interest rate forecasting
-  - Forward rate calculation
-  - Yield curve construction
-  - Treasury strip pricing
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Term structure of interest rates and yield curve modeling
+- 'Short-rate models: Vasicek, CIR, and mean reversion'
+- Bond pricing and fixed income securities valuation
+- Monte Carlo simulation for derivatives valuation
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+tags:
+- arbitrage
+- arch
+- binomial
+- black-scholes
+- bonds
+- capm
+- convexity
+- correlation
+- credit-risk
+- derivatives-pricing
+- duration
+- expected-shortfall
+- fixed_income
+- garch
+- hedging
+- interest-rate-swaps
+- kalman-filter
+- mean-reversion
+- monte-carlo
+- puts
+- risk-management
+- risk-neutral
+- stress-testing
+- swaps
+- time-series
+- var
+- vasicek
+- yield-curve
+title: Problem Set 1 - Fixed Income Asset Pricing
 ---
 
 # Problem Set 1 - Fixed Income Asset Pricing

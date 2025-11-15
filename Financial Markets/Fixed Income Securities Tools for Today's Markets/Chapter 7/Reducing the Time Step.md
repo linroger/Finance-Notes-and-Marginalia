@@ -1,19 +1,35 @@
 ---
-tags:
-  - bond_option
-  - callable_bond
-  - interest_rates
-  - pricing_problems
-  - time_step
 aliases:
-  - Reducing Time Step
-  - Time Step Reduction
+- Reducing Time Step
+- Time Step Reduction
 key_concepts:
-  - Computational concerns and step size
-  - Pricing contingent claims accuracy
-  - Realistic interest rate distributions
-  - Smaller time step benefits
-  - Time step and cash flows
+- Computational concerns and step size
+- Pricing contingent claims accuracy
+- Realistic interest rate distributions
+- Smaller time step benefits
+- Time step and cash flows
+- Option sensitivity analysis
+- Delta, gamma, vega, theta, rho
+- Bond pricing and yield analysis
+- Duration and convexity
+- Value at risk and stress testing
+- Portfolio risk metrics
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Interest rate modeling
+- Term structure of interest rates
+tags:
+- bond_option
+- portfolio-theory
+- time_step
+- callable_bond
+- greeks
+- bonds
+- portfolio
+- risk_management
+- options
+- pricing_problems
+- interest_rates
 ---
 
 # 7.8 REDUCING THE TIME STEP  

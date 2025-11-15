@@ -1,23 +1,61 @@
 ---
-title: Asset Price Dynamics
-tags:
-  - asset_price_dynamics
-  - continuous_compounding
-  - efficient_markets
-  - geometric_brownian_motion
-  - rates_of_return
-  - stochastic_processes
 aliases:
-  - Asset Pricing
-  - Returns Analysis
-  - Stochastic Modeling
+- Asset Pricing
+- Returns Analysis
+- Stochastic Modeling
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-600ae1
 key_concepts:
-  - Asset price returns
-  - Compounded rates of return
-  - Continuous time processes
-  - Efficient market hypothesis
-  - Geometric Brownian motion
-  - Rate of return calculation
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Ito's lemma and stochastic calculus applications
+- Monte Carlo simulation for derivatives valuation
+- Partial differential equations in financial modeling
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- apt
+- arbitrage
+- binomial
+- black-scholes
+- brownian-motion
+- convexity
+- correlation
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- exotic-options
+- expected-shortfall
+- fixed_income
+- gamma
+- geometric-brownian-motion
+- greeks
+- hedging
+- implied-volatility
+- interest-rate-swaps
+- martingale
+- monte-carlo
+- options
+- pde
+- replication
+- risk-management
+- risk-neutral
+- stress-testing
+- swaps
+- theta
+- var
+- vega
+- wiener-process
+title: Asset Price Dynamics
 ---
 
 # Asset Price Dynamics

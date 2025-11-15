@@ -1,32 +1,109 @@
 ---
-cssclasses:
-  - academia
 Owner: RRoger Lin
-title: Notes on Basic Options Properties
-tags:
-  - call_options
-  - option_bounds
-  - option_parameters
-  - option_payoffs
-  - option_pricing
-  - options_basics
-  - put_options
-  - underlying_security
 aliases:
-  - Basic Options
-  - Call and Put
-  - Option Fundamentals
-  - Option Properties
+- Basic Options
+- Call and Put
+- Option Fundamentals
+- Option Properties
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-5d6c50
 key_concepts:
-  - 'Call: Right to buy'
-  - Option buyer/holder
-  - Option payoff schemes
-  - Option price bounds
-  - Option seller/writer
-  - Option value parameters
-  - 'Options: Right to buy/sell'
-  - 'Put: Right to sell'
-  - Underlying security
+- Apt
+- coupon-bearing bond analysis
+- Extensions to multi-factor CAPM models
+- Duration and convexity analysis for bond portfolio management
+- Active portfolio management and performance attribution
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Option Greeks and portfolio risk management
+- maturity date in CDS
+- Commodity markets and pricing dynamics
+- Capital Asset Pricing Model and beta estimation
+- Risk budgeting and portfolio construction techniques
+- Capital Asset Pricing Model and expected returns
+- Historical simulation vs. parametric VaR models
+- Credit spread decomposition and hazard rates
+- Vega and volatility risk management
+- CDS clearing and central counterparties
+- Option buyer/holder
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- Monte Carlo VaR for complex portfolios
+- Shadow Banking
+- Fixed-for-floating swap cash flows and valuation
+- Arbitrage Pricing Theory and multifactor models
+- 'Options: Right to buy/sell'
+- Course Material
+- Security Market Line and beta measurement
+- Value at Risk (VaR) methodologies and backtesting
+- Theta and time decay modeling
+- International arbitrage and covered interest rate parity
+- Case Study
+- Arbitrage opportunities and risk-free profit extraction
+- Interest rate swap pricing and valuation
+- Credit default swap pricing and risk-neutral probabilities
+- ESG integration in portfolio management
+- present value and discounting methods
+- zero-coupon bond pricing and yields
+- Option price bounds
+- Variance swaps and volatility trading strategies
+- Option value parameters
+- Delta hedging strategies in options portfolio management
+- 'Put: Right to sell'
+- Shadow banking system and regulatory arbitrage
+- Gamma and convexity adjustments
+- Option seller/writer
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Delta hedging and the replication argument
+- 'Call: Right to buy'
+- Cross-currency basis swaps and funding
+- Underlying security
+- Option payoff schemes
+- Currency hedging strategies for global portfolios
+- Market portfolio and risk-free rate assumptions
+- Empirical tests and anomalies in CAPM
+tags:
+- option_payoffs
+- commodities
+- credit-default-swaps
+- collateralized-debt-obligations
+- interest-rate-swaps
+- call-options
+- mathematical-finance
+- course-material
+- capm
+- shadow-banking
+- case-study
+- apt
+- greeks
+- option_pricing
+- value-at-risk
+- put-options
+- factor-models
+- exchange-rates
+- credit-risk
+- put_options
+- hull-white-model
+- european-options
+- duration-convexity
+- quantitative-implementation
+- solution
+- underlying_security
+- treasury-bonds
+- american-options
+- arbitrage
+- call_options
+- option_bounds
+- options_basics
+- implied-volatility
+- dcf-valuation
+- option_parameters
+title: Notes on Basic Options Properties
 ---
 
 # Notes on Basic Options Properties

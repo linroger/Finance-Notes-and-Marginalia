@@ -1,19 +1,103 @@
 ---
-tags:
-  - futures_contracts
-  - futures_markets
-  - hedging
-  - speculation
-  - trading_mechanics
 aliases:
-  - Futures
-  - Futures Trading
+- Futures
+- Futures Trading
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-8347c2
 key_concepts:
-  - OTC vs exchange
-  - delivery month
-  - futures contract trading
-  - futures quotes
-  - futures traders
+- Apt
+- Carry trades and momentum in FX markets
+- Mean-variance optimization and the efficient frontier
+- futures traders
+- Extreme value theory and tail risk modeling
+- Single-name vs. index CDS trading
+- Credit risk modeling and default probability estimation
+- maturity date in CDS
+- Commodity markets and pricing dynamics
+- delivery date in CDS settlement
+- Risk budgeting and portfolio construction techniques
+- Historical simulation vs. parametric VaR models
+- Credit spread decomposition and hazard rates
+- CDS clearing and central counterparties
+- DV01 calculation and interest rate risk hedging
+- futures contract trading
+- forward commitments and hedging
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- Monte Carlo integration and variance reduction
+- GARCH models and volatility forecasting
+- Deposit insurance and systemic risk prevention
+- Monte Carlo VaR for complex portfolios
+- Shadow Banking
+- futures quotes
+- Stress testing and scenario analysis
+- Fixed-for-floating swap cash flows and valuation
+- Arbitrage Pricing Theory and multifactor models
+- Currency risk management and hedging
+- Forward rates and interest rate parity
+- Value at Risk (VaR) methodologies and backtesting
+- Risk-neutral pricing methodology for derivative securities
+- Case Study
+- Operational risk quantification and modeling
+- Exchange rate determination and PPP theory
+- Arbitrage opportunities and risk-free profit extraction
+- Expected Shortfall and coherent risk measures
+- Interest rate swap pricing and valuation
+- interest rate and currency derivatives
+- Credit default swap pricing and risk-neutral probabilities
+- Bank liquidity ratios and funding risk management
+- Factor Models
+- Variance swaps and volatility trading strategies
+- Credit exposure measurement and EAD
+- settlement date in CDS
+- Value-at-Risk calculation using historical simulation
+- Shadow banking system and regulatory arbitrage
+- delivery month
+- Credit risk migration matrices and rating transition
+- Credit risk modeling and portfolio correlation analysis
+- Backtesting procedures for risk models
+- Credit risk assessment and loan portfolio management
+- Liquidity risk measurement and management
+- Cross-currency basis swaps and funding
+- Systemic risk indicators and early warning systems
+- OTC vs exchange
+- Loss given default and recovery rates
+- Currency markets and foreign exchange trading
+tags:
+- commodities
+- credit-default-swaps
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- speculation
+- shadow-banking
+- financial-modeling
+- case-study
+- apt
+- futures_markets
+- value-at-risk
+- factor-models
+- futures_contracts
+- exchange-rates
+- trading_mechanics
+- credit-risk
+- quantitative-implementation
+- duration-convexity
+- solution
+- hedging
+- treasury-bonds
+- stress-testing
+- arbitrage
+- liquidity-risk
+- algorithmic-trading
+- systemic-risk
+- deposit-insurance
+- futures-markets
+- expected-shortfall
+- operational-risk
+- monte-carlo
 ---
 
 # FORWARDS AND FUTURES

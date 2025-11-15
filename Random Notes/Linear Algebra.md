@@ -1,3 +1,74 @@
+---
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-e3a684
+key_concepts:
+- Apt
+- Collateralized Debt Obligations
+- Option Greeks and portfolio risk management
+- Commodity markets and pricing dynamics
+- Solution
+- Historical simulation vs. parametric VaR models
+- Vega and volatility risk management
+- Value at risk and stress testing
+- Portfolio immunization strategies
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- Monte Carlo VaR for complex portfolios
+- Stress testing and scenario analysis
+- Key rate duration and curve risk
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Value at Risk (VaR) methodologies and backtesting
+- Theta and time decay modeling
+- Portfolio risk metrics
+- Case Study
+- Interest rate swap pricing and valuation
+- Credit derivatives
+- Expected Shortfall and coherent risk measures
+- Structured products and CDOs
+- Variance swaps and volatility trading strategies
+- Derivatives pricing theory
+- Bond pricing and yield analysis
+- Stress Testing
+- Quantitative Implementation
+- Gamma and convexity adjustments
+- Risk-neutral valuation
+- Delta hedging and the replication argument
+- Cross-currency basis swaps and funding
+- Duration and convexity measures for bond portfolios
+- Delta hedging and Greeks
+- Price sensitivity to interest rate changes
+- Modified duration vs. Macaulay duration
+- Duration and convexity
+- Options pricing and payoff structures
+tags:
+- commodities
+- collateralized-debt-obligations
+- derivatives
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- course-material
+- capm
+- case-study
+- apt
+- bonds
+- greeks
+- risk_management
+- value-at-risk
+- portfolio
+- options
+- quantitative-implementation
+- duration-convexity
+- solution
+- structured_finance
+- stress-testing
+- portfolio-theory
+- volatility
+---
+
 # A Beginner's Guide to Linear Algebra for Machine Learning 
 *(From Basics to Applications in ML)*  
 

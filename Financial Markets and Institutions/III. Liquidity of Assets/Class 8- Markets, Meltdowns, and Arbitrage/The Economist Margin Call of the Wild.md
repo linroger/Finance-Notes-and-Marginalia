@@ -1,23 +1,26 @@
 ---
-title: The Economist Margin Call of the Wild
-tags:
-  - archegos_capital
-  - equity_swaps
-  - financial_crisis
-  - leveraged_bets
-  - margin_call
 aliases:
-  - Archegos
-  - Bill Hwang
-  - Credit Suisse
-  - Nomura
+- Archegos
+- Bill Hwang
+- Credit Suisse
+- Nomura
 key_concepts:
-  - Archegos fire sale
-  - Equity swap derivatives
-  - Leverage and losses
-  - Long-term interest rates
-  - Wall Street profits
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Interest rate swaps and term structure modeling
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
+tags:
+- arbitrage
+- arch
+- calls
+- correlation
+- credit-risk
+- risk-management
+- swaps
+title: The Economist Margin Call of the Wild
 ---
+
 
 # The Economist Margin Call of the Wild
 

@@ -1,28 +1,111 @@
 ---
-title: Credit Markets Session 4
-tags:
-  - credit_markets
-  - g_spreads
-  - hazard_rate
-  - nelson_siegel
-  - bond_pricing
-  - quant_trading
-  - parametric_models
 aliases:
-  - Calibration
-  - Model Prices
-  - Verizon Bonds
+- Calibration
+- Model Prices
+- Verizon Bonds
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-0bce01
 key_concepts:
-  - Hazard Rate Models
-  - Parametric IR Models
-  - Quant Credit Trading
-  - Risk Models
-  - Smooth Yield Curve
-  - Nelson-Siegel Model
-  - Model Calibration
-  - G-Spreads
-  - I-Spreads
-  - Portfolio Optimization
+- hazard rate modeling and estimation
+- Apt
+- Bond convexity adjustment for large interest rate changes
+- Extensions to multi-factor CAPM models
+- Term structure of interest rates and yield curve shapes
+- Duration and convexity analysis for bond portfolio management
+- Monte Carlo simulation techniques for path-dependent options
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Option Greeks and portfolio risk management
+- Expectations hypothesis and liquidity preference theory
+- Capital Asset Pricing Model and expected returns
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- CDS clearing and central counterparties
+- Portfolio Optimization
+- DV01 calculation and interest rate risk hedging
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- Monte Carlo integration and variance reduction
+- GARCH models and volatility forecasting
+- Quant Credit Trading
+- Market portfolio and risk-free rate assumptions
+- Shadow Banking
+- Fixed-for-floating swap cash flows and valuation
+- Arbitrage Pricing Theory and multifactor models
+- Course Material
+- Security Market Line and beta measurement
+- International arbitrage and covered interest rate parity
+- Case Study
+- Arbitrage opportunities and risk-free profit extraction
+- Interest rate swap pricing and valuation
+- excess returns and manager skill
+- Credit default swap pricing and risk-neutral probabilities
+- Variance swaps and volatility trading strategies
+- Pairs trading and statistical arbitrage strategies
+- survival probability estimation
+- Model Calibration
+- Nelson-Siegel Model
+- Value-at-Risk calculation using historical simulation
+- Shadow banking system and regulatory arbitrage
+- Smooth Yield Curve
+- I-Spreads
+- Backtesting procedures for risk models
+- Delta hedging and the replication argument
+- Parallel and non-parallel shifts in the yield curve
+- Gamma trading and convexity adjustment techniques
+- Cross-currency basis swaps and funding
+- Risk Models
+- Parametric IR Models
+- G-Spreads
+- credit risk transfer mechanisms
+- Hazard Rate Models
+- Empirical tests and anomalies in CAPM
+tags:
+- yield-curve
+- credit-default-swaps
+- pairs-trading
+- capm
+- case-study
+- apt
+- nelson_siegel
+- value-at-risk
+- kalman-filter
+- factor-models
+- dv01
+- time-series
+- credit-risk
+- duration-convexity
+- solution
+- corporate-bonds
+- cds
+- convexity
+- asset-allocation
+- backtesting
+- collateralized-debt-obligations
+- sofr
+- garch-models
+- bond_pricing
+- interest-rate-swaps
+- mathematical-finance
+- course-material
+- shadow-banking
+- greeks
+- exchange-rates
+- quantitative-implementation
+- statistical-arbitrage
+- treasury-bonds
+- hazard_rate
+- arbitrage
+- g_spreads
+- credit_markets
+- quant_trading
+- parametric_models
+- mean-reversion
+- monte-carlo
+title: Credit Markets Session 4
 ---
 
 # Credit Markets Session 4

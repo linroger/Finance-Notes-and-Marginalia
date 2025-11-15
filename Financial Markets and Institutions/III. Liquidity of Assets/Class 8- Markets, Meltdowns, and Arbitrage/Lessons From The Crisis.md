@@ -1,37 +1,41 @@
 ---
-cssclasses: academia
-title: Lessons From The Crisis
-tags:
-  - convexity_risk
-  - counterparty_risk
-  - financial_crisis
-  - regulatory_environment
-  - securitization
 aliases:
-  - ACA
-  - AMPS
-  - Lessons Learned
-  - Morgan Stanley
-  - UBS
+- ACA
+- AMPS
+- Lessons Learned
+- Morgan Stanley
+- UBS
+cssclasses: academia
 key_concepts:
-  - Basis risk
-  - Correlation was ignored
-  - Counterparty risk
-  - Extreme scenarios
-  - Failure of supply chain
-  - Financial instrument complexity
-  - Hedging the tail end
-  - Ignored incentives
-  - Inconsistent rules/standards
-  - Leverage existed
-  - Mezzanine CDOs
-  - Nominal default probability
-  - Prudent analysis lacking
-  - Structural causes of crisis
-  - Super Senior tranches
-  - Thorough stress testing
-  - Thoroughly modeled legs
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- abs
+- bonds
+- cds
+- convexity
+- correlation
+- counterparty-risk
+- credit-risk
+- default-probability
+- derivatives-pricing
+- duration
+- fixed_income
+- gamma
+- hedging
+- risk-management
+- stress-testing
+- var
+title: Lessons From The Crisis
 ---
+
 
 # Lessons From The Crisis
 

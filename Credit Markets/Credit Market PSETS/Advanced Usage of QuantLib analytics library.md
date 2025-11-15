@@ -1,34 +1,102 @@
 ---
-title: Advanced Usage of QuantLib analytics library
-tags:
-  - bond_pricing
-  - cds
-  - credit_risk
-  - curve_calibration
-  - hazard_rate
-  - interest_rates
-  - nelson_siegel
-  - quantlib
-  - risk_management
-  - sofr
 aliases:
-  - Credit Default Swaps
-  - Nelson-Siegel Model
-  - QuantLib Advanced
-  - Risky Bond Pricing
-  - SOFR Swaps
+- Credit Default Swaps
+- Nelson-Siegel Model
+- QuantLib Advanced
+- Risky Bond Pricing
+- SOFR Swaps
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-9ba81e
 key_concepts:
-  - CDS hazard rate
-  - Corporate bond pricing
-  - Credit curve
-  - Credit default risk
-  - Discount curve
-  - Hazard rate curves
-  - Nelson-Siegel model
-  - Risky bond pricing
-  - SOFR curve calibration
-  - SOFR swaps
-  - Survival probability
+- hazard rate modeling and estimation
+- Corporate bond pricing
+- SOFR swaps
+- SOFR curve calibration
+- Term structure of interest rates and yield curve shapes
+- Treasury Bonds
+- Risky bond pricing
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Probability of default estimation from credit spreads
+- Option Greeks and portfolio risk management
+- Credit spread analysis and OAS methodology
+- Expectations hypothesis and liquidity preference theory
+- Solution
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- Vega and volatility risk management
+- Structural models of default and Merton formulation
+- CDS clearing and central counterparties
+- Portfolio immunization strategies
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Credit default swap pricing and recovery assumptions
+- 'Structured products: CDOs, CLOs, and credit derivatives'
+- Key rate duration and curve risk
+- Fixed-for-floating swap cash flows and valuation
+- Discount curve
+- Theta and time decay modeling
+- Credit curve
+- Synthetic credit derivatives and index trades
+- Interest rate swap pricing and valuation
+- CDS hazard rate
+- interest rate and currency derivatives
+- Credit default swap pricing and risk-neutral probabilities
+- Hazard rate curves
+- Variance swaps and volatility trading strategies
+- Credit default risk
+- Survival probability
+- survival probability estimation
+- Credit intermediation and information asymmetry
+- clean price in CDS settlement
+- Quantitative Implementation
+- Credit risk migration matrices and rating transition
+- Gamma and convexity adjustments
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Delta hedging and the replication argument
+- Parallel and non-parallel shifts in the yield curve
+- Nelson-Siegel model
+- Exotic Options
+- Cross-currency basis swaps and funding
+- Duration and convexity measures for bond portfolios
+- Counterparty credit exposure measurement
+- Price sensitivity to interest rate changes
+- Modified duration vs. Macaulay duration
+- credit risk transfer mechanisms
+tags:
+- yield-curve
+- credit-default-swaps
+- collateralized-debt-obligations
+- sofr
+- bond_pricing
+- interest-rate-swaps
+- credit_risk
+- mathematical-finance
+- course-material
+- market-risk
+- greeks
+- nelson_siegel
+- risk_management
+- credit-risk
+- fed-funds
+- quantitative-implementation
+- duration-convexity
+- solution
+- treasury-bonds
+- curve_calibration
+- hazard_rate
+- interest_rates
+- infrastructure
+- corporate-bonds
+- wholesale-funding
+- exotic-options
+- dcf-valuation
+- quantlib
+- cds
+title: Advanced Usage of QuantLib analytics library
 ---
 
 # Advanced Usage of QuantLib analytics library

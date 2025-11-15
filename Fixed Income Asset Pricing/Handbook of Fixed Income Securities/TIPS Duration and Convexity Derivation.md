@@ -1,22 +1,88 @@
 ---
-title: Untitled
-cssclasses: academia
-tags:
-  - convexity
-  - inflation_linked_bonds
-  - nominal_bonds
-  - real_yield
-  - tips_duration
 aliases:
-  - Inflation-Linked Bonds
-  - Nominal Bonds
-  - TIPS
+- Inflation-Linked Bonds
+- Nominal Bonds
+- TIPS
+cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-2c3cd9
 key_concepts:
-  - Bond pricing formulas
-  - Continuous compounding
-  - Duration definition
-  - Inflation index factor
-  - Real vs nominal yield
+- Real vs nominal yield
+- Apt
+- Term structure of interest rates and yield curve shapes
+- Treasury Bonds
+- Collateralized Debt Obligations
+- Option Greeks and portfolio risk management
+- Inflation index factor
+- Expectations hypothesis and liquidity preference theory
+- Discounted Cash Flow valuation methodology
+- Futures contracts and forward pricing
+- Duration definition
+- Solution
+- Yield curve fitting and interpolation methods
+- Continuous compounding
+- Vega and volatility risk management
+- Portfolio immunization strategies
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- Option sensitivity analysis
+- Key rate duration and curve risk
+- Fixed-for-floating swap cash flows and valuation
+- Theta and time decay modeling
+- Case Study
+- Bond pricing formulas
+- Interest rate swap pricing and valuation
+- Margin requirements and clearing
+- Credit derivatives
+- Delta, gamma, vega, theta, rho
+- Structured products and CDOs
+- Variance swaps and volatility trading strategies
+- Derivatives pricing theory
+- Bond pricing and yield analysis
+- Free cash flow to equity and firm valuation
+- Quantitative Implementation
+- Gamma and convexity adjustments
+- Risk-neutral valuation
+- Delta hedging and the replication argument
+- Parallel and non-parallel shifts in the yield curve
+- Exotic Options
+- Cross-currency basis swaps and funding
+- Duration and convexity measures for bond portfolios
+- Delta hedging and Greeks
+- Price sensitivity to interest rate changes
+- Modified duration vs. Macaulay duration
+- Duration and convexity
+- Options pricing and payoff structures
+tags:
+- yield-curve
+- convexity
+- collateralized-debt-obligations
+- derivatives
+- interest-rate-swaps
+- mathematical-finance
+- course-material
+- case-study
+- apt
+- bonds
+- greeks
+- real_yield
+- exchange-rates
+- valuation
+- options
+- tips_duration
+- quantitative-implementation
+- duration-convexity
+- solution
+- treasury-bonds
+- structured_finance
+- nominal_bonds
+- inflation_linked_bonds
+- exotic-options
+- dcf-valuation
+- futures
+title: Untitled
 ---
 
 # TIPS Duration and Convexity Derivation

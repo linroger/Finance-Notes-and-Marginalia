@@ -1,31 +1,47 @@
 ---
-tags:
-  - binomial_model
-  - black_scholes
-  - libor
-  - option_pricing
-  - put_call_parity
 aliases:
-  - Binomial
-  - Black-Scholes
-  - LIBOR
-  - Option Pricing Exercise
-  - Put-Call Parity
+- Binomial
+- Black-Scholes
+- LIBOR
+- Option Pricing Exercise
+- Put-Call Parity
 key_concepts:
-  - Binomial model inputs
-  - Black-Scholes model
-  - Black-Scholes output
-  - Continuous put-call parity
-  - Delta difference
-  - Dividend yield calculation
-  - Fair forward calculation
-  - Futures cash-and-carry parity
-  - Greeks of calls/puts
-  - Implied volatility
-  - Interest rate conversion
-  - Option pricing exercise
-  - Put-call parity
-  - Strike price impact
+- Binomial model inputs
+- Black-Scholes model
+- Black-Scholes output
+- Continuous put-call parity
+- Delta difference
+- Dividend yield calculation
+- Fair forward calculation
+- Futures cash-and-carry parity
+- Greeks of calls/puts
+- Implied volatility
+- Interest rate conversion
+- Option pricing exercise
+- Put-call parity
+- Strike price impact
+- Equity valuation and analysis
+- Dividend discount models
+- Option sensitivity analysis
+- Delta, gamma, vega, theta, rho
+- Foreign exchange markets
+- Currency derivatives
+tags:
+- equity
+- greeks
+- hedge_funds
+- structured_finance
+- option_pricing
+- binomial
+- mathematical-finance
+- interest_rates
+- valuation
+- binomial_model
+- fx
+- commodities
+- black_scholes
+- bonds
+- volatility
 ---
 
 # 5.9 A REAL-LIFE OPTION PRICING EXERCISE  

@@ -1,23 +1,27 @@
 ---
 cssclasses: academia
-linter-yaml-title-alias:
+linter-yaml-title-alias: null
 title: Squam Lake Group Letter
 tags:
-  - capital_requirements
-  - economic_growth
-  - financial_system
-  - policy_recommendations
-  - world_financial_crisis
+- abs
+- apt
+- arch
+- bonds
+- cir
+- fixed_income
+- options
+- swaps
 aliases:
-  - 2007-2010 crisis
-  - WFC
-  - financial crisis
+- 2007-2010 crisis
+- WFC
+- financial crisis
 key_concepts:
-  - economic welfare
-  - financial firms regulations
-  - financial system's role
-  - policy interventions
-  - sovereign debts
+- 'Short-rate models: Vasicek, CIR, and mean reversion'
+- Ito's lemma and stochastic calculus applications
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Interest rate swaps and term structure modeling
+- Interest rate caps, floors, and swaptions
 ---
 
 ## Chapter 1 Introduction

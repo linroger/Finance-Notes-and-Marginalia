@@ -1,19 +1,18 @@
 ---
 tags:
-  - concave_function
-  - fair_gamble
-  - risk_aversion
-  - risk_premium
-  - utility_function
+- abs
+- cir
+- fixed_income
+- risk-management
+- risk-neutral
+- var
 aliases:
-  - Certainty Equivalent
-  - Risk Attitudes
+- Certainty Equivalent
+- Risk Attitudes
 key_concepts:
-  - Attitudes towards risk
-  - Fair gamble definition
-  - Quantitative risk aversion
-  - Risk-averse individual
-  - Utility function preferences
+- Risk-neutral measures and martingale pricing
+- 'Short-rate models: Vasicek, CIR, and mean reversion'
+- Value at Risk and tail risk measurement
 ---
 
 # 5.5 Risk aversion  

@@ -1,29 +1,94 @@
 ---
-title: DCF Breakdown
-cssclasses:
-  - academia
-tags:
-  - capm
-  - dcf_model
-  - financial_modeling
-  - free_cash_flow
-  - sensitivity_analysis
-  - valuation
-  - wacc
 aliases:
-  - DCF
-  - Discounted Cash Flow
-  - Enterprise Value
-  - FCF
+- DCF
+- Discounted Cash Flow
+- Enterprise Value
+- FCF
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch04-FE-tags-v2
 key_concepts:
-  - CAPM for cost of equity calculation
-  - Enterprise value to equity value conversion
-  - Free cash flow forecast methodology
-  - Gordon growth model for terminal value
-  - Present value calculation techniques
-  - Projected financial statements analysis
-  - WACC determination process
-  - Working capital impact on cash flow
+- Investment analysis and portfolio management
+- Financial valuation and pricing methodologies
+- Working Capital
+- Sensitivity analysis in DCF models
+- Option Greeks and portfolio risk management
+- Common pitfalls in DCF valuation
+- Equity markets and stock valuation
+- Discounted Cash Flow valuation methodology
+- Solution
+- Futures contracts and forward pricing
+- After-tax cost of debt and capital structure
+- Historical simulation vs. parametric VaR models
+- WACC for multinational corporations
+- Vega and volatility risk management
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- Monte Carlo VaR for complex portfolios
+- Stress testing and scenario analysis
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Value at Risk (VaR) methodologies and backtesting
+- Theta and time decay modeling
+- Interest rate swap pricing and valuation
+- Cost of equity estimation using CAPM and other models
+- Expected Shortfall and coherent risk measures
+- Capital Asset Pricing Model (CAPM)
+- Weighted Average Cost of Capital calculation
+- Variance swaps and volatility trading strategies
+- Market value weights vs. book value weights
+- Free cash flow to equity and firm valuation
+- Terminal value estimation and perpetuity growth
+- Quantitative Implementation
+- Gamma and convexity adjustments
+- Delta hedging and the replication argument
+- Cross-currency basis swaps and funding
+last_enhanced: '2025-11-06 08:42:53'
+tags:
+- working-capital
+- interest-rate-swaps
+- mathematical-finance
+- course-material
+- capm
+- greeks
+- futures-contracts
+- value-at-risk
+- exchange-rates
+- valuation
+- quantitative-implementation
+- solution
+- dcf_model
+- wacc
+- sensitivity_analysis
+- dcf-valuation
+- free_cash_flow
+- financial_modeling
+- options-greeks
+- dcf-methodology
+- dcf-guide
+- financial-forecasting
+- cash-flow-forecasting
+- financial-projections
+- valuation-steps
+- financial-modeling-process
+- dcf-valuation-steps
+- business-valuation
+- corporate-valuation
+- investment-analysis
+- financial-planning
+- cash-flow-analysis
+- valuation-techniques
+- discounted-cash-flow
+- enterprise-value
+- equity-valuation
+- terminal-value
+- perpetuity-growth
+- business-analysis
+- valuation-framework
+- financial-statement-analysis
+title: DCF Breakdown
 ---
 
 # DCF Breakdown

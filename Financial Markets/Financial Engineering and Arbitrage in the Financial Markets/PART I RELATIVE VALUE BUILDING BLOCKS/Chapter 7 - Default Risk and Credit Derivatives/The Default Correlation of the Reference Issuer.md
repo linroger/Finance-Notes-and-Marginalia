@@ -1,20 +1,45 @@
 ---
-tags:
-  - cds_pricing
-  - default_correlation
-  - joint_probability
-  - protection_seller
-  - reference_issuer
 aliases:
-  - CDS Default
-  - Joint Default Probability
-  - Protection Seller Default
+- CDS Default
+- Joint Default Probability
+- Protection Seller Default
 key_concepts:
-  - CDS premium and credit quality
-  - Conditional default probability
-  - Default correlation reference issuer
-  - Joint default probability modeling
-  - Protection seller default risk
+- CDS premium and credit quality
+- Conditional default probability
+- Default correlation reference issuer
+- Joint default probability modeling
+- Protection seller default risk
+- Equity valuation and analysis
+- Dividend discount models
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Foreign exchange markets
+- Currency derivatives
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Derivatives pricing theory
+- Risk-neutral valuation
+- Arbitrage theory and practice
+- Law of one price
+- Credit risk modeling
+tags:
+- equity
+- model-calibration
+- regulatory-framework
+- credit
+- calibration
+- cds
+- hedge_funds
+- structured_finance
+- cds_pricing
+- reference_issuer
+- interest_rates
+- portfolio-theory
+- valuation
+- fixed_income
+- default_correlation
 ---
 
 # 7.5 THE DEFAULT CORRELATION OF THE REFERENCE ISSUER AND THE PROTECTION SELLER  

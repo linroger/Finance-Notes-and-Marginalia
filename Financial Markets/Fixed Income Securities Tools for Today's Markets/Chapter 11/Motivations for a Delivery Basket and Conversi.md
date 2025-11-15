@@ -1,19 +1,38 @@
 ---
-tags:
-  - bond_futures
-  - conversion_factors
-  - ctd_bond
-  - deliverable_basket
-  - squeeze_risk
 aliases:
-  - Conversion Factors
-  - Delivery Basket
+- Conversion Factors
+- Delivery Basket
 key_concepts:
-  - Avoid single security risk
-  - Bond futures liquidity
-  - Conversion factor function
-  - Deliverable basket benefits
-  - Squeeze risk mitigation
+- Avoid single security risk
+- Bond futures liquidity
+- Conversion factor function
+- Deliverable basket benefits
+- Squeeze risk mitigation
+- Fixed income securities
+- Interest rate derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Interest rate modeling
+- Term structure of interest rates
+tags:
+- fixed_income
+- ctd_bond
+- bond_futures
+- squeeze_risk
+- trading
+- bonds
+- futures
+- options
+- conversion_factors
+- mathematical-finance
+- deliverable_basket
+- interest_rates
 ---
 
 # 11.7 MOTIVATIONS FOR A DELIVERY BASKET AND CONVERSION FACTORS  

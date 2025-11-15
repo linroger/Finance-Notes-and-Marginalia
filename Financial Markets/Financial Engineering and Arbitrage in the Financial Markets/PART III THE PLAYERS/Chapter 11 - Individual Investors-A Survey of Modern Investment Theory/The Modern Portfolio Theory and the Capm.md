@@ -1,20 +1,44 @@
 ---
-tags:
-  - capm
-  - efficient_frontier
-  - modern_portfolio_theory
-  - portfolio_returns
-  - risk_management
 aliases:
-  - MPT and CAPM
-  - Markowitz Theory
-  - Portfolio Optimization
+- MPT and CAPM
+- Markowitz Theory
+- Portfolio Optimization
 key_concepts:
-  - CSCO and XOM returns
-  - Diversification effects
-  - 'Efficient frontier: portfolios'
-  - 'MPT: reward and risk'
-  - 'Standard deviation: total risk'
+- CSCO and XOM returns
+- Diversification effects
+- 'Efficient frontier: portfolios'
+- 'MPT: reward and risk'
+- 'Standard deviation: total risk'
+- Equity valuation and analysis
+- Dividend discount models
+- Option sensitivity analysis
+- Delta, gamma, vega, theta, rho
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Value at risk and stress testing
+- Portfolio risk metrics
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Structured products and CDOs
+- Credit derivatives
+tags:
+- portfolio_returns
+- equity
+- model-calibration
+- greeks
+- structured_finance
+- modern_portfolio_theory
+- portfolio-theory
+- volatility
+- bonds
+- efficient_frontier
+- risk_management
+- futures
+- capm
+- options
+- portfolio
 ---
 
 # 11.3 THE MODERN PORTFOLIO THEORY AND THE CAPM  

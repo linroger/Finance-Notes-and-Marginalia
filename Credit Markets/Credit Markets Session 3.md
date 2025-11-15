@@ -1,28 +1,108 @@
 ---
-title: Credit Markets Session 3
-tags:
-  - cds_pricing
-  - credit_markets
-  - default_probabilities
-  - hazard_rate
-  - risk_neutral
-  - survival_probability
-  - bond_pricing
 aliases:
-  - CDS
-  - Credit Derivatives
-  - Hazard Rate Model
+- CDS
+- Credit Derivatives
+- Hazard Rate Model
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-66e2f5
 key_concepts:
-  - CDS cash flows
-  - Default probabilities
-  - Discount factor curve
-  - Forward interest rates
-  - Hazard rate model
-  - Recovery rate
-  - Risk neutral valuation
-  - Survival probability curves
-  - Bond pricing
-  - CDS duration
+- hazard rate modeling and estimation
+- Apt
+- Term structure of interest rates and yield curve shapes
+- Default probabilities
+- Duration and convexity analysis for bond portfolio management
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Risk neutral valuation
+- Bond pricing
+- Probability of default estimation from credit spreads
+- Option Greeks and portfolio risk management
+- Credit spread analysis and OAS methodology
+- Expectations hypothesis and liquidity preference theory
+- Survival probability curves
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- Vega and volatility risk management
+- Structural models of default and Merton formulation
+- CDS clearing and central counterparties
+- fixed income risk measurement
+- DV01 calculation and interest rate risk hedging
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- protection buyer in CDS
+- Credit default swap pricing and recovery assumptions
+- GARCH models and volatility forecasting
+- first lien security and collateral
+- Fixed-for-floating swap cash flows and valuation
+- Currency risk management and hedging
+- Forward rates and interest rate parity
+- Theta and time decay modeling
+- Synthetic credit derivatives and index trades
+- Case Study
+- Exchange rate determination and PPP theory
+- fundamental valuation methods
+- Interest rate swap pricing and valuation
+- interest rate and currency derivatives
+- Credit default swap pricing and risk-neutral probabilities
+- present value and discounting methods
+- Variance swaps and volatility trading strategies
+- CDS cash flows
+- fair value measurement and hierarchy
+- Discount factor curve
+- survival probability estimation
+- Hazard rate model
+- protection seller in CDS
+- Gamma and convexity adjustments
+- Credit risk migration matrices and rating transition
+- Capital Structure
+- Recovery rate
+- Credit risk modeling and portfolio correlation analysis
+- Delta hedging and the replication argument
+- Forward interest rates
+- Parallel and non-parallel shifts in the yield curve
+- Cross-currency basis swaps and funding
+- credit risk transfer mechanisms
+- Currency markets and foreign exchange trading
+- CDS duration
+tags:
+- quantitative-implementation
+- duration-convexity
+- solution
+- yield-curve
+- credit-default-swaps
+- treasury-bonds
+- cds_pricing
+- hazard_rate
+- collateralized-debt-obligations
+- sofr
+- garch-models
+- bond_pricing
+- interest-rate-swaps
+- mathematical-finance
+- arbitrage
+- infrastructure
+- corporate-bonds
+- capital-structure
+- bond-pricing
+- default_probabilities
+- case-study
+- apt
+- greeks
+- credit_markets
+- dcf-valuation
+- dv01
+- recovery-rate
+- survival_probability
+- exchange-rates
+- duration
+- risk_neutral
+- cds
+- credit-risk
+- term-structure
+title: Credit Markets Session 3
 ---
 
 # Credit Markets Session 3

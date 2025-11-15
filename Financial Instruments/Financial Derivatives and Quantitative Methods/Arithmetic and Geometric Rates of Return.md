@@ -1,30 +1,58 @@
 ---
-cssclasses: academia
-title: Arithmetic and Geometric Rates of Return
-tags:
-  - arithmetic_mean
-  - continuous_compounding
-  - geometric_mean
-  - rate_of_return
-  - wiener_process
-  - ito_calculus
-  - brownian_motion
-  - stochastic_processes
 aliases:
-  - Arithmetic Mean vs Geometric Mean
-  - Continuously Compounded Return
-  - Arithmetic vs Geometric Return
+- Arithmetic Mean vs Geometric Mean
+- Continuously Compounded Return
+- Arithmetic vs Geometric Return
+cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-e1eafd
 key_concepts:
-  - Arithmetic mean return
-  - Continuously compounded rate
-  - Geometric mean return calculation
-  - Variance impact on geometric returns
-  - Wiener process properties
-  - Ito's lemma application
-  - Geometric Brownian motion
-  - Forward price stochastic process
-  - Return variance relationship
-  - Log-normal distribution properties
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Ito's lemma and stochastic calculus applications
+- Monte Carlo simulation for derivatives valuation
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- arbitrage
+- binomial
+- black-scholes
+- brownian-motion
+- convexity
+- correlation
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- exotic-options
+- expected-shortfall
+- fixed_income
+- fx
+- gamma
+- geometric-brownian-motion
+- greeks
+- hedging
+- interest-rate-swaps
+- monte-carlo
+- options
+- replication
+- risk-management
+- risk-neutral
+- stress-testing
+- swaps
+- theta
+- var
+- vega
+- wiener-process
+title: Arithmetic and Geometric Rates of Return
 ---
 
 # Arithmetic and Geometric Rates of Return

@@ -1,19 +1,20 @@
 ---
 tags:
-  - consumption_plans
-  - expected_utility
-  - multi_date
-  - time_additivity
-  - time_preference
+- abs
+- apt
+- delta
+- derivatives-pricing
+- fixed_income
+- gamma
+- risk-management
+- var
 aliases:
-  - Additively separable utility
-  - Multi-period consumption
+- Additively separable utility
+- Multi-period consumption
 key_concepts:
-  - Expected utility representation
-  - Intertemporal substitution
-  - Multi-date consumption plans
-  - Subjective time preference rate
-  - Time-separable utility
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Options Greeks and sensitivity analysis
 ---
 
 # 5.7 Preferences for multi-date consumption plans  

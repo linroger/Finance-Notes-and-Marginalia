@@ -1,3 +1,103 @@
+---
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-0099b3
+key_concepts:
+- Balance Of Payments
+- Price sensitivity to interest rate changes
+- Foreign exchange markets
+- Expected Shortfall and coherent risk measures
+- Spot rates vs. forward rates modeling
+- Variance swaps and volatility trading strategies
+- Case Study
+- GARCH models and volatility forecasting
+- Value at Risk (VaR) methodologies and backtesting
+- Duration and convexity measures for bond portfolios
+- Interest rate swap pricing and valuation
+- Yield curve fitting and interpolation methods
+- Term structure of interest rates and yield curve shapes
+- Theta and time decay modeling
+- Exchange rate determination and PPP theory
+- Parallel and non-parallel shifts in the yield curve
+- Currency markets and foreign exchange trading
+- Forward rates and interest rate parity
+- Monte Carlo methods for risk measurement
+- Wrong-way risk in derivative transactions
+- Stress testing and scenario analysis
+- Vega and volatility risk management
+- Credit portfolio diversification and concentration
+- Variance reduction techniques in Monte Carlo methods
+- Value at risk and stress testing
+- Mathematical Finance
+- Course Material
+- Cross-currency basis swaps and funding
+- Path-dependent options and Monte Carlo integration
+- Solution
+- Currency derivatives
+- Interest rate modeling
+- Gamma and convexity adjustments
+- Term structure of interest rates
+- Bond pricing and yield analysis
+- Expected Shortfall
+- Monte Carlo VaR for complex portfolios
+- Delta hedging and the replication argument
+- Swap spread and credit risk considerations
+- Dividend discount models
+- Currency risk management and hedging
+- Credit risk modeling and default probability estimation
+- Monte Carlo simulation for derivative pricing
+- Treasury Bonds
+- Portfolio risk metrics
+- Fixed-for-floating swap cash flows and valuation
+- Expectations hypothesis and liquidity preference theory
+- Market risk measurement and portfolio volatility
+- Delta hedging and Greeks
+- Key rate duration and curve risk
+- Portfolio immunization strategies
+- Quasi-Monte Carlo and low-discrepancy sequences
+- Equity valuation and analysis
+- Duration and convexity
+- Credit exposure measurement and EAD
+- Modified duration vs. Macaulay duration
+- Loss given default and recovery rates
+- Option Greeks and portfolio risk management
+- Historical simulation vs. parametric VaR models
+- Options pricing and payoff structures
+- Commodity markets and pricing dynamics
+tags:
+- garch-models
+- credit-risk
+- mathematical-finance
+- course-material
+- greeks
+- market-risk
+- solution
+- treasury-bonds
+- risk_management
+- deleveraging
+- fx
+- expected-shortfall
+- duration-convexity
+- infrastructure
+- value-at-risk
+- interest-rate-swaps
+- monte-carlo
+- interest_rates
+- stress-testing
+- equity
+- yield-curve
+- exotic-options
+- commodities
+- regulatory-framework
+- options
+- bonds
+- case-study
+- exchange-rates
+- distressed-debt
+- quantitative-implementation
+- balance-of-payments
+---
+
 # Part 3: The Rises and Declines of Economies Over the Last 500 Years
 
 As mentioned above, productivity, indebtedness and luck (e.g., whether one has wars or natural resources) explain differences in countries' relative performance. This part looks at how different countries' shares of the world economy have changed and why the drivers discussed above caused these changes to occur, with a particular emphasis on the period since 1820. As I explain below, the rises and declines in countries' shares of the world economy occur as a result of very long-term cycles that are not apparent to observers who look at economic conditions.md) from a close-up perspective.

@@ -1,30 +1,110 @@
 ---
-title: Risk Neutral Valuation Framework for Credit Default Swaps
-tags:
-  - cds_valuation
-  - credit_default_swaps
-  - credit_risk
-  - hazard_rates
-  - risk_neutral_valuation
-  - credit_markets
-  - survival_probability
-  - credit_derivatives
 aliases:
-  - CDS
-  - Credit Derivatives
-  - Risk Neutrality
-  - Hazard Rate Model
+- CDS
+- Credit Derivatives
+- Risk Neutrality
+- Hazard Rate Model
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-0863bd
 key_concepts:
-  - CDS cash flows
-  - CDS duration
-  - Deterministic interest rates
-  - Hazard rates
-  - Risk neutral valuation
-  - CDS pricing formulas
-  - Default probabilities
-  - Recovery rates
-  - Default leg valuation
-  - Premium leg valuation
+- hazard rate modeling and estimation
+- Apt
+- Carry trades and momentum in FX markets
+- Default probabilities
+- Duration and convexity analysis for bond portfolio management
+- Extreme value theory and tail risk modeling
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Credit risk modeling and default probability estimation
+- Risk neutral valuation
+- CDS pricing formulas
+- Option Greeks and portfolio risk management
+- Historical simulation vs. parametric VaR models
+- Credit spread decomposition and hazard rates
+- Vega and volatility risk management
+- CDS clearing and central counterparties
+- fixed income risk measurement
+- DV01 calculation and interest rate risk hedging
+- Deterministic interest rates
+- Recovery rates
+- Premium leg valuation
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- protection buyer in CDS
+- Mathematical Finance
+- Monte Carlo VaR for complex portfolios
+- Stress testing and scenario analysis
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Currency risk management and hedging
+- Forward rates and interest rate parity
+- Value at Risk (VaR) methodologies and backtesting
+- Theta and time decay modeling
+- Risk-neutral pricing methodology for derivative securities
+- Operational risk quantification and modeling
+- Exchange rate determination and PPP theory
+- fundamental valuation methods
+- Expected Shortfall and coherent risk measures
+- Interest rate swap pricing and valuation
+- Credit default swap pricing and risk-neutral probabilities
+- present value and discounting methods
+- Variance swaps and volatility trading strategies
+- CDS cash flows
+- survival probability estimation
+- Value-at-Risk calculation using historical simulation
+- protection seller in CDS
+- Gamma and convexity adjustments
+- Credit risk migration matrices and rating transition
+- Hazard rates
+- Credit risk modeling and portfolio correlation analysis
+- Backtesting procedures for risk models
+- Delta hedging and the replication argument
+- Liquidity risk measurement and management
+- Cross-currency basis swaps and funding
+- Default leg valuation
+- Systemic risk indicators and early warning systems
+- credit risk transfer mechanisms
+- Currency markets and foreign exchange trading
+- CDS duration
+tags:
+- credit-default-swaps
+- collateralized-debt-obligations
+- interest-rate-swaps
+- default-probability
+- credit_risk
+- mathematical-finance
+- course-material
+- credit_derivatives
+- hazard_rates
+- risk_neutral_valuation
+- apt
+- cds_valuation
+- greeks
+- loss-given-default
+- value-at-risk
+- recovery-rate
+- survival_probability
+- exchange-rates
+- credit-risk
+- quantitative-implementation
+- duration-convexity
+- solution
+- treasury-bonds
+- stress-testing
+- infrastructure
+- liquidity-risk
+- systemic-risk
+- corporate-bonds
+- credit_default_swaps
+- credit_markets
+- dcf-valuation
+- duration
+- expected-shortfall
+- operational-risk
+- cds
+- monte-carlo
+title: Risk Neutral Valuation Framework for Credit Default Swaps
 ---
 
 # Risk Neutral Valuation Framework for Credit Default Swaps

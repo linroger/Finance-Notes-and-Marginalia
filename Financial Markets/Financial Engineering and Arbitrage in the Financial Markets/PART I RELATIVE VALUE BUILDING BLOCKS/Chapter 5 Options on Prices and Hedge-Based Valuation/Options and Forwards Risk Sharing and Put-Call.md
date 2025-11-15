@@ -1,24 +1,46 @@
 ---
-tags:
-  - call_option
-  - forwards
-  - options
-  - put_call_parity
-  - put_option
-  - risk_sharing
-  - strike_price
 aliases:
-  - Forward Synthesis
-  - Off-Market Forward
-  - Options and Forwards
-  - Put-Call Parity
+- Forward Synthesis
+- Off-Market Forward
+- Options and Forwards
+- Put-Call Parity
 key_concepts:
-  - Call and Put Payoffs
-  - Cash vs Physical Settlement
-  - Cost-of-Carry Equation
-  - Long Forward Strategy
-  - Put-Call Parity Formula
-  - Synthesizing Forwards
+- Put-call parity and forward synthesis strategies
+- Call and put option payoff structures at expiry
+- Physical settlement versus cash settlement options
+- Cost-of-carry equation and forward pricing
+- Long forward strategy replication using options
+- Synthesizing forwards from options positions
+- Off-market forwards and mark-to-market valuation
+- Strike price selection and premium relationships
+- At-the-money, in-the-money, and out-of-money options
+- Forward contract replication through call-put spreads
+- Present value discounting and financing rates
+- Risk arbitrage opportunities in options markets
+- Initial public offerings and secondary markets
+- Stock exchange trading and liquidity provision
+- Derivative strategies and risk management
+- Hedging strategies using options and forwards
+- Options trading and volatility strategies
+- Time decay and option premium components
+- Intrinsic value versus time value in options
+- Implied volatility and market expectations
+tags:
+- long-forward
+- arbitrage-free-pricing
+- equity
+- mark-to-market
+- present-value
+- call-put-synthesis
+- out-of-money
+- static-hedging
+- cost-of-carry
+- options-trading
+- portfolio-insurance
+- secondary-market
+- in-the-money
+- stock-exchange
+- market-efficiency
 ---
 
 # 5.4 OPTIONS AND FORWARDS, RISK SHARING AND PUT-CALL PARITY  

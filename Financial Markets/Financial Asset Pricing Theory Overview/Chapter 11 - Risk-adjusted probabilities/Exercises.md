@@ -1,19 +1,9 @@
 ---
-tags:
-  - conditional_probabilities
-  - continuous_time
-  - exercises
-  - state_price
-  - two_period_economy
+tags: []
 aliases:
-  - Exercise Questions
-  - Exercises
-key_concepts:
-  - Asset pricing
-  - Conditional probabilities
-  - Equations equivalence
-  - State-price deflator dynamics
-  - Two-period economy asset
+- Exercise Questions
+- Exercises
+key_concepts: []
 ---
 
 # 11.8 Exercises  

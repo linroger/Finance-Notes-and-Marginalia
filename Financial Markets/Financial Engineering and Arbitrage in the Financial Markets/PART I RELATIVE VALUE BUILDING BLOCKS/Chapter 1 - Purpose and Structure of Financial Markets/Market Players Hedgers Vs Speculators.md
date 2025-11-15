@@ -1,21 +1,19 @@
 ---
 tags:
-  - fixed_rate_mortgage
-  - hedgers_speculators
-  - market_players
-  - opportunity_cost
-  - price_uncertainty
-  - risk_sharing
+- apt
+- arbitrage
+- bonds
+- fixed_income
+- risk-management
+- var
 aliases:
-  - Hedgers vs. Speculators
-  - Market Participants
+- Hedgers vs. Speculators
+- Market Participants
 key_concepts:
-  - Fixed rate mortgage
-  - Investment as speculation
-  - Investors buy high, sell low
-  - Opportunity cost of capital
-  - Predictability vs. risk
-  - Risk sharing in markets
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
 ---
 
 # 1.7 MARKET PLAYERS: HEDGERS VS SPECULATORS  

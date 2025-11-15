@@ -1,20 +1,45 @@
 ---
-tags:
-  - bond_convexity
-  - bond_pricing
-  - duration
-  - dv01
-  - interest_rate_risk
 aliases:
-  - convexity measure
-  - positive convexity
-  - price-rate curve
+- convexity measure
+- positive convexity
+- price-rate curve
 key_concepts:
-  - DV01 falling as rates
-  - bond price sensitivity
-  - convex shape of curve
-  - first-order approximation
-  - second derivative of price
+- DV01 falling as rates
+- bond price sensitivity
+- convex shape of curve
+- first-order approximation
+- second derivative of price
+- Fixed income securities
+- Interest rate derivatives
+- Foreign exchange markets
+- Currency derivatives
+- Option sensitivity analysis
+- Delta, gamma, vega, theta, rho
+- Bond pricing and yield analysis
+- Duration and convexity
+- Derivatives pricing theory
+- Risk-neutral valuation
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Value at risk and stress testing
+- Portfolio risk metrics
+- Interest rate modeling
+tags:
+- greeks
+- bond_pricing
+- interest_rates
+- portfolio-theory
+- duration
+- bond_convexity
+- dv01
+- fixed_income
+- fx
+- bonds
+- derivatives
+- options
+- risk_management
+- portfolio
+- interest_rate_risk
 ---
 
 # 4.5 CONVEXITY  

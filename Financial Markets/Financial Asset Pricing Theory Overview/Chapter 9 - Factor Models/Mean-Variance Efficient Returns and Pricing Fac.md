@@ -1,20 +1,22 @@
 ---
 tags:
-  - asset_pricing
-  - efficient_returns
-  - excess_returns
-  - mean_variance_frontier
-  - portfolio_returns
+- abs
+- arbitrage
+- cir
+- derivatives-pricing
+- fixed_income
+- risk-management
+- theta
+- var
 aliases:
-  - Efficient Portfolios
-  - Hansen and Richard (1987)
-  - Mean-Variance Analysis
+- Efficient Portfolios
+- Hansen and Richard (1987)
+- Mean-Variance Analysis
 key_concepts:
-  - Asset pricing theory
-  - Constant-mimicking return
-  - Excess return definition
-  - Mean-variance efficient returns
-  - Portfolio return variance
+- 'Short-rate models: Vasicek, CIR, and mean reversion'
+- Value at Risk and tail risk measurement
+- Arbitrage opportunities and no-arbitrage pricing
+- Options Greeks and sensitivity analysis
 ---
 
 # 9.4 Mean-variance efficient returns and pricing factors  

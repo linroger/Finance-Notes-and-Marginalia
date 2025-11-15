@@ -1,22 +1,99 @@
 ---
-title: "Appendix 9.B Algebraic Proofs of Strike-Price Relations"
-cssclasses: academia
-tags:
-  - algebraic-proofs
-  - american-options
-  - call-premium
-  - european-options
-  - strike-price
 aliases:
-  - Call Option Premium
-  - Option Pricing Proofs
-  - Strike Price Relations
+- Call Option Premium
+- Option Pricing Proofs
+- Strike Price Relations
+cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-599b49
 key_concepts:
-  - American option exercise
-  - European option restriction
-  - call premium decreases
-  - convex function strike price
-  - strike price changes
+- Apt
+- European Options
+- Treasury Futures
+- American Options
+- Interest rate swap valuation and fixed-floating spreads
+- Monte Carlo simulation techniques for path-dependent options
+- Treasury Bonds
+- Real options valuation in corporate investment decisions
+- Binomial option pricing model for American-style options
+- Greeks calculation and their interpretation in options trading
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Option Greeks and portfolio risk management
+- Commodity markets and pricing dynamics
+- Solution
+- Credit spread decomposition and hazard rates
+- future value and compounding
+- Vega and volatility risk management
+- CDS clearing and central counterparties
+- Commodity futures pricing and storage costs
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- Credit default swap pricing and recovery assumptions
+- 'Structured products: CDOs, CLOs, and credit derivatives'
+- Shadow Banking
+- Implied Volatility
+- call premium decreases
+- Arbitrage Pricing Theory and multifactor models
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Theta and time decay modeling
+- Risk-neutral pricing methodology for derivative securities
+- International arbitrage and covered interest rate parity
+- Synthetic credit derivatives and index trades
+- Treasury futures trading and basis point value calculations
+- CVA and DVA adjustments in derivative pricing
+- Arbitrage opportunities and risk-free profit extraction
+- Interest rate swap pricing and valuation
+- Credit default swap pricing and risk-neutral probabilities
+- present value and discounting methods
+- Factor Models
+- European option restriction
+- Variance swaps and volatility trading strategies
+- Delta hedging strategies in options portfolio management
+- Theta decay modeling for time-sensitive options strategies
+- Implied volatility extraction from market option prices
+- Shadow banking system and regulatory arbitrage
+- Quantitative Implementation
+- Volatility smile and skew modeling in options markets
+- Gamma and convexity adjustments
+- strike price changes
+- Delta hedging and the replication argument
+- convex function strike price
+- Exotic Options
+- Cross-currency basis swaps and funding
+- American option exercise
+tags:
+- financial-analysis
+- treasury-futures
+- commodities
+- credit-default-swaps
+- collateralized-debt-obligations
+- interest-rate-swaps
+- mathematical-finance
+- course-material
+- shadow-banking
+- financial-modeling
+- apt
+- greeks
+- factor-models
+- european-options
+- quantitative-implementation
+- solution
+- algebraic-proofs
+- treasury-bonds
+- american-options
+- arbitrage
+- call-premium
+- exotic-options
+- implied-volatility
+- strike-price
+- quantitative-finance
+- dcf-valuation
+- monte-carlo
+title: Appendix 9.B Algebraic Proofs of Strike-Price Relations
 ---
 
 # Appendix 9.B Algebraic Proofs of Strike-Price Relations

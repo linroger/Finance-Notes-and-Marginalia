@@ -1,27 +1,39 @@
 ---
-title: Discussion of Loan Covenants
-  vs. Bond Covenants
-tags:
-  - bond_covenants
-  - bondholder_rights
-  - corporate_bonds
-  - federal_trust_indenture_act
-  - loan_covenants
 aliases:
-  - Bond Indentures
-  - Covenants vs. Bond Covenants
-  - Loan Covenants
-  - MGM Mirage Bond
+- Bond Indentures
+- Covenants vs. Bond Covenants
+- Loan Covenants
+- MGM Mirage Bond
 key_concepts:
-  - Bond contract features
-  - Bondholder voting rules
-  - Covenants in indentures
-  - Excessive debt risk choice
-  - Limits to debt renegotiation
-  - Loan contract default
-  - Make-whole call option
-  - US Federal Trust Indenture Act
+- Delta hedging strategies in options portfolio management
+- 'Short-rate models: Vasicek, CIR, and mean reversion'
+- Bond pricing and fixed income securities valuation
+- Ito's lemma and stochastic calculus applications
+- Credit risk modeling and default probability estimation
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- apt
+- bonds
+- cir
+- convexity
+- corporate-bonds
+- correlation
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- fixed_income
+- hedging
+- options
+- risk-management
+- yield-to-maturity
+title: Discussion of Loan Covenants vs. Bond Covenants
 ---
+
 
 # Discussion of Loan Covenants vs. Bond Covenants
 

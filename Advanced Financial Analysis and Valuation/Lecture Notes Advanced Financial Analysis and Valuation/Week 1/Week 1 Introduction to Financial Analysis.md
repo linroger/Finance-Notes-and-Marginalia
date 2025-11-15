@@ -1,31 +1,126 @@
 ---
-cssclasses:
-  - academia
-title: Week 1 Introduction to Financial Analysis
-tags:
-  - accounting_analysis
-  - business_model
-  - dcf_model
-  - financial_analysis
-  - valuation
-  - corporate_finance
-  - financial_statements
 aliases:
-  - Financial Analysis Intro
-  - Financial Statement Analysis
-  - Introduction to Valuation
-  - Week 1
+- Financial Analysis Intro
+- Financial Statement Analysis
+- Introduction to Valuation
+- Week 1
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-bbe811
 key_concepts:
-  - Accounting shenanigans and their impact on financial analysis
-  - Business model analysis and its relationship to financial performance
-  - Discounted cash flow (DCF) methodology fundamentals
-  - Economic profit sustainability and competitive advantage
-  - Free cash flow computation and forecasting techniques
-  - Fundamental analysis frameworks and valuation approaches
-  - Moats (competitive advantages) and mean reversion patterns
-  - Operating vs financing activities separation in financial analysis
-  - ROE decomposition and financial ratio interpretation
-  - Value driver model for simplified financial forecasting
+- Apt
+- Liquidity coverage ratio and net stable funding ratio
+- Regulatory changes and market structure evolution
+- Cox-Ross-Rubinstein parameter specification
+- Extensions to multi-factor CAPM models
+- Duration and convexity analysis for bond portfolio management
+- Active portfolio management and performance attribution
+- Stress testing and supervisory review processes
+- Reduced-form models and intensity-based approaches
+- Computational implementation of binomial option pricing
+- Option Greeks and portfolio risk management
+- Risk budgeting and portfolio construction techniques
+- Capital Asset Pricing Model and beta estimation
+- Capital Asset Pricing Model and expected returns
+- Discounted cash flow (DCF) methodology fundamentals
+- Vega and volatility risk management
+- Leverage ratio and large exposures
+- Business model analysis and its relationship to financial performance
+- 'Hedge fund strategies: long-short, market neutral, event-driven'
+- Operating vs financing activities separation in financial analysis
+- Swap spread and credit risk considerations
+- Capital structure theory and optimal debt levels
+- Mathematical Finance
+- Leveraged buyout financial modeling and returns
+- GARCH models and volatility forecasting
+- Value driver model for simplified financial forecasting
+- Deposit insurance and systemic risk prevention
+- cost of capital estimation
+- Accounting shenanigans and their impact on financial analysis
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Risk-weighted assets and capital adequacy ratios
+- Security Market Line and beta measurement
+- Free cash flow computation and forecasting techniques
+- Fundamental analysis frameworks and valuation approaches
+- Basel III capital and liquidity standards development
+- Margin lending and leverage in alternative investments
+- Case Study
+- fundamental valuation methods
+- Interest rate swap pricing and valuation
+- Basel III regulatory framework and capital requirements
+- ESG integration in portfolio management
+- Variance swaps and volatility trading strategies
+- Convergence of binomial model to Black-Scholes solution
+- ROE decomposition and financial ratio interpretation
+- Moats (competitive advantages) and mean reversion patterns
+- Economic profit sustainability and competitive advantage
+- Binomial option pricing model with multiple time steps
+- Delta hedging strategies in options portfolio management
+- American option pricing in binomial trees
+- Gamma and convexity adjustments
+- Capital Structure
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Delta hedging and the replication argument
+- Cross-currency basis swaps and funding
+- Currency hedging strategies for global portfolios
+- Commercial bank business model and revenue streams
+- Market portfolio and risk-free rate assumptions
+- Empirical tests and anomalies in CAPM
+tags:
+- basel-iii
+- binomial-model
+- bank-regulation
+- capm
+- cash-flow-statement
+- corporate_finance
+- case-study
+- apt
+- comparable-analysis
+- value-at-risk
+- valuation
+- credit-risk
+- duration-convexity
+- solution
+- private-equity
+- wacc
+- pe-ratio
+- depreciation
+- cost-of-capital
+- capital-budgeting
+- ebitda-multiple
+- deposit-insurance
+- vasicek-model
+- income-statement
+- roe
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- balance-sheet
+- course-material
+- accounting_analysis
+- capital-structure
+- roic
+- amortization
+- greeks
+- exchange-rates
+- net-income
+- hedge-funds
+- ebitda
+- leveraged-buyouts
+- quantitative-implementation
+- treasury-bonds
+- systemic-risk
+- roa
+- ev
+- distressed-debt
+- dcf-valuation
+- harvard-business-review
+- mean-reversion
+title: Week 1 Introduction to Financial Analysis
 ---
 
 # Week 1 Introduction to Financial Analysis

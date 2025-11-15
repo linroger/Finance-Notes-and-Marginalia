@@ -1,23 +1,88 @@
 ---
-title: Valuing Bonds with Credit Spreads in QuantLib Python
-source: https://gouthamanbalaraman.com/blog/bonds-with-spreads-quantlib-python.html
+aliases:
+- Credit Spread Valuation
+- QuantLib Example
 description: Provides an example of valuing bonds with credit spreads using QuantLib
   Python. This post walks through an example of shifting the yield term structure.
-tags:
-  - bond_valuation
-  - credit_spreads
-  - quantlib_python
-  - treasury_yield
-  - yield_curve
-aliases:
-  - Credit Spread Valuation
-  - QuantLib Example
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-2cdfce
 key_concepts:
-  - Adding credit spreads
-  - Constructing yield curve
-  - Parallel yield curve shift
-  - Shifting yield term structure
-  - Valuing bonds with spreads
+- Term structure of interest rates and yield curve shapes
+- Sensitivity analysis in DCF models
+- Duration and convexity analysis for bond portfolio management
+- Shifting yield term structure
+- Constructing yield curve
+- Treasury Bonds
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Valuing bonds with spreads
+- Probability of default estimation from credit spreads
+- Credit spread analysis and OAS methodology
+- Expectations hypothesis and liquidity preference theory
+- Discounted Cash Flow valuation methodology
+- Solution
+- Adding credit spreads
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- Structural models of default and Merton formulation
+- CDS clearing and central counterparties
+- fixed income risk measurement
+- Portfolio immunization strategies
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- Credit default swap pricing and recovery assumptions
+- Parallel yield curve shift
+- 'Structured products: CDOs, CLOs, and credit derivatives'
+- Key rate duration and curve risk
+- Fixed-for-floating swap cash flows and valuation
+- Synthetic credit derivatives and index trades
+- Case Study
+- Interest rate swap pricing and valuation
+- Credit default swap pricing and risk-neutral probabilities
+- Variance swaps and volatility trading strategies
+- Free cash flow to equity and firm valuation
+- Credit intermediation and information asymmetry
+- Terminal value estimation and perpetuity growth
+- Quantitative Implementation
+- Credit risk migration matrices and rating transition
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Parallel and non-parallel shifts in the yield curve
+- Cross-currency basis swaps and funding
+- Duration and convexity measures for bond portfolios
+- Counterparty credit exposure measurement
+- Price sensitivity to interest rate changes
+- Modified duration vs. Macaulay duration
+source: https://gouthamanbalaraman.com/blog/bonds-with-spreads-quantlib-python.html
+tags:
+- yield-curve
+- credit-default-swaps
+- credit-spreads
+- collateralized-debt-obligations
+- interest-rate-swaps
+- mathematical-finance
+- course-material
+- credit_spreads
+- financial-modeling
+- case-study
+- duration
+- exchange-rates
+- credit-risk
+- yield_curve
+- duration-convexity
+- quantitative-implementation
+- solution
+- treasury-bonds
+- treasury_yield
+- corporate-bonds
+- dcf-valuation
+- quantlib_python
+- bond_valuation
+- term-structure
+title: Valuing Bonds with Credit Spreads in QuantLib Python
 ---
 
 # Valuing Bonds with Credit Spreads in QuantLib Python

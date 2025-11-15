@@ -1,23 +1,69 @@
 ---
-aliases:
+aliases: null
 cssclasses:
-  - academia
-title: The US-China Tit-For-Tat Escalations Are Very Dangerous LinkedIn
-source: 
-  https://www.linkedin.com/pulse/us-china-tit-for-tat-escalations-very-dangerous-ray-dalio/
-description:
+- academia
+description: null
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-637118
+key_concepts:
+- Apt
+- Hedge fund replication
+- Treasury Bonds
+- Collateralized Debt Obligations
+- Option Greeks and portfolio risk management
+- Solution
+- Municipal Bonds
+- Vega and volatility risk management
+- Mathematical Finance
+- Infrastructure investment and project finance
+- Alternative investment strategies
+- Equity valuation and analysis
+- Course Material
+- Theta and time decay modeling
+- Case Study
+- Credit derivatives
+- Structured products and CDOs
+- Quantitative Implementation
+- Gamma and convexity adjustments
+- Hedge fund strategies and alternative investments
+- Harvard Business Review
+- Delta hedging and the replication argument
+- Delta hedging and Greeks
+- Dividend discount models
+- Options pricing and payoff structures
+source: https://www.linkedin.com/pulse/us-china-tit-for-tat-escalations-very-dangerous-ray-dalio/
 tags:
-  - '#big_cycle'
-  - '#conflict_gauge'
-  - '#economic_warfare'
-  - '#global_impact'
-  - '#military_spending'
-  - '#pelosi_visit'
-  - '#principles_for_dealing_with_the_changing_world_order'
-  - '#taiwan_crisis'
-  - '#tit_for_tat_escalation'
-  - '#us_china_relations'
+- '#taiwan_crisis'
+- '#us_china_relations'
+- '#military_spending'
+- collateralized-debt-obligations
+- '#global_impact'
+- mathematical-finance
+- course-material
+- case-study
+- apt
+- greeks
+- '#conflict_gauge'
+- '#economic_warfare'
+- '#pelosi_visit'
+- '#tit_for_tat_escalation'
+- hedge-funds
+- options
+- quantitative-implementation
+- solution
+- treasury-bonds
+- structured_finance
+- equity
+- '#big_cycle'
+- infrastructure
+- '#principles_for_dealing_with_the_changing_world_order'
+- hedge_funds
+- harvard-business-review
+- municipal-bonds
+title: The US-China Tit-For-Tat Escalations Are Very Dangerous LinkedIn
 ---
+
 # The US-China Tit-For-Tat Escalations Are Very Dangerous LinkedIn
 
 Unfortunately,  what is happening now between the US and China over Taiwan is following the classic path to war laid out in my book "Principles for Dealing with the Changing World Order.” If events continue to follow this path,  this conflict will have a much larger global impact than the Russia-Ukraine war because it is between the world's leading superpowers that are economically much larger and much more intertwined.

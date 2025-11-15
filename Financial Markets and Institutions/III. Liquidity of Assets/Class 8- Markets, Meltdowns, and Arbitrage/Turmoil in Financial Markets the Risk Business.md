@@ -1,22 +1,40 @@
 ---
-title: Turmoil in Financial Markets the Risk Business
-tags:
-  - financial_markets
-  - hedge_funds
-  - long_term_capital_management
-  - market_turmoil
-  - risk_management
 aliases:
-  - Financial Market Turmoil
-  - LTCM Collapse
-  - The Risk Business
+- Financial Market Turmoil
+- LTCM Collapse
+- The Risk Business
 key_concepts:
-  - Banks manage financial risk
-  - Carefree bullishness to pessimism
-  - Hedge funds blamed
-  - Long-Term Capital Management
-  - Markets have fallen sharply
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Monte Carlo simulation for derivatives valuation
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- abs
+- arbitrage
+- arch
+- bonds
+- calls
+- convexity
+- corporate-bonds
+- correlation
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- fixed_income
+- hedging
+- options
+- puts
+- risk-management
+- var
+title: Turmoil in Financial Markets the Risk Business
 ---
+
 
 # Turmoil in Financial Markets the Risk Business
 

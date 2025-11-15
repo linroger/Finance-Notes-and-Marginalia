@@ -1,22 +1,27 @@
 ---
 tags:
-  - continuous_time
-  - discrete_time_economy
-  - linear_factor_model
-  - mean_variance
-  - state_price_deflator
+- apt
+- arbitrage
+- capm
+- delta
+- derivatives-pricing
+- fixed_income
+- gamma
+- risk-management
+- var
+- zero-coupon
 aliases:
-  - Exercise 9.1
-  - Exercise 9.2
-  - Exercise 9.3
-  - Exercise 9.4
+- Exercise 9.1
+- Exercise 9.2
+- Exercise 9.3
+- Exercise 9.4
 key_concepts:
-  - continuous-time framework
-  - discrete-time economy
-  - linear factor model
-  - market price of risk
-  - mean-variance frontier
-  - state-price deflator
+- Bond pricing and fixed income securities valuation
+- Ito's lemma and stochastic calculus applications
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
+- Options Greeks and sensitivity analysis
 ---
 
 # 9.8 Exercises  

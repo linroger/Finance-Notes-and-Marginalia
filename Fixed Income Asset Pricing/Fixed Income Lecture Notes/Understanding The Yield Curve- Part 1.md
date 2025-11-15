@@ -1,22 +1,106 @@
 ---
-linter-yaml-title-alias: OVERVIEW OF FORWARD RATE ANALYSIS
-title: Understanding The Yield CurvePart 1
-tags:
-  - bond_risk
-  - convexity_bias
-  - forward_rates
-  - interest_rates
-  - yield_curve
 aliases:
-  - Salomon Brothers
-  - Term Structure
-  - Yield Curve Analysis
+- Salomon Brothers
+- Term Structure
+- Yield Curve Analysis
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-7e9cdf
 key_concepts:
-  - Bond risk premium
-  - Convexity bias impact
-  - Forward rate analysis tools
-  - Par, spot, forward rates
-  - Rate expectations influence
+- Apt
+- Term structure of interest rates and yield curve shapes
+- Brownian motion and Wiener processes in finance
+- Bond risk premium
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Option Greeks and portfolio risk management
+- Currency derivatives
+- Expectations hypothesis and liquidity preference theory
+- Futures contracts and forward pricing
+- Historical simulation vs. parametric VaR models
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- Vega and volatility risk management
+- CDS clearing and central counterparties
+- Value at risk and stress testing
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- Foreign exchange markets
+- Liquidity and price discovery
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Rate expectations influence
+- Value at Risk (VaR) methodologies and backtesting
+- Theta and time decay modeling
+- Counterparty risk and settlement
+- Portfolio risk metrics
+- Monte Carlo simulation
+- Case Study
+- Interest rate swap pricing and valuation
+- Margin requirements and clearing
+- Credit default swap pricing and risk-neutral probabilities
+- Market microstructure and trading
+- Variance swaps and volatility trading strategies
+- Pairs trading and statistical arbitrage strategies
+- Convexity bias impact
+- Bond pricing and yield analysis
+- Gamma and convexity adjustments
+- Delta hedging and the replication argument
+- Credit default swaps and credit risk
+- Parallel and non-parallel shifts in the yield curve
+- Par, spot, forward rates
+- Cross-currency basis swaps and funding
+- Delta hedging and Greeks
+- Duration and convexity
+- Options pricing and payoff structures
+- Forward rate analysis tools
+linter-yaml-title-alias: OVERVIEW OF FORWARD RATE ANALYSIS
+tags:
+- yield-curve
+- fx
+- credit-default-swaps
+- collateralized-debt-obligations
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- monte_carlo
+- trading
+- course-material
+- pairs-trading
+- brownian-motion
+- case-study
+- apt
+- bonds
+- greeks
+- risk_management
+- value-at-risk
+- factor-models
+- forward_rates
+- exchange-rates
+- options
+- credit-risk
+- efficient-market
+- yield_curve
+- duration-convexity
+- hull-white-model
+- quantitative-implementation
+- solution
+- treasury-bonds
+- bond_risk
+- interest_rates
+- stress-testing
+- exotic-options
+- volatility
+- dcf-valuation
+- convexity_bias
+- harvard-business-review
+- futures
+- cds
+- monte-carlo
+title: Understanding The Yield CurvePart 1
 ---
 
 Salomon Brothers

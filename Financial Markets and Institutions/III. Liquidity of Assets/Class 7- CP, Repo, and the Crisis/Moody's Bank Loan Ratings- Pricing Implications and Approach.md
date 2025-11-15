@@ -1,25 +1,40 @@
 ---
-cssclasses:
-  - academia
-linter-yaml-title-alias: Moody's Bank Loan RatingsPricing Implications and Approach
-title: Moody's Bank Loan RatingsPricing Implications and Approach
-tags:
-  - bank_loan_ratings
-  - bond_markets
-  - loan_market
-  - risk_adjusted_pricing
-  - syndicated_loan_market
 aliases:
-  - Commercial bank loan
-  - Kinsai Institute
-  - Moody's bank loan
+- Commercial bank loan
+- Kinsai Institute
+- Moody's bank loan
+cssclasses:
+- academia
 key_concepts:
-  - Bank loan pricing
-  - Loan and bond markets
-  - Loan market convergence
-  - Loan portfolio managers
-  - Risk adjusted pricing
+- Delta hedging strategies in options portfolio management
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+linter-yaml-title-alias: Moody's Bank Loan RatingsPricing Implications and Approach
+tags:
+- apt
+- arbitrage
+- arch
+- bonds
+- convexity
+- correlation
+- credit-risk
+- delta
+- derivatives-pricing
+- duration
+- fixed-income
+- fixed_income
+- hedging
+- options
+- risk-management
+- var
+title: Moody's Bank Loan RatingsPricing Implications and Approach
 ---
+
 
 # Moody's Bank Loan RatingsPricing Implications and Approach
 

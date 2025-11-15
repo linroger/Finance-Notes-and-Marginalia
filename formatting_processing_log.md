@@ -1,3 +1,91 @@
+---
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-d3e2c9
+key_concepts:
+- Term structure of interest rates and yield curve shapes
+- Single-name vs. index CDS trading
+- Option Greeks and portfolio risk management
+- Expectations hypothesis and liquidity preference theory
+- Mathematical derivation of the Black-Scholes partial differential equation
+- Solution
+- Interest rate swaps and term structure
+- Default probability estimation
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- Vega and volatility risk management
+- CDS clearing and central counterparties
+- Value at risk and stress testing
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Option sensitivity analysis
+- GARCH models and volatility forecasting
+- Black-Scholes option pricing model
+- Equity valuation and analysis
+- Fixed-for-floating swap cash flows and valuation
+- Theta and time decay modeling
+- Counterparty risk and settlement
+- Portfolio risk metrics
+- Case Study
+- Interest rate swap pricing and valuation
+- Delta, gamma, vega, theta, rho
+- Credit default swap pricing and risk-neutral probabilities
+- Risk-neutral valuation in continuous time models
+- Variance swaps and volatility trading strategies
+- Interest rate derivatives
+- Derivatives pricing theory
+- Fixed income securities
+- Boundary conditions and parameter interpretation in Black-Scholes model
+- Limitations and extensions of the Black-Scholes framework
+- Quantitative Implementation
+- Gamma and convexity adjustments
+- Risk-neutral valuation
+- Delta hedging and the replication argument
+- Credit default swaps and credit risk
+- Parallel and non-parallel shifts in the yield curve
+- Exotic Options
+- Credit risk modeling
+- Cross-currency basis swaps and funding
+- Delta hedging and Greeks
+- Basis swaps and cross-currency swaps
+- Black-Scholes-Merton option pricing model and its applications
+- Dividend discount models
+- Options pricing and payoff structures
+- Continuous-time finance
+tags:
+- yield-curve
+- swaps
+- credit-default-swaps
+- derivatives
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- course-material
+- capm
+- case-study
+- greeks
+- black-scholes-model
+- risk_management
+- value-at-risk
+- fixed_income
+- valuation
+- hedge-funds
+- options
+- credit-risk
+- currency-swaps
+- quantitative-implementation
+- solution
+- structured_finance
+- equity
+- stress-testing
+- exotic-options
+- credit
+- hedge_funds
+- cds
+- black_scholes
+---
+
 # VoyageNotes Formatting Processing Log
 
 This file tracks all markdown documents that have been processed by the formatting subagents.

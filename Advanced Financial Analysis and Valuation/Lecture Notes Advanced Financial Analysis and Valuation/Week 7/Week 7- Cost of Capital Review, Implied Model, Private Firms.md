@@ -1,21 +1,107 @@
 ---
-tags:
-  - capm
-  - cost_of_capital
-  - equity_valuation
-  - fama_french
-  - implied_cost
-  - private_firms
 aliases:
-  - Advanced Financial Analysis
-  - Cost of Equity
-  - Fama French Model
+- Advanced Financial Analysis
+- Cost of Equity
+- Fama French Model
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-311040
 key_concepts:
-  - CAPM model
-  - Estimate cost of equity
-  - Fama French 3-factor
-  - Implied cost of capital
-  - Private firm valuation
+- Apt
+- Extensions to multi-factor CAPM models
+- Fama French 3-factor
+- Sovereign risk assessment and country analysis
+- Mean-variance optimization and the efficient frontier
+- Extreme value theory and tail risk modeling
+- Market risk measurement and portfolio volatility
+- Collateralized Debt Obligations
+- Credit risk modeling and default probability estimation
+- CAPM model
+- Option Greeks and portfolio risk management
+- Risk budgeting and portfolio construction techniques
+- Capital Asset Pricing Model and expected returns
+- Historical simulation vs. parametric VaR models
+- Credit portfolio diversification and concentration
+- portfolio theory and asset pricing
+- Vega and volatility risk management
+- DV01 calculation and interest rate risk hedging
+- Mathematical Finance
+- Monte Carlo integration and variance reduction
+- Implied cost of capital
+- Deposit insurance and systemic risk prevention
+- Monte Carlo VaR for complex portfolios
+- Stress testing and scenario analysis
+- Security Market Line and beta measurement
+- Control variates and importance sampling techniques
+- Theta and time decay modeling
+- Risk-neutral pricing methodology for derivative securities
+- Value at Risk (VaR) methodologies and backtesting
+- Case Study
+- Operational risk quantification and modeling
+- Dividend Policy
+- Arbitrage opportunities and risk-free profit extraction
+- Expected Shortfall and coherent risk measures
+- excess returns and manager skill
+- Bank liquidity ratios and funding risk management
+- Factor Models
+- Estimate cost of equity
+- Comparable Analysis
+- Credit exposure measurement and EAD
+- Private firm valuation
+- systematic risk and market exposure
+- Wrong-way risk in derivative transactions
+- Value-at-Risk calculation using historical simulation
+- risk measurement and management
+- Quantitative Implementation
+- Gamma and convexity adjustments
+- Credit risk migration matrices and rating transition
+- Capital Structure
+- Credit risk modeling and portfolio correlation analysis
+- Backtesting procedures for risk models
+- Credit risk assessment and loan portfolio management
+- Delta hedging and the replication argument
+- Liquidity risk measurement and management
+- Systemic risk indicators and early warning systems
+- Global financial stability and systemic risk monitoring
+- Loss given default and recovery rates
+- Market portfolio and risk-free rate assumptions
+- Empirical tests and anomalies in CAPM
+tags:
+- ebit
+- implied_cost
+- dividend-policy
+- collateralized-debt-obligations
+- mathematical-finance
+- capital-structure
+- capm
+- var
+- market-risk
+- financial-modeling
+- case-study
+- apt
+- greeks
+- comparable-analysis
+- cost_of_capital
+- value-at-risk
+- factor-models
+- equity_valuation
+- credit-risk
+- quantitative-implementation
+- private_firms
+- duration-convexity
+- solution
+- treasury-bonds
+- wacc
+- stress-testing
+- liquidity-risk
+- systemic-risk
+- deposit-insurance
+- dcf-valuation
+- expected-shortfall
+- operational-risk
+- credit-analysis
+- monte-carlo
+- fama_french
 ---
 
 ## ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS

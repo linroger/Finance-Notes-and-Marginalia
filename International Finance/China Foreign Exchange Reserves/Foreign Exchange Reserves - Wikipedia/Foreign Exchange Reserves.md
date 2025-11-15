@@ -1,28 +1,84 @@
 ---
+aliases:
+- FX Reserves
+- Forex Reserves
+- International Reserves
 cssclasses: academia
 description: Foreign exchange reserves are supplies of foreign currency held by a
   central bank.
-source: https://www.investopedia.com/terms/f/foreign-exchange-reserves.asp
-title: Foreign Exchange Reserves
-tags:
-  - central_bank
-  - currency_reserves
-  - economic_policy
-  - foreign_exchange
-  - international_finance
-aliases:
-  - FX Reserves
-  - Forex Reserves
-  - International Reserves
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-90f858
 key_concepts:
-  - Backing liabilities
-  - Central bank holdings
-  - China's reserves
-  - Currency diversification
-  - Foreign currency assets
-  - Influence currency value
-  - Market shock buffer
-  - U.S. dollar dominance
+- Carry trades and momentum in FX markets
+- Treasury Bonds
+- Option Greeks and portfolio risk management
+- Commodity markets and pricing dynamics
+- Currency derivatives
+- Solution
+- Market shock buffer
+- Vega and volatility risk management
+- Portfolio immunization strategies
+- Swap spread and credit risk considerations
+- Foreign currency assets
+- Foreign exchange markets
+- Liquidity and price discovery
+- Key rate duration and curve risk
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Currency risk management and hedging
+- Forward rates and interest rate parity
+- Theta and time decay modeling
+- Backing liabilities
+- Case Study
+- Exchange rate determination and PPP theory
+- Interest rate swap pricing and valuation
+- China's reserves
+- Market microstructure and trading
+- Variance swaps and volatility trading strategies
+- Interest rate derivatives
+- U.S. dollar dominance
+- Fixed income securities
+- Bond pricing and yield analysis
+- Influence currency value
+- Quantitative Implementation
+- Gamma and convexity adjustments
+- Central bank holdings
+- Delta hedging and the replication argument
+- Exotic Options
+- Cross-currency basis swaps and funding
+- Duration and convexity measures for bond portfolios
+- Delta hedging and Greeks
+- Currency diversification
+- Price sensitivity to interest rate changes
+- Modified duration vs. Macaulay duration
+- Duration and convexity
+- Options pricing and payoff structures
+- Currency markets and foreign exchange trading
+source: https://www.investopedia.com/terms/f/foreign-exchange-reserves.asp
+tags:
+- fx
+- commodities
+- interest-rate-swaps
+- trading
+- course-material
+- case-study
+- bonds
+- greeks
+- fixed_income
+- exchange-rates
+- options
+- central_bank
+- quantitative-implementation
+- duration-convexity
+- international_finance
+- solution
+- currency_reserves
+- treasury-bonds
+- economic_policy
+- foreign_exchange
+- exotic-options
+title: Foreign Exchange Reserves
 ---
 
 # Foreign Exchange Reserves

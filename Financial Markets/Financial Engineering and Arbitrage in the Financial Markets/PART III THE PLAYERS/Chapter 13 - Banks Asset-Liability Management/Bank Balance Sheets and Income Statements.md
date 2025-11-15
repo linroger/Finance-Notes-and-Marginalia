@@ -1,22 +1,44 @@
 ---
-tags:
-  - bank_balance_sheets
-  - financial_statements
-  - income_statements
-  - jp_morgan
-  - zions_bancorporation
 aliases:
-  - Bank Financials
-  - Banking Statements
+- Bank Financials
+- Banking Statements
 key_concepts:
-  - Balance sheet review
-  - Bank financial statements
-  - Income statement analysis
-  - J.P. Morgan overview
-  - Market VaR methods
-  - Net interest income
-  - Yield curve sensitivity
-  - Zions Bancorporation profile
+- Balance sheet review
+- Bank financial statements
+- Income statement analysis
+- J.P. Morgan overview
+- Market VaR methods
+- Net interest income
+- Yield curve sensitivity
+- Zions Bancorporation profile
+- Equity valuation and analysis
+- Dividend discount models
+- Credit risk modeling
+- Default probability estimation
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+tags:
+- equity
+- regulatory-framework
+- credit
+- bank_balance_sheets
+- jp_morgan
+- regulation
+- financial_statements
+- interest_rates
+- portfolio-theory
+- fx
+- trading
+- bonds
+- private_equity
+- futures
+- risk_management
 ---
 
 # 13.1 BANK BALANCE SHEETS AND INCOME STATEMENTS  

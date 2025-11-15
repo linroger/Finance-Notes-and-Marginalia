@@ -1,21 +1,74 @@
 ---
-title: JP Morgan-Variance Swaps
-cssclasses: academia
-tags:
-  - hedging
-  - jpmorgan
-  - market_mechanics
-  - variance_swaps
-  - volatility
 aliases:
-  - Variance Swaps
-  - Volatility Swaps
+- Variance Swaps
+- Volatility Swaps
+cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-75fc73
 key_concepts:
-  - Delta-hedged portfolio
-  - Generating alpha
-  - Hedging volatility exposures
-  - Variance swap market
-  - Volatility exposure
+- Black-Scholes model and option pricing theory
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Term structure of interest rates and yield curve modeling
+- 'Short-rate models: Vasicek, CIR, and mean reversion'
+- Bond pricing and fixed income securities valuation
+- Monte Carlo simulation for derivatives valuation
+- Partial differential equations in financial modeling
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility smile, skew, and surface modeling
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- apt
+- arbitrage
+- arch
+- black-scholes
+- bonds
+- capm
+- cds
+- cir
+- commodities
+- convexity
+- corporate-bonds
+- correlation
+- credit-default-swaps
+- credit-risk
+- credit-spreads
+- delta
+- delta-hedging
+- derivatives-pricing
+- duration
+- exotic-options
+- expected-shortfall
+- fixed_income
+- gamma
+- garch
+- greeks
+- hedging
+- implied-volatility
+- interest-rate-swaps
+- mean-reversion
+- monte-carlo
+- options
+- pde
+- replication
+- risk-management
+- risk-neutral
+- swaps
+- term-structure
+- theta
+- var
+- vasicek
+- vega
+- yield-curve
+title: JP Morgan-Variance Swaps
 ---
 
 # JP Morgan-Variance Swaps

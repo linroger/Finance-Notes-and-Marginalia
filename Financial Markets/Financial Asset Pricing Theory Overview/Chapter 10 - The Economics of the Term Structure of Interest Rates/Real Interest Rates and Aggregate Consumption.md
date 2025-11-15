@@ -1,19 +1,36 @@
 ---
 tags:
-  - aggregate_consumption
-  - consumption_dynamics
-  - real_interest_rates
-  - time_preference
-  - yield_curve
+- abs
+- apt
+- arbitrage
+- calibration
+- capm
+- completeness
+- delta
+- derivatives-pricing
+- fixed_income
+- gamma
+- martingale
+- no-arbitrage
+- risk-management
+- risk-neutral
+- var
+- zero-coupon
 aliases:
-  - Consumption and Interest Rates
-  - Real Rates and Consumption
+- Consumption and Interest Rates
+- Real Rates and Consumption
 key_concepts:
-  - Equilibrium interest rate
-  - Interest rates and consumption
-  - State-price deflator
-  - Stochastic process
-  - Time-additive utility
+- Risk-neutral measures and martingale pricing
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Ito's lemma and stochastic calculus applications
+- Monte Carlo simulation for derivatives valuation
+- Credit risk modeling and default probability estimation
+- Value at Risk and tail risk measurement
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Options Greeks and sensitivity analysis
 ---
 
 # 10.3 Real interest rates and aggregate consumption  

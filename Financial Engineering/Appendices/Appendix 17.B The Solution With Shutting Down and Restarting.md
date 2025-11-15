@@ -1,23 +1,75 @@
 ---
-title: "Appendix 17.B The Solution With Shutting Down and Restarting"
-cssclasses: academia
-tags:
-  - appendix
-  - investment-trigger
-  - restart
-  - shut-down
-  - undeveloped-reserves
 aliases:
-  - Appendix 17B
-  - Investment
-  - Restarting
-  - Shutting Down
+- Appendix 17B
+- Investment
+- Restarting
+- Shutting Down
+cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-e000f4
 key_concepts:
-  - Developed operating reserves
-  - Investment trigger
-  - Shut down and restart
-  - Undeveloped reserve value
-  - Value of the well
+- Term structure of interest rates and yield curve shapes
+- Shut down and restart
+- Risk assessment and management
+- Credit risk modeling and default probability estimation
+- Option Greeks and portfolio risk management
+- Expectations hypothesis and liquidity preference theory
+- Solution
+- Credit portfolio diversification and concentration
+- Yield curve fitting and interpolation methods
+- Vega and volatility risk management
+- Market efficiency and arbitrage pricing
+- Financial regulation and compliance
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- Value of the well
+- Undeveloped reserve value
+- Portfolio optimization and asset allocation
+- Fixed-for-floating swap cash flows and valuation
+- Corporate finance and valuation methods
+- Course Material
+- Theta and time decay modeling
+- Quantitative analysis and modeling
+- Interest rate swap pricing and valuation
+- Variance swaps and volatility trading strategies
+- Developed operating reserves
+- Credit exposure measurement and EAD
+- Efficient Market
+- Fixed income analysis and term structure
+- Wrong-way risk in derivative transactions
+- Derivatives pricing and hedging strategies
+- Quantitative Implementation
+- Financial markets and instruments
+- Gamma and convexity adjustments
+- Delta hedging and the replication argument
+- Parallel and non-parallel shifts in the yield curve
+- Exotic Options
+- Investment trigger
+- Cross-currency basis swaps and funding
+- Loss given default and recovery rates
+- Credit risk modeling and default analysis
+tags:
+- financial-analysis
+- financial-modeling
+- shut-down
+- investment-trigger
+- exotic-options
+- quantitative-implementation
+- solution
+- yield-curve
+- undeveloped-reserves
+- greeks
+- quantitative-finance
+- interest-rate-swaps
+- mathematical-finance
+- course-material
+- credit-risk
+- restart
+- appendix
+- efficient-market
+title: Appendix 17.B The Solution With Shutting Down and Restarting
 ---
 
 # Appendix 17.B The Solution With Shutting Down and Restarting  

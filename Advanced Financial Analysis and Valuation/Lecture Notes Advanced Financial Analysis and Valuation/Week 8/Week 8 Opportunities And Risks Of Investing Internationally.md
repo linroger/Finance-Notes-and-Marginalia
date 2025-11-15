@@ -1,12 +1,109 @@
 ---
-title: "Week 8 - Opportunities And Risks Of Investing Internationally"
-linter-yaml-title-alias: "Week 8 - Opportunities And Risks Of Investing Internationally"
-aliases: [International Investing, Investing Abroad, Global Investment Opportunities]
-date created: Tuesday, November 26th 2024, 8:55:15 pm
+aliases:
+- International Investing
+- Investing Abroad
+- Global Investment Opportunities
 cssclasses: academia
-tags: [currency_risks, diversification_benefits, emerging_markets, fdi_and_ma, international_investments, portfolio_theory, cross_border_mergers, market_integration, home_bias, country_risk, institutional_quality]
-key_concepts: [currency risks and volatility, diversification benefits, emerging market companies, global ma trends, importance of international investments, opportunities of investing abroad, cross border ma, financial integration, portfolio diversification, home bias explanation, international risk measurement, country credit ratings, sovereign spreads, capm adjustments]
+date created: Tuesday, November 26th 2024, 8:55:15 pm
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-5611fd
 instructor: Thomas Rauter
+key_concepts:
+- Apt
+- Carry trades and momentum in FX markets
+- country credit ratings
+- Duration and convexity analysis for bond portfolio management
+- Active portfolio management and performance attribution
+- Treasury Bonds
+- Currency markets and foreign exchange trading
+- Option Greeks and portfolio risk management
+- Capital Asset Pricing Model and beta estimation
+- emerging market companies
+- Risk budgeting and portfolio construction techniques
+- Solution
+- After-tax cost of debt and capital structure
+- portfolio theory and asset pricing
+- WACC for multinational corporations
+- Vega and volatility risk management
+- Portfolio immunization strategies
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- portfolio diversification
+- Key rate duration and curve risk
+- international risk measurement
+- Course Material
+- Currency risk management and hedging
+- Forward rates and interest rate parity
+- Theta and time decay modeling
+- diversification benefits
+- financial integration
+- Case Study
+- currency risks and volatility
+- Exchange rate determination and PPP theory
+- Cost of equity estimation using CAPM and other models
+- home bias explanation
+- sovereign spreads
+- ESG integration in portfolio management
+- Weighted Average Cost of Capital calculation
+- Market value weights vs. book value weights
+- importance of international investments
+- Delta hedging strategies in options portfolio management
+- systematic risk and market exposure
+- global ma trends
+- Quantitative Implementation
+- Gamma and convexity adjustments
+- Credit Analysis
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- capm adjustments
+- Delta hedging and the replication argument
+- Exotic Options
+- risk-adjusted performance measurement
+- Duration and convexity measures for bond portfolios
+- Currency hedging strategies for global portfolios
+- Price sensitivity to interest rate changes
+- Modified duration vs. Macaulay duration
+- opportunities of investing abroad
+- cross border ma
+linter-yaml-title-alias: Week 8 - Opportunities And Risks Of Investing Internationally
+tags:
+- ifrs
+- duration-convexity
+- country_risk
+- asset-allocation
+- international_investments
+- quantitative-implementation
+- solution
+- treasury-bonds
+- political-risk
+- wacc
+- corporate-governance
+- exchange-rate
+- emerging_markets
+- garch-models
+- fdi_and_ma
+- mathematical-finance
+- financial-crisis
+- course-material
+- liquidity-risk
+- emerging-markets
+- capm
+- cost-of-capital
+- accounting-standards
+- exotic-options
+- diversification_benefits
+- apt
+- case-study
+- greeks
+- country-risk
+- credit-ratings
+- exchange-rates
+- currency_risks
+- portfolio_theory
+- credit-analysis
+- credit-risk
+title: Week 8 - Opportunities And Risks Of Investing Internationally
 ---
 
 # Week 8 - Opportunities And Risks Of Investing Internationally

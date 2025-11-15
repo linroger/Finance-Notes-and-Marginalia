@@ -1,20 +1,38 @@
 ---
-tags:
-  - arbitrage
-  - bond_pricing
-  - cheapest_to_deliver
-  - cost_of_delivery
-  - futures_contract
 aliases:
-  - CTD
-  - Final Settlement Price
-  - TYU1
+- CTD
+- Final Settlement Price
+- TYU1
 key_concepts:
-  - Arbitrage opportunities
-  - Cheapest-to-deliver bond
-  - Cost of delivery
-  - Deliverable basket bonds
-  - Futures price at expiration
+- Arbitrage opportunities
+- Cheapest-to-deliver bond
+- Cost of delivery
+- Deliverable basket bonds
+- Futures price at expiration
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Alternative investment strategies
+- Hedge fund replication
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Arbitrage theory and practice
+- Law of one price
+tags:
+- trading
+- bonds
+- futures
+- hedge_funds
+- options
+- mathematical-finance
+- bond_pricing
+- futures_contract
+- arbitrage
+- cheapest_to_deliver
+- cost_of_delivery
 ---
 
 # 11.6 COST OF DELIVERY AND THE FINAL SETTLEMENT PRICE  

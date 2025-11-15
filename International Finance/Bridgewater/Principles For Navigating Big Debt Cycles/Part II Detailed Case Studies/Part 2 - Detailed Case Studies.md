@@ -1,3 +1,7 @@
+---
+key_concepts: []
+tags: []
+---
 # **Principles For Navigating Big Debt Cycles**
 
 ## **Part 2 - Detailed Case Studies**

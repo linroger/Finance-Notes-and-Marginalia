@@ -1,28 +1,71 @@
 ---
-title: Credit Markets - CDS Engineering
-tags:
-  - credit-derivatives
-  - cds
-  - credit-default-swaps
-  - credit-risk
-  - financial-engineering
-  - structured-credit
-  - default-risk
-  - credit-spreads
 aliases:
-  - Chapter 18 CDS Engineering
-  - Credit Default Swaps
-  - Credit Markets Engineering
-key_concepts:
-  - Credit default swaps
-  - Reference entities
-  - Credit spread
-  - Default events
-  - Recovery rates
-  - CDS valuation
-  - Synthetic CDOs
-  - Credit risk transfer
+- Chapter 18 CDS Engineering
+- Credit Default Swaps
+- Credit Markets Engineering
 cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-e30ed9
+key_concepts:
+- Risk-neutral measures and martingale pricing
+- Delta hedging strategies in options portfolio management
+- Term structure of interest rates and yield curve modeling
+- Bond pricing and fixed income securities valuation
+- Credit risk modeling and default probability estimation
+- Credit default swaps and counterparty risk analysis
+- Value at Risk and tail risk measurement
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Volatility modeling and forecasting techniques
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
+tags:
+- abs
+- apt
+- arbitrage
+- arch
+- bonds
+- calibration
+- cds
+- convexity
+- corporate-bonds
+- correlation
+- counterparty-risk
+- credit-default-swaps
+- credit-risk
+- currency-swaps
+- default-probability
+- delta
+- delta-hedging
+- derivatives-pricing
+- duration
+- exotic-options
+- fixed-income
+- fixed_income
+- forwards
+- futures
+- gamma
+- garch
+- greeks
+- hedging
+- implied-volatility
+- interest-rate-swaps
+- options
+- recovery-rate
+- replication
+- risk-management
+- risk-neutral
+- swaps
+- swaptions
+- theta
+- var
+- vega
+- yield-curve
+- zero-coupon
+title: Credit Markets - CDS Engineering
 ---
 
 # CREDIT MARKETS: CDS ENGINEERING  

@@ -1,3 +1,17 @@
+---
+key_concepts:
+- Equity valuation and analysis
+- Dividend discount models
+- Derivatives pricing theory
+- Risk-neutral valuation
+- Alternative investment strategies
+- Hedge fund replication
+tags:
+- equity
+- derivatives
+- private_equity
+- hedge_funds
+---
 %% Begin Waypoint %%
 - **PART III THE PLAYERS**
 	- **Chapter 11 - Individual Investors-A Survey of Modern Investment Theory**

@@ -1,38 +1,69 @@
 ---
-title: Lecture 4 - Investor Sentiment
-cssclasses:
-  - academia
-  - finance
-tags:
-  - dividend_growth
-  - investor_sentiment
-  - risk_aversion
-  - stock_market
-  - valuation_ratios
-  - behavioral_finance
-  - market_timing
-  - asset_pricing
-  - financial_economics
-  - investment_psychology
 aliases:
-  - Investor Sentiment
-  - Lecture 4
-  - Sentiment Analysis
-  - Market Sentiment
-  - Investor Psychology
+- Investor Sentiment
+- Lecture 4
+- Sentiment Analysis
+- Market Sentiment
+- Investor Psychology
+cssclasses:
+- academia
+- finance
 key_concepts:
-  - Changing risk perceptions
-  - Dividend growth expectations
-  - Price-dividend ratio
-  - Time-varying sentiment
-  - Valuation cycles
-  - Sentiment-based valuation models
-  - Growth expectation bias
-  - Market timing strategies
-  - Behavioral asset pricing
-  - Irrational exuberance
-  - Contrarian investing
+- Changing risk perceptions
+- Dividend growth expectations
+- Price-dividend ratio
+- Time-varying sentiment
+- Valuation cycles
+- Sentiment-based valuation models
+- Growth expectation bias
+- Market timing strategies
+- Behavioral asset pricing
+- Irrational exuberance
+- Contrarian investing
+- Generally Accepted Accounting Principles
+- present value and discounting methods
+- price index and inflation measurement
+- CPI and consumer inflation
+- Treasury Inflation-Protected Securities
+- Delta hedging strategies in options portfolio management
+- Duration and convexity analysis for bond portfolio management
+- Credit risk modeling and portfolio correlation analysis
+- Capital Asset Pricing Model and beta estimation
+- Arbitrage Pricing Theory and multifactor models
+- Active portfolio management and performance attribution
+- Risk budgeting and portfolio construction techniques
+- ESG integration in portfolio management
+- Credit risk assessment and loan portfolio management
+- Shadow banking system and regulatory arbitrage
+- Arbitrage opportunities and risk-free profit extraction
+- International arbitrage and covered interest rate parity
+- Currency hedging strategies for global portfolios
+- Generally Accepted Accounting Principles
+tags:
+- arbitrage
+- artificial-intelligence
+- asset-allocation
+- asset_pricing
+- autocorrelation
+- behavioral_finance
+- bitcoin
+- dividend_growth
+- ethereum
+- financial-crisis
+- financial_economics
+- gaap
+- investment_psychology
+- investor_sentiment
+- market_timing
+- monetary-policy
+- risk_aversion
+- stock_market
+- time-series
+- valuation_ratios
+title: Lecture 4 - Investor Sentiment
 ---
+
+
 
 # Lecture 4: Investor Sentiment
 

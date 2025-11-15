@@ -1,20 +1,18 @@
 ---
-title: The Only Game in Town Walter Bagehot
-tags:
-  - bank_of_england
-  - banking_industry
-  - economic_history
-  - financial_crisis
-  - financial_markets
 aliases:
-  - Lombard Street
-  - Walter Bagehot
+- Lombard Street
+- Walter Bagehot
 key_concepts:
-  - bank of england
-  - central bank lending
-  - financial crises
-  - financial market liquidity
-  - lender of last resort
+- Term structure of interest rates and yield curve modeling
+- Credit risk modeling and default probability estimation
+- Arbitrage opportunities and no-arbitrage pricing
+- Portfolio hedging and risk reduction strategies
+tags:
+- arbitrage
+- hedging
+- risk-management
+title: The Only Game in Town Walter Bagehot
 ---
+
 
 # The Only Game in Town Walter Bagehot

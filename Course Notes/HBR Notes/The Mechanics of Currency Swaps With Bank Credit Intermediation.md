@@ -1,25 +1,102 @@
 ---
-cssclasses:
-  - academia
 Owner: RRoger Lin
-linter-yaml-title-alias: THE MECHANICS OF CURRENCY SWAPS WITH BANK CREDIT INTERMEDIATION
-title: The Mechanics of Currency Swaps With Bank Credit Intermediation
-tags:
-  - bank_forward
-  - currency_swap
-  - debt_service
-  - foreign_currency
-  - interest_rate
 aliases:
-  - Cross-Currency Swap
-  - Currency Exchange
-  - FX Swap
+- Cross-Currency Swap
+- Currency Exchange
+- FX Swap
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-6597ea
 key_concepts:
-  - Bank forward exchange market
-  - Borrowing in different currencies
-  - Exchange currencies with interest
-  - Lock in financing cost
-  - Service each other's debt
+- Apt
+- Service each other's debt
+- Term structure of interest rates and yield curve shapes
+- Exchange currencies with interest
+- Currency hedging strategies
+- Extensions to multi-factor CAPM models
+- Duration and convexity analysis for bond portfolio management
+- Active portfolio management and performance attribution
+- Forward exchange rate determination
+- Option Greeks and portfolio risk management
+- Commodity markets and pricing dynamics
+- Risk budgeting and portfolio construction techniques
+- Capital Asset Pricing Model and beta estimation
+- Expectations hypothesis and liquidity preference theory
+- Capital Asset Pricing Model and expected returns
+- Yield curve fitting and interpolation methods
+- Vega and volatility risk management
+- forward commitments and hedging
+- Swap spread and credit risk considerations
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- CIP deviations and regulatory effects
+- Shadow Banking
+- Fixed-for-floating swap cash flows and valuation
+- Arbitrage Pricing Theory and multifactor models
+- Course Material
+- Security Market Line and beta measurement
+- Cross-currency basis and funding spreads
+- International arbitrage and covered interest rate parity
+- Case Study
+- Covered interest rate parity and no-arbitrage
+- Arbitrage opportunities and risk-free profit extraction
+- Interest rate swap pricing and valuation
+- interest rate and currency derivatives
+- ESG integration in portfolio management
+- present value and discounting methods
+- Variance swaps and volatility trading strategies
+- Delta hedging strategies in options portfolio management
+- Borrowing in different currencies
+- Shadow banking system and regulatory arbitrage
+- Bank forward exchange market
+- Gamma and convexity adjustments
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Lock in financing cost
+- Delta hedging and the replication argument
+- Parallel and non-parallel shifts in the yield curve
+- Cross-currency basis swaps and funding
+- Currency hedging strategies for global portfolios
+- Market portfolio and risk-free rate assumptions
+- Empirical tests and anomalies in CAPM
+linter-yaml-title-alias: THE MECHANICS OF CURRENCY SWAPS WITH BANK CREDIT INTERMEDIATION
+tags:
+- yield-curve
+- commodities
+- covered-interest-parity
+- interest-rate-swaps
+- foreign_currency
+- mathematical-finance
+- course-material
+- capm
+- shadow-banking
+- case-study
+- apt
+- greeks
+- value-at-risk
+- factor-models
+- credit-ratings
+- exchange-rates
+- counterparty-risk
+- credit-risk
+- currency-swaps
+- quantitative-implementation
+- debt_service
+- duration-convexity
+- solution
+- forward-exchange
+- treasury-bonds
+- arbitrage
+- infrastructure
+- currency_swap
+- bank_forward
+- syndicated-loans
+- dcf-valuation
+- credit-analysis
+- interest_rate
+title: The Mechanics of Currency Swaps With Bank Credit Intermediation
 ---
 
 !Untitled 5. jpeg

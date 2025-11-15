@@ -1,20 +1,45 @@
 ---
-tags:
-  - ecns
-  - exchanges
-  - floor_markets
-  - securities_markets
-  - sros
 aliases:
-  - AMEX
-  - NYSE MKT
-  - Securities and Exchange Act
+- AMEX
+- NYSE MKT
+- Securities and Exchange Act
 key_concepts:
-  - Auction process
-  - Call market
-  - Continuous market
-  - Exchange definition
-  - Self-regulatory organizations
+- Auction process
+- Call market
+- Continuous market
+- Exchange definition
+- Self-regulatory organizations
+- Equity valuation and analysis
+- Dividend discount models
+- Credit risk modeling
+- Default probability estimation
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Credit default swaps and credit risk
+tags:
+- equity
+- regulatory-framework
+- credit
+- cds
+- hedge_funds
+- regulation
+- ecns
+- sros
+- floor_markets
+- interest_rates
+- fx
+- trading
+- securities_markets
+- bonds
+- commodities
 ---
 
 # Securities Markets  

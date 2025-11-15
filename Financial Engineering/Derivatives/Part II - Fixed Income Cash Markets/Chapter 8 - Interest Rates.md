@@ -1,22 +1,114 @@
 ---
-tags:
-  - fed_funds_rate
-  - fra_pricing
-  - interest_rates
-  - libor
-  - ois_rates
-  - repo_rates
 aliases:
-  - BBA
-  - annualized yields
-  - forward rate agreement
+- BBA
+- annualized yields
+- forward rate agreement
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-750df3
 key_concepts:
-  - compound interest
-  - forward rates
-  - present value
-  - simple interest
-  - terminal value
+- Apt
+- coupon-bearing bond analysis
+- Term structure of interest rates and yield curve shapes
+- Treasury Futures
+- reference banks for settlement
+- Mean-variance optimization and the efficient frontier
+- Extreme value theory and tail risk modeling
+- Single-name vs. index CDS trading
+- Option Greeks and portfolio risk management
+- Risk budgeting and portfolio construction techniques
+- Expectations hypothesis and liquidity preference theory
+- market maker in CDS markets
+- Historical simulation vs. parametric VaR models
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- Vega and volatility risk management
+- simple interest
+- DV01 calculation and interest rate risk hedging
+- CDS clearing and central counterparties
+- forward commitments and hedging
+- CDS-Bond basis and arbitrrage opportunities
+- Spot rates vs. forward rates modeling
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- Monte Carlo VaR for complex portfolios
+- Stress testing and scenario analysis
+- Fixed-for-floating swap cash flows and valuation
+- day count convention in CDS
+- Arbitrage Pricing Theory and multifactor models
+- Value at Risk (VaR) methodologies and backtesting
+- terminal value
+- Risk-neutral pricing methodology for derivative securities
+- present value
+- Case Study
+- Operational risk quantification and modeling
+- Theta and time decay modeling
+- Interest rate swap pricing and valuation
+- Expected Shortfall and coherent risk measures
+- compound interest
+- interest rate and currency derivatives
+- Credit default swap pricing and risk-neutral probabilities
+- present value and discounting methods
+- zero-coupon bond pricing and yields
+- Variance swaps and volatility trading strategies
+- settlement date in CDS
+- Value-at-Risk calculation using historical simulation
+- forward rates
+- Gamma and convexity adjustments
+- Credit risk migration matrices and rating transition
+- Credit risk modeling and portfolio correlation analysis
+- Backtesting procedures for risk models
+- Credit risk assessment and loan portfolio management
+- Delta hedging and the replication argument
+- Parallel and non-parallel shifts in the yield curve
+- Liquidity risk measurement and management
+- Cross-currency basis swaps and funding
+- Systemic risk indicators and early warning systems
+- cash settlement in CDS
+tags:
+- yield-curve
+- credit-default-swaps
+- case-study
+- apt
+- value-at-risk
+- factor-models
+- credit-risk
+- duration-convexity
+- solution
+- investment-banking
+- forward-rate-agreements
+- interest_rates
+- wholesale-funding
+- fra_pricing
+- expected-shortfall
+- operational-risk
+- treasury-futures
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- greeks
+- repo_rates
+- ois_rates
+- exchange-rates
+- bond-futures
+- fed_funds_rate
+- fed-funds
+- quantitative-implementation
+- treasury-bonds
+- fra
+- stress-testing
+- arbitrage
+- liquidity-risk
+- systemic-risk
+- exotic-options
+- swaptions
+- libor
+- dcf-valuation
+- monte-carlo
+- term-structure
 ---
+
 # FIXED INCOME: CASH MARKETS  
 
 # Interest Rates  

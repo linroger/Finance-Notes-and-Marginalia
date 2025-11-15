@@ -1,24 +1,99 @@
 ---
-tags:
-  - eurodollar_futures
-  - fixed_income_derivatives
-  - interest_rate_caps
-  - interest_rate_options
-  - libor_bank_loan
-  - t_bond_option
 aliases:
-  - Eurodollar options
-  - Interest rate caps and floors
-  - Interest rate collar
-  - T-bond options
+- Eurodollar options
+- Interest rate caps and floors
+- Interest rate collar
+- T-bond options
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-825869
 key_concepts:
-  - Interest rate caps
-  - Interest rate collar
-  - Interest rate floors
-  - LIBOR bank loan
-  - Options on T-bond futures
-  - Options on T-bonds
+- Apt
+- Liquidity coverage ratio and net stable funding ratio
+- Extensions to multi-factor CAPM models
+- Treasury Futures
+- Duration and convexity analysis for bond portfolio management
+- Active portfolio management and performance attribution
+- Stress testing and supervisory review processes
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Option Greeks and portfolio risk management
+- maturity date in CDS
+- Capital Asset Pricing Model and beta estimation
+- Risk budgeting and portfolio construction techniques
+- Dodd-Frank Act regulatory reforms and implementation
+- Capital Asset Pricing Model and expected returns
+- Credit spread decomposition and hazard rates
+- Vega and volatility risk management
+- Leverage ratio and large exposures
+- CDS clearing and central counterparties
+- forward commitments and hedging
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- Fixed-for-floating swap cash flows and valuation
+- day count convention in CDS
+- Risk-weighted assets and capital adequacy ratios
+- Security Market Line and beta measurement
+- Case Study
+- LIBOR bank loan
+- Interest rate swap pricing and valuation
+- Basel III regulatory framework and capital requirements
+- Interest rate floors
+- Credit default swap pricing and risk-neutral probabilities
+- ESG integration in portfolio management
+- Interest rate caps
+- Options on T-bond futures
+- Options on T-bonds
+- Variance swaps and volatility trading strategies
+- Delta hedging strategies in options portfolio management
+- Interest rate collar
+- Gamma and convexity adjustments
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Delta hedging and the replication argument
+- Cross-currency basis swaps and funding
+- Currency hedging strategies for global portfolios
+- Market portfolio and risk-free rate assumptions
+- Empirical tests and anomalies in CAPM
+tags:
+- interest_rate_options
+- treasury-futures
+- credit-default-swaps
+- collateralized-debt-obligations
+- garch-models
+- interest-rate-swaps
+- call-options
+- mathematical-finance
+- interest-rate-derivatives
+- bank-regulation
+- capm
+- case-study
+- apt
+- greeks
+- caps-floors
+- value-at-risk
+- interest_rate_caps
+- exchange-rates
+- bond-futures
+- credit-risk
+- european-options
+- duration-convexity
+- quantitative-implementation
+- solution
+- treasury-bonds
+- fra
+- eurodollar_futures
+- fixed_income_derivatives
+- exotic-options
+- vasicek-model
+- libor_bank_loan
+- dcf-valuation
+- mean-reversion
+- t_bond_option
 ---
+
 # FIXED INCOME DERIVATIVES  
 
 # T-Bond Option, Caps, Floors and Collar  

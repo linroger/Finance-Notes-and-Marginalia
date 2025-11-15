@@ -1,19 +1,40 @@
 ---
-tags:
-  - 30_360_convention
-  - accrued_interest
-  - actual_360_convention
-  - actual_actual_convention
-  - day_count_conventions
 aliases:
-  - Accrued Interest Calculation
-  - Day-Count Conventions
+- Accrued Interest Calculation
+- Day-Count Conventions
 key_concepts:
-  - 30/360 convention
-  - Accrued interest calculation
-  - Actual/360 convention
-  - Actual/actual convention
-  - Day-count conventions explained
+- 30/360 convention
+- Accrued interest calculation
+- Actual/360 convention
+- Actual/actual convention
+- Day-count conventions explained
+- Fixed income securities
+- Interest rate derivatives
+- Bond pricing and yield analysis
+- Duration and convexity
+- Interest rate swaps and term structure
+- Basis swaps and cross-currency swaps
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Structured products and CDOs
+- Credit derivatives
+- Interest rate modeling
+- Term structure of interest rates
+tags:
+- actual_360_convention
+- fixed_income
+- actual_actual_convention
+- accrued_interest
+- bonds
+- swaps
+- futures
+- day_count_conventions
+- options
+- structured_finance
+- 30_360_convention
+- interest_rates
 ---
 
 # 1.7 DAY-COUNT CONVENTIONS  

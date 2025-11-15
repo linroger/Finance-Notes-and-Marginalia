@@ -1,22 +1,103 @@
 ---
-tags:
-  - covered_interest_arbitrage
-  - currency_futures
-  - fx_forwards
-  - fx_hedging
-  - spot_exchange_rate
 aliases:
-  - Currency Forwards
-  - Currency Futures
-  - FX Futures
-  - FX-forward
+- Currency Forwards
+- Currency Futures
+- FX Futures
+- FX-forward
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-8996e5
 key_concepts:
-  - Covered interest arbitrage
-  - Currency speculation
-  - FX futures contracts
-  - Hedging future payments
-  - Spot exchange rate
+- Apt
+- Extensions to multi-factor CAPM models
+- Term structure of interest rates and yield curve shapes
+- Currency hedging strategies
+- Hedging future payments
+- Duration and convexity analysis for bond portfolio management
+- Active portfolio management and performance attribution
+- Forward exchange rate determination
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Market risk measurement and portfolio volatility
+- Option Greeks and portfolio risk management
+- maturity date in CDS
+- Commodity markets and pricing dynamics
+- Capital Asset Pricing Model and beta estimation
+- Risk budgeting and portfolio construction techniques
+- delivery date in CDS settlement
+- Currency speculation
+- Expectations hypothesis and liquidity preference theory
+- Spot exchange rate
+- Yield curve fitting and interpolation methods
+- Credit spread decomposition and hazard rates
+- Capital Asset Pricing Model and expected returns
+- CDS clearing and central counterparties
+- forward commitments and hedging
+- CDS-Bond basis and arbitrrage opportunities
+- Spot rates vs. forward rates modeling
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- CIP deviations and regulatory effects
+- Shadow Banking
+- Arbitrage Pricing Theory and multifactor models
+- day count convention in CDS
+- Security Market Line and beta measurement
+- Cross-currency basis and funding spreads
+- International arbitrage and covered interest rate parity
+- Case Study
+- Covered interest rate parity and no-arbitrage
+- Arbitrage opportunities and risk-free profit extraction
+- Credit default swap pricing and risk-neutral probabilities
+- ESG integration in portfolio management
+- Covered interest arbitrage
+- Delta hedging strategies in options portfolio management
+- FX futures contracts
+- systematic risk and market exposure
+- Shadow banking system and regulatory arbitrage
+- Capital Structure
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Parallel and non-parallel shifts in the yield curve
+- Currency hedging strategies for global portfolios
+- Market portfolio and risk-free rate assumptions
+- Empirical tests and anomalies in CAPM
+tags:
+- yield-curve
+- commodities
+- covered_interest_arbitrage
+- credit-default-swaps
+- covered-interest-parity
+- collateralized-debt-obligations
+- garch-models
+- mathematical-finance
+- capital-structure
+- capm
+- shadow-banking
+- market-risk
+- financial-modeling
+- case-study
+- apt
+- greeks
+- fx_forwards
+- value-at-risk
+- factor-models
+- exchange-rates
+- fx_hedging
+- credit-risk
+- quantitative-implementation
+- duration-convexity
+- solution
+- exchange-rate
+- investment-banking
+- arbitrage
+- currency_futures
+- exotic-options
+- delta-hedging
+- quantitative-finance
+- municipal-bonds
+- spot_exchange_rate
 ---
+
 # Currency Forwards and Futures  
 
 # Aims  

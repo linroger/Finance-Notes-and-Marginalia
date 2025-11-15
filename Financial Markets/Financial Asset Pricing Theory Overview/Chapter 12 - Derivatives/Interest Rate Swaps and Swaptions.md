@@ -1,23 +1,27 @@
 ---
 tags:
-  - asset_transformation
-  - fixed_rate
-  - floating_rate
-  - hedging_interest_rate_risk
-  - interest_rate_swaps
-  - liability_transformation
-  - plain_vanilla_swap
+- apt
+- caps
+- delta
+- derivatives-pricing
+- fixed_income
+- floors
+- hedging
+- risk-management
+- swaps
+- swaptions
+- zero-coupon
 aliases:
-  - IRS
-  - Interest Rate Swap
-  - Swap Valuation
+- IRS
+- Interest Rate Swap
+- Swap Valuation
 key_concepts:
-  - Asset transformation
-  - Comparative advantages
-  - Fixed vs. floating rates
-  - Hedging interest rate risk
-  - Interest rate swap
-  - Liability transformation
+- Credit risk modeling and default probability estimation
+- Interest rate swaps and term structure modeling
+- Currency swaps and FX risk management
+- Interest rate caps, floors, and swaptions
+- Portfolio hedging and risk reduction strategies
+- Options Greeks and sensitivity analysis
 ---
 
 # 12.4 Interest rate swaps and swaptions  

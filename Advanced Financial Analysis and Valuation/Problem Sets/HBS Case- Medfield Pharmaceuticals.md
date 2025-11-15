@@ -1,35 +1,100 @@
 ---
-title: HBS Case - Medfield Pharmaceuticals
-cssclasses:
-  - academia
 aliases:
-  - Medfield Pharmaceuticals Case
-  - Fleximat Patent Strategy
-  - Medfield Acquisition Analysis
-  - Susan Johnson Case Study
-tags:
-  - case_study
-  - hbs_case
-  - pharmaceuticals
-  - fda_approval
-  - fleximat
-  - generic_drugs
-  - medfield_pharmaceuticals
-  - patent_life
-  - reformulation_strategy
-  - acquisition_valuation
-  - intangible_assets
+- Medfield Pharmaceuticals Case
+- Fleximat Patent Strategy
+- Medfield Acquisition Analysis
+- Susan Johnson Case Study
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-4963c4
 key_concepts:
-  - Generic drug competition
-  - Marketing effort launch
-  - Medfield's flagship product
-  - Patent life extension
-  - Pharmaceutical industry crossroads
-  - Patent evergreening tactics
-  - Drug reformulation strategies
-  - Corporate acquisition valuation
-  - Pharmaceutical R&D costs
-  - Generic vs branded drugs
+- Cox-Ross-Rubinstein parameter specification
+- Extensions to multi-factor CAPM models
+- Working Capital
+- Duration and convexity analysis for bond portfolio management
+- Generic drug competition
+- Active portfolio management and performance attribution
+- Computational implementation of binomial option pricing
+- Drug reformulation strategies
+- Generic vs branded drugs
+- Option Greeks and portfolio risk management
+- Capital Asset Pricing Model and beta estimation
+- Risk budgeting and portfolio construction techniques
+- Capital Asset Pricing Model and expected returns
+- Historical simulation vs. parametric VaR models
+- Vega and volatility risk management
+- Pharmaceutical industry crossroads
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- GARCH models and volatility forecasting
+- Monte Carlo VaR for complex portfolios
+- Stress testing and scenario analysis
+- Pharmaceutical R&D costs
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Security Market Line and beta measurement
+- Value at Risk (VaR) methodologies and backtesting
+- Theta and time decay modeling
+- Patent life extension
+- Case Study
+- Marketing effort launch
+- Interest rate swap pricing and valuation
+- Expected Shortfall and coherent risk measures
+- ESG integration in portfolio management
+- Variance swaps and volatility trading strategies
+- Convergence of binomial model to Black-Scholes solution
+- Medfield's flagship product
+- Delta hedging strategies in options portfolio management
+- Binomial option pricing model with multiple time steps
+- Corporate acquisition valuation
+- Patent evergreening tactics
+- American option pricing in binomial trees
+- Gamma and convexity adjustments
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Delta hedging and the replication argument
+- Cross-currency basis swaps and funding
+- Currency hedging strategies for global portfolios
+- Market portfolio and risk-free rate assumptions
+- Empirical tests and anomalies in CAPM
+tags:
+- quantitative-implementation
+- duration-convexity
+- binomial-model
+- working-capital
+- solution
+- wacc
+- acquisition_valuation
+- depreciation
+- fleximat
+- goodwill
+- garch-models
+- interest-rate-swaps
+- mathematical-finance
+- course-material
+- infrastructure
+- emerging-markets
+- cost-of-capital
+- capm
+- hbs_case
+- case_study
+- medfield_pharmaceuticals
+- distressed-debt
+- exotic-options
+- case-study
+- fda_approval
+- greeks
+- intangible_assets
+- pharmaceuticals
+- reformulation_strategy
+- value-at-risk
+- patent_life
+- harvard-business-review
+- generic_drugs
+- credit-risk
+title: HBS Case - Medfield Pharmaceuticals
 ---
 
 # HBS Case - Medfield Pharmaceuticals

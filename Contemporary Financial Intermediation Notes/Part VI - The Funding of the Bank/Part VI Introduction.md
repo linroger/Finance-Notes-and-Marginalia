@@ -1,3 +1,130 @@
+---
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-d681e0
+key_concepts:
+- Liquidity coverage ratio and net stable funding ratio
+- Extensions to multi-factor CAPM models
+- Duration and convexity analysis for bond portfolio management
+- net interest margin analysis
+- Active portfolio management and performance attribution
+- Basel III capital requirements and stress testing
+- Stress testing and supervisory review processes
+- Single-name vs. index CDS trading
+- Collateralized Debt Obligations
+- Market risk measurement and portfolio volatility
+- Commodity markets and pricing dynamics
+- Capital Asset Pricing Model and beta estimation
+- Risk budgeting and portfolio construction techniques
+- Capital Asset Pricing Model and expected returns
+- portfolio theory and asset pricing
+- Credit spread decomposition and hazard rates
+- Leverage ratio and large exposures
+- systemically important institution designation
+- fixed income risk measurement
+- CDS clearing and central counterparties
+- forward commitments and hedging
+- CDS-Bond basis and arbitrrage opportunities
+- Swap spread and credit risk considerations
+- Mathematical Finance
+- 2008 financial crisis and systemic risk analysis
+- GARCH models and volatility forecasting
+- consolidation accounting principles
+- Shadow Banking
+- real value and inflation adjustment
+- Fixed-for-floating swap cash flows and valuation
+- Course Material
+- Risk-weighted assets and capital adequacy ratios
+- portfolio optimization and risk decomposition
+- Security Market Line and beta measurement
+- Case Study
+- Net interest margin analysis and banking profitability
+- Interest rate swap pricing and valuation
+- Basel III regulatory framework and capital requirements
+- interest rate and currency derivatives
+- Credit default swap pricing and risk-neutral probabilities
+- ESG integration in portfolio management
+- present value and discounting methods
+- Variance swaps and volatility trading strategies
+- deposit insurance and protection systems
+- Federal Deposit Insurance Corporation
+- Delta hedging strategies in options portfolio management
+- systematic risk and market exposure
+- high yield debt and default risk
+- asset transformation and structured finance
+- financial stability and contagion analysis
+- Capital Structure
+- Credit risk modeling and portfolio correlation analysis
+- Credit risk assessment and loan portfolio management
+- Cross-currency basis swaps and funding
+- junk bond and non-investment grade debt
+- banking regulation and capital adequacy
+- liquidity measurement and management
+- Market portfolio and risk-free rate assumptions
+- credit risk transfer mechanisms
+- Empirical tests and anomalies in CAPM
+tags:
+- basel-iii
+- commodities
+- too-big-to-fail
+- credit-default-swaps
+- bailouts
+- 2008-financial-crisis
+- bank-regulation
+- capm
+- case-study
+- apt
+- bailout
+- value-at-risk
+- kalman-filter
+- credit-risk
+- duration-convexity
+- solution
+- banking
+- moral-hazard
+- financial-crisis
+- corporate-bonds
+- option-pricing
+- wholesale-funding
+- deposit-insurance
+- syndicated-loans
+- basel
+- bank-runs
+- municipal-bonds
+- credit-analysis
+- cds
+- collateralized-debt-obligations
+- garch-models
+- interest-rate-swaps
+- capital-asset-pricing-model
+- mathematical-finance
+- course-material
+- capital-structure
+- shadow-banking
+- market-risk
+- audit
+- greeks
+- black-scholes-model
+- high-yield-bonds
+- exchange-rates
+- liquidity-creation
+- hedge-funds
+- fed-funds
+- quantitative-implementation
+- treasury-bonds
+- securitization
+- stress-testing
+- liquidity-risk
+- systemic-risk
+- exotic-options
+- distressed-debt
+- mbs-cmos
+- financial-intermediation
+- dcf-valuation
+- harvard-business-review
+- duration
+---
+
 # The Deposit Contract, Deposit Insurance, and Shadow Banking  
 
 “As to guaranteeing bank deposits, the minute the government starts to do that... the government runs into a probable loss. We do not wish to make the United States government liable for the mistakes and errors of individual banks, and put a premium on unsound banking in the future.”  

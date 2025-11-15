@@ -1,23 +1,45 @@
 ---
-tags:
-  - bond_market
-  - case_study
-  - financial_crisis
-  - mf_global
-  - repo_to_maturity
 aliases:
-  - MF Global Case Study
-  - MF Global's Repo Trades
-  - RTM Trades
+- MF Global Case Study
+- MF Global's Repo Trades
+- RTM Trades
 key_concepts:
-  - Chapter 11 filing
-  - European sovereign bonds
-  - French government bonds
-  - MF Global broker-dealer
-  - Margin requirements
-  - Repo haircuts increasing
-  - Repo-to-maturity trades
-  - Reverse RTM trades
+- Chapter 11 filing
+- European sovereign bonds
+- French government bonds
+- MF Global broker-dealer
+- Margin requirements
+- Repo haircuts increasing
+- Repo-to-maturity trades
+- Reverse RTM trades
+- Equity valuation and analysis
+- Dividend discount models
+- Credit risk modeling
+- Default probability estimation
+- Fixed income securities
+- Interest rate derivatives
+- Foreign exchange markets
+- Currency derivatives
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+tags:
+- equity
+- credit
+- bond_market
+- repo_to_maturity
+- structured_finance
+- financial_crisis
+- interest_rates
+- mf_global
+- fixed_income
+- fx
+- trading
+- volatility
+- bonds
+- commodities
+- case_study
 ---
 
 # 10.7 CASE STUDY: MF GLOBAL'S REPO-TO-MATURITY TRADES  

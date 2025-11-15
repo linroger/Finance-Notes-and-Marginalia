@@ -1,3 +1,52 @@
+---
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-bb6efa
+key_concepts:
+- How the Economic Machine Works
+- Transactions-Based Economic Analysis
+- The Three Big Economic Forces
+- Productivity Growth and Economic Trends
+- Long-Term Debt Cycles and Deleveragings
+- Short-Term Debt Cycles and Business Cycles
+- Money and Credit in Market-Based Systems
+- Monetary Systems and Fiat vs Commodity-Based Money
+- Central Bank Policy and Interest Rate Cycles
+- Economic Boom and Bust Dynamics
+- Credit Creation and Economic Expansion
+- Debt Service Burdens and Economic Contractions
+- Beautiful vs Ugly Deleveragings
+- Economic Machine Template and Framework
+- Market-Based Capital Formation
+- Economic Transactions and Price Determination
+- Supply and Demand in Economic Systems
+- Credit Cycles and Economic Volatility
+- Depression and Recession Distinctions
+- Monetary Policy Effectiveness
+- Economic Forecasting and Cycle Analysis
+tags:
+- economic-machine
+- ray-dalio
+- bridgewater
+- economic-principles
+- transactions-based-approach
+- productivity-growth
+- long-term-debt-cycles
+- short-term-debt-cycles
+- business-cycles
+- deleveraging
+- monetary-policy
+- credit-cycles
+- economic-cycles
+- central-banks
+- interest-rates
+- economic-forecasting
+- market-based-systems
+- capital-formation
+- economic-analysis
+- macroeconomic-theory
+---
+
 # Economic Principles
 
 I. How the Economic Machine Works 1

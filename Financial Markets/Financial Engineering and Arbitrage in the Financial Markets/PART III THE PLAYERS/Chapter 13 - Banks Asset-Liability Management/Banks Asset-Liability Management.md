@@ -1,20 +1,45 @@
 ---
-tags:
-  - asset_liability_management
-  - banks
-  - basel_accords
-  - capital_flow
-  - risk_management
 aliases:
-  - ALM
-  - Bank Management
-  - Capital Transfer
+- ALM
+- Bank Management
+- Capital Transfer
 key_concepts:
-  - Banks and capital flow
-  - Basel accords and regulations
-  - Capital transformation function
-  - Credit risk quantification
-  - Risk management changes
+- Banks and capital flow
+- Basel accords and regulations
+- Capital transformation function
+- Credit risk quantification
+- Risk management changes
+- Equity valuation and analysis
+- Dividend discount models
+- Credit risk modeling
+- Default probability estimation
+- Market microstructure and trading
+- Liquidity and price discovery
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Credit default swaps and credit risk
+- Counterparty risk and settlement
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Derivatives pricing theory
+tags:
+- equity
+- regulatory-framework
+- credit
+- asset_liability_management
+- capital_flow
+- banks
+- cds
+- hedge_funds
+- regulation
+- interest_rates
+- basel_accords
+- trading
+- bonds
+- futures
+- risk_management
 ---
 
 # 13 Banks: Asset-Liability Management  
