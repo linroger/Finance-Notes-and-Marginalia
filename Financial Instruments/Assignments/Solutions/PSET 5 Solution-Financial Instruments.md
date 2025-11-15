@@ -2,29 +2,68 @@
 linter-yaml-title-alias: PSET 5 Financial Instruments
 title: PSET 5 Financial Instruments
 tags:
-  - binomial_tree
-  - convexity
-  - delta_hedging
-  - financial_instruments
-  - option_payoff
-  - option_pricing
-  - replicating_portfolio
-  - self_financing
-  - stock_price
+- binomial
+- binomial_tree
+- bond
+- call
+- convexity
+- delta_hedging
+- dividend-yield
+- financial_instruments
+- greeks
+- hedge
+- interest-rate
+- option
+- option_payoff
+- option_pricing
+- put
+- replicating_portfolio
+- risk-free-rate
+- self_financing
+- stock
+- stock_price
 aliases:
-  - Binomial Tree
-  - Homework 5
-  - PSET 5
-  - Replicating Portfolio
+- Binomial Tree
+- Homework 5
+- PSET 5
+- Replicating Portfolio
 key_concepts:
-  - Convex relationship
-  - Multi-period binomial tree
-  - Option payoff computation
-  - Portfolio P&L
-  - Portfolio value calculation
-  - Replicating portfolio setup
-  - Self-financing portfolio
-  - Stock price tree
+- American options valuation
+- Backward induction algorithm
+- Binomial option pricing model
+- Convergence to Black-Scholes
+- Convex relationship
+- Cox-Ross-Rubinstein framework
+- Delta risk management
+- Delta-hedging implementation
+- Derivative securities
+- Dynamic hedging strategies
+- Dynamic replication
+- Financial risk management
+- Gamma effects on options
+- Gamma hedging techniques
+- Hedge ratio calculation
+- Hedging effectiveness
+- Lattice methods for derivatives
+- Multi-period binomial tree
+- Option payoff computation
+- Options Greeks measurement
+- Portfolio P&L
+- Portfolio insurance methods
+- Portfolio optimization
+- Portfolio risk hedging
+- Portfolio value calculation
+- Quantitative financial analysis
+- Replicating portfolio setup
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Risk-neutral probability
+- Self-financing portfolio
+- Static hedging
+- Stock price tree
+- Theta time decay
+- Vega hedging strategies
+- Vega volatility sensitivity
 ---
 
 ### Financial Instruments Winter

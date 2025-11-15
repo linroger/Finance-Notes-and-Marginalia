@@ -1,26 +1,57 @@
 ---
 cssclasses:
-  - academia
+- academia
 title: Teaching Note 6 Mortgage Backed Securities
 tags:
-  - house_prices
-  - mbs
-  - mortgage_backed_securities
-  - prepayment_option
-  - securitization
+- american-options
+- arbitrage
+- asset-pricing
+- banking
+- binomial-model
+- bond-convexity
+- bond-durability
+- caps-floors
+- cmo
+- convexity
+- coupon-bonds
+- credit-rating
+- credit-risk
+- futures-contracts
+- hedging-strategies
+- ho-lee-model
+- house_prices
+- interest-rates
+- lattice-models
+- market-structure
 aliases:
-  - FHLMC
-  - FNMA
-  - GNMA
-  - MBS
-  - Teaching Note 6
+- FHLMC
+- FNMA
+- GNMA
+- MBS
+- Teaching Note 6
 key_concepts:
-  - House prices
-  - MBS market
-  - Mortgage lenders
-  - Prepayment option
-  - Securitization process
+- Monte Carlo simulation methods for derivatives pricing
+- Duration and interest rate risk measurement
+- Convexity adjustments in fixed income
+- Mortgage-backed securities and prepayment modeling
+- Arbitrage opportunities and relative value trading
+- Risk-neutral pricing and martingale measures
+- Term structure of interest rates and yield curves
+- Futures contracts and forward pricing
+- Interest rate swaps and swap curve construction
+- Financial theory and academic research
+- Practical examples and implementation
+- Derivatives and structured financial instruments
+- Risk management techniques and best practices
+- Investment analysis and portfolio management
+- Financial valuation and pricing methodologies
+- Fixed income securities and bond markets
+last_enhanced: '2025-11-06 08:42:39'
 ---
+
+
+
+
 
 # Teaching Note 6 Mortgage Backed Securities
 

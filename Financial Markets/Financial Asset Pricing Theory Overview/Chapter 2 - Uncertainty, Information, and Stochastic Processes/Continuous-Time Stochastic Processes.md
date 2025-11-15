@@ -1,21 +1,117 @@
 ---
-tags:
-  - asset_pricing
-  - brownian_motion
-  - continuous_time
-  - random_walk
-  - stochastic_process
 aliases:
-  - Bachelier model
-  - Brownian motion
-  - Wiener process
+- Bachelier model
+- Brownian motion
+- Wiener process
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Monte Carlo simulation methods
+- Stochastic processes in finance
+- Path-dependent derivatives pricing
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Efficient market hypothesis
+- Market anomalies and patterns
+- Price discovery and information
+- Continuous-Time Stochastic Processes and financial analysis
+- Continuous-Time Stochastic Processes in modern finance
+- Applications of Continuous-Time Stochastic Processes
+- 'Case study: Continuous-Time Stochastic Processes'
+last_enhanced: '2025-11-06 08:42:31'
+- market-efficiency
+- simulation
+- irs
+- alpha
+- call
+- options
+- delta
+- risk-management
+- theta
+- stochastic
+- put
+- var
+- random-walk
+- monte-carlo
+- swaps
+tags:
+- banking
+- basis
+- case-study
+- cash-flow
+- central-bank
+- credit-curve
+- crisis-analysis
+- currency
+- derivative-pricing
+- derivatives
+- econometric
+- empirical-analysis
+- equity
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- market-efficiency
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-analysis
+- quantitative-methods
+- real-world-example
+- sovereign
+- statistical-model
+- stress-test
+- var
+- volatility
+
 key_concepts:
-  - Brownian motion definition
-  - Independent increments
-  - Markov process
-  - Martingale property
-  - Option pricing formula
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Econometric Analysis
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Econometrics
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Mathematical Finance Applications
+- Mathematical Modeling
+- Quantitative Analysis in Finance
+- Quantitative Methods in Finance
+- Quantitative Risk Management
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Statistical Finance
+- Statistical Modeling
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 2.6 Continuous-time stochastic processes  
 

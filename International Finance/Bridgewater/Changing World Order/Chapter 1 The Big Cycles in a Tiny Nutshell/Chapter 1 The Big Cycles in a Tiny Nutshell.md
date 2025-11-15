@@ -1,3 +1,24 @@
+---
+tags:
+- asset-pricing
+- banking
+- credit-risk
+- forward-contracts
+- futures-contracts
+- stress-testing
+key_concepts:
+- Stress testing and scenario analysis
+- Futures contracts and forward pricing
+- Financial theory and academic research
+- Practical examples and implementation
+- Investment analysis and portfolio management
+- Equity markets and stock valuation
+- International finance and global markets
+last_enhanced: '2025-11-06 08:42:40'
+---
+
+
+
 # Chapter 1: The Big Cycles in a Tiny Nutshell
 
 ## **Chapter 1: The Big Cycles in a Tiny Nutshell**

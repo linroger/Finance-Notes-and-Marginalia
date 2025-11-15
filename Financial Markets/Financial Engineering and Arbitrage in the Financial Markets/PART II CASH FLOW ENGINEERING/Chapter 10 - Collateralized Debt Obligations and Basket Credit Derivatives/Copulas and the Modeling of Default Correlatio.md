@@ -1,23 +1,126 @@
 ---
-tags:
-  - cds_pricing
-  - credit_derivatives
-  - default_correlation
-  - gaussian_copula
-  - poisson_model
 aliases:
-  - CDS Modeling
-  - Copulas
-  - Default Correlation
-  - Gaussian Copula Example
+- CDS Modeling
+- Copulas
+- Default Correlation
+- Gaussian Copula Example
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Financial econometrics and regression
+- Time series analysis in finance
+- Volatility modeling (GARCH)
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Copulas and the Modeling of Default Correlatio and financial analysis
+- Copulas and the Modeling of Default Correlatio in modern finance
+- Applications of Copulas and the Modeling of Default Correlatio
+- 'Case study: Copulas and the Modeling of Default Correlatio'
+last_enhanced: '2025-11-06 08:42:33'
+- pricing
+- cds
+- var
+- options
+- regression
+- put
+- default
+- swaps
+- irs
+- gamma
+- hedging
+- risk-management
+- correlation
+- theta
+- call
+tags:
+- arbitrage
+- bankruptcy
+- basis
+- bid-ask
+- bond
+- case-study
+- cash-flow
+- cdo
+- collateral
+- credit-market
+- crisis-analysis
+- currency
+- default
+- derivative-pricing
+- derivatives
+- econometric
+- empirical-analysis
+- equity
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- liquidity
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-analysis
+- quantitative-methods
+- real-world-example
+- sec-regulation
+- securitization
+- spread
+- statistical-model
+- stress-test
+- tail-risk
+- var
+- volatility
+
 key_concepts:
-  - CDS pricing
-  - Copula functions
-  - Default correlation modeling
-  - Gaussian copula
-  - Marginal probability distributions
-  - Poisson default model
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Econometric Analysis
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Econometrics
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Mathematical Finance Applications
+- Mathematical Modeling
+- Quantitative Analysis in Finance
+- Quantitative Methods in Finance
+- Quantitative Risk Management
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Statistical Finance
+- Statistical Modeling
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 10.3  COPULAS AND THE MODELING OF DEFAULT CORRELATION  
 

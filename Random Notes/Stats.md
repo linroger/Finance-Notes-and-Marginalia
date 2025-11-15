@@ -1,3 +1,15 @@
+---
+tags:
+- gaussian-hjm-model
+- value-at-risk
+key_concepts:
+- Value at Risk (VaR) and risk metrics
+- Practical examples and implementation
+last_enhanced: '2025-11-06 08:42:51'
+---
+
+
+
 Got it, let's start by understanding the first part: deriving the logistic function from the log-odds. The user's notes show the steps for logit to probability, so let's go through that carefully. Then, we need to cover expected value, variance, and normal distribution properties. Let's break it down.
 
 

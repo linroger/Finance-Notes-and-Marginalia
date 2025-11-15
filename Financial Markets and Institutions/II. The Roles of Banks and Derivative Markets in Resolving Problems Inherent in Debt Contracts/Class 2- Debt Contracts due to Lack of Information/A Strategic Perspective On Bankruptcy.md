@@ -1,20 +1,42 @@
 ---
 title: A Strategic Perspective On Bankruptcy
 tags:
-  - bankruptcy
-  - chapter_11
-  - creditors
-  - financial_distress
-  - reorganization
+- bankruptcy
+- chapter_11
+- creditors
+- defi
+- equity
+- financial_distress
+- future
+- greeks
+- lehman
+- multiple
+- oil
+- option
+- reorganization
+- stock
 aliases:
-  - Bankruptcy Strategy
-  - Strategic Bankruptcy
+- Bankruptcy Strategy
+- Strategic Bankruptcy
 key_concepts:
-  - Chapter 11 bankruptcy code
-  - Company financial obligations
-  - Court-supervised reorganization
-  - Financial distress causes
-  - Out-of-court reorganization
+- Chapter 11 bankruptcy code
+- Company financial obligations
+- Court-supervised reorganization
+- Delta risk management
+- Derivative securities
+- Dynamic hedging strategies
+- Financial distress causes
+- Financial risk management
+- Gamma effects on options
+- Options Greeks measurement
+- Out-of-court reorganization
+- Portfolio optimization
+- Portfolio risk hedging
+- Quantitative financial analysis
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Theta time decay
+- Vega volatility sensitivity
 ---
 
 # A Strategic Perspective On Bankruptcy

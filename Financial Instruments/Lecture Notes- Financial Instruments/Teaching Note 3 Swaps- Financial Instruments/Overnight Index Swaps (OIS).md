@@ -1,24 +1,50 @@
 ---
 cssclasses:
-  - academia
+- academia
 title: Overnight Index Swaps (Is)
 tags:
-  - day_count_convention
-  - federal_funds_rate
-  - floating_rate
-  - overnight_index_swaps
-  - sofr
-  - swap_rate
-  - zero_coupon_curve
+- day_count_convention
+- federal_funds_rate
+- floating_rate
+- forward
+- greeks
+- ois
+- overnight-swap
+- overnight_index_swaps
+- sofr
+- swap
+- swap_rate
+- zero_coupon_curve
 aliases:
-  - Is
-  - OIS
+- Is
+- OIS
 key_concepts:
-  - cumulative return overnight rate
-  - fixed for floating payments
-  - floating rate payment
-  - swap rate calculation
-  - value of Is
+- Basis swap mechanics
+- Cross-currency basis
+- Currency swap structure
+- Delta risk management
+- Derivative securities
+- Dynamic hedging strategies
+- Financial risk management
+- Fixed vs floating leg
+- Gamma effects on options
+- Interest rate swap pricing
+- Options Greeks measurement
+- Portfolio optimization
+- Portfolio risk hedging
+- Present value of swaps
+- Quantitative financial analysis
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Swap curve construction
+- Swaption valuation
+- Theta time decay
+- Vega volatility sensitivity
+- cumulative return overnight rate
+- fixed for floating payments
+- floating rate payment
+- swap rate calculation
+- value of Is
 ---
 
 **Teaching Note 3 SwapsFinancial Instruments**

@@ -1,21 +1,116 @@
 ---
-tags:
-  - bond_spread
-  - cds_equivalent
-  - credit_risk
-  - default_risk
-  - hazard_rate
 aliases:
-  - CDS spread
-  - Genworth bond
-  - credit spread
+- CDS spread
+- Genworth bond
+- credit spread
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Cds-Equivalent Bond Spread and financial analysis
+- Cds-Equivalent Bond Spread in modern finance
+- Applications of Cds-Equivalent Bond Spread
+- 'Case study: Cds-Equivalent Bond Spread'
+last_enhanced: '2025-11-06 08:42:35'
+- credit-risk
+- pricing
+- coupon
+- default
+- fixed-income
+- basis
+- recovery
+- bond
+- credit-spread
+- bonds
+- spread
+- futures
+- liquidity
+- cds
+- maturity
+tags:
+- arbitrage
+- bankruptcy
+- basis
+- bid-ask
+- bond
+- case-study
+- cash-flow
+- credit-market
+- crisis-analysis
+- default
+- derivatives
+- duration
+- econometric
+- empirical-analysis
+- fixed-income
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- liquidity
+- mathematical-finance
+- professional-standard
+- provision
+- quantitative-analysis
+- quantitative-methods
+- real-world-example
+- sec-regulation
+- securitization
+- spread
+- statistical-model
+- yield-curve
+
 key_concepts:
-  - CDS-equivalent spread
-  - bond market price
-  - default and recovery
-  - discounted cash flows
-  - hazard rate calculation
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Econometric Analysis
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Econometrics
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Mathematical Finance Applications
+- Mathematical Modeling
+- Quantitative Analysis in Finance
+- Quantitative Methods in Finance
+- Quantitative Risk Management
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Statistical Finance
+- Statistical Modeling
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # 14.7 CDS-EQUIVALENT BOND SPREAD  
 

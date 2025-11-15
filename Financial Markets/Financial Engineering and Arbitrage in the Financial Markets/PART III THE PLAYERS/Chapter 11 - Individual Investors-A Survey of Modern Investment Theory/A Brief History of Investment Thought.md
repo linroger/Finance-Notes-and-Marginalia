@@ -1,23 +1,117 @@
 ---
-tags:
-  - capital_asset_pricing
-  - efficient_market
-  - investment_thought
-  - portfolio_theory
-  - value_investing
 aliases:
-  - Graham's Philosophy
-  - Investment History
-  - Markowitz's Theory
+- Graham's Philosophy
+- Investment History
+- Markowitz's Theory
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- Efficient market hypothesis
+- Market anomalies and patterns
+- Price discovery and information
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Capital Asset Pricing Model (CAPM)
+- Arbitrage Pricing Theory (APT)
+- Multi-factor risk models
+- Mathematical optimization in finance
+- Portfolio optimization techniques
+- Linear and quadratic programming
+- A Brief History of Investment Thought and financial analysis
+- A Brief History of Investment Thought in modern finance
+- Applications of A Brief History of Investment Thought
+- 'Case study: A Brief History of Investment Thought'
+last_enhanced: '2025-11-06 08:42:33'
+- asset-allocation
+- options
+- factor-models
+- factor-model
+- beta
+- efficient-frontier
+- put
+- capm
+- arbitrage-pricing
+- emh
+- market-efficiency
+- portfolio
+- portfolio-optimization
+- constraint
+- optimization
+tags:
+- arbitrage
+- asian-crisis
+- bankruptcy
+- case-study
+- counterparty
+- credit-curve
+- crisis-analysis
+- derivative-pricing
+- derivatives
+- econometric
+- empirical-analysis
+- equity
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- leverage
+- margin-call
+- market-efficiency
+- mathematical-finance
+- money-market
+- professional-standard
+- provision
+- quantitative-analysis
+- quantitative-methods
+- real-world-example
+- reporting-requirement
+- securitization
+- statistical-model
+- yield-curve
+
 key_concepts:
-  - Active vs passive style
-  - Efficient market hypothesis
-  - Portfolio theory
-  - Rational investment philosophy
-  - Risk and return
-  - Short-term vs value
-  - Value investing father
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Econometric Analysis
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Econometrics
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Mathematical Finance Applications
+- Mathematical Modeling
+- Quantitative Analysis in Finance
+- Quantitative Methods in Finance
+- Quantitative Risk Management
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Statistical Finance
+- Statistical Modeling
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 11.1 A BRIEF HISTORY OF INVESTMENT THOUGHT  
 

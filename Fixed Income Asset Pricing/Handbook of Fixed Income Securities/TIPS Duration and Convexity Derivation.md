@@ -2,22 +2,39 @@
 title: Untitled
 cssclasses: academia
 tags:
-  - convexity
-  - inflation_linked_bonds
-  - nominal_bonds
-  - real_yield
-  - tips_duration
+- bond-convexity
+- bond-durability
+- convexity
+- coupon-bonds
+- duration-hedging
+- futures-contracts
+- government-bonds
+- hedging-strategies
+- inflation_linked_bonds
+- interest-rates
+- nominal_bonds
+- options-greeks
+- portfolio-management
+- real_yield
+- tips_duration
+- yield-curve
 aliases:
-  - Inflation-Linked Bonds
-  - Nominal Bonds
-  - TIPS
+- Inflation-Linked Bonds
+- Nominal Bonds
+- TIPS
 key_concepts:
-  - Bond pricing formulas
-  - Continuous compounding
-  - Duration definition
-  - Inflation index factor
-  - Real vs nominal yield
+- Duration and interest rate risk measurement
+- Convexity adjustments in fixed income
+- Yield curve modeling and term structure analysis
+- Futures contracts and forward pricing
+- Practical examples and implementation
+- Fixed income securities and bond markets
+last_enhanced: '2025-11-06 08:42:40'
 ---
+
+
+
+
 
 # TIPS Duration and Convexity Derivation
 Below is a greatly expanded and highly detailed step-by-step derivation of the key formulas for pricing, duration, and convexity of both nominal and inflation/War%20Economies%20and%20Hyperinflation.md)-linked (TIPS) bonds, mirroring the style of specificity you requested. We will show how each expression is derived with a focus on “showing all the work.” Where relevant, we will also provide commentary on underlying assumptions (e.g., continuous compounding, the concept of real vs. nominal yield, the inflation index factor).

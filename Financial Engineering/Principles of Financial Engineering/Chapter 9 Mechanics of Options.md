@@ -1,29 +1,90 @@
 ---
 title: Mechanics of Options
 tags:
-  - options
-  - derivatives
-  - financial-engineering
-  - call-options
-  - put-options
-  - option-valuation
-  - option-mechanics
-  - american-options
-  - european-options
+- american
+- american-options
+- barrier
+- bid-ask
+- black-scholes
+- bond
+- brownian
+- call
+- call-options
+- cap
+- chooser
+- commodity
+- convexity
+- counterparty
+- currency
+- defi
+- derivatives
+- dividend-yield
+- equity
+- european
+- european-options
+- exchange-rate
+- exotic
+- financial-engineering
+- floor
+- forward
+- future
+- greeks
+- hedge
+- implied-vol
+- interest-rate
+- libor
+- multiple
+- oil
+- option
+- option-mechanics
+- option-valuation
+- options
+- pde
+- put
+- put-options
+- risk-free-rate
+- sde
+- sovereign-debt
+- stochastic
+- stock
+- transaction-cost
+- vol-smile
+- yield-curve
 aliases:
-  - Chapter 9 Options Mechanics
-  - Options Introduction
-  - Options Trading Mechanics
+- Chapter 9 Options Mechanics
+- Options Introduction
+- Options Trading Mechanics
 key_concepts:
-  - Option definition
-  - Call and put options
-  - Option notation
-  - European vs American options
-  - Option payoff diagrams
-  - Strike price
-  - Expiration date
-  - Option pricing basics
-  - Option strategies
+- Call and put options
+- Delta risk management
+- Delta-hedging implementation
+- Derivative securities
+- Dynamic hedging strategies
+- Dynamic replication
+- European vs American options
+- Expiration date
+- Financial risk management
+- Gamma effects on options
+- Gamma hedging techniques
+- Hedge ratio calculation
+- Hedging effectiveness
+- Option definition
+- Option notation
+- Option payoff diagrams
+- Option pricing basics
+- Option strategies
+- Options Greeks measurement
+- Portfolio insurance methods
+- Portfolio optimization
+- Portfolio risk hedging
+- Quantitative financial analysis
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Static hedging
+- Strike price
+- Theta time decay
+- Vega hedging strategies
+- Vega volatility sensitivity
 cssclasses: academia
 ---
 

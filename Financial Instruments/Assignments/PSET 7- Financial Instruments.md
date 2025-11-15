@@ -2,34 +2,62 @@
 linter-yaml-title-alias: FINANCIAL INSTRUMENTS
 title: PSET 7 - Financial Instruments
 cssclasses:
-  - academia
+- academia
 tags:
-  - american_options
-  - binomial_tree
-  - call_option
-  - financial_instruments
-  - put_option
-  - merton_model
-  - credit_risk
-  - probability_of_default
-  - structural_models
-  - kmv_model
-  - distance_to_default
+- american
+- american_options
+- binomial
+- binomial_tree
+- bond
+- call
+- call_option
+- cap
+- credit-spread
+- credit_risk
+- distance_to_default
+- equity
+- equity-value
+- financial_instruments
+- implied-vol
+- interest-rate
+- kmv_model
+- merton_model
+- multiple
+- option
+- probability_of_default
+- put
+- put_option
+- stock
+- structural_models
+- treasury
 aliases:
-  - Homework 7
-  - PSET 7
+- Homework 7
+- PSET 7
 key_concepts:
-  - American call option
-  - American put option
-  - Binomial tree model
-  - Continuously compounded rate
-  - Strike price
-  - Merton model
-  - Default probability
-  - Credit spread
-  - Distance to default
-  - Asset volatility
-  - Leverage effect
+- American call option
+- American options valuation
+- American put option
+- Asset volatility
+- Backward induction algorithm
+- Binomial option pricing model
+- Binomial tree model
+- Continuously compounded rate
+- Convergence to Black-Scholes
+- Cox-Ross-Rubinstein framework
+- Credit spread
+- Default probability
+- Derivative securities
+- Distance to default
+- Financial risk management
+- Lattice methods for derivatives
+- Leverage effect
+- Merton model
+- Multi-period binomial tree
+- Portfolio optimization
+- Quantitative financial analysis
+- Risk assessment and mitigation
+- Risk-neutral probability
+- Strike price
 ---
 
 # PSET 7 - Financial Instruments

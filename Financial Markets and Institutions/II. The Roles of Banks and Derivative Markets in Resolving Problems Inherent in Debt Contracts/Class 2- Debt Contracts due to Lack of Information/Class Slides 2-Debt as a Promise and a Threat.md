@@ -1,24 +1,32 @@
 ---
 title: Class Slides 2-Debt as a Promise and a Threat
 tags:
-  - borrower_lender
-  - debt_contract
-  - financial_contract
-  - free_cash_flow
-  - liquidation
+- bond
+- borrower_lender
+- debt_contract
+- equity
+- financial_contract
+- free_cash_flow
+- future
+- liquidation
 aliases:
-  - Borrower Payoff
-  - Class 2 Slides
-  - Debt as Threat
-  - Equity Contract
+- Borrower Payoff
+- Class 2 Slides
+- Debt as Threat
+- Equity Contract
 key_concepts:
-  - Borrower needs capital
-  - Debt face value
-  - Equity profit sharing
-  - Lender imposes penalty
-  - Liquidation as penalty
-  - Optimal financial contract
-  - Risk neutral parties
+- Borrower needs capital
+- Debt face value
+- Derivative securities
+- Equity profit sharing
+- Financial risk management
+- Lender imposes penalty
+- Liquidation as penalty
+- Optimal financial contract
+- Portfolio optimization
+- Quantitative financial analysis
+- Risk assessment and mitigation
+- Risk neutral parties
 ---
 
 # Class Slides 2-Debt as a Promise and a Threat

@@ -1,28 +1,60 @@
 ---
 cssclasses:
-  - academia
+- academia
 title: Teaching Note 4 Interest Rate Derivatives
 tags:
-  - forward_contracts
-  - hedging_interest_rate
-  - interest_rate_derivatives
-  - spot_curve
-  - swap_rates
+- arbitrage
+- asset-pricing
+- banking
+- basis-risk
+- caps-floors
+- coupon-bonds
+- credit-risk
+- forward-contracts
+- forward-rates
+- forward_contracts
+- futures-contracts
+- hedging-strategies
+- hedging_interest_rate
+- interest-rate-derivatives
+- interest-rates
+- interest_rate_derivatives
+- libor
+- market-risk
+- market-structure
+- mbs
 aliases:
-  - FRA
-  - Forward Rate Agreement
-  - Interest Rate Swap
-  - Swap
-  - Teaching Note
+- FRA
+- Forward Rate Agreement
+- Interest Rate Swap
+- Swap
+- Teaching Note
 key_concepts:
-  - Discount factor
-  - Fixed-for-floating swap
-  - Forward contracts
-  - Interest rate risk
-  - Spot curve
-  - Swap rate
-  - Trading strategy
+- Yield curve modeling and term structure analysis
+- Forward rate calculations and forward curve construction
+- Mortgage-backed securities and prepayment modeling
+- Arbitrage opportunities and relative value trading
+- Risk-neutral pricing and martingale measures
+- Term structure of interest rates and yield curves
+- 'Reference rates: SOFR, LIBOR, and rate transitions'
+- Futures contracts and forward pricing
+- Interest rate swaps and swap curve construction
+- Financial theory and academic research
+- Practical examples and implementation
+- Derivatives and structured financial instruments
+- Trading strategies and market implementation
+- Risk management techniques and best practices
+- Investment analysis and portfolio management
+- Financial valuation and pricing methodologies
+- Fixed income securities and bond markets
+- International finance and global markets
+- Financial crises and market stress events
+last_enhanced: '2025-11-06 08:42:39'
 ---
+
+
+
+
 
 # Teaching Note 4 Interest Rate Derivatives
 

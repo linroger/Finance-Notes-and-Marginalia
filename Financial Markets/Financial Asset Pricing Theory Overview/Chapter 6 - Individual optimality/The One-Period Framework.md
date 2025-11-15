@@ -1,22 +1,110 @@
 ---
-tags:
-  - budget_constraints
-  - consumption_plan
-  - one_period_framework
-  - state_price_deflator
-  - time_additive_utility
 aliases:
-  - Consumption Framework
-  - One-Period Model
+- Consumption Framework
+- One-Period Model
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Efficient market hypothesis
+- Market anomalies and patterns
+- Price discovery and information
+- Mathematical optimization in finance
+- Portfolio optimization techniques
+- Linear and quadratic programming
+- The One-Period Framework and financial analysis
+- The One-Period Framework in modern finance
+- Applications of The One-Period Framework
+- 'Case study: The One-Period Framework'
+last_enhanced: '2025-11-06 08:42:32'
+- efficient-frontier
+- market-efficiency
+- alpha
+- call
+- options
+- gamma
+- delta
+- risk-management
+- objective-function
+- theta
+- constraint
+- portfolio-optimization
+- optimization
+- var
+- beta
+tags:
+- arbitrage
+- case-study
+- cash-flow
+- crisis-analysis
+- derivative-pricing
+- derivatives
+- econometric
+- emerging-market
+- empirical-analysis
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- market-efficiency
+- mathematical-finance
+- professional-standard
+- provision
+- quantitative-analysis
+- quantitative-methods
+- real-world-example
+- sovereign
+- statistical-model
+- stress-test
+- var
+
 key_concepts:
-  - Budget constraints
-  - Initial wealth
-  - Optimal consumption plan
-  - State-dependent consumption
-  - State-price deflator
-  - Time 0 and 1
-  - Time-additive utility
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Econometric Analysis
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Econometrics
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Mathematical Finance Applications
+- Mathematical Modeling
+- Quantitative Analysis in Finance
+- Quantitative Methods in Finance
+- Quantitative Risk Management
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Statistical Finance
+- Statistical Modeling
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 6.2 The one-period framework  
 

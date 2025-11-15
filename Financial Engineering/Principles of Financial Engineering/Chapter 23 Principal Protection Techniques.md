@@ -1,27 +1,107 @@
 ---
 title: Principal Protection Techniques
 tags:
-  - principal-protection
-  - cppi
-  - structured-products
-  - financial-engineering
-  - capital-guaranteed
-  - portfolio-insurance
-  - dynamic-hedging
-  - risk-management
+- backtest
+- basel
+- bid-ask
+- black-scholes
+- bond
+- brownian
+- call
+- capital-guaranteed
+- cdo
+- cds
+- cdsos
+- counterparty
+- cppi
+- defi
+- duration
+- dynamic-hedging
+- equity
+- financial-engineering
+- floor
+- future
+- greeks
+- hedge
+- index
+- index-future
+- interest-rate
+- leverage-ratio
+- libor
+- liquidity
+- market-risk
+- monte-carlo
+- option
+- portfolio-insurance
+- principal-protection
+- put
+- regulatory-capital
+- risk-free-rate
+- risk-management
+- sde
+- stochastic
+- structured-products
+- swap
+- transaction-cost
+- yield-curve
 aliases:
-  - Chapter 23 Principal Protection
-  - CPPI Strategies
-  - Capital Protection Engineering
+- Chapter 23 Principal Protection
+- CPPI Strategies
+- Capital Protection Engineering
 key_concepts:
-  - Principal protection
-  - CPPI (Constant Proportion Portfolio Insurance)
-  - Dynamic portfolio insurance
-  - Gap risk
-  - Leverage constraints
-  - Cushion management
-  - Floor values
-  - Multiplier selection
+- ' tranche valuation'
+- Basis swap mechanics
+- CDO squared structures
+- CDS curve construction
+- CDS spread calibration
+- CPPI (Constant Proportion Portfolio Insurance)
+- Convexity adjustment
+- Credit Default Swaps
+- Credit index products
+- Cross-currency basis
+- Currency swap structure
+- Cushion management
+- DV01 calculation
+- Default correlation
+- Delta risk management
+- Delta-hedging implementation
+- Derivative securities
+- Duration measurement
+- Dynamic hedging strategies
+- Dynamic portfolio insurance
+- Dynamic replication
+- Financial risk management
+- Fixed vs floating leg
+- Floor values
+- Gamma effects on options
+- Gamma hedging techniques
+- Gap risk
+- Hedge ratio calculation
+- Hedging effectiveness
+- Hedging with bonds
+- Interest rate sensitivity
+- Interest rate swap pricing
+- Leverage constraints
+- Modified duration calculation
+- Multiplier selection
+- Options Greeks measurement
+- Portfolio immunization
+- Portfolio insurance methods
+- Portfolio optimization
+- Portfolio risk hedging
+- Present value of swaps
+- Price-yield relationship
+- Principal protection
+- Quantitative financial analysis
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Static hedging
+- Swap curve construction
+- Swaption valuation
+- Synthetic CDO pricing
+- Theta time decay
+- Vega hedging strategies
+- Vega volatility sensitivity
 cssclasses: academia
 ---
 

@@ -1,18 +1,34 @@
 ---
 aliases:
-  - 
-  - 
+- null
+- null
 title: Ch1 Introduction to Derivative Markets
 tags:
-  - '#derivative_markets'
-  - '#financial_engineering'
-  - '#long_position'
-  - '#market_makers'
-  - '#regulatory_arbitrage'
-  - '#risk_management'
-  - '#short_selling'
-  - '#speculation'
-  - '#transaction_costs'
+- '#derivative_markets'
+- '#financial_engineering'
+- '#long_position'
+- '#market_makers'
+- '#regulatory_arbitrage'
+- '#risk_management'
+- '#short_selling'
+- '#speculation'
+- '#transaction_costs'
+- bid-ask
+- bond
+- defi
+- exchange-rate
+- forward
+- future
+- interest-rate
+- multiple
+- stock
+- transaction-cost
+key_concepts:
+- Derivative securities
+- Financial risk management
+- Portfolio optimization
+- Quantitative financial analysis
+- Risk assessment and mitigation
 ---
 # Ch1 Introduction to Derivative Markets
 

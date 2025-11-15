@@ -1,38 +1,174 @@
 ---
-cssclasses:
-  - academia
-title: "Class Note 12 Part 2: Repos"
-linter-yaml-title-alias: "Class Note 12 Part 2: Repos"
-tags:
-  - collateralized_borrowing
-  - interest_rate
-  - margin
-  - repo_market
-  - security_trading
-  - haircuts
-  - tri_party_repo
-  - bilateral_repo
-  - repo_run
-  - shadow_banking
 aliases:
-  - Collateralized Borrowing
-  - Repo
-  - Repos
-  - Repurchase Agreement
-  - "Repo Markets"
+- Collateralized Borrowing
+- Repo
+- Repos
+- Repurchase Agreement
+- Repo Markets
+cssclasses:
+- academia
+- Credit analysis and rating
+- Default probability modeling
+- Loss given default estimation
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Mortgage-backed securities structure
+- Prepayment modeling and analysis
+- Securitization and CDO structures
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Class Note 12 Part 2 Repos and financial analysis
+- Class Note 12 Part 2 Repos in modern finance
+- Applications of Class Note 12 Part 2 Repos
+- 'Case study: Class Note 12 Part 2 Repos'
+linter-yaml-title-alias: 'Class Note 12 Part 2: Repos'
+- interest-rate
+- interest-rates
+- credit
+- counterparty
+- spread
+- credit-risk
+- collateral
+- risk
+- cds
+- liquidity
+- bankruptcy
+- default
+- subprime
+- trading
+- mbs
+title: 'Class Note 12 Part 2: Repos'
+tags:
+- asset-backed-cp
+- bank-failure
+- bank-run
+- banking
+- bankruptcy
+- basis
+- bear-stearns
+- bid-ask
+- bond
+- case-study
+- cdo
+- collateral
+- collateral-haircut
+- collateralized-lending
+- commercial-paper
+- contagion
+- counterparty
+- cp-rate
+- credit-market
+- crisis-2008
+- crisis-analysis
+- default
+- derivatives
+- empirical-analysis
+- facility-lending
+- financial-institutions
+- financial-markets
+- graduate-level
+- haircut
+- institutional-analysis
+- institutional-quality
+- learning-from-crisis
+- lehman
+- liquidity
+- liquidity-management
+- margin-call
+- market-liquidity
+- market-structure
+- mathematical-finance
+- mbs
+- monetary-policy
+- money-market
+- money-market-fund
+- money-markets
+- overnight-funding
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- repo
+- repo-market
+- repo-markets
+- repo-rate
+- repurchase-agreement
+- risk-weight
+- sec-regulation
+- securitization
+- short-term-funding
+- spread
+- stress-test
+- tri-party-repo
+- valuation-discount
+
 key_concepts:
-  - Collateralized borrowing of cash
-  - Margin protects lenders
-  - Market value of security
-  - Repo agreement elements
-  - Haircuts and overcollateralization
-  - Tri-party repo structure
-  - Bilateral repo market
-  - Repo market runs
-  - Clearing bank role
-  - Term repos vs overnight
-  - Subprime mortgage security
+- Asset-Backed Commercial Paper
+- Banking and Financial Intermediation
+- CP Investor Base
+- Case Study Methodology
+- Central Bank Liquidity Facilities
+- Collateral Adequacy
+- Collateral Haircut Models
+- Collateral Management
+- Collateralized Lending
+- Commercial Paper Markets
+- Commercial Paper Rates
+- Commercial Paper Risk Assessment
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Intermediation and Banking
+- Financial Markets and Institutions
+- Haircut and Valuation Adjustments
+- Historical Financial Analysis
+- Institutional Analysis of Financial Systems
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Liquidity Crisis and Management
+- Liquidity Risk and Management
+- Market Risk Adjustments
+- Market Structure and Microstructure
+- Money Market Dynamics
+- Money Market Fund Dynamics
+- Money Market Fund Regulation
+- Money Market Instruments
+- Overnight Funding Markets
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Regulatory Framework in Financial Markets
+- Repo Market Dynamics
+- Repo Market Regulation
+- Repo Rates and Spreads
+- Repurchase Agreement Markets
+- Risk Management Haircuts
+- Risk Management and Hedging Strategies
+- Risk Weight Calculations
+- Risk-Based Haircuts
+- Short-Term Funding Markets
+- Short-Term Funding Strategies
+- Tri-Party Repo Arrangements
+- Valuation Discounts
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
 
 # Class Note 12 Part 2: Repos
 

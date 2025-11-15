@@ -1,22 +1,110 @@
 ---
-tags:
-  - asset_pricing
-  - forward_price
-  - forwards_futures
-  - futures_price
-  - risk_neutral
-  - zero_coupon_bond
 aliases:
-  - Forward Contracts
-  - Forwards
-  - Futures
+- Forward Contracts
+- Forwards
+- Futures
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Forwards and Futures and financial analysis
+- Forwards and Futures in modern finance
+- Applications of Forwards and Futures
+- 'Case study: Forwards and Futures'
+last_enhanced: '2025-11-06 08:42:31'
+- coupon
+- roll
+- interest-rates
+- interest-rate
+- bonds
+- call
+- options
+- delta
+- risk-management
+- maturity
+- yield
+- bond
+- futures
+- put
+- basis
+tags:
+- arbitrage
+- banking
+- basis
+- bond
+- case-study
+- cash-flow
+- crisis-analysis
+- cross-border
+- currency
+- derivative-pricing
+- derivatives
+- duration
+- empirical-analysis
+- european
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- securitization
+- stress-test
+- var
+- volatility
+- yield-curve
+
 key_concepts:
-  - Forward price definition
-  - Futures contract payoff
-  - Risk-neutral probability measure
-  - Underlying asset price
-  - Zero-coupon bond pricing
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 12.2 Forwards and futures  
 

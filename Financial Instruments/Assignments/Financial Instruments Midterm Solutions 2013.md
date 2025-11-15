@@ -1,32 +1,79 @@
 ---
 cssclasses:
-  - academia
+- academia
 linter-yaml-title-alias: Financial Instruments Midterm Solutions 2013
 title: Financial Instruments Midterm Solutions 2013
 tags:
-  - binary_option
-  - bond_valuation
-  - european_call_option
-  - hedging
-  - option_pricing
-  - black_scholes
-  - forward_contracts
-  - delta_hedging
-  - risk_neutral_pricing
-  - currency_exposure
+- binary_option
+- binomial
+- black-scholes
+- black_scholes
+- bond
+- bond_valuation
+- call
+- currency_exposure
+- delta_hedging
+- digital
+- dividend-yield
+- european_call_option
+- exchange-rate
+- forward
+- forward_contracts
+- future
+- greeks
+- hedge
+- hedging
+- interest-rate
+- libor
+- oil
+- option
+- option_pricing
+- put
+- risk-free-rate
+- risk_neutral_pricing
+- stock
 aliases: []
 key_concepts:
-  - European call option
-  - S&P 500 index
-  - binary option pricing
-  - bond valuation
-  - hedge exposure
-  - delta hedging
-  - forward contracts
-  - risk-neutral probability
-  - Black-Scholes formula
-  - binomial tree pricing
-  - exchange rate hedging
+- American options valuation
+- Backward induction algorithm
+- Binomial option pricing model
+- Black-Scholes formula
+- Convergence to Black-Scholes
+- Cox-Ross-Rubinstein framework
+- Delta risk management
+- Delta-hedging implementation
+- Derivative securities
+- Dynamic hedging strategies
+- Dynamic replication
+- European call option
+- Financial risk management
+- Gamma effects on options
+- Gamma hedging techniques
+- Hedge ratio calculation
+- Hedging effectiveness
+- Lattice methods for derivatives
+- Multi-period binomial tree
+- Options Greeks measurement
+- Portfolio insurance methods
+- Portfolio optimization
+- Portfolio risk hedging
+- Quantitative financial analysis
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Risk-neutral probability
+- S&P 500 index
+- Static hedging
+- Theta time decay
+- Vega hedging strategies
+- Vega volatility sensitivity
+- binary option pricing
+- binomial tree pricing
+- bond valuation
+- delta hedging
+- exchange rate hedging
+- forward contracts
+- hedge exposure
+- risk-neutral probability
 ---
 
 # Financial Instruments Midterm Solutions 2013

@@ -1,28 +1,112 @@
 ---
 title: Counterparty Risk, Multiple Curves, CVA, DVA, and FVA
 tags:
-  - counterparty-risk
-  - cva
-  - dva
-  - fva
-  - credit-risk
-  - derivatives-valuation
-  - xva
-  - collateral-management
-  - financial-engineering
+- barrier
+- basel
+- black-scholes
+- bond
+- bps
+- cap
+- cds
+- cdsos
+- collateral-management
+- copula
+- corporate-bond
+- counterparty
+- counterparty-risk
+- credit-risk
+- credit-spread
+- currency
+- cva
+- defi
+- derivatives-valuation
+- duration
+- dva
+- equity
+- factor-model
+- financial-crisis
+- financial-engineering
+- fixed-income
+- forward
+- future
+- fva
+- greeks
+- interest-rate
+- lehman
+- libor
+- liquidity
+- market-risk
+- monte-carlo
+- multiple
+- ois
+- option
+- regulatory-capital
+- risk-free-rate
+- risk-management
+- sde
+- swap
+- swaption
+- var
+- xva
+- yield-curve
 aliases:
-  - Chapter 24 Counterparty Risk
-  - CVA DVA FVA
-  - XVA Adjustments
+- Chapter 24 Counterparty Risk
+- CVA DVA FVA
+- XVA Adjustments
 key_concepts:
-  - Credit Valuation Adjustment (CVA)
-  - Debit Valuation Adjustment (DVA)
-  - Funding Valuation Adjustment (FVA)
-  - Counterparty credit risk
-  - Collateral agreements
-  - Wrong-way risk
-  - Multiple curve framework
-  - Bilateral CVA
+- ' tranche valuation'
+- Backtesting VaR models
+- Basis swap mechanics
+- Bilateral CVA
+- CDO squared structures
+- CDS curve construction
+- CDS spread calibration
+- Collateral agreements
+- Convexity adjustment
+- Counterparty credit risk
+- Credit Default Swaps
+- Credit Valuation Adjustment (CVA)
+- Credit index products
+- Cross-currency basis
+- Currency swap structure
+- DV01 calculation
+- Debit Valuation Adjustment (DVA)
+- Default correlation
+- Delta risk management
+- Derivative securities
+- Duration measurement
+- Dynamic hedging strategies
+- Expected Shortfall calculation
+- Financial risk management
+- Fixed vs floating leg
+- Funding Valuation Adjustment (FVA)
+- Gamma effects on options
+- Hedging with bonds
+- Historical simulation VaR
+- Interest rate sensitivity
+- Interest rate swap pricing
+- Modified duration calculation
+- Monte Carlo VaR
+- Multiple curve framework
+- Options Greeks measurement
+- Parametric VaR models
+- Portfolio immunization
+- Portfolio optimization
+- Portfolio risk hedging
+- Present value of swaps
+- Price-yield relationship
+- Quantitative financial analysis
+- Regulatory VaR requirements
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Swap curve construction
+- Swaption valuation
+- Synthetic CDO pricing
+- Theta time decay
+- VaR model validation
+- Value at Risk (VaR) methodology
+- Vega volatility sensitivity
+- Wrong-way risk
 cssclasses: academia
 ---
 

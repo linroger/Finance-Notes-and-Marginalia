@@ -1,30 +1,36 @@
 ---
 cssclasses:
-  - academia
-title: Financial Intermediation and Delegated Loan Monitoring, Intro to Bankruptcy and Debt Restructuring
+- academia
+title: Financial Intermediation and Delegated Loan Monitoring, Intro to Bankruptcy
+  and Debt Restructuring
 tags:
-  - bankruptcy
-  - debt_restructuring
-  - delegated_loan_monitoring
-  - financial_intermediation
-  - bank_monitoring
-  - workout_management
+- bank_monitoring
+- bankruptcy
+- debt_restructuring
+- delegated_loan_monitoring
+- financial_intermediation
+- workout_management
 aliases:
-  - Bankruptcy Intro
-  - Class 3
-  - Debt Restructuring
-  - Delegated Monitoring
-  - Financial Intermediation
+- Bankruptcy Intro
+- Class 3
+- Debt Restructuring
+- Delegated Monitoring
+- Financial Intermediation
 key_concepts:
-  - Bankruptcy Introduction
-  - Debt Restructuring
-  - Financial Intermediation
-  - Loan Monitoring
-  - Bank Asset Services
-  - Delegated Monitoring Theory
-  - Workout Management
-  - Gordon Bargain Stores Case
-  - Technical Bankruptcy Terms
+- Bank Asset Services
+- Bankruptcy Introduction
+- Debt Restructuring
+- Delegated Monitoring Theory
+- Derivative securities
+- Financial Intermediation
+- Financial risk management
+- Gordon Bargain Stores Case
+- Loan Monitoring
+- Portfolio optimization
+- Quantitative financial analysis
+- Risk assessment and mitigation
+- Technical Bankruptcy Terms
+- Workout Management
 ---
 
 # Class 3: Financial Intermediation and Delegated Loan Monitoring, Intro to Bankruptcy and Debt Restructuring

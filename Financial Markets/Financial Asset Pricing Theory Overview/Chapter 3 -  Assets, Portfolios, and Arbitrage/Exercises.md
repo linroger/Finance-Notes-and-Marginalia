@@ -1,24 +1,94 @@
 ---
-tags:
-  - arbitrage
-  - call_option
-  - no_arbitrage
-  - one_period_model
-  - risk_free_asset
 aliases:
-  - Exercise 3.1
-  - Exercise 3.2
-  - Exercise 3.3
-  - Exercise 3.4
+- Exercise 3.1
+- Exercise 3.2
+- Exercise 3.3
+- Exercise 3.4
+- Arbitrage principles and opportunities
+- Relative value trading
+- Law of one price enforcement
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Exercises and financial analysis
+- Exercises in modern finance
+- Applications of Exercises
+- 'Case study: Exercises'
+last_enhanced: '2025-11-06 08:42:31'
+- portfolio
+- interest-rates
+- dividend
+- interest-rate
+- call
+- options
+- arbitrage
+- no-arbitrage
+- theta
+- arbitrage-free
+- put
+- risk
+- portfolio-optimization
+tags:
+- arbitrage
+- case-study
+- crisis-analysis
+- derivative-pricing
+- derivatives
+- empirical-analysis
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- sovereign
+
 key_concepts:
-  - Law of One Price
-  - arbitrage-free market
-  - market complete
-  - no-arbitrage price
-  - one-period model
-  - risk-free asset
-  - risk-free dividend
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 3.8 Exercises  
 

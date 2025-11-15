@@ -1,24 +1,49 @@
 ---
-cssclasses: ["academia"]
-linter-yaml-title-alias: Oaktree And The Restructuring Of Cit Group (A)
-title: Oaktree and the Restructuring of CIT Group (a)
-tags:
-  - cit_group
-  - credit_crisis
-  - financial_crisis
-  - oaktree_capital
-  - restructuring
 aliases:
-  - CIT
-  - HBS
-  - Rajath Shourie
-  - TARP
+- CIT
+- HBS
+- Rajath Shourie
+- TARP
+cssclasses:
+- academia
 key_concepts:
-  - CIT Group restructuring
-  - Credit crisis impact
-  - Financial institution funding
-  - Oaktree Capital Management
-  - Troubled Asset Relief Program
+- Corporate bankruptcy process
+- Debt restructuring and workouts
+- Chapter 11 reorganization
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Oaktree and the Restructuring of CIT Group (a) and financial analysis
+- Oaktree and the Restructuring of CIT Group (a) in modern finance
+- Applications of Oaktree and the Restructuring of CIT Group (a)
+- 'Case study: Oaktree and the Restructuring of CIT Group (a)'
+linter-yaml-title-alias: Oaktree And The Restructuring Of Cit Group (A)
+tags:
+- call
+- treasury
+- fixed-income
+- chapter-11
+- liquidity
+- maturity
+- bond
+- options
+- put
+- corporate-bond
+- bonds
+- spread
+- distressed
+- bankruptcy
+- trading
+title: Oaktree and the Restructuring of CIT Group (a)
 ---
 
 Oaktree and the Restructuring of CIT Group (b)

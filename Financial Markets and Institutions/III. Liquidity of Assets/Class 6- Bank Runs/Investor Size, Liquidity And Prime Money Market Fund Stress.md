@@ -1,36 +1,196 @@
 ---
-cssclasses:
-  - academia
-title: "Investor Size, Liquidity, and Prime Money Market Fund Stress"
-linter-yaml-title-alias: "Investor Size, Liquidity, and Prime Money Market Fund Stress"
-tags:
-  - investor_size
-  - liquidity
-  - march_2020
-  - money_market_funds
-  - redemptions
-  - covid19_shock
-  - federal_reserve
-  - mmlf
-  - financial_stress
-  - institutional_behavior
 aliases:
-  - MMF stress
-  - money market funds
-  - prime MMFs
-  - "Investor Size and MMF Stress"
+- MMF stress
+- money market funds
+- prime MMFs
+- Investor Size and MMF Stress
+cssclasses:
+- academia
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- Financial regulation and compliance
+- Basel III capital requirements
+- Dodd-Frank Act implications
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Investor Size, Liquidity And Prime Money Market Fund Stress and financial analysis
+- Investor Size, Liquidity And Prime Money Market Fund Stress in modern finance
+- Applications of Investor Size, Liquidity And Prime Money Market Fund Stress
+- 'Case study: Investor Size, Liquidity And Prime Money Market Fund Stress'
+linter-yaml-title-alias: Investor Size, Liquidity, and Prime Money Market Fund Stress
+- call
+- volatility
+- credit
+- regulatory
+- swap
+- portfolio-optimization
+- portfolio
+- regulation
+- options
+- swaps
+- spread
+- liquidity
+- irs
+- trading
+- capital-requirement
+title: Investor Size, Liquidity, and Prime Money Market Fund Stress
+tags:
+- austerity
+- balance-sheet
+- bank-run
+- banking
+- basel
+- basis
+- bid-ask
+- case-study
+- central-bank
+- commercial-paper
+- counterparty
+- covid-crisis
+- credit-market
+- crisis-2008
+- crisis-analysis
+- cross-border
+- currency
+- derivative-pricing
+- derivatives
+- dodd-frank
+- econometric
+- empirical-analysis
+- equity
+- european
+- european-debt-crisis
+- eurozone
+- facility-lending
+- financial-crisis
+- financial-institutions
+- financial-markets
+- financial-regulation
+- governance
+- government-fund
+- graduate-level
+- grexit
+- hedging
+- institutional-analysis
+- institutional-quality
+- learning-from-crisis
+- liquidity
+- liquidity-facility
+- liquidity-fee
+- liquidity-management
+- margin-call
+- market-liquidity
+- market-structure
+- mathematical-finance
+- monetary-policy
+- money-market
+- money-market-fund
+- money-markets
+- municipal-fund
+- prime-fund
+- professional-standard
+- provision
+- quantitative-analysis
+- quantitative-methods
+- real-world-example
+- regulatory-compliance
+- repo
+- repo-markets
+- reporting-requirement
+- sec-regulation
+- securitization
+- short-term-funding
+- sovereign
+- sovereign-debt
+- spread
+- stable-net-asset-value
+- statistical-model
+- supervision
+- systemic-risk
+- treasury
+- volatility
+- yield-curve
+
 key_concepts:
-  - Covid-19 shock
-  - fund managers less liquid
-  - large investor withdrawals
-  - policy relief liquidity
-  - short-term dollar funding
-  - Money Market Mutual Fund Liquidity Facility
-  - Prime institutional vs retail MMFs
-  - Large vs small institutional investors
-  - Liquidity buffer management
-  - Market-wide liquidity shortages
+- Austerity Measures
+- Bank Supervision
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Central Bank Liquidity Facilities
+- Commercial Paper Markets
+- Compliance Management
+- Corporate Governance
+- Crisis Case Study Design
+- Currency Union Risks
+- Econometric Analysis
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- European Debt Crisis
+- European Integration
+- Eurozone Crisis Management
+- Financial Crisis Case Studies
+- Financial Econometrics
+- Financial Intermediation and Banking
+- Financial Markets and Institutions
+- Financial Regulation
+- Fiscal Integration
+- Governance Standards
+- Government Money Market Funds
+- Greek Debt Crisis
+- Historical Financial Analysis
+- Institutional Analysis of Financial Systems
+- Institutional Money Market Funds
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Liquidity Crisis and Management
+- Liquidity Fee Mechanisms
+- Liquidity Risk and Management
+- Market Structure and Microstructure
+- Mathematical Finance Applications
+- Mathematical Modeling
+- Money Market Fund Dynamics
+- Money Market Fund Management
+- Money Market Fund Regulation
+- Money Market Instruments
+- Municipal Money Market Funds
+- Prime Money Market Funds
+- Quantitative Analysis in Finance
+- Quantitative Methods in Finance
+- Quantitative Risk Management
+- Real-World Financial Examples
+- Regulatory Compliance
+- Regulatory Framework
+- Regulatory Framework in Financial Markets
+- Regulatory Risk
+- Repurchase Agreement Markets
+- Risk Management and Hedging Strategies
+- Short-Term Funding Markets
+- Sovereign Debt Restructuring
+- Stable Net Asset Value
+- Statistical Finance
+- Statistical Modeling
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
 
 # Investor Size, Liquidity, and Prime Money Market Fund Stress
 

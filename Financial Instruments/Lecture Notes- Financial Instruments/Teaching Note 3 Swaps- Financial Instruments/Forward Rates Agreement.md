@@ -1,25 +1,55 @@
 ---
 title: Forward Rates Agreement
 cssclasses:
-  - academia
+- academia
 tags:
-  - arbitrage
-  - forward_contracts
-  - law_of_one_price
-  - no_arbitrage
-  - spot_exchange
+- arbitrage
+- basis-swap
+- bond
+- commodity
+- currency
+- defi
+- dividend-yield
+- exchange-rate
+- financial-crisis
+- forward
+- forward_contracts
+- future
+- interest-rate
+- law_of_one_price
+- libor
+- no_arbitrage
+- ois
+- option
+- overnight-swap
+- spot_exchange
+- stock
+- swap
 aliases:
-  - arbitrage opportunity
-  - forward rate
-  - long forward
-  - short forward
-  - spot rate
+- arbitrage opportunity
+- forward rate
+- long forward
+- short forward
+- spot rate
 key_concepts:
-  - buy cheap sell dear
-  - exchange goods for money
-  - identical payoffs same price
-  - no arbitrage principle
-  - prespecified future date price
+- Basis swap mechanics
+- Cross-currency basis
+- Currency swap structure
+- Derivative securities
+- Financial risk management
+- Fixed vs floating leg
+- Interest rate swap pricing
+- Portfolio optimization
+- Present value of swaps
+- Quantitative financial analysis
+- Risk assessment and mitigation
+- Swap curve construction
+- Swaption valuation
+- buy cheap sell dear
+- exchange goods for money
+- identical payoffs same price
+- no arbitrage principle
+- prespecified future date price
 ---
 
 Deriving Forward Exchange Rate Numerical Example 1

@@ -2,20 +2,135 @@
 title: JP Morgan-Variance Swaps
 cssclasses: academia
 tags:
-  - hedging
-  - jpmorgan
-  - market_mechanics
-  - variance_swaps
-  - volatility
+- alpha
+- backtest
+- barrier
+- basis-swap
+- beta
+- black-scholes
+- bond
+- bps
+- bubble
+- call
+- cap
+- capital-structure
+- cds
+- collar
+- commodity
+- convexity
+- correlation-swap
+- crash
+- credit-risk
+- credit-spread
+- currency
+- defi
+- dividend-yield
+- dot-com
+- efficient-frontier
+- equity
+- euribor
+- exchange-rate
+- fixed-income
+- floor
+- forward
+- future
+- garch
+- greeks
+- hedge
+- hedge-fund
+- hedging
+- implied-vol
+- index
+- inflation
+- information-ratio
+- interest-rate
+- jpmorgan
+- liquidity
+- ltcm
+- margin-call
+- market-risk
+- market_mechanics
+- merger
+- multiple
+- oil
+- option
+- pca
+- put
+- regression
+- stock
+- swap
+- tail-risk
+- transaction-cost
+- var
+- variance
+- variance_swaps
+- vol-smile
+- volatility
+- volatility-swap
+- yield-curve
+- yield-spread
 aliases:
-  - Variance Swaps
-  - Volatility Swaps
+- Variance Swaps
+- Volatility Swaps
 key_concepts:
-  - Delta-hedged portfolio
-  - Generating alpha
-  - Hedging volatility exposures
-  - Variance swap market
-  - Volatility exposure
+- ' tranche valuation'
+- ARCH effects
+- Backtesting VaR models
+- Basis swap mechanics
+- CDO squared structures
+- CDS curve construction
+- CDS spread calibration
+- Credit Default Swaps
+- Credit index products
+- Cross-currency basis
+- Currency swap structure
+- Default correlation
+- Delta risk management
+- Delta-hedged portfolio
+- Delta-hedging implementation
+- Derivative securities
+- Dynamic hedging strategies
+- Dynamic replication
+- EGARCH specification
+- Expected Shortfall calculation
+- Financial risk management
+- Fixed vs floating leg
+- GARCH volatility modeling
+- GARCH(p,q) models
+- GARCH-in-Mean models
+- Gamma effects on options
+- Gamma hedging techniques
+- Generating alpha
+- Hedge ratio calculation
+- Hedging effectiveness
+- Hedging volatility exposures
+- Historical simulation VaR
+- Interest rate swap pricing
+- Monte Carlo VaR
+- Multivariate GARCH
+- Options Greeks measurement
+- Parametric VaR models
+- Portfolio insurance methods
+- Portfolio optimization
+- Portfolio risk hedging
+- Present value of swaps
+- Quantitative financial analysis
+- Regulatory VaR requirements
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Static hedging
+- Swap curve construction
+- Swaption valuation
+- Synthetic CDO pricing
+- Theta time decay
+- Time-varying volatility
+- VaR model validation
+- Value at Risk (VaR) methodology
+- Variance swap market
+- Vega hedging strategies
+- Vega volatility sensitivity
+- Volatility clustering
+- Volatility exposure
 ---
 
 # JP Morgan-Variance Swaps

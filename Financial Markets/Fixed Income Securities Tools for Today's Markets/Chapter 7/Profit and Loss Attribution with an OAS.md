@@ -1,24 +1,112 @@
 ---
-tags:
-  - carry_roll_down
-  - oas
-  - profit_loss_attribution
-  - relative_value_trading
-  - term_structure_models
 aliases:
-  - OAS
-  - P&L attribution
-  - Spread change
+- OAS
+- P&L attribution
+- Spread change
+- Arbitrage principles and opportunities
+- Relative value trading
+- Law of one price enforcement
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Financial accounting standards
+- GAAP and IFRS differences
+- Mark-to-market accounting
+- Profit and Loss Attribution with an OAS and financial analysis
+- Profit and Loss Attribution with an OAS in modern finance
+- Applications of Profit and Loss Attribution with an OAS
+- 'Case study: Profit and Loss Attribution with an OAS'
+last_enhanced: '2025-11-06 08:42:36'
+- risk
+- irs
+- interest-rate
+- hedging
+- arbitrage
+- roll
+- accounting
+- swaps
+- fair-value
+- relative-value
+- futures
+- interest-rates
+tags:
+- arbitrage
+- bankruptcy
+- basis
+- bid-ask
+- bond
+- case-study
+- crisis-analysis
+- currency
+- derivatives
+- econometric
+- empirical-analysis
+- fair-value
+- fixed-income
+- graduate-level
+- hedging
+- income-statement
+- institutional-quality
+- learning-from-crisis
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-analysis
+- quantitative-methods
+- real-world-example
+- sec-regulation
+- securitization
+- spread
+- statistical-model
+- yield-curve
+
 key_concepts:
-  - Carry-roll-down
-  - OAS definition
-  - One-factor model
-  - P&L attribution
-  - Rate changes
-  - Risk-neutral process
-  - Spread change
-  - Taylor approximation
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Econometric Analysis
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Econometrics
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Mathematical Finance Applications
+- Mathematical Modeling
+- Quantitative Analysis in Finance
+- Quantitative Methods in Finance
+- Quantitative Risk Management
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Statistical Finance
+- Statistical Modeling
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # 7.7 PROFIT AND LOSS ATTRIBUTION WITH AN OAS  
 

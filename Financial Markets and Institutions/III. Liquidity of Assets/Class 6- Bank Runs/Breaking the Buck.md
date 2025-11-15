@@ -1,38 +1,152 @@
 ---
-cssclasses:
-  - academia
-title: "Breaking the Buck"
-linter-yaml-title-alias: "Breaking the Buck"
-tags:
-  - federal_reserve
-  - financial_crisis
-  - lehman_brothers
-  - money_market_fund
-  - prime_funds
-  - credit_risk
-  - market_liquidity
-  - fund_redemptions
-  - financial_regulation
-  - treasury_insurance_program
 aliases:
-  - Finbar McCall
-  - RPG Advisers
-  - RPGXX
-  - Reserve Primary Fund
-  - "Breaking the Buck"
+- Finbar McCall
+- RPG Advisers
+- RPGXX
+- Reserve Primary Fund
+- Breaking the Buck
+cssclasses:
+- academia
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- Breaking the Buck and financial analysis
+- Breaking the Buck in modern finance
+- Applications of Breaking the Buck
+- 'Case study: Breaking the Buck'
+linter-yaml-title-alias: Breaking the Buck
+- yield
+- call
+- treasury
+- fixed-income
+- municipal
+- futures
+- maturity
+- bond
+- portfolio-optimization
+- options
+- put
+- portfolio
+- basis
+- bonds
+- roll
+title: Breaking the Buck
+tags:
+- abs
+- arbitrage
+- asian-crisis
+- bank-bailout
+- bank-failure
+- bank-run
+- banking
+- bankruptcy
+- basis
+- bid-ask
+- bond
+- case-study
+- central-bank
+- commercial-paper
+- credit-market
+- credit-rating
+- crisis-2008
+- crisis-analysis
+- default
+- deposit-insurance
+- derivative-pricing
+- derivatives
+- duration
+- empirical-analysis
+- equity
+- facility-lending
+- fdic
+- financial-crisis
+- financial-institutions
+- financial-markets
+- fixed-income
+- graduate-level
+- gse
+- hedging
+- institutional-analysis
+- institutional-quality
+- learning-from-crisis
+- lehman
+- liquidity
+- liquidity-facility
+- liquidity-management
+- market-liquidity
+- market-structure
+- mathematical-finance
+- monetary-policy
+- money-market
+- money-markets
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- repo
+- repo-markets
+- sec-regulation
+- securitization
+- short-term-funding
+- sovereign
+- spread
+- structured-product
+- tranche
+- treasury
+- yield-curve
+
 key_concepts:
-  - Breaking the buck
-  - Federal Reserve Regulation Q
-  - Lehman Brothers bankruptcy
-  - Money market funds
-  - Short-term debt securities
-  - Treasury Insurance Program
-  - Amortized cost accounting
-  - Asset-backed Commercial Paper Money Market Mutual Fund Liquidity Facility
-  - Net asset value maintenance
-  - Fund redemption management
-  - Money market fund insurance
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Central Bank Liquidity Facilities
+- Commercial Paper Markets
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Intermediation and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional Analysis of Financial Systems
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Liquidity Crisis and Management
+- Liquidity Risk and Management
+- Market Structure and Microstructure
+- Money Market Fund Dynamics
+- Money Market Instruments
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Regulatory Framework in Financial Markets
+- Repurchase Agreement Markets
+- Risk Management and Hedging Strategies
+- Short-Term Funding Markets
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
 
 # Breaking the Buck
 

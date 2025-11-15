@@ -1,23 +1,67 @@
 ---
 title: Asset Price Dynamics
 tags:
-  - asset_price_dynamics
-  - continuous_compounding
-  - efficient_markets
-  - geometric_brownian_motion
-  - rates_of_return
-  - stochastic_processes
+- asset_price_dynamics
+- binomial
+- black-scholes
+- brownian
+- continuous_compounding
+- defi
+- efficient_markets
+- forward
+- future
+- gbm
+- geometric_brownian_motion
+- greeks
+- interest-rate
+- ito
+- option
+- rates_of_return
+- stochastic
+- stochastic_processes
+- stock
+- var
+- vol-smile
 aliases:
-  - Asset Pricing
-  - Returns Analysis
-  - Stochastic Modeling
+- Asset Pricing
+- Returns Analysis
+- Stochastic Modeling
 key_concepts:
-  - Asset price returns
-  - Compounded rates of return
-  - Continuous time processes
-  - Efficient market hypothesis
-  - Geometric Brownian motion
-  - Rate of return calculation
+- American options valuation
+- Asset price returns
+- Backtesting VaR models
+- Backward induction algorithm
+- Binomial option pricing model
+- Compounded rates of return
+- Continuous time processes
+- Convergence to Black-Scholes
+- Cox-Ross-Rubinstein framework
+- Delta risk management
+- Derivative securities
+- Dynamic hedging strategies
+- Efficient market hypothesis
+- Expected Shortfall calculation
+- Financial risk management
+- Gamma effects on options
+- Geometric Brownian motion
+- Historical simulation VaR
+- Lattice methods for derivatives
+- Monte Carlo VaR
+- Multi-period binomial tree
+- Options Greeks measurement
+- Parametric VaR models
+- Portfolio optimization
+- Portfolio risk hedging
+- Quantitative financial analysis
+- Rate of return calculation
+- Regulatory VaR requirements
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Risk-neutral probability
+- Theta time decay
+- VaR model validation
+- Value at Risk (VaR) methodology
+- Vega volatility sensitivity
 ---
 
 # Asset Price Dynamics

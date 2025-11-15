@@ -1,21 +1,137 @@
 ---
-tags:
-  - arbitrage
-  - counterparty_risk
-  - credit_risk
-  - cross_currency_basis
-  - xva
+- arbitrage
+- banking
+- bond-durability
+- cdo
+- cds-basis
+- counterparty_risk
+- credit-default-swaps
+- credit-risk
+- credit-spreads
+- credit_risk
+- cross_currency_basis
+- default-probability
+- financial-regulation
+- forward-contracts
+- forward-rates
+- futures-contracts
+- hedging-strategies
+- interest-rates
+- libor
+- market-structure
 aliases:
-  - XVA
-  - xccy basis
+- XVA
+- xccy basis
+- Duration and interest rate risk measurement
+- Yield curve modeling and term structure analysis
+- Forward rate calculations and forward curve construction
+- Credit default swaps and credit risk transfer
+- Credit default swap pricing and spreads
+- Collateralized debt obligations (CDOs) and structured credit
+- Arbitrage opportunities and relative value trading
+- 'Reference rates: SOFR, LIBOR, and rate transitions'
+- Futures contracts and forward pricing
+- Interest rate swaps and swap curve construction
+- Credit spreads and credit risk assessment
+- Financial theory and academic research
+- Practical examples and implementation
+- Trading strategies and market implementation
+- Financial regulation and compliance requirements
+- Investment analysis and portfolio management
+- Financial valuation and pricing methodologies
+- Fixed income securities and bond markets
+- Financial crises and market stress events
+last_enhanced: '2025-11-06 08:42:38'
+tags:
+- arbitrage
+- austerity
+- bank-regulation
+- banking
+- basis
+- bid-ask
+- bond
+- cdo
+- collateral
+- commodity
+- counterparty
+- credit-curve
+- credit-market
+- currency
+- default
+- derivatives
+- duration
+- european
+- european-debt-crisis
+- eurozone
+- fair-value
+- financial-crisis
+- financial-regulation
+- fixed-income
+- governance
+- graduate-level
+- grexit
+- hedging
+- institutional-quality
+- liquidity
+- market-making
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-easing
+- quantitative-methods
+- regulatory-compliance
+- sec-regulation
+- securitization
+- sovereign-debt
+- spread
+- structured-product
+- supervision
+- synthetic
+- tranche
+- treasury
+- yield-curve
+
 key_concepts:
-  - Counterparty risk
-  - Credit valuation adjustment
-  - Exposure profiles
-  - Multiple transactions
-  - Positive and negative values
-  - XVA costs
+- Austerity Measures
+- Bank Supervision
+- Banking and Financial Intermediation
+- Compliance Management
+- Corporate Governance
+- Currency Union Risks
+- European Debt Crisis
+- European Integration
+- Eurozone Crisis Management
+- Financial Markets and Institutions
+- Financial Regulation
+- Fiscal Integration
+- Governance Standards
+- Greek Debt Crisis
+- Institutional-Quality Financial Education
+- Quantitative Methods in Finance
+- Regulatory Compliance
+- Regulatory Framework
+- Regulatory Risk
+- Risk Management and Hedging Strategies
+- Sovereign Debt Restructuring
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # Chapter 2 XVA and the Cross-Currency Basis
 

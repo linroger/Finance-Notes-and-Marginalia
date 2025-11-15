@@ -1,26 +1,141 @@
 ---
+aliases:
+- LTCM
+- Long-Term Arbitrage
+- PBA
 cssclasses:
-  - academia
+- academia
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Arbitrage principles and opportunities
+- Relative value trading
+- Law of one price enforcement
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Class Slides The LTCM Meltdown Liquidity and “Performance Based Arbitrage.” and
+  financial analysis
+- Class Slides The LTCM Meltdown Liquidity and “Performance Based Arbitrage.” in modern
+  finance
+- Applications of Class Slides The LTCM Meltdown Liquidity and “Performance Based
+  Arbitrage.”
+- 'Case study: Class Slides The LTCM Meltdown Liquidity and “Performance Based Arbitrage.”'
 linter-yaml-title-alias: Class Slides The LTCM Meltdown Liquidity and “Performance
   Based Arbitraged
+- yield
+- call
+- pricing
+- arbitrage
+- put
+- options
+- bonds
+- cds
+- liquidity
+- default
+- trading
 title: Class Slides The LTCM Meltdown Liquidity and “Performance Based Arbitrage.”
 tags:
-  - hedge_fund
-  - ltcm_meltdown
-  - news_trade
-  - pba_arb
-  - performance_based_arbitrage
-aliases:
-  - LTCM
-  - Long-Term Arbitrage
-  - PBA
+-  LTCM
+- arbitrage
+- bank-run
+- banking
+- basis
+- bid-ask
+- bond
+- case-study
+- commercial-paper
+- convergence-trading
+- counterparty
+- credit-market
+- crisis-analysis
+- default
+- derivative-pricing
+- derivatives
+- duration
+- empirical-analysis
+- financial-institutions
+- financial-markets
+- graduate-level
+- hedge-fund
+- hedging
+- institutional-analysis
+- institutional-quality
+- learning-from-crisis
+- leverage
+- liquidity
+- liquidity-management
+- long-term-capital
+- margin-call
+- market-liquidity
+- market-neutral
+- market-structure
+- mathematical-finance
+- money-markets
+- professional-standard
+- provision
+- quant-fund
+- quantitative-methods
+- real-world-example
+- repo-markets
+- short-term-funding
+- tail-risk
+- yield-curve
+
 key_concepts:
-  - Hedge Fund Behavior
-  - LTCM Meltdown
-  - News Trade
-  - PBA Investor Decisions
-  - Performance Based Arbitrage
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Central Bank Liquidity Facilities
+- Commercial Paper Markets
+- Convergence Trading Strategies
+- Counterparty Risk Assessment
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Intermediation and Banking
+- Financial Market Fragility
+- Financial Markets and Institutions
+- Hedge Fund Crisis
+- Historical Financial Analysis
+- Institutional Analysis of Financial Systems
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Leverage and Risk
+- Liquidity Crisis and Management
+- Liquidity Risk and Management
+- Long Term Capital Management Case
+- Market Neutral Strategies
+- Market Structure and Microstructure
+- Money Market Fund Dynamics
+- Money Market Instruments
+- Quantitative Fund Management
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Regulatory Framework in Financial Markets
+- Repurchase Agreement Markets
+- Risk Management and Hedging Strategies
+- Short-Term Funding Markets
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
 
 LTCM Meltdown]]
 

@@ -1,24 +1,51 @@
 ---
 tags:
-  - call_option
-  - delta_hedging
-  - option_pricing
-  - static_hedging
-  - volatility
+- black-scholes
+- call
+- call_option
+- delta_hedging
+- digital
+- greeks
+- hedge
+- option
+- option_pricing
+- pde
+- risk-free-rate
+- static_hedging
+- volatility
 aliases:
-  - Option Hedging
-  - Static Hedge
-  - Uncertain Volatility
+- Option Hedging
+- Static Hedge
+- Uncertain Volatility
 key_concepts:
-  - Black-Scholes equation
-  - Delta hedging
-  - Digital option payoff
-  - Static hedging
-  - Volatility range
+- Black-Scholes equation
+- Delta hedging
+- Delta risk management
+- Delta-hedging implementation
+- Derivative securities
+- Digital option payoff
+- Dynamic hedging strategies
+- Dynamic replication
+- Financial risk management
+- Gamma effects on options
+- Gamma hedging techniques
+- Hedge ratio calculation
+- Hedging effectiveness
+- Options Greeks measurement
+- Portfolio insurance methods
+- Portfolio optimization
+- Portfolio risk hedging
+- Quantitative financial analysis
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Static hedging
+- Theta time decay
+- Vega hedging strategies
+- Vega volatility sensitivity
+- Volatility range
 ---
 
 # Uncertain Volatility with Static Hedge
-
 We begin with the Black-Scholes equation for pricing a vanilla option contract which is a  parabolic PDE with two variables,  $S$   and  $t$   and with constant parameters such as  $r,D$  , and sigma  (volatility).  Instead of pricing the option with constant volatility, this assumption can be relaxed  and we can assume volatility to be parameter that lies within certain range.
 
 Assume that volatility lies within the band
@@ -26,7 +53,7 @@ $$
 \sigma^{-}<\sigma<\sigma^{+}
 $$
 
-Construct a portfolio consisting of the value of a long call option   $V(S,t)$  ,  and hedge it by shorting  -  $\cdot\Delta$   of the underlying asset. The value of the portfolio becomes
+Construct a portfolio consisting of the value of a long call option   $V(S,t)$  ,  and hedge it by shorting  -  $\cdot\\Delta$   of the underlying asset. The value of the portfolio becomes
 $$
 \Pi=V-\Delta S\quad\mathrm{and}\qquad d s=u s d t+\sigma S d X
 $$
@@ -59,7 +86,7 @@ $$
 and
 $$
 \sigma(\Gamma)=\sigma^{+}\,i f\,\,\,\Gamma<0
-$$$$
+$\$$$
 \sigma(\Gamma)=\sigma^{-}\,i f\,\,\,\Gamma>0
 $$
 
@@ -81,7 +108,6 @@ $$
 $$
 
 # Static Hedging
-
 Unlike delta hedging, static hedging does not require dynamic rebalancing of the hedged  portfolio. For example, suppose we have long position of a digital option which we would like  to hedge. To hedge the position, we can use call spread and discrete hedge the position from  time to time., However, instead of continues rebalancing, we can set up a one time hedge with  the same instrument as above (call spread) but with an optimum number of call spread to use  for the static hedge.
 
 Consider the following example; suppose we want to buy a call option with strike price  $K_{1}$  with  the following payoff:
@@ -94,7 +120,7 @@ $$
 D i f f=M a x(S-K_{1})-\lambda M a x(S-K_{2},0)
 $$
 
-Were  $\lambda$   is the number of short positions we need to hedge the long call position. This portfolio  is said to be statically hedged and it has smaller payoff then the unhedged call.
+Were  $\\lambda$   is the number of short positions we need to hedge the long call position. This portfolio  is said to be statically hedged and it has smaller payoff then the unhedged call.
 
 To value the residual payoff (Diff) in the uncertain parameter framework, one needs to solve
 $$
@@ -107,7 +133,7 @@ V(S,T)=M a x(S-K_{1})-\lambda M a x(S-K_{2},0)
 $$
 To find the optimum hedge, we solve for the optimum number of calls to short. So, given  market price for the original call, the statically hedged portfolio with the final condition and  with the optimum hedge should produce more tighter spread using the volatility scenario under  the static hedge and uncertain parameter framework.
 
-We initially price up the digital call option and produce its payoff chart at expiry. To hedge the  digital call option we use a portfolio of long and short call options. As stated above, we price  up these options individually and show their payoff at expiry.
+We initially price up the digital call option and produce its payoff chart $\$a_t$$ expiry. To hedge the  digital call option we use a portfolio of long and short call options. As stated above, we price  up these options individually and show their payoff $$a_t$$ expiry.
 
  !500
 Figure 2.1 Digital Call
@@ -143,7 +169,6 @@ Due to the copy office package currently running on my PC, the solver is NOT ava
 
  !500
 # References
-
-M. Avellaneda, A. Levy, A. Paras,  “Pricing and hedging derivative securities in markets with uncertain  vol at ili ties” , Journal of   Applied Finance, Vol 1, 1995
+M. Avellaneda, A. Levy, A. Paras,  “Pricing and hedging derivative securities in markets with uncertain  vol $\$a_t$$ ili ties” , Journal of   Applied Finance, Vol 1, 1995
 
 Paul Wilmott,  P.Wilmott on Quantitative Finance”,  $2^{n d}$   Edition, Volume 3, Wiley.     CQF  Lecture 2010/2011 – Heath, Jarrow and Morton Model     CQF Lecture 2010/ 2011 - Advanced Volatility Modelling in Complete Markets     P. Wilmott, A. Oztukel, “

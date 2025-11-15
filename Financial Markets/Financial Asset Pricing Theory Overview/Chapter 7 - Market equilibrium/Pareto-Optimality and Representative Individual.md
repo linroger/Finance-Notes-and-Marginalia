@@ -1,21 +1,97 @@
 ---
-tags:
-  - consumption_allocation
-  - pareto_optimality
-  - risk_sharing
-  - utility_function
-  - welfare_theorem
 aliases:
-  - Central Planner
-  - Pareto optimal
-  - Second Welfare Theorem
+- Central Planner
+- Pareto optimal
+- Second Welfare Theorem
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Efficient market hypothesis
+- Market anomalies and patterns
+- Price discovery and information
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Pareto-Optimality and Representative Individual and financial analysis
+- Pareto-Optimality and Representative Individual in modern finance
+- Applications of Pareto-Optimality and Representative Individual
+- 'Case study: Pareto-Optimality and Representative Individual'
+last_enhanced: '2025-11-06 08:42:32'
+- market-efficiency
+- pricing
+- dividend
+- alpha
+- call
+- options
+- delta
+- risk-management
+- risk
+- var
+- irs
+- swaps
+tags:
+- bankruptcy
+- basis
+- case-study
+- crisis-analysis
+- currency
+- derivative-pricing
+- derivatives
+- empirical-analysis
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- market-efficiency
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- sovereign
+- stress-test
+- var
+
 key_concepts:
-  - Central planner's problem
-  - Feasible consumption plan
-  - Marginal rates of substitution
-  - Pareto-optimal consumption allocation
-  - Time-additive expected utility
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 7.2 Pareto-optimality and representative individuals  
 

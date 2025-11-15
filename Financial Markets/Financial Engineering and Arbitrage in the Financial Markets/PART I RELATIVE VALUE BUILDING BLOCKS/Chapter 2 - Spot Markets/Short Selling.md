@@ -1,22 +1,128 @@
 ---
-tags:
-  - brokerage_houses
-  - buying_on_margin
-  - fair_price_discovery
-  - margin_accounts
-  - short_selling
 aliases:
-  - Going Short
-  - Short Sale
-  - Shorting
+- Going Short
+- Short Sale
+- Shorting
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Credit analysis and rating
+- Default probability modeling
+- Loss given default estimation
+- Short Selling and financial analysis
+- Short Selling in modern finance
+- Applications of Short Selling
+- 'Case study: Short Selling'
+last_enhanced: '2025-11-06 08:42:32'
+- forward
+- coupon
+- futures
+- duration
+- options
+- fixed-income
+- put
+- roll
+- bond
+- bonds
+- collateral
+- credit-risk
+- call
+- expiry
+- yield
+tags:
+- arbitrage
+- basis
+- bid-ask
+- bond
+- case-study
+- cash-flow
+- central-bank
+- cftc
+- collateral
+- commodity
+- counterparty
+- crisis-analysis
+- default
+- derivative-pricing
+- derivatives
+- duration
+- econometric
+- empirical-analysis
+- equity
+- fixed-income
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- leverage
+- margin-call
+- margin-requirement
+- mathematical-finance
+- professional-standard
+- provision
+- quantitative-analysis
+- quantitative-methods
+- real-world-example
+- repo
+- sec-regulation
+- securitization
+- spread
+- statistical-model
+- structured-product
+- synthetic
+- yield-curve
+
 key_concepts:
-  - borrowing securities
-  - broker's pool
-  - buying on margin
-  - margin accounts
-  - repurchasing securities
-  - selling securities
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Econometric Analysis
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Econometrics
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Mathematical Finance Applications
+- Mathematical Modeling
+- Quantitative Analysis in Finance
+- Quantitative Methods in Finance
+- Quantitative Risk Management
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Statistical Finance
+- Statistical Modeling
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 2.6 SHORT SELLING  
 

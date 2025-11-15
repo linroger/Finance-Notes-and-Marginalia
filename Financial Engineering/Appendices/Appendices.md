@@ -1,40 +1,70 @@
 ---
 cssclasses:
-  - academia
+- academia
 title: Appendices
 tags:
-  - appendices
-  - financial-engineering
-  - options-pricing
-  - mathematical-proofs
-  - forward-pricing
-  - futures-pricing
-  - black-scholes
-  - risk-neutral-pricing
-  - binomial-model
-  - wiener-process
-  - interest-rate-models
+- appendices
+- binomial
+- binomial-model
+- black-scholes
+- brownian
+- dcf
+- financial-engineering
+- forward
+- forward-pricing
+- future
+- futures-pricing
+- interest-rate
+- interest-rate-models
+- mathematical-proofs
+- oil
+- option
+- options-pricing
+- pde
+- real-option
+- risk-neutral-pricing
+- wiener-process
 aliases:
-  - Appendix Collection
-  - Mathematical Appendices
-  - Financial Mathematics Appendices
+- Appendix Collection
+- Mathematical Appendices
+- Financial Mathematics Appendices
 key_concepts:
-  - Tax implications on forwards
-  - Random interest rates
-  - Strike price relations
-  - Option grant accounting
-  - Real options valuation
-  - Normal probability plots
-  - Geometric average options
-  - DCF valuation
-  - PDE solutions
-  - Risk-neutral pricing
-  - Reflection principle
-  - BDT tree construction
+- American options valuation
+- BDT tree construction
+- Backward induction algorithm
+- Binomial option pricing model
+- Convergence to Black-Scholes
+- Cox-Ross-Rubinstein framework
+- DCF valuation
+- Derivative securities
+- Discounted Cash Flow valuation
+- Enterprise value estimation
+- Financial risk management
+- Free cash flow modeling
+- Geometric average options
+- Gordon growth model
+- Lattice methods for derivatives
+- Multi-period binomial tree
+- Multi-stage DCF models
+- Normal probability plots
+- Option grant accounting
+- PDE solutions
+- Portfolio optimization
+- Quantitative financial analysis
+- Random interest rates
+- Real options valuation
+- Reflection principle
+- Risk assessment and mitigation
+- Risk-neutral pricing
+- Risk-neutral probability
+- Strike price relations
+- Tax implications on forwards
+- Terminal value calculation
+- WACC calculation
+- Weighted Average Cost of Capital
 ---
 
 # Appendices
-
 %% Begin Waypoint %%
 - **Appendices]]**
 	- Appendices]]
@@ -52,5 +82,4 @@ key_concepts:
 	- Appendix 22.C Risk-Neutral Pricing and Marginal Utility in the Binomial Model]]
 	- Appendix 23.A The Reflection Principle for Wiener Process]]
 	- Appendix 25. A Constructing the BDT Tree]]
-
 %% End Waypoint %%

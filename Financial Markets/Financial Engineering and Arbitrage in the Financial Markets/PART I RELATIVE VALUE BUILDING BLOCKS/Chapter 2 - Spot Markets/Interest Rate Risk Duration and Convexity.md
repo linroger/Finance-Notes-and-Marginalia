@@ -1,22 +1,124 @@
 ---
-tags:
-  - bond_convexity
-  - bond_duration
-  - interest_rate_risk
-  - macaulay_duration
-  - yield_to_maturity
 aliases:
-  - Bond Risk
-  - Duration and Convexity
-  - Interest Rate Risk
-  - PVBP
+- Bond Risk
+- Duration and Convexity
+- Interest Rate Risk
+- PVBP
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Interest Rate Risk Duration and Convexity and financial analysis
+- Interest Rate Risk Duration and Convexity in modern finance
+- Applications of Interest Rate Risk Duration and Convexity
+- 'Case study: Interest Rate Risk Duration and Convexity'
+last_enhanced: '2025-11-06 08:42:32'
+- maturity
+- coupon
+- interest-rate
+- duration
+- options
+- fixed-income
+- put
+- bond
+- convexity
+- yield-curve
+- portfolio
+- bonds
+- delta
+- corporate-bond
+- interest-rates
+tags:
+- arbitrage
+- basis
+- bid-ask
+- bond
+- case-study
+- cash-flow
+- corporate-bond
+- credit-curve
+- credit-market
+- crisis-analysis
+- default
+- derivative-pricing
+- derivatives
+- duration
+- econometric
+- empirical-analysis
+- fixed-income
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-analysis
+- quantitative-methods
+- real-world-example
+- sec-regulation
+- securitization
+- sovereign
+- spread
+- statistical-model
+- tail-risk
+- volatility
+- yield-curve
+
 key_concepts:
-  - Bond cash flows
-  - Bond price fluctuations
-  - Coupon rate impact
-  - Interest rate risk
-  - Macaulay duration calculation
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Econometric Analysis
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Econometrics
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Mathematical Finance Applications
+- Mathematical Modeling
+- Quantitative Analysis in Finance
+- Quantitative Methods in Finance
+- Quantitative Risk Management
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Statistical Finance
+- Statistical Modeling
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 2.4 INTEREST RATE RISK: DURATION AND CONVEXITY  
 

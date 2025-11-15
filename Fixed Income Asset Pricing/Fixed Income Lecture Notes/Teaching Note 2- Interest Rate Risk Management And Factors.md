@@ -1,27 +1,54 @@
 ---
 cssclasses:
-  - academia
+- academia
 linter-yaml-title-alias: TREASURY TRANSACTION AND CASH FLOW ANALYSIS
 title: Teaching Note 2Interest Rate Risk Management And Factors
 tags:
-  - coupon_bond
-  - duration
-  - interest_rate_risk
-  - pvbp
-  - zero_coupon_bond
+- arbitrage
+- banking
+- bond-convexity
+- bond-durability
+- convexity
+- coupon-bonds
+- coupon_bond
+- delta-gamma-vega
+- delta-hedging
+- duration
+- duration-hedging
+- futures-contracts
+- government-bonds
+- hedge-ratios
+- hedging-strategies
+- interest-rates
+- interest_rate_risk
+- options-greeks
+- portfolio-management
+- pvbp
 aliases:
-  - Duration
-  - Interest Rate Risk
-  - PVBP
+- Duration
+- Interest Rate Risk
+- PVBP
 key_concepts:
-  - Duration definition
-  - Interest rate sensitivity
-  - Macaulay duration
-  - Modified duration
-  - Portfolio duration calculation
-  - Price value basis point
-  - Zero coupon bond duration
+- Delta hedging strategies in options markets
+- Duration and interest rate risk measurement
+- Convexity adjustments in fixed income
+- Yield curve modeling and term structure analysis
+- Value at Risk (VaR) and risk metrics
+- Arbitrage opportunities and relative value trading
+- Term structure of interest rates and yield curves
+- Futures contracts and forward pricing
+- Practical examples and implementation
+- Trading strategies and market implementation
+- Risk management techniques and best practices
+- Investment analysis and portfolio management
+- Fixed income securities and bond markets
+- Risk assessment and management frameworks
+last_enhanced: '2025-11-06 08:42:39'
 ---
+
+
+
+
 
  !500
 

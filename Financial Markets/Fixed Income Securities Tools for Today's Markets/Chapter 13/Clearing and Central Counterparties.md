@@ -1,21 +1,124 @@
 ---
-tags:
-  - bilateral_swaps
-  - ccp_risk
-  - central_counterparties
-  - cleared_swaps
-  - clearinghouse
 aliases:
-  - Bilateral Swap
-  - CCP
-  - Cleared Swap
+- Bilateral Swap
+- CCP
+- Cleared Swap
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Credit analysis and rating
+- Default probability modeling
+- Loss given default estimation
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Clearing and Central Counterparties and financial analysis
+- Clearing and Central Counterparties in modern finance
+- Applications of Clearing and Central Counterparties
+- 'Case study: Clearing and Central Counterparties'
+last_enhanced: '2025-11-06 08:42:35'
+- options
+- credit-risk
+- leverage
+- call
+- var
+- swaps
+- volatility
+- default
+- counterparty
+- put
+- irs
+- collateral
+- swap
+- risk-management
+- cds
+tags:
+- basis
+- bond
+- case-study
+- cash-flow
+- collateral
+- collateral-haircut
+- counterparty
+- credit-market
+- crisis-analysis
+- currency
+- default
+- derivative-pricing
+- derivatives
+- empirical-analysis
+- equity
+- fixed-income
+- graduate-level
+- haircut
+- hedging
+- institutional-quality
+- learning-from-crisis
+- leverage
+- liquidity
+- margin-call
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- repo
+- risk-weight
+- sec-regulation
+- securitization
+- stress-test
+- systemic-risk
+- valuation-discount
+- var
+- volatility
+
 key_concepts:
-  - Bilateral vs. Cleared Swaps
-  - Cash flow risk
-  - Central Counterparty (CCP)
-  - Clearinghouse Members
-  - Default Backstopping
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Collateral Adequacy
+- Collateral Haircut Models
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Institutions
+- Haircut and Valuation Adjustments
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Market Risk Adjustments
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management Haircuts
+- Risk Management and Hedging Strategies
+- Risk Weight Calculations
+- Risk-Based Haircuts
+- Valuation Discounts
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # 13.5 CLEARING AND CENTRAL COUNTERPARTIES  
 

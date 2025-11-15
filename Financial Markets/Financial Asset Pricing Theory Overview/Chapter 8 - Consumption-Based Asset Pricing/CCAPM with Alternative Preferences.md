@@ -1,20 +1,106 @@
 ---
-tags:
-  - ccapm
-  - consumption_based_model
-  - habit_formation
-  - risk_aversion
-  - state_dependent_preferences
 aliases:
-  - Alternative Preferences
-  - CCAPM
+- Alternative Preferences
+- CCAPM
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Efficient market hypothesis
+- Market anomalies and patterns
+- Price discovery and information
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- CCAPM with Alternative Preferences and financial analysis
+- CCAPM with Alternative Preferences in modern finance
+- Applications of CCAPM with Alternative Preferences
+- 'Case study: CCAPM with Alternative Preferences'
+last_enhanced: '2025-11-06 08:42:32'
+- portfolio
+- market-efficiency
+- interest-rates
+- alpha
+- interest-rate
+- call
+- options
+- gamma
+- delta
+- risk-management
+- theta
+- put
+- optimization
+- var
+- portfolio-optimization
+tags:
+- asian-crisis
+- banking
+- case-study
+- cash-flow
+- crisis-analysis
+- derivative-pricing
+- derivatives
+- duration
+- empirical-analysis
+- equity
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- market-efficiency
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- sovereign
+- stress-test
+- tail-risk
+- var
+- volatility
+
 key_concepts:
-  - consumption-based model
-  - habit formation
-  - relative risk aversion
-  - risk-free asset
-  - state-price deflator
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 8.7 CCAPM with alternative preferences  
 

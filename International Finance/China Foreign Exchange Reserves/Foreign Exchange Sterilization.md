@@ -4,22 +4,33 @@ description: Sterilization is a form of monetary action in which a central bank 
 source: https://www.investopedia.com/terms/s/sterilization.asp
 title: Foreign Exchange Sterilization
 tags:
-  - capital_flows
-  - central_bank
-  - foreign_exchange
-  - monetary_policy
-  - sterilization
+- banking
+- capital_flows
+- central_bank
+- foreign_exchange
+- forward-contracts
+- forward-rates
+- government-bonds
+- monetary_policy
+- portfolio-management
+- sterilization
+- swaps
 aliases:
-  - FX Sterilization
-  - Monetary Sterilization
+- FX Sterilization
+- Monetary Sterilization
 key_concepts:
-  - central bank market operations
-  - classical sterilization
-  - fiscal policy measures
-  - limit capital flow effects
-  - manipulate currency value
-  - stem negative economic effects
+- Forward rate calculations and forward curve construction
+- Interest rate swaps and swap curve construction
+- Financial theory and academic research
+- Practical examples and implementation
+- Investment analysis and portfolio management
+- Fixed income securities and bond markets
+last_enhanced: '2025-11-06 08:42:47'
 ---
+
+
+
+
 
 # Foreign Exchange Sterilization
 ## What Is Sterilization?

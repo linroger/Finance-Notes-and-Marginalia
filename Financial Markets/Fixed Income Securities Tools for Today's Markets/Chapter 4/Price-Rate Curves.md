@@ -1,22 +1,108 @@
 ---
-tags:
-  - bond_pricing
-  - bond_yields
-  - hqm_curve
-  - interest_rate_risk
-  - price_rate_curves
-  - treasury_bonds
 aliases:
-  - Bond Sensitivity
-  - HQM Curve
-  - Price-Rate Curve
+- Bond Sensitivity
+- HQM Curve
+- Price-Rate Curve
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Price-Rate Curves and financial analysis
+- Price-Rate Curves in modern finance
+- Applications of Price-Rate Curves
+- 'Case study: Price-Rate Curves'
+last_enhanced: '2025-11-06 08:42:36'
+- options
+- treasury
+- call
+- coupon
+- yield
+- fixed-income
+- corporate-bond
+- spread
+- put
+- liquidity
+- bond
+- futures
+- bonds
+- convexity
+- dv01
+tags:
+- arbitrage
+- basis
+- bid-ask
+- bond
+- case-study
+- corporate-bond
+- credit-curve
+- crisis-analysis
+- derivative-pricing
+- derivatives
+- duration
+- empirical-analysis
+- fixed-income
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- liquidity
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- sec-regulation
+- securitization
+- spread
+- treasury
+- yield-curve
+
 key_concepts:
-  - 30-year par rate
-  - Bond price sensitivity
-  - Bond yield spreads
-  - HQM par rate curve
-  - Interest rate risk metrics
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # 4.1 PRICE-RATE CURVES  
 

@@ -1,63 +1,132 @@
 ---
-cssclasses: academia
-linter-yaml-title-alias: LECTURE NOTE 5 BLACK SCHOLES FORMULA
-title: Lecture Note 5- Black Scholes Formula
-tags:
-  - black_scholes_formula
-  - delta_hedging
-  - dynamic_replication
-  - option_premium
-  - option_pricing
+title: Lecture Note 5 - Black Scholes Formula
 aliases:
-  - Black Scholes Formula
-  - Black and Scholes Formula
-  - Lecture Note 5- Black Scholes Formula
+- Black Scholes Formula
+- Black and Scholes Formula
+- Lecture Note 5 - Black Scholes Formula
 key_concepts:
-  - Black Scholes Formula
-  - Delta Hedging
-  - Dynamic Replication
-  - Option Premium
-  - Replicating Portfolio
+- American options valuation
+- Backward induction algorithm
+- Binomial option pricing model
+- Black Scholes Formula
+- Convergence to Black-Scholes
+- Cox-Ross-Rubinstein framework
+- Delta Hedging
+- Delta risk management
+- Delta-hedging implementation
+- Derivative securities
+- Dynamic Replication
+- Dynamic hedging strategies
+- Dynamic replication
+- Financial risk management
+- Gamma effects on options
+- Gamma hedging techniques
+- Hedge ratio calculation
+- Hedging effectiveness
+- Lattice methods for derivatives
+- Multi-period binomial tree
+- Option Premium
+- Options Greeks measurement
+- Portfolio insurance methods
+- Portfolio optimization
+- Portfolio risk hedging
+- Quantitative financial analysis
+- Replicating Portfolio
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Risk-neutral probability
+- Static hedging
+- Theta time decay
+- Vega hedging strategies
+- Vega volatility sensitivity
+tags:
+- beta
+- binomial
+- black-scholes
+- black-scholes-formula
+- bond
+- call
+- convexity
+- currency
+- defi
+- delta-hedging
+- dividend-yield
+- dynamic-replication
+- equity
+- european
+- forward
+- future
+- greeks
+- hedge
+- interest-rate
+- lecture-notes
+- option
+- option-premium
+- option-pricing
+- put
+- risk-free-rate
+- sharpe
+- stock
+- transaction-cost
+- treasury
 ---
 
-# Lecture Note 5- Black Scholes Formula
+# Lecture Note 5 - Black Scholes Formula
 
-## FINANCIAL INSTRUMENTS TEACHING NOTE 5 BLACK AND SCHOLES FORMULA
-1. Black and Scholes Formula
-   1.1 Dynamic Replication
-   1.2 Black and Scholes and the Binomial Trees
-   1.3 Delta, Gamma, and other Greeks
-   1.4 Options' Beta and Expected Returns
-   1.5 Delta Hedging
-   1.6 Delta Gamma Hedging
+## Table of Contents
 
-## OPTION PREMIUM
-- Black, Scholes and Merton show that (under certain conditions) there exists a trading strategy
-involving only stocks and bonds that *replicate* the payoff at $T$ of a call or a put option.
-- Assume a stock $S_{t}$ has constant expected (log) return $µ$ and constant volatility $\sigma$.
-- That is, if the log return during a small time interval $h$ be ${} R_t = log\left(\frac{S_{t+h}}{S_t} \right) {}$, assume
-$$E[R_{t}]=\mu\times h;\;\;E[R_{t}^{2}]=\sigma^{2}\times h$$
-- (µ and σ are the annualized expected log return and volatility)
-- Consider now a put option with strike price K and maturity T.
-- The following trading strategy **replicates** the final payoff $max(K − S_T, 0)$.
+1. Dynamic Replication
+2. Black-Scholes and Binomial Trees
+3. Delta, Gamma, and Other Greeks
+4. Options' Beta and Expected Returns
+5. Delta Hedging
+6. Delta-Gamma Hedging
 
-## OPTION PREMIUM BY DYNAMIC REPLICATION
-1. At time 0:
-   (a) Short $∆0 = −N(−d_{1, 0})$ of stocks
-   - Here $N(x)$ is the standard normal cumulative density function, and $d_{1, t}$ is
-   $$d_{1, t}=\frac{\ln\left(S_{t}/K\right)+\left(r+\sigma^{2}/2\right)\left(T-t\right)}{\sigma\sqrt{T-t}}$$
-   - $r$ is the continuously compounded risk free rate; $\sigma$ is the volatility of stock returns.
-   
-   (b) Buy an amount $B_0 = K × e^{−r×T} × N(−d_{2, 0})$ of Treasury Zero Coupon bonds.
-   - Here $d_{2, 0} = d_{1, 0} − \sigma × \sqrt{T}$.
-   - The portfolio so constructed has value at time 0
-   $$P_{0}=B_{0}+\Delta_{0}S_{0}$$
-   - (it can be shown P0 > 0).
+## Introduction
 
-[^2]: From now on, *rebalance* the portfolio, to make sure that at every t, the portfolio has a position in stocks given by
-   $$∆t = −N(−d_{1, t})$$
-   - E.g. if $S_{t}$ ↓ ⇒ $∆t$ ↓ ⇒ short more stocks and put proceeds into bonds ⇒ $B_{t}$ ↑.
-   - Or if $S_{t}$ ↑ ⇒ $∆t ↑$ ⇒ buy back stocks by liquidating some bonds ⇒ $B_{t}$ ↓.
+The Black-Scholes formula represents one of the most significant contributions to financial theory, providing a closed-form solution for pricing European options. This lecture explores the theoretical foundations, practical applications, and risk management implications of the Black-Scholes model.
+
+## Option Premium by Dynamic Replication
+
+### Theoretical Foundation
+
+Black, Scholes and Merton demonstrated that (under certain conditions) there exists a trading strategy involving only stocks and bonds that *replicate* the payoff at $T$ of a call or a put option.
+
+Assume a stock $S_t$ has constant expected (log) return $\mu$ and constant volatility $\sigma$. That is, if the log return during a small time interval $h$ is:
+$$R_t = \log\left(\frac{S_{t+h}}{S_t}\right)$$
+
+Assume:
+$$E[R_t] = \mu \times h$$
+$$E[R_t^2] = \sigma^2 \times h$$
+
+where $\mu$ and $\sigma$ are the annualized expected log return and volatility respectively.
+
+### Replicating Strategy at Time 0
+
+Consider a put option with strike price $K$ and maturity $T$. The following trading strategy **replicates** the final payoff $\max(K - S_T, 0)$:
+
+#### Step 1: Initial Portfolio Construction
+
+**(a) Stock Position:**
+Short $\Delta_0 = -N(-d_{1, 0})$ shares of stock
+
+where:
+- $N(x)$ is the standard normal cumulative density function
+- $d_{1, t} = \frac{\ln(S_t/K) + (r + \sigma^2/2)(T - t)}{\sigma\sqrt{T - t}}$
+- $r$ is the continuously compounded risk-free rate
+- $\sigma$ is the volatility of stock returns
+
+**(b) Bond Position:**
+Buy $B_0 = K \times e^{-r \times T} \times N(-d_{2, 0})$ of Treasury Zero Coupon bonds
+
+where $d_{2, 0} = d_{1, 0} - \sigma \times \sqrt{T}$
+
+#### Step 2: Portfolio Value
+
+The portfolio value at time 0 is:
+$$P_0 = B_0 + \Delta_0 S_0$$
+
+(It can be shown $P_0 > 0$)
 
 ## OPTION PREMIUM BY DYNAMIC REPLICATION
 - For instance, let $S$ = K = 100, T = 1, r = 5%, σ = 20%. Then,

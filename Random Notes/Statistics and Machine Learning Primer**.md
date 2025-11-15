@@ -1,3 +1,37 @@
+---
+tags:
+- caps-floors
+- credit-risk
+- derivatives-pricing
+- forward-contracts
+- futures-contracts
+- gaussian-hjm-model
+- monte-carlo-simulation
+- options
+- options-greeks
+- portfolio-management
+- risk-neutral-measure
+- time-series
+- trading-strategies
+- value-at-risk
+key_concepts:
+- Monte Carlo simulation methods for derivatives pricing
+- Value at Risk (VaR) and risk metrics
+- Model calibration and parameter estimation
+- Risk-neutral pricing and martingale measures
+- Futures contracts and forward pricing
+- Practical examples and implementation
+- Derivatives and structured financial instruments
+- Trading strategies and market implementation
+- Risk management techniques and best practices
+- Financial valuation and pricing methodologies
+- International finance and global markets
+- Basel regulations and banking capital requirements
+last_enhanced: '2025-11-06 08:42:51'
+---
+
+
+
 # **Statistics and Machine Learning Primer**
 
 ## **Table of Contents**

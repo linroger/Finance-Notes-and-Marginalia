@@ -1,36 +1,164 @@
 ---
-cssclasses:
-  - academia
-title: "Class 7: CP, Repo, and the Crisis"
-linter-yaml-title-alias: "Class 7: CP, Repo, and the Crisis"
-tags:
-  - banking_crisis
-  - commercial_paper
-  - financial_crisis
-  - lehman_brothers
-  - repo_market
-  - 2008_crisis
-  - shadow_banking
-  - securitization
-  - asset_backed_cp
-  - money_markets
 aliases:
-  - "CP and Repo Crisis"
-  - Financial Crisis
-  - Repo Crisis
-  - "Class 7 CP Repo Crisis"
+- CP and Repo Crisis
+- Financial Crisis
+- Repo Crisis
+- Class 7 CP Repo Crisis
+cssclasses:
+- academia
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Mortgage-backed securities structure
+- Prepayment modeling and analysis
+- Securitization and CDO structures
+- Financial regulation and compliance
+- Basel III capital requirements
+- Dodd-Frank Act implications
+- Class 7- CP, Repo, and the Crisis and financial analysis
+- Class 7- CP, Repo, and the Crisis in modern finance
+- Applications of Class 7- CP, Repo, and the Crisis
+- 'Case study: Class 7- CP, Repo, and the Crisis'
+linter-yaml-title-alias: 'Class 7: CP, Repo, and the Crisis'
+- credit
+- pricing
+- regulation
+- securitization
+- risk
+- cds
+- liquidity
+- default
+- recovery
+- subprime
+- mbs
+title: 'Class 7: CP, Repo, and the Crisis'
+tags:
+- abcp
+- abs
+- asset-backed-cp
+- bank-run
+- banking
+- basel
+- basis
+- bid-ask
+- bond
+- case-study
+- cdo
+- collateralized-lending
+- commercial-paper
+- covid-crisis
+- cp-rate
+- credit-market
+- credit-rating
+- crisis-2008
+- crisis-analysis
+- default
+- derivatives
+- dodd-frank
+- empirical-analysis
+- financial-crisis
+- financial-institutions
+- financial-markets
+- financial-regulation
+- governance
+- graduate-level
+- institutional-analysis
+- institutional-quality
+- learning-from-crisis
+- liquidity
+- liquidity-management
+- market-liquidity
+- market-structure
+- mathematical-finance
+- mbs
+- money-market
+- money-market-fund
+- money-markets
+- northern-rock
+- overnight-funding
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- regulatory-compliance
+- repo
+- repo-market
+- repo-markets
+- repo-rate
+- repurchase-agreement
+- rmbs
+- sec-regulation
+- securitization
+- short-term-funding
+- structured-product
+- supervision
+- tri-party-repo
+
 key_concepts:
-  - Commercial paper market stress
-  - Repo market dynamics
-  - Asset-backed commercial paper
-  - Lehman Brothers collapse
-  - Northern Rock case study
-  - Securitized banking system
-  - Fire sales and illiquidity
-  - SIV structures
-  - Credit crisis mechanisms
-  - COVID-19 market interventions
+- Asset-Backed Commercial Paper
+- Bank Supervision
+- Banking and Financial Intermediation
+- CP Investor Base
+- Case Study Methodology
+- Central Bank Liquidity Facilities
+- Collateral Management
+- Collateralized Lending
+- Commercial Paper Markets
+- Commercial Paper Rates
+- Commercial Paper Risk Assessment
+- Compliance Management
+- Corporate Governance
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Intermediation and Banking
+- Financial Markets and Institutions
+- Financial Regulation
+- Governance Standards
+- Historical Financial Analysis
+- Institutional Analysis of Financial Systems
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Liquidity Crisis and Management
+- Liquidity Risk and Management
+- Market Structure and Microstructure
+- Money Market Dynamics
+- Money Market Fund Dynamics
+- Money Market Fund Regulation
+- Money Market Instruments
+- Overnight Funding Markets
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Regulatory Compliance
+- Regulatory Framework
+- Regulatory Framework in Financial Markets
+- Regulatory Risk
+- Repo Market Dynamics
+- Repo Market Regulation
+- Repo Rates and Spreads
+- Repurchase Agreement Markets
+- Risk Management and Hedging Strategies
+- Short-Term Funding Markets
+- Short-Term Funding Strategies
+- Tri-Party Repo Arrangements
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
 
 # Class 7: CP, Repo, and the Crisis
 

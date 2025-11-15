@@ -1,34 +1,82 @@
 ---
 title: Financial Markets and Institutions Lecture Notes
 tags:
-  - agency_problems
-  - asset_substitution_theory
-  - borrower_lender_conflicts
-  - capital_structure
-  - debt_capacity
-  - financial_institutions
-  - debt_contracts
-  - corporate_control
-  - leverage_effects
-  - bankruptcy_risk
-  - asymmetric_information
+- abs
+- acquisition
+- agency_problems
+- asset_substitution_theory
+- asymmetric_information
+- bankruptcy_risk
+- beta
+- bid-ask
+- bond
+- borrower_lender_conflicts
+- call
+- capital-structure
+- capital_structure
+- contagion
+- corporate_control
+- covid
+- credit-risk
+- debt_capacity
+- debt_contracts
+- defi
+- dodd-frank
+- equity
+- financial-crisis
+- financial_institutions
+- fire-sale
+- fixed-income
+- implied-vol
+- interest-rate
+- lehman
+- leverage-ratio
+- leverage_effects
+- leveraged-buyout
+- liquidity
+- liquidity-risk
+- long-term-capital
+- ltcm
+- margin-call
+- market-impact
+- market-neutral
+- mbs
+- merger
+- merger-arbitrage
+- option
+- put
+- stress-test
+- treasury
 aliases:
-  - Financial Institutions Lecture Notes
-  - Financial Markets Lecture Notes
-  - Markets and Institutions Notes
+- Financial Institutions Lecture Notes
+- Financial Markets Lecture Notes
+- Markets and Institutions Notes
 key_concepts:
-  - Asset substitution theory
-  - Borrower-Lender conflicts
-  - Debt capacity impact
-  - Implied agency problems
-  - Perverse incentive effects
-  - Debt contract monitoring
-  - Credit risk assessment
-  - Information asymmetry
-  - Leverage and capital structure
-  - Covenant enforcement
-  - Single lender advantages
-  - Federal Trust Indenture Act
+- Asset substitution theory
+- Borrower-Lender conflicts
+- CDO structure
+- Covenant enforcement
+- Credit risk assessment
+- Credit tranching
+- Debt capacity impact
+- Debt contract monitoring
+- Derivative securities
+- Federal Trust Indenture Act
+- Financial risk management
+- Implied agency problems
+- Information asymmetry
+- Leverage and capital structure
+- Mortgage-backed securities
+- Option-adjusted spread
+- PSA curves
+- Perverse incentive effects
+- Portfolio optimization
+- Prepayment modeling
+- Quantitative financial analysis
+- Risk assessment and mitigation
+- Single lender advantages
+- Subprime crisis
+- Waterfall mechanics
 cssclasses: academia
 ---
 

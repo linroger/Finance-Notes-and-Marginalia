@@ -1,21 +1,115 @@
 ---
-tags:
-  - cash_and_carry
-  - commodity_markets
-  - convenience_yield
-  - financial_assets
-  - futures_contracts
 aliases:
-  - Commodities
-  - Convenience Assets
-  - Futures
+- Commodities
+- Convenience Assets
+- Futures
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Financial accounting standards
+- GAAP and IFRS differences
+- Mark-to-market accounting
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Futures Not Subject to Cash-And-Carry and financial analysis
+- Futures Not Subject to Cash-And-Carry in modern finance
+- Applications of Futures Not Subject to Cash-And-Carry
+- 'Case study: Futures Not Subject to Cash-And-Carry'
+last_enhanced: '2025-11-06 08:42:33'
+- forward
+- coupon
+- options
+- fixed-income
+- put
+- fair-value
+- bond
+- accounting
+- bonds
+- contango
+- call
+- futures
+- backwardation
+- yield
+- expiry
+tags:
+- arbitrage
+- basis
+- bid-ask
+- bond
+- case-study
+- cash-flow
+- cftc
+- commodity
+- crisis-analysis
+- currency
+- derivative-pricing
+- derivatives
+- duration
+- empirical-analysis
+- equity
+- fair-value
+- fixed-income
+- flash-crash
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- repo
+- sec-regulation
+- securitization
+- sovereign
+- spread
+- yield-curve
+
 key_concepts:
-  - Commodities convenience assets
-  - Convenience yield definition
-  - Cost-of-carry equation
-  - Futures not cash-and-carry
-  - Pure financial assets
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 3.4  FUTURES NOT SUBJECT TO CASH-AND-CARRY  
 

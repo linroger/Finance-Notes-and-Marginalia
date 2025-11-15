@@ -1,3 +1,58 @@
+---
+tags:
+- arbitrage
+- asset-pricing
+- banking
+- basis-risk
+- bond-convexity
+- bond-durability
+- convexity
+- credit-spreads
+- financial-regulation
+- forward-contracts
+- forward-rates
+- futures-contracts
+- hedging-strategies
+- high-yield
+- interest-rates
+- investment-grade
+- libor
+- liquidity-risk
+- market-structure
+- martingales
+key_concepts:
+- Monte Carlo simulation methods for derivatives pricing
+- Duration and interest rate risk measurement
+- Convexity adjustments in fixed income
+- Yield curve modeling and term structure analysis
+- Forward rate calculations and forward curve construction
+- Value at Risk (VaR) and risk metrics
+- Stress testing and scenario analysis
+- Arbitrage opportunities and relative value trading
+- Risk-neutral pricing and martingale measures
+- Term structure of interest rates and yield curves
+- 'Reference rates: SOFR, LIBOR, and rate transitions'
+- Futures contracts and forward pricing
+- Interest rate swaps and swap curve construction
+- Credit spreads and credit risk assessment
+- Liquidity risk management and measurement
+- Practical examples and implementation
+- Derivatives and structured financial instruments
+- Trading strategies and market implementation
+- Risk management techniques and best practices
+- Financial regulation and compliance requirements
+- Investment analysis and portfolio management
+- Financial valuation and pricing methodologies
+- Fixed income securities and bond markets
+- International finance and global markets
+- Monetary policy and central banking
+- Financial crises and market stress events
+- Basel regulations and banking capital requirements
+last_enhanced: '2025-11-06 08:42:52'
+---
+
+
+
 # The Comprehensive Guide to Floating-Rate Notes: From Theory to Practice
 ## Executive Abstract
 Floating-Rate Notes (FRNs) represent a fundamental innovation in fixed income markets, offering variable coupons that reset periodically based on reference rates plus a quoted spread. This primer develops a rigorous analytical framework for understanding, pricing, and managing FRNs in today's post-LIBOR environment. FRNs' defining characteristic—minimal price sensitivity to interest rate movements—has made them increasingly valuable tools for balance sheet management, particularly during monetary policy uncertainty. The transition from LIBOR to risk-free rates like SOFR has fundamentally transformed the FRN landscape, requiring practitioners to adapt pricing methodologies, risk metrics, and trading strategies. Understanding these instruments' unique properties allows investors to capitalize on their distinct risk-return profile while enabling issuers to optimize funding strategies across different market environments.

@@ -1,26 +1,120 @@
 ---
-tags:
-  - bond_pricing
-  - equilibrium
-  - interest_rate_models
-  - mean_reversion
-  - ornstein_uhlenbeck_process
-  - vasicek_model
-  - yield_curve
 aliases:
-  - Ornstein-Uhlenbeck
-  - Short-term interest rate
-  - Vasicek
-  - Zero-coupon bond
+- Ornstein-Uhlenbeck
+- Short-term interest rate
+- Vasicek
+- Zero-coupon bond
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Yield curve construction and modeling
+- Forward rate calculations
+- Spot and discount factors
+- Equilibrium Interest Rate Models and financial analysis
+- Equilibrium Interest Rate Models in modern finance
+- Applications of Equilibrium Interest Rate Models
+- 'Case study: Equilibrium Interest Rate Models'
+last_enhanced: '2025-11-06 08:42:30'
+- yield-curve
+- coupon
+- interest-rates
+- term-structure
+- interest-rate
+- bonds
+- call
+- options
+- gamma
+- risk-management
+- delta
+- maturity
+- bond
+- theta
+- yield
+tags:
+- asian-crisis
+- austerity
+- bond
+- case-study
+- cash-flow
+- credit-curve
+- crisis-analysis
+- derivative-pricing
+- derivatives
+- duration
+- empirical-analysis
+- european
+- european-debt-crisis
+- eurozone
+- graduate-level
+- grexit
+- hedging
+- institutional-quality
+- learning-from-crisis
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- sovereign
+- sovereign-debt
+- stress-test
+- treasury
+- var
+- volatility
+- yield-curve
+
 key_concepts:
-  - Bond pricing and yield curve
-  - Equilibrium real interest rate
-  - Market price of risk
-  - Mean reversion in drift
-  - Ornstein-Uhlenbeck process
-  - Stochastic differential equation (SDE)
-  - Vasicek interest rate model
+- Austerity Measures
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Currency Union Risks
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- European Debt Crisis
+- European Integration
+- Eurozone Crisis Management
+- Financial Crisis Case Studies
+- Financial Markets and Institutions
+- Fiscal Integration
+- Greek Debt Crisis
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Sovereign Debt Restructuring
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 10.5 Equilibrium interest rate models  
 

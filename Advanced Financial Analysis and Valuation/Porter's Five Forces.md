@@ -1,29 +1,47 @@
 ---
 title: Porter's Five Forces
 cssclasses:
-  - academia
+- academia
 tags:
-  - competitive_strategy
-  - industry_analysis
-  - market_structure
-  - porter_five_forces
-  - rivalry
-  - strategic_management
-  - competitive_advantage
+- acquisition
+- barrier
+- classification
+- commodity
+- competitive_advantage
+- competitive_strategy
+- defi
+- forward
+- future
+- industry_analysis
+- leveraged-buyout
+- market_structure
+- merger
+- oil
+- option
+- porter_five_forces
+- portfolio-optimization
+- rivalry
+- strategic_management
 aliases:
-  - Five Forces Model
-  - Industry Analysis
-  - Porter's Framework
-  - Competitive Structure Analysis
+- Five Forces Model
+- Industry Analysis
+- Porter's Framework
+- Competitive Structure Analysis
 key_concepts:
-  - Five competitive forces (rivalry, buyer power, supplier power, substitutes, new entrants)
-  - Industry concentration ratio
-  - Industry profitability analysis
-  - Product differentiation strategies
-  - Rivalry intensity factors
-  - Barriers to entry and exit
-  - Strategic positioning
-  - Competitive advantage development
+- Barriers to entry and exit
+- Competitive advantage development
+- Derivative securities
+- Financial risk management
+- Five competitive forces (rivalry, buyer power, supplier power, substitutes, new
+  entrants)
+- Industry concentration ratio
+- Industry profitability analysis
+- Portfolio optimization
+- Product differentiation strategies
+- Quantitative financial analysis
+- Risk assessment and mitigation
+- Rivalry intensity factors
+- Strategic positioning
 ---
 
 The model of pure competition implies that risk-adjusted rates of return should be constant across firms and industries. However, numerous economic studies have affirmed that different industries can sustain different levels of profitability; part of this difference is explained by industry structure.
@@ -31,8 +49,7 @@ The model of pure competition implies that risk-adjusted rates of return should 
 Michael Porter provided a framework that models an industry as being influenced by five forces. The strategic business manager seeking to develop an edge over rival firms can use this model to better understand the industry context in which the firm operates.
 !Diagram.svg
 
-##  **I. RIVALRY**
-
+## **I. RIVALRY**
 In the traditional economic model, competition among rival firms drives profits to zero. But competition is not perfect and firms are not unsophisticated passive price takers. Rather, firms strive for a competitive advantage over their rivals. The intensity of rivalry among firms varies across industries, and strategic analysts are interested in these differences.
 
 Economists measure rivalry by indicators of  industry concentration. The Concentration Ratio (CR) is one such measure. The Bureau of Census periodically reports the CR for major Standard Industrial Classifications (SIC's). The CR indicates the percent of market share held by the four largest firms (CR's for the largest 8, 25, and 50 firms in an industry also are available). A high concentration ratio indicates that a high concentration of market share is held by the largest firms - the industry is concentrated. With only a few firms holding a large market share, the competitive landscape is less competitive (closer to a monopoly). A low concentration ratio indicates that the industry is characterized by many rivals, none of which has a significant market share. These _fragmented_ markets are said to be competitive. The concentration ratio is not the only available measure; the trend is to define industries in terms that convey more information than distribution of market share.
@@ -47,13 +64,12 @@ In pursuing an advantage over its rivals, a firm can choose from several competi
 - Improving product differentiation - improving features, implementing innovations in the manufacturing process and in the product itself.
 - Creatively using channels of distribution - using vertical integration or using a distribution channel that is novel to the industry. For example, with high-end jewelry stores reluctant to carry its watches, Timex moved into drugstores and other non-traditional outlets and cornered the low to mid-price watch market.
 - Exploiting relationships with suppliers - for example, from the 1950's to the 1970's Sears, Roebuck and Co. dominated the retail household appliance market. Sears set high quality standards and required suppliers to meet its demands for product specifications and price.
-
 The intensity of rivalry is influenced by the following industry characteristics:
 
 [^1]: **A larger number of firms** <u>increases</u> rivalry because more firms must compete for the same customers and resources. The rivalry intensifies if the firms have similar market share, leading to a struggle for market leadership.
 [^2]: **Slow market growth** <u>causes firms to fight</u> for market share. In a growing market, firms are able to improve revenues simply because of the expanding market.
 [^3]: **High fixed costs.md)** result in an economy of scale effect that <u>increases rivalry</u>. When total costs are mostly fixed costs, the firm must produce near capacity to attain the lowest unit costs. Since the firm must sell this large quantity of product, high levels of production lead to a fight for market share and results in increased rivalry.
-[^4]: **High storage costs or highly perishable products** cause a producer to sell goods as soon as possible. If other producers are attempting to unload at the same time, <u>competition for customers intensifies</u>.
+[^4]: **High storage costs or highly perishable products** cause a producer to sell goods as soon as possible. If other producers are attempting to unload $\$a_t$$ the same time, <u>competition for customers intensifies</u>.
 [^5]: **Low switching costs** <u>increases rivalry</u>. When a customer can freely switch from one product to another there is a greater struggle to capture customers.
 [^6]: **Low levels of product differentiation** is associated with <u>higher levels of rivalry</u>. Brand identification, on the other hand, tends to constrain rivalry.
 [^7]: **Strategic stakes are high** when a firm is losing market position or has potential for great gains. This <u>intensifies rivalry</u>.
@@ -71,7 +87,6 @@ The intensity of rivalry is influenced by the following industry characteristics
 	Whatever the merits of this rule for stable markets, it is clear that market stability and changes in supply and demand affect rivalry. Cyclical demand tends to create cutthroat competition. This is true in the disposable diaper industry in which demand fluctuates with birth rates, and in the greeting card industry in which there are more predictable business cycles.
 
 ## **II. THREAT OF SUBSTITUTES**
-
 In Porter's model, substitute products refer to products in other industries. To the economist, a threat of substitutes exists when a product's demand is affected by the price change of a substitute product. A product's price elasticity is affected by substitute products - as more substitutes become available, the demand becomes more elastic since customers have more alternatives. A close substitute product constrains the ability of firms in an industry to raise prices.
 
 The competition engendered by a Threat of Substitute comes from products outside the industry. The price of aluminum beverage cans is constrained by the price of glass bottles, steel cans, and plastic containers. These containers are substitutes, yet they are not rivals in the aluminum can industry. To the manufacturer of automobile tires, tire retreads are a substitute. Today, new tires are not so expensive that car owners give much consideration to retreading old tires. But in the trucking industry new tires are expensive and tires must be replaced often. In the truck tire market, retreading remains a viable substitute industry. In the disposable diaper industry, cloth diapers are a substitute and their prices constrain the price of disposables.
@@ -79,19 +94,16 @@ The competition engendered by a Threat of Substitute comes from products outside
 While the threat of substitutes typically impacts an industry through price competition, there can be other concerns in assessing the threat of substitutes. Consider the substitutability of different types of TV transmission: local station transmission to home TV antennas via the airways versus transmission via cable, satellite, and telephone lines. The new technologies available and the changing structure of the entertainment media are contributing to competition among these substitute means of connecting the home to entertainment. Except in remote areas it is unlikely that cable TV could compete with free TV from an aerial without the greater diversity of entertainment that it affords the customer.
 
 ## **III. BUYER POWER**
-
 The power of buyers is the impact that customers have on a producing industry. In general, when buyer power is strong, the relationship to the producing industry is near to what an economist terms a **monopsony** - a market in which there are many suppliers and one buyer. Under such market conditions, the buyer sets the price. In reality few pure monopsonies exist, but frequently there is some asymmetry between a producing industry and buyers. The following tables outline some factors that determine buyer power.
 
 <table><tbody><tr><td><b>Buyers are Powerful if:</b></td><td><b>Example</b></td></tr><tr><td><span size="-1">Buyers are concentrated - there are a few buyers with significant market share</span></td><td><span size="-1">DOD purchases from defense contractors</span></td></tr><tr><td><span size="-1">Buyers purchase a significant proportion of output - distribution of purchases or if the product is standardized</span></td><td><span size="-1">Circuit City and Sears' large retail market provides power over appliance manufacturers</span></td></tr><tr><td><span size="-1">Buyers possess a credible backward integration threat - can threaten to buy producing firm or rival</span></td><td><span size="-1">Large auto manufacturers' purchases of tires</span></td></tr><tr><td colspan="2">&nbsp;</td></tr><tr><td><b>Buyers are Weak if:</b></td><td><b>Example</b></td></tr><tr><td><span size="-1">Producers threaten forward integration - producer can take over own distribution/retailing</span></td><td><span size="-1">Movie-producing companies have integrated forward to acquire theaters</span></td></tr><tr><td><span size="-1">Significant buyer switching costs - products not standardized and buyer cannot easily switch to another product</span></td><td><span size="-1">IBM's 360 system strategy in the 1960's</span></td></tr><tr><td><span size="-1">Buyers are fragmented (many, different) - no buyer has any particular influence on product or price</span></td><td><span size="-1">Most consumer products</span></td></tr><tr><td><span size="-1">Producers supply critical portions of buyers' input - distribution of purchases</span></td><td><span size="-1">Intel's relationship with PC manufacturers</span></td></tr></tbody></table>
 
 ## **IV. SUPPLIER POWER**
-
-A producing industry requires raw materials - labor, components, and other supplies. This requirement leads to buyer-supplier relationships between the industry and the firms that provide it the raw materials used to create products. Suppliers, if powerful, can exert an influence on the producing industry, such as selling raw materials at a high price to capture some of the industry's profits. The following tables outline some factors that determine supplier power.
+A producing industry requires raw materials - labor, components, and other supplies. This requirement leads to buyer-supplier relationships between the industry and the firms that provide it the raw materials used to create products. Suppliers, if powerful, can exert an influence on the producing industry, such as selling raw materials $\$a_t$$ a high price to capture some of the industry's profits. The following tables outline some factors that determine supplier power.
 
 <table><tbody><tr><td><b>Suppliers are Powerful if:</b></td><td><b>Example</b></td></tr><tr><td><span size="-1">Credible forward integration threat by suppliers</span></td><td><span size="-1">Baxter International, manufacturer of hospital supplies, acquired American Hospital Supply, a distributor</span></td></tr><tr><td><span size="-1">Suppliers concentrated</span></td><td><span size="-1">Drug industry's relationship to hospitals</span></td></tr><tr><td><span size="-1">Significant cost to switch suppliers</span></td><td><span size="-1">Microsoft's relationship with PC manufacturers</span></td></tr><tr><td><span size="-1">Customers Powerful&nbsp;</span></td><td><span size="-1">Boycott of grocery stores selling non-union picked grapes</span></td></tr><tr><td colspan="2">&nbsp;</td></tr><tr><td><b>Suppliers are Weak if:</b></td><td><b>Example</b></td></tr><tr><td><span size="-1">Many competitive suppliers - product is standardized</span></td><td><span size="-1">Tire industry relationship to automobile manufacturers</span></td></tr><tr><td><span size="-1">Purchase commodity products</span></td><td><span size="-1">Grocery store brand label products</span></td></tr><tr><td><span size="-1">Credible backward integration threat by purchasers</span></td><td><span size="-1">Timber producers relationship to paper companies</span></td></tr><tr><td><span size="-1">Concentrated purchasers</span></td><td><span size="-1">Garment industry relationship to major department stores</span></td></tr><tr><td><span size="-1">Customers Weak</span></td><td><span size="-1">Travel agents' relationship to airlines</span></td></tr></tbody></table>
 
 ## **V. THREAT OF NEW ENTRANTS AND ENTRY BARRIERS**
-
 It is not only incumbent rivals that pose a threat to firms in an industry; the possibility that new firms may enter the industry also affects competition. In theory, any firm should be able to enter and exit a market, and if free entry and exit exists, then profits always should be nominal. In reality, however, industries possess characteristics that protect the high profit levels of firms in the market and inhibit additional rivals from entering the market. These are **_barriers to entry_**.
 
 Barriers to entry are more than the normal equilibrium adjustments that markets typically make. For example, when industry profits increase, we would expect additional firms to enter the market to take advantage of the high profit levels, over time driving down profits for all firms in the industry. When profits decrease, we would expect some firms to exit the market thus restoring a market equilibrium. Falling prices, or the expectation that future prices will fall, deters rivals from entering a market. Firms also may be reluctant to enter markets that are extremely uncertain, especially if entering involves expensive start-up costs. These are normal accommodations to market conditions. But if firms individually (collective action would be illegal collusion) keep prices artificially low as a strategy to prevent potential entrants from entering the market, such **entry-deterring pricing** establishes a barrier.
@@ -104,9 +116,9 @@ Barriers to entry are unique industry characteristics that define the industry. 
 
 [^2]: **Patents and proprietary knowledge serve to restrict entry into an industry.** Ideas and knowledge that provide competitive advantages are treated as private property when patented, preventing others from using the knowledge and thus creating a barrier to entry. Edwin Land introduced the Polaroid camera in 1947 and held a monopoly in the instant photography industry. In 1975, Kodak attempted to enter the instant camera market and sold a comparable camera. Polaroid sued for patent infringement and won, keeping Kodak out of the instant camera industry.
 [^4]: **Asset specificity inhibits entry into an industry.** Asset specificity is the extent to which the firm's assets can be utilized to produce a different product. When an industry requires highly specialized technology or plants and equipment, potential entrants are reluctant to commit to acquiring specialized assets that cannot be sold or converted into other uses if the venture fails. Asset specificity provides a barrier to entry for two reasons: First, when firms already hold specialized assets they fiercely resist efforts by others from taking their market share. New entrants can anticipate aggressive rivalry. For example, Kodak had much capital invested in its photographic equipment business and aggressively resisted efforts by Fuji to intrude in its market. These assets are both large and industry specific. The second reason is that potential entrants are reluctant to make investments in highly specialized assets.
-[^5]: **Organizational (Internal) Economies of Scale.** The most cost efficient level of production is termed **Minimum Efficient Scale** (MES). This is the point at which unit costs for production are at minimum - i.e., the most cost efficient level of production. If MES for firms in an industry is known, then we can determine the amount of market share necessary for low cost entry or cost parity with rivals. For example, in long distance communications roughly 10% of the market is necessary for MES. If sales for a long distance operator fail to reach 10% of the market, the firm is not competitive.
+[^5]: **Organizational (Internal) Economies of Scale.** The most cost efficient level of production is termed **Minimum Efficient Scale** (MES). This is the point $\$a_t$$ which unit costs for production are $$a_t$$ minimum - i.e., the most cost efficient level of production. If MES for firms in an industry is known, then we can determine the amount of market share necessary for low cost entry or cost parity with rivals. For example, in long distance communications roughly 10% of the market is necessary for MES. If sales for a long distance operator fail to reach 10% of the market, the firm is not competitive.
 
-	The existence of such an economy of scale creates a barrier to entry. The greater the difference between industry MES and entry unit costs, the greater the barrier to entry. So industries with high MES deter entry of small, start-up businesses. To operate at less than MES there must be a consideration that permits the firm to sell at a premium price - such as product differentiation or local monopoly.
+	The existence of such an economy of scale creates a barrier to entry. The greater the difference between industry MES and entry unit costs, the greater the barrier to entry. So industries with high MES deter entry of small, start-up businesses. To operate $\$a_t$$ less than MES there must be a consideration that permits the firm to sell $$a_t$$ a premium price - such as product differentiation or local monopoly.
 
 Barriers to exit work similarly to barriers to entry. Exit barriers limit the ability of a firm to leave the market and can exacerbate rivalry - unable to leave the industry, a firm must compete. Some of an industry's entry and exit barriers can be summarized as follows:
 
@@ -114,9 +126,9 @@ Barriers to exit work similarly to barriers to entry. Exit barriers limit the ab
 
 **DYNAMIC NATURE OF INDUSTRY RIVALRY**
 
-Our descriptive and analytic models of industry tend to examine the industry at a given state. The nature and fascination of business is that it is not static. While we are prone to generalize, for example, list GM, Ford, and Chrysler as the "Big 3" and assume their dominance, we also have seen the automobile industry change. Currently, the entertainment and communications industries are in flux. Phone companies, computer firms, and entertainment are merging and forming strategic alliances that re-map the information terrain. Schumpeter and, more recently, Porter have attempted to move the understanding of industry competition from a static economic or industry organization model to an emphasis on the interdependence of forces as dynamic, or _punctuated equilibrium_, as Porter terms it.
+Our descriptive and analytic models of industry tend to examine the industry $\$a_t$$ a given state. The nature and fascination of business is that it is not static. While we are prone to generalize, for example, list GM, Ford, and Chrysler as the "Big 3" and assume their dominance, we also have seen the automobile industry change. Currently, the entertainment and communications industries are in flux. Phone companies, computer firms, and entertainment are merging and forming strategic alliances that re-map the information terrain. Schumpeter and, more recently, Porter have attempted to move the understanding of industry competition from a static economic or industry organization model to an emphasis on the interdependence of forces as dynamic, or _punctuated equilibrium_, as Porter terms it.
 
-In Schumpeter's and Porter's view the dynamism of markets is driven by innovation. We can envision these forces at work as we examine the following changes:
+In Schumpeter's and Porter's view the dynamism of markets is driven by innovation. We can envision these forces $\$a_t$$ work as we examine the following changes:
 
 **Top 10 US Industrial Firms by Sales 1917 - 1988**
 
@@ -133,5 +145,4 @@ Strategy can be formulated on three levels:
 - corporate level
 - business unit level
 - functional or departmental level.
-
-The business unit level is the primary context of industry rivalry. Michael Porter identified three generic strategies (_cost leadership_, _differentiation_, and _focus_) that can be implemented at the business unit level to create a competitive advantage. The proper generic strategy will position the firm to leverage its strengths and defend against the adverse effects of the five forces.
+The business unit level is the primary context of industry rivalry. Michael Porter identified three generic strategies (_cost leadership_, _differentiation_, and _focus_) that can be implemented $\$a_t$$ the business unit level to create a competitive advantage. The proper generic strategy will position the firm to leverage its strengths and defend against the adverse effects of the five forces.

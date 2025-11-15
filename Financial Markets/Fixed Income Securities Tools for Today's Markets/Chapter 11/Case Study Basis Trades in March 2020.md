@@ -1,21 +1,129 @@
 ---
-tags:
-  - basis_trades
-  - futures_contracts
-  - hedge_funds
-  - market_volatility
-  - treasury_bonds
 aliases:
-  - COVID-19 market
-  - CTD bonds
-  - March 2020 Basis Trades
+- COVID-19 market
+- CTD bonds
+- March 2020 Basis Trades
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Case Study Basis Trades in March 2020 and financial analysis
+- Case Study Basis Trades in March 2020 in modern finance
+- Applications of Case Study Basis Trades in March 2020
+- 'Case study: Case Study Basis Trades in March 2020'
+last_enhanced: '2025-11-06 08:42:35'
+- roll
+- forward
+- hedging
+- treasury
+- yield
+- fixed-income
+- sofr
+- interest-rate
+- liquidity
+- bond
+- futures
+- bonds
+- spread
+- interest-rates
+- libor
+tags:
+- arbitrage
+- balance-sheet
+- bankruptcy
+- basis
+- bid-ask
+- bond
+- case-study
+- central-bank
+- collateral
+- collateral-haircut
+- counterparty
+- covid-crisis
+- crisis-analysis
+- currency
+- derivatives
+- duration
+- empirical-analysis
+- fixed-income
+- graduate-level
+- haircut
+- hedging
+- income-statement
+- institutional-quality
+- learning-from-crisis
+- liquidity
+- margin-call
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- repo
+- reporting-requirement
+- risk-weight
+- sec-regulation
+- securitization
+- spread
+- treasury
+- valuation-discount
+- volatility
+- yield-curve
+
 key_concepts:
-  - Basis trade in March 2020
-  - CTD bond and repo rate
-  - Hedge funds and basis trade
-  - Market volatility increase
-  - Treasury yields and futures
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Collateral Adequacy
+- Collateral Haircut Models
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Institutions
+- Haircut and Valuation Adjustments
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Market Risk Adjustments
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management Haircuts
+- Risk Management and Hedging Strategies
+- Risk Weight Calculations
+- Risk-Based Haircuts
+- Valuation Discounts
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 11.13 CASE STUDY: BASIS TRADES IN MARCH 2020  
 

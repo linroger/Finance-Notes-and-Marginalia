@@ -1,3 +1,24 @@
+---
+tags:
+- asset-pricing
+- banking
+- caps-floors
+- credit-risk
+- futures-contracts
+- interest-rates
+key_concepts:
+- Futures contracts and forward pricing
+- Practical examples and implementation
+- Investment analysis and portfolio management
+- Financial valuation and pricing methodologies
+- International finance and global markets
+- Monetary policy and central banking
+- Financial crises and market stress events
+last_enhanced: '2025-11-06 08:42:41'
+---
+
+
+
 # The Changing World Order
 
 # **The Changing World Order**

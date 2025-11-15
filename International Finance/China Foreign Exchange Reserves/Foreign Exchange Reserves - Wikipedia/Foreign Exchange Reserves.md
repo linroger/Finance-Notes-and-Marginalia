@@ -5,25 +5,29 @@ description: Foreign exchange reserves are supplies of foreign currency held by 
 source: https://www.investopedia.com/terms/f/foreign-exchange-reserves.asp
 title: Foreign Exchange Reserves
 tags:
-  - central_bank
-  - currency_reserves
-  - economic_policy
-  - foreign_exchange
-  - international_finance
+- banking
+- central_bank
+- currency_reserves
+- economic_policy
+- foreign_exchange
+- international_finance
+- trading-strategies
 aliases:
-  - FX Reserves
-  - Forex Reserves
-  - International Reserves
+- FX Reserves
+- Forex Reserves
+- International Reserves
 key_concepts:
-  - Backing liabilities
-  - Central bank holdings
-  - China's reserves
-  - Currency diversification
-  - Foreign currency assets
-  - Influence currency value
-  - Market shock buffer
-  - U.S. dollar dominance
+- Practical examples and implementation
+- Trading strategies and market implementation
+- Fixed income securities and bond markets
+- International finance and global markets
+- Monetary policy and central banking
+last_enhanced: '2025-11-06 08:42:47'
 ---
+
+
+
+
 
 # Foreign Exchange Reserves
 ## What Are Foreign Exchange Reserves?

@@ -1,24 +1,48 @@
 ---
-cssclasses:
-  - academia
-linter-yaml-title-alias: Moody's Bank Loan RatingsPricing Implications and Approach
-title: Moody's Bank Loan RatingsPricing Implications and Approach
-tags:
-  - bank_loan_ratings
-  - bond_markets
-  - loan_market
-  - risk_adjusted_pricing
-  - syndicated_loan_market
 aliases:
-  - Commercial bank loan
-  - Kinsai Institute
-  - Moody's bank loan
+- Commercial bank loan
+- Kinsai Institute
+- Moody's bank loan
+cssclasses:
+- academia
 key_concepts:
-  - Bank loan pricing
-  - Loan and bond markets
-  - Loan market convergence
-  - Loan portfolio managers
-  - Risk adjusted pricing
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Corporate bankruptcy process
+- Debt restructuring and workouts
+- Chapter 11 reorganization
+- Moody's Bank Loan Ratings- Pricing Implications and Approach and financial analysis
+- Moody's Bank Loan Ratings- Pricing Implications and Approach in modern finance
+- Applications of Moody's Bank Loan Ratings- Pricing Implications and Approach
+- 'Case study: Moody''s Bank Loan Ratings- Pricing Implications and Approach'
+linter-yaml-title-alias: Moody's Bank Loan RatingsPricing Implications and Approach
+tags:
+- yield
+- fixed-income
+- maturity
+- swap
+- bond
+- corporate-bond
+- irs
+- bankruptcy
+- swaps
+- bonds
+- cds
+- distressed
+- basis-swap
+- default
+- recovery
+title: Moody's Bank Loan RatingsPricing Implications and Approach
 ---
 
 # Moody's Bank Loan RatingsPricing Implications and Approach

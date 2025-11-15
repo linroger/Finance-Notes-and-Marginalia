@@ -1,21 +1,125 @@
 ---
-tags:
-  - arbitrage
-  - bond_dealer
-  - relative_value
-  - riskless_profit
-  - swaption
 aliases:
-  - Arbitrage Definition
-  - Pure Arbitrage
-  - Relative Value
+- Arbitrage Definition
+- Pure Arbitrage
+- Relative Value
+- Arbitrage principles and opportunities
+- Relative value trading
+- Law of one price enforcement
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Arbitrage Pure Versus Relative Value and financial analysis
+- Arbitrage Pure Versus Relative Value in modern finance
+- Applications of Arbitrage Pure Versus Relative Value
+- 'Case study: Arbitrage Pure Versus Relative Value'
+last_enhanced: '2025-11-06 08:42:32'
+- put
+- swaps
+- swaption
+- spread
+- yield
+- options
+- swap
+- relative-value
+- vega
+- duration
+- bond
+- irs
+- no-arbitrage
+- arbitrage
+- call
+tags:
+- arbitrage
+- banking
+- basis
+- bid-ask
+- bond
+- case-study
+- commodity
+- credit-curve
+- crisis-analysis
+- currency
+- default
+- derivative-pricing
+- derivatives
+- duration
+- econometric
+- empirical-analysis
+- equity
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- liquidity
+- mathematical-finance
+- monetary-policy
+- money-market
+- professional-standard
+- provision
+- quantitative-analysis
+- quantitative-methods
+- real-world-example
+- securitization
+- sovereign
+- spread
+- statistical-model
+- structured-product
+- treasury
+- volatility
+- yield-curve
+
 key_concepts:
-  - Law of one price
-  - Pure vs. Relative Value
-  - Relative value arbitrage
-  - Riskless instantaneous profit
-  - Static and dynamic arbitrage
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Econometric Analysis
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Econometrics
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Mathematical Finance Applications
+- Mathematical Modeling
+- Quantitative Analysis in Finance
+- Quantitative Methods in Finance
+- Quantitative Risk Management
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Statistical Finance
+- Statistical Modeling
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 1.4 ARBITRAGE: PURE VERSUS RELATIVE VALUE  
 

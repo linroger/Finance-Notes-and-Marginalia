@@ -1,35 +1,120 @@
 ---
-tags:
-  - aggregate_consumption
-  - brownian_motion
-  - consumption
-  - discrete_time_economy
-  - market_completeness
-  - risk_aversion
-  - state_price
-  - state_price_deflator
-  - utility_function
 aliases:
-  - exercise 7.1
-  - exercise 7.2
-  - exercise 7.3
-  - exercise 7.4
-  - exercise 7.5
-  - exercise 7.6
-  - exercise 7.7
+- exercise 7.1
+- exercise 7.2
+- exercise 7.3
+- exercise 7.4
+- exercise 7.5
+- exercise 7.6
+- exercise 7.7
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Efficient market hypothesis
+- Market anomalies and patterns
+- Price discovery and information
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Exercises and financial analysis
+- Exercises in modern finance
+- Applications of Exercises
+- 'Case study: Exercises'
+last_enhanced: '2025-11-06 08:42:32'
+- portfolio
+- market-efficiency
+- interest-rates
+- interest-rate
+- call
+- options
+- delta
+- gamma
+- liquidity
+- spread
+- put
+- volatility
+- risk
+- beta
+- portfolio-optimization
+tags:
+- austerity
+- banking
+- bankruptcy
+- bid-ask
+- case-study
+- crisis-analysis
+- derivative-pricing
+- derivatives
+- empirical-analysis
+- european
+- european-debt-crisis
+- eurozone
+- graduate-level
+- grexit
+- hedging
+- institutional-quality
+- learning-from-crisis
+- liquidity
+- market-efficiency
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- sovereign
+- sovereign-debt
+- spread
+- volatility
+
 key_concepts:
-  - Brownian motion
-  - European call options
-  - aggregate consumption dynamics
-  - extended log-utility
-  - market price of risk
-  - negative exponential utility
-  - risk-free rate
-  - state-contingent dividends
-  - state-price deflator
-  - time-additive expected utility
-  - utility of individuals
+- Austerity Measures
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Currency Union Risks
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- European Debt Crisis
+- European Integration
+- Eurozone Crisis Management
+- Financial Crisis Case Studies
+- Financial Markets and Institutions
+- Fiscal Integration
+- Greek Debt Crisis
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Sovereign Debt Restructuring
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 7.5 Exercises  
 

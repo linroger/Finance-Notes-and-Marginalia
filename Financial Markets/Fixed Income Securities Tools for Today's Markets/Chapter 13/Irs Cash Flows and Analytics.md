@@ -1,21 +1,111 @@
 ---
-tags:
-  - euribor_swap
-  - fixed_floating_swaps
-  - floating_leg
-  - irs_cash_flows
-  - reset_dates
-  - sofr_swap
 aliases:
-  - IRS Analytics
-  - OIS vs. Fixed-for-Floating Swaps
+- IRS Analytics
+- OIS vs. Fixed-for-Floating Swaps
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Credit analysis and rating
+- Default probability modeling
+- Loss given default estimation
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Irs Cash Flows and Analytics and financial analysis
+- Irs Cash Flows and Analytics in modern finance
+- Applications of Irs Cash Flows and Analytics
+- 'Case study: Irs Cash Flows and Analytics'
+last_enhanced: '2025-11-06 08:42:35'
+- credit-risk
+- pricing
+- coupon
+- counterparty
+- sofr
+- interest-rates
+- fixed-income
+- interest-rate
+- irs
+- bond
+- bonds
+- swap
+- dv01
+- swaps
+- maturity
+tags:
+- banking
+- basis
+- bid-ask
+- bond
+- case-study
+- cash-flow
+- counterparty
+- credit-curve
+- credit-market
+- crisis-analysis
+- currency
+- default
+- derivatives
+- duration
+- empirical-analysis
+- fixed-income
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- liquidity
+- margin-call
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- sec-regulation
+- securitization
+- spread
+- stress-test
+- yield-curve
+
 key_concepts:
-  - Euribor swap valuation
-  - Floating leg valuation
-  - Floating vs. fixed swaps
-  - Reset date valuation
-  - SOFR swap cash flows
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # 13.2 IRS CASH FLOWS AND ANALYTICS  
 

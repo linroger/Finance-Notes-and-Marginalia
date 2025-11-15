@@ -1,21 +1,136 @@
 ---
-tags:
-  - arbitrage_free_models
-  - interest_rate_models
-  - short_rate_models
-  - swaptions
-  - yield_curve
 aliases:
-  - AFIRM
-  - IRM
-  - Interest Rate Modeling
+- AFIRM
+- IRM
+- Interest Rate Modeling
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Arbitrage principles and opportunities
+- Relative value trading
+- Law of one price enforcement
+- Arbitrage-Free Interest Rate Models and financial analysis
+- Arbitrage-Free Interest Rate Models in modern finance
+- Applications of Arbitrage-Free Interest Rate Models
+- 'Case study: Arbitrage-Free Interest Rate Models'
+last_enhanced: '2025-11-06 08:42:33'
+- interest-rate
+- put
+- swaps
+- swaption
+- expiry
+- yield
+- options
+- swap
+- theta
+- maturity
+- arbitrage-free
+- bond
+- convexity
+- irs
+- yield-curve
+tags:
+- arbitrage
+- asian-crisis
+- austerity
+- basis
+- bid-ask
+- bond
+- case-study
+- credit-curve
+- crisis-analysis
+- currency
+- derivative-pricing
+- derivatives
+- duration
+- econometric
+- empirical-analysis
+- european
+- european-debt-crisis
+- eurozone
+- graduate-level
+- grexit
+- hedging
+- institutional-quality
+- learning-from-crisis
+- liquidity
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-analysis
+- quantitative-methods
+- real-world-example
+- sec-regulation
+- securitization
+- sovereign
+- sovereign-debt
+- spread
+- statistical-model
+- tail-risk
+- treasury
+- volatility
+- yield-curve
+
 key_concepts:
-  - Arbitrage-free model
-  - Model calibration
-  - Short rate models
-  - Trinomial trees
-  - Yield curve tilts
+- Austerity Measures
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Currency Union Risks
+- Econometric Analysis
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- European Debt Crisis
+- European Integration
+- Eurozone Crisis Management
+- Financial Crisis Case Studies
+- Financial Econometrics
+- Financial Markets and Institutions
+- Fiscal Integration
+- Greek Debt Crisis
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Mathematical Finance Applications
+- Mathematical Modeling
+- Quantitative Analysis in Finance
+- Quantitative Methods in Finance
+- Quantitative Risk Management
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Sovereign Debt Restructuring
+- Statistical Finance
+- Statistical Modeling
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 6.3 ARBITRAGE-FREE INTEREST RATE MODELS  
 

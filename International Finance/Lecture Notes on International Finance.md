@@ -1,53 +1,104 @@
 ---
-cssclasses: ["academia"]
+cssclasses:
+- academia
 title: Lecture Notes on International Finance
-tags:
-  - exchange_rates
-  - global_imbalances
-  - government_debt
-  - international_finance
-  - market_segmentation
-  - monetary_policy
-  - portfolio_choice
-  - risk_premia
-  - exchange_rate_puzzles
-  - currency_markets
-  - international_monetary_system
-  - fiscal_policy
-  - incomplete_markets
-  - convenience_yields
-  - financial_intermediation
-  - capital_flows
+- arbitrage
+- banking
+- capital_flows
+- convenience_yields
+- currency_markets
+- exchange_rate_puzzles
+- exchange_rates
+- financial_intermediation
+- fiscal_policy
+- forward-contracts
+- futures-contracts
+- global_imbalances
+- government_debt
+- incomplete_markets
+- interest-rates
+- international_finance
+- international_monetary_system
+- market-structure
+- market_segmentation
+- monetary_policy
 aliases:
-  - International Financial
-  - Intl Finance
-  - Intl. Finance
-  - International Finance Lecture Notes
-  - Exchange Rate Theory
-  - Global Financial Markets
-key_concepts:
-  - Convenience yields
-  - Currency risk premia
-  - Exchange rate accounting
-  - Global imbalances
-  - Government debt valuation
-  - Incomplete markets
-  - Monetary fiscal policies
-  - Portfolio choice approach
-  - No-arbitrage approach
-  - Complete market solution
-  - Asset demand systems
-  - Market segmentation
-  - Financial intermediation
-  - Net foreign assets
-  - Exorbitant privilege
-  - Reserve currency paradox
-  - Safe asset view
-  - Factor structure models
-  - Multi-currency dynamics
-  - International spillovers
+- International Financial
+- Intl Finance
+- Intl. Finance
+- International Finance Lecture Notes
+- Exchange Rate Theory
+- Global Financial Markets
+- Value at Risk (VaR) and risk metrics
+- Arbitrage opportunities and relative value trading
+- Futures contracts and forward pricing
+- Financial theory and academic research
+- Practical examples and implementation
+- Financial valuation and pricing methodologies
+- International finance and global markets
+- Monetary policy and central banking
+- Financial crises and market stress events
 linter-yaml-title-alias: Lecture Notes on International Finance
+last_enhanced: '2025-11-06 08:42:51'
+tags:
+- arbitrage
+- asian
+- austerity
+- banking
+- cross-border
+- currency
+- derivatives
+- european
+- european-debt-crisis
+- eurozone
+- financial-crisis
+- graduate-level
+- grexit
+- institutional-quality
+- liquidity
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- sovereign
+- sovereign-debt
+- var
+
+key_concepts:
+- Austerity Measures
+- Banking and Financial Intermediation
+- Currency Union Risks
+- European Debt Crisis
+- European Integration
+- Eurozone Crisis Management
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Fiscal Integration
+- Greek Debt Crisis
+- Institutional-Quality Financial Education
+- Quantitative Methods in Finance
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+- Sovereign Debt Restructuring
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # Lecture Notes on International Finance
 

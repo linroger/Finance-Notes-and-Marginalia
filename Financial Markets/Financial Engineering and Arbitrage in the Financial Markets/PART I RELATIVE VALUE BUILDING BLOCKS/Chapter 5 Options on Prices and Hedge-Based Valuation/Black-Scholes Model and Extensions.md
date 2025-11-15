@@ -1,21 +1,115 @@
 ---
-tags:
-  - binomial_model
-  - black_scholes_model
-  - dividends
-  - option_pricing
-  - volatility
 aliases:
-  - BSM
-  - Black-Scholes
-  - Option Valuation
+- BSM
+- Black-Scholes
+- Option Valuation
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Black-Scholes-Merton option pricing model
+- Greeks calculation and interpretation
+- Volatility surface and smile
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Black-Scholes Model and Extensions and financial analysis
+- Black-Scholes Model and Extensions in modern finance
+- Applications of Black-Scholes Model and Extensions
+- 'Case study: Black-Scholes Model and Extensions'
+last_enhanced: '2025-11-06 08:42:33'
+- forward
+- var
+- futures
+- options
+- black-scholes
+- option-pricing
+- put
+- swaps
+- irs
+- gamma
+- hedging
+- delta
+- risk-management
+- call
+- expiry
+tags:
+- arbitrage
+- basis
+- bond
+- case-study
+- credit-curve
+- crisis-analysis
+- currency
+- derivative-pricing
+- derivatives
+- econometric
+- empirical-analysis
+- equity
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-analysis
+- quantitative-methods
+- real-world-example
+- statistical-model
+- stress-test
+- var
+- volatility
+- yield-curve
+
 key_concepts:
-  - Binomial approach
-  - Black-Scholes equation
-  - Continuous rebalancing
-  - Option payoff replication
-  - Stock price volatility
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Econometric Analysis
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Econometrics
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Mathematical Finance Applications
+- Mathematical Modeling
+- Quantitative Analysis in Finance
+- Quantitative Methods in Finance
+- Quantitative Risk Management
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Statistical Finance
+- Statistical Modeling
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 5.7 BLACK-SCHOLES MODEL AND EXTENSIONS  
 

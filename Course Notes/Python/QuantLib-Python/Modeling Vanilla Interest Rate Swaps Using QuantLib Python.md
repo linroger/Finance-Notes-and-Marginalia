@@ -4,34 +4,54 @@ source: https://gouthamanbalaraman.com/blog/interest-rate-swap-quantlib-python.h
 description: Provides a basic introduction to valuing interest rate swaps using QuantLib
   Python.
 tags:
-  - fixed_floating
-  - interest_rate_swaps
-  - quantlib_python
-  - swap_valuation
-  - vanilla_swaps
+- basis-swap
+- bps
+- fixed_floating
+- forward
+- interest-rate
+- interest_rate_swaps
+- libor
+- quantlib_python
+- swap
+- swap_valuation
+- vanilla_swaps
+- yield-curve
 aliases:
-  - IRS
-  - Interest Rate Swap
-  - Swap Example
+- IRS
+- Interest Rate Swap
+- Swap Example
 key_concepts:
-  - Cash flow analysis
-  - Fixed vs. floating
-  - Interest rate swap
-  - Notional amount
-  - QuantLib Python valuation
+- Basis swap mechanics
+- Cash flow analysis
+- Cross-currency basis
+- Currency swap structure
+- Derivative securities
+- Financial risk management
+- Fixed vs floating leg
+- Fixed vs. floating
+- Interest rate swap
+- Interest rate swap pricing
+- Notional amount
+- Portfolio optimization
+- Present value of swaps
+- QuantLib Python valuation
+- Quantitative financial analysis
+- Risk assessment and mitigation
+- Swap curve construction
+- Swaption valuation
 ---
 
 # Modeling Vanilla Interest Rate Swaps Using QuantLib Python
-
 Provides a basic introduction to valuing interest rate swaps using QuantLib Python.
 
 _Visit here for other QuantLib Python examples](http://gouthamanbalaraman.com/blog/quantlib-python-tutorials-with-examples.html). If you found these posts useful,  please take a minute by providing some  feedback._
 
-An Interest Rate Swap is a financial derivative instrument in which two parties agree to exchange interest rate cash flows based on a notional amount from a fixed rate to a floating rate or from one floating rate to another floating rate. 
+An Interest Rate Swap is a financial derivative instrument in which two parties agree to exchange interest rate cash flows based on a notional amount from a fixed rate to a floating rate or from one floating rate to another floating rate.
 
 Here we will consider an example of a plain vanilla USD swap with 10 million notional and 10 year maturity. Let the fixed leg pay 2.5% coupon semiannually,  and the floating leg pay Basis Swap Markets#London Interbank Offered Rate (LIBOR) | LIBOR]] 3m quarterly.
 
 ## Sample Code
+
 ```python
 import QuantLib as ql
 calculation_date = ql.Date(20,  10,  2015)
@@ -41,6 +61,7 @@ ql.Settings.instance().evaluationDate = calculation_date
 Here we construct the yield curve objects. For simplicity,  we will use flat curves for discounting and Basis Swap Markets#London Interbank Offered Rate (LIBOR) | LIBOR]] 3M. This will help us focus on the Swap construction part. Please refer to curve construction example-term-structure-bootstrap-yield-curve.html) for some details.
 ```python
 # construct discount curve and [](../../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/A%20Guide%20to%20the%20Front%20End%20and%20Basis%20Swap%20Markets.md#London%20Interbank%20Offered%20Rate%20(LIBOR) | LIBOR) curve
+
 risk_free_rate = 0.01
 libor_rate = 0.02
 day_count = ql.Actual365Fixed()
@@ -52,7 +73,8 @@ discount_curve = ql.YieldTermStructureHandle(
 libor_curve = ql.YieldTermStructureHandle(
     ql.FlatForward(calculation_date,   libor_rate,   day_count)
 )
-#libor3M_index = ql.Euribor3M(libor_curve)  
+# libor3M_index = ql.Euribor3M(libor_curve)
+
 libor3M_index = ql.USDLibor(ql.Period(3,   ql.Months),   libor_curve)
 ```
 
@@ -63,15 +85,15 @@ settle_date = calendar.advance(calculation_date,   5,   ql.Days)
 maturity_date = calendar.advance(settle_date,   10,   ql.Years)
 
 fixed_leg_tenor = ql.Period(6,   ql.Months)
-fixed_schedule = ql.Schedule(settle_date,   maturity_date,   
-                             fixed_leg_tenor,   calendar,  
-                             ql.ModifiedFollowing,   ql.ModifiedFollowing,  
+fixed_schedule = ql.Schedule(settle_date,   maturity_date,
+                             fixed_leg_tenor,   calendar,
+                             ql.ModifiedFollowing,   ql.ModifiedFollowing,
                              ql.DateGeneration.Forward,   False)
 
 float_leg_tenor = ql.Period(3,   ql.Months)
-float_schedule = ql.Schedule (settle_date,   maturity_date,   
-                              float_leg_tenor,   calendar,  
-                              ql.ModifiedFollowing,   ql.ModifiedFollowing,  
+float_schedule = ql.Schedule (settle_date,   maturity_date,
+                              float_leg_tenor,   calendar,
+                              ql.ModifiedFollowing,   ql.ModifiedFollowing,
                               ql.DateGeneration.Forward,   False)
 ```
 
@@ -83,8 +105,8 @@ fixed_leg_daycount = ql.Actual360()
 float_spread = 0.004
 float_leg_daycount = ql.Actual360()
 
-ir_swap = ql.VanillaSwap(ql.VanillaSwap.Payer,   notional,   fixed_schedule,   
-               fixed_rate,   fixed_leg_daycount,   float_schedule,  
+ir_swap = ql.VanillaSwap(ql.VanillaSwap.Payer,   notional,   fixed_schedule,
+               fixed_rate,   fixed_leg_daycount,   float_schedule,
                libor3M_index,   float_spread,   float_leg_daycount )
 ```
 
@@ -95,7 +117,6 @@ ir_swap.setPricingEngine(swap_engine)
 ```
 
 ## Result Analysis
-
 The cashflows for the fixed and floating leg can be extracted from the `ir_swap` object. The fixed leg cashflows are shown below:
 ```python
 for i,  cf in enumerate(ir_swap.leg(0)):

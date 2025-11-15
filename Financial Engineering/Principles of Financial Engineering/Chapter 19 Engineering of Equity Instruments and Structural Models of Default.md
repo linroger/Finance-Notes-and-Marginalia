@@ -1,27 +1,142 @@
 ---
 title: Engineering of Equity Instruments and Structural Models of Default
 tags:
-  - equity-derivatives
-  - structural-models
-  - default-models
-  - financial-engineering
-  - merton-model
-  - equity-valuation
-  - credit-models
-  - convertible-bonds
+- apt
+- asset-swap
+- barrier
+- black-scholes
+- bond
+- bps
+- brownian
+- call
+- capital-structure
+- capm
+- cds
+- convertible-arbitrage
+- convertible-bonds
+- corporate-bond
+- cost-of-equity
+- credit-models
+- credit-risk
+- credit-spread
+- currency
+- dcf
+- debt-equity
+- default-models
+- defi
+- deleveraging
+- dividend-discount
+- duration
+- dv01
+- equity
+- equity-derivatives
+- equity-valuation
+- equity-value
+- european
+- exchange-rate
+- factor-model
+- financial-crisis
+- financial-engineering
+- fixed-income
+- floor
+- forward
+- future
+- gbm
+- greeks
+- hedge
+- hedge-fund
+- implied-vol
+- index
+- interest-rate
+- leveraged-buyout
+- libor
+- liquidity
+- market-risk
+- merton-model
+- option
+- put
+- risk-free-rate
+- stochastic
+- stock
+- stock-option
+- structural-models
+- swap
+- total-return
+- yield-curve
 aliases:
-  - Chapter 19 Equity Engineering
-  - Structural Default Models
-  - Equity Derivatives Engineering
+- Chapter 19 Equity Engineering
+- Structural Default Models
+- Equity Derivatives Engineering
 key_concepts:
-  - Equity as call option
-  - Merton model
-  - Structural default models
-  - Convertible bonds
-  - Equity volatility
-  - Capital structure arbitrage
-  - Debt-equity relationships
-  - Default boundaries
+- ' tranche valuation'
+- Basis swap mechanics
+- Beta calculation
+- CDO squared structures
+- CDS curve construction
+- CDS spread calibration
+- Capital Asset Pricing Model
+- Capital structure arbitrage
+- Convertible bonds
+- Convexity adjustment
+- Cost of equity estimation
+- Credit Default Swaps
+- Credit index products
+- Cross-currency basis
+- Currency swap structure
+- DV01 calculation
+- Debt-equity relationships
+- Default boundaries
+- Default correlation
+- Delta risk management
+- Delta-hedging implementation
+- Derivative securities
+- Discounted Cash Flow valuation
+- Duration measurement
+- Dynamic hedging strategies
+- Dynamic replication
+- Enterprise value estimation
+- Equity as call option
+- Equity volatility
+- Financial risk management
+- Fixed vs floating leg
+- Free cash flow modeling
+- Gamma effects on options
+- Gamma hedging techniques
+- Gordon growth model
+- Hedge ratio calculation
+- Hedging effectiveness
+- Hedging with bonds
+- Interest rate sensitivity
+- Interest rate swap pricing
+- Market efficiency implications
+- Market portfolio
+- Merton model
+- Modified duration calculation
+- Multi-stage DCF models
+- Options Greeks measurement
+- Portfolio immunization
+- Portfolio insurance methods
+- Portfolio optimization
+- Portfolio risk hedging
+- Present value of swaps
+- Price-yield relationship
+- Quantitative financial analysis
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Risk-return tradeoff
+- Security Market Line
+- Static hedging
+- Structural default models
+- Swap curve construction
+- Swaption valuation
+- Synthetic CDO pricing
+- Systematic vs idiosyncratic risk
+- Terminal value calculation
+- Theta time decay
+- Vega hedging strategies
+- Vega volatility sensitivity
+- WACC calculation
+- Weighted Average Cost of Capital
 cssclasses: academia
 ---
 

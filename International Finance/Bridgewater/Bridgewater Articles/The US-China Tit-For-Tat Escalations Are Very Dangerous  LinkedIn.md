@@ -1,23 +1,70 @@
 ---
-aliases:
+aliases: null
 cssclasses:
-  - academia
+- academia
 title: The US-China Tit-For-Tat Escalations Are Very Dangerous LinkedIn
-source: 
-  https://www.linkedin.com/pulse/us-china-tit-for-tat-escalations-very-dangerous-ray-dalio/
-description:
+source: https://www.linkedin.com/pulse/us-china-tit-for-tat-escalations-very-dangerous-ray-dalio/
+description: null
+- '#big_cycle'
+- '#conflict_gauge'
+- '#economic_warfare'
+- '#global_impact'
+- '#military_spending'
+- '#pelosi_visit'
+- '#principles_for_dealing_with_the_changing_world_order'
+- '#taiwan_crisis'
+- '#tit_for_tat_escalation'
+- '#us_china_relations'
+- Financial theory and academic research
+- Practical examples and implementation
+- International finance and global markets
+last_enhanced: '2025-11-06 08:42:40'
 tags:
-  - '#big_cycle'
-  - '#conflict_gauge'
-  - '#economic_warfare'
-  - '#global_impact'
-  - '#military_spending'
-  - '#pelosi_visit'
-  - '#principles_for_dealing_with_the_changing_world_order'
-  - '#taiwan_crisis'
-  - '#tit_for_tat_escalation'
-  - '#us_china_relations'
+- asian
+- cross-border
+- equity
+- graduate-level
+- institutional-quality
+- mathematical-finance
+- professional-standard
+- provision
+- quantitative-methods
+- sovereign
+
+key_concepts:
+- Banking and Financial Intermediation
+- Banking and Intermediation
+- Credit Risk Assessment
+- Derivative Securities
+- Financial Crisis Analysis
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Financial Regulation and Compliance
+- Institutional-Quality Financial Education
+- Liquidity and Market Structure
+- Market Trading and Hedging
+- Quantitative Finance Methods
+- Quantitative Methods in Finance
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 # The US-China Tit-For-Tat Escalations Are Very Dangerous LinkedIn
 
 Unfortunately,  what is happening now between the US and China over Taiwan is following the classic path to war laid out in my book "Principles for Dealing with the Changing World Order.” If events continue to follow this path,  this conflict will have a much larger global impact than the Russia-Ukraine war because it is between the world's leading superpowers that are economically much larger and much more intertwined.

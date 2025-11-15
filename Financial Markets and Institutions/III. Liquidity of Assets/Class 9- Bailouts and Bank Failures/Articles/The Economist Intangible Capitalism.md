@@ -1,23 +1,169 @@
 ---
+aliases:
+- Capitalism without Capital
+- Intangible Capitalism
+- Venture Capital
+- Whaling
+- Financial accounting standards
+- GAAP and IFRS differences
+- Mark-to-market accounting
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Credit analysis and rating
+- Default probability modeling
+- Loss given default estimation
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- The Economist Intangible Capitalism and financial analysis
+- The Economist Intangible Capitalism in modern finance
+- Applications of The Economist Intangible Capitalism
+- 'Case study: The Economist Intangible Capitalism'
+last_enhanced: '2025-11-06 08:42:29'
+- call
+- treasury
+- credit
+- portfolio
+- put
+- options
+- swaps
+- bonds
+- credit-risk
+- collateral
+- accounting
+- irs
+- default
+- risk
+- gaap
 title: The Economist Intangible Capitalism
 tags:
-  - capital_markets
-  - intangible_capitalism
-  - intellectual_property
-  - venture_capital
-  - whaling_industry
-aliases:
-  - Capitalism without Capital
-  - Intangible Capitalism
-  - Venture Capital
-  - Whaling
+- asian
+- austerity
+- bank-failure
+- banking
+- banking-crisis
+- basis
+- bid-ask
+- bond
+- case-study
+- central-bank
+- central-bank-policy
+- collateral
+- commercial-paper
+- commodity
+- counterparty
+- crisis-analysis
+- crisis-management
+- cross-border
+- currency
+- default
+- derivative-pricing
+- derivatives
+- duration
+- empirical-analysis
+- equity
+- european
+- european-debt-crisis
+- eurozone
+- financial-institutions
+- financial-markets
+- financial-stability
+- graduate-level
+- grexit
+- hedging
+- institutional-analysis
+- institutional-quality
+- learning-from-crisis
+- lender-of-last-resort
+- liquidity
+- liquidity-management
+- market-liquidity
+- market-structure
+- mathematical-finance
+- monetary-policy
+- money-markets
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- repo-markets
+- reporting-requirement
+- short-term-funding
+- silicon-valley-bank
+- sovereign
+- sovereign-debt
+- spread
+- structured-product
+- systemic-risk
+- treasury
+- yield-curve
+
 key_concepts:
-  - Intangible vs. Tangible Capital
-  - Low-probability, high-payoff
-  - Shift in Business Investment
-  - Venture Capitalists
-  - Whaling Agents
+- Austerity Measures
+- Bank Failure Prevention
+- Banking Crisis Management
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Central Bank Crisis Response
+- Central Bank Liquidity Facilities
+- Commercial Paper Markets
+- Crisis Case Study Design
+- Crisis Communication
+- Currency Union Risks
+- Emergency Liquidity Assistance
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- European Debt Crisis
+- European Integration
+- Eurozone Crisis Management
+- Financial Crisis Case Studies
+- Financial Intermediation and Banking
+- Financial Markets and Institutions
+- Financial Stability Measures
+- Fiscal Integration
+- Greek Debt Crisis
+- Historical Financial Analysis
+- Institutional Analysis of Financial Systems
+- Institutional-Quality Financial Education
+- International Crisis Coordination
+- Learning from Financial Crises
+- Liquidity Crisis and Management
+- Liquidity Risk and Management
+- Market Structure and Microstructure
+- Money Market Fund Dynamics
+- Money Market Instruments
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Regulatory Framework in Financial Markets
+- Repurchase Agreement Markets
+- Risk Management and Hedging Strategies
+- Short-Term Funding Markets
+- Sovereign Debt Restructuring
+- Systemic Risk Assessment
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # The Economist Intangible Capitalism
 # Intangible Capitalism

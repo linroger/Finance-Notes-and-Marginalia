@@ -1,17 +1,48 @@
 ---
-linter-yaml-title-alias: Oaktree And The Restructuring Of CIT Group (B)
-title: Oaktree and the Restructuring of CIT Group (b)
-cssclasses: ["academia"]
 aliases:
-  - CIT Bankruptcy
-  - CIT Restructuring
-  - Oaktree CIT
+- CIT Bankruptcy
+- CIT Restructuring
+- Oaktree CIT
+cssclasses:
+- academia
 key_concepts:
-  - CIT temporary liquidity guarantee
-  - Credit facility
-  - Lenders steering committee
-  - Restructuring plan
-  - Secured loan terms
+- Corporate bankruptcy process
+- Debt restructuring and workouts
+- Chapter 11 reorganization
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Credit analysis and rating
+- Default probability modeling
+- Loss given default estimation
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Oaktree and the Restructuring of Cit Group (b) and financial analysis
+- Oaktree and the Restructuring of Cit Group (b) in modern finance
+- Applications of Oaktree and the Restructuring of Cit Group (b)
+- 'Case study: Oaktree and the Restructuring of Cit Group (b)'
+linter-yaml-title-alias: Oaktree And The Restructuring Of CIT Group (B)
+tags:
+- libor
+- call
+- credit
+- maturity
+- bond
+- options
+- bonds
+- credit-risk
+- collateral
+- insolvency
+- interest-rates
+- liquidity
+- bankruptcy
+- ratio
+- interest-rate
+title: Oaktree and the Restructuring of CIT Group (b)
 ---
 
 Oaktree and the Restructuring of CIT Group (a)

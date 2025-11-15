@@ -1,24 +1,131 @@
 ---
-tags:
-  - cds
-  - credit_default_swaps
-  - credit_risk
-  - financial_crisis
-  - index_cds
-  - itraxx_europe
 aliases:
-  - CDS
-  - CDX.NA.IG
-  - Credit Default Swaps
-  - iTraxx Europe Main
+- CDS
+- CDX.NA.IG
+- Credit Default Swaps
+- iTraxx Europe Main
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Credit Default Swaps and financial analysis
+- Credit Default Swaps in modern finance
+- Applications of Credit Default Swaps
+- 'Case study: Credit Default Swaps'
+last_enhanced: '2025-11-06 08:42:35'
+- credit-risk
+- hedging
+- coupon
+- default
+- yield
+- fixed-income
+- corporate-bond
+- basis
+- trading
+- bond
+- credit-spread
+- bonds
+- spread
+- futures
+- liquidity
+tags:
+- arbitrage
+- asian
+- asset-liability
+- austerity
+- bank-failure
+- banking
+- bankruptcy
+- basis
+- bid-ask
+- bond
+- case-study
+- corporate-bond
+- covid-crisis
+- credit-market
+- crisis-analysis
+- default
+- derivatives
+- duration
+- empirical-analysis
+- european
+- european-debt-crisis
+- eurozone
+- financial-crisis
+- fixed-income
+- graduate-level
+- grexit
+- hedging
+- institutional-quality
+- learning-from-crisis
+- liquidity
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- sec-regulation
+- securitization
+- sovereign
+- sovereign-debt
+- spread
+- stress-test
+- synthetic
+- tranche
+- yield-curve
+
 key_concepts:
-  - CDS contract components
-  - historical CDS spreads
-  - index CDS broader portfolios
-  - issuer defaults, compensation payment
-  - protection buyer pays fee
-  - trading credit risk
+- Austerity Measures
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Currency Union Risks
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- European Debt Crisis
+- European Integration
+- Eurozone Crisis Management
+- Financial Crisis Case Studies
+- Financial Markets and Institutions
+- Fiscal Integration
+- Greek Debt Crisis
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Sovereign Debt Restructuring
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # 14.5 CREDIT DEFAULT SWAPS  
 

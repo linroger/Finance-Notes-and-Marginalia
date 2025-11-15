@@ -1,23 +1,80 @@
 ---
 cssclasses:
-  - academia
+- academia
 title: Common Errors In DCF Models
 tags:
-  - cash_flow
-  - dcf_models
-  - equity_investing
-  - financial_analysis
-  - valuation
+- acquisition
+- beta
+- bond
+- cap
+- capm
+- cash_flow
+- corporate-bond
+- cost-of-capital
+- cost-of-debt
+- cost-of-equity
+- dcf
+- dcf_models
+- enterprise-value
+- equity
+- equity_investing
+- financial_analysis
+- forward
+- future
+- greeks
+- interest-rate
+- multiple
+- option
+- portfolio-optimization
+- put
+- real-estate
+- risk-free-rate
+- share-repurchase
+- stock
+- stock-option
+- terminal-value
+- valuation
+- wacc
+- wacc-calculation
 aliases:
-  - DCF Errors
-  - Mauboussin Valuation
-  - Valuation Mistakes
+- DCF Errors
+- Mauboussin Valuation
+- Valuation Mistakes
 key_concepts:
-  - Discounted cash flow analysis
-  - Economically sound models
-  - Present value of cash flows
-  - Transparent DCF models
-  - Value of a business
+- Beta calculation
+- Capital Asset Pricing Model
+- Cost of equity estimation
+- Delta risk management
+- Derivative securities
+- Discounted Cash Flow valuation
+- Discounted cash flow analysis
+- Dynamic hedging strategies
+- Economically sound models
+- Enterprise value estimation
+- Financial risk management
+- Free cash flow modeling
+- Gamma effects on options
+- Gordon growth model
+- Market efficiency implications
+- Market portfolio
+- Multi-stage DCF models
+- Options Greeks measurement
+- Portfolio optimization
+- Portfolio risk hedging
+- Present value of cash flows
+- Quantitative financial analysis
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Risk-return tradeoff
+- Security Market Line
+- Systematic vs idiosyncratic risk
+- Terminal value calculation
+- Theta time decay
+- Transparent DCF models
+- Value of a business
+- Vega volatility sensitivity
+- WACC calculation
+- Weighted Average Cost of Capital
 ---
 
 Michael J. Mauboussin
@@ -29,7 +86,6 @@ Discounted cash flow analysis is the most accurate and flexible method for valui
 Tim Koller, Marc Goedhart, and David Wessels Valuation: Measuring and Managing the Value of Companies 1
 
 ## A Return to First Principles
-
 Say you had to come up with a fair offer to buy your local dry cleaner and the seller limited the extent of your financial information to the answers to five questions. Which questions would you ask? Chances are you wouldn't ask how the quarter is progressing or about last year's earnings, but you would focus on the prospects for cash coming in versus cash going out over time. Sole proprietors understand intimately that the value of their business hinges on the cash flow the business generates. No distributable cash, no value. Cash puts food on the table and pays the mortgage; earnings do not. Equity investors are business buyers. While most shareholders own only a small fraction of a company, they are owners nonetheless. The source of shareholder value, and value changes, is no different than the sole proprietor's: it's all about the cash. Most investors don't think this way. In part, this is because market exchanges readily allow investors to trade cash today for claims on future cash flows, and vice versa, encouraging them to forget they are evaluating, buying, and selling businesses. Yet investors, as opposed to speculators, should never lose sight of their objective: buying a stream of cash flows for less than what it is worth. Given that cash inflows and outflows are the lifeblood of corporate value, you might expect investors to be intent on measuring and valuing cash flows. Indeed, valuation in the bond and commercial real estate markets is all about cash. In practice, however, very few equity investors dwell on cash. Proxies for value, like earnings and multiples, dominate Wall Street valuation work. Because markets are mostly efficient, investors can get away with using value proxies without awareness of what the proxies actually represent. The result is complacency and a false sense of understanding. As a consequence most investors don't do fundamental valuation work; when they do, they often do the work incorrectly.
 
 First principles tell us the right way to value a business is to estimate the present value of the future cash flows. While most Wall Street professionals learned about discounted cash flow (DCF) models in school, in practice the models they build and rely on are deeply flawed. Not surprisingly, the confidence level in these DCF models is very low. This faint confidence is not an indictment of analytical approach but rather of analytical methods.
@@ -37,10 +93,9 @@ First principles tell us the right way to value a business is to estimate the pr
 DCF models should be economically sound and transparent. Economically sound means the company's return and growth patterns are consistent with the company's positioning and the ample empirical record supporting reversion to the mean. Transparent means you understand the economic implications of the method and assumptions you choose. Most DCF models fail to meet the standards of economic soundness and transparency.
 
 ## The List
-
 Here's our list of the most frequent errors we see in DCF models. We recommend you check your models, or the models you see, versus this list. If one or more of the errors appear, the model will do little to inform your business judgment.
 
-[^1]: Forecast horizon that is too short. One of the most common criticisms of DCF models is that any forecast beyond a couple of years is suspect. Investors, therefore, are alleged to be better off using more certain, near-term earnings forecasts. Such reasoning makes no sense, for at least two reasons. First, a key element in understanding a business's attractiveness involves knowing the set of financial expectations the price represents. The market as a whole has historically traded at a price-to-earnings multiple in the mid-to-high teens. Simple math shows today's stock prices reflect expectations for value-creating earnings and cash flows many years in the future. To make the point more concrete, imagine you are a restaurant industry executive in charge of finding new store locations. When assessing the attractiveness of a prospective site, would you consider only two years of earnings because "any beyond that is guessing"? Of course not. You'd base your judgment on the location, past results for similar sites, and other value-relevant factors. Intelligent capital allocators take a long-term view. The mismatch between a short forecast horizon and asset prices that reflect long-term cash flows leads to the second problem: investors have to compensate for the undersized horizon by adding value elsewhere in the model. The prime candidate for the value dump is the continuing, or terminal, value. The result is often a completely non-economic continuing value. This value misallocation leaves both parts of the model—the forecast period and continuing value estimate—next to useless. Some investors swear off the DCF model because of its myriad assumptions. Yet they readily embrace an approach that packs all of those same assumptions, without any transparency, into a single number: the multiple. 3 Multiples are not valuation; they represent shorthand for the valuation process. Like most forms of shorthand, multiples come with blind spots and biases that few investors take the time and care to understand. John Maynard Keynes famously said, "I'd rather be vaguely right than precisely wrong." His message applies here. We recommend explicit forecast periods of no less than five years, and note many companies require over ten years of value-creating cash flows to justify their stock prices. Ideally, the explicit forecast period should capture at least one-third of corporate value with clear assumptions about projected financial performance. While the range of possible outcomes certainly widens with time, we have better analytical tools to deal with an ambiguous future than to place an uncertain multiple on a more certain near-term earnings per share figure. We address the uncertainty issue below.
+[^1]: Forecast horizon that is too short. One of the most common criticisms of DCF models is that any forecast beyond a couple of years is suspect. Investors, therefore, are alleged to be better off using more certain, near-term earnings forecasts. Such reasoning makes no sense, for $\$a_t$$ least two reasons. First, a key element in understanding a business's attractiveness involves knowing the set of financial expectations the price represents. The market as a whole has historically traded $$a_t$$ a price-to-earnings multiple in the mid-to-high teens. Simple math shows today's stock prices reflect expectations for value-creating earnings and cash flows many years in the future. To make the point more concrete, imagine you are a restaurant industry executive in charge of finding new store locations. When assessing the attractiveness of a prospective site, would you consider only two years of earnings because "any beyond that is guessing"? Of course not. You'd base your judgment on the location, past results for similar sites, and other value-relevant factors. Intelligent capital allocators take a long-term view. The mismatch between a short forecast horizon and asset prices that reflect long-term cash flows leads to the second problem: investors have to compensate for the undersized horizon by adding value elsewhere in the model. The prime candidate for the value dump is the continuing, or terminal, value. The result is often a completely non-economic continuing value. This value misallocation leaves both parts of the model—the forecast period and continuing value estimate—next to useless. Some investors swear off the DCF model because of its myriad assumptions. Yet they readily embrace an approach that packs all of those same assumptions, without any transparency, into a single number: the multiple. 3 Multiples are not valuation; they represent shorthand for the valuation process. Like most forms of shorthand, multiples come with blind spots and biases that few investors take the time and care to understand. John Maynard Keynes famously said, "I'd rather be vaguely right than precisely wrong." His message applies here. We recommend explicit forecast periods of no less than five years, and note many companies require over ten years of value-creating cash flows to justify their stock prices. Ideally, the explicit forecast period should capture $$a_t$$ least one-third of corporate value with clear assumptions about projected financial performance. While the range of possible outcomes certainly widens with time, we have better analytical tools to deal with an ambiguous future than to place an uncertain multiple on a more certain near-term earnings per share figure. We address the uncertainty issue below.
 
 [^2]: Uneconomic continuing value. The continuing value component of a DCF model captures the firm's value for the time beyond the explicit forecast period, which can theoretically extend into perpetuity.
 
@@ -56,7 +111,7 @@ Estimating the cost of equity is more challenging. Unlike debt's explicit cost, 
 
 Beta is wonderful theoretically but fails practically and empirically. The practical failure surrounds what beta to actually use in the CAPM. Ideally, we want forward-looking betas, which we cannot reliably estimate. Beta's empirical failure reflects studies showing beta does a poor job explaining returns. 5
 
-A visit to the Bloomberg terminal shows the problem with blithely using the CAPM. In mid-March 2006, General Motors had a beta of 1.3 while Yahoo! Had a beta in excess of 1.6. It would be hard for a businessperson to argue that Yahoo is likely to be significantly more risky than General Motors over an appropriate forecast time horizon. Indeed, the implied option volatilities suggest more risk at GM than YHOO. While gauging the relative risks of businesses is clearly valuable, investors have to impose judgment on the figures the various services produce. The second important input into the CAPM is the equity risk premium, the return above and beyond the risk-free rate an investor expects to earn as compensation for assuming greater risk. Like beta, the equity risk premium is ideally a forward-looking estimate. Most analysts rely on past equity risk premiums, which, depending on the time frame, may not give a reasonable sense of the return outlook. Most of the problems with the cost of capital come from stale inputs for beta and the equity risk premium. For example, the geometric average equity risk premium was 1.9 percentage points from 1982-2005, 3.7 percentage points from 1962-2005, and 6.2 percentage points from 1926-2005. 6 The arithmetic average equity risk premiums during the same time frames were higher.
+A visit to the Bloomberg terminal shows the problem with blithely using the CAPM. In mid-March 2006, General Motors had a beta of 1.3 while Yahoo! Had a beta in excess of 1.6. It would be hard for a businessperson to argue that Yahoo is likely to be significantly more risky than General Motors over an appropriate forecast time horizon. Indeed, the implied option volatilities suggest more risk $\$a_t$$ GM than YHOO. While gauging the relative risks of businesses is clearly valuable, investors have to impose judgment on the figures the various services produce. The second important input into the CAPM is the equity risk premium, the return above and beyond the risk-free rate an investor expects to earn as compensation for assuming greater risk. Like beta, the equity risk premium is ideally a forward-looking estimate. Most analysts rely on past equity risk premiums, which, depending on the time frame, may not give a reasonable sense of the return outlook. Most of the problems with the cost of capital come from stale inputs for beta and the equity risk premium. For example, the geometric average equity risk premium was 1.9 percentage points from 1982-2005, 3.7 percentage points from 1962-2005, and 6.2 percentage points from 1926-2005. 6 The arithmetic average equity risk premiums during the same time frames were higher.
 
 One area of debate in valuation is whether the geometric or arithmetic average is more appropriate. We favor geometric returns for long term models and arithmetic averages for shortterm return forecasts. 7
 
@@ -68,9 +123,9 @@ Source: Various sellside reports.
 
 Finally, while some sensitivity analysis around the cost of capital can be useful, we would argue investors are much better off considering alternative scenarios for the key operating value drivers (sales growth, margins, capital intensity). Sometimes asset mispricings do show up as high discount rates, as we saw in the high-yield bond market in late 2002. But even there, you could argue great investors have historically generated an edge by understanding the value drivers better than the market.
 
-[^4]: Mismatch between assumed investment and earnings growth. Companies invariably must invest in the business—via working capital, capital spending, acquisitions, R&D, etc.—in order to grow over an extended period. Return on investment (ROI) determines how efficiently a company translates its investments into earnings growth. Since ROI links investment and growth, and ROIs tend toward the cost of capital over time, investors must treat the relationship between investment and growth carefully. DCF models commonly underestimate the investment necessary to achieve an assumed growth rate. This mistake often comes from two sources. First, analysts looking at companies that have been highly acquisitive in the past extrapolate an acquisition-enhanced growth rate while only reflecting capital spending and working capital needs for the current business. You can mitigate this error by carefully considering the growth likely to come from today's business—which will be less than an acquisition-fueled rate. The second reason for underestimating investment stems from a simple failure to explicitly link growth and investments via ROI. Analysts frequently project growth (sales and margins) independent of investments. A simple way to check for this error is to add a ROI line in the model. If you see ROIs rising or dropping sharply without a thoughtful strategic underpinning, the model is likely unreliable. The vast majority of the models we see make no effort to reflect a link between growth and investment.
+[^4]: Mismatch between assumed investment and earnings growth. Companies invariably must invest in the business—via working capital, capital spending, acquisitions, R&D, etc.—in order to grow over an extended period. Return on investment (ROI) determines how efficiently a company translates its investments into earnings growth. Since ROI links investment and growth, and ROIs tend toward the cost of capital over time, investors must treat the relationship between investment and growth carefully. DCF models commonly underestimate the investment necessary to achieve an assumed growth rate. This mistake often comes from two sources. First, analysts looking $\$a_t$$ companies that have been highly acquisitive in the past extrapolate an acquisition-enhanced growth rate while only reflecting capital spending and working capital needs for the current business. You can mitigate this error by carefully considering the growth likely to come from today's business—which will be less than an acquisition-fueled rate. The second reason for underestimating investment stems from a simple failure to explicitly link growth and investments via ROI. Analysts frequently project growth (sales and margins) independent of investments. A simple way to check for this error is to add a ROI line in the model. If you see ROIs rising or dropping sharply without a thoughtful strategic underpinning, the model is likely unreliable. The vast majority of the models we see make no effort to reflect a link between growth and investment.
 
-[^5]: Improper reflection of other liabilities. In the widely-used free cash flow to enterprise approach, an analyst determines the corporate value based on the present value of future cash flows. The analyst then adds cash and any other nonoperating assets and subtracts debt and any other liabilities to arrive at shareholder value. Most liabilities, including debt and many pension programs, are relatively straightforward to determine and reflect in the model. Some other liabilities, like employee stock options, are trickier to capture. Not surprisingly, most analysts do a very poor job capturing these liabilities in an economically sound way. We would note that other liabilities tend to be important for only a handful of companies. For example, other postretirement employee benefit plans tend to concentrate in manufacturing industries (e.g., autos) while employee stock options occur most frequently in knowledge and service industries (e.g., technology and financial services). Investors must properly recognize other liabilities in the sectors where they have a large impact on corporate value. Employee stock options are a good illustration of this common shortcoming. Most DCF models simply reflect past option grants through fully diluted shares. Of course, since fully diluted shares only reflect in-the-money options, the solution does an awful job of capturing the magnitude of the liability. 10 While accounting standards now require companies to expense options, we have found few DCF models that explicitly treat future option grants as an expense. Often, analyst models show rising shares outstanding (dilution) and models sometimes include option proceeds without reflecting any dilution. We can deal with ESOs appropriately by treating already-granted options as a contingent liability, using basic shares outstanding, and reflecting future option grants as an expense. This approach allows for a dynamic appraisal of past option grants and considers future grants as an economic expense.
+[^5]: Improper reflection of other liabilities. In the widely-used free cash flow to enterprise approach, an analyst determines the corporate value based on the present value of future cash flows. The analyst then adds cash and any other nonoperating assets and subtracts debt and any other liabilities to arrive $\$a_t$$ shareholder value. Most liabilities, including debt and many pension programs, are relatively straightforward to determine and reflect in the model. Some other liabilities, like employee stock options, are trickier to capture. Not surprisingly, most analysts do a very poor job capturing these liabilities in an economically sound way. We would note that other liabilities tend to be important for only a handful of companies. For example, other postretirement employee benefit plans tend to concentrate in manufacturing industries (e.g., autos) while employee stock options occur most frequently in knowledge and service industries (e.g., technology and financial services). Investors must properly recognize other liabilities in the sectors where they have a large impact on corporate value. Employee stock options are a good illustration of this common shortcoming. Most DCF models simply reflect past option grants through fully diluted shares. Of course, since fully diluted shares only reflect in-the-money options, the solution does an awful job of capturing the magnitude of the liability. 10 While accounting standards now require companies to expense options, we have found few DCF models that explicitly treat future option grants as an expense. Often, analyst models show rising shares outstanding (dilution) and models sometimes include option proceeds without reflecting any dilution. We can deal with ESOs appropriately by treating already-granted options as a contingent liability, using basic shares outstanding, and reflecting future option grants as an expense. This approach allows for a dynamic appraisal of past option grants and considers future grants as an economic expense.
 
 [^6]: Discount to private market value. In what we'd characterize as an unfortunate hangover from the 1980s and 1990s investment-banker mentality, we still see DCF models that calculate a value, only to modify the amount by a "public market discount" of 20-25 percent. This practice seems most prevalent in the telecommunications industry. This practice fails the transparency test. To see the point, we have to invert the discount mindset and ask why a private (strategic or financial) buyer would pay a *premium* to public market value.
 
@@ -84,92 +139,74 @@ Going one step further, the large majority of reports we see offer one DCF scena
 Scenario analysis also addresses concerns about an uncertain future. By considering "if, then" scenarios and insisting on a proper discount to expected value—or margin of safety—an investor can safely and thoughtfully weigh various outcomes.
 
 ## Conclusion
-
 Theory and practice tell us the value of a company is the present value of future cash flows.
 
 Investors primarily seek to buy a stream of cash flow for less than it's worth—or sell a stream for more than it's worth. Accordingly, an investor needs to be able to model cash flows intelligently and identify a variant perception: a well-founded belief the market has placed an incorrect value on a company. Business school students learn all about DCF models, and they often practice building them in a classroom setting. But when applying the models to the real world, an investor must ensure the models are economically sound and transparent. In practice, very few models pass these tests. We have tried to identify the key areas of failure, and offer some thoughts about how to address the shortcomings.
 
 # Common Errors In DCF Models
-
 ## Continuing Value Calculation
-
 Here's the standard method for calculating continuing value, or value beyond the explicit forecast period:
 
-- $$\text{Value}= \frac{\text{NOPAT}_{CAP+1} \times (1-\text{growth/ROIC})}{\text{WACC} - g}$$
+- $\$\text{Value}= \frac{\text{NOPAT}_{CAP+1} \times (1-\text{growth/ROIC})}{\text{WACC} - g}$$
   - Where:
      - $\text{NOPAT}_{CAP+1}$= Normalized NOPAT in the first year after the forecast period
      - $\text{Growth}$= Growth in NOPAT
      - $\text{ROIC}$= Return on incremental investment
      - $\text{WACC}$= Weighted average cost of capital
   - NOPAT is an acronym for net operating profit after tax.
-
 This method is identical to the free cash flow (FCF) in perpetuity approach when the underlying assumptions are the same. Here's the FCF in perpetuity approach:
 
-- $$\text{Value}= \frac{\text{FCF}_{CAP+1}}{\text{WACC} - g}$$
-
+- $\$\text{Value}= \frac{\text{FCF}_{CAP+1}}{\text{WACC} - g}$$
 ### Equivalence Demonstration
-
 Let's plug in some numbers to demonstrate the equivalence. Assume:
 
 - $\text{NOPAT}_{CAP+1} = \$100$
-- $\text{Growth} = 5\%$
-- $\text{ROIC} = 12\%$
-- $\text{WACC} = 9\%$
-
+- $\text{Growth} = 5\\%$
+- $\text{ROIC} = 12\\%$
+- $\text{WACC} = 9\\%$
 The standard formula:
 
-- $$\text{Value}= \frac{100 \times (1-(5\%/12\%))}{9\% - 5\%} = \frac{58.33}{4\%} = 1,458.3$$
-
+- $\$\text{Value}= \frac{100 \times (1-(5\\%/12\\%))}{9\\% - 5\\%} = \frac{58.33}{4\\%} = 1,458.3$$
 In order to calculate the value using the FCF method, we need to know the magnitude of investment. Note that FCF equals NOPAT – Investment.
 
 Since we know the starting NOPAT, growth, and ROIC, we can calculate investment:
 
-- $$\text{ROIC} \times \text{investment}_1 = \Delta\text{NOPAT}_{2-1}$$
-- A $5\%$ NOPAT growth rate tells us that NOPAT is going from $100 to $105. So the change in NOPAT is $5. Year 2 NOPAT of $105 minus Year 1 NOPAT of $100 = $5. We also know ROIC is $12\%$. So:
-  - $$12\% \times \text{investment} = 5$$
-  - $$\text{Investment}= \frac{5}{12\%} = 41.67$$
-
+- $\$\text{ROIC} \times \text{investment}_1 = \\Delta\text{NOPAT}_{2-1}$$
+- A $5\\%$ NOPAT growth rate tells us that NOPAT is going from $100 to $105. So the change in NOPAT is $5. Year 2 NOPAT of $105 minus Year 1 NOPAT of $100 = $5. We also know ROIC is $12\\%$. So:
+  - $\$12\\% \times \text{investment} = 5$$
+  - $\$\text{Investment}= \frac{5}{12\\%} = 41.67$$
 Now, we know that FCF$= 58.33. \text{NOPAT of } 100 \text{ minus [Investment of } 41.67 = 58.33].$
 
 So the FCF in perpetuity model gives:
 
-- $$\text{Value}= \frac{58.33}{9\% – 5\%} = \frac{58.33}{4\%} = 1,458.3$$
-
+- $\$\text{Value}= \frac{58.33}{9\\% – 5\\%} = \frac{58.33}{4\\%} = 1,458.3$$
 ## Consistency in Assumptions
-
 So the standard formula and the FCF in perpetuity approaches give the exact same answer provided your assumptions are consistent.
 
 Both the standard formula and the FCF in perpetuity collapse to the perpetuity assumption when ROIC equals WACC; that is, when incremental returns equal the cost of capital or, equivalently, incremental investments have a zero net present value.
 
 ### Assumption Variation
-
 Let's hold all of our assumptions constant except ROIC, which we'll set equal to the cost of capital:
 
 - $\text{NOPAT}_{CAP+1} = \$100$
-- $\text{Growth} = 5\%$
-- $\text{ROIC} = 9\%$
-- $\text{WACC} = 9\%$
-
+- $\text{Growth} = 5\\%$
+- $\text{ROIC} = 9\\%$
+- $\text{WACC} = 9\\%$
 The standard formula now yields:
 
-- $$\text{Value}= \frac{100 \times (1-(5\%/9\%))}{9\% - 5\%} = \frac{44.44}{4\%} = 1,111.1$$
-
+- $\$\text{Value}= \frac{100 \times (1-(5\\%/9\\%))}{9\\% - 5\\%} = \frac{44.44}{4\\%} = 1,111.1$$
 The same is true for the FCF in perpetuity model. First, we need to recalculate the investment:
 
-- $$9\% \times \text{investment} = 5$$
-- $$\text{Investment}= \frac{5}{9\%} = 55.56$$
-
+- $\$9\\% \times \text{investment} = 5$$
+- $\$\text{Investment}= \frac{5}{9\\%} = 55.56$$
 So,
 
 - FCF$= 44.44. [100 – 55.56 = 44.44].$
-- $$\text{Value}= \frac{44.44}{9\% – 5\%} = \frac{44.44}{4\%} = 1,111.1$$
-
+- $\$\text{Value}= \frac{44.44}{9\\% – 5\\%} = \frac{44.44}{4\\%} = 1,111.1$$
 ## Perpetuity Assumption
-
 The straight perpetuity assumption is simply:
 
-- $$\text{Value}= \frac{\text{NOPAT}_{CAP+1}}{\text{WACC}}$$
+- $\$\text{Value}= \frac{\text{NOPAT}_{CAP+1}}{\text{WACC}}$$
   - Or:
-     - $$\text{Value}= \frac{100}{9\%} = 1,111.1$$
-
+     - $\$\text{Value}= \frac{100}{9\\%} = 1,111.1$$
 All continuing value methods collapse to the same value as a perpetuity if you assume ROIC equals WACC. Growth beyond the forecast period does not matter in and of itself.

@@ -1,3 +1,25 @@
+---
+tags:
+- abs
+- capm
+- credit-spreads
+- market-risk
+- mean-reversion
+- options
+- trading-strategies
+key_concepts:
+- Capital Asset Pricing Model (CAPM)
+- Credit spreads and credit risk assessment
+- Trading strategies and market implementation
+- Investment analysis and portfolio management
+- Financial valuation and pricing methodologies
+- Equity markets and stock valuation
+- Valuation methodologies and discounted cash flow analysis
+last_enhanced: '2025-11-06 08:42:51'
+---
+
+
+
 
 
 # DCF Valuation Pseudo-Algorithm

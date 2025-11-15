@@ -1,24 +1,174 @@
 ---
+aliases:
+- LUNA
+- TerraUSD Class Note
+- UST
 cssclasses:
-  - academia
+- academia
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Credit analysis and rating
+- Default probability modeling
+- Loss given default estimation
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Class Note On Terrausd May 21 2022 and financial analysis
+- Class Note On Terrausd May 21 2022 in modern finance
+- Applications of Class Note On Terrausd May 21 2022
+- 'Case study: Class Note On Terrausd May 21 2022'
+last_enhanced: '2025-11-06 08:42:29'
+- call
+- treasury
+- fixed-income
+- swap
+- arbitrage
+- options
+- swaps
+- bonds
+- credit-risk
+- collateral
+- ratio
+- irs
+- risk
 title: Class Note On TerraUSD May 21 2022
 tags:
-  - bank_run
-  - cryptocurrency
-  - fixed_exchange_rates
-  - luna
-  - terrausd
-aliases:
-  - LUNA
-  - TerraUSD Class Note
-  - UST
+- algorithmic-stablecoin
+- arbitrage
+- asian
+- bank-failure
+- bank-run
+- banking
+- banking-crisis
+- basis
+- bid-ask
+- blockchain
+- bond
+- case-study
+- central-bank-policy
+- collateral
+- commercial-paper
+- counterparty
+- crisis-analysis
+- crisis-management
+- crypto-crisis
+- crypto-regulation
+- currency
+- decentralized-finance
+- default
+- defi
+- derivative-pricing
+- derivatives
+- devaluation
+- digital-asset
+- duration
+- empirical-analysis
+- equity
+- financial-institutions
+- financial-markets
+- financial-stability
+- fixed-income
+- graduate-level
+- hedging
+- institutional-analysis
+- institutional-quality
+- learning-from-crisis
+- liquidity
+- liquidity-management
+- market-liquidity
+- market-structure
+- mathematical-finance
+- monetary-policy
+- money-market
+- money-markets
+- pegging
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- repo-markets
+- sec-regulation
+- securitization
+- short-term-funding
+- sovereign
+- spread
+- stablecoin
+- systemic-risk
+- terra-luna
+- terra-luna-ust
+- terrausd
+- treasury
+- yield-curve
+
 key_concepts:
-  - Arbitrage process
-  - Bank run analogy
-  - LUNA and UST swap
-  - Speculative attacks
-  - TerraUSD fixed exchange rates
+- Algorithmic Stablecoin Risks
+- Bank Failure Prevention
+- Banking Crisis Management
+- Banking and Financial Intermediation
+- Blockchain-Based Financial Products
+- Case Study Methodology
+- Central Bank Crisis Response
+- Central Bank Liquidity Facilities
+- Commercial Paper Markets
+- Crisis Case Study Design
+- Crisis Communication
+- Crypto Crisis Management
+- Cryptocurrency Market Dynamics
+- Decentralized Finance (DeFi)
+- Digital Asset Risk Assessment
+- Emergency Liquidity Assistance
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Intermediation and Banking
+- Financial Markets and Institutions
+- Financial Stability Measures
+- Historical Financial Analysis
+- Institutional Analysis of Financial Systems
+- Institutional-Quality Financial Education
+- International Crisis Coordination
+- Learning from Financial Crises
+- Liquidity Crisis and Management
+- Liquidity Risk and Management
+- Market Structure and Microstructure
+- Money Market Fund Dynamics
+- Money Market Instruments
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Regulatory Framework in Financial Markets
+- Repurchase Agreement Markets
+- Risk Management and Hedging Strategies
+- Short-Term Funding Markets
+- Stablecoin Regulatory Framework
+- Systemic Risk Assessment
+- TerraUSD and Stablecoin Mechanics
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # Class Note On TerraUSD May 21 2022
 

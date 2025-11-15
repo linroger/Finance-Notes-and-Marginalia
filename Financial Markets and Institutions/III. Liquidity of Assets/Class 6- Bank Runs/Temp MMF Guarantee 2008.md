@@ -1,35 +1,157 @@
 ---
-cssclasses:
-  - academia
-title: "Temporary Guarantee Program for Money Funds"
-linter-yaml-title-alias: "Temporary Guarantee Program for Money Funds"
-tags:
-  - fund_liquidation
-  - guarantee_event
-  - mmf
-  - temporary_guarantee_program
-  - us_treasury
-  - 2008_financial_crisis
-  - emergency_program
-  - market_stability
-  - government_intervention
 aliases:
-  - Guarantee Program
-  - Temp MMF Guarantee
-  - Temporary Guarantee Program
-  - "Treasury MMF Guarantee 2008"
+- Guarantee Program
+- Temp MMF Guarantee
+- Temporary Guarantee Program
+- Treasury MMF Guarantee 2008
+cssclasses:
+- academia
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- Temp MMF Guarantee 2008 and financial analysis
+- Temp MMF Guarantee 2008 in modern finance
+- Applications of Temp MMF Guarantee 2008
+- 'Case study: Temp MMF Guarantee 2008'
+linter-yaml-title-alias: Temporary Guarantee Program for Money Funds
+- treasury
+- fixed-income
+- credit
+- futures
+- forward
+- portfolio-optimization
+- portfolio
+- multiple
+- swaps
+- bonds
+- basis
+- valuation
+- irs
+title: Temporary Guarantee Program for Money Funds
+tags:
+- arbitrage
+- banking
+- basis
+- bid-ask
+- bond
+- case-study
+- central-bank
+- commercial-paper
+- covenant
+- crisis-analysis
+- currency
+- derivatives
+- duration
+- empirical-analysis
+- equity
+- fair-value
+- financial-institutions
+- financial-markets
+- financial-regulation
+- fixed-income
+- governance
+- government-fund
+- graduate-level
+- hedging
+- institutional-analysis
+- institutional-quality
+- learning-from-crisis
+- liquidity
+- liquidity-fee
+- liquidity-management
+- market-liquidity
+- market-structure
+- mathematical-finance
+- monetary-policy
+- money-market
+- money-market-fund
+- money-markets
+- municipal-fund
+- prime-fund
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- regulatory-compliance
+- repo-markets
+- reporting-requirement
+- sec-regulation
+- securitization
+- short-term-funding
+- spread
+- stable-net-asset-value
+- supervision
+- treasury
+- yield-curve
+
 key_concepts:
-  - Board findings
-  - Fund liquidation required
-  - Guarantee event triggers
-  - Guarantee payment process
-  - MMF stable NAV
-  - Treasury guarantee coverage
-  - Participation requirements
-  - Coverage limitations
-  - Extension provisions
-  - Crisis response measures
+- Bank Supervision
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Central Bank Liquidity Facilities
+- Commercial Paper Markets
+- Compliance Management
+- Corporate Governance
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Intermediation and Banking
+- Financial Markets and Institutions
+- Financial Regulation
+- Governance Standards
+- Government Money Market Funds
+- Historical Financial Analysis
+- Institutional Analysis of Financial Systems
+- Institutional Money Market Funds
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Liquidity Crisis and Management
+- Liquidity Fee Mechanisms
+- Liquidity Risk and Management
+- Market Structure and Microstructure
+- Money Market Fund Dynamics
+- Money Market Fund Management
+- Money Market Fund Regulation
+- Money Market Instruments
+- Municipal Money Market Funds
+- Prime Money Market Funds
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Regulatory Compliance
+- Regulatory Framework
+- Regulatory Framework in Financial Markets
+- Regulatory Risk
+- Repurchase Agreement Markets
+- Risk Management and Hedging Strategies
+- Short-Term Funding Markets
+- Stable Net Asset Value
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
 
 # Temporary Guarantee Program for Money Funds
 

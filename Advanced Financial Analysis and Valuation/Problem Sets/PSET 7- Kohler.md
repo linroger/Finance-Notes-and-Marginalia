@@ -2,36 +2,62 @@
 title: PSET 7 - Kohler
 cssclasses: academia
 tags:
-  - dcf_analysis
-  - enterprise_value
-  - kohler_co
-  - private_firm_valuation
-  - recapitalization
-  - family_business
-  - corporate_finance
-  - valuation_methods
-  - minority_shareholders
-  - financial_analysis
+- beta
+- corporate_finance
+- cost-of-capital
+- dcf
+- dcf_analysis
+- enterprise-value
+- enterprise_value
+- equity
+- equity-value
+- family_business
+- financial_analysis
+- future
+- kohler_co
+- liquidity
+- minority_shareholders
+- multiple
+- portfolio-optimization
+- private_firm_valuation
+- recapitalization
+- terminal-value
+- valuation_methods
+- wacc
+- wacc-calculation
 aliases:
-  - DCF vs Public
-  - Herbert Kohler
-  - Kohler Valuation
-  - PSET 7
+- DCF vs Public
+- Herbert Kohler
+- Kohler Valuation
+- PSET 7
 key_concepts:
-  - availability_of_information: "Transparency differences between public and private firms"
-  - control_considerations: "Control premiums and minority discounts in valuations"
-  - dcf_valuation: "Application of discounted cash flow model to private firms"
-  - discount_rate: "Cost of capital adjustments for private firms"
-  - enterprise_value: "Total value of a company before debt obligations"
-  - growth_assumptions: "Long-term strategic planning in private firms"
-  - liquidity_marketability: "Discounts applied for lack of share liquidity"
-  - peer_analysis: "Comparison with similar public companies"
-  - family_ownership: "Preservation of family control and governance"
-  - public_vs_private: "Key valuation differences based on ownership structure"
+- Derivative securities
+- Discounted Cash Flow valuation
+- Enterprise value estimation
+- Financial risk management
+- Free cash flow modeling
+- Gordon growth model
+- Multi-stage DCF models
+- Portfolio optimization
+- Quantitative financial analysis
+- Risk assessment and mitigation
+- Terminal value calculation
+- WACC calculation
+- Weighted Average Cost of Capital
+- '{''availability_of_information'': ''Transparency differences between public and
+  private firms''}'
+- '{''control_considerations'': ''Control premiums and minority discounts in valuations''}'
+- '{''dcf_valuation'': ''Application of discounted cash flow model to private firms''}'
+- '{''discount_rate'': ''Cost of capital adjustments for private firms''}'
+- '{''enterprise_value'': ''Total value of a company before debt obligations''}'
+- '{''family_ownership'': ''Preservation of family control and governance''}'
+- '{''growth_assumptions'': ''Long-term strategic planning in private firms''}'
+- '{''liquidity_marketability'': ''Discounts applied for lack of share liquidity''}'
+- '{''peer_analysis'': ''Comparison with similar public companies''}'
+- '{''public_vs_private'': ''Key valuation differences based on ownership structure''}'
 ---
 
 # PSET 7 - Kohler
-
 [^1]: Why does Herbert Kohler want to do the recapitalization? Provide a brief discussion.
 
    Herbert Kohler wants to do the recapitalization primarily to preserve family ownership and control over Kohler Co. As a private company, Kohler Co could take a long-term perspective and make strategic investments without being subjected to public scrutiny and short-term pressures from outside shareholders. Kohler believed that the company's private status was crucial to its success and competitive advantage. The recapitalization aimed to eliminate outside shareholders by either buying out their shares or exchanging them for new restricted classes of shares that could only be transferred within the Kohler family and affiliated entities.
@@ -43,28 +69,23 @@ key_concepts:
 [^2]: What are the key differences between using the DCF approach to value a private firm vs. a public firm? Provide a list of bullet points with short comments.
 
    - **Availability of information**: Public firms are required to disclose detailed financial information, making it easier to obtain reliable data for DCF analysis. Private firms may not have the same level of transparency, making it harder to assess their financial performance.
-
    - **Liquidity and marketability**: Public firms generally have more liquid and active trading of their shares, while private firm shares are illiquid and have limited marketability, potentially warranting liquidity discounts.
-
    - **Control and minority considerations**: DCF valuations of public firms typically reflect the value of a minority, non-controlling interest. Private firm valuations may need to consider control premiums or minority discounts, depending on the specific circumstances.
-
    - **Growth assumptions**: Private firms may have more flexibility in pursuing long-term growth strategies without the pressure of meeting short-term market expectations, allowing for different growth assumptions in the DCF model. They are also more susceptible to minority shareholder expropriation.
-
    - **Discount rate**: The discount rate for a private firm may be higher due to potentially higher risks associated with illiquidity, lack of diversification, and limited information.
-
 [^3]: Use a DCF valuation and multiples to determine the total enterprise value of Kohler as of April 30, 1998. The spreadsheet posted on Canvas guides you through the process. Much of the process is a review of standard DCF and WACC calculations.
 
    To determine the enterprise value of Kohler, we identified that the company's performance is primarily driven by its plumbing products, with the remainder attributable to its power engine products. Peer companies were identified for these two business units and weights of 80/20 were assigned when calculating equity/debt discount rates and WACC.
 
-   For the DCF model, we calculated the T+1 FCF by applying the terminal year growth rate to the 2022 EBIT, subtracting a 43% tax expense, and carrying over other items except for deferred tax assets/liabilities and other assets. The Total Beta WACC was selected to calculate the terminal value and discount factors. We arrived at an enterprise value of $760.76 million, a firm equity value of $530.77 million, and a price per share of $69,950.
+   For the DCF model, we calculated the T+1 FCF by applying the terminal year growth rate to the 2022 EBIT, subtracting a 43% tax expense, and carrying over other items except for deferred tax assets/liabilities and other assets. The Total Beta WACC was selected to calculate the terminal value and discount factors. We arrived $\$a_t$$ an enterprise value of $760.76 million, a firm equity value of $530.77 million, and a price per share of $69,950.
 
    !DCF Valuation Results
 
-   Under the multiple method, we used the average implied EV based on the four multiples and arrived at a per share price at $214,813.
+   Under the multiple method, we used the average implied EV based on the four multiples and arrived $\$a_t$$ a per share price $$a_t$$ $214,813.$
 
    !Multiple Valuation Results
 
-[^4]: Next, using your enterprise valuations in question 4 as starting points, determine the value of a share for Kohler's minority shareholders using the DCF and multiples methods. Incorporate any discounts that you think are appropriate. Please explain. The Damodaran reading provides some background on commonly used discounts. The spreadsheet provides further guidance only on where to input the discounts (the values are at your discretion).
+[^4]: Next, using your enterprise valuations in question 4 as starting points, determine the value of a share for Kohler's minority shareholders using the DCF and multiples methods. Incorporate any discounts that you think are appropriate. Please explain. The Damodaran reading provides some background on commonly used discounts. The spreadsheet provides further guidance only on where to input the discounts (the values are $\$a_t$$ your discretion).
 
    We elected to use a 20% minority discount and a 20% liquidity discount. Regarding the minority discount, given that the typical range in the market is 20-30%, we selected the lower end of the range because Kohler is a well-established company with stable operations. Historically, there have also been buy-backs and other exit opportunities offered to minority shareholders. According to an article by Damodaran, the typical range for a liquidity discount is 20-30%, with a benchmark discount of 25% for a firm with positive earnings. Considering that Kohler is a large and financially healthy company with a likelihood of going public in the future, we believe a lower liquidity discount of 20% is more applicable. After applying these two discounts, the price per share decreased from $69,950 to $44,768.
 
@@ -72,7 +93,7 @@ key_concepts:
 
 [^5]: Now consider Herbert Kohler's claim that $55,400 is the appropriate price for a share held by a minority shareholder. What minority and liquidity discounts would you have to use to justify this share price? How are these similar to or different from the discounts you used in question 4? Please explain.
 
-   To arrive at the offered price of $55,400, we would have to apply a 15% minority discount and 7% marketability discount to account for the illiquid nature of these shares.
+   To arrive $\$a_t$$ the offered price of $55,400, we would have to apply a 15% minority discount and 7% marketability discount to account for the illiquid nature of these shares.
 
    Considering that $55,400 is determined to be an appropriate price per share for minority shareholders, it implies lower minority and liquidity discounts than we initially expected. Specifically, a 15% minority discount and a 7% liquidity discount could account for this share price. The lower discounts could suggest that, compared to general firms, Kohler offers more favorable conditions for minority shareholders in relation to buy-back policies and investor relations. Additionally, the company has higher financial stability and potential for a public offering in the future.
 

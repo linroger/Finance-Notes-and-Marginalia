@@ -3,32 +3,60 @@ linter-yaml-title-alias: GREECE CURRENCY SWAPS
 title: PSET 3 Financial Instruments
 cssclasses: academia
 tags:
-  - bond_pricing
-  - currency_swap
-  - exchange_rate_risk
-  - financial_instruments
-  - zero_coupon_bonds
-  - options_strategies
-  - hedging_techniques
-  - risk_management
-  - derivatives_pricing
-  - collar_strategy
+- bond
+- bond_pricing
+- call
+- collar
+- collar_strategy
+- commodity
+- currency
+- currency_swap
+- defi
+- derivatives_pricing
+- exchange-rate
+- exchange_rate_risk
+- financial_instruments
+- future
+- gdp
+- hedging_techniques
+- interest-rate
+- oil
+- option
+- options_strategies
+- put
+- risk_management
+- sovereign-debt
+- swap
+- zero_coupon_bonds
 aliases:
-  - Currency Swap
-  - Greek Bond
-  - PSET 3
-  - VeroTende
+- Currency Swap
+- Greek Bond
+- PSET 3
+- VeroTende
 key_concepts:
-  - Currency swap
-  - Dollar denominated note
-  - Exchange rate risk
-  - Semi-annual coupon rate
-  - Zero coupon bonds
-  - Option strategies
-  - Collar hedging
-  - Risk-neutral valuation
-  - Put-call parity
-  - Crude oil derivatives
+- Basis swap mechanics
+- Collar hedging
+- Cross-currency basis
+- Crude oil derivatives
+- Currency swap
+- Currency swap structure
+- Derivative securities
+- Dollar denominated note
+- Exchange rate risk
+- Financial risk management
+- Fixed vs floating leg
+- Interest rate swap pricing
+- Option strategies
+- Portfolio optimization
+- Present value of swaps
+- Put-call parity
+- Quantitative financial analysis
+- Risk assessment and mitigation
+- Risk-neutral valuation
+- Semi-annual coupon rate
+- Swap curve construction
+- Swaption valuation
+- Zero coupon bonds
 ---
 
 **Homework 3**

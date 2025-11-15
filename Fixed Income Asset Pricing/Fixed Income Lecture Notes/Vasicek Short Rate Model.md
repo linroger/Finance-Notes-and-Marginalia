@@ -1,20 +1,24 @@
 ---
 tags:
-  - feynman_kac
-  - money_illusion
-  - nominal_bonds
-  - ode_solutions
-  - real_bonds
+- feynman-kac
+- feynman_kac
+- money_illusion
+- nominal_bonds
+- ode_solutions
+- options-greeks
+- real_bonds
 aliases:
-  - Short Rate Model
-  - Vasicek Model
+- Short Rate Model
+- Vasicek Model
 key_concepts:
-  - Feynman-Kac Formula
-  - First Derivatives
-  - Nominal vs Real Bonds
-  - ODE Solutions
-  - System of Equations
+- Derivatives and structured financial instruments
+- Fixed income securities and bond markets
+last_enhanced: '2025-11-06 08:42:39'
 ---
+
+
+
+
 $\textbf{Define}$$$
 Q = \log (\text{CPI}), \quad y = \log (Y)
 $$$\textbf{so that}$$$

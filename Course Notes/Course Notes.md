@@ -1,3 +1,12 @@
+---
+title: Course Notes
+tags:
+- m&a
+- quantitative-finance
+key_concepts:
+- Financial analysis and modeling
+---
+
 Financial Investments for Public Policy Lecture Notes
 
 Applied Financial Management Lecture Notes
@@ -16,5 +25,4 @@ Corporate Finance Lecture Notes
 	- International Trade Banking and Capital Markets Lecture Notes
 	- **Python**
 	- Quantitative Trading Strategies Lecture Notes
-
 %% End Waypoint %%

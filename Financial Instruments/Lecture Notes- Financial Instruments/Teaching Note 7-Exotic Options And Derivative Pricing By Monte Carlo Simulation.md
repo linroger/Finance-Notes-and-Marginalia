@@ -1,26 +1,64 @@
 ---
-linter-yaml-title-alias: Teaching Note 7  Exotic Options  and Derivative Pricing
-  by Monte Carlo Simulation
-title: Teaching Note 7- Exotic Options  And Derivative Pricing By Monte Carlo
-  Simulation
+linter-yaml-title-alias: Teaching Note 7  Exotic Options  and Derivative Pricing by
+  Monte Carlo Simulation
+title: Teaching Note 7- Exotic Options  And Derivative Pricing By Monte Carlo Simulation
 tags:
-  - asian_options
-  - derivative_pricing
-  - monte_carlo_simulation
-  - path_dependent_payoff
-  - risk_neutral_trees
+- asian
+- asian_options
+- barrier
+- call
+- defi
+- derivative_pricing
+- exchange-rate
+- exotic
+- future
+- greeks
+- interest-rate
+- lookback
+- monte-carlo
+- monte_carlo_simulation
+- multiple
+- option
+- path_dependent_payoff
+- put
+- risk-free-rate
+- risk_neutral_trees
+- stochastic
+- stock
+- var
 aliases:
-  - John Heaton
-  - Monte Carlo
-  - Risk Neutral
-  - Teaching Note 7
+- John Heaton
+- Monte Carlo
+- Risk Neutral
+- Teaching Note 7
 key_concepts:
-  - Asian options pricing
-  - Delta calculation
-  - Monte Carlo simulations
-  - Multi-step tree
-  - Path-dependent payoff
-  - Risk neutral trees
+- Asian options pricing
+- Backtesting VaR models
+- Delta calculation
+- Delta risk management
+- Derivative securities
+- Dynamic hedging strategies
+- Expected Shortfall calculation
+- Financial risk management
+- Gamma effects on options
+- Historical simulation VaR
+- Monte Carlo VaR
+- Monte Carlo simulations
+- Multi-step tree
+- Options Greeks measurement
+- Parametric VaR models
+- Path-dependent payoff
+- Portfolio optimization
+- Portfolio risk hedging
+- Quantitative financial analysis
+- Regulatory VaR requirements
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Risk neutral trees
+- Theta time decay
+- VaR model validation
+- Value at Risk (VaR) methodology
+- Vega volatility sensitivity
 ---
 
 # Teaching Note 7- Exotic Options  And Derivative Pricing By Monte Carlo Simulation

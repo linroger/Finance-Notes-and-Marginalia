@@ -1,23 +1,26 @@
 ---
 title: Largest Events Driving Changes to Life Expectancy Through Time
 cssclasses:
-  - academia
+- academia
 tags:
-  - famine
-  - historical_events
-  - life_expectancy
-  - mortality
-  - pandemics
+- famine
+- forward-contracts
+- historical_events
+- life_expectancy
+- mortality
+- pandemics
 aliases:
-  - Historical Life Expectancy
-  - Life Expectancy Events
+- Historical Life Expectancy
+- Life Expectancy Events
 key_concepts:
-  - Changing world order
-  - Famine impacts on life
-  - Historical death events
-  - Life expectancy changes
-  - Pandemic mortality rates
+- Financial theory and academic research
+- International finance and global markets
+last_enhanced: '2025-11-06 08:42:40'
 ---
+
+
+
+
 
 # Largest Events Driving Changes to Life Expectancy Through Time
 

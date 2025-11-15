@@ -3,51 +3,54 @@ cssclasses: academia
 title: Part I - Basic Concepts Introduction
 linter-yaml-title-alias: Part I - Basic Concepts Introduction
 tags:
-  - financial_economics
-  - risk_preferences
-  - banking_theory
-  - financial_concepts
-  - market_completeness
+- banking_theory
+- financial_concepts
+- financial_economics
+- market_completeness
+- option
+- risk_preferences
 aliases:
-  - Financial Intermediation Basic Concepts
-  - Part I Background Introduction
+- Financial Intermediation Basic Concepts
+- Part I Background Introduction
 key_concepts:
-  - Risk preferences (neutral, averse, preferring)
-  - Utility functions and wealth
-  - Expected utility theory
-  - Jensen's inequality
-  - Market completeness
-  - Riskless arbitrage
-  - Options
-  - Market efficiency
-  - Informational asymmetry
+- Derivative securities
+- Expected utility theory
+- Financial risk management
+- Informational asymmetry
+- Jensen's inequality
+- Market completeness
+- Market efficiency
+- Options
+- Portfolio optimization
+- Quantitative financial analysis
+- Risk assessment and mitigation
+- Risk preferences (neutral, averse, preferring)
+- Riskless arbitrage
+- Utility functions and wealth
 ---
 
 # Basic Concepts
-
 "Practical men, who believe themselves to be quite exempt from any intellectual influences, are usually the slaves of some defunct economist. Madmen in authority, who hear voices in the air, are distilling their frenzy from an academic scribbler of a few years back. I am sure that the power of vested interests is vastly exaggerated compared with the gradual encroachment of ideas."
 
 John Maynard Keynes: The General Theory of Employment, Interest and Money, 1947
 
 ## Introduction
-
-The modern theory of financial intermediation is based on concepts developed in financial economics. These concepts are used liberally throughout the book, so it is important to understand them well. It may not be obvious at the outset why a particular concept is needed to understand banking. For example, some may question the relevance of "market completeness" to commercial banking. Yet, this seemingly abstract concept is central to understanding financial innovation, securitization, and the off-balance sheet activities of banks. Many other concepts such as riskless arbitrage, options, market efficiency, and informational asymmetry have long shaped other subfields of finance and are transparently of great significance for a study of banking. We have thus chosen to consolidate these concepts in this chapter to provide easy reference for those who may be unfamiliar with them.
+The modern theory of financial intermediation is based on concepts developed in financial economics. These concepts are used liberally throughout the book, so it is important to understand them well. It may not be obvious $\$a_t$$ the outset why a particular concept is needed to understand banking. For example, some may question the relevance of "market completeness" to commercial banking. Yet, this seemingly abstract concept is central to understanding financial innovation, securitization, and the off-balance sheet activities of banks. Many other concepts such as riskless arbitrage, options, market efficiency, and informational asymmetry have long shaped other subfields of finance and are transparently of great significance for a study of banking. We have thus chosen to consolidate these concepts in this chapter to provide easy reference for those who may be unfamiliar with them.
 
 ## Risk Preferences
-
-To understand the economic behavior of individuals, it is convenient to think of an individual as being described by a utility function that summarizes preferences over different outcomes. For a wealth level $W$ let $U(W)$ represent the individual's utility of that wealth. It is reasonable to suppose that this individual always prefers more wealth to less. This is called "nonsatiation" and can be expressed as $U'(W) > 0$, where the prime denotes a mathematical derivative. That is, at the margin, an additional unit of wealth always increases utility by some amount, however small.
+To understand the economic behavior of individuals, it is convenient to think of an individual as being described by a utility function that summarizes preferences over different outcomes. For a wealth level $W$ let $U(W)$ represent the individual's utility of that wealth. It is reasonable to suppose that this individual always prefers more wealth to less. This is called "nonsatiation" and can be expressed as $U'(W) > 0$, where the prime denotes a mathematical derivative. That is, $\$a_t$$ the margin, an additional unit of wealth always increases utility by some amount, however small.
 
 An individual can usually be classified as being either risk neutral, risk averse, or risk preferring. An individual is considered risk neutral if the individual is indifferent between the certainty of receiving the mathematical expected value of a gamble and the uncertainty of the gamble itself. Since expected wealth is relevant for the risk neutral, and the variability of wealth is not, the utility function is linear in wealth, and the second derivative, denoted $U''(W)$, will equal zero. Letting $E(\bullet)$ denote the statistical expectation operator, we can write $U[E(W)] = E U(W)$ for a risk-neutral individual, where $U[E(W)]$ is the utility of the expected value of $W$ and $E U(W)$ is the expected utility of $W$. For such an individual, changing the risk of an outcome has no effect on his well-being so long as the expected outcome is left unchanged.
 
 The utility function of a risk-averse individual is concave in wealth, that is, $U''(W) < 0$. Such an individual prefers a certain amount to a gamble with the same expected value. Jensen's inequality says that
 
-$$U[E(W)] > E[U(W)]$$
+$\$U[E(W)] > E[U(W)]$$
 
 if $U$ is (strictly) concave in $W$. Thus, risk-averse individuals prefer less risk to more, or equivalently, they demand a premium for being exposed to risk.
 
 A risk-preferring individual prefers the riskier of two outcomes having the same expected value. The utility function of a risk-preferring individual is convex in wealth, that is, $U''(W) > 0$. Jensen's inequality says that
 
-$$U[E(W)] < E[U(W)]$$
+$\$U[E(W)] < E[U(W)]$$
 
 if $U$ is (strictly) convex in $W$.
 

@@ -1,20 +1,138 @@
 ---
-tags:
-  - financials
-  - hedge_fund_strategies
-  - long_short_equity
-  - market_upturn
-  - relative_asset_value
 aliases:
-  - Hedge Fund Strategies
-  - Relative Asset Value Funds
+- Hedge Fund Strategies
+- Relative Asset Value Funds
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Hedge Fund Strategies and financial analysis
+- Hedge Fund Strategies in modern finance
+- Applications of Hedge Fund Strategies
+- 'Case study: Hedge Fund Strategies'
+last_enhanced: '2025-11-06 08:42:33'
+- put
+- swaps
+- swaption
+- gamma
+- spread
+- expiry
+- currency-swap
+- yield
+- options
+- fixed-income
+- swap
+- strike
+- maturity
+- duration
+- bond
+tags:
+- arbitrage
+- asian
+- asian-crisis
+- balance-sheet
+- basis
+- bid-ask
+- bond
+- case-study
+- cash-flow
+- central-bank
+- collateral-haircut
+- commodity
+- corporate-bond
+- counterparty
+- credit-curve
+- crisis-analysis
+- currency
+- default
+- derivative-pricing
+- derivatives
+- duration
+- empirical-analysis
+- equity
+- fixed-income
+- graduate-level
+- haircut
+- hedging
+- institutional-quality
+- learning-from-crisis
+- leverage
+- liquidity
+- margin-call
+- margin-requirement
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- repo
+- restructuring
+- risk-weight
+- sec-regulation
+- securitization
+- sovereign
+- spread
+- tail-risk
+- tranche
+- treasury
+- valuation-discount
+- volatility
+- yield-curve
+
 key_concepts:
-  - financials sector
-  - long-short equity fund
-  - market upturn
-  - relative asset value
-  - stock market
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Collateral Adequacy
+- Collateral Haircut Models
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Institutions
+- Haircut and Valuation Adjustments
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Market Risk Adjustments
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management Haircuts
+- Risk Management and Hedging Strategies
+- Risk Weight Calculations
+- Risk-Based Haircuts
+- Valuation Discounts
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 12.1  HEDGE FUND STRATEGIES  
 

@@ -1,20 +1,87 @@
 ---
 tags:
-  - credit_default_swaps
-  - credit_risk
-  - derivative_contract
-  - market_standard
-  - valuation_model
+- binomial
+- bond
+- cds
+- corporate-bond
+- credit-derivatives
+- credit-risk
+- credit-spread
+- credit_default_swaps
+- credit_risk
+- currency
+- dcf-analysis
+- defi
+- derivative_contract
+- equity
+- forward
+- future
+- greeks
+- interest-rate
+- lehman
+- leveraged-buyout
+- libor
+- liquidity
+- liquidity-risk
+- market-risk
+- market_standard
+- multiple
+- risk-free-rate
+- swap
+- valuation
+- valuation_model
+- yield-curve
 aliases:
-  - CDS Valuation
-  - Credit Derivatives
-  - O'Kane & Turnbull
+- CDS Valuation
+- Credit Derivatives
+- O'Kane & Turnbull
 key_concepts:
-  - Credit default swap
-  - Credit event
-  - Market standard model
-  - Protection buyer/seller
-  - Trading credit risk
+- ' tranche valuation'
+- American options valuation
+- Backward induction algorithm
+- Basis swap mechanics
+- Binomial option pricing model
+- CDO squared structures
+- CDS curve construction
+- CDS spread calibration
+- Company valuation methodologies
+- Convergence to Black-Scholes
+- Cox-Ross-Rubinstein framework
+- Credit Default Swaps
+- Credit default swap
+- Credit event
+- Credit index products
+- Cross-currency basis
+- Currency swap structure
+- Default correlation
+- Delta risk management
+- Derivative securities
+- Discounted cash flow analysis
+- Dynamic hedging strategies
+- Financial risk management
+- Financial statement analysis
+- Fixed vs floating leg
+- Gamma effects on options
+- Industry analysis
+- Interest rate swap pricing
+- Lattice methods for derivatives
+- Market standard model
+- Multi-period binomial tree
+- Options Greeks measurement
+- Portfolio optimization
+- Portfolio risk hedging
+- Present value of swaps
+- Protection buyer/seller
+- Quantitative financial analysis
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Risk-neutral probability
+- Swap curve construction
+- Swaption valuation
+- Synthetic CDO pricing
+- Theta time decay
+- Trading credit risk
+- Vega volatility sensitivity
 ---
 
 # Valuation of Credit Default Swaps

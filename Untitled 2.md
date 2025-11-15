@@ -1,3 +1,82 @@
+---
+- banking
+- coupon-bonds
+- interest-rates
+- market-structure
+- options-greeks
+- spot-rates
+- swaps
+- term-structure
+- yield-curve
+- Yield curve modeling and term structure analysis
+- Term structure of interest rates and yield curves
+- Interest rate swaps and swap curve construction
+- Investment analysis and portfolio management
+- Financial valuation and pricing methodologies
+- Fixed income securities and bond markets
+- Equity markets and stock valuation
+last_enhanced: '2025-11-06 08:42:52'
+tags:
+- banking
+- basis
+- bond
+- cash-flow
+- commodity
+- credit-curve
+- currency
+- derivatives
+- equity
+- fixed-income
+- graduate-level
+- income-statement
+- institutional-quality
+- leverage
+- liquidity
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- roe
+- sec-regulation
+- securitization
+- treasury
+- volatility
+- yield-curve
+
+key_concepts:
+- Banking and Financial Intermediation
+- Banking and Intermediation
+- Credit Risk Assessment
+- Derivative Securities
+- Financial Crisis Analysis
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Financial Regulation and Compliance
+- Institutional-Quality Financial Education
+- Liquidity and Market Structure
+- Market Trading and Hedging
+- Quantitative Finance Methods
+- Quantitative Methods in Finance
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
+---
+
+
+
+
+
 ### **1  Time-Series & Price-Level Concepts**
 
 |**Term**|**What it measures**|**How it is produced**|**Why it matters**|

@@ -1,31 +1,69 @@
 ---
 title: BMW Valuation Report
 tags:
-  - automotive_industry
-  - automotive_segment
-  - bev_technology
-  - bmw_valuation
-  - brand_recognition
-  - competitive_advantage
-  - dcf_analysis
-  - financial_services
-  - free_cash_flow
-  - rd_expenditure
+- automotive_industry
+- automotive_segment
+- bev_technology
+- bmw_valuation
+- brand_recognition
+- comparables
+- competitive_advantage
+- cost-of-capital
+- credit-risk
+- dcf
+- dcf-analysis
+- dcf_analysis
+- defi
+- dividend-policy
+- economic-profit
+- enterprise-value
+- equity
+- financial_services
+- free_cash_flow
+- future
+- interest-rate
+- multiple
+- portfolio-optimization
+- rd_expenditure
+- renewable
+- share-repurchase
+- stock
+- terminal-value
+- valuation
+- wacc
+- wacc-calculation
 aliases:
-  - BMW Analysis
-  - BMW Report
-  - BMW Valuation
+- BMW Analysis
+- BMW Report
+- BMW Valuation
 key_concepts:
-  - Automotive segment revenue
-  - BEV technology advancement
-  - Brand recognition advantage
-  - Financial services segment
-  - Healthy free cash flow
-  - Motorcycles segment growth
-  - Profit growth tailwind
-  - R&D and technical innovation
-  - Record sales achieved
-  - Target price calculation
+- Automotive segment revenue
+- BEV technology advancement
+- Brand recognition advantage
+- Company valuation methodologies
+- Derivative securities
+- Discounted Cash Flow valuation
+- Discounted cash flow analysis
+- Enterprise value estimation
+- Financial risk management
+- Financial services segment
+- Financial statement analysis
+- Free cash flow modeling
+- Gordon growth model
+- Healthy free cash flow
+- Industry analysis
+- Motorcycles segment growth
+- Multi-stage DCF models
+- Portfolio optimization
+- Profit growth tailwind
+- Quantitative financial analysis
+- R&D and technical innovation
+- Record sales achieved
+- Risk assessment and mitigation
+- Target price calculation
+- Terminal value calculation
+- WACC calculation
+- Weighted Average Cost of Capital
 ---
 
 **Executive Summary**
@@ -42,22 +80,20 @@ key_concepts:
 
 **Target Price & Valuation**
 
-Based on a discounted cash flow (DCF) analysis and a comparative company analysis, the target price for BMW shares is calculated at €121.70.
+Based on a discounted cash flow (DCF) analysis and a comparative company analysis, the target price for BMW shares is calculated $\$a_t$$ €121.70.
 
 **Business Highlights**
 
 **- Automotive Segment:** In 2023, BMW achieved record sales of 2.55 million vehicles, including significant growth in all-electric vehicle sales, which increased by 74.1% to 375,716 units. The segment's revenues rose to €132,277 million, with an EBIT margin of 9.8%.
 
-**- Motorcycles Segment:** BMW Motorrad set a new sales record with 209,066 units, marking a 3.0% increase. The segment's EBIT margin remained stable at 8.1%, with strong growth in Europe and the Americas.
+**- Motorcycles Segment:** BMW Motorrad set a new sales record with 209,066 units, marking a 3.0% increase. The segment's EBIT margin remained stable $\$a_t$$ 8.1%, with strong growth in Europe and the Americas.
 
 **- Financial Services Segment:** Despite a 7.6% decline in profit before tax to €2,962 million due to higher refinancing costs, the segment maintained a low credit loss ratio and saw a 3.4% increase in new credit financing and leasing agreements.
 
 **- R&D and Technical Innovation:** BMW's R&D expenditure increased by 13.8% to $8.2 billion in 2023, focusing on digitalization, electrification, and automated driving. The introduction of the NEUE KLASSE platform is expected to significantly enhance EV performance and cost efficiency.
 
 # BMW Valuation Report
-
 ## 1. Overall Description
-
 Founded in 1916, Bayerische Motoren Werke AG, commonly known as BMW, is a cornerstone of luxury and innovation in the automotive industry. BMW used to be an aircraft manufacturer and transitioned to automobile production in 1928. The company has forged a legacy of high-performance premium vehicles. Based in Munich, Germany, the company operates through Automotive, Motorcycles, Financial Services, and Other Entities segments.
 
 The Automotive segment includes esteemed brands such as BMW, MINI, and Rolls-Royce, which is the mainstay of the company, generating 85% of its earnings. BMW not only dominates the premium vehicle market, but also provides off-road vehicles, spare parts, and accessories. The Motorcycles segment targets the premium market, while Financial Services offers tailored financial solutions like credit financing and leasing.
@@ -65,9 +101,7 @@ The Automotive segment includes esteemed brands such as BMW, MINI, and Rolls-Roy
 Globally, BMW boasts 31 production facilities in 15 countries with a substantial research and development presence. In 2023, BMW achieved worldwide sales of over 2.5 million automobiles and more than 209,000 motorcycles. Despite challenges like supply chain disruptions, BMW has thrived by leveraging strong demand and shifting towards electric mobility, continuing to set industry benchmarks for luxury and technological innovation.
 
 ## 2. Business Segments
-
 ### 2.1 Automotive
-
 BMW Group set a new record in sales volumes for the year 2023, delivering a total of 2,554,183 vehicles across BMW, MINI, and Rolls-Royce brands, marking a 6.4% increase compared to 2022.
 
 BMW led with 2,252,793 units, MINI delivered 295,358 units, and Rolls-Royce reached a new high with 6,032 units sold. Sales of all-electric vehicles (BEVs) jumped significantly, totaling 375,716 units with a 74.1% increase from the previous year. The BMW i4 and BMW iX models were major contributors to this growth. The total deliveries of electrified vehicles (BEV and PHEV) exceeded half a million for the first time, accounting for 565,875 units.
@@ -81,84 +115,76 @@ BMW M division sales grew by 14.2%, with significant contributions from the elec
 The cost of sales increased slightly due to higher vehicle sales and the negative impact of warranty expenses. Selling and administrative expenses rose, driven by higher costs for IT projects. The financial result was negatively impacted compared to the previous year due to a change in the remeasurement. This comprehensive performance underscores BMW Group's strong position in the automotive industry, particularly in its transition to electric mobility, and its resilience across various global markets.
 
 ### 2.2 Motorcycles
-
-BMW Motorrad marked its 100th anniversary in 2023 by setting a new sales record, delivering 209,066 motorcycles and scooters with a 3.0% increase compared to 2022. Sales growth was reported across all major regions. In Europe, sales rose by 4.7% to 116,011 units. Germany remained stable, while France and Italy experienced moderate growth. In the Americas, sales were steady, with significant growth in Brazil. The U.S. saw a slight decrease in sales. Sales in China increased by 2.8%. Several new models and updates were introduced, including the BMW R 1300 GS and the BMW CE 02 electric scooter. The year also saw updates in the Sport, Super Sport, Roadster, and Adventure segments, with launches like the M 1000 RR and the updated F 800 GS and F 900 GS models. Two exclusive edition models, the BMW R18 100 Years and the BMW R nineT 100 Years, were launched. BMW Motorrad Welt opened in Berlin as a new experience center for fans and customers. Profit before tax was €258 million, slightly down from 2022 by 4.1%, with the EBIT%20Formula%20and%20Example.md) margin stable at 8.1%, within the target range. The return on capital employed (RoCE) was at 22.1%, within the expected range of 21 to 26%. BMW Motorrad has robust sales growth during its centenary year, underpinned by strategic product renewals and expansions, and a stable financial performance despite challenges.
+BMW Motorrad marked its 100th anniversary in 2023 by setting a new sales record, delivering 209,066 motorcycles and scooters with a 3.0% increase compared to 2022. Sales growth was reported across all major regions. In Europe, sales rose by 4.7% to 116,011 units. Germany remained stable, while France and Italy experienced moderate growth. In the Americas, sales were steady, with significant growth in Brazil. The U.S. saw a slight decrease in sales. Sales in China increased by 2.8%. Several new models and updates were introduced, including the BMW R 1300 GS and the BMW CE 02 electric scooter. The year also saw updates in the Sport, Super Sport, Roadster, and Adventure segments, with launches like the M 1000 RR and the updated F 800 GS and F 900 GS models. Two exclusive edition models, the BMW R18 100 Years and the BMW R nineT 100 Years, were launched. BMW Motorrad Welt opened in Berlin as a new experience center for fans and customers. Profit before tax was €258 million, slightly down from 2022 by 4.1%, with the EBIT%20Formula%20and%20Example.md) margin stable $\$a_t$$ 8.1\%, within the target range. The return on capital employed (RoCE) was $$a_t$$ 22.1%, within the expected range of 21 to 26%. BMW Motorrad has robust sales growth during its centenary year, underpinned by strategic product renewals and expansions, and a stable financial performance despite challenges.
 
 ### 2.3 Financial Services
-
 Profit before tax for the Financial Services segment was €2,962 million in 2023, decreasing 7.6% from €3,205 million in 2022. The decline was due to higher refinancing costs triggered by rising interest rates and decreasing tract portfolio. Remarketing revenues from lease returns remained high while lower than the previous year further impacting earnings negatively.
 
-The geopolitical uncertainties and weaker economic outlook in 2022 result in high expenses. A reduction in credit risk provisioning expenses had a positive impact on 2023. The credit loss ratio was low at 0.18% in 2023, slightly up from 0.13% in 2022. The total business volume on the balance sheet grew by 1.6% to €137,910 million. Return on equity for the Financial Services segment was stable at 17.2% in 2023 meeting the revised target range of 16-19%. The total value of new credit financing and leasing agreements with retail customers rose by 3.4% to €57,333 million. This increase was due to customers financing more expensive vehicles on average, reflecting a better mix of products in the Automotive segment. The proportion of new BMW Group vehicles either leased or financed was 38.2% in 2023, down from 41.0% in 2022. The total number of new contracts was slightly down by 0.2%, with 1,542,514 contracts concluded in 2023. Out of these, 325,320 contracts were related to the credit financing and leasing of pre-owned vehicles, marking a 1.2% increase. New lease business saw an 8.5% increase, whereas credit financing business contracted by 4.1%.
+The geopolitical uncertainties and weaker economic outlook in 2022 result in high expenses. A reduction in credit risk provisioning expenses had a positive impact on 2023. The credit loss ratio was low $\$a_t$$ 0.18\% in 2023, slightly up from 0.13\% in 2022. The total business volume on the balance sheet grew by 1.6\% to €137,910 million. Return on equity for the Financial Services segment was stable $$a_t$$ 17.2% in 2023 meeting the revised target range of 16-19%. The total value of new credit financing and leasing agreements with retail customers rose by 3.4% to €57,333 million. This increase was due to customers financing more expensive vehicles on average, reflecting a better mix of products in the Automotive segment. The proportion of new BMW Group vehicles either leased or financed was 38.2% in 2023, down from 41.0% in 2022. The total number of new contracts was slightly down by 0.2%, with 1,542,514 contracts concluded in 2023. Out of these, 325,320 contracts were related to the credit financing and leasing of pre-owned vehicles, marking a 1.2% increase. New lease business saw an 8.5% increase, whereas credit financing business contracted by 4.1%.
 
 ## 3. BMW BEV
-
-BMW is deeply committed to electromobility. As it aggressively expands its offering of electric vehicle (EV) models across all key segments, BMW aims to increase the delivery share of all-electric vehicles to 30% by 2025 and to 50% by 2030. By 2030, the company plans to introduce at least six fully electric models in the US. The company's EV strategy includes several key components. It has launched the Neue Klasse—a platform and concept designed to define next-generation EVs—emphasizing "electric," "digital," and "circular" elements. Concurrently, BMW is significantly investing in its manufacturing capabilities to support this EV rollout. This includes a $1.7 billion investment in its U.S. operations, with $1 billion allocated to prepare for electric vehicle production at its existing manufacturing facility in South Carolina, and an additional $700 million to construct a new high-voltage battery assembly facility nearby. Moreover, BMW has committed $800 million to enhance its production network in Mexico, which involves integrating fully electric NEUE KLASSE models and constructing a local high-voltage battery assembly. BMW's commitment to electromobility is further underscored by its strategic target to reduce CO2 emissions not only from its vehicles but also from its supply chain and manufacturing processes.
+BMW is deeply committed to electromobility. As it aggressively expands its offering of electric vehicle (EV) models across all key segments, BMW aims to increase the delivery share of all-electric vehicles to 30% by 2025 and to 50% by 2030. By 2030, the company plans to introduce $\$a_t$$ least six fully electric models in the US. The company's EV strategy includes several key components. It has launched the Neue Klasse—a platform and concept designed to define next-generation EVs—emphasizing "electric," "digital," and "circular" elements. Concurrently, BMW is significantly investing in its manufacturing capabilities to support this EV rollout. This includes a $1.7 billion investment in its U.S. operations, with $1 billion allocated to prepare for electric vehicle production $$a_t$$ its existing manufacturing facility in South Carolina, and an additional $700 million to construct a new high-voltage battery assembly facility nearby. Moreover, BMW has committed $800 million to enhance its production network in Mexico, which involves integrating fully electric NEUE KLASSE models and constructing a local high-voltage battery assembly. BMW's commitment to electromobility is further underscored by its strategic target to reduce CO2 emissions not only from its vehicles but also from its supply chain and manufacturing processes.
 
 As BMW hit a major EV sales milestone after reaching 1 million EV delivery mark in Q1 2024, it is also outpacing rivals in the global EV market, such as Mercedes-Benz, Volkswagen and Audi. BMW anticipates significant sales growth in 2024, projecting that its fully electric vehicles and luxury models will be key drivers of this growth.
 !500
 
 ## 4. Research and Development (R&D) and Technical Advantages
+In line with its strategic plans, BMW continues to invest heavily in R&D with a focus on digitalization, electrification and automated driving functions across all model series. The company's R&D expense rose by 13.8% to $8.2 billion in 2023. In 2024, it expects to see record levels of R&D expenses and capital expenditures, which will exceed 5\% and 6\% of revenue, respectively. Additional R&D expenditures were also devoted to the development of new models including the new BMW X5 and NEUE KLASSE models. BMW is not the only shifting focus to R&D of EVs. According to BDO LLP, the world's top 20 automakers have collectively invested $467 billion in research and development over the last five years as they compete to develop EVs and meet carbon reduction targets. Compared to its industry peers, BMW falls in the middle of the spectrum of R&D spending, reflecting a strong but balanced investment level.
 
-In line with its strategic plans, BMW continues to invest heavily in R&D with a focus on digitalization, electrification and automated driving functions across all model series. The company's R&D expense rose by 13.8% to $8.2 billion in 2023. In 2024, it expects to see record levels of R&D expenses and capital expenditures, which will exceed 5% and 6% of revenue, respectively. Additional R&D expenditures were also devoted to the development of new models including the new BMW X5 and NEUE KLASSE models. BMW is not the only shifting focus to R&D of EVs. According to BDO LLP, the world's top 20 automakers have collectively invested $467 billion in research and development over the last five years as they compete to develop EVs and meet carbon reduction targets. Compared to its industry peers, BMW falls in the middle of the spectrum of R&D spending, reflecting a strong but balanced investment level.
-
- | **Automaker** | **Revenue ($ in billions)** | **R&D ($ in billions)** | **R&D Ratio** | 
- | - | - | - | - | 
- | General Motors | 157 | 9.1 | 6.1% | 
- | Mercedes-Benz | 165 | 9.1 | 5.1% | 
- | Volkswagen | 308 | 15.1 | 5.1% | 
- | Ford | 158 | 7.1 | 4.1% | 
- | Honda | 129 | 6.1 | 4.1% | 
- | BMW | 157 | 7.1 | 4.1% | 
- | Renault | 51 | 2.1 | 4.1% | 
- | Tesla | 81 | 3.1 | 3.1% | 
- | Toyota | 297 | 8.1 | 3.1% | 
- | Stellantis | 198 | 5.1 | 2.1% | 
- | Nissan | 81 | 2.1 | 2.1% | 
- | Hyundai | 143 | 2.1 | 1.1% | 
+ | **Automaker** | **Revenue ($ in billions)** | **R&D ($ in billions)** | **R&D Ratio** |
+ | - | - | - | - |
+ | General Motors | 157 | 9.1 | 6.1% |
+ | Mercedes-Benz | 165 | 9.1 | 5.1% |
+ | Volkswagen | 308 | 15.1 | 5.1% |
+ | Ford | 158 | 7.1 | 4.1% |
+ | Honda | 129 | 6.1 | 4.1% |
+ | BMW | 157 | 7.1 | 4.1% |
+ | Renault | 51 | 2.1 | 4.1% |
+ | Tesla | 81 | 3.1 | 3.1% |
+ | Toyota | 297 | 8.1 | 3.1% |
+ | Stellantis | 198 | 5.1 | 2.1% |
+ | Nissan | 81 | 2.1 | 2.1% |
+ | Hyundai | 143 | 2.1 | 1.1% |
 
 Data compiled from 2023 automaker financial reports
 
 BMW possesses numerous technical and strategic strengths within the automotive industry that set it apart from its competitors. The introduction of the NEUE KLASSE platform is poised to enhance BMW's technological edge, particularly in electric vehicle (EV) design. This sixth-generation EV architecture is expected to improve range by approximately 30%, increase charging speed by about 30%, and reduce production costs by nearly 50%. Additionally, the advanced battery and drive systems of the NEUE KLASSE are designed to significantly boost efficiency.
 
 ## 5. BMW's 2025 Plan
-
-BMW's 2025 innovation plan focuses on a significant advancement in battery technology with the introduction of their 6th generation battery cells. This new development is characterized by a strategic shift to cylindrical cell designs, promising a 30% increase in range and a 30% reduction in charging time. The production process of these cells will be more environmentally friendly, aiming to reduce CO2 emissions by 60% during production and cutting costs by 40 to 50% at the pack level and for the drivetrain. A key aspect of this initiative is the production of battery cells using 100% electricity from renewable sources, emphasizing BMW's commitment to sustainability. Additionally, BMW plans to enhance its in-house capabilities, extending from fundamental research to application, ensuring comprehensive control over the technology from molecules to cells.
+BMW's 2025 innovation plan focuses on a significant advancement in battery technology with the introduction of their 6th generation battery cells. This new development is characterized by a strategic shift to cylindrical cell designs, promising a 30% increase in range and a 30% reduction in charging time. The production process of these cells will be more environmentally friendly, aiming to reduce CO2 emissions by 60% during production and cutting costs by 40 to 50% $\$a_t$$ the pack level and for the drivetrain. A key aspect of this initiative is the production of battery cells using 100% electricity from renewable sources, emphasizing BMW's commitment to sustainability. Additionally, BMW plans to enhance its in-house capabilities, extending from fundamental research to application, ensuring comprehensive control over the technology from molecules to cells.
 
 ## 6. Growth Drivers and Performance Expectations for Automotive Segment
-
 BMW anticipates that its primary growth drivers will be battery electric vehicles (BEVs) and models in the upper premium segment, such as the BMW 7 Series, the BMW X7, and the Rolls-Royce lineup, including the fully-electric Rolls-Royce Spectre. The company forecasts double-digit growth for both segments in the current financial year. Additionally, BMW Group expects a modest rise in vehicle deliveries in the Automotive segment for 2024.
 
 Globally, the US is projected to see particularly robust growth, with sales of BEVs nearly doubling up to the end of February 2024. In both Europe and China, deliveries of fully-electric models have also experienced substantial double-digit increases.
 
 ## 7. Moats of BMW
-
 BMW operates in the competitive luxury automotive market, facing challenges and competition from both established luxury car makers and newer entrants, especially in the electric vehicle sector. Relative to its competitors, BMW possesses the following competitive strengths and weaknesses.
 
 ### 7.1 Competitive Advantages
+
 - **Differentiation Strategy**: BMW leverages a differentiation strategy to distinguish itself from competitors such as Tesla, Toyota, Ford, and General Motors. This strategy emphasizes providing distinctive features and superior quality in its vehicles, catering to consumer demands for innovation and specific transportation preferences. This approach enables BMW to attract customers and sustain its profitability.
 - **Product Innovation**: BMW is proactive in creating new products that align with current market trends, focusing on advanced electric and hybrid vehicles. This growth strategy aims to boost sales by appealing to customers looking to upgrade to newer, technologically advanced vehicles.
 - **Global Supply Chain and Distribution Network**: BMW employs a market penetration strategy to boost sales in established markets via dealerships and various distribution channels. This approach includes ramping up efforts to market and sell more automotive products in specific regions, especially in developing markets where there is significant potential for growth.
-
 ### 7.2 Competitive Disadvantages
+
 - **Cost Leadership Tension**: While BMW incorporates cost leadership into its strategy, its main focus is on differentiation. The brand's commitment to premium branding and high-quality products suggests that it might not be as competitive on price alone, especially against competitors who prioritize and achieve better cost efficiencies.
 - **Challenges in Market Penetration**: BMW faces challenges with market penetration, particularly in areas where its presence is limited. These difficulties are intensified by the aggressive marketing strategies and technological advancements of its competitors, which hinder BMW's ability to expand its market share in these regions.
-
 Overall, BMW is well-positioned to outperform its industry peers due to several strategic and operational advantages. With a strong brand identity known for quality and luxury, BMW maintains a loyal customer base and attracts new customers seeking premium automotive experiences. The company's significant investments in BEVs and diversified product range allow it to meet broad consumer demands and stay ahead in the shift towards sustainability. BMW's global presence in key markets like Europe, the US, and China enhances its market reach and risk diversification. Additionally, BMW's commitment to technological innovation remains a key growth driver. Moreover, the company's emphasis on operational efficiency, utilizing flexible manufacturing and lean production methods, helps it control costs effectively while maintaining high production quality.
 
 ## 8. Share Buyback Program and Dividend Policy
-
-The company received authorization in May 2022 to acquire up to 10% of its share capital by May 2027. This led to the launch of two major share buyback programs. The first, a €2 billion buyback, was executed from July 2022 to June 2023. The second program, also valued at up to €2 billion, is scheduled to be completed by December 2025. BMW's share buyback initiatives are strategically aligned with the group's overall priorities and are flexibly executed based on the generation of free cash flow. This approach underscores BMW's commitment to enhancing shareholder value while maintaining strategic focus on its core business objectives.
+The company received authorization in May 2022 to acquire up to 10% of its share capital by May 2027. This led to the launch of two major share buyback programs. The first, a €2 billion buyback, was executed from July 2022 to June 2023. The second program, also valued $\$a_t$$ up to €2 billion, is scheduled to be completed by December 2025. BMW's share buyback initiatives are strategically aligned with the group's overall priorities and are flexibly executed based on the generation of free cash flow. This approach underscores BMW's commitment to enhancing shareholder value while maintaining strategic focus on its core business objectives.
 
 ## 9. Financial performance and forecast
-
 ### 9.1 The Revenue Driver
+
 - **The robust competitive power in the auto business sector captures the long-term stable growth of revenue.** The total delivery volume globally is projected to exhibit a 3% CAGR over the next five years, driven by the robust growth in the BMW series. We forecast that the 5 series will regain its position as the mainstream product and experience a strong increase in sales volume in the following year as the changeover of 5 series is to be launched and bring the whole series back to life, despite it experienced a softer decline in 1Q24.
 - **The adoption of BEV products in the market will further fuel substantial growth.** In 2023, the BEV penetration rate in the total delivery of the BMW Group is 14.7%. We expect there to be ongoing significant growth in the adoption of BEV products. The penetration rate is expected to reach 35% in 2028. The band new "Neue Klasse" platform, as the third generation of EV, will provide a massive leap for BMW in BEV and PHEV, contributing a solid growth in revenue. However, considering the intense competition in China and the fact that tech companies like Xiaomi are gradually entering the EV market, we believe that BMW will not achieve significant success in China's increasingly EV-dominated market in the future.
 - **Sixth generation battery technology will become the benchmark in production, quality, performance costs and ecology of battery cells.** The new battery cell technology will become the key component for the success of EVs for BMW. According to BMW, the new battery cells will have a 30% increase of range and reduce the charging time by 30%. Moreover, the battery cost on pack level and drivetrain will have a 40%-50% reduction. And the new battery will be produced with renewable energy and recycled materials to cut the carbon emissions by 60%. All these features will outperform the current battery cells in the market and become the new benchmark.
 - **The growth for Financial Services amid rate cuts as central banks globally approaches the end of quantitative tightening.** As central banks around the world are nearing the end of their quantitative tightening, we predict that interest rates will gradually decrease starting from the end of 2024, providing upward momentum for Financial Services. Consequently, we anticipate that the growth rate of business volume for Financial Services will increase from 1.64% in 2023 to 4% in 2024, reaching its peak in 2025.
-
 ### 9.2 Main Assumption and the Forecast Result
-- **Segment Breakdown:** Automotive segment maintain it high revenue and high profit status, we expected automotive segment will contribute around 90% of total revenue in forecasted periods and maintain a gross profit margin at 17%.
+
+- **Segment Breakdown:** Automotive segment maintain it high revenue and high profit status, we expected automotive segment will contribute around 90% of total revenue in forecasted periods and maintain a gross profit margin $\$a_t$$ 17%.
 !500
 !500
 - **R&D and CAPEX:** we assume the company's CAPEX in line with the historical level, based on the % related with the fiscal year's revenue. The reinvestment rate and the RONIC is align with the expected the growth rate and development stage of the Company.
@@ -166,20 +192,18 @@ The company received authorization in May 2022 to acquire up to 10% of its share
 !500
 - **Free Cash Flow and DCF**
 !500
-The target price is €121.7, with a WACC at 5.7%.
+The target price is €121.7, with a WACC $\$a_t$$ 5.7%.
 
 - **Economic Profit Model**
 !500
 The target price calculated by Economic Profit is €123.1, with an assumption that the long-term RONIC is 14%.
 
 ### 9.3 Sensitivity Analysis
-
 !500
 
 !500
 
 ### 9.4 Multiples v.s. Industry Average
-
 The BMW set financial goals for EBT/EBIT margin and Return on capital employed. Moreover, according to the value drivers provided by the company itself, RoCE, Return on sales and Capital turnover are the main factors for the value added. Thus, here we used the relative ratios and multiples above for the multiple valuation and peer comparison.
 !500
 The current EV multiples of BMW are close to or lower than the industry average and significantly lower than those of market peers like Mercedes. The gap between valuation multiples suggests that there is potential for BMW to catch up with the valuation levels of its industry peers, indicating that the market may not have fully realized the value of BMW. On the other hand, BMW's EPS and margins are higher than peers average, suggesting its high profitability.
@@ -190,6 +214,7 @@ Due to BMW's valuation multiple being lower than the industry average, the targe
 !500
 
 ### 9.5 Risks
+
 - **Bull Scenario**
   - Better than expected performance in China through the consolidation of JV from 2022
   - Continued Buyback Program to enhance the performance of stock
@@ -199,15 +224,13 @@ Due to BMW's valuation multiple being lower than the industry average, the targe
   - Lower than expected profitability of BEV
   - Sales growth brought by "Neue Klasse" product family fell short of expectations
   - Competition in the Chinese market more intense than expected
-
 ## 10. Appendix
-
 !500
 Source:
 
 The future is ELECTRIC (https://www.bmwgroup.com/en/report/2021/index.html)
 
-BMW Press Club Global Article (https://www.press.bmwgroup.com/global/article/detail/T0404837EN/bmw-group-announces-1-7-billion-usd-investment-to-build-electric-vehicles-in-the-u-s-and-signs-agreement-with-envision-aesc-for-the-supply-of-battery-cells-to-plant-spartanburg?language=en, https://www.press.bmwgroup.com/global/article/detail/T0407845EN/bmw-group-steps-up-production-of-electric-vehicles-in-global-production-network:-neue-klasse-will-also-be-built-at-plant-san-luis-potos%C3%AD-in-mexico)
+BMW Press Club Global Article (https://www.press.bmwgroup.com/global/article/detail/T0404837EN/bmw-group-announces-1-7-billion-usd-investment-to-build-electric-vehicles-in-the-u-s-and-signs-agreement-with-envision-aesc-for-the-supply-of-battery-cells-to-plant-spartanburg?language=en, https://www.press.bmwgroup.com/global/article/detail/T0407845EN/bmw-group-steps-up-production-of-electric-vehicles-in-global-production-network:-neue-klasse-will-also-be-built-$\$a_t$$-plant-san-luis-potos%C3%AD-in-mexico)
 
 Electrek article (https://electrek.co/2024/04/10/bmw-hits-major-milestone-q1-ev-sales-outpace-rivals/)
 

@@ -1,22 +1,119 @@
 ---
-tags:
-  - asset_liability_management
-  - bond_hedging
-  - duration
-  - dv01
-  - key_rates
 aliases:
-  - Duration
-  - Dv01
-  - Hedging
-  - Key Rate
+- Duration
+- Dv01
+- Hedging
+- Key Rate
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Key Rates O1s Durations and Hedging and financial analysis
+- Key Rates O1s Durations and Hedging in modern finance
+- Applications of Key Rates O1s Durations and Hedging
+- 'Case study: Key Rates O1s Durations and Hedging'
+last_enhanced: '2025-11-06 08:42:36'
+- bond
+- coupon
+- dv01
+- risk-management
+- spread
+- fixed-income
+- hedging
+- risk
+- liquidity
+- valuation
+- bonds
+- maturity
+- basis
+- futures
+- duration
+tags:
+- arbitrage
+- basis
+- bid-ask
+- bond
+- case-study
+- credit-curve
+- crisis-analysis
+- derivatives
+- duration
+- econometric
+- empirical-analysis
+- fixed-income
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- liquidity
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-analysis
+- quantitative-methods
+- real-world-example
+- sec-regulation
+- securitization
+- sovereign
+- spread
+- statistical-model
+- stress-test
+- treasury
+- var
+- yield-curve
+
 key_concepts:
-  - Asset liability management
-  - Key rate Dv01s
-  - Key rate durations
-  - Par bond key rate
-  - Pension liabilities hedging
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Econometric Analysis
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Econometrics
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Mathematical Finance Applications
+- Mathematical Modeling
+- Quantitative Analysis in Finance
+- Quantitative Methods in Finance
+- Quantitative Risk Management
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Statistical Finance
+- Statistical Modeling
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # 5.4 KEY RATES: 'O1S, DURATIONS, AND HEDGING  
 

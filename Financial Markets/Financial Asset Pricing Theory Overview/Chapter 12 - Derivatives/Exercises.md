@@ -1,23 +1,133 @@
 ---
-tags:
-  - black_scholes_merton
-  - coupon_bond
-  - dividend_payments
-  - european_call_option
-  - no_arbitrage
 aliases:
-  - Exercise 12.1
-  - Exercise 12.2
-  - Exercise 12.3
-  - Exercise 12.4
-  - Exercise 12.5
+- Exercise 12.1
+- Exercise 12.2
+- Exercise 12.3
+- Exercise 12.4
+- Exercise 12.5
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Exercises and financial analysis
+- Exercises in modern finance
+- Applications of Exercises
+- 'Case study: Exercises'
+last_enhanced: '2025-11-06 08:42:31'
+- coupon
+- bonds
+- call
+- options
+- gamma
+- risk-management
+- delta
+- swaption
+- bond
+- swap
+- forward
+- put
+- var
+- irs
+- futures
+tags:
+- arbitrage
+- austerity
+- basis
+- bond
+- case-study
+- crisis-analysis
+- currency
+- derivative-pricing
+- derivatives
+- duration
+- econometric
+- empirical-analysis
+- equity
+- european
+- european-debt-crisis
+- eurozone
+- graduate-level
+- grexit
+- hedging
+- institutional-quality
+- learning-from-crisis
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-analysis
+- quantitative-methods
+- real-world-example
+- sovereign
+- sovereign-debt
+- statistical-model
+- stress-test
+- tail-risk
+- var
+- volatility
+- yield-curve
+
 key_concepts:
-  - Black-Scholes-Merton equation
-  - European call option pricing
-  - coupon bond futures price
-  - dividend payment impact
-  - no-arbitrage option price
+- Austerity Measures
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Currency Union Risks
+- Econometric Analysis
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- European Debt Crisis
+- European Integration
+- Eurozone Crisis Management
+- Financial Crisis Case Studies
+- Financial Econometrics
+- Financial Markets and Institutions
+- Fiscal Integration
+- Greek Debt Crisis
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Mathematical Finance Applications
+- Mathematical Modeling
+- Quantitative Analysis in Finance
+- Quantitative Methods in Finance
+- Quantitative Risk Management
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Sovereign Debt Restructuring
+- Statistical Finance
+- Statistical Modeling
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 12.7 Exercises  
 

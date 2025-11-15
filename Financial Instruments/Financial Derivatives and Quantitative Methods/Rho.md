@@ -2,23 +2,46 @@
 cssclasses: academia
 title: Rho - Interest Rate Sensitivity
 tags:
-  - options_greeks
-  - interest_rate_sensitivity
-  - derivatives_pricing
-  - risk_management
-  - options_valuation
+- black-scholes
+- call
+- defi
+- derivatives_pricing
+- european
+- forward
+- greeks
+- interest-rate
+- interest_rate_sensitivity
+- option
+- options_greeks
+- options_valuation
+- put
+- risk_management
+- yield-curve
 aliases:
-  - Interest Rate Sensitivity
-  - ρ - Greek Letter
+- Interest Rate Sensitivity
+- ρ - Greek Letter
 key_concepts:
-  - Rho option greek measurement
-  - Interest rate sensitivity of options
-  - Black-Scholes derivative with respect to interest rate
-  - Call option value increase with interest rates
-  - Put option value decrease with interest rates
-  - Forward price relationship with interest rates
-  - Quantifying option interest rate risk
-  - Interest rate effects on option premium
+- Black-Scholes derivative with respect to interest rate
+- Call option value increase with interest rates
+- Delta risk management
+- Derivative securities
+- Dynamic hedging strategies
+- Financial risk management
+- Forward price relationship with interest rates
+- Gamma effects on options
+- Interest rate effects on option premium
+- Interest rate sensitivity of options
+- Options Greeks measurement
+- Portfolio optimization
+- Portfolio risk hedging
+- Put option value decrease with interest rates
+- Quantifying option interest rate risk
+- Quantitative financial analysis
+- Rho interest rate sensitivity
+- Rho option greek measurement
+- Risk assessment and mitigation
+- Theta time decay
+- Vega volatility sensitivity
 ---
 
 # Rho - Interest Rate Sensitivity

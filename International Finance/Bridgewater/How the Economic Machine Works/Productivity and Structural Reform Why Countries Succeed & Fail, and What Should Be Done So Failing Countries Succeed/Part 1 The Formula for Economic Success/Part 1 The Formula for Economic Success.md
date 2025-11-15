@@ -1,3 +1,89 @@
+---
+- arbitrage
+- asset-pricing
+- banking
+- financial-regulation
+- forward-contracts
+- futures-contracts
+- relative-value
+- stress-testing
+- Stress testing and scenario analysis
+- Arbitrage opportunities and relative value trading
+- Futures contracts and forward pricing
+- Practical examples and implementation
+- Investment analysis and portfolio management
+- International finance and global markets
+- Monetary policy and central banking
+last_enhanced: '2025-11-06 08:42:45'
+tags:
+- arbitrage
+- asian
+- asian-crisis
+- austerity
+- bank-failure
+- banking
+- bankruptcy
+- basis
+- central-bank
+- cross-border
+- derivatives
+- emerging-market
+- equity
+- european
+- european-debt-crisis
+- eurozone
+- graduate-level
+- grexit
+- institutional-quality
+- leverage
+- market-efficiency
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- securitization
+- sovereign
+- sovereign-debt
+- stress-test
+- stress-test-requirement
+- tail-risk
+- volatility
+- yield-curve
+
+key_concepts:
+- Austerity Measures
+- Banking and Financial Intermediation
+- Currency Union Risks
+- European Debt Crisis
+- European Integration
+- Eurozone Crisis Management
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Fiscal Integration
+- Greek Debt Crisis
+- Institutional-Quality Financial Education
+- Quantitative Methods in Finance
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+- Sovereign Debt Restructuring
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
+---
+
+
+
+
+
 # Part 1: The Formula for Economic Success
 
 What determines which countries prosper and which countries don't? What determines different countries' future growth rates? For our investment purposes we look at relationships between causes and effects that we hope will be useful to others in answering these questions.

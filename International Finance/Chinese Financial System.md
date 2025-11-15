@@ -1,54 +1,110 @@
 ---
-cssclasses: ["academia"]
+cssclasses:
+- academia
 title: Chinese Financial System
-tags:
-  - chinese_economy
-  - financial_system
-  - regulatory_framework
-  - banking_system
-  - capital_markets
-  - shadow_banking
-  - monetary_policy
-  - pboc
-  - state_owned_enterprises
-  - international_finance
-  - capital_controls
-  - rmb_internationalization
-  - digital_currency
-  - financial_regulation
-  - emerging_markets
-  - belt_and_road
+- abs
+- asset-pricing
+- banking
+- banking_system
+- belt_and_road
+- capital_controls
+- capital_markets
+- chinese_economy
+- corporate-bonds
+- digital_currency
+- emerging_markets
+- financial-regulation
+- financial_regulation
+- financial_system
+- futures-contracts
+- government-bonds
+- interest-rates
+- international_finance
+- monetary_policy
+- pboc
 aliases:
-  - China Financial System
-  - PRC Financial System
-  - China Banking System
-  - Chinese Financial Markets
-  - China Financial Regulation
-  - China Banking Sector
-  - China Capital Markets
-key_concepts:
-  - Chinese Communist Party oversight
-  - State Council regulatory structure
-  - Central Financial Commission
-  - People's Bank of China (PBOC)
-  - National Financial Regulatory Administration
-  - China Securities Regulatory Commission
-  - State Administration of Foreign Exchange
-  - State-owned commercial banks
-  - Shadow banking system
-  - Capital controls
-  - RMB internationalization
-  - Digital yuan (e-CNY)
-  - Financial stability framework
-  - Policy banks
-  - Local government financing vehicles
-  - Belt and Road Initiative financing
-  - Foreign exchange reserves management
-  - Wealth management products
-  - Financial system risks
-  - Financial opening and reform
+- China Financial System
+- PRC Financial System
+- China Banking System
+- Chinese Financial Markets
+- China Financial Regulation
+- China Banking Sector
+- China Capital Markets
+- Futures contracts and forward pricing
+- Derivatives and structured financial instruments
+- Financial regulation and compliance requirements
+- Investment analysis and portfolio management
+- Fixed income securities and bond markets
+- Equity markets and stock valuation
+- International finance and global markets
+- Monetary policy and central banking
 linter-yaml-title-alias: Chinese Financial System
+last_enhanced: '2025-11-06 08:42:47'
+tags:
+- abs
+- asian
+- balance-sheet
+- banking
+- bond
+- central-bank
+- cross-border
+- currency
+- derivatives
+- equity
+- financial-regulation
+- fintech
+- fixed-income
+- governance
+- graduate-level
+- institutional-quality
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- regulatory-compliance
+- sec-regulation
+- securitization
+- shadow-banking
+- sovereign
+- structured-product
+- supervision
+- treasury
+
+key_concepts:
+- Bank Supervision
+- Banking and Financial Intermediation
+- Compliance Management
+- Corporate Governance
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Financial Regulation
+- Governance Standards
+- Institutional-Quality Financial Education
+- Quantitative Methods in Finance
+- Regulatory Compliance
+- Regulatory Framework
+- Regulatory Risk
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # Chinese Financial System
 

@@ -2,37 +2,121 @@
 cssclasses: academia
 linter-yaml-title-alias: Lecture Note 1 - Debt Pricing
 title: Lecture Note 1 - Debt Pricing
-tags:
-  - bankruptcy
-  - capital_structure
-  - debt_contracts
-  - financial_crisis
-  - securitization
-  - debt_pricing
-  - leverage_effects
-  - liquidity_provision
-  - asset_substitution
-  - agency_costs
+- agency_costs
+- asset_substitution
+- bankruptcy
+- bond
+- capital-structure
+- capital_structure
+- covid
+- debt_contracts
+- debt_pricing
+- equity
+- financial-crisis
+- financial_crisis
+- lehman
+- leverage_effects
+- liquidity
+- liquidity_provision
+- long-term-capital
+- securitization
+- subprime
 aliases:
-  - Bankruptcy & Reorganization
-  - Debt Contracts
-  - Debt Pricing
-  - Lecture 1
-  - Strategic Effects of Debt
+- Bankruptcy & Reorganization
+- Debt Contracts
+- Debt Pricing
+- Lecture 1
+- Strategic Effects of Debt
+- Agency costs of debt
+- Asset substitution problem
+- Banks and financial engineering
+- Capital structure choice
+- Debt capacity calculation
+- Debt contracts and bankruptcy
+- Derivative securities
+- Financial crisis mechanisms
+- Financial risk management
+- Liquidity in markets
+- Portfolio optimization
+- Public vs private debt
+- Quantitative financial analysis
+- Risk assessment and mitigation
+- Securitization structures
+- Source of funds selection
+- Strategic effects of debt
+tags:
+- asian
+- bank-failure
+- bank-run
+- banking
+- bankruptcy
+- bond
+- central-bank
+- covid-crisis
+- crisis-2008
+- default
+- derivatives
+- econometric
+- equity
+- financial-crisis
+- financial-institutions
+- financial-markets
+- graduate-level
+- hedging
+- institutional-analysis
+- institutional-quality
+- lehman
+- leverage
+- liquidity
+- market-structure
+- mathematical-finance
+- mbs
+- money-market
+- professional-standard
+- provision
+- quantitative-analysis
+- quantitative-methods
+- restructuring
+- sec-regulation
+- securitization
+- silicon-valley-bank
+- sovereign
+- statistical-model
+- terra-luna
+- terrausd
+
 key_concepts:
-  - Banks and financial engineering
-  - Debt contracts and bankruptcy
-  - Liquidity in markets
-  - Securitization structures
-  - Strategic effects of debt
-  - Capital structure choice
-  - Source of funds selection
-  - Debt capacity calculation
-  - Agency costs of debt
-  - Asset substitution problem
-  - Public vs private debt
-  - Financial crisis mechanisms
+- Banking and Financial Intermediation
+- Econometric Analysis
+- Financial Econometrics
+- Financial Intermediation and Banking
+- Financial Markets and Institutions
+- Institutional Analysis of Financial Systems
+- Institutional-Quality Financial Education
+- Market Structure and Microstructure
+- Mathematical Finance Applications
+- Mathematical Modeling
+- Quantitative Analysis in Finance
+- Quantitative Methods in Finance
+- Quantitative Risk Management
+- Regulatory Framework in Financial Markets
+- Risk Management and Hedging Strategies
+- Statistical Finance
+- Statistical Modeling
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
 
 # Lecture Note 1 - Debt Pricing
 

@@ -1,21 +1,112 @@
 ---
-tags:
-  - cds_market
-  - cds_strategies
-  - hovnanian
-  - manufactured_default
-  - opportunistic_strategies
 aliases:
-  - CDS Strategies
-  - Manufactured Default
-  - Opportunistic CDS
+- CDS Strategies
+- Manufactured Default
+- Opportunistic CDS
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Opportunistic CDS Strategies and financial analysis
+- Opportunistic CDS Strategies in modern finance
+- Applications of Opportunistic CDS Strategies
+- 'Case study: Opportunistic CDS Strategies'
+last_enhanced: '2025-11-06 08:42:35'
+- options
+- credit-risk
+- call
+- swaps
+- coupon
+- default
+- discount
+- fixed-income
+- put
+- recovery
+- irs
+- bond
+- risk
+- bonds
+- cds
+tags:
+- bank-failure
+- bankruptcy
+- basis
+- bid-ask
+- bond
+- case-study
+- covenant
+- credit-market
+- credit-rating
+- crisis-analysis
+- currency
+- default
+- defi
+- derivative-pricing
+- derivatives
+- duration
+- empirical-analysis
+- fixed-income
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- restructuring
+- sec-regulation
+- securitization
+- spread
+- yield-curve
+
 key_concepts:
-  - CDS buyers and sellers
-  - CDS traders and issuers
-  - Final recovery expectations
-  - Hovnanian manufactured default
-  - Opportunistic CDS strategies
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # 14.12 OPPORTUNISTIC CDS STRATEGIES  
 

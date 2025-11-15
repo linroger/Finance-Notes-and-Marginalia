@@ -1,27 +1,56 @@
 ---
 cssclasses:
-  - academia
+- academia
 title: Teaching Note 1-Introduction To Fixed Income Securities
 tags:
-  - federal_reserve
-  - fixed_income
-  - floating_rate_notes
-  - mortgage_backed_securities
-  - treasury_bonds
+- arbitrage
+- banking
+- coupon-bonds
+- credit-risk
+- federal_reserve
+- financial-regulation
+- fixed_income
+- floating_rate_notes
+- forward-contracts
+- forward-rates
+- futures-contracts
+- government-bonds
+- interest-rates
+- mbs
+- mortgage_backed_securities
+- portfolio-management
+- spot-rates
+- swaps
+- term-structure
+- trading-strategies
 aliases:
-  - FRNs
-  - Fixed Income Intro
-  - TIPS
-  - Teaching Note 1
+- FRNs
+- Fixed Income Intro
+- TIPS
+- Teaching Note 1
 key_concepts:
-  - Federal Reserve actions
-  - Fixed income markets
-  - Floating rate notes pricing
-  - Government debt increase
-  - Mortgage-backed securities market
-  - Treasury bond behavior
-  - Yield to maturity
+- Yield curve modeling and term structure analysis
+- Forward rate calculations and forward curve construction
+- Mortgage-backed securities and prepayment modeling
+- Arbitrage opportunities and relative value trading
+- Term structure of interest rates and yield curves
+- Futures contracts and forward pricing
+- Interest rate swaps and swap curve construction
+- Practical examples and implementation
+- Derivatives and structured financial instruments
+- Trading strategies and market implementation
+- Financial regulation and compliance requirements
+- Investment analysis and portfolio management
+- Financial valuation and pricing methodologies
+- Fixed income securities and bond markets
+- International finance and global markets
+- Monetary policy and central banking
+last_enhanced: '2025-11-06 08:42:38'
 ---
+
+
+
+
 
 # Teaching Note 1-Introduction To Fixed Income Securities
 

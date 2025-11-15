@@ -1,24 +1,52 @@
 ---
 cssclasses:
-  - academia
+- academia
 title: Teaching Note 3 Understanding The Term Structure Of Interest Rates
 tags:
-  - expectations_hypothesis
-  - interest_rates
-  - risk_premium
-  - term_structure
-  - yield_curve
+- arbitrage
+- banking
+- bond-convexity
+- capm
+- convexity
+- coupon-bonds
+- expectations_hypothesis
+- feynman-kac
+- forward-contracts
+- forward-rates
+- futures-contracts
+- government-bonds
+- hedging-strategies
+- interest-rates
+- interest_rates
+- options-greeks
+- risk_premium
+- term-structure
+- term_structure
+- time-series
 aliases:
-  - Expectations Theory
-  - Term Structure of Rates
-  - Yield Curve Analysis
+- Expectations Theory
+- Term Structure of Rates
+- Yield Curve Analysis
 key_concepts:
-  - Expectations hypothesis
-  - Forward rates
-  - Term structure decomposition
-  - Term structure of rates
-  - Time varying risk premia
+- Convexity adjustments in fixed income
+- Yield curve modeling and term structure analysis
+- Forward rate calculations and forward curve construction
+- Arbitrage opportunities and relative value trading
+- Risk-neutral pricing and martingale measures
+- Term structure of interest rates and yield curves
+- Futures contracts and forward pricing
+- Capital Asset Pricing Model (CAPM)
+- Practical examples and implementation
+- Derivatives and structured financial instruments
+- Investment analysis and portfolio management
+- Fixed income securities and bond markets
+- Monetary policy and central banking
+last_enhanced: '2025-11-06 08:42:39'
 ---
+
+
+
+
 
 # Teaching Note 3 Understanding The Term Structure Of Interest Rates
 ## Introduction

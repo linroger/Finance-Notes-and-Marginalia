@@ -1,20 +1,68 @@
 ---
 tags:
-  - goldman_sachs
-  - hedging_strategies
-  - option_replication
-  - options_pricing
-  - quantitative_finance
+- alpha
+- barrier
+- bid-ask
+- binomial
+- black-scholes
+- bond
+- brownian
+- call
+- currency
+- defi
+- dividend-yield
+- equity
+- exchange-rate
+- exotic
+- forward
+- future
+- goldman_sachs
+- greeks
+- hedging_strategies
+- interest-rate
+- multiple
+- option
+- option_replication
+- options_pricing
+- put
+- quantitative_finance
+- risk-free-rate
+- stock
+- stock-option
+- terminal-value
+- transaction-cost
+- vol-smile
 aliases:
-  - Derman, Ergener, Kani
-  - Option Replication
-  - Static Replication
+- Derman, Ergener, Kani
+- Option Replication
+- Static Replication
 key_concepts:
-  - Fixed portfolio weights
-  - Option hedging method
-  - Option pricing models
-  - Replicating option portfolio
-  - Standard option portfolio
+- American options valuation
+- Backward induction algorithm
+- Binomial option pricing model
+- Convergence to Black-Scholes
+- Cox-Ross-Rubinstein framework
+- Delta risk management
+- Derivative securities
+- Dynamic hedging strategies
+- Financial risk management
+- Fixed portfolio weights
+- Gamma effects on options
+- Lattice methods for derivatives
+- Multi-period binomial tree
+- Option hedging method
+- Option pricing models
+- Options Greeks measurement
+- Portfolio optimization
+- Portfolio risk hedging
+- Quantitative financial analysis
+- Replicating option portfolio
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Risk-neutral probability
+- Standard option portfolio
+- Theta time decay
+- Vega volatility sensitivity
 ---
 
 # Quantitative Strategies Research Notes  

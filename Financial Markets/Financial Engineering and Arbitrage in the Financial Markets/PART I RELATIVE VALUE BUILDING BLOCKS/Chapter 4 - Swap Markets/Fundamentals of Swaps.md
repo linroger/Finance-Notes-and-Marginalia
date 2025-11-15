@@ -1,25 +1,115 @@
 ---
-tags:
-  - fixed_floating_swaps
-  - interest_rate_swaps
-  - notional_principal
-  - swap_fundamentals
-  - swap_valuation
 aliases:
-  - Cross-Currency Swaps
-  - Interest Rate Swap
-  - Swap Agreements
-  - Swap Basics
+- Cross-Currency Swaps
+- Interest Rate Swap
+- Swap Agreements
+- Swap Basics
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Fundamentals of Swaps and financial analysis
+- Fundamentals of Swaps in modern finance
+- Applications of Fundamentals of Swaps
+- 'Case study: Fundamentals of Swaps'
+last_enhanced: '2025-11-06 08:42:33'
+- forward
+- maturity
+- coupon
+- duration
+- options
+- fixed-income
+- put
+- swap
+- swaps
+- bond
+- bonds
+- hedging
+- call
+- futures
+- currency-swap
+tags:
+- arbitrage
+- basis
+- bid-ask
+- bond
+- case-study
+- cash-flow
+- cftc
+- commodity
+- counterparty
+- crisis-analysis
+- currency
+- derivative-pricing
+- derivatives
+- duration
+- empirical-analysis
+- equity
+- fixed-income
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- liquidity
+- margin-call
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- sec-regulation
+- securitization
+- spread
+- yield-curve
+
 key_concepts:
-  - Dual nature of swaps
-  - Exchange cash flows
-  - FRA settlement formula
-  - Fictitious bonds exchange
-  - Fixed vs floating
-  - Notional principal
-  - String of forwards
-  - Swap legs
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 4.1 FUNDAMENTALS OF SWAPS  
 

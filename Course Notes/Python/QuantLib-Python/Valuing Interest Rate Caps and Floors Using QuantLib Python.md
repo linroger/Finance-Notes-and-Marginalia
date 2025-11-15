@@ -1,28 +1,50 @@
 ---
 title: Valuing Interest Rate Caps and Floors Using QuantLib Python
-source: 
-  http://gouthamanbalaraman.com/blog/interest-rate-cap-floor-valuation-quantlib-python.html
+source: http://gouthamanbalaraman.com/blog/interest-rate-cap-floor-valuation-quantlib-python.html
 description: A tutorial on valuing caps and floors using QuantLib Python.
 tags:
-  - black_formula
-  - caplet_valuation
-  - interest_rate_caps
-  - quantlib_python
-  - volatility_surface
+- basis-swap
+- black_formula
+- cap
+- caplet_valuation
+- defi
+- floor
+- forward
+- future
+- interest-rate
+- interest_rate_caps
+- libor
+- option
+- quantlib_python
+- swap
+- volatility_surface
+- yield-curve
 aliases:
-  - Cap and Floor Pricing
-  - Interest Rate Derivatives
-  - QuantLib Tutorial
+- Cap and Floor Pricing
+- Interest Rate Derivatives
+- QuantLib Tutorial
 key_concepts:
-  - Caplet Black formula
-  - Interest rate term structure
-  - QuantLib Python example
-  - Valuing caps and floors
-  - Volatility surface construction
+- Basis swap mechanics
+- Caplet Black formula
+- Cross-currency basis
+- Currency swap structure
+- Derivative securities
+- Financial risk management
+- Fixed vs floating leg
+- Interest rate swap pricing
+- Interest rate term structure
+- Portfolio optimization
+- Present value of swaps
+- QuantLib Python example
+- Quantitative financial analysis
+- Risk assessment and mitigation
+- Swap curve construction
+- Swaption valuation
+- Valuing caps and floors
+- Volatility surface construction
 ---
 
 # Valuing Interest Rate Caps and Floors Using QuantLib Python
-
 A tutorial on valuing caps and floors using QuantLib Python.
 
 In this post,  I will walk you through a simple example of valuing caps. I want to talk about two specific cases:
@@ -47,13 +69,13 @@ Let us start by constructing different components required in valuing the caps. 
 
 For simplicity,  we will construct only one interest rate term structure here,  and assume that the discounting and the floating leg is referenced by the same. Below the term structure of interest rates is constructed from a set of zero rates.
 ```python
-dates = [ql.Date(14,  6,  2016),   ql.Date(14,  9,  2016),   
-         ql.Date(14,  12,  2016),   ql.Date(14,  6,  2017),  
-         ql.Date(14,  6,  2019),   ql.Date(14,  6,  2021),  
-         ql.Date(15,  6,  2026),   ql.Date(16,  6,  2031),  
+dates = [ql.Date(14,  6,  2016),   ql.Date(14,  9,  2016),
+         ql.Date(14,  12,  2016),   ql.Date(14,  6,  2017),
+         ql.Date(14,  6,  2019),   ql.Date(14,  6,  2021),
+         ql.Date(15,  6,  2026),   ql.Date(16,  6,  2031),
          ql.Date(16,  6,  2036),   ql.Date(14,  6,  2046)
          ]
-yields = [0.000000,   0.006616,   0.007049,   0.007795,  
+yields = [0.000000,   0.006616,   0.007049,   0.007795,
 [^0]: 009599,   0.011203,   0.015068,   0.017583,
 [^0]: 018998,   0.020080]
 day_count = ql.ActualActual()
@@ -62,7 +84,7 @@ interpolation = ql.Linear()
 compounding = ql.Compounded
 compounding_frequency = ql.Annual
 
-term_structure = ql.ZeroCurve(dates,   yields,   day_count,   calendar,   
+term_structure = ql.ZeroCurve(dates,   yields,   day_count,   calendar,
                        interpolation,   compounding,   compounding_frequency)
 ts_handle = ql.YieldTermStructureHandle(term_structure)
 ```
@@ -77,8 +99,8 @@ buss_convention = ql.ModifiedFollowing
 rule = ql.DateGeneration.Forward
 end_of_month = False
 
-schedule = ql.Schedule(start_date,   end_date,   period,  
-                       calendar,   buss_convention,   buss_convention,   
+schedule = ql.Schedule(start_date,   end_date,   period,
+                       calendar,   buss_convention,   buss_convention,
                        rule,   end_of_month)
 ```
 
@@ -106,14 +128,13 @@ print cap.NPV()
 ```
 
 ## Using Volatility Surfaces
-
 In the above exercise,  we used a constant volatility value. In practice,  one needs to strip the market quoted capfloor volatilities to infer the volatility of each and every caplet. `QuantLib` provides excellent tools in order to do that. Let us assume the following dummy data represents the volatility surface quoted by the market. I have the various `strikes`,  `expiries`,  and the volatility quotes in percentage format. I take the raw data and create a `Matrix` in order to construct the volatility surface.
 ```python
 strikes = [0.01,  0.015,   0.02]
 expiries = [ql.Period(i,   ql.Years) for i in range(1,  11)] + [ql.Period(12,   ql.Years)]
 vols = ql.Matrix(len(expiries),   len(strikes))
-data = 47.27,   55.47,   64.07,   70.14,   72.13,   69.41,   72.15,   67.28,   66.08,   68.64,   65.83],  
-   [46.65,  54.15,  61.47,  65.53,  66.28,  62.83,  64.42,  60.05,  58.71,  60.35,  55.91],  
+data = 47.27,   55.47,   64.07,   70.14,   72.13,   69.41,   72.15,   67.28,   66.08,   68.64,   65.83],
+   [46.65,  54.15,  61.47,  65.53,  66.28,  62.83,  64.42,  60.05,  58.71,  60.35,  55.91],
    [46.6,  52.65,  59.32,  62.05,  62.0,  58.09,  59.03,  55.0,  53.59,  54.74,  49.54]
    ]
 

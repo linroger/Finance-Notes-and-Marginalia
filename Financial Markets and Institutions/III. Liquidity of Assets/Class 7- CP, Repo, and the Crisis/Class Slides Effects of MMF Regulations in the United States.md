@@ -1,26 +1,165 @@
 ---
+aliases:
+- MMF Run
+- MMLF
+- March 2020
+- Money Market Fund Regulations
+- Prime MMFs
 cssclasses:
-  - academia
+- academia
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Class Slides Effects of MMF Regulations in the United States and financial analysis
+- Class Slides Effects of MMF Regulations in the United States in modern finance
+- Applications of Class Slides Effects of MMF Regulations in the United States
+- 'Case study: Class Slides Effects of MMF Regulations in the United States'
+- volatility
+- treasury
+- fixed-income
+- credit
+- maturity
+- bond
+- swaps
+- bonds
+- cds
+- liquidity
+- irs
+- default
+- recovery
+- risk
+- trading
 title: Class Slides Effects of MMF Regulations in the United States
 tags:
-  - aum_flows
-  - liquidity_management
-  - march_2020_turmoil
-  - mmf_regulations
-  - mmlf_program
-aliases:
-  - MMF Run
-  - MMLF
-  - March 2020
-  - Money Market Fund Regulations
-  - Prime MMFs
+- abcp
+- asset-backed-cp
+- banking
+- basis
+- bid-ask
+- bond
+- case-study
+- central-bank
+- collateral
+- commercial-paper
+- counterparty
+- covid-crisis
+- cp-rate
+- credit-market
+- crisis-2008
+- crisis-analysis
+- currency
+- default
+- derivatives
+- duration
+- empirical-analysis
+- equity
+- facility-lending
+- financial-institutions
+- financial-markets
+- fire-sale
+- fixed-income
+- government-fund
+- graduate-level
+- hedging
+- institutional-analysis
+- institutional-quality
+- learning-from-crisis
+- lehman
+- liquidity
+- liquidity-facility
+- liquidity-fee
+- liquidity-management
+- market-liquidity
+- market-structure
+- mathematical-finance
+- monetary-policy
+- money-market
+- money-market-fund
+- money-markets
+- municipal-fund
+- prime-fund
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- repo
+- repo-markets
+- sec-regulation
+- securitization
+- short-term-funding
+- sovereign
+- spread
+- stable-net-asset-value
+- treasury
+- volatility
+- yield-curve
+
 key_concepts:
-  - AUM rebound
-  - Fund-level flows
-  - Liquidity management
-  - MMF regulation effects
-  - March 2020 turmoil
+- Asset-Backed Commercial Paper
+- Banking and Financial Intermediation
+- CP Investor Base
+- Case Study Methodology
+- Central Bank Liquidity Facilities
+- Commercial Paper Markets
+- Commercial Paper Rates
+- Commercial Paper Risk Assessment
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Intermediation and Banking
+- Financial Markets and Institutions
+- Government Money Market Funds
+- Historical Financial Analysis
+- Institutional Analysis of Financial Systems
+- Institutional Money Market Funds
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Liquidity Crisis and Management
+- Liquidity Fee Mechanisms
+- Liquidity Risk and Management
+- Market Structure and Microstructure
+- Money Market Dynamics
+- Money Market Fund Dynamics
+- Money Market Fund Management
+- Money Market Fund Regulation
+- Money Market Instruments
+- Municipal Money Market Funds
+- Prime Money Market Funds
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Regulatory Framework in Financial Markets
+- Repurchase Agreement Markets
+- Risk Management and Hedging Strategies
+- Short-Term Funding Markets
+- Short-Term Funding Strategies
+- Stable Net Asset Value
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
 
 # Class Slides Effects of MMF Regulations in the United States
 

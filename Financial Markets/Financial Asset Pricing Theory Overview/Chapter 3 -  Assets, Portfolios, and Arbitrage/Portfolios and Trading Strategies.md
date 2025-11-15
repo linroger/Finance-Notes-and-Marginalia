@@ -1,21 +1,109 @@
 ---
-tags:
-  - asset_allocation
-  - discrete_time
-  - portfolio_management
-  - self_financing
-  - trading_strategies
 aliases:
-  - One-Period Model
-  - Portfolio
-  - Trading Strategy
+- One-Period Model
+- Portfolio
+- Trading Strategy
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Market structure and trading
+- Order types and execution
+- Market making and liquidity provision
+- Algorithmic trading strategies
+- Quantitative signal development
+- High-frequency trading
+- Portfolios and Trading Strategies and financial analysis
+- Portfolios and Trading Strategies in modern finance
+- Applications of Portfolios and Trading Strategies
+- 'Case study: Portfolios and Trading Strategies'
+last_enhanced: '2025-11-06 08:42:31'
+- portfolio
+- strategy
+- pricing
+- dividend
+- call
+- options
+- delta
+- liquidity
+- arbitrage
+- theta
+- trading
+- algorithmic-trading
+- portfolio-optimization
+tags:
+- algorithmic-trading
+- arbitrage
+- bid-ask
+- case-study
+- cash-flow
+- crisis-analysis
+- derivative-pricing
+- derivatives
+- econometric
+- empirical-analysis
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- liquidity
+- market-making
+- mathematical-finance
+- professional-standard
+- provision
+- quantitative-analysis
+- quantitative-methods
+- real-world-example
+- sovereign
+- statistical-model
+
 key_concepts:
-  - Gross rate of return
-  - Law of One Price
-  - Portfolio weight vector
-  - 'Portfolio: asset holdings'
-  - Trading strategy definition
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Econometric Analysis
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Econometrics
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Mathematical Finance Applications
+- Mathematical Modeling
+- Quantitative Analysis in Finance
+- Quantitative Methods in Finance
+- Quantitative Risk Management
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Statistical Finance
+- Statistical Modeling
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 3.3 Portfolios and trading strategies  
 

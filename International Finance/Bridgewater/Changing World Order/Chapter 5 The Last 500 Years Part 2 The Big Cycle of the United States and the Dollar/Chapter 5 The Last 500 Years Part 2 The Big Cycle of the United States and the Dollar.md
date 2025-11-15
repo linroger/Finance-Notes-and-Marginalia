@@ -1,3 +1,37 @@
+---
+tags:
+- asset-pricing
+- banking
+- caps-floors
+- credit-risk
+- financial-regulation
+- futures-contracts
+- government-bonds
+- hedging-strategies
+- interest-rates
+- options
+- stress-testing
+- trading-strategies
+- yield-curve
+key_concepts:
+- Yield curve modeling and term structure analysis
+- Stress testing and scenario analysis
+- Futures contracts and forward pricing
+- Financial theory and academic research
+- Practical examples and implementation
+- Trading strategies and market implementation
+- Investment analysis and portfolio management
+- Financial valuation and pricing methodologies
+- Fixed income securities and bond markets
+- Equity markets and stock valuation
+- International finance and global markets
+- Monetary policy and central banking
+- Financial crises and market stress events
+last_enhanced: '2025-11-06 08:42:41'
+---
+
+
+
 Chapter 5: The Last 500 Years Part 2: The Big Cycle of the United States and the Dollar
 
 # **Chapter 5: The Last 500 Years Part 2: The Big Cycle of the United States and the Dollar**

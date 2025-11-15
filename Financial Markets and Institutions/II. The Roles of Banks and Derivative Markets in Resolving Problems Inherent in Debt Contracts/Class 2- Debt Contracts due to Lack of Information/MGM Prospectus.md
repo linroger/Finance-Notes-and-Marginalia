@@ -1,32 +1,42 @@
 ---
 cssclasses:
-  - academia
+- academia
 title: MGM Prospectus
 tags:
-  - debt_offering
-  - filing_424b5
-  - mgm_mirage
-  - prospectus
-  - senior_notes
-  - bond_covenants
-  - corporate_bonds
+- bond
+- bond_covenants
+- corporate_bonds
+- debt_offering
+- filing_424b5
+- forward
+- future
+- gold
+- mgm_mirage
+- monte-carlo
+- prospectus
+- senior_notes
 aliases:
-  - MGM
-  - MGM Mirage
-  - Prospectus Supplement
-  - MGM Bond Offering
-  - Senior Notes Prospectus
+- MGM
+- MGM Mirage
+- Prospectus Supplement
+- MGM Bond Offering
+- Senior Notes Prospectus
 key_concepts:
-  - Joint Book-Running Managers
-  - Prospectus Information
-  - Redemption Price
-  - Senior Notes
-  - Unsecured Senior Obligations
-  - Interest Payment Dates
-  - Guarantee Structure
-  - Covenant Restrictions
-  - Use of Proceeds
-  - Risk Factors
+- Covenant Restrictions
+- Derivative securities
+- Financial risk management
+- Guarantee Structure
+- Interest Payment Dates
+- Joint Book-Running Managers
+- Portfolio optimization
+- Prospectus Information
+- Quantitative financial analysis
+- Redemption Price
+- Risk Factors
+- Risk assessment and mitigation
+- Senior Notes
+- Unsecured Senior Obligations
+- Use of Proceeds
 ---
 
 # MGM Prospectus

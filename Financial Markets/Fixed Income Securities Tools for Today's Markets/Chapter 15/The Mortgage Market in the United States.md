@@ -1,27 +1,117 @@
 ---
-tags:
-  - agency_mbs
-  - fha
-  - fhlmc
-  - financial_crisis
-  - fnma
-  - gnma
-  - gse
-  - mbs
-  - mortgage_market
-  - us_government
 aliases:
-  - Agency MBS
-  - GSEs
-  - Mortgage Lending
-  - US Mortgage Market
+- Agency MBS
+- GSEs
+- Mortgage Lending
+- US Mortgage Market
+- Mortgage-backed securities structure
+- Prepayment modeling and analysis
+- Securitization and CDO structures
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- The Mortgage Market in the United States and financial analysis
+- The Mortgage Market in the United States in modern finance
+- Applications of The Mortgage Market in the United States
+- 'Case study: The Mortgage Market in the United States'
+last_enhanced: '2025-11-06 08:42:36'
+- options
+- securitization
+- call
+- var
+- portfolio
+- ratio
+- portfolio-optimization
+- put
+- mbs
+- irs
+- risk
+- credit
+- risk-management
+- liquidity
+- swaps
+tags:
+- banking
+- basis
+- bond
+- case-study
+- cdo
+- central-bank
+- covid-crisis
+- credit-market
+- crisis-analysis
+- currency
+- derivative-pricing
+- derivatives
+- empirical-analysis
+- equity
+- financial-crisis
+- fixed-income
+- graduate-level
+- gse
+- hedging
+- institutional-quality
+- learning-from-crisis
+- liquidity
+- mathematical-finance
+- mbs
+- monetary-policy
+- non-bank
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- rmbs
+- sec-regulation
+- securitization
+- sovereign
+- stress-test
+- treasury
+- var
+
 key_concepts:
-  - Agency MBS, GSEs
-  - FHA, FNMA, VA
-  - MBS securitization
-  - Mortgage market in US
-  - Secondary mortgage market
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # 15.1 THE MORTGAGE MARKET IN THE UNITED STATES  
 

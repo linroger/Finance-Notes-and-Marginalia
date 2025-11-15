@@ -3,27 +3,94 @@ title: Forward Points in Currency
 source: https://www.investopedia.com/terms/f/forwardpoints.asp
 description: Forward points are the number of basis points added to or subtracted
   from the current spot rate to determine the forward rate.
-tags:
-  - currency_trading
-  - forward_discount
-  - forward_points
-  - forward_premium
-  - spot_rate
+- bond
+- currency
+- currency_trading
+- exchange-rate
+- forward
+- forward_discount
+- forward_points
+- forward_premium
+- future
+- interest-rate
+- liquidity
+- negative-rate
+- spot_rate
+- swap
 aliases:
-  - Discount Spread
-  - Forward Contract
-  - Forward Rate
+- Discount Spread
+- Forward Contract
+- Forward Rate
+- Basis points added/subtracted
+- Basis swap mechanics
+- Calculate forward rate
+- Cross-currency basis
+- Currency swap structure
+- Currency trading
+- Derivative securities
+- Financial risk management
+- Fixed vs floating leg
+- Forward points in currency
+- Forward premium vs discount
+- Interest rate swap pricing
+- Portfolio optimization
+- Present value of swaps
+- Quantitative financial analysis
+- Risk assessment and mitigation
+- Swap curve construction
+- Swaption valuation
+tags:
+- basis
+- bid-ask
+- bond
+- credit-curve
+- currency
+- derivatives
+- econometric
+- european
+- graduate-level
+- hedging
+- institutional-quality
+- liquidity
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-analysis
+- quantitative-methods
+- sec-regulation
+- securitization
+- spread
+- statistical-model
 key_concepts:
-  - Basis points added/subtracted
-  - Calculate forward rate
-  - Currency trading
-  - Forward points in currency
-  - Forward premium vs discount
+- Banking and Financial Intermediation
+- Econometric Analysis
+- Financial Econometrics
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Institutional-Quality Financial Education
+- Mathematical Finance Applications
+- Mathematical Modeling
+- Quantitative Analysis in Finance
+- Quantitative Methods in Finance
+- Quantitative Risk Management
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+- Statistical Finance
+- Statistical Modeling
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
 
-
 ## What Are Forward Points?
-
 In currency trading, forward points are the number of basis points added to or subtracted from the current spot rate](https://www.investopedia.com/terms/s/spot_rate.asp) of a currency pair to determine the forward rate for delivery on a specific value date. When points are added to the spot rate this is called a forward premium; when points are subtracted from the spot rate it is a forward discount.
 
 The forward rate](https://www.investopedia.com/terms/f/forwardrate.asp) is based on the difference between the interest rates of the two currencies (currency deals always involve two currencies) and the time until the maturity of the deal. Forward points are also known as the forward spread.
@@ -31,15 +98,10 @@ The forward rate](https://www.investopedia.com/terms/f/forwardrate.asp) is base
 Basis points can be either added or taken away from the spot rate. If they are added, they are forward points. If subtracted, they are discount points.
 
 ### Key Takeaways
-
 - In currency trading, forward points are the number of basis points added to or subtracted from the current spot rate of a currency pair to determine the forward rate for delivery on a specific value date.
 - A discount spread is the currency forward points that are subtracted from the spot rate, to obtain a forward rate for a currency.
 - When points are added to the spot rate this is called a forward premium; when points are subtracted from the spot rate it is a forward discount.
-
-  
-
 ## Understanding Forward Points
-
 Forward points are used to calculate the price for both an outright forward contract](https://www.investopedia.com/terms/f/forwardcontract.asp) and a foreign [currency swap](https://www.investopedia.com/terms/f/foreign-currency-swaps.asp). Points can be calculated and transactions executed for any date that is a valid business day in both currencies. The most commonly traded forward currencies are the U.S. dollar, the euro, the Japanese yen, the British pound, and the Swiss franc.
 
 Forwards are most commonly done for periods of up to one year. Prices for further out dates are available, but liquidity](https://www.investopedia.com/terms/l/liquidity.asp) is generally lower. In an outright [forward foreign exchange contract](https://www.investopedia.com/terms/l/leadsandlags.asp), one currency is bought against another for delivery on any date beyond the spot. The price is the spot rate plus or minus the forward points to the value date. No money changes hands until the value date.
@@ -47,41 +109,33 @@ Forwards are most commonly done for periods of up to one year. Prices for furthe
 In a foreign exchange swap, a currency is bought for the near date (usually spot) against another currency, and the same amount is sold back for the forward date. The rate for the forward leg of the swap is the near-date rate plus or minus the forward points to the far date. Money changes hands on both value dates.
 
 ### Important
-
-A forward contract is different from a swap contract. In a forward, traders agree to exchange an asset at a future date; in a swap, they exchange the interest rates generated by the assets.
+A forward contract is different from a swap contract. In a forward, traders agree to exchange an asset $\$a_t$$ a future date; in a swap, they exchange the interest rates generated by the assets.
 
 ### Discount Spreads
-
 In contrast to the forward spread, a discount spread](https://www.investopedia.com/terms/d/discount-spread.asp) is the currency forward points that are subtracted from the spot rate, to obtain a forward rate for a currency. In the currency markets, forward spreads, or points, are presented as two-way quotes; that is, they have a bid price and an offer price. In a discount spread, the bid price will be higher than the offer price, while in a premium spread, the bid price will be lower than the offer price.
 
 ### Important
-
 Currency traders seek to profit from the difference in interest payments from the currencies that they hold.
 
 ## Examples of Forward Points
-
 Forward points are often quoted in numbers, such as +13.2 or minus -270.68. These represent 1/10,000, so +13.2 means 0.00132 when added to a currency spot price.
 
-For example, if the euro can be bought versus the dollar at the rate of 1.1350 for spot, and the forward points are +13.2, the forward rate is 1.13632 (or 1.1350 + 0.00132).
+For example, if the euro can be bought versus the dollar $\$a_t$$ the rate of 1.1350 for spot, and the forward points are +13.2, the forward rate is 1.13632 (or 1.1350 + 0.00132).
 
 Based on this information we can determine that the interest rate in the U.S. is higher than that in the Eurozone. The positive forward points when buying the EUR/USD tell us that the rate goes up the further out into the future we go. This is because the forward points compensate for the difference in interest rates between the two currencies.
 
 Expressed a different way, if the euro interest rate is 1% and the U.S. interest rate is 2%, a trader could make a 1% difference by holding U.S. dollars instead of euros. So when exchanging or locking in currency exchange rates for the future (forward rate) this needs to be factored in.
 
 ## What Do Swap Points Tell You?
-
 Swap points reflect the expected interest rate on a currency swap. Positive swap points indicate that a trader will earn interest on the sold currency, while negative interest rates mean that they will owe interest.
 
 ## What Is the Difference Between a Swap and a Forward?
-
-Forwards](https://www.investopedia.com/terms/f/forwardcontract.asp) and swaps are both derivative instruments based on the price of an underlying asset. The difference is that a forward contract entails the delivery of the underlying asset at a future date, while a swap contract only transfers the interest payments from the underlying asset.
+Forwards](https://www.investopedia.com/terms/f/forwardcontract.asp) and swaps are both derivative instruments based on the price of an underlying asset. The difference is that a forward contract entails the delivery of the underlying asset $\$a_t$$ a future date, while a swap contract only transfers the interest payments from the underlying asset.
 
 ## How Do You Calculate the Forward Rate of a Bond?
-
 The forward rate on a bond is based on the difference in interest on the spot rates for bonds of different maturities. It is calculated by dividing the interest rate of the longer-term bond by that of the shorter-term one, and subtracting one from the result.
 
 ## The Bottom Line
-
-Forward points, or swap points, measure the difference between the current spot price of a currency pair and the price when the deal matures. If forward points are added, the trader expects to earn interest; if they are subtracted, the trader expects to pay interest.  
+Forward points, or swap points, measure the difference between the current spot price of a currency pair and the price when the deal matures. If forward points are added, the trader expects to earn interest; if they are subtracted, the trader expects to pay interest.
 
 Partner Links

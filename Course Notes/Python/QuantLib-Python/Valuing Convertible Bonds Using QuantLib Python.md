@@ -1,30 +1,41 @@
 ---
-category: 'Clippings'
-author:
+category: Clippings
+author: null
 title: Valuing Convertible Bonds Using QuantLib Python
 source: http://gouthamanbalaraman.com/blog/value-convertible-bond-quantlib-python.html
 clipped: 2024-10-25
-published:
-topics:
+published: null
+topics: null
 tags:
-  - black_scholes
-  - bond_valuation
-  - convertible_bonds
-  - pricing_engine
-  - quantlib_python
+- black-scholes
+- black_scholes
+- bond
+- bond_valuation
+- call
+- convertible_bonds
+- equity
+- future
+- pricing_engine
+- put
+- quantlib_python
+- stock
 aliases:
-  - Convertible Bond Valuation
-  - QuantLib Example
+- Convertible Bond Valuation
+- QuantLib Example
 key_concepts:
-  - Black-Scholes-Merton process
-  - Call and put schedule
-  - QuantLib Python implementation
-  - Redemption amount scaling
-  - Valuing convertible bonds
+- Black-Scholes-Merton process
+- Call and put schedule
+- Derivative securities
+- Financial risk management
+- Portfolio optimization
+- QuantLib Python implementation
+- Quantitative financial analysis
+- Redemption amount scaling
+- Risk assessment and mitigation
+- Valuing convertible bonds
 ---
 
 # Valuing Convertible Bonds Using QuantLib Python
-
 Provides an introduction to valuation of convertible bonds using QuantLib Python with a minimal example.
 ```python
 import QuantLib as ql
@@ -37,22 +48,21 @@ ql.Settings.instance().evaluationDate = calculation_date
 ```
 
 One little quirk in the QuantLib convertible bond implementation is that there are places where the redemption amount is hard coded to `100`. So if you have conversion ratio evaluated as
-$$\text{Conversion Ratio}=\frac{\text{Redemption Amount}}{\text{Conversion Price}}$$
+$\$\text{Conversion Ratio}=\frac{\text{Redemption Amount}}{\text{Conversion Price}}$$
 
 you will need to scale to an appropriate value with a redemption amount of `100`. For instance,  vendors report conversion ratio with a redemption amount of 1000. The conversion ratio obtained this way should be divided by a factor of `10` to get the equivalent conversion ratio for use in the QuantLib calculations. This is a limitation right now (as of version 1.7),  which can be fixed in the future.
 
 Following is the details of the convertible bond of interest.
 ```python
-# St. Mary Land & Exploration Company 
-# Bloomberg ticker: SM 5.75 03/15/22 
-
+# St. Mary Land & Exploration Company
+# Bloomberg ticker: SM 5.75 03/15/22
 redemption = 100.00
 face_amount = 100.0
 spot_price = 29.04
 conversion_price = 26.0
 conversion_ratio = 3.84615  # BBG quotes 38.4615; had to scale by a factor of 10
 
-issue_date = ql.Date(15,     3,     2002)        
+issue_date = ql.Date(15,     3,     2002)
 maturity_date = ql.Date(15,     3,     2022)
 
 settlement_days = 2
@@ -71,8 +81,9 @@ put_dates = [ql.Date(20,     3,     2007),      ql.Date(15,     3,     2012),   
 put_price = 100.0
 
 # assumptions
+
 dividend_yield = 0.02
-credit_spread_rate = 0.03  
+credit_spread_rate = 0.03
 risk_free_rate = 0.04
 volatility = 0.40
 ```
@@ -82,18 +93,18 @@ The call and put schedule for this bond is created as shown below. Here for each
 callability_schedule = ql.CallabilitySchedule()
 
 for call_date in call_dates:
-   callability_price  = ql.CallabilityPrice(call_price,      
+   callability_price  = ql.CallabilityPrice(call_price,
                                             ql.CallabilityPrice.Clean)
-   callability_schedule.append(ql.Callability(callability_price,      
-                                       ql.Callability.Call,     
+   callability_schedule.append(ql.Callability(callability_price,
+                                       ql.Callability.Call,
                                        call_date)
                         )
-    
+
 for put_date in put_dates:
-    puttability_price = ql.CallabilityPrice(put_price,      
+    puttability_price = ql.CallabilityPrice(put_price,
                                             ql.CallabilityPrice.Clean)
-    callability_schedule.append(ql.Callability(puttability_price,     
-                                               ql.Callability.Put,     
+    callability_schedule.append(ql.Callability(puttability_price,
+                                               ql.Callability.Put,
                                                put_date))
 ```
 
@@ -112,23 +123,23 @@ for i in range(4):
 
 Now we build the fixed coupon convertible bond object
 ```python
-schedule = ql.Schedule(issue_date,      maturity_date,      tenor,     
-                       calendar,      accrual_convention,      accrual_convention,     
+schedule = ql.Schedule(issue_date,      maturity_date,      tenor,
+                       calendar,      accrual_convention,      accrual_convention,
                        ql.DateGeneration.Backward,      False)
 
 credit_spread_handle = ql.QuoteHandle(ql.SimpleQuote(credit_spread_rate))
 exercise = ql.AmericanExercise(calculation_date,      maturity_date)
 
-convertible_bond = ql.ConvertibleFixedCouponBond(exercise,     
-                                                 conversion_ratio,     
-                                                 dividend_schedule,     
-                                                 callability_schedule,      
-                                                 credit_spread_handle,     
-                                                 issue_date,     
-                                                 settlement_days,     
-                                                 [coupon],     
-                                                 day_count,     
-                                                 schedule,     
+convertible_bond = ql.ConvertibleFixedCouponBond(exercise,
+                                                 conversion_ratio,
+                                                 dividend_schedule,
+                                                 callability_schedule,
+                                                 credit_spread_handle,
+                                                 issue_date,
+                                                 settlement_days,
+                                                 [coupon],
+                                                 day_count,
+                                                 schedule,
                                                  redemption)
 ```
 
@@ -145,9 +156,9 @@ volatility_ts_handle = ql.BlackVolTermStructureHandle(
     ql.BlackConstantVol(calculation_date,      calendar,     volatility,      day_count)
 )
 
-bsm_process = ql.BlackScholesMertonProcess(spot_price_handle,      
-                                           dividend_ts_handle,     
-                                           yield_ts_handle,     
+bsm_process = ql.BlackScholesMertonProcess(spot_price_handle,
+                                           dividend_ts_handle,
+                                           yield_ts_handle,
                                            volatility_ts_handle)
 ```
 

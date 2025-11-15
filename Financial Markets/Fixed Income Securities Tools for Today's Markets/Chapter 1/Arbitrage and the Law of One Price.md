@@ -1,20 +1,113 @@
 ---
-tags:
-  - arbitrage
-  - bond_pricing
-  - law_of_one_price
-  - market_efficiency
-  - replicating_portfolio
 aliases:
-  - Arbitrage Opportunity
-  - Law of One Price
+- Arbitrage Opportunity
+- Law of One Price
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Arbitrage principles and opportunities
+- Relative value trading
+- Law of one price enforcement
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Arbitrage and the Law of One Price and financial analysis
+- Arbitrage and the Law of One Price in modern finance
+- Applications of Arbitrage and the Law of One Price
+- 'Case study: Arbitrage and the Law of One Price'
+last_enhanced: '2025-11-06 08:42:35'
+- options
+- treasury
+- call
+- portfolio
+- pricing
+- coupon
+- discount
+- fixed-income
+- portfolio-optimization
+- put
+- arbitrage
+- bond
+- bonds
+- maturity
+tags:
+- arbitrage
+- bid-ask
+- bond
+- case-study
+- crisis-analysis
+- derivative-pricing
+- derivatives
+- duration
+- econometric
+- empirical-analysis
+- fixed-income
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- mathematical-finance
+- professional-standard
+- provision
+- quantitative-analysis
+- quantitative-methods
+- real-world-example
+- reporting-requirement
+- sec-regulation
+- securitization
+- spread
+- statistical-model
+- treasury
+- yield-curve
+
 key_concepts:
-  - Arbitrage profit generation
-  - Law of one price
-  - Market price adjustment
-  - Replicating portfolio
-  - Riskless profit trade
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Econometric Analysis
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Econometrics
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Mathematical Finance Applications
+- Mathematical Modeling
+- Quantitative Analysis in Finance
+- Quantitative Methods in Finance
+- Quantitative Risk Management
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Statistical Finance
+- Statistical Modeling
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 1.4 ARBITRAGE AND THE LAW OF ONE PRICE  
 

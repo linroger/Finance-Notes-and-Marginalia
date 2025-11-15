@@ -1,21 +1,50 @@
 ---
 title: A Primer On Distressed Investing -Buying Companies By Acquiring Their Debt
 tags:
-  - capital_structure
-  - company_restructuring
-  - debt_acquisition
-  - distressed_investing
-  - institutional_investors
+- acquisition
+- bond
+- cap
+- capital-structure
+- capital_structure
+- commodity
+- company_restructuring
+- debt_acquisition
+- defi
+- distressed
+- distressed_investing
+- enterprise-value
+- equity
+- equity-value
+- fixed-income
+- forward
+- future
+- hedge-fund
+- institutional_investors
+- lehman
+- leveraged-buyout
+- liquidity
+- multiple
+- oil
+- option
+- private-equity
+- stock
+- transaction-cost
+- treasury
 aliases:
-  - Buying Distressed Debt
-  - Distressed Debt Investing
-  - Investing in Distressed Companies
+- Buying Distressed Debt
+- Distressed Debt Investing
+- Investing in Distressed Companies
 key_concepts:
-  - Acquiring company debt
-  - Debt capacity and risk
-  - Institutional investor battles
-  - Restructuring plan execution
-  - Warren Buffett distressed investing
+- Acquiring company debt
+- Debt capacity and risk
+- Derivative securities
+- Financial risk management
+- Institutional investor battles
+- Portfolio optimization
+- Quantitative financial analysis
+- Restructuring plan execution
+- Risk assessment and mitigation
+- Warren Buffett distressed investing
 ---
 
 # A Primer On Distressed Investing -Buying Companies By Acquiring Their Debt

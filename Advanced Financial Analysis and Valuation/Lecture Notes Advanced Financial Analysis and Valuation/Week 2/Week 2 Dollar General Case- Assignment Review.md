@@ -1,47 +1,59 @@
 ---
 cssclasses:
-  - academia
+- academia
 title: Week 2 Dollar General Case - Assignment Review
 linter-yaml-title-alias: Week 2 Dollar General Case - Assignment Review
 tags:
-  - acquisition
-  - dollar_general
-  - financial_analysis
-  - lbo
-  - valuation
-  - case_study
-  - retail_analysis
+- acquisition
+- case_study
+- covid
+- dollar_general
+- equity
+- financial_analysis
+- forward
+- future
+- ipo
+- lbo
+- leveraged-buyout
+- merger
+- multiple
+- portfolio-optimization
+- private-equity
+- retail_analysis
+- stock
+- valuation
 aliases:
-  - DG Case Review
-  - Dollar General Assignment Review
+- DG Case Review
+- Dollar General Assignment Review
 key_concepts:
-  - Acquisition offer analysis
-  - Financial statement analysis
-  - Market pricing vs. KKR offer
-  - Non-recurring items adjustment
-  - Store appearance and customer satisfaction
-  - Pro-forma adjustments
-  - Valuation multiples
-  - Private equity transactions
+- Acquisition offer analysis
+- Derivative securities
+- Financial risk management
+- Financial statement analysis
+- Market pricing vs. KKR offer
+- Non-recurring items adjustment
+- Portfolio optimization
+- Private equity transactions
+- Pro-forma adjustments
+- Quantitative financial analysis
+- Risk assessment and mitigation
+- Store appearance and customer satisfaction
+- Valuation multiples
 ---
 
 # Week 2 Dollar General Case - Assignment Review
-
 Advanced Financial Analysis and Valuation
 
 ## KEY CASE FACTS
-
-- In 2007, Dollar General received an acquisition offer from KKR for $7.3BN
-	- Represented a 31% premium over the stock price at the time
+- In 2007, Dollar General received an acquisition offer from KKR for $7.3BN$
+	- Represented a 31% premium over the stock price $\$a_t$$ the time
 	- Transaction value / actual FY2006 EBITDA = 16.3x
 - The agreement was approved unanimously by the board of directors
 - Shareholders sued, arguing that the agreed price undervalued Dollar General
-- Debt investors were concerned the merger would ratchet up Dollar General's leverage too much at a time when Dollar General's operating performance was also under pressure
+- Debt investors were concerned the merger would ratchet up Dollar General's leverage too much $\$a_t$$ a time when Dollar General's operating performance was also under pressure
 - Poll: Would you approve the agreement?
 - Note: The year references in the case materials are confusing as the FY end falls into the next calendar year. So, the FY ending Feb 2, 2007 is often referred to as (fiscal) year 2006.
-
 ## CASE QUESTIONS
-
 - Assessment of DG performance
 	- Key ratios
 	- Over time
@@ -51,9 +63,7 @@ Advanced Financial Analysis and Valuation
 	- Compute pro-forma for fiscal 2006 (i.e., fiscal year ending in Feb. 2007) and forecast for fiscal 2007 (i.e., fiscal year ending in Feb. 2008)
 	- Assess the offer based on pro-forma multiple and forward multiple
 - Let's start with KPIs for deep discount and key ratios for DG
-
 ## ASSESSMENT OF DG PERFORMANCE: OVER TIME
-
 !500
 
 - Sharp decline in earnings from $350.2MM in FY2005 to $137.9MM in FY2006, despite increase in revenues
@@ -61,32 +71,25 @@ Advanced Financial Analysis and Valuation
 	- Absolute increase in COGS greater than increase in revenue due to higher inventory impairment and shrinkage (margin ↓)
 - Increase in market ratios driven by smaller denominator
 	- Market may have viewed earnings decline as transitory
-
 ## ASSESSMENT OF DG PERFORMANCE: RELATIVE TO PEERS
-
 - Family Dollar (size, business overlap) and Dollar Tree (size) seem to be reasonable comparables
 - Until FY2006, DG's profit margin was better than Family Dollar's but worsened due to the new strategy
 - DG's FY2006 ROA and ROE were worse than Family Dollar's or Dollar Tree's - DG's market ratios tend to look better than peers (Why? Driven by denominator)
 	- Market-to-book is more stable than PE (less affected by transitory items)
-
 !500
 
 ## CAUSE FOR DG PERFORMANCE DECLINE
-
 ### RESTRUCTURING PLAN
-
 - Closing of 400 stores and opening / remodeling of 300 new stores
 	- Higher SG&A expenses from lease contract terminations and other store-closing costs
 	- Higher SG&A expenses from increased advertising cost
 - Revamping inventory management with new strategy that depends on clearance sales
 	- Mark-downs and inventory impairment charges recorded in FY2006
-- New strategies expected to contribute negatively to earnings beyond current FY ($71.2MM remaining in special items)
+- New strategies expected to contribute negatively to earnings beyond current FY ($71.2MM remaining in special items)$
 	- What do you do with these future charges in 2007 valuation?
 - DG expects its new strategies to enhance store appearance and customer satisfaction while reducing employee turnover and inventory shrink
 - Does the market pricing or the KKR offer reflect these improvements?
-
 ## SUGGESTED PRO FORMA FY2006 (YEAR ENDED FEB. 2007)
-
 (A) Adjusting For Non-Recurring Items (Excl. Net Sales Adjustment)
 
 !500
@@ -96,23 +99,20 @@ Mark down adjustment
 - Markdowns have two effects:
 	- Those below costs lead to impairments (captured by adj. for inventory impairment)
 	- Those above cost reduce margin
-- Assume that if no strategy change, markdowns in 2006 would have increased with actual sales growth: $106.5MM * (1+6.8%) = $113.8MM
-- The difference ($279.1MM-$113.8MM = $165.3MM) should have been sold at standard margins without the markdown:
+- Assume that if no strategy change, markdowns in 2006 would have increased with actual sales growth: $106.5MM * (1+6.8\%) = $113.8MM
+- The difference ($279.1MM-$113.8MM = $165.3MM) should have been sold $$a_t$$ standard margins without the markdown:
 - They would have contributed to gross profit
-	- $165.3MM * 25.8% margins =$42.7MM if using actual FY2006
-	- $165.3MM * 28.7% margins =$47.5MM if using FY2005 because actual FY2006 margins are likely depressed
+	- $165.3MM * 25.8\% margins =$42.7MM if using actual FY2006
+	- $165.3MM * 28.7\% margins =$47.5MM if using FY2005 because actual FY2006 margins are likely depressed
 - But 28.7% is the topline margin relative to sales. We need the margin as it relates to the cost number:
 - 28.7% / (1-28.7%) = 40.3% margin relative to COGS
-	- $165.3MM * 40.3% = $66.6M
-
+	- $165.3MM * 40.3\% = $66.6M
 ## SUGGESTED PRO FORMA FY2006 (YEAR ENDED FEB. 2007) (B)
-
 Adjusting For Non-Recurring Items (Incl. Net Sales Adjustment)
 
 !500
 
 ## ASSESSMENT OF DG'S FUTURE PROSPECTS FORECAST FOR FY2007 (YEAR ENDED FEB. 2008)
-
 - Key drivers are growth, gross margin, and SG&A - two reasonable approaches:
 	- Assume FY2006 was an outlier, undo the effects with pro forma and then use average of the past (our approach)
 	- Assume strategy will lead to different values in the future, start from pro forma but adjust to reasonable estimates for future drivers
@@ -124,15 +124,12 @@ Adjusting For Non-Recurring Items (Incl. Net Sales Adjustment)
 	- Consider average of historical and pro forma FY2006 metric
 - Interest income and expense: Use actual from FY2006 (for simplicity)
 - Effective tax rate: Use actual from FY2006 - Depreciation: Use past relation with sales (as store growth likely leads to D&A)
-
 ## ASSESSMENT OF DG FUTURE PROSPECTS (A)
-
 SUGGESTED FY2007 FORECAST (EXCL. NET SALES ADJUSTMENT)
 
 !500
 
 ## ASSESSMENT OF KKR OFFER VALUATION
-
 - KKR offer: Transaction value / actual FY2006 EBITDA = 16.3x
 - Prior M&A transactions:
 	- Average = 8.9x
@@ -143,28 +140,22 @@ SUGGESTED FY2007 FORECAST (EXCL. NET SALES ADJUSTMENT)
 - Case analysis
 	- DG's transaction value / adj. EBITDA = around 12x (11.6 - 12.1)
 	- Using transaction value / forward EBITDA = around 9.5x
-
 ## SHORT-TERM AFTERMATH
-
 - On June 22, 2007, Dollar General's shareholders approved the offer to take the company private
 	- Dollar General said that of the shares that voted—249.8 million shares, more than 79% of the total outstanding—99% were in favor of the merger
 - Chairman and CEO David A. Perdue said that he would retire upon completion of the deal
-	- Mr. Perdue realized ~$30 million from the transaction
+	- Mr. Perdue realized ~$30 million from the transaction$
 - End of July, 2007, the banks that financed the deal sold the debt to TPG for as little as 87 cents on the dollar
-
 !500
 
 ## LONGER-TERM AFTERMATH
-
-- Dollar General IPO-ed in November 2009 and raised $823 million, making it the largest retail IPO in more than a decade
+- Dollar General IPO-ed in November 2009 and raised $823 million, making it the largest retail IPO in more than a decade$
 - With the advent of the pandemic, Dollar General benefited from a combination of economic uncertainty and consumer desire to stock up on household goods
 - As of January 8, 2021, its stock had risen 40% compared to one year prior
-- It rose to over $250 in 2022 (but has declined substantially in 2023)
-
+- It rose to over $250 in 2022 (but has declined substantially in 2023)$
 !500
 
 ## KEY TAKE-AWAYS
-
 - Measurement of corporate performance is challenging
 	- There are often one-time or non-recurring events
 	- Their relevance differs when we are judging performance ex post versus when we are predicting future performance
@@ -172,9 +163,7 @@ SUGGESTED FY2007 FORECAST (EXCL. NET SALES ADJUSTMENT)
 - Financial statement analysis helps to make predictions and comparisons
 - Valuation using multiples needs to make many adjustments for comparability
 	- Good multiples valuation is quite complex
-
 ## WHY GO PRIVATE?
-
 Broader Motivations Dollar General Motivations
 
 - DG was in the middle of turnaround strategy and faced a lot of pressure from investors
@@ -187,7 +176,6 @@ Broader Motivations Dollar General Motivations
 	- Financial engineering and taxes
 	- Cost of being a public firm
 	- Because mgmt believes the public market is undervaluing the firm
-
 Week 2 Dollar General Case - Assignment Review
 
 DOLLAR GENERAL CASE STUDY

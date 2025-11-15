@@ -1,27 +1,40 @@
 ---
 title: Mastering Data Analytics with Matplotlib in Python
-source: 
-  https://blog.enterprisedna.co/mastering-data-analytics-with-matplotlib-in-python/
-description:
+source: https://blog.enterprisedna.co/mastering-data-analytics-with-matplotlib-in-python/
+description: null
 tags:
-  - data_analysis
-  - data_visualization
-  - matplotlib
-  - plotting
-  - python
+- alpha
+- apt
+- bubble
+- data_analysis
+- data_visualization
+- defi
+- gold
+- matplotlib
+- multiple
+- option
+- plotting
+- python
+- stock
 aliases:
-  - Data Visualization with Python
-  - Matplotlib Guide
-  - Matplotlib Tutorial
+- Data Visualization with Python
+- Matplotlib Guide
+- Matplotlib Tutorial
 key_concepts:
-  - Data visualization
-  - Interactive plots
-  - Matplotlib library
-  - Plot customization
-  - Python plotting
+- Data visualization
+- Derivative securities
+- Financial risk management
+- Interactive plots
+- Matplotlib library
+- Plot customization
+- Portfolio optimization
+- Python plotting
+- Quantitative financial analysis
+- Risk assessment and mitigation
 ---
 
 # Mastering Data Analytics with Matplotlib in Python
+
 - Introduction to Data Visualization
 	- Overview
 	- Setup Instructions
@@ -156,7 +169,6 @@ key_concepts:
 			- 4\. Create Dashboard Layout
 			- 5\. Add Interactivity (Optional)")
 			- Conclusion
-
 Introduction to Data Visualization
 ----------------------------------
 
@@ -169,7 +181,6 @@ Setup Instructions
 ------------------
 
 ### Install Matplotlib
-
 If you haven’t already installed Matplotlib,  you can do so using the following pip command:
 ```python
 pip install matplotlib
@@ -177,7 +188,6 @@ pip install matplotlib
 ```
 
 ### Import Necessary Libraries
-
 In your Python script,  you need to import Matplotlib along with other necessary libraries,  usually NumPy for handling data arrays.
 ```python
 import matplotlib.pyplot as plt
@@ -189,64 +199,73 @@ Basic Plotting
 --------------
 
 ### Line Plot
-
 To create a basic line plot,  you can use the `plot` function. Here’s an example that creates a simple line graph.
 ```python
 # Generate some data
+
 x = np.linspace(0,     10,     100)
 y = np.sin(x)
 
 # Plot the data
+
 plt.plot(x,     y)
 
 # Add a title and labels
+
 plt.title('Simple Line Plot')
 plt.xlabel('X-axis')
 plt.ylabel('Y-axis')
 
 # Show the plot
+
 plt.show()
 
 ```
 
 ### Scatter Plot
-
 To create a scatter plot,  you can use the `scatter` function.
 ```python
 # Generate some data
+
 x = np.random.rand(100)
 y = np.random.rand(100)
 
 # Create scatter plot
+
 plt.scatter(x,     y)
 
 # Add a title and labels
+
 plt.title('Simple Scatter Plot')
 plt.xlabel('X-axis')
 plt.ylabel('Y-axis')
 
 # Show the plot
+
 plt.show()
 
 ```
 
 ### Bar Chart
-
 To create a bar chart,  use the `bar` function.
 ```python
 # Generate some data
+
 categories = ['A',     'B',     'C',     'D']
 values = [10,     23,     17,     30]
 
 # Create bar chart
+
 plt.bar(categories,     values)
 
 # Add a title and labels
+
 plt.title('Simple Bar Chart')
 plt.xlabel('Categories')
 plt.ylabel('Values')
 
 # Show the plot
+
 plt.show()
 
 ```
@@ -255,51 +274,59 @@ Customizing Plots
 -----------------
 
 ### Adding Legends
-
 Adding a legend helps to identify different data series in your plot.
 ```python
 # Generate some data
+
 x = np.linspace(0,     10,     100)
 y1 = np.sin(x)
 y2 = np.cos(x)
 
 # Plot the data
+
 plt.plot(x,     y1,     label='Sin')
 plt.plot(x,     y2,     label='Cos')
 
 # Add a title and labels
+
 plt.title('Line Plot with Legends')
 plt.xlabel('X-axis')
 plt.ylabel('Y-axis')
 
 # Add legend
+
 plt.legend()
 
 # Show the plot
+
 plt.show()
 
 ```
 
 ### Changing Plot Styles
-
 Matplotlib provides various styles to change the appearance of your plots.
 ```python
 # Apply a style
+
 plt.style.use('ggplot')
 
 # Generate some data
+
 x = np.linspace(0,     10,     100)
 y = np.sin(x)
 
 # Plot the data
+
 plt.plot(x,     y)
 
 # Add a title and labels
+
 plt.title('Simple Line Plot with ggplot Style')
 plt.xlabel('X-axis')
 plt.ylabel('Y-axis')
 
 # Show the plot
+
 plt.show()
 
 ```
@@ -318,7 +345,6 @@ Part 2: Setting Up Your Python Environment
 ------------------------------------------
 
 ### Creating a Virtual Environment
-
 Before starting with Matplotlib,  it’s recommended to create a virtual environment to encapsulate your project dependencies.
 
 **Install `virtualenv` (if not already installed):**
@@ -348,7 +374,6 @@ source myenv/bin/activate
 ```
 
 ### Installing Matplotlib and Dependencies
-
 With the virtual environment activated,  install Matplotlib and its dependencies.
 
 **Install Matplotlib:**
@@ -365,7 +390,6 @@ pip install numpy pandas
 ```
 
 ### Verifying Installation
-
 To ensure everything is set up correctly,  you can write a simple script that uses Matplotlib to create a basic plot.
 
 **Create a Python script `test_matplotlib.py`:**
@@ -374,19 +398,23 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Sample data
+
 x = np.linspace(0,     10,     100)
 y = np.sin(x)
 
 # Create plot
+
 plt.plot(x,     y)
 plt.title("Basic Plot")
 plt.xlabel("X-axis")
 plt.ylabel("Y-axis")
 
 # Save the plot as an image file
+
 plt.savefig("basic_plot.png")
 
 # Show plot
+
 plt.show()
 
 ```
@@ -400,7 +428,6 @@ python test_matplotlib.py
 If you see a plot with a sine wave,  then Matplotlib has been successfully installed and you are ready to start with data visualizations.
 
 ### Setting Up Your Project Structure
-
 It’s a good practice to maintain an organized project structure for better management and scalability.
 
 Recommended Project Structure:
@@ -426,7 +453,6 @@ my_matplotlib_project/
 ```
 
 ### Example `requirements.txt`
-
 Include the dependencies in a `requirements.txt` file for easy install.
 
 !Data Mentor Advertisement
@@ -438,7 +464,6 @@ matplotlib
 ```
 
 ### Additional Setup for Jupyter Notebooks
-
 For interactive data analysis,  you might want to use Jupyter notebooks.
 
 **Install Jupyter Notebook:**
@@ -454,30 +479,24 @@ jupyter notebook
 ```
 
 ### Final Notes
-
 Once setup is complete,  you can proceed with creating detailed data visualization and analysis using Matplotlib,  leveraging the initial setup to structure and manage your project efficiently.
 
 ### Example `README.md`
-
 Provide a brief documentation in your project root.
 ```python
 # My Matplotlib Project
-
 This project contains an implementation of data visualization and analysis using the Matplotlib library in Python.
 
 ## Project Setup
-
 [^1]: Create and activate a virtual environment.
 [^2]: Install the required dependencies using `pip install -r requirements.txt`.
 [^3]: Run your scripts or Jupyter notebooks to visualize and analyze data.
 
 ## Structure
-
 - `data/`: Contains datasets.
 - `notebooks/`: Contains Jupyter notebooks.
 - `scripts/`: Contains Python scripts for various functionalities.
 - `tests/`: Contains test cases.
-
 ```
 
 By following these instructions,  you will have a fully set-up Python environment tailored for data visualization and analysis using Matplotlib.
@@ -491,7 +510,6 @@ Basic Plotting
 --------------
 
 ### Importing Required Libraries
-
 First,  ensure you have imported the necessary libraries:
 ```python
 import matplotlib.pyplot as plt
@@ -500,14 +518,15 @@ import numpy as np
 ```
 
 ### Creating a Simple Line Plot
-
 Create a basic line plot using Matplotlib:
 ```python
 # Generating data
+
 x = np.linspace(0,     10,     100)
 y = np.sin(x)
 
 # Creating the plot
+
 plt.figure()
 plt.plot(x,     y)
 plt.title('Simple Line Plot')
@@ -518,14 +537,15 @@ plt.show()
 ```
 
 ### Customizing the Plot
-
 You can customize plots to make them more informative and appealing:
 ```python
 # Generating data
+
 x = np.linspace(0,     10,     100)
 y = np.sin(x)
 
 # Creating the plot with customization
+
 plt.figure()
 plt.plot(x,     y,     label='sin(x)',     color='blue',     linewidth=2,     linestyle='--')
 plt.title('Customized Line Plot')
@@ -541,16 +561,17 @@ Plot Types
 ----------
 
 ### Scatter Plot
-
 Scatter plots are useful for showing relationships between two variables.
 ```python
 # Generating data
+
 x = np.random.rand(50)
 y = np.random.rand(50)
 colors = np.random.rand(50)
 area = (30 * np.random.rand(50))**2  # Bubble sizes
 
 # Creating the scatter plot
+
 plt.figure()
 plt.scatter(x,     y,     s=area,     c=colors,     alpha=0.5)
 plt.title('Scatter Plot')
@@ -561,14 +582,15 @@ plt.show()
 ```
 
 ### Bar Plot
-
 Bar plots are used to represent categorical data.
 ```python
 # Data
+
 categories = ['A',     'B',     'C',     'D']
 values = [3,     7,     2,     4]
 
 # Creating the bar plot
+
 plt.figure()
 plt.bar(categories,     values,     color='green')
 plt.title('Bar Plot')
@@ -579,13 +601,14 @@ plt.show()
 ```
 
 ### Histogram
-
 Histograms are used to show the distribution of a dataset.
 ```python
 # Generating data
+
 data = np.random.randn(1000)
 
 # Creating the histogram
+
 plt.figure()
 plt.hist(data,     bins=30,     color='purple')
 plt.title('Histogram')
@@ -596,16 +619,17 @@ plt.show()
 ```
 
 ### Pie Chart
-
 Pie charts are useful for showing proportions of a whole.
 ```python
 # Data
+
 labels = ['A',     'B',     'C',     'D']
 sizes = [15,     30,     45,     10]
 colors = ['gold',     'yellowgreen',     'lightcoral',     'lightskyblue']
 explode = (0.1,     0,     0,     0)  # explode 1st slice
 
 # Creating the pie chart
+
 plt.figure()
 plt.pie(sizes,     explode=explode,     labels=labels,     colors=colors,     autopct='%1.1f%%',     shadow=True,     startangle=140)
 plt.title('Pie Chart')
@@ -617,15 +641,16 @@ Advanced Plotting Techniques
 ----------------------------
 
 ### Subplots
-
 Subplots allow you to create multiple plots in a single figure.
 ```python
 # Generating data
+
 x = np.linspace(0,     10,     100)
 y1 = np.sin(x)
 y2 = np.cos(x)
 
 # Creating subplots
+
 fig,     axs = plt.subplots(2)
 fig.suptitle('Subplots Example')
 
@@ -640,15 +665,16 @@ plt.show()
 ```
 
 ### Multiple Plots in One Axis
-
 You can plot multiple datasets within one axis for comparison:
 ```python
 # Generating data
+
 x = np.linspace(0,     10,     100)
 y1 = np.sin(x)
 y2 = np.cos(x)
 
 # Creating multiple plots in one axis
+
 plt.figure()
 plt.plot(x,     y1,     label='sin(x)')
 plt.plot(x,     y2,     label='cos(x)',     color='orange')
@@ -661,14 +687,15 @@ plt.show()
 ```
 
 ### Saving Plots
-
 You can save plots to a file instead of showing them on the screen:
 ```python
 # Generating data
+
 x = np.linspace(0,     10,     100)
 y = np.sin(x)
 
 # Creating and saving the plot
+
 plt.figure()
 plt.plot(x,     y)
 plt.title('Saved Plot')
@@ -684,11 +711,9 @@ Conclusion
 This guide has provided you with the basics of Matplotlib,  illustrating how to create different types of plots,  customize them,  and save them to file. This should get you well on your way to utilizing Matplotlib for your data visualization needs.
 
 ### Section 4: Basic Plotting with Matplotlib
-
 This section covers basic plotting techniques using the Matplotlib library in Python. We will cover three fundamental types of plots: line plots,  bar plots,  and scatter plots.
 
 #### 1\. Line Plot
-
 A line plot is useful for visualizing data points connected by straight lines. Here,  we will plot a simple line graph displaying a linear relationship between two variables.
 
 !EDNA AI Advertisement
@@ -696,73 +721,82 @@ A line plot is useful for visualizing data points connected by straight lines. H
 import matplotlib.pyplot as plt
 
 # Data
+
 x = [0,     1,     2,     3,     4,     5]
 y = [0,     1,     4,     9,     16,     25]
 
 # Create a line plot
+
 plt.plot(x,     y,     label='y = x[^2]',     color='blue',     marker='o')
 
 # Add titles and labels
+
 plt.title("Line Plot Example")
 plt.xlabel("X Axis")
 plt.ylabel("Y Axis")
 plt.legend()
 
 # Display the plot
+
 plt.show()
 
 ```
 
 #### 2\. Bar Plot
-
 A bar plot is ideal for showing quantities among discrete categories. Here,  we will create a bar plot showing the population of different cities.
 ```python
 import matplotlib.pyplot as plt
 
 # Data
+
 cities = ['New York',     'Los Angeles',     'Chicago',     'Houston',     'Phoenix']
 population = [8419000,     3980400,     2716000,     2328000,     1690000]
 
 # Create a bar plot
+
 plt.bar(cities,     population,     color='green')
 
 # Add titles and labels
+
 plt.title("Population of Cities")
 plt.xlabel("City")
 plt.ylabel("Population (in millions)")
 
 # Display the plot
+
 plt.show()
 
 ```
 
 #### 3\. Scatter Plot
-
 A scatter plot is excellent for visualizing the relationship between two continuous variables. Here,  we will plot random data points to see their spread and relationship.
 ```python
 import matplotlib.pyplot as plt
 import numpy as np
 
 # Data
+
 np.random.seed(0)  # For reproducibility
 x = np.random.rand(50)
 y = np.random.rand(50)
 
 # Create a scatter plot
+
 plt.scatter(x,     y,     color='red')
 
 # Add titles and labels
+
 plt.title("Scatter Plot Example")
 plt.xlabel("X Values")
 plt.ylabel("Y Values")
 
 # Display the plot
+
 plt.show()
 
 ```
 
 ### Summary
-
 In this section,  we’ve covered:
 
 Creating a Line Plot
@@ -787,41 +821,52 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Generate sample data
+
 x = np.linspace(0,     10,     100)
 y = np.sin(x)
 
 # Create a plot
+
 fig,     ax = plt.subplots()
 
 # Plot data
+
 ax.plot(x,     y,     label='Sine Wave',     color='blue',     linestyle='--',     linewidth=2,     marker='o',     markersize=5)
 
 # Title and labels
+
 ax.set_title('Customized Sine Wave Plot')
 ax.set_xlabel('X axis')
 ax.set_ylabel('Y axis')
 
 # Adding a grid
+
 ax.grid(True,     which='both',     linestyle='--',     linewidth=0.5)
 
 # Adding a legend
+
 ax.legend()
 
 # Customizing ticks
+
 ax.set_xticks(np.arange(0,     11,     1))
 ax.set_yticks(np.arange(-1,     1.5,     0.5))
 
 # Customize tick labels
+
 ax.xaxis.set_tick_params(rotation=45,     labelcolor='green',     labelsize=12)
 ax.yaxis.set_tick_params(labelcolor='red',     labelsize=12)
 
 # Adding text annotation
+
 ax.text(5,     0,     'Center Point',     horizontalalignment='center',     verticalalignment='center',     fontsize=12,     color='purple')
 
 # Adjust plot whitespace
+
 fig.tight_layout()
 
 # Show plot
+
 plt.show()
 
 ```
@@ -830,7 +875,6 @@ Explanation
 -----------
 
 ### Basic Plot
-
 **Import Libraries**:
 ```python
 import matplotlib.pyplot as plt
@@ -866,7 +910,6 @@ ax.plot(x,     y,     label='Sine Wave',     color='blue',     linestyle='--',  
 Plot `x` and `y` with custom line and marker styles.
 
 ### Customizing Plot Elements
-
 **Titles and Labels**:
 ```python
 ax.set_title('Customized Sine Wave Plot')
@@ -941,15 +984,18 @@ Working with Different Plot Types
 ---------------------------------
 
 ### 1\. Line Plot
+
 ```python
 import matplotlib.pyplot as plt
 import numpy as np
 
 # Data
+
 x = np.linspace(0,     10,     100)
 y = np.sin(x)
 
 # Plot
+
 plt.figure()
 plt.plot(x,     y)
 plt.title('Line Plot')
@@ -960,12 +1006,15 @@ plt.show()
 ```
 
 ### 2\. Scatter Plot
+
 ```python
 # Data
+
 x = np.random.rand(50)
 y = np.random.rand(50)
 
 # Plot
+
 plt.figure()
 plt.scatter(x,     y)
 plt.title('Scatter Plot')
@@ -976,12 +1025,15 @@ plt.show()
 ```
 
 ### 3\. Bar Plot
+
 ```python
 # Data
+
 categories = ['A',     'B',     'C',     'D']
 values = [10,     20,     15,     7]
 
 # Plot
+
 plt.figure()
 plt.bar(categories,     values)
 plt.title('Bar Plot')
@@ -992,11 +1044,14 @@ plt.show()
 ```
 
 ### 4\. Histogram
+
 ```python
 # Data
+
 data = np.random.randn(1000)
 
 # Plot
+
 plt.figure()
 plt.hist(data,     bins=30)
 plt.title('Histogram')
@@ -1007,12 +1062,15 @@ plt.show()
 ```
 
 ### 5\. Pie Chart
+
 ```python
 # Data
+
 sizes = [15,     30,     45,     10]
 labels = ['A',     'B',     'C',     'D']
 
 # Plot
+
 plt.figure()
 plt.pie(sizes,     labels=labels,     autopct='%1.1f%%',     startangle=140)
 plt.title('Pie Chart')
@@ -1021,11 +1079,14 @@ plt.show()
 ```
 
 ### 6\. Box Plot
+
 ```python
 # Data
+
 data = [np.random.normal(size=100) for _ in range(4)]
 
 # Plot
+
 plt.figure()
 plt.boxplot(data,     patch_artist=True)
 plt.title('Box Plot')
@@ -1036,27 +1097,33 @@ plt.show()
 ```
 
 ### 7\. Heatmap
+
 ```python
 import seaborn as sns
 
 # Data
+
 data = np.random.rand(10,     12)
 ax = sns.heatmap(data)
 
 # Plot
+
 plt.title('Heatmap')
 plt.show()
 
 ```
 
 ### 8\. Subplots
+
 ```python
 # Data
+
 x = np.linspace(0,     10,     100)
 y1 = np.sin(x)
 y2 = np.cos(x)
 
 # Plot
+
 fig,     axs = plt.subplots(2)
 axs[0].plot(x,     y1)
 axs[0].set_title('Sine Wave')
@@ -1070,10 +1137,10 @@ plt.show()
 These examples illustrate various plotting functionalities offered by Matplotlib,  helping you visualize and analyze your data effectively.
 
 ### Handling Data for Visualization
-
 In this section,  we will focus on preparing and handling data effectively for visualization using Matplotlib in Python. This involves data loading,  cleaning,  manipulation,  and preparation prior to plotting.
 
 #### 1\. Import Necessary Libraries
+
 ```python
 import pandas as pd
 import numpy as np
@@ -1082,16 +1149,15 @@ import matplotlib.pyplot as plt
 ```
 
 #### 2\. Load Data
-
 Assuming you have a CSV file named `data.csv`,  you can load it using Pandas:
 ```python
 # Load the CSV data into a DataFrame
+
 df = pd.read_csv('data.csv')
 
 ```
 
 #### 3\. Inspect Data
-
 Check the first few rows of the DataFrame to understand its structure:
 ```python
 print(df.head())
@@ -1099,38 +1165,40 @@ print(df.head())
 ```
 
 #### 4\. Data Cleaning
-
 Clean the data by handling missing values,  removing duplicates,  and converting data types as required.
 ```python
 # Drop rows with any missing values
+
 df = df.dropna()
 
 # Convert columns to appropriate data types if needed
+
 df['date'] = pd.to_datetime(df['date'])
 df['value'] = df['value'].astype(float)
 
 # Remove duplicates
+
 df = df.drop_duplicates()
 
 ```
 
 #### 5\. Data Manipulation
-
 Manipulate the data to extract relevant features or aggregate the data as needed for visualization:
 ```python
 # Example: Resample data to get monthly averages for visualization
+
 df.set_index('date',     inplace=True)
 monthly_avg = df.resample('M').mean()
 
 ```
 
 #### 6\. Create Basic Plot
-
 Now,  we’ll create a basic plot using Matplotlib with the cleaned and manipulated data.
 ```python
 # Plotting the monthly average values
+
 plt.figure(figsize=(10,     6))
- 
+
 monthly_avg['value'].plot()
 plt.title('Monthly Average Values')
 plt.xlabel('Date')
@@ -1138,15 +1206,16 @@ plt.ylabel('Average Value')
 plt.grid(True)
 
 # Show the plot
+
 plt.show()
 
 ```
 
 #### 7\. Advanced Plot Customizations
-
 You can further customize the plot for better aesthetics and readability.
 ```python
 # Customizing the plot
+
 plt.figure(figsize=(12,     8))
 
 plt.plot(monthly_avg.index,     monthly_avg['value'],     marker='o',     linestyle='-',     color='b',     label='Monthly Avg')
@@ -1157,13 +1226,16 @@ plt.legend()
 plt.grid(True)
 
 # Adding annotations
+
 for i,     value in enumerate(monthly_avg['value']):
     plt.annotate(f'{value:0.\1f}',     (monthly_avg.index[i],     value),     textcoords="offset points",     xytext=(0,     10),     ha='center')
 
 # Customize the x-axis ticks
+
 plt.xticks(rotation=45)
 
 # Show the plot
+
 plt.show()
 
 ```
@@ -1184,13 +1256,16 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Generate random data
+
 x = np.linspace(0,     10,     100)
 y = np.sin(x)
 
 # Create subplots
+
 fig,     axs = plt.subplots(2,     2)  # 2x2 grid
 
 # Plot on different subplots
+
 axs[0,     0].plot(x,     y)
 axs[0,     0].set_title('Plot 1')
 
@@ -1218,14 +1293,17 @@ import numpy as np
 import matplotlib.colors as mcolors
 
 # Generate data
+
 x = np.random.rand(100)
 y = np.random.rand(100)
 colors = np.random.rand(100)
 
 # Custom colormap
+
 cmap = mcolors.ListedColormap(['#f00',     '#0f0',     '#00f',     '#ff0'])
 
 # Scatter plot with custom colormap
+
 plt.scatter(x,     y,     c=colors,     cmap=cmap)
 plt.colorbar()  # Show color scale
 plt.show()
@@ -1242,12 +1320,14 @@ from mpl_toolkits.mplot3d import Axes3D
 import numpy as np
 
 # Generate data
+
 x = np.linspace(-5,     5,     100)
 y = np.linspace(-5,     5,     100)
 x,     y = np.meshgrid(x,     y)
 z = np.sin(np.sqrt(x**2 + y**2))
 
 # Create 3D plot
+
 fig = plt.figure()
 ax = fig.add_subplot(111,     projection='3d')
 
@@ -1267,6 +1347,7 @@ import matplotlib.pyplot as plt
 from matplotlib.widgets import Slider
 
 # Initial data
+
 x = np.linspace(0,     10,     100)
 y = np.sin(x)
 
@@ -1276,13 +1357,16 @@ plt.subplots_adjust(bottom=0.25)
 l,     = plt.plot(x,     y)
 
 # Slider axis
+
 axcolor = 'lightgoldenrodyellow'
 axfreq = plt.axes([0.25,     0.1,     0.65,     0.03],     facecolor=axcolor)
 
 # Slider
+
 freq_slider = Slider(axfreq,     'Freq',     0.1,     10.0,     valinit=1)
 
 # Update function
+
 def update(val):
     freq = freq_slider.val
     l.set_ydata(np.sin(freq * x))
@@ -1303,13 +1387,15 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Generate data
+
 x = np.linspace(0,     10,     100)
 y = np.sin(x)
 
 plt.plot(x,     y)
 
 # Annotation
-plt.annotate('local max',     xy=(np.pi/2,     1),     xytext=(np.pi/2 + 1,     1.5),    
+
+plt.annotate('local max',     xy=(np.pi/2,     1),     xytext=(np.pi/2 + 1,     1.5),
              arrowprops=dict(facecolor='black',     shrink=0.05))
 
 plt.show()
@@ -1327,45 +1413,52 @@ Creating Subplots
 Subplots can be created using `plt.subplots()`,  which simplifies the process of setting up a grid of plots.
 
 ### Basic Subplot Creation
+
 ```python
 import matplotlib.pyplot as plt
 import numpy as np
 
 # Generating sample data
+
 x = np.linspace(0,     10,     100)
 y1 = np.sin(x)
 y2 = np.cos(x)
 
 # Creating a 1x2 subplot layout
+
 fig,     (ax1,     ax2) = plt.subplots(1,     2,     figsize=(10,     4))
 
 # Plotting in the first subplot
+
 ax1.plot(x,     y1,     'b-')
 ax1.set_title('Sine Wave')
 ax1.set_xlabel('x')
 ax1.set_ylabel('sin(x)')
 
 # Plotting in the second subplot
+
 ax2.plot(x,     y2,     'r-')
 ax2.set_title('Cosine Wave')
 ax2.set_xlabel('x')
 ax2.set_ylabel('cos(x)')
 
 # Adjust layout to prevent overlap
+
 fig.tight_layout()
 
 # Show the plot
+
 plt.show()
 
 ```
 
 ### Complex Layouts Using `plt.subplot2grid`
-
 For creating more complex layouts,  `plt.subplot2grid` can be used for fine control over positioning.
 ```python
 fig = plt.figure(figsize=(8,     6))
 
 # Creating subplots with a custom grid layout
+
 ax1 = plt.subplot2grid((3,     3),     (0,     0),     colspan=3)
 ax2 = plt.subplot2grid((3,     3),     (1,     0),     colspan=2)
 ax3 = plt.subplot2grid((3,     3),     (1,     2),     rowspan=2)
@@ -1373,24 +1466,29 @@ ax4 = plt.subplot2grid((3,     3),     (2,     0))
 ax5 = plt.subplot2grid((3,     3),     (2,     1))
 
 # Axes for ax1
+
 ax1.plot(x,     y1,     'g-')
 ax1.set_title('Ax1: Sine Wave')
 
 # Axes for ax2
+
 ax2.plot(x,     y2,     'm-')
 ax2.set_title('Ax2: Cosine Wave')
 
 # Axes for ax3
+
 ax3.plot(x,     y1,     'b-',     label='sin(x)')
 ax3.plot(x,     y2,     'r-',     label='cos(x)')
 ax3.set_title('Ax3: Combined')
 ax3.legend()
 
 # Axes for ax4
+
 ax4.bar(np.arange(10),     np.random.random(10))
 ax4.set_title('Ax4: Bar Plot')
 
 # Axes for ax5
+
 ax5.scatter(np.random.random(10),     np.random.random(10))
 ax5.set_title('Ax5: Scatter')
 
@@ -1406,13 +1504,16 @@ Sharing Axes
 To make subplots share the same x-axis or y-axis,  use the `sharex` or `sharey` parameters.
 ```python
 # Creating shared x-axis subplots
+
 fig,     (ax1,     ax2) = plt.subplots(2,     1,     sharex=True,     figsize=(6,     8))
 
 # Plotting on the first subplot
+
 ax1.plot(x,     y1,     'b-')
 ax1.set_title('Sine Wave')
 
 # Plotting on the second subplot
+
 ax2.plot(x,     y2,     'r-')
 ax2.set_title('Cosine Wave')
 ax2.set_xlabel('x')
@@ -1439,29 +1540,32 @@ Creating a Custom Theme
 First,  let’s define a custom theme. In Matplotlib,  themes can be customized using the `mpl.rcParams` dictionary or by creating a custom style sheet. We will use both approaches in this example.
 
 ### Using `mpl.rcParams`
+
 ```python
 import matplotlib.pyplot as plt
 import numpy as np
 
 # Set custom theme parameters
+
 plt.rcParams.update({
-    'axes.titlesize': 16,    
-    'axes.labelsize': 14,    
-    'xtick.labelsize': 12,    
-    'ytick.labelsize': 12,    
-    'legend.fontsize': 12,    
-    'figure.figsize': (10,     6),    
-    'axes.grid': True,    
-    'grid.color': 'grey',    
-    'grid.linestyle': '--',    
-    'grid.linewidth': 0.5,    
-    'axes.facecolor': 'whitesmoke',    
-    'axes.edgecolor': 'black',    
-    'axes.spines.top': False,    
-    'axes.spines.right': False,    
+    'axes.titlesize': 16,
+    'axes.labelsize': 14,
+    'xtick.labelsize': 12,
+    'ytick.labelsize': 12,
+    'legend.fontsize': 12,
+    'figure.figsize': (10,     6),
+    'axes.grid': True,
+    'grid.color': 'grey',
+    'grid.linestyle': '--',
+    'grid.linewidth': 0.5,
+    'axes.facecolor': 'whitesmoke',
+    'axes.edgecolor': 'black',
+    'axes.spines.top': False,
+    'axes.spines.right': False,
 })
 
 # Sample plot with custom theme
+
 x = np.linspace(0,     10,     100)
 y = np.sin(x)
 
@@ -1475,7 +1579,6 @@ plt.show()
 ```
 
 ### Creating a Custom Style Sheet
-
 Alternatively,  you can create a custom style sheet. This is useful for reusing your custom theme across multiple projects.
 
 Create a file named `my_custom_style.mplstyle` with the following content:
@@ -1503,9 +1606,11 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Load custom style
+
 plt.style.use('my_custom_style.mplstyle')
 
 # Sample plot with custom style
+
 x = np.linspace(0,     10,     100)
 y = np.cos(x)
 
@@ -1527,9 +1632,11 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Combine styles
+
 plt.style.use(['seaborn-darkgrid',     'my_custom_style.mplstyle'])
 
 # Sample plot combining styles
+
 x = np.linspace(0,     10,     100)
 y1 = np.sin(x)
 y2 = np.cos(x)
@@ -1557,32 +1664,39 @@ Annotating Plots with Text and Arrows
 To add annotations such as text and arrows to your plots,  you can use the `annotate` function:
 
 ### Example
+
 ```python
 import matplotlib.pyplot as plt
 
 # Sample data
+
 x = [1,     2,     3,     4,     5]
 y = [1,     4,     9,     16,     25]
 
 # Create a plot
+
 plt.plot(x,     y,     marker='o')
 
 # Annotate a specific point
-plt.annotate('Square of 3',     xy=(3,     9),     xytext=(4,     15),    
+
+plt.annotate('Square of 3',     xy=(3,     9),     xytext=(4,     15),
              arrowprops=dict(facecolor='black',     shrink=0.05))
 
 # Add labels and title
+
 plt.xlabel('Value')
 plt.ylabel('Square')
 plt.title('Square Numbers')
 
 # Show the plot
+
 plt.show()
 
 ```
 
 ### Explanation
-`plt.annotate` adds an annotation at the specified `xy` point with an arrow pointing to,  and `xytext` specifies the location of the text.
+
+`plt.annotate` adds an annotation $\$a_t$$ the specified `xy` point with an arrow pointing to,  and `xytext` specifies the location of the text.
 
 The `arrowprops` dictionary lets you customize the arrow’s appearance.
 
@@ -1592,26 +1706,32 @@ Adding Titles and Axis Labels
 Use the functions `plt.title`,  `plt.xlabel`,  and `plt.ylabel` to add titles and labels to your axes.
 
 ### Example
+
 ```python
 import matplotlib.pyplot as plt
 
 # Sample data
+
 x = [1,     2,     3,     4,     5]
 y = [2,     3,     5,     7,     11]
 
 # Create a plot
+
 plt.plot(x,     y,     marker='x')
 
 # Set the title and axis labels
+
 plt.title('Prime Numbers')
 plt.xlabel('Index')
 plt.ylabel('Prime Number')
 
 # Annotate a specific prime number
-plt.annotate('Prime: 7',     xy=(4,     7),     xytext=(3,     10),    
+
+plt.annotate('Prime: 7',     xy=(4,     7),     xytext=(3,     10),
              arrowprops=dict(facecolor='blue',     shrink=0.05))
 
 # Show the plot
+
 plt.show()
 
 ```
@@ -1622,32 +1742,39 @@ Adding Legends
 Use the `plt.legend` function to add a legend to your plot. Ensure you label your plot elements using the `label` argument.
 
 ### Example
+
 ```python
 import matplotlib.pyplot as plt
 
 # Sample data
+
 x = [1,     2,     3,     4,     5]
 y1 = [1,     4,     9,     16,     25]
 y2 = [1,     8,     27,     64,     125]
 
 # Create a plot
+
 plt.plot(x,     y1,     marker='o',     label='Squares')
 plt.plot(x,     y2,     marker='s',     label='Cubes')
 
 # Add a legend
+
 plt.legend()
 
 # Add labels and title
+
 plt.xlabel('Value')
 plt.ylabel('Result')
 plt.title('Squares and Cubes')
 
 # Show the plot
+
 plt.show()
 
 ```
 
 ### Explanation
+
 `plt.legend()` adds a legend to the plot.
 
 Ensure that each plotted line or marker has a `label` that will appear in the legend.
@@ -1660,13 +1787,10 @@ Integrating Matplotlib with Pandas
 ----------------------------------
 
 ### Objective
-
 This section covers integrating Matplotlib with Pandas to create visualizations directly from DataFrames in a seamless manner. This leverages Pandas’ ease of data manipulation and Matplotlib’s robust plotting capabilities.
 
 ### Practical Implementation
-
 #### Step 1: Import Required Libraries
-
 Ensure you import the necessary libraries. Here,  `Pandas` for data manipulation and `Matplotlib` for plotting.
 ```python
 import pandas as pd
@@ -1675,27 +1799,26 @@ import matplotlib.pyplot as plt
 ```
 
 #### Step 2: Create or Load a DataFrame
-
 You can either create a DataFrame manually or load it from a data source like CSV,  Excel,  etc.
 ```python
 # Example DataFrame creation
+
 data = {
-    'A': [1,     2,     3,     4,     5],    
-    'B': [5,     4,     3,     2,     1],    
+    'A': [1,     2,     3,     4,     5],
+    'B': [5,     4,     3,     2,     1],
     'C': [2,     3,     4,     3,     2]
 }
 df = pd.DataFrame(data)
 
 # Load DataFrame from CSV - example
 # df = pd.read_csv('path_to_your_csv.csv')
-
 ```
 
 #### Step 3: Generate Plots from DataFrame
-
 You can use built-in Pandas plotting capabilities that are internally integrated with Matplotlib.
 
 ##### Line Plot
+
 ```python
 df.plot(kind='line',     x='A',     y='B',     title='Line Plot Example')
 plt.xlabel('A values')
@@ -1705,6 +1828,7 @@ plt.show()
 ```
 
 ##### Bar Plot
+
 ```python
 df.plot(kind='bar',     x='A',     y='C',     title='Bar Plot Example')
 plt.xlabel('A values')
@@ -1714,6 +1838,7 @@ plt.show()
 ```
 
 ##### Histogram
+
 ```python
 df['A'].plot(kind='hist',     title='Histogram Example',     bins=5)
 plt.xlabel('A values')
@@ -1722,7 +1847,6 @@ plt.show()
 ```
 
 #### Step 4: Customizing the Plots Using Matplotlib
-
 Even though you use Pandas for plotting,  you can still customize your charts with Matplotlib.
 ```python
 ax = df.plot(kind='line',     x='A',     y=['B',     'C'],     title='Custom Line Plot Example',     color=['red',     'blue'])
@@ -1735,7 +1859,6 @@ plt.show()
 ```
 
 #### Step 5: Save Plot to File
-
 Finally,  you can save these plots to a file using Matplotlib’s `savefig` method.
 ```python
 Ax = df.Plot (kind='line',     x='A',     y=['B',     'C'],     title='Saving Plot to File')
@@ -1746,7 +1869,6 @@ Plt.Show ()
 ```
 
 #### Conclusion
-
 This section walked you through the steps required to integrate Matplotlib with Pandas for creating standardized and custom visualizations directly from DataFrames. Now you can leverage both libraries’ functionalities to efficiently analyze and present your data.
 
 Part 13: Interactivity and Dynamic Plots with Matplotlib
@@ -1768,7 +1890,6 @@ Make sure to have all necessary packages installed. Ensure `matplotlib` and `mpl
 -------------------------------------------------------
 
 ### 13.2.1 Adding a Slider
-
 The `Slider` widget lets you add slider controls to your plot.
 ```python
 Import numpy as np
@@ -1776,6 +1897,7 @@ Import matplotlib. Pyplot as plt
 From matplotlib. Widgets import Slider
 
 # Sample data
+
 X = np.Linspace (0,     10,     100)
 Y = np.Sin (x)
 
@@ -1783,19 +1905,23 @@ Fig,     ax = plt.Subplots ()
 Plt. Subplots_adjust (bottom=0.25)
 
 # Plotting the data
+
 L,     = plt.Plot (x,     y)
 
 # Adding a slider for controlling the frequency of the sine wave
+
 Axfreq = plt.Axes ([0.25,     0.1,     0.65,     0.03])
 Freq_slider = Slider (ax=axfreq,     label='Frequency',     valmin=0.1,     valmax=30,     valinit=1)
 
 # Update function to modify the plot based on slider value
+
 Def update (val):
     Freq = freq_slider. Val
     l.set_ydata (np.Sin (freq * x))
     Fig. Canvas. Draw_idle ()
 
 # Connect the slider to the update function
+
 Freq_slider. On_changed (update)
 
 Plt.Show ()
@@ -1803,20 +1929,22 @@ Plt.Show ()
 ```
 
 ### 13.2.2 Using Buttons
-
 The `Button` widget allows interaction through buttons.
 ```python
 From matplotlib. Widgets import Button
 
 # Reset function to reset the plot
+
 Def reset (event):
     Freq_slider.Reset ()
 
 # Adding a reset button
+
 Resetax = plt.Axes ([0.8,     0.025,     0.1,     0.04])
 Button = Button (resetax,     'Reset',     color='lightgoldenrodyellow',     hovercolor='0.975')
 
 # Connect the reset button to reset function
+
 Button. On_clicked (reset)
 
 Plt.Show ()
@@ -1827,12 +1955,12 @@ Plt.Show ()
 --------------------------------------------------
 
 ### 13.3.1 Basic Animation
-
 Using `FuncAnimation` to create animations.
 ```python
 From matplotlib. Animation import FuncAnimation
 
 # Sample data
+
 X = np.Linspace (0,     2*np. Pi,     128)
 Y = np.Sin (x)
 
@@ -1840,16 +1968,19 @@ Fig,     ax = plt.Subplots ()
 Line,     = ax.Plot (x,     y)
 
 # Initialization function
+
 Def init ():
     Line. Set_ydata (np.Ma.Array (x,     mask=True))
-    Return line,    
+    Return line,
 
 # Animation function
+
 Def animate (i):
     Line. Set_ydata (np.Sin (x + i / 10.0))  # Update the data
-    Return line,    
+    Return line,
 
 # Create animation
+
 Ani = FuncAnimation (fig,     animate,     init_func=init,     frames=100,     interval=20,     blit=True)
 
 Plt.Show ()
@@ -1857,7 +1988,6 @@ Plt.Show ()
 ```
 
 ### 13.3.2 Saving Animations
-
 Save the generated animation to a file.
 ```python
 Ani.Save ('sine_wave_animation. Mp 4',     writer='ffmpeg',     fps=30)
@@ -1867,9 +1997,11 @@ Ani.Save ('sine_wave_animation. Mp 4',     writer='ffmpeg',     fps=30)
 Ensuring FFmpeg is installed on your system:
 ```python
 # On Ubuntu/Debian-based systems
+
 Sudo apt-get install ffmpeg
 
 # On macOS via Homebrew
+
 Brew install ffmpeg
 
 ```
@@ -1883,13 +2015,13 @@ Section 14: Saving and Exporting Plots
 --------------------------------------
 
 ### Saving Plots as PNG,  JPEG,  PDF,  etc
-
 You can save your plots in several different formats directly from Matplotlib. Below is an example that demonstrates how to save a plot in various formats such as PNG,  JPEG,  and PDF.
 ```python
 Import matplotlib. Pyplot as plt
 Import numpy as np
 
 # Creating a sample plot
+
 X = np.Linspace (0,     10,     100)
 Y = np.Sin (x)
 
@@ -1899,27 +2031,28 @@ Plt.Xlabel ('X-axis')
 Plt.Ylabel ('Y-axis')
 
 # Save the plot in different formats
+
 Plt.Savefig ('sample_plot. Png')  # Save as PNG
 Plt.Savefig ('sample_plot. Jpg')  # Save as JPEG
 Plt.Savefig ('sample_plot. Pdf')  # Save as PDF
 
 # Show the plot on screen
+
 Plt.Show ()
 
 ```
 
 ### Specifying DPI (Dots Per Inch)
-
 You might need higher or lower resolution images based on your requirements. You can specify the DPI during the save operation.
 ```python
 # Save with different DPI settings
+
 Plt.Savefig ('sample_plot_high_dpi. Png',     dpi=300)  # High-resolution image
 Plt.Savefig ('sample_plot_low_dpi. Png',     dpi=72)    # Low-resolution image
 
 ```
 
 ### Saving Plots with Transparent Background
-
 You can save your plot with a transparent background using the `transparent=True` argument.
 ```python
 Plt.Savefig ('sample_plot_transparent. Png',     transparent=True)
@@ -1927,7 +2060,6 @@ Plt.Savefig ('sample_plot_transparent. Png',     transparent=True)
 ```
 
 ### Customizing the Bounds and Margins
-
 If you want to save the plot with tight bounding boxes,  you can use the `bbox_inches` argument.
 ```python
 Plt.Savefig ('sample_plot_tight. Png',     bbox_inches='tight')
@@ -1935,7 +2067,6 @@ Plt.Savefig ('sample_plot_tight. Png',     bbox_inches='tight')
 ```
 
 ### Combining Multiple Options
-
 You can combine multiple options like DPI,  transparent background,  and tight bounding boxes.
 ```python
 Plt.Savefig ('sample_plot_combined. Png',     dpi=300,     transparent=True,     bbox_inches='tight')
@@ -1943,7 +2074,6 @@ Plt.Savefig ('sample_plot_combined. Png',     dpi=300,     transparent=True,    
 ```
 
 ### Closing the Plot
-
 After saving a plot,  it is good practice to close it to release memory,  especially when generating many plots in a loop.
 ```python
 Plt.Close ()
@@ -1951,13 +2081,13 @@ Plt.Close ()
 ```
 
 ### Full Example
-
 Here is a full example that combines all the elements discussed.
 ```python
 Import matplotlib. Pyplot as plt
 Import numpy as np
 
 # Create a sample plot
+
 X = np.Linspace (0,     10,     100)
 Y = np.Sin (x)
 
@@ -1967,9 +2097,11 @@ Plt.Xlabel ('X-axis')
 Plt.Ylabel ('Y-axis')
 
 # Save the plot in high resolution with tight bounding box and transparent background
+
 Plt.Savefig ('sample_plot_combined. Png',     dpi=300,     transparent=True,     bbox_inches='tight')
 
 # Close the plot
+
 Plt.Close ()
 
 ```
@@ -2000,11 +2132,13 @@ From datetime import datetime
 Import numpy as np
 
 # Load data
+
 Df = pd. Read_csv ('stock_prices. Csv') # Assume the CSV file has 'Date' and 'Close' columns
 Df['Date'] = pd. To_datetime (df['Date'])
 Df. Set_index ('Date',     inplace=True)
 
 # Plotting closing prices
+
 Plt.Figure (figsize=(10,     5))
 Plt.Plot (df. Index,     df['Close'],     label='Closing Price',     color='b')
 Plt.Title ('Stock Prices Over Time')
@@ -2013,6 +2147,7 @@ Plt.Ylabel ('Closing Price')
 Plt.Legend ()
 
 # Adding trend line
+
 X = np.Arange (len (df. Index))
 Z = np.Polyfit (x,     df['Close'],     1)
 P = np. Poly 1 d (z)
@@ -2040,11 +2175,13 @@ Import pandas as pd
 Import matplotlib. Pyplot as plt
 
 # Load data
+
 Earthquakes = pd. Read_csv ('earthquakes. Csv') # Assume 'Latitude',     'Longitude',     and 'Magnitude' columns
 
 # Plotting earthquakes on a map
+
 Plt.Figure (figsize=(10,     6))
-Scatter = plt.Scatter (earthquakes['Longitude'],     earthquakes['Latitude'],     
+Scatter = plt.Scatter (earthquakes['Longitude'],     earthquakes['Latitude'],
                       C=earthquakes['Magnitude'],     cmap='viridis',     alpha=0.7)
 Plt.Colorbar (scatter,     label='Magnitude')
 Plt.Title ('Earthquake Occurrences')
@@ -2072,15 +2209,18 @@ Import pandas as pd
 Import matplotlib. Pyplot as plt
 
 # Load data
+
 Weather = pd. Read_csv ('weather_data. Csv') # Assume 'Date' and 'Temperature' columns
 Weather['Date'] = pd. To_datetime (weather['Date'])
 Weather. Set_index ('Date',     inplace=True)
 
 # Plot raw temperature data
+
 Plt.Figure (figsize=(12,     6))
 Plt.Plot (weather. Index,     weather['Temperature'],     label='Temperature',     color='c',     alpha=0.5)
 
 # Calculate and plot moving average
+
 Weather['Moving_Avg'] = weather['Temperature']. Rolling (window=30). Mean ()
 Plt.Plot (weather. Index,     weather['Moving_Avg'],     label='30-day Moving Average',     color='red')
 
@@ -2101,12 +2241,11 @@ Part 16: A comprehensive guide to utilizing the Matplotlib library for data visu
 ----------------------------------------------------------------------------------------------------------------
 
 ### Objective
-
 In this part,  we will build a complete data visualization dashboard using Matplotlib and various Python libraries. We’ll cover integrating data,  creating multiple visualizations,  arranging them in a coherent dashboard layout,  and adding interactive elements.
 
 ### Implementation
-
 #### 1\. Import Necessary Libraries
+
 ```python
 Import matplotlib. Pyplot as plt
 Import pandas as pd
@@ -2116,16 +2255,15 @@ Import seaborn as sns
 ```
 
 #### 2\. Load and Prepare Data
-
 Let’s use dummy data to illustrate. You can replace this with your dataset.
 ```python
 # Example: Load a sample dataset
+
 Data = sns. Load_dataset ('iris')
 
 ```
 
 #### 3\. Create Individual Plots
-
 We’ll create a variety of plots to be part of the dashboard.
 
 [^1]: **Scatter Plot**
@@ -2162,30 +2300,31 @@ Def correlation_heatmap (ax):
 ```
 
 #### 4\. Create Dashboard Layout
-
 We’ll use `plt. Subplots` to arrange the plots in a grid.
 ```python
 Fig,     axs = plt.Subplots (2,     2,     figsize=(14,     10))
 
 # Create each subplot
+
 Scatter_plot (axs[0,     0])
 Histogram (axs[0,     1])
 Box_plot (axs[1,     0])
 Correlation_heatmap (axs[1,     1])
 
 # Adjust layout for better spacing
+
 Plt. Tight_layout ()
 Plt.Show ()
 
 ```
 
 #### 5\. Add Interactivity (Optional)
-
 Adding interactivity can be done using libraries like `mplcursors` for simple hover effects.
 ```python
 Import mplcursors
 
 # Example: Adding interactivity to the scatter plot
+
 Scatter_ax = axs[0,     0]
 Scatter = scatter_ax.Scatter (data['sepal_length'],     data['sepal_width'],     c=data['species']. Astype ('category'). Cat. Codes)
 Mplcursors.Cursor (scatter_ax). Connect (
@@ -2197,7 +2336,6 @@ Plt.Show ()
 ```
 
 #### Conclusion
-
 In this segment,  we integrated multiple plots into a cohesive dashboard using Matplotlib. You can expand this dashboard by adding more complex plots and interactivity based on your specific project needs.
 
 Feel free to adjust titles,  fonts,  scales,  and themes as per your customization requirements. The interactive component is optional but can greatly enhance the user experience.

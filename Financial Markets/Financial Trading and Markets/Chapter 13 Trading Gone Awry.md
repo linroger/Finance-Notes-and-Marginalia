@@ -1,20 +1,172 @@
 ---
-tags:
-  - financial_trading
-  - fraud_detection
-  - investor_behavior
-  - market_dysfunction
-  - securities_fraud
 aliases:
-  - Dark Side of Finance
-  - Trading Failures
+- Dark Side of Finance
+- Trading Failures
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Market structure and trading
+- Order types and execution
+- Market making and liquidity provision
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Algorithmic trading strategies
+- Quantitative signal development
+- High-frequency trading
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Chapter 13 Trading Gone Awry and financial analysis
+- Chapter 13 Trading Gone Awry in modern finance
+- Applications of Chapter 13 Trading Gone Awry
+- 'Case study: Chapter 13 Trading Gone Awry'
+last_enhanced: '2025-11-06 08:42:34'
+- forward
+- signal
+- strategy
+- market-depth
+- options
+- call
+- put
+- liquidity
+- execution
+- market-maker
+- algo
+- order-flow
+- strike
+- spread
+- futures
+tags:
+- algorithmic-trading
+- arbitrage
+- asian
+- asian-crisis
+- austerity
+- banking
+- basis
+- bear-stearns
+- bid-ask
+- bond
+- case-study
+- central-bank
+- cftc
+- commodity
+- counterparty
+- covid-crisis
+- crisis-2008
+- crisis-analysis
+- cross-border
+- currency
+- dark-pool
+- default
+- derivative-pricing
+- derivatives
+- dodd-frank
+- econometric
+- empirical-analysis
+- equity
+- european
+- european-debt-crisis
+- eurozone
+- facility-lending
+- financial-crisis
+- financial-regulation
+- finra
+- flash-crash
+- governance
+- graduate-level
+- grexit
+- hedging
+- high-frequency
+- institutional-quality
+- learning-from-crisis
+- lehman
+- leverage
+- liquidity
+- margin-call
+- market-making
+- mathematical-finance
+- moral-hazard
+- professional-standard
+- provision
+- quantitative-analysis
+- quantitative-methods
+- real-world-example
+- regulatory-compliance
+- repo
+- reporting-requirement
+- robo-advisor
+- sec-regulation
+- securitization
+- sovereign
+- sovereign-debt
+- spread
+- statistical-model
+- stress-test
+- supervision
+- tranche
+- treasury
+- volatility
+
 key_concepts:
-  - Dysfunctional markets
-  - Financial fraud impact
-  - Fraud detection rates
-  - Investor capital allocation
-  - Securities fraud costs
+- Austerity Measures
+- Bank Supervision
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Compliance Management
+- Corporate Governance
+- Crisis Case Study Design
+- Currency Union Risks
+- Econometric Analysis
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- European Debt Crisis
+- European Integration
+- Eurozone Crisis Management
+- Financial Crisis Case Studies
+- Financial Econometrics
+- Financial Markets and Institutions
+- Financial Regulation
+- Fiscal Integration
+- Governance Standards
+- Greek Debt Crisis
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Mathematical Finance Applications
+- Mathematical Modeling
+- Quantitative Analysis in Finance
+- Quantitative Methods in Finance
+- Quantitative Risk Management
+- Real-World Financial Examples
+- Regulatory Compliance
+- Regulatory Framework
+- Regulatory Risk
+- Risk Management and Hedging Strategies
+- Sovereign Debt Restructuring
+- Statistical Finance
+- Statistical Modeling
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # Trading Gone Awry  
 

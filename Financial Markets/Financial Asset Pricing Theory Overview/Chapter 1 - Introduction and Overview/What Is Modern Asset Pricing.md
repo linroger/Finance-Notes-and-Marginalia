@@ -1,20 +1,102 @@
 ---
-tags:
-  - asset_allocation
-  - asset_pricing
-  - capital_budgeting
-  - capital_structure
-  - financial_markets
 aliases:
-  - CAPM
-  - Modern Asset Pricing
+- CAPM
+- Modern Asset Pricing
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- Capital Asset Pricing Model (CAPM)
+- Arbitrage Pricing Theory (APT)
+- Multi-factor risk models
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Efficient market hypothesis
+- Market anomalies and patterns
+- Price discovery and information
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- What Is Modern Asset Pricing and financial analysis
+- What Is Modern Asset Pricing in modern finance
+- Applications of What Is Modern Asset Pricing
+- 'Case study: What Is Modern Asset Pricing'
+last_enhanced: '2025-11-06 08:42:30'
+- market-efficiency
+- pricing
+- valuation
+- capm
+- factor-models
+- call
+- options
+- risk-management
+- risk
+- volatility
+- portfolio-optimization
+- asset-allocation
+- var
+- beta
+- portfolio
+tags:
+- arbitrage
+- case-study
+- crisis-analysis
+- derivative-pricing
+- derivatives
+- empirical-analysis
+- equity
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- leverage
+- market-efficiency
+- mathematical-finance
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- sovereign
+- stress-test
+- var
+- volatility
+
 key_concepts:
-  - asset allocation
-  - capital budgeting decisions
-  - financial risk management
-  - pricing financial assets
-  - shareholders vs creditors
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 1.1 What is modern asset pricing?  
 

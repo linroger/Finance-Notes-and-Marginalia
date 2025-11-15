@@ -1,21 +1,117 @@
 ---
-tags:
-  - forward_rates
-  - interest_rates
-  - sofr
-  - spot_rates
-  - term_structure
 aliases:
-  - Forward Rate
-  - SOFR
-  - Spot Rate
+- Forward Rate
+- SOFR
+- Spot Rate
+- Yield curve construction and modeling
+- Forward rate calculations
+- Spot and discount factors
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Forward Rates and financial analysis
+- Forward Rates in modern finance
+- Applications of Forward Rates
+- 'Case study: Forward Rates'
+last_enhanced: '2025-11-06 08:42:36'
+- forward
+- discount-factors
+- term-structure
+- treasury
+- swaps
+- coupon
+- yield
+- spot-rates
+- fixed-income
+- irs
+- bond
+- futures
+- bonds
+- maturity
+- swap
+tags:
+- arbitrage
+- basis
+- bid-ask
+- bond
+- case-study
+- cash-flow
+- credit-curve
+- crisis-analysis
+- currency
+- derivatives
+- duration
+- econometric
+- empirical-analysis
+- fixed-income
+- graduate-level
+- hedging
+- income-statement
+- institutional-quality
+- learning-from-crisis
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-analysis
+- quantitative-methods
+- real-world-example
+- sec-regulation
+- securitization
+- spread
+- statistical-model
+- treasury
+- yield-curve
+
 key_concepts:
-  - Discount factors and rates
-  - Forward loan agreement
-  - SOFR swap market
-  - Spot rates and forward rates
-  - Term structure relationships
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Econometric Analysis
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Econometrics
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Mathematical Finance Applications
+- Mathematical Modeling
+- Quantitative Analysis in Finance
+- Quantitative Methods in Finance
+- Quantitative Risk Management
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Statistical Finance
+- Statistical Modeling
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # 2.5 FORWARD RATES  
 

@@ -1,21 +1,111 @@
 ---
-tags:
-  - consumption_choice
-  - epstein_zin_utility
-  - portfolio_choice
-  - recursive_utility
-  - state_price_deflator
 aliases:
-  - Derived utility
-  - EZ utility
-  - Indirect utility
+- Derived utility
+- EZ utility
+- Indirect utility
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Mathematical optimization in finance
+- Portfolio optimization techniques
+- Linear and quadratic programming
+- Epstein-Zin Recursive Utility and financial analysis
+- Epstein-Zin Recursive Utility in modern finance
+- Applications of Epstein-Zin Recursive Utility
+- 'Case study: Epstein-Zin Recursive Utility'
+last_enhanced: '2025-11-06 08:42:32'
+- portfolio
+- risk
+- bonds
+- call
+- options
+- gamma
+- discount
+- yield
+- theta
+- constraint
+- put
+- portfolio-optimization
+- optimization
+- irs
+- swaps
+tags:
+- basis
+- bond
+- case-study
+- crisis-analysis
+- currency
+- derivative-pricing
+- derivatives
+- duration
+- econometric
+- empirical-analysis
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-analysis
+- quantitative-methods
+- real-world-example
+- sovereign
+- statistical-model
+- yield-curve
+
 key_concepts:
-  - Epstein-Zin preferences
-  - Indirect utility
-  - Relative risk aversion
-  - Subjective discount factor
-  - Wealth dynamics
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Econometric Analysis
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Econometrics
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Mathematical Finance Applications
+- Mathematical Modeling
+- Quantitative Analysis in Finance
+- Quantitative Methods in Finance
+- Quantitative Risk Management
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Statistical Finance
+- Statistical Modeling
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 6.6 Epstein-Zin recursive utility  
 

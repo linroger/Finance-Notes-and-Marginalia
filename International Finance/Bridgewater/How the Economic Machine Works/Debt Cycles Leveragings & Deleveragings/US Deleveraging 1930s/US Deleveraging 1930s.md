@@ -1,3 +1,140 @@
+---
+- banking
+- bond-durability
+- caps-floors
+- corporate-bonds
+- credit-rating
+- credit-risk
+- credit-spreads
+- financial-regulation
+- forward-contracts
+- futures-contracts
+- government-bonds
+- hedging-strategies
+- interest-rates
+- junk-bonds
+- market-structure
+- municipal-bonds
+- options
+- portfolio-management
+- trading-strategies
+- Duration and interest rate risk measurement
+- Futures contracts and forward pricing
+- Credit spreads and credit risk assessment
+- Liquidity risk management and measurement
+- Practical examples and implementation
+- Trading strategies and market implementation
+- Investment analysis and portfolio management
+- Financial valuation and pricing methodologies
+- Fixed income securities and bond markets
+- Equity markets and stock valuation
+- International finance and global markets
+- Monetary policy and central banking
+last_enhanced: '2025-11-06 08:42:45'
+tags:
+- asian
+- austerity
+- balance-sheet
+- bank-failure
+- bank-run
+- banking
+- bankruptcy
+- basis
+- bid-ask
+- bond
+- capital-flow
+- cash-flow
+- central-bank
+- cftc
+- collateral
+- commercial-paper
+- commodity
+- corporate-bond
+- counterparty
+- covenant
+- credit-market
+- credit-rating
+- cross-border
+- currency
+- currency-crisis
+- default
+- deposit-insurance
+- derivatives
+- devaluation
+- discount-window
+- duration
+- emerging-market
+- equity
+- european
+- european-debt-crisis
+- eurozone
+- fdic
+- fixed-income
+- graduate-level
+- grexit
+- gse
+- hedging
+- institutional-quality
+- leverage
+- liquidity
+- liquidity-crisis
+- margin-call
+- mark-to-market
+- mathematical-finance
+- monetary-policy
+- money-market
+- pegging
+- professional-standard
+- provision
+- provisioning
+- quantitative-methods
+- restructuring
+- robo-advisor
+- sec-regulation
+- securitization
+- sovereign
+- sovereign-debt
+- spread
+- tail-risk
+- tarp
+- tranche
+- treasury
+- volatility
+- yield-curve
+
+key_concepts:
+- Austerity Measures
+- Banking and Financial Intermediation
+- Currency Union Risks
+- European Debt Crisis
+- European Integration
+- Eurozone Crisis Management
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Fiscal Integration
+- Greek Debt Crisis
+- Institutional-Quality Financial Education
+- Quantitative Methods in Finance
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+- Sovereign Debt Restructuring
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
+---
+
+
+
+
+
 # US Deleveraging 1930s
 
 This document provides a timeline for the U.S. Deleveraging in the 1930s. I wrote it in a way to both make clear important cause and effect relationships and to convey an up-close feeling of what it was like to go through the experience as an investor. As a result, sometimes you will read about market action in detail that has no historical importance but provides perspective for investors trying to navigate such moves. For example, throughout this period there were giant market whip-saws and swings in sentiment that misled and hurt many. Also, the waves of destruction in asset values that occurred through changing market values and asset confiscations were enormous. So it is important that we, as managers of our clients' wealth, visualize how we would have navigated these changes. Only by going through this experience virtually, as well as going through the other deleveragings (the Weimar Republic in the 1920s, Latin America in the 1980s and Japan in the 1990s) and testing our strategies can we be confident that we can successfully navigate the next few years.

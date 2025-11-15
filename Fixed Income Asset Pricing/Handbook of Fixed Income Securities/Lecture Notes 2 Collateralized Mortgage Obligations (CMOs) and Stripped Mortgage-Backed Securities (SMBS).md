@@ -3,24 +3,68 @@ title: Lecture Notes 2 Collateralized Mortgage Obligations (CMOs) and Stripped M
   Securities (SMBS)
 cssclasses: academia
 tags:
-  - cmo
-  - mortgage_backed_securities
-  - prepayment_risk
-  - smbs
-  - structured_securities
+- ' PDE'
+- PDE
+- abs
+- arbitrage
+- asset-pricing
+- banking
+- basis-risk
+- black-scholes-model
+- bond-convexity
+- bond-durability
+- caps-floors
+- cmo
+- convexity
+- corporate-bonds
+- coupon-bonds
+- credit-default-swaps
+- credit-rating
+- credit-risk
+- credit-spreads
+- default-probability
 aliases:
-  - CMOs
-  - Collateralized Mortgage Obligations
-  - SMBS
-  - Stripped MBS
+- CMOs
+- Collateralized Mortgage Obligations
+- SMBS
+- Stripped MBS
 key_concepts:
-  - 'CMOs: structured securities'
-  - 'IOs: interest only'
-  - 'PAC: stable cash flows'
-  - 'POs: principal only'
-  - 'SMBS: interest/principal split'
-  - 'Support bonds: variable cash flows'
+- Black-Scholes option pricing model and its applications
+- Monte Carlo simulation methods for derivatives pricing
+- Duration and interest rate risk measurement
+- Convexity adjustments in fixed income
+- Yield curve modeling and term structure analysis
+- Forward rate calculations and forward curve construction
+- Credit default swap pricing and spreads
+- Mortgage-backed securities and prepayment modeling
+- Arbitrage opportunities and relative value trading
+- Model calibration and parameter estimation
+- Term structure of interest rates and yield curves
+- 'Reference rates: SOFR, LIBOR, and rate transitions'
+- Futures contracts and forward pricing
+- Interest rate swaps and swap curve construction
+- Credit spreads and credit risk assessment
+- Liquidity risk management and measurement
+- Financial theory and academic research
+- Practical examples and implementation
+- Derivatives and structured financial instruments
+- Trading strategies and market implementation
+- Risk management techniques and best practices
+- Financial regulation and compliance requirements
+- Investment analysis and portfolio management
+- Financial valuation and pricing methodologies
+- Fixed income securities and bond markets
+- Equity markets and stock valuation
+- International finance and global markets
+- Financial crises and market stress events
+- Basel regulations and banking capital requirements
+- 'Financial market regulations: MiFID and Dodd-Frank'
+last_enhanced: '2025-11-06 08:42:39'
 ---
+
+
+
+
 
 # Lecture Notes 2 Collateralized Mortgage Obligations (CMOs) and Stripped Mortgage-Backed Securities (SMBS)
 

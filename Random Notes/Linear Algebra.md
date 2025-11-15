@@ -1,3 +1,19 @@
+---
+tags:
+- bond-convexity
+- convexity
+- gaussian-hjm-model
+- swaps
+key_concepts:
+- Convexity adjustments in fixed income
+- Interest rate swaps and swap curve construction
+- Practical examples and implementation
+- Derivatives and structured financial instruments
+last_enhanced: '2025-11-06 08:42:51'
+---
+
+
+
 # A Beginner's Guide to Linear Algebra for Machine Learning 
 *(From Basics to Applications in ML)*  
 

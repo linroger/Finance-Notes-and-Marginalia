@@ -1,35 +1,231 @@
 ---
-cssclasses:
-  - academia
-title: "Runs on Money Market Mutual Funds"
-linter-yaml-title-alias: "Runs on Money Market Mutual Funds"
-tags:
-  - 2008_financial_crisis
-  - institutional_investors
-  - lehman_brothers
-  - money_market_funds
-  - run_risk
-  - financial_stability
-  - systemic_risk
-  - prime_funds
-  - fund_redemptions
 aliases:
-  - MMMFs
-  - Money Market Funds
-  - Reserve Primary Fund
-  - "Runs on MMFs"
+- MMMFs
+- Money Market Funds
+- Reserve Primary Fund
+- Runs on MMFs
+cssclasses:
+- academia
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Runs On Money Market Mutual Funds and financial analysis
+- Runs On Money Market Mutual Funds in modern finance
+- Applications of Runs On Money Market Mutual Funds
+- 'Case study: Runs On Money Market Mutual Funds'
+linter-yaml-title-alias: Runs on Money Market Mutual Funds
+- put
+- call
+- municipal
+- risk-management
+- corporate-bond
+- liquidity
+- trading
+- yield
+- treasury
+- options
+- spread
+- fixed-income
+- maturity
+- var
+- bond
+title: Runs on Money Market Mutual Funds
+tags:
+- abcp
+- arbitrage
+- asian
+- asset-quality
+- austerity
+- balance-sheet
+- bank-bailout
+- bank-failure
+- bank-regulation
+- bank-run
+- banking
+- bankruptcy
+- basis
+- bid-ask
+- bond
+- case-study
+- central-bank
+- collateral
+- commercial-paper
+- contagion
+- corporate-bond
+- counterparty
+- covid-crisis
+- credit-market
+- crisis-2008
+- crisis-analysis
+- cross-border
+- currency
+- default
+- defi
+- deposit-insurance
+- derivative-pricing
+- derivatives
+- digital-asset
+- duration
+- econometric
+- emerging-market
+- empirical-analysis
+- equity
+- european
+- european-debt-crisis
+- eurozone
+- facility-lending
+- fair-value
+- financial-crisis
+- financial-institutions
+- financial-markets
+- financial-regulation
+- fintech
+- fixed-income
+- governance
+- government-fund
+- graduate-level
+- grexit
+- hedging
+- institutional-analysis
+- institutional-quality
+- learning-from-crisis
+- lehman
+- lender-of-last-resort
+- leverage
+- liquidity
+- liquidity-facility
+- liquidity-fee
+- liquidity-management
+- market-liquidity
+- market-making
+- market-structure
+- mathematical-finance
+- mbs
+- monetary-policy
+- money-market
+- money-market-fund
+- money-markets
+- municipal-fund
+- non-bank
+- prime-fund
+- professional-standard
+- provision
+- quantitative-analysis
+- quantitative-methods
+- real-world-example
+- regulatory-compliance
+- repo
+- repo-markets
+- reporting-requirement
+- reputation-risk
+- robo-advisor
+- sec-regulation
+- securitization
+- shadow-banking
+- short-term-funding
+- sovereign
+- sovereign-debt
+- spread
+- stable-net-asset-value
+- stablecoin
+- statistical-model
+- stress-test
+- stress-test-requirement
+- supervision
+- systemic-risk
+- tail-risk
+- terra-luna
+- terra-luna-ust
+- terrausd
+- treasury
+- var
+- volatility
+- yield-curve
+
 key_concepts:
-  - institutional share classes
-  - investor behavior
-  - liquidity mismatch
-  - money market fund flows
-  - run-like behavior
-  - Flow-performance sensitivity
-  - Prime fund vulnerabilities
-  - Breaking the buck risk
-  - Institutional vs retail dynamics
-  - Contagion effects
+- Austerity Measures
+- Bank Supervision
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Central Bank Liquidity Facilities
+- Commercial Paper Markets
+- Compliance Management
+- Corporate Governance
+- Crisis Case Study Design
+- Currency Union Risks
+- Econometric Analysis
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- European Debt Crisis
+- European Integration
+- Eurozone Crisis Management
+- Financial Crisis Case Studies
+- Financial Econometrics
+- Financial Intermediation and Banking
+- Financial Markets and Institutions
+- Financial Regulation
+- Fiscal Integration
+- Governance Standards
+- Government Money Market Funds
+- Greek Debt Crisis
+- Historical Financial Analysis
+- Institutional Analysis of Financial Systems
+- Institutional Money Market Funds
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Liquidity Crisis and Management
+- Liquidity Fee Mechanisms
+- Liquidity Risk and Management
+- Market Structure and Microstructure
+- Mathematical Finance Applications
+- Mathematical Modeling
+- Money Market Fund Dynamics
+- Money Market Fund Management
+- Money Market Fund Regulation
+- Money Market Instruments
+- Municipal Money Market Funds
+- Prime Money Market Funds
+- Quantitative Analysis in Finance
+- Quantitative Methods in Finance
+- Quantitative Risk Management
+- Real-World Financial Examples
+- Regulatory Compliance
+- Regulatory Framework
+- Regulatory Framework in Financial Markets
+- Regulatory Risk
+- Repurchase Agreement Markets
+- Risk Management and Hedging Strategies
+- Short-Term Funding Markets
+- Sovereign Debt Restructuring
+- Stable Net Asset Value
+- Statistical Finance
+- Statistical Modeling
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
 
 # Runs on Money Market Mutual Funds
 

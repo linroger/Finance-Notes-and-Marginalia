@@ -1,21 +1,99 @@
 ---
-tags:
-  - asset_pricing
-  - consumption
-  - continuous_time
-  - expected_utility
-  - market_completeness
-  - state_price
 aliases:
-  - Continuous Time Framework
-  - Continuous-time Model
+- Continuous Time Framework
+- Continuous-time Model
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Efficient market hypothesis
+- Market anomalies and patterns
+- Price discovery and information
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- The Continuous-Time Framework and financial analysis
+- The Continuous-Time Framework in modern finance
+- Applications of The Continuous-Time Framework
+- 'Case study: The Continuous-Time Framework'
+last_enhanced: '2025-11-06 08:42:32'
+- market-efficiency
+- alpha
+- bonds
+- options
+- delta
+- risk-management
+- yield
+- var
+- irs
+- swaps
+tags:
+- basis
+- bond
+- case-study
+- crisis-analysis
+- currency
+- derivative-pricing
+- derivatives
+- duration
+- empirical-analysis
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- market-efficiency
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- sovereign
+- stress-test
+- var
+- yield-curve
+
 key_concepts:
-  - Continuous-time setting
-  - Market completeness
-  - Optimal consumption process
-  - State-price deflator
-  - Time-additive utility
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 6.4 The continuous-time framework  
 

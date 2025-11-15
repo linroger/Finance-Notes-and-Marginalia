@@ -2,25 +2,41 @@
 linter-yaml-title-alias: FIXED INCOME ASSET PRICING BUS 35130 SPRING 2024 JOHN HEATON
 title: PSET VI Fixed Income
 tags:
-  - bdt_model
-  - bond_pricing
-  - callable_bond
-  - fixed_income
-  - ho_lee_model
+- bdt_model
+- bond-convexity
+- bond-durability
+- bond_pricing
+- callable_bond
+- convexity
+- coupon-bonds
+- fixed_income
+- forward-contracts
+- forward-rates
+- ho-lee-model
+- ho_lee_model
+- interest-rates
+- options
+- options-greeks
+- term-structure
+- zero-coupon-bonds
 aliases:
-  - Freddie Mac Bond
-  - HW6
-  - Homework 6
-  - PSET VI
+- Freddie Mac Bond
+- HW6
+- Homework 6
+- PSET VI
 key_concepts:
-  - Bond duration convexity
-  - Callable bond valuation
-  - Freddie Mac 6% bond
-  - Ho-Lee interest rate
-  - Nelson-Siegel model
-  - Non-callable bond price
-  - Simple BDT model
+- Duration and interest rate risk measurement
+- Convexity adjustments in fixed income
+- Forward rate calculations and forward curve construction
+- Term structure of interest rates and yield curves
+- Financial valuation and pricing methodologies
+- Fixed income securities and bond markets
+last_enhanced: '2025-11-06 08:42:40'
 ---
+
+
+
+
 
 # PSET VI Fixed Income
 

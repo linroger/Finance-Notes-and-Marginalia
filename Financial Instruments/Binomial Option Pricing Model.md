@@ -2,26 +2,87 @@
 cssclasses: academia
 title: Binomial Option Pricing Model
 tags:
-  - american_options
-  - binomial_model
-  - lattice_model
-  - option_pricing
-  - risk_neutral
-  - jump_diffusion
-  - numerical_methods
+- alpha
+- american
+- american_options
+- barrier
+- binomial
+- binomial_model
+- black-scholes
+- brownian
+- call
+- currency
+- defi
+- dividend-yield
+- european
+- forward
+- future
+- gbm
+- greeks
+- hedge
+- implied-vol
+- interest-rate
+- jump_diffusion
+- lattice_model
+- numerical_methods
+- option
+- option_pricing
+- pde
+- put
+- risk-free-rate
+- risk_neutral
+- stock
+- stock-option
+- var
 aliases:
-  - CRR model
-  - Cox Ross Rubinstein
-  - Binomial Tree Model
+- CRR model
+- Cox Ross Rubinstein
+- Binomial Tree Model
 key_concepts:
-  - American-style options
-  - Binomial tree model
-  - Lattice models
-  - Option pricing equation
-  - Risk-neutral world
-  - Cox-Ross-Rubinstein framework
-  - Delta hedging
-  - Dividend adjustments
+- American options valuation
+- American-style options
+- Backtesting VaR models
+- Backward induction algorithm
+- Binomial option pricing model
+- Binomial tree model
+- Convergence to Black-Scholes
+- Cox-Ross-Rubinstein framework
+- Delta hedging
+- Delta risk management
+- Delta-hedging implementation
+- Derivative securities
+- Dividend adjustments
+- Dynamic hedging strategies
+- Dynamic replication
+- Expected Shortfall calculation
+- Financial risk management
+- Gamma effects on options
+- Gamma hedging techniques
+- Hedge ratio calculation
+- Hedging effectiveness
+- Historical simulation VaR
+- Lattice methods for derivatives
+- Lattice models
+- Monte Carlo VaR
+- Multi-period binomial tree
+- Option pricing equation
+- Options Greeks measurement
+- Parametric VaR models
+- Portfolio insurance methods
+- Portfolio optimization
+- Portfolio risk hedging
+- Quantitative financial analysis
+- Regulatory VaR requirements
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Risk-neutral probability
+- Risk-neutral world
+- Static hedging
+- Theta time decay
+- VaR model validation
+- Value at Risk (VaR) methodology
+- Vega hedging strategies
+- Vega volatility sensitivity
 ---
 
 # Binomial Tree Model

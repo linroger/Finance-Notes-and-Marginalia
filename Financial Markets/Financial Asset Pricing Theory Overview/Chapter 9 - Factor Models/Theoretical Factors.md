@@ -1,20 +1,102 @@
 ---
-tags:
-  - consumption_based_model
-  - factor_models
-  - intertemporal_capm
-  - market_portfolio
-  - theoretical_factors
 aliases:
-  - Intertemporal CAPM
-  - Theoretical Factors
+- Intertemporal CAPM
+- Theoretical Factors
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Capital Asset Pricing Model (CAPM)
+- Arbitrage Pricing Theory (APT)
+- Multi-factor risk models
+- Efficient market hypothesis
+- Market anomalies and patterns
+- Price discovery and information
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Theoretical Factors and financial analysis
+- Theoretical Factors in modern finance
+- Applications of Theoretical Factors
+- 'Case study: Theoretical Factors'
+last_enhanced: '2025-11-06 08:42:32'
+- portfolio
+- market-efficiency
+- pricing
+- capm
+- factor-models
+- factor-model
+- call
+- options
+- delta
+- risk-management
+- risk
+- var
+- beta
+- irs
+- swaps
+tags:
+- arbitrage
+- basis
+- case-study
+- crisis-analysis
+- currency
+- derivative-pricing
+- derivatives
+- empirical-analysis
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- market-efficiency
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- sovereign
+- stress-test
+- var
+
 key_concepts:
-  - Expected excess return
-  - Market price of risk
-  - Optimal consumption plan
-  - Representative individual wealth
-  - State-price deflator dynamics
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 9.7 Theoretical factors  
 

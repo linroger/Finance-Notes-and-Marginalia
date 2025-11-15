@@ -1,23 +1,61 @@
 ---
 title: Forwards and Futures Notes
 tags:
-  - coupon_bonds
-  - currency_forwards
-  - implied_forward_rates
-  - interest_arbitrage
-  - zero_coupon_bonds
+- bid-ask
+- bond
+- call
+- convexity
+- coupon_bonds
+- currency
+- currency_forwards
+- dividend-yield
+- duration
+- exchange-rate
+- forward
+- future
+- greeks
+- implied_forward_rates
+- interest-rate
+- interest_arbitrage
+- put
+- risk-free-rate
+- stock
+- tail-risk
+- transaction-cost
+- zero_coupon_bonds
 aliases:
-  - Bonds
-  - Currency
-  - Forwards
-  - Futures
+- Bonds
+- Currency
+- Forwards
+- Futures
 key_concepts:
-  - Coupon bond pricing
-  - Covered interest arbitrage
-  - Currency forward rate
-  - Implied forward rates
-  - Prepaid forward price
-  - Zero-coupon bond pricing
+- Convexity adjustment
+- Coupon bond pricing
+- Covered interest arbitrage
+- Currency forward rate
+- DV01 calculation
+- Delta risk management
+- Derivative securities
+- Duration measurement
+- Dynamic hedging strategies
+- Financial risk management
+- Gamma effects on options
+- Hedging with bonds
+- Implied forward rates
+- Interest rate sensitivity
+- Modified duration calculation
+- Options Greeks measurement
+- Portfolio immunization
+- Portfolio optimization
+- Portfolio risk hedging
+- Prepaid forward price
+- Price-yield relationship
+- Quantitative financial analysis
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Theta time decay
+- Vega volatility sensitivity
+- Zero-coupon bond pricing
 ---
 
 - Introduction to Derivative Markets]]

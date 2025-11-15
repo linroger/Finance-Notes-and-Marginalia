@@ -2,19 +2,40 @@
 linter-yaml-title-alias: OPTIONS STRATEGIES CONSTRUCTION
 title: OPTIONS STRATEGIES CONSTRUCTION
 tags:
-  - butterfly_spread
-  - option_expiration
-  - options_strategies
-  - protective_put
-  - stock_price
+- binomial
+- butterfly_spread
+- call
+- cap
+- collar
+- floor
+- option
+- option_expiration
+- options_strategies
+- protective_put
+- put
+- stock
+- stock_price
 aliases:
-  - Protective Put Strategy
+- Protective Put Strategy
 key_concepts:
-  - Limited risk
-  - Minimal stock movement
-  - Protective put portfolio
-  - Stock near expiration
-  - Stock price movement
+- American options valuation
+- Backward induction algorithm
+- Binomial option pricing model
+- Convergence to Black-Scholes
+- Cox-Ross-Rubinstein framework
+- Derivative securities
+- Financial risk management
+- Lattice methods for derivatives
+- Limited risk
+- Minimal stock movement
+- Multi-period binomial tree
+- Portfolio optimization
+- Protective put portfolio
+- Quantitative financial analysis
+- Risk assessment and mitigation
+- Risk-neutral probability
+- Stock near expiration
+- Stock price movement
 ---
 
 - **Binomial Trees]]**

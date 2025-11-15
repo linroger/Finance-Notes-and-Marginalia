@@ -1,29 +1,123 @@
 ---
-tags:
-  - investment
-  - lbo
-  - limited_partnership
-  - private_equity
-  - venture_capital
 aliases:
-  - LBO
-  - Leveraged Buyout
-  - PE
-  - Private Equity
+- LBO
+- Leveraged Buyout
+- PE
+- Private Equity
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Corporate bankruptcy process
+- Debt restructuring and workouts
+- Chapter 11 reorganization
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Private Equity and financial analysis
+- Private Equity in modern finance
+- Applications of Private Equity
+- 'Case study: Private Equity'
+last_enhanced: '2025-11-06 08:42:33'
+- distressed
+- pricing
+- coupon
+- ratio
+- options
+- put
+- liquidity
+- swaps
+- risk
+- bond
+- irs
+- bonds
+- bankruptcy
+- call
+- trading
+tags:
+- arbitrage
+- bank-failure
+- banking
+- bankruptcy
+- basis
+- bid-ask
+- bond
+- capital-ratio
+- case-study
+- cash-flow
+- credit-curve
+- crisis-analysis
+- currency
+- derivative-pricing
+- derivatives
+- duration
+- empirical-analysis
+- equity
+- fire-sale
+- graduate-level
+- hedging
+- impairment
+- institutional-quality
+- learning-from-crisis
+- leverage
+- liquidity
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- reputation-risk
+- restructuring
+- roe
+- securitization
+- sovereign
+- stress-test
+- structured-product
+- tranche
+- yield-curve
+
 key_concepts:
-  - Capital call liability
-  - General partner (GP)
-  - Leverage buyout (LBO)
-  - Limited partners (LPs)
-  - Limited partnership funds
-  - Limited partnership shares
-  - Mezzanine debt financing
-  - Net asset value (NAV)
-  - Operating cash flows
-  - Private equity firms
-  - Raise funds for acquisitions
-  - Return on investment
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 14.1  PRIVATE EQUITY  
 

@@ -1,26 +1,65 @@
 ---
 title: Teaching Notes 1
 cssclasses:
-  - academia
+- academia
 tags:
-  - federal_reserve
-  - fixed_income_securities
-  - interest_rates
-  - market_dynamics
-  - treasury_bonds
+- american-options
+- arbitrage
+- asian-options
+- asset-pricing
+- banking
+- basis-risk
+- binomial-model
+- bond-convexity
+- bond-durability
+- capm
+- caps-floors
+- cmo
+- convexity
+- coupon-bonds
+- credit-risk
+- delta-gamma-vega
+- delta-hedging
+- derivatives-pricing
+- duration-hedging
+- european-options
 aliases:
-  - Debt Securities
-  - Fixed Income
-  - Teaching Notes 1
+- Debt Securities
+- Fixed Income
+- Teaching Notes 1
 key_concepts:
-  - Federal Reserve actions
-  - Fixed income introduction
-  - Government debt increase
-  - Interest rate compounding
-  - Mortgage-backed securities changes
-  - Treasury bond behavior
-  - U.S. debt overview
+- Monte Carlo simulation methods for derivatives pricing
+- Delta hedging strategies in options markets
+- Duration and interest rate risk measurement
+- Convexity adjustments in fixed income
+- Yield curve modeling and term structure analysis
+- Forward rate calculations and forward curve construction
+- Mortgage-backed securities and prepayment modeling
+- Arbitrage opportunities and relative value trading
+- Risk-neutral pricing and martingale measures
+- Term structure of interest rates and yield curves
+- 'Reference rates: SOFR, LIBOR, and rate transitions'
+- Futures contracts and forward pricing
+- Interest rate swaps and swap curve construction
+- Capital Asset Pricing Model (CAPM)
+- Practical examples and implementation
+- Derivatives and structured financial instruments
+- Trading strategies and market implementation
+- Risk management techniques and best practices
+- Financial regulation and compliance requirements
+- Investment analysis and portfolio management
+- Financial valuation and pricing methodologies
+- Fixed income securities and bond markets
+- Equity markets and stock valuation
+- International finance and global markets
+- Monetary policy and central banking
+- Financial crises and market stress events
+last_enhanced: '2025-11-06 08:42:38'
 ---
+
+
+
+
 
 # Teaching Notes
 # Introduction to Fixed Income Securities

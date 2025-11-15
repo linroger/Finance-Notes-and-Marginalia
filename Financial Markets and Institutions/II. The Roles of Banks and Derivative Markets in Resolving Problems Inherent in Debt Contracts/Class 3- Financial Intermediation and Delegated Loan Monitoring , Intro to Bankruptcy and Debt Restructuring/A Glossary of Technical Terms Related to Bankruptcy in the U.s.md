@@ -1,35 +1,44 @@
 ---
 cssclasses:
-  - academia
+- academia
 title: A Glossary of Technical Terms Related to Bankruptcy in the US
 tags:
-  - bankruptcy
-  - chapter_11
-  - chapter_7
-  - liquidation
-  - reorganization
-  - us_code
-  - creditor_rights
-  - debtor_protections
-  - reorganization_process
+- bankruptcy
+- bond
+- capital-structure
+- chapter_11
+- chapter_7
+- creditor_rights
+- debtor_protections
+- defi
+- liquidation
+- put
+- reorganization
+- reorganization_process
+- us_code
 aliases:
-  - Bankruptcy Definitions
-  - Glossary of Bankruptcy Terms
-  - US Bankruptcy Code Terms
+- Bankruptcy Definitions
+- Glossary of Bankruptcy Terms
+- US Bankruptcy Code Terms
 key_concepts:
-  - 363 asset sale
-  - Absolute priority rule
-  - Automatic stay creditors
-  - Chapter 11 reorganization
-  - Chapter 7 liquidation
-  - Claims against debtor
-  - Cramdown process
-  - Debtor-in-possession financing
-  - Discharge of debts
-  - Exclusivity period
-  - Fraudulent transfer
-  - Impaired claims
-  - Plan of reorganization
+- 363 asset sale
+- Absolute priority rule
+- Automatic stay creditors
+- Chapter 11 reorganization
+- Chapter 7 liquidation
+- Claims against debtor
+- Cramdown process
+- Debtor-in-possession financing
+- Derivative securities
+- Discharge of debts
+- Exclusivity period
+- Financial risk management
+- Fraudulent transfer
+- Impaired claims
+- Plan of reorganization
+- Portfolio optimization
+- Quantitative financial analysis
+- Risk assessment and mitigation
 ---
 
 # A Glossary of Technical Terms Related to Bankruptcy in the US

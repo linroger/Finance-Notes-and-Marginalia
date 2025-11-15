@@ -1,24 +1,47 @@
 ---
 title: Chapter 20-Macroeconomic Policies in the Global Economy
 cssclasses:
-  - academia
+- academia
 tags:
-  - economic_recession
-  - fiscal_policy
-  - global_economy
-  - macroeconomic_policies
-  - monetary_policy
+- asset-pricing
+- banking
+- bond-durability
+- economic_recession
+- financial-regulation
+- fiscal_policy
+- forward-contracts
+- futures-contracts
+- global_economy
+- interest-rates
+- macroeconomic_policies
+- market-structure
+- monetary_policy
+- options
+- options-greeks
+- portfolio-management
+- relative-value
+- spot-rates
+- time-series
 aliases:
-  - Chapter 20
-  - Global Macro
-  - Macro Policies
+- Chapter 20
+- Global Macro
+- Macro Policies
 key_concepts:
-  - Developing countries growth
-  - Long-term growth paths
-  - Monetary and fiscal tools
-  - Subprime mortgage crisis
-  - U.S. dot.com boom
+- Duration and interest rate risk measurement
+- Futures contracts and forward pricing
+- Financial theory and academic research
+- Practical examples and implementation
+- Investment analysis and portfolio management
+- Financial valuation and pricing methodologies
+- Fixed income securities and bond markets
+- International finance and global markets
+- Monetary policy and central banking
+last_enhanced: '2025-11-06 08:42:48'
 ---
+
+
+
+
 
 # Chapter 20-Macroeconomic Policies in the Global Economy
 

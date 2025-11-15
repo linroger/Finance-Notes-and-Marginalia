@@ -1,21 +1,101 @@
 ---
-tags:
-  - bond_pricing
-  - discount_factors
-  - present_value
-  - term_structure
-  - treasury_bonds
 aliases:
-  - Discount Factor
-  - Present Value
-  - d(t)
+- Discount Factor
+- Present Value
+- d(t)
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Yield curve construction and modeling
+- Forward rate calculations
+- Spot and discount factors
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Discount Factors and financial analysis
+- Discount Factors in modern finance
+- Applications of Discount Factors
+- 'Case study: Discount Factors'
+last_enhanced: '2025-11-06 08:42:35'
+- treasury
+- term-structure
+- discount-factors
+- pricing
+- coupon
+- discount
+- fixed-income
+- irs
+- bond
+- bonds
+- swaps
+- maturity
+tags:
+- basis
+- bid-ask
+- bond
+- case-study
+- credit-curve
+- crisis-analysis
+- currency
+- derivatives
+- duration
+- empirical-analysis
+- fixed-income
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- sec-regulation
+- securitization
+- spread
+- treasury
+- yield-curve
+
 key_concepts:
-  - Bonds and discount factors
-  - Discount factor definition
-  - Present value of currency
-  - US Treasury bonds
-  - Value decreases with term
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 1.2 DISCOUNT FACTORS  
 

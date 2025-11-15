@@ -1,27 +1,60 @@
 ---
 tags:
-  - black_scholes
-  - european_call
-  - geometric_brownian_motion
-  - options_pricing
-  - pde
-  - financial_mathematics
-  - risk_neutral_pricing
+- black-scholes
+- black_scholes
+- brownian
+- call
+- defi
+- european_call
+- financial_mathematics
+- gbm
+- geometric_brownian_motion
+- greeks
+- hedge
+- interest-rate
+- ito
+- option
+- options_pricing
+- pde
+- risk-free-rate
+- risk_neutral_pricing
+- transaction-cost
 aliases:
-  - BS equation
-  - Black-Scholes model
-  - Option pricing derivation
-  - Black-Scholes-Merton model
+- BS equation
+- Black-Scholes model
+- Option pricing derivation
+- Black-Scholes-Merton model
 key_concepts:
-  - Black-Scholes PDE
-  - European call option
-  - Geometric Brownian motion
-  - Risk-free rate
-  - Risk-neutral portfolio
-  - Underlying asset price
-  - Ito's lemma
-  - Delta hedging
-  - No-arbitrage principle
+- Black-Scholes PDE
+- Delta hedging
+- Delta risk management
+- Delta-hedging implementation
+- Derivative securities
+- Dynamic hedging strategies
+- Dynamic replication
+- European call option
+- Financial risk management
+- Gamma effects on options
+- Gamma hedging techniques
+- Geometric Brownian motion
+- Hedge ratio calculation
+- Hedging effectiveness
+- Ito's lemma
+- No-arbitrage principle
+- Options Greeks measurement
+- Portfolio insurance methods
+- Portfolio optimization
+- Portfolio risk hedging
+- Quantitative financial analysis
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Risk-free rate
+- Risk-neutral portfolio
+- Static hedging
+- Theta time decay
+- Underlying asset price
+- Vega hedging strategies
+- Vega volatility sensitivity
 cssclasses: academia
 ---
 

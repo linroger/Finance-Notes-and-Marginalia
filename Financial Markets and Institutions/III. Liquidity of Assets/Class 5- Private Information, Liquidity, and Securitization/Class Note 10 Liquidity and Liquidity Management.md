@@ -1,38 +1,139 @@
 ---
-cssclasses:
-  - academia
-title: "Class Note 10: Liquidity and Liquidity Management"
-linter-yaml-title-alias: "Class Note 10: Liquidity and Liquidity Management"
-tags:
-  - asset_liquidity
-  - balance_sheet
-  - financial_intermediaries
-  - illiquidity
-  - liquidity_management
-  - financial_markets
-  - liquidity_risk
-  - liquidity_crisis
-  - federal_funds
-  - repurchase_agreements
 aliases:
-  - "Class Note 10"
-  - "Illiquid Assets"
-  - "Liquidity"
-  - "Liquidity Management"
+- Class Note 10
+- Illiquid Assets
+- Liquidity
+- Liquidity Management
+cssclasses:
+- academia
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Class Note 10 Liquidity and Liquidity Management and financial analysis
+- Class Note 10 Liquidity and Liquidity Management in modern finance
+- Applications of Class Note 10 Liquidity and Liquidity Management
+- 'Case study: Class Note 10 Liquidity and Liquidity Management'
+linter-yaml-title-alias: 'Class Note 10: Liquidity and Liquidity Management'
+- yield
+- fed-funds
+- treasury
+- interest-rates
+- fixed-income
+- volatility
+- maturity
+- bond
+- options
+- put
+- bonds
+- spread
+- liquidity
+- trading
+- interest-rate
+title: 'Class Note 10: Liquidity and Liquidity Management'
+tags:
+- balance-sheet
+- bank-run
+- banking
+- bid-ask
+- bond
+- case-study
+- central-bank
+- collateral
+- commercial-paper
+- contagion
+- counterparty
+- crisis-analysis
+- derivative-pricing
+- derivatives
+- discount-window
+- duration
+- empirical-analysis
+- financial-institutions
+- financial-markets
+- fixed-income
+- graduate-level
+- hedging
+- institutional-analysis
+- institutional-quality
+- learning-from-crisis
+- liquidity
+- liquidity-crisis
+- liquidity-management
+- market-liquidity
+- market-structure
+- mathematical-finance
+- mbs
+- monetary-policy
+- money-markets
+- moral-hazard
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- repo
+- repo-markets
+- sec-regulation
+- securitization
+- short-term-funding
+- sovereign
+- spread
+- tail-risk
+- treasury
+- volatility
+- yield-curve
+
 key_concepts:
-  - Liquidity measurement and forced sales
-  - Illiquid asset bid-ask spreads
-  - Perfectly liquid assets vs illiquid assets
-  - Financial intermediary liquidity provision
-  - Bank liquidity risk management
-  - Sources of bank liquidity
-  - Asset management for liquidity
-  - Liability management for liquidity
-  - Federal funds market
-  - Federal Reserve discount window
-  - Liquidity crisis prevention
-  - Forward-looking liquidity management
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Central Bank Liquidity Facilities
+- Commercial Paper Markets
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Intermediation and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional Analysis of Financial Systems
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Liquidity Crisis and Management
+- Liquidity Risk and Management
+- Market Structure and Microstructure
+- Money Market Fund Dynamics
+- Money Market Instruments
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Regulatory Framework in Financial Markets
+- Repurchase Agreement Markets
+- Risk Management and Hedging Strategies
+- Short-Term Funding Markets
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
 
 # Class Note 10: Liquidity and Liquidity Management
 

@@ -3,21 +3,65 @@ Owner: RRoger Lin
 linter-yaml-title-alias: THE PRICING OF OPTIONS AND CORPORATE LIABILITIES
 title: THE PRICING OF OPTIONS AND CORPORATE LIABILITIES
 tags:
-  - american_option
-  - black_scholes_model
-  - corporate_liabilities
-  - european_option
-  - option_pricing
+- american
+- american_option
+- beta
+- binomial
+- black-scholes
+- black_scholes_model
+- bond
+- call
+- capital-structure
+- compound
+- corporate-bond
+- corporate_liabilities
+- defi
+- dividend-policy
+- equity
+- equity-value
+- european
+- european_option
+- future
+- greeks
+- interest-rate
+- merger
+- option
+- option_pricing
+- put
+- stochastic
+- stock
+- transaction-cost
 aliases:
-  - Black-Scholes
-  - Corporate Debt
-  - Option Pricing
+- Black-Scholes
+- Corporate Debt
+- Option Pricing
 key_concepts:
-  - American vs European options
-  - Call option definition
-  - Exercise price and expiration
-  - Option valuation formula
-  - Option volatility analysis
+- American options valuation
+- American vs European options
+- Backward induction algorithm
+- Binomial option pricing model
+- Call option definition
+- Convergence to Black-Scholes
+- Cox-Ross-Rubinstein framework
+- Delta risk management
+- Derivative securities
+- Dynamic hedging strategies
+- Exercise price and expiration
+- Financial risk management
+- Gamma effects on options
+- Lattice methods for derivatives
+- Multi-period binomial tree
+- Option valuation formula
+- Option volatility analysis
+- Options Greeks measurement
+- Portfolio optimization
+- Portfolio risk hedging
+- Quantitative financial analysis
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Risk-neutral probability
+- Theta time decay
+- Vega volatility sensitivity
 ---
 
 # The Pricing of Options and Corporate Liabilities

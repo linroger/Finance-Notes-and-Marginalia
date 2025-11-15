@@ -1,21 +1,41 @@
 ---
 tags:
-  - dealer_markets
-  - fixed_income
-  - market_microstructure
-  - structured_credit
-  - trading_mechanisms
+- abs
+- asset-pricing
+- banking
+- cdo
+- corporate-bonds
+- dealer_markets
+- financial-engineering
+- financial-regulation
+- fixed_income
+- futures-contracts
+- market-structure
+- market_microstructure
+- mbs
+- municipal-bonds
+- structured_credit
+- trading-strategies
+- trading_mechanisms
 aliases:
-  - Fixed Income Markets
-  - OTC Markets
+- Fixed Income Markets
+- OTC Markets
 key_concepts:
-  - Comparative market analysis
-  - Dealer-oriented OTC markets
-  - Electronic trading evolution
-  - Fixed-income trading mechanisms
-  - Market microstructure analysis
-  - Structured credit products
+- Mortgage-backed securities and prepayment modeling
+- Futures contracts and forward pricing
+- Market microstructure and trading mechanisms
+- Practical examples and implementation
+- Trading strategies and market implementation
+- Financial regulation and compliance requirements
+- Fixed income securities and bond markets
+- Equity markets and stock valuation
+- Market dynamics and pricing mechanisms
+last_enhanced: '2025-11-06 08:42:38'
 ---
+
+
+
+
 
 # Survey of Fixed-Income Market Microstructure
 

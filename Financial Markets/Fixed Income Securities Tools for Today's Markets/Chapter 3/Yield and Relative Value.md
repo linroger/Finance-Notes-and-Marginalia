@@ -1,20 +1,106 @@
 ---
-tags:
-  - coupon_effect
-  - spot_rates
-  - term_structure
-  - treasury_bonds
-  - yield_to_maturity
 aliases:
-  - Coupon Impact
-  - Relative Bond Valuation
+- Coupon Impact
+- Relative Bond Valuation
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Yield curve construction and modeling
+- Forward rate calculations
+- Spot and discount factors
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Arbitrage principles and opportunities
+- Relative value trading
+- Law of one price enforcement
+- Yield and Relative Value and financial analysis
+- Yield and Relative Value in modern finance
+- Applications of Yield and Relative Value
+- 'Case study: Yield and Relative Value'
+last_enhanced: '2025-11-06 08:42:36'
+- treasury
+- term-structure
+- coupon
+- yield
+- fixed-income
+- spot-rates
+- discount
+- arbitrage
+- irs
+- cash flow
+- bond
+- bonds
+- relative-value
+- swaps
+- maturity
+tags:
+- arbitrage
+- basis
+- bid-ask
+- bond
+- case-study
+- cash-flow
+- credit-curve
+- crisis-analysis
+- currency
+- derivatives
+- duration
+- empirical-analysis
+- fixed-income
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- sec-regulation
+- securitization
+- spread
+- treasury
+- yield-curve
+
 key_concepts:
-  - Coupon effect explained
-  - Spot rates vs. yields
-  - US Treasury bond market
-  - Upward sloping term structure
-  - Yield not relative value
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # 3.4 YIELD AND RELATIVE VALUE  
 

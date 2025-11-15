@@ -1,20 +1,107 @@
 ---
-tags:
-  - asset_pricing
-  - consumption_plans
-  - expected_utility
-  - preference_relations
-  - utility_index
 aliases:
-  - Consumption Preferences
-  - Preference Theory
+- Consumption Preferences
+- Preference Theory
+- Efficient market hypothesis
+- Market anomalies and patterns
+- Price discovery and information
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Consumption Plans and Preference Relations and financial analysis
+- Consumption Plans and Preference Relations in modern finance
+- Applications of Consumption Plans and Preference Relations
+- 'Case study: Consumption Plans and Preference Relations'
+last_enhanced: '2025-11-06 08:42:31'
+- portfolio
+- market-efficiency
+- pricing
+- alpha
+- call
+- options
+- gamma
+- risk-management
+- portfolio-optimization
+- var
+- irs
+- swaps
+tags:
+- basis
+- case-study
+- crisis-analysis
+- currency
+- derivative-pricing
+- derivatives
+- econometric
+- empirical-analysis
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- market-efficiency
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-analysis
+- quantitative-methods
+- real-world-example
+- sovereign
+- statistical-model
+- stress-test
+- var
+
 key_concepts:
-  - Consumption plans comparison
-  - Expected utility function
-  - Preference relation representation
-  - State-independent preferences
-  - Utility index assignment
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Econometric Analysis
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Econometrics
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Mathematical Finance Applications
+- Mathematical Modeling
+- Quantitative Analysis in Finance
+- Quantitative Methods in Finance
+- Quantitative Risk Management
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Statistical Finance
+- Statistical Modeling
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 5.2 Consumption plans and preference relations  
 

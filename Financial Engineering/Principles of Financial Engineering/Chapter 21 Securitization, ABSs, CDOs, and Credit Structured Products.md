@@ -1,8 +1,121 @@
 ---
-title: "Chapter 21: Securitization, ABSs, CDOs, and Credit Structured Products"
-author: "Principles of Financial Engineering"
-date: "2024"
+title: 'Chapter 21: Securitization, ABSs, CDOs, and Credit Structured Products'
+author: Principles of Financial Engineering
+date: '2024'
 output: pdf_document
+tags:
+- abs
+- alpha
+- asset-swap
+- barrier
+- basel
+- bid-ask
+- bond
+- bps
+- call
+- capital-structure
+- cdo
+- cds
+- cdsos
+- classification
+- convexity
+- corporate-bond
+- counterparty
+- credit-derivatives
+- credit-risk
+- credit-spread
+- defi
+- duration
+- dv01
+- equity
+- euribor
+- expected-shortfall
+- financial-crisis
+- floor
+- forward
+- future
+- greeks
+- hedge-fund
+- housing-bubble
+- implied-vol
+- index
+- interest-rate
+- leverage-ratio
+- libor
+- liquidity
+- liquidity-risk
+- market-risk
+- mbs
+- monetary-policy
+- multiple
+- option
+- plain-vanilla-swap
+- put
+- regulatory-capital
+- risk-weighted
+- spread
+- stochastic
+- stock
+- stress-test
+- subprime
+- swap
+- treasury
+- var
+- vol-smile
+key_concepts:
+- ' tranche valuation'
+- Backtesting VaR models
+- Basis swap mechanics
+- CDO squared structures
+- CDO structure
+- CDS curve construction
+- CDS spread calibration
+- Convexity adjustment
+- Credit Default Swaps
+- Credit index products
+- Credit tranching
+- Cross-currency basis
+- Currency swap structure
+- DV01 calculation
+- Default correlation
+- Delta risk management
+- Derivative securities
+- Duration measurement
+- Dynamic hedging strategies
+- Expected Shortfall calculation
+- Financial risk management
+- Fixed vs floating leg
+- Gamma effects on options
+- Hedging with bonds
+- Historical simulation VaR
+- Interest rate sensitivity
+- Interest rate swap pricing
+- Modified duration calculation
+- Monte Carlo VaR
+- Mortgage-backed securities
+- Option-adjusted spread
+- Options Greeks measurement
+- PSA curves
+- Parametric VaR models
+- Portfolio immunization
+- Portfolio optimization
+- Portfolio risk hedging
+- Prepayment modeling
+- Present value of swaps
+- Price-yield relationship
+- Quantitative financial analysis
+- Regulatory VaR requirements
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Subprime crisis
+- Swap curve construction
+- Swaption valuation
+- Synthetic CDO pricing
+- Theta time decay
+- VaR model validation
+- Value at Risk (VaR) methodology
+- Vega volatility sensitivity
+- Waterfall mechanics
 ---
 
 # SECURITIZATION, ABSs, CDOs, AND CREDIT STRUCTURED PRODUCTS  

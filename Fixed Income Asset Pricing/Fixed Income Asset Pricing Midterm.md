@@ -1,22 +1,35 @@
 ---
 tags:
-  - asset_pricing
-  - fixed_income
-  - floating_rate_notes
-  - midterm
-  - spot_rates
+- asset-pricing
+- asset_pricing
+- bond-durability
+- fixed_income
+- floating_rate_notes
+- forward-contracts
+- forward-rates
+- interest-rates
+- midterm
+- spot_rates
+- swaps
+- term-structure
 aliases:
-  - FIA Pricing
-  - Fixed Income Exam
-  - Midterm Solutions
+- FIA Pricing
+- Fixed Income Exam
+- Midterm Solutions
 key_concepts:
-  - Floating Rate Notes
-  - Real Yield Calculation
-  - Risk-Neutral Probabilities
-  - Spot and Forward Rates
-  - Swap Value Inception
-  - Term Structure Slope
+- Duration and interest rate risk measurement
+- Forward rate calculations and forward curve construction
+- Risk-neutral pricing and martingale measures
+- Term structure of interest rates and yield curves
+- Interest rate swaps and swap curve construction
+- Fixed income securities and bond markets
+- Asset pricing and derivatives valuation
+last_enhanced: '2025-11-06 08:42:38'
 ---
+
+
+
+
 
 # Fixed Income Asset Pricing Midterm Solutions
 

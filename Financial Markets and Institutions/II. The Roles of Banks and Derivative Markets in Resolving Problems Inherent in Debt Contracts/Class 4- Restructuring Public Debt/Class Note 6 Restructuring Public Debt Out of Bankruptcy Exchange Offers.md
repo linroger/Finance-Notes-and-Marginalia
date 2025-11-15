@@ -1,30 +1,45 @@
 ---
-cssclasses:
-  - academia
-title: "Class Note 6: Restructuring Public Debt Out of Bankruptcy - Exchange Offers"
-tags:
-  - bankruptcy
-  - coercive_exchange
-  - exchange_offers
-  - federal_trust_act
-  - public_debt
-  - junior_securities
-  - senior_securities
-  - holdout_problem
 aliases:
-  - Bankruptcy Exchange
-  - Debt Restructuring
-  - Note 6
-  - Exchange Offers
+- Bankruptcy Exchange
+- Debt Restructuring
+- Note 6
+- Exchange Offers
+cssclasses:
+- academia
 key_concepts:
-  - Bankruptcy exchange offers
-  - Coercive exchange offers
-  - Junior securities failure
-  - Public debt restructuring
-  - Tendering vs holding out
-  - Senior vs junior securities
-  - Trust Indenture Act
-  - Collective action problems
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Corporate bankruptcy process
+- Debt restructuring and workouts
+- Chapter 11 reorganization
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Class Note 6 Restructuring Public Debt Out of Bankruptcy Exchange Offers and financial
+  analysis
+- Class Note 6 Restructuring Public Debt Out of Bankruptcy Exchange Offers in modern
+  finance
+- Applications of Class Note 6 Restructuring Public Debt Out of Bankruptcy Exchange
+  Offers
+- 'Case study: Class Note 6 Restructuring Public Debt Out of Bankruptcy Exchange Offers'
+tags:
+- fixed-income
+- maturity
+- bond
+- options
+- irs
+- put
+- swaps
+- bonds
+- bankruptcy
+title: 'Class Note 6: Restructuring Public Debt Out of Bankruptcy - Exchange Offers'
 ---
 
 # Class Note 6: Restructuring Public Debt Out of Bankruptcy - Exchange Offers

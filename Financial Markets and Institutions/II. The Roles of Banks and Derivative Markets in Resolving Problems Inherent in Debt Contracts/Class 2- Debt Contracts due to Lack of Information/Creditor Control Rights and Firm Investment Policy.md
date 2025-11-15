@@ -2,21 +2,57 @@
 cssclasses: academia
 title: Creditor Control Rights and Firm Investment Policy
 tags:
-  - capital_expenditures
-  - credit_quality
-  - creditor_rights
-  - debt_agreements
-  - firm_investment
+- acquisition
+- asset-allocation
+- basis-swap
+- bond
+- capital-structure
+- capital_expenditures
+- clustering
+- corporate-bond
+- credit-derivatives
+- credit-risk
+- credit_quality
+- creditor_rights
+- debt_agreements
+- defi
+- equity
+- firm_investment
+- future
+- interest-rate
+- leverage-ratio
+- libor
+- liquidity
+- merger
+- put
+- regression
+- stock
+- swap
+- venture-capital
+- vol-smile
 aliases:
-  - Creditor Control
-  - Firm Investment
-  - Investment Policy
+- Creditor Control
+- Firm Investment
+- Investment Policy
 key_concepts:
-  - Borrower credit quality
-  - Capital expenditure limits
-  - Creditor-borrower conflicts
-  - Firm investment restrictions
-  - Private credit agreements
+- Basis swap mechanics
+- Borrower credit quality
+- Capital expenditure limits
+- Creditor-borrower conflicts
+- Cross-currency basis
+- Currency swap structure
+- Derivative securities
+- Financial risk management
+- Firm investment restrictions
+- Fixed vs floating leg
+- Interest rate swap pricing
+- Portfolio optimization
+- Present value of swaps
+- Private credit agreements
+- Quantitative financial analysis
+- Risk assessment and mitigation
+- Swap curve construction
+- Swaption valuation
 ---
 
 # Creditor Control Rights and Firm Investment Policy

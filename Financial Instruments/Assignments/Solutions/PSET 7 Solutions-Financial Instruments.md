@@ -2,22 +2,41 @@
 linter-yaml-title-alias: PSET 7 SOLUTIONS
 title: PSET 7 SOLUTIONS
 tags:
-  - american_option
-  - american_put_option
-  - dividend_payments
-  - early_exercise
-  - european_call_option
+- american
+- american_option
+- american_put_option
+- black-scholes
+- bond
+- call
+- credit-spread
+- defi
+- dividend-yield
+- dividend_payments
+- early_exercise
+- equity
+- equity-value
+- european_call_option
+- interest-rate
+- option
+- put
+- risk-free-rate
+- stock
 aliases:
-  - American Options
-  - Call Option
-  - Homework 7
-  - PSET 7
+- American Options
+- Call Option
+- Homework 7
+- PSET 7
 key_concepts:
-  - American option payoff
-  - Continuously compounded interest
-  - Dividend payments impact
-  - Early exercise value
-  - Risk neutral probability
+- American option payoff
+- Continuously compounded interest
+- Derivative securities
+- Dividend payments impact
+- Early exercise value
+- Financial risk management
+- Portfolio optimization
+- Quantitative financial analysis
+- Risk assessment and mitigation
+- Risk neutral probability
 ---
 
 # PSET 7 SOLUTIONS

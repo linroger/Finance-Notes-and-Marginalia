@@ -1,26 +1,55 @@
 ---
-title: Discussion of Loan Covenants
-  vs. Bond Covenants
+title: Discussion of Loan Covenants vs. Bond Covenants
 tags:
-  - bond_covenants
-  - bondholder_rights
-  - corporate_bonds
-  - federal_trust_indenture_act
-  - loan_covenants
+- acquisition
+- bond
+- bond_covenants
+- bondholder_rights
+- call
+- corporate-bond
+- corporate_bonds
+- currency
+- debt-equity
+- defi
+- equity
+- equity-swap
+- federal_trust_indenture_act
+- future
+- loan_covenants
+- merger
+- option
+- put
+- stock
+- stock-option
+- swap
+- treasury
 aliases:
-  - Bond Indentures
-  - Covenants vs. Bond Covenants
-  - Loan Covenants
-  - MGM Mirage Bond
+- Bond Indentures
+- Covenants vs. Bond Covenants
+- Loan Covenants
+- MGM Mirage Bond
 key_concepts:
-  - Bond contract features
-  - Bondholder voting rules
-  - Covenants in indentures
-  - Excessive debt risk choice
-  - Limits to debt renegotiation
-  - Loan contract default
-  - Make-whole call option
-  - US Federal Trust Indenture Act
+- Basis swap mechanics
+- Bond contract features
+- Bondholder voting rules
+- Covenants in indentures
+- Cross-currency basis
+- Currency swap structure
+- Derivative securities
+- Excessive debt risk choice
+- Financial risk management
+- Fixed vs floating leg
+- Interest rate swap pricing
+- Limits to debt renegotiation
+- Loan contract default
+- Make-whole call option
+- Portfolio optimization
+- Present value of swaps
+- Quantitative financial analysis
+- Risk assessment and mitigation
+- Swap curve construction
+- Swaption valuation
+- US Federal Trust Indenture Act
 ---
 
 # Discussion of Loan Covenants vs. Bond Covenants

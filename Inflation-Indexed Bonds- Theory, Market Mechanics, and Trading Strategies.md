@@ -1,3 +1,34 @@
+---
+tags:
+- bond-durability
+- caps-floors
+- financial-regulation
+- government-bonds
+- hedging-strategies
+- market-structure
+- options
+- portfolio-management
+- relative-value
+- swaps
+- trading-strategies
+- zero-coupon-bonds
+key_concepts:
+- Duration and interest rate risk measurement
+- Interest rate swaps and swap curve construction
+- Derivatives and structured financial instruments
+- Trading strategies and market implementation
+- Risk management techniques and best practices
+- Financial regulation and compliance requirements
+- Financial valuation and pricing methodologies
+- Fixed income securities and bond markets
+- International finance and global markets
+- Monetary policy and central banking
+- Market dynamics and pricing mechanisms
+last_enhanced: '2025-11-06 08:42:40'
+---
+
+
+
 # Inflation-Indexed Bonds: Theory, Market Mechanics, and Trading Strategies
 
 ## The analytical machinery behind TIPS pricing has evolved significantly

@@ -1,21 +1,108 @@
 ---
-tags:
-  - corporate_bonds
-  - credit_portfolios
-  - dvo1
-  - spread_duration
-  - spread_risk
 aliases:
-  - DTS
-  - Duration times spread
+- DTS
+- Duration times spread
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Spread Duration and Dvo1 and financial analysis
+- Spread Duration and Dvo1 in modern finance
+- Applications of Spread Duration and Dvo1
+- 'Case study: Spread Duration and Dvo1'
+last_enhanced: '2025-11-06 08:42:35'
+- portfolio
+- duration
+- corporate-bond
+- fixed-income
+- cds
+- trading
+- bond
+- futures
+- bonds
+- spread
+- credit-spread
+- dv01
+- risk
+- liquidity
+- basis
+tags:
+- arbitrage
+- basis
+- bid-ask
+- bond
+- case-study
+- corporate-bond
+- credit-curve
+- credit-market
+- crisis-analysis
+- default
+- derivatives
+- duration
+- empirical-analysis
+- fixed-income
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- liquidity
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- sec-regulation
+- securitization
+- sovereign
+- spread
+- yield-curve
+
 key_concepts:
-  - benchmark curve
-  - bond price sensitivity
-  - hazard rate model
-  - risky Dv01
-  - spread Dv01
-  - spread duration
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # 14.10 SPREAD DURATION AND DVO1  
 

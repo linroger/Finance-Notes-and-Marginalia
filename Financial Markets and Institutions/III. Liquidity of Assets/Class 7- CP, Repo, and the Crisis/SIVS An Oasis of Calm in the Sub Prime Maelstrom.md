@@ -1,24 +1,47 @@
 ---
-cssclasses:
-  - academia
-title: SIVS An Oasis of Calm in the Sub Prime Maelstrom
-tags:
-  - cdos
-  - rmbs
-  - sivs
-  - structured_finance
-  - subprime_mortgages
 aliases:
-  - SIV-lite
-  - SIVs
-  - Structured Investment Vehicles
+- SIV-lite
+- SIVs
+- Structured Investment Vehicles
+cssclasses:
+- academia
 key_concepts:
-  - Aaa-rated assets
-  - CDOs of ABS
-  - RMBS exposure
-  - high-grade structured credit
-  - mark-to-market procedures
-  - maturity transformation
+- Mortgage-backed securities structure
+- Prepayment modeling and analysis
+- Securitization and CDO structures
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- SIVS An Oasis of Calm in the Sub Prime Maelstrom and financial analysis
+- SIVS An Oasis of Calm in the Sub Prime Maelstrom in modern finance
+- Applications of SIVS An Oasis of Calm in the Sub Prime Maelstrom
+- 'Case study: SIVS An Oasis of Calm in the Sub Prime Maelstrom'
+tags:
+- call
+- credit
+- futures
+- pricing
+- portfolio-optimization
+- portfolio
+- put
+- options
+- basis
+- valuation
+- spread
+- liquidity
+- roll
+- subprime
+- mbs
+title: SIVS An Oasis of Calm in the Sub Prime Maelstrom
 ---
 
 # SIVS An Oasis of Calm in the Sub Prime Maelstrom

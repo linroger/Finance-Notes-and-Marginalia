@@ -1,27 +1,32 @@
 ---
 title: Week 1
 cssclasses:
-  - academia
+- academia
 tags:
-  - week_1
-  - financial_analysis
-  - valuation
-  - corporate_finance
-  - financial_modeling
+- corporate_finance
+- financial_analysis
+- financial_modeling
+- portfolio-optimization
+- valuation
+- week_1
 aliases:
-  - Week 1 Index
-  - Week 1 AFAV Overview
-  - Week 1 Contents
+- Week 1 Index
+- Week 1 AFAV Overview
+- Week 1 Contents
 key_concepts:
-  - Core financial analysis and valuation concepts
-  - Financial analysis frameworks and tools
-  - Market efficiency principles
-  - Ratio analysis fundamentals
-  - Valuation methodology overview
+- Core financial analysis and valuation concepts
+- Derivative securities
+- Financial analysis frameworks and tools
+- Financial risk management
+- Market efficiency principles
+- Portfolio optimization
+- Quantitative financial analysis
+- Ratio analysis fundamentals
+- Risk assessment and mitigation
+- Valuation methodology overview
 ---
 
 # Week 1
-
 %% Begin Waypoint %%
 
 - **Week 1**

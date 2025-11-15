@@ -1,21 +1,64 @@
 ---
 title: Option Risk
 tags:
-  - binomial_model
-  - call_option
-  - elasticity
-  - option_risk
-  - volatility
+- acquisition
+- beta
+- binomial
+- binomial_model
+- call
+- call_option
+- capm
+- defi
+- elasticity
+- future
+- greeks
+- interest-rate
+- option
+- option_risk
+- put
+- risk-free-rate
+- risk-management
+- stock
+- volatility
 aliases:
-  - Option Risk
-  - Option Risk Notes
-  - Risk of an Option
+- Option Risk
+- Option Risk Notes
+- Risk of an Option
 key_concepts:
-  - Binomial model risk
-  - Call option elasticity
-  - Expected return calculation
-  - Option risk and CAPM
-  - Stock volatility
+- American options valuation
+- Backward induction algorithm
+- Beta calculation
+- Binomial model risk
+- Binomial option pricing model
+- Call option elasticity
+- Capital Asset Pricing Model
+- Convergence to Black-Scholes
+- Cost of equity estimation
+- Cox-Ross-Rubinstein framework
+- Delta risk management
+- Derivative securities
+- Dynamic hedging strategies
+- Expected return calculation
+- Financial risk management
+- Gamma effects on options
+- Lattice methods for derivatives
+- Market efficiency implications
+- Market portfolio
+- Multi-period binomial tree
+- Option risk and CAPM
+- Options Greeks measurement
+- Portfolio optimization
+- Portfolio risk hedging
+- Quantitative financial analysis
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Risk-neutral probability
+- Risk-return tradeoff
+- Security Market Line
+- Stock volatility
+- Systematic vs idiosyncratic risk
+- Theta time decay
+- Vega volatility sensitivity
 ---
 
 # Option Risk

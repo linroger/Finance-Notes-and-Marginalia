@@ -1,28 +1,44 @@
 ---
-title: "Appendix 10.A Taxes and Option Prices"
+title: Appendix 10.A Taxes and Option Prices
 cssclasses: academia
 tags:
-  - binomial-pricing
-  - capital-gains
-  - dealers
-  - marked-to-market
-  - option-prices
-  - tax-rates
-  - taxes
+- binomial-pricing
+- bond
+- capital-gains
+- dealers
+- greeks
+- marked-to-market
+- option
+- option-prices
+- stock
+- tax-rates
+- taxes
 aliases:
-  - Appendix 10
-  - Taxes and Options
+- Appendix 10
+- Taxes and Options
 key_concepts:
-  - After-tax return equality
-  - Binomial price with taxes
-  - Dealer marked-to-market
-  - Option pricing formula
-  - Tax rates on income
+- After-tax return equality
+- Binomial price with taxes
+- Dealer marked-to-market
+- Delta risk management
+- Derivative securities
+- Dynamic hedging strategies
+- Financial risk management
+- Gamma effects on options
+- Option pricing formula
+- Options Greeks measurement
+- Portfolio optimization
+- Portfolio risk hedging
+- Quantitative financial analysis
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Tax rates on income
+- Theta time decay
+- Vega volatility sensitivity
 ---
 
 # Appendix 10.A Taxes and Option Prices
-
-It is possible to solve for a binomial price when there are taxes. Suppose that each form of income is taxed at a different rate: interest at the rate $\tau_i$, capital gains on a stock at the rate $\tau_g$, capital gains on options at the rate $\tau_o$, and dividends at the rate $\tau_d$. We assume that taxes on all forms of income are paid on an accrual basis, and that there is no limit on the ability to deduct losses or to offset losses on one form of income against gains on another form of income.
+It is possible to solve for a binomial price when there are taxes. Suppose that each form of income is taxed $\$a_t$$ a different rate: interest $$a_t$$ the rate $\tau_i$, capital gains on a stock $$a_t$$ the rate $\tau_g$, capital gains on options $$a_t$$ the rate $\tau_o$, and dividends $$a_t$$ the rate $\tau_d$. We assume that taxes on all forms of income are paid on an accrual basis, and that there is no limit on the ability to deduct losses or to offset losses on one form of income against gains on another form of income.
 
 We then choose $\Delta_t$ and $B_t$ by requiring that the after-tax return on the stock/bond portfolio equal the after-tax return on the option in both the up and down states. Thus we require that:
 
@@ -31,7 +47,7 @@ $$\begin{aligned}
 &= \phi_{t+h}(S_{t+h})-\tau_o\left[\phi_{t+h}(S_{t+h})-\phi_t(S_t)\right]
 \end{aligned}$$
 
-The solutions for $\Delta$ and $B$ are then:
+The solutions for $\\Delta$ and $B$ are then:
 
 $$\begin{aligned}
 &\Delta=\frac{1-\tau_o}{1-\tau_g}\frac{\phi_1(S_1^+)-\phi_1(S_1^-)}{S_1^+-S_1^-}\\
@@ -40,10 +56,10 @@ $$\begin{aligned}
 
 This gives an option price of:
 
-$$\phi_t=\frac{1}{1+r_h\frac{1-\tau_i}{1-\tau_o}}\left[p^*\phi_{t+h}(S_{t+h}^+)+(1-p^*)\phi_{t+h}(S_{t+h}^-)\right]$$
+$\$\phi_t=\frac{1}{1+r_h\frac{1-\tau_i}{1-\tau_o}}\left[p^*\phi_{t+h}(S_{t+h}^+)+(1-p^*)\phi_{t+h}(S_{t+h}^-)\right]$$
 
 Where:
 
-$$p^*=\frac{1+r_h\frac{1-\tau_i}{1-\tau_g}-\delta\frac{1-\tau_d}{1-\tau_o}-d}{u-d}$$
+$\$p^*=\frac{1+r_h\frac{1-\tau_i}{1-\tau_g}-\\delta\frac{1-\tau_d}{1-\tau_o}-d}{u-d}$$
 
 In practice, dealers are marked-to-market for tax purposes and face the same tax rate on all forms of income. In this case taxes drop out of all the option-pricing expressions. When dealers are the effective price-setters in a market, taxes should not affect prices.

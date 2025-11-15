@@ -1,33 +1,118 @@
 ---
-tags:
-  - bond_recovery
-  - credit_losses
-  - credit_risk
-  - default_rates
-  - hertz_bonds
-  - investment_grade
-  - recovery_rates
-  - senior_unsecured_bonds
-  - seniority
-  - speculative_grade
 aliases:
-  - Bond Credit Risk
-  - Credit Loss
-  - Credit Risk Analysis
-  - Default and Recovery
-  - Hertz Bankruptcy
+- Bond Credit Risk
+- Credit Loss
+- Credit Risk Analysis
+- Default and Recovery
+- Hertz Bankruptcy
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Default Rates Recovery Rates and Credit Losses and financial analysis
+- Default Rates Recovery Rates and Credit Losses in modern finance
+- Applications of Default Rates Recovery Rates and Credit Losses
+- 'Case study: Default Rates Recovery Rates and Credit Losses'
+last_enhanced: '2025-11-06 08:42:35'
+- options
+- credit-risk
+- call
+- var
+- coupon
+- default
+- yield
+- fixed-income
+- put
+- recovery
+- bond
+- bonds
+- risk-management
+- cds
+- maturity
+tags:
+- bank-failure
+- banking
+- bankruptcy
+- basis
+- bid-ask
+- bond
+- case-study
+- commodity
+- covid-crisis
+- credit-market
+- credit-rating
+- crisis-analysis
+- default
+- derivative-pricing
+- derivatives
+- duration
+- empirical-analysis
+- financial-crisis
+- fixed-income
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- sec-regulation
+- securitization
+- sovereign
+- spread
+- stress-test
+- tranche
+- var
+- yield-curve
+
 key_concepts:
-  - Bond Recovery Rates
-  - Credit Losses
-  - Credit Risk Over Time
-  - Default Rates
-  - Hertz Bond Prices
-  - Impact of Seniority
-  - Investment Grade Bonds
-  - Recovery Rates
-  - Senior Unsecured Bonds
-  - Speculative Grade Bonds
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # 14.2 DEFAULT RATES, RECOVERY RATES, AND CREDIT LOSSES  
 

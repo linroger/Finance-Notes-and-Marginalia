@@ -1,16 +1,70 @@
 ---
 id: principles_of_financial_engineering_ch6
-title: "Ch. 6 Cash Flow Engineering in Foreign Exchange Markets"
+title: Ch. 6 Cash Flow Engineering in Foreign Exchange Markets
 category: financial_engineering
 subject: derivatives
 tags:
-  - forward_contracts
-  - fx_markets
-  - synthetic_instruments
-  - cash_flow_engineering
-  - currency_swaps
+- bid-ask
+- bond
+- call
+- cash_flow_engineering
+- counterparty
+- credit-risk
+- currency
+- currency_swaps
+- defi
+- duration
+- exchange-rate
+- forward
+- forward_contracts
+- future
+- fx_markets
+- greeks
+- interest-rate
+- lehman
+- libor
+- liquidity
+- market-risk
+- multiple
+- option
+- put
+- swap
+- synthetic_instruments
+- transaction-cost
+- treasury
+- yield-curve
 status: processed
-market_context: "Written in 1997-1998 context"
+market_context: Written in 1997-1998 context
+key_concepts:
+- Basis swap mechanics
+- Convexity adjustment
+- Cross-currency basis
+- Currency swap structure
+- DV01 calculation
+- Delta risk management
+- Derivative securities
+- Duration measurement
+- Dynamic hedging strategies
+- Financial risk management
+- Fixed vs floating leg
+- Gamma effects on options
+- Hedging with bonds
+- Interest rate sensitivity
+- Interest rate swap pricing
+- Modified duration calculation
+- Options Greeks measurement
+- Portfolio immunization
+- Portfolio optimization
+- Portfolio risk hedging
+- Present value of swaps
+- Price-yield relationship
+- Quantitative financial analysis
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Swap curve construction
+- Swaption valuation
+- Theta time decay
+- Vega volatility sensitivity
 ---
 
 # Chapter 6: Cash Flow Engineering in Foreign Exchange Markets

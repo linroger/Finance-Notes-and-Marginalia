@@ -1,20 +1,108 @@
 ---
-tags:
-  - derivative_pricing
-  - girsanov_theorem
-  - martingale
-  - numeraire
-  - risk_adjusted_probability
 aliases:
-  - General Risk-Adjusted Probability
-  - Risk-Adjusted Measures
+- General Risk-Adjusted Probability
+- Risk-Adjusted Measures
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Market structure and trading
+- Order types and execution
+- Market making and liquidity provision
+- General Risk-Adjusted Probability Measures and financial analysis
+- General Risk-Adjusted Probability Measures in modern finance
+- Applications of General Risk-Adjusted Probability Measures
+- 'Case study: General Risk-Adjusted Probability Measures'
+last_enhanced: '2025-11-06 08:42:30'
+- pricing
+- coupon
+- valuation
+- dividend
+- bonds
+- options
+- delta
+- maturity
+- liquidity
+- bond
+- theta
+- trading
+- derivatives
+- risk
+- fixed-income
+tags:
+- banking
+- bankruptcy
+- bid-ask
+- bond
+- case-study
+- crisis-analysis
+- derivative-pricing
+- derivatives
+- duration
+- empirical-analysis
+- fixed-income
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- liquidity
+- market-making
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- sec-regulation
+- securitization
+- sovereign
+- spread
+- yield-curve
+
 key_concepts:
-  - Law of Iterated Expectations
-  - Pricing condition and martingale
-  - Radon-Nikodym derivative
-  - Risk-neutral probability measure
-  - Zero-coupon bond as numeraire
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 11.5 General risk-adjusted probability measures  
 

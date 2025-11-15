@@ -1,18 +1,105 @@
 ---
-tags:
-  - chapter_10
-  - economics
-  - interest_rates
-  - term_structure
-  - yield_curve
 aliases: []
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Yield curve construction and modeling
+- Forward rate calculations
+- Spot and discount factors
+- Arbitrage principles and opportunities
+- Relative value trading
+- Law of one price enforcement
+- __temp__Chapter 10 - The Economics of the Term Structure of Interest Rates and financial
+  analysis
+- __temp__Chapter 10 - The Economics of the Term Structure of Interest Rates in modern
+  finance
+- Applications of __temp__Chapter 10 - The Economics of the Term Structure of Interest
+  Rates
+- 'Case study: __temp__Chapter 10 - The Economics of the Term Structure of Interest
+  Rates'
+last_enhanced: '2025-11-06 08:42:30'
+- pricing
+- interest-rates
+- term-structure
+- interest-rate
+- bonds
+- maturity
+- liquidity
+- yield
+- bond
+- arbitrage
+- arbitrage-free
+- fixed-income
+tags:
+- arbitrage
+- bid-ask
+- bond
+- case-study
+- credit-curve
+- crisis-analysis
+- derivatives
+- duration
+- empirical-analysis
+- equity
+- fixed-income
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- liquidity
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- sec-regulation
+- securitization
+- spread
+- yield-curve
+
 key_concepts:
-  - Forward rate models
-  - Interest rate curves
-  - Spot rates
-  - Term structure economics
-  - Yield curve analysis
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 
 

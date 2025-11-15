@@ -1,22 +1,46 @@
 ---
-cssclasses:
-  - academia
-title: Do Bondholders Lose From Junk Bond Covenant Changes
-tags:
-  - agency_costs
-  - bondholders
-  - consent_solicitations
-  - covenant_changes
-  - junk_bonds
 aliases:
-  - Junk Bond Covenants
-  - Kahan & Tuckman
+- Junk Bond Covenants
+- Kahan & Tuckman
+cssclasses:
+- academia
 key_concepts:
-  - Agency costs of debt
-  - Bondholder loss from covenant changes
-  - Consent solicitations and bondholders
-  - Covenant renegotiation
-  - Game-theoretic model
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Algorithmic trading strategies
+- Quantitative signal development
+- High-frequency trading
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Do Bondholders Lose From Junk Bond Covenant Changes and financial analysis
+- Do Bondholders Lose From Junk Bond Covenant Changes in modern finance
+- Applications of Do Bondholders Lose From Junk Bond Covenant Changes
+- 'Case study: Do Bondholders Lose From Junk Bond Covenant Changes'
+tags:
+- delta
+- put
+- algorithmic-trading
+- strategy
+- cds
+- coupon
+- call
+- signal
+- corporate-bond
+- credit-risk
+- default
+- yield
+- treasury
+- options
+- credit-spread
+title: Do Bondholders Lose From Junk Bond Covenant Changes
 ---
 
 # Do Bondholders Lose From Junk Bond Covenant Changes

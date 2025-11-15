@@ -1,25 +1,112 @@
 ---
-tags:
-  - call_option
-  - forwards
-  - options
-  - put_call_parity
-  - put_option
-  - risk_sharing
-  - strike_price
 aliases:
-  - Forward Synthesis
-  - Off-Market Forward
-  - Options and Forwards
-  - Put-Call Parity
+- Forward Synthesis
+- Off-Market Forward
+- Options and Forwards
+- Put-Call Parity
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Algorithmic trading strategies
+- Quantitative signal development
+- High-frequency trading
+- Arbitrage principles and opportunities
+- Relative value trading
+- Law of one price enforcement
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Options and Forwards Risk Sharing and Put-Call and financial analysis
+- Options and Forwards Risk Sharing and Put-Call in modern finance
+- Applications of Options and Forwards Risk Sharing and Put-Call
+- 'Case study: Options and Forwards Risk Sharing and Put-Call'
+last_enhanced: '2025-11-06 08:42:33'
+- forward
+- strategy
+- futures
+- options
+- put
+- liquidity
+- risk
+- strike
+- arbitrage
+- call
+- expiry
+- algorithmic-trading
+- dividend
+- trading
+tags:
+- algorithmic-trading
+- arbitrage
+- basis
+- bid-ask
+- case-study
+- crisis-analysis
+- derivative-pricing
+- derivatives
+- econometric
+- empirical-analysis
+- equity
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- liquidity
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-analysis
+- quantitative-methods
+- real-world-example
+- statistical-model
+- stress-test
+
 key_concepts:
-  - Call and Put Payoffs
-  - Cash vs Physical Settlement
-  - Cost-of-Carry Equation
-  - Long Forward Strategy
-  - Put-Call Parity Formula
-  - Synthesizing Forwards
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Econometric Analysis
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Econometrics
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Mathematical Finance Applications
+- Mathematical Modeling
+- Quantitative Analysis in Finance
+- Quantitative Methods in Finance
+- Quantitative Risk Management
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Statistical Finance
+- Statistical Modeling
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 5.4 OPTIONS AND FORWARDS, RISK SHARING AND PUT-CALL PARITY  
 

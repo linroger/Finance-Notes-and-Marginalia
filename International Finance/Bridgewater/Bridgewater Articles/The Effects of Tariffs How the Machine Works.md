@@ -1,22 +1,28 @@
 ---
 tags:
-  - currency
-  - fiscal_policy
-  - monetary_policy
-  - stagflation
-  - tariffs
-  - trade
+- asset-pricing
+- banking
+- currency
+- fiscal_policy
+- futures-contracts
+- interest-rates
+- monetary_policy
+- stagflation
+- tariffs
+- trade
 aliases:
-  - Effects of Tariffs
-  - Tariff Impacts
+- Effects of Tariffs
+- Tariff Impacts
 key_concepts:
-  - International conflict needs
-  - Protect domestic companies
-  - Reduce account imbalances
-  - Reduce global production
-  - Stagflationary effects
-  - Tariffs raise revenue
+- Futures contracts and forward pricing
+- International finance and global markets
+- Monetary policy and central banking
+last_enhanced: '2025-11-06 08:42:40'
 ---
+
+
+
+
 
 ## Article
 

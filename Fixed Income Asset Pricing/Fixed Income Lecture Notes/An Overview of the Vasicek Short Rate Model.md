@@ -1,24 +1,47 @@
 ---
 title: An Overview of the Vasicek Short Rate Model
 cssclasses:
-  - academia
+- academia
 tags:
-  - interest_rates
-  - mean_reversion
-  - short_rate_model
-  - term_structure
-  - vasicek_model
+- arbitrage
+- coupon-bonds
+- forward-contracts
+- forward-rates
+- futures-contracts
+- ho-lee-model
+- interest-rates
+- interest_rates
+- mean-reversion
+- mean_reversion
+- short_rate_model
+- swaps
+- term-structure
+- term_structure
+- vasicek-model
+- vasicek_model
+- yield-curve
+- zero-coupon-bonds
 aliases:
-  - Interest Rate Model
-  - Short Rate
-  - Vasicek
+- Interest Rate Model
+- Short Rate
+- Vasicek
 key_concepts:
-  - Hull-White extension
-  - Mean reversion
-  - Short rate dynamics
-  - Stochastic interest rate model
-  - Zero-coupon bond pricing
+- Yield curve modeling and term structure analysis
+- Forward rate calculations and forward curve construction
+- Arbitrage opportunities and relative value trading
+- Brownian motion and Wiener processes
+- Term structure of interest rates and yield curves
+- Futures contracts and forward pricing
+- Interest rate swaps and swap curve construction
+- Practical examples and implementation
+- Fixed income securities and bond markets
+- Mathematical and statistical modeling in finance
+last_enhanced: '2025-11-06 08:42:38'
 ---
+
+
+
+
 
 # An Overview of the Vasicek Short Rate Model
 # Abstract

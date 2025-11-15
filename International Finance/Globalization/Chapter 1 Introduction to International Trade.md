@@ -1,3 +1,21 @@
+---
+tags:
+- asset-pricing
+- banking
+- interest-rates
+- trading-strategies
+key_concepts:
+- Financial theory and academic research
+- Practical examples and implementation
+- Trading strategies and market implementation
+- Investment analysis and portfolio management
+- Financial valuation and pricing methodologies
+- International finance and global markets
+last_enhanced: '2025-11-06 08:42:48'
+---
+
+
+
 ## **Chapter 1**
 
 # **Introduction**

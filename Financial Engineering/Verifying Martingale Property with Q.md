@@ -1,20 +1,42 @@
 ---
 tags:
-  - bond_numeraire
-  - discounted_stock
-  - martingale_property
-  - risk_neutral_probability
-  - stock_price
+- bond
+- bond_numeraire
+- brownian
+- currency
+- defi
+- discounted_stock
+- forward
+- gbm
+- greeks
+- martingale_property
+- risk_neutral_probability
+- stochastic
+- stock
+- stock_price
 aliases:
-  - Martingale Verification
-  - Risk-Neutral Measure
-  - Stock Price Martingale
+- Martingale Verification
+- Risk-Neutral Measure
+- Stock Price Martingale
 key_concepts:
-  - Bond as numeraire
-  - Discounted stock price
-  - Martingale property verification
-  - Risk-neutral probabilities
-  - Stock price dynamics
+- Bond as numeraire
+- Delta risk management
+- Derivative securities
+- Discounted stock price
+- Dynamic hedging strategies
+- Financial risk management
+- Gamma effects on options
+- Martingale property verification
+- Options Greeks measurement
+- Portfolio optimization
+- Portfolio risk hedging
+- Quantitative financial analysis
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Risk-neutral probabilities
+- Stock price dynamics
+- Theta time decay
+- Vega volatility sensitivity
 ---
 
 # Chapter 5 Additional Readings  

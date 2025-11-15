@@ -1,28 +1,68 @@
 ---
 LLM-tagged: 2025-03-10 14:08:26.839000+00:00
 tags:
-  - bonds
-  - cmo
-  - credit_risk
-  - debt_instruments
-  - duration
-  - fixed_income
-  - market_dynamics
-  - oas
-  - prepayment_risk
-  - structured_products
+- abs
+- arbitrage
+- asset-pricing
+- banking
+- basis-risk
+- bond-convexity
+- bond-durability
+- bonds
+- caps-floors
+- cdo
+- cmo
+- commodity-derivatives
+- convexity
+- corporate-bonds
+- coupon-bonds
+- credit-default-swaps
+- credit-derivatives
+- credit-rating
+- credit-risk
+- credit-spreads
 aliases:
-  - Bonds Lecture
-  - CMO Analysis
-  - Fixed Income
-  - Structured Products
+- Bonds Lecture
+- CMO Analysis
+- Fixed Income
+- Structured Products
 key_concepts:
-  - CMOs, cash flows
-  - Duration, interest rate changes
-  - OAS, duration, returns
-  - Prepayment risk impacts CMOs
-  - Tranche types, structures
+- Duration and interest rate risk measurement
+- Convexity adjustments in fixed income
+- Yield curve modeling and term structure analysis
+- Forward rate calculations and forward curve construction
+- Credit default swaps and credit risk transfer
+- Value at Risk (VaR) and risk metrics
+- Stress testing and scenario analysis
+- Credit default swap pricing and spreads
+- Mortgage-backed securities and prepayment modeling
+- Collateralized debt obligations (CDOs) and structured credit
+- Arbitrage opportunities and relative value trading
+- Risk-neutral pricing and martingale measures
+- Term structure of interest rates and yield curves
+- 'Reference rates: SOFR, LIBOR, and rate transitions'
+- Futures contracts and forward pricing
+- Interest rate swaps and swap curve construction
+- Credit spreads and credit risk assessment
+- Liquidity risk management and measurement
+- Financial theory and academic research
+- Practical examples and implementation
+- Derivatives and structured financial instruments
+- Trading strategies and market implementation
+- Risk management techniques and best practices
+- Financial regulation and compliance requirements
+- Investment analysis and portfolio management
+- Financial valuation and pricing methodologies
+- Fixed income securities and bond markets
+- Equity markets and stock valuation
+- Corporate finance and financial decision-making
+- International finance and global markets
+last_enhanced: '2025-11-06 08:42:39'
 ---
+
+
+
+
 
 Here is a summarized version of the text, tagged with relevant keywords:
 

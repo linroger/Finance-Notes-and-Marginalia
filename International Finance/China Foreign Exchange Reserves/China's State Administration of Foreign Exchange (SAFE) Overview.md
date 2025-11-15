@@ -1,28 +1,31 @@
 ---
 cssclasses:
-  - academia
+- academia
 description: China's State Administration of Foreign Exchange is the country's official
   state-run foreign exchange regulatory agency.
-source: 
-  https://www.investopedia.com/terms/s/state-administration-of-foreign-exchange.asp
+source: https://www.investopedia.com/terms/s/state-administration-of-foreign-exchange.asp
 title: China's State Administration of Foreign Exchange (SAFE) Overview
 tags:
-  - china
-  - currency_regulation
-  - foreign_exchange
-  - pboc
-  - safe
+- banking
+- china
+- currency_regulation
+- financial-regulation
+- foreign_exchange
+- pboc
+- safe
 aliases:
-  - China's Forex Regulator
-  - Chinese Forex Agency
-  - SAFE
+- China's Forex Regulator
+- Chinese Forex Agency
+- SAFE
 key_concepts:
-  - China's forex regulator
-  - Drafts forex regulations
-  - Manages foreign exchange reserves
-  - Oversees forex market
-  - Part of Chinese government
+- Financial regulation and compliance requirements
+- International finance and global markets
+last_enhanced: '2025-11-06 08:42:47'
 ---
+
+
+
+
 
 # China's State Administration of Foreign Exchange (SAFE) Overview
 ## What Is China's State Administration of Foreign Exchange (SAFE)?

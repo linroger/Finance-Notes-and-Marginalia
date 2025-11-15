@@ -1,24 +1,136 @@
 ---
-tags:
-  - asset_transformation
-  - fixed_rate
-  - floating_rate
-  - hedging_interest_rate_risk
-  - interest_rate_swaps
-  - liability_transformation
-  - plain_vanilla_swap
 aliases:
-  - IRS
-  - Interest Rate Swap
-  - Swap Valuation
+- IRS
+- Interest Rate Swap
+- Swap Valuation
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Interest Rate Swaps and Swaptions and financial analysis
+- Interest Rate Swaps and Swaptions in modern finance
+- Applications of Interest Rate Swaps and Swaptions
+- 'Case study: Interest Rate Swaps and Swaptions'
+last_enhanced: '2025-11-06 08:42:31'
+- coupon
+- interest-rate
+- bonds
+- swaption
+- irs
+- swaps
+- options
+- delta
+- maturity
+- bond
+- libor
+- interest-rates
+- call
+- yield
+- currency-swap
+tags:
+- asian-crisis
+- austerity
+- basis
+- bid-ask
+- bond
+- case-study
+- cash-flow
+- counterparty
+- crisis-analysis
+- currency
+- default
+- derivative-pricing
+- derivatives
+- duration
+- econometric
+- empirical-analysis
+- european
+- european-debt-crisis
+- eurozone
+- fixed-income
+- graduate-level
+- grexit
+- hedging
+- institutional-quality
+- learning-from-crisis
+- margin-call
+- mathematical-finance
+- monetary-policy
+- money-market
+- professional-standard
+- provision
+- quantitative-analysis
+- quantitative-methods
+- real-world-example
+- sec-regulation
+- securitization
+- sovereign-debt
+- spread
+- statistical-model
+- volatility
+- yield-curve
+
 key_concepts:
-  - Asset transformation
-  - Comparative advantages
-  - Fixed vs. floating rates
-  - Hedging interest rate risk
-  - Interest rate swap
-  - Liability transformation
+- Austerity Measures
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Currency Union Risks
+- Econometric Analysis
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- European Debt Crisis
+- European Integration
+- Eurozone Crisis Management
+- Financial Crisis Case Studies
+- Financial Econometrics
+- Financial Markets and Institutions
+- Fiscal Integration
+- Greek Debt Crisis
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Mathematical Finance Applications
+- Mathematical Modeling
+- Quantitative Analysis in Finance
+- Quantitative Methods in Finance
+- Quantitative Risk Management
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Sovereign Debt Restructuring
+- Statistical Finance
+- Statistical Modeling
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 12.4 Interest rate swaps and swaptions  
 

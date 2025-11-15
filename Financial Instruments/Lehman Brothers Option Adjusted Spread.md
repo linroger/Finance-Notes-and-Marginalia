@@ -1,35 +1,119 @@
 ---
-tags:
-  - corporate_bond
-  - credit_risk
-  - lehman_brothers
-  - option_adjusted_spread
-  - z_spread
-  - fixed_income
-  - bond_valuation
-  - interest_rate_models
+title: Explaining the Lehman Brothers Option Adjusted Spread of a Corporate Bond
 aliases:
-  - Lehman Brothers OAS
-  - OAS
-  - Z-spread
-  - Black-Karasinski model
+- Lehman Brothers OAS
+- OAS
+- Z-spread
+- Black-Karasinski model
 key_concepts:
-  - Callable corporate bond
-  - Discounted cash flow
-  - Treasury and LIBOR curves
-  - Z-spread of security
-  - Zero-coupon interest rates
-  - Option adjusted spread calculation
-  - Stochastic term structure models
-  - Volatility calibration
-  - Hazard rate models
-  - Credit default swap spread
-cssclasses: academia
+- ' tranche valuation'
+- American options valuation
+- Backward induction algorithm
+- Basis swap mechanics
+- Binomial option pricing model
+- CDO squared structures
+- CDS curve construction
+- CDS spread calibration
+- Callable corporate bond
+- Convergence to Black-Scholes
+- Convexity adjustment
+- Cox-Ross-Rubinstein framework
+- Credit Default Swaps
+- Credit default swap spread
+- Credit index products
+- Cross-currency basis
+- Currency swap structure
+- DV01 calculation
+- Default correlation
+- Delta risk management
+- Derivative securities
+- Discounted Cash Flow valuation
+- Discounted cash flow
+- Duration measurement
+- Dynamic hedging strategies
+- Enterprise value estimation
+- Financial risk management
+- Fixed vs floating leg
+- Free cash flow modeling
+- Gamma effects on options
+- Gordon growth model
+- Hazard rate models
+- Hedging with bonds
+- Interest rate sensitivity
+- Interest rate swap pricing
+- Lattice methods for derivatives
+- Modified duration calculation
+- Multi-period binomial tree
+- Multi-stage DCF models
+- Option adjusted spread calculation
+- Options Greeks measurement
+- Portfolio immunization
+- Portfolio optimization
+- Portfolio risk hedging
+- Present value of swaps
+- Price-yield relationship
+- Quantitative financial analysis
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Risk-neutral probability
+- Stochastic term structure models
+- Swap curve construction
+- Swaption valuation
+- Synthetic CDO pricing
+- Terminal value calculation
+- Theta time decay
+- Treasury and LIBOR curves
+- Vega volatility sensitivity
+- Volatility calibration
+- WACC calculation
+- Weighted Average Cost of Capital
+- Z-spread of security
+- Zero-coupon interest rates
+tags:
+- american
+- binomial
+- bond
+- bond_valuation
+- brownian
+- call
+- cds
+- corporate-bond
+- corporate_bond
+- credit-risk
+- credit-spread
+- credit_risk
+- dcf
+- duration
+- factor-model
+- fixed-income
+- fixed_income
+- forward
+- future
+- greeks
+- implied-vol
+- index
+- interest-rate
+- interest_rate_models
+- lehman
+- lehman_brothers
+- libor
+- liquidity
+- monte-carlo
+- option
+- option_adjusted_spread
+- swap
+- swaption
+- treasury
+- vol-smile
+- yield-curve
+- yield-spread
+- z-spread
+- z_spread
 ---
 
 # Explaining the Lehman Brothers Option Adjusted Spread of a Corporate Bond
 
-*Claus M. Pedersen*
+*Claus M. Pedersen*  
 *February 27, 2006*
 
 ## 1. Introduction
@@ -88,19 +172,23 @@ The rest of this article is divided into five sections:
 Consider a bond that has $N>0$ remaining payments to be paid at times $t_i$, $i=1,...,N$. Let $C_i$ denote the size of the payment (in dollars) scheduled for time $t_i$. Finally, let $r(t)$ denote the continuously compounded zero-coupon rate for discounting to time $t$.
 
 The discounted value of the bond payments is:
+
 $$\exp(-r(t_1)t_1)C_1+...+\exp(-r(t_N)t_N)C_N$$
 
 The payment times, $t_1,...,t_N$, are measured in years by taking the actual number of days from the valuation date to the payment date and dividing by 365.25.
 
 The value in (2.1) will generally be different from the market price of the bond. The continuously compounded $Z$-spread is the constant $z$ that solves the equation:
+
 $$\text{Market Price}=\exp(-(r(t_1)+z)t_1)C_1+...+\exp(-(r(t_N)+z)t_N)C_N$$
 
 where Market Price is the full (dirty) price of the bond that includes accrued interest. Notice that two conventions have been used: continuous compounding and actual/365.25 daycount.
 
 The market standard for quoting a $Z$-spread is to use the conventions of the bond (semi-annual compounding (in US) with 30/360 daycount). With simple compounding, equation (2.2) becomes:
+
 $$\text{Market Price}=\frac{C_1}{(1+\Delta(R(T_1)+Z))^{T_1/\Delta}}+...+\frac{C_N}{(1+\Delta(R(T_N)+Z))^{T_N/\Delta}}$$
 
 where $\Delta=0.5$ for semi-annual compounding, $T_1,...,T_N$ are the payment times measured in years using the 30/360 bond daycount convention, and the interest rates $R(T_1),...,R(T_N)$ are related to the continuously compounded rates by:
+
 $$\exp(r(t_i)t_i)=(1+\Delta R(T_i))^{T_i/\Delta}$$
 
 ### The Z-spread is a more detailed measure than a standard yield spread
@@ -163,19 +251,27 @@ where Market Price is the observed price of the callable bond, the first terms o
 
 We value the option using a model that has been implemented in a recombining tree (lattice) for the short rate. The short rate is the continuously compounded interest rate earned over one period in the lattice. This is called a short rate model and is shown in Fig. 3.1.
 
-!Figure 3.1. Example of a short-rate model
+**Figure 3.1. Example of a short-rate model**
+
+![Figure 3.1](!Figure%203.1.%20Example%20of%20a%20short-rate%20model)
 
 To value a security in this type of model we determine the security's cash flow in each state (i.e., node) and discount backwards in the tree. For example, if we value the bullet bond with the cash flow shown in Figure 3.2 (think of this as the stripped bond underlying the call option we want to value), we get the values shown in Figure 3.3.
 
-!Figure 3.2. Cash flow of a bullet bond
+**Figure 3.2. Cash flow of a bullet bond**
 
-!Figure 3.3. Values of a bullet bond
+![Figure 3.2](!Figure%203.2.%20Cash%20flow%20of%20a%20bullet%20bond)
+
+**Figure 3.3. Values of a bullet bond**
+
+![Figure 3.3](!Figure%203.3.%20Values%20of%20a%20bullet%20bond)
 
 The value of a security in a given state is the expected value of the security in the next period (including cash flow/coupon) discounted with the short rate in the state. This procedure is also used to price a call option on the bullet bond. Suppose the exercise price of the call option is 100. The option is then worthless at time 2 (end of 2nd period) and in the 6% rate state at time 1. In the 4% rate state at time 1, the option should be exercised because it is worthless at time 2 and worth $100.8829-100=0.8892$ if exercised. At time 0 the option is worth $\exp(-5\%)\cdot0.5\cdot0.8829=0.4199$ if it is not exercised and has a negative value if it is exercised. This means that the option should not be exercised at time 0 and is worth 0.4199.
 
 As explained above, when we value the call option we need to make sure that the underlying bond is priced correctly. For example, if the value of the bond is 98.8 and not 99.8 as in Figure 3.3, we need to adjust the interest rates in the tree with the OAS of the bond. This adjustment is done, as illustrated in Figure 3.4, by increasing the continuously compounded short rate in all states by the OAS.
 
-!Figure 3.4. The short rate model with OAS
+**Figure 3.4. The short rate model with OAS**
+
+![Figure 3.4](!Figure%203.4.%20The%20short%20rate%20model%20with%20OAS)
 
 If we choose an $\text{OAS}=50\text{bp}$ we get a bullet bond price of 98.7997. With this OAS the call option is worth only 0.1797. This means that if the callable bond (the bullet bond minus the call option) was trading at $98.80–0.18=98.62$, the callable bond would have a 50bp OAS.
 
@@ -191,7 +287,7 @@ $$\begin{array}{rl}
 &=\exp(-(5\%+Z))\cdot(5+0.5\cdot\exp(-(6\%+Z))\cdot105+0.5\cdot\exp(-(4\%+Z))\cdot105)
 \end{array}$$
 
-but this is also the value of the bond calculated in the tree when rates have been shifted by an $\text{OAS}=Z$. This shows that the OAS and $Z$-spread are the same. The two assumptions that make this calculation work are: (1) bond payments for a given time are independent of the state; and (2) with continuous compounding the OAS adjustment becomes a multiplicative factor on the discount factors (i.e. $\exp(-(R+Z)\cdot T)=\exp(-R\cdot T)\cdot\exp(-Z\cdot T))$
+but this is also the value of the bond calculated in the tree when rates have been shifted by an $\text{OAS}=Z$. This shows that the OAS and $Z$-spread are the same. The two assumptions that make this calculation work are: (1) bond payments for a given time are independent of the state; and (2) with continuous compounding the OAS adjustment becomes a multiplicative factor on the discount factors (i.e. $\exp(-(R+Z)\cdot T)=\exp(-R\cdot T)\cdot\exp(-Z\cdot T)$)
 
 ## 4. The Stochastic Term Structure Model
 
@@ -249,13 +345,17 @@ The volatility parameters $\sigma(t)$, $t\geq0$, determine the volatility of $\d
 
 To better understand the effects of the shift, consider the following example. Suppose the short rate starts at 5% and has a one-period simple volatility of 20%. If we model this in a binomial tree we get the results illustrated in Figure 4.1.
 
-!Figure 4.1. Binomial tree for lognormal model
+**Figure 4.1. Binomial tree for lognormal model**
+
+![Figure 4.1](!Figure%204.1.%20Binomial%20tree%20for%20lnormal%20model)
 
 After one period, the short rate either goes up to $1.2\cdot5\%=6\%$ or down to $0.8\cdot5\%=4\%$. In the second period, if the rate increased in the first period, it either increases to $1.2\cdot6\%=7.2\%$ or decreases to $0.8\cdot6\%=4.8\%$ whereas if the rate decreased the first period, it either increases to $1.2\cdot4\%=4.8\%$ or decreases to $0.8\cdot4\%=3.2\%$. In the second period, the volatility in the up state is $20\%=7.2\%/6\%-1=-(4.8\%/6\%-1)$. In the down state, the volatility is also $20\%=4.8\%/4\%-1=1-3.2\%/4\%$.
 
 Now consider the model with a 45% shift (Figure 4.2). Suppose we use a volatility parameter of 2%. This means that after one period the short rate either increases to $1.02\cdot(5\%+45\%)-45\%=6\%$ or decreases to $0.98\cdot(5\%+45\%)-45\%=4\%$. We see that this is the same 20% volatility that we got in Figure 4.1 without a shift. In the second period, if the rate increases to 6%, it either continues up to $1.02\cdot(6\%+45\%)-45\%=7.02\%$ or falls to $0.98\cdot(6\%+45\%)-45\%=4.98\%$. This implies a volatility of $17\%=7.02\%/6\%-1=-(4.98\%/6\%-1)$ which is below the 20% in the non-shifted model. On the other hand, if the rate decreases in the first period, it will either rise to $1.02\cdot(4\%+45\%)-45\%=4.98\%$ or decrease to $0.98\cdot(4\%+45\%)-45\%=3.02\%$ in the second period. So if the rate decreases in the first period, the volatility over the second period is $24.5\%=4.98\%/4\%-1=-(3.02\%/4\%-1)$ which is higher than the 17% volatility faced if the rate increases in the first period.
 
-!Figure 4.2. Binomial tree for shifted lognormal model
+**Figure 4.2. Binomial tree for shifted lognormal model**
+
+![Figure 4.2](!Figure%204.2.%20Binomial%20tree%20for%20shifted%20lnormal%20model)
 
 ### Comments about our model choices
 
@@ -280,28 +380,50 @@ In this section we show differences in the volatility calibration for the BK and
 
 Figure 5.1 shows the fitted zero-coupon LIBOR curves on the two dates. The differences between the two dates are very clear.
 
-!Figure 5.1. Zero-coupon USD LIBOR interest rates
+**Figure 5.1. Zero-coupon USD LIBOR interest rates**
+
+![Figure 5.1](!Figure%205.1.%20Zero-coupon%20USD%20LIBOR%20interest%20rates)
 
 Figure 5.2 shows implied Black volatilities for a subset of the ATM swaptions to which we calibrate the volatility parameters. Notice that the volatilities for short-term swaptions on short-term swaps (e.g., for 3-month into 1-year) are much higher on June 28, 2004 than on January 23, 2006 whereas the volatilities for long-term swaptions on long-term swaps are lower.
 
+### Table 1: Implied Black Volatilities (%) for At-the-Money Swaptions
+
+```latex
+\begin{document}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Date & Swap Term & \multicolumn{6}{c|}{Option Maturity} \\ \hline
+28-Jun-2004 & & 3M & 1Y & 2Y & 5Y & 10Y & 30Y \\ \hline
+& 1Y & 37.0 & 30.2 & 24.8 & 18.7 & 13.6 & 9.5 \\ \hline
+& 2Y & 33.8 & 27.5 & 23.2 & 18.0 & 13.1 & 9.4 \\ \hline
+& 3Y & 30.5 & 25.4 & 22.0 & 17.3 & 12.8 & 9.3 \\ \hline
+& 5Y & 26.1 & 22.4 & 20.0 & 16.2 & 12.1 & 9.2 \\ \hline
+& 10Y & 20.1 & 18.4 & 17.1 & 14.3 & 10.9 & 8.5 \\ \hline
+& 30Y & 14.2 & 13.4 & 12.7 & 10.9 & 9.0 & 6.1 \\ \hline
+23-Jan-2006 & & 3M & 1Y & 2Y & 5Y & 10Y & 30Y \\ \hline
+& 1Y & 13.5 & 17.7 & 20.2 & 20.4 & 18.0 & 12.7 \\ \hline
+& 2Y & 15.8 & 18.7 & 20.1 & 20.1 & 17.7 & 12.8 \\ \hline
+& 3Y & 16.2 & 18.8 & 19.9 & 19.8 & 17.4 & 12.8 \\ \hline
+& 5Y & 16.7 & 18.8 & 19.6 & 19.2 & 16.7 & 12.8 \\ \hline
+& 10Y & 16.1 & 18.1 & 18.6 & 17.9 & 15.7 & 12.4 \\ \hline
+& 30Y & 15.3 & 16.4 & 16.4 & 15.3 & 13.6 & 11.8 \\ \hline
+\end{tabular}
+\end{document}
+```
+
 **Figure 5.2. Implied Black volatilities (%) for at-the-money swaptions on 28 June 2004 and 23 January 2006 for USD**
 
-<table>
-<tr><td><b>28-Jun-2004</b></td><td colspan="6"><b>Option Maturity</b></td><td><b>23-Jan-2006</b></td><td colspan="6"><b>Option Maturity</b></td></tr>
-<tr><td><b>Swap Term</b></td><td>3M</td><td>1Y</td><td>2Y</td><td>5Y</td><td>10Y</td><td>30Y</td><td><b>Swap Term</b></td><td>3M</td><td>1Y</td><td>2Y</td><td>5Y</td><td>10Y</td><td>30Y</td></tr>
-<tr><td>1Y</td><td>37.0</td><td>30.2</td><td>24.8</td><td>18.7</td><td>13.6</td><td>9.5</td><td>1Y</td><td>13.5</td><td>17.7</td><td>20.2</td><td>20.4</td><td>18.0</td><td>12.7</td></tr>
-<tr><td>2Y</td><td>33.8</td><td>27.5</td><td>23.2</td><td>18.0</td><td>13.1</td><td>9.4</td><td>2Y</td><td>15.8</td><td>18.7</td><td>20.1</td><td>20.1</td><td>17.7</td><td>12.8</td></tr>
-<tr><td>3Y</td><td>30.5</td><td>25.4</td><td>22.0</td><td>17.3</td><td>12.8</td><td>9.3</td><td>3Y</td><td>16.2</td><td>18.8</td><td>19.9</td><td>19.8</td><td>17.4</td><td>12.8</td></tr>
-<tr><td>5Y</td><td>26.1</td><td>22.4</td><td>20.0</td><td>16.2</td><td>12.1</td><td>9.2</td><td>5Y</td><td>16.7</td><td>18.8</td><td>19.6</td><td>19.2</td><td>16.7</td><td>12.8</td></tr>
-<tr><td>10Y</td><td>20.1</td><td>18.4</td><td>17.1</td><td>14.3</td><td>10.9</td><td>8.5</td><td>10Y</td><td>16.1</td><td>18.1</td><td>18.6</td><td>17.9</td><td>15.7</td><td>12.4</td></tr>
-<tr><td>30Y</td><td>14.2</td><td>13.4</td><td>12.7</td><td>10.9</td><td>9.0</td><td>6.1</td><td>30Y</td><td>15.3</td><td>16.4</td><td>16.4</td><td>15.3</td><td>13.6</td><td>11.8</td></tr>
-</table>
+![Figure 5.2](!Figure%205.2.%20Implied%20Black%20volatilities%20(%25)%20for%20at-the-money%20swaptions%20on%2028%20June%202004%20and%2023%20January%202006%20for%20USD)
 
 Figures 5.3 and 5.4 show a subset of the calibrated volatility parameters for the two dates using the two different models. In Figure 5.3 we see that on June 28, 2004 the BK volatility parameter curve for the shortest bond maturity (3Y) is the highest, whereas the curve for the longest bond maturity (30Y) is the lowest, and we see that this relationship has switched on January 23, 2006. This observation can also be made for the shifted BK model in Figure 5.4. The volatility parameter curves have very similar shapes in the two models and both capture the market information about the volatility changes seen in Figure 5.2. We find it interesting that the relative change in the calibrated volatility parameters between the two dates is smaller in the 40% shifted model.
 
-!Figure 5.3. Calibrated volatility parameters for BK model
+**Figure 5.3. Calibrated volatility parameters for BK model**
 
-!Figure 5.4. Calibrated volatility parameters for shifted BK model
+![Figure 5.3](!Figure%205.3.%20Calibrated%20volatility%20parameters%20for%20BK%20model)
+
+**Figure 5.4. Calibrated volatility parameters for shifted BK model**
+
+![Figure 5.4](!Figure%205.4.%20Calibrated%20volatility%20parameters%20for%20shifted%20BK%20model)
 
 ### Effect of volatility skew parameter (shift) on OAS
 
@@ -316,7 +438,9 @@ The two main observations regarding the effect of the model change on the OAS of
 
 The extent to which the option is in or out of the money affects the difference in the OAS in the two models. In the shifted model, high (rate) strike swaptions will have lower Black volatility, whereas the low (rate) strike swaptions will have a higher Black volatility (Figure 5.5). Since a high rate strike swaption corresponds to an option on a high-coupon bond, in-the-money call options will tend to have a higher OAS in the shifted BK model. This is because a lower Black volatility means a lower option value which gives rise to a lower value of the stripped bond (to keep the value of the callable bond constant, see equation (3.2)). A lower value of the stripped bond means a higher OAS. Similarly, an out-of-the-money call option will tend to have a lower OAS in the shifted model.
 
-!Figure 5.5. Implied Black volatilities for a 5-year into 5-year receiver swaption
+**Figure 5.5. Implied Black volatilities for a 5-year into 5-year receiver swaption**
+
+![Figure 5.5](!Figure%205.5.%20Implied%20Black%20volatilities%20for%20a%205-year%20into%205-year%20receiver%20swaption)
 
 ## 6. Adjusting for Default Risk
 

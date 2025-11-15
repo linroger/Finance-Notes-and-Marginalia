@@ -3,30 +3,54 @@ cssclasses: academia
 title: Advanced Financial Analysis and Valuation
 linter-yaml-title-alias: Advanced Financial Analysis and Valuation
 tags:
-  - advanced_finance
-  - dcf_valuation
-  - financial_analysis
-  - risk_management
-  - valuation
-  - corporate_finance
+- advanced_finance
+- corporate_finance
+- cost-of-capital
+- dcf
+- dcf-analysis
+- dcf_valuation
+- enterprise-value
+- financial_analysis
+- multiple
+- portfolio-optimization
+- risk_management
+- terminal-value
+- valuation
+- wacc
+- wacc-calculation
 aliases:
-  - Fin Analysis
-  - Financial Modeling
-  - Valuation
-  - Advanced Valuation
+- Fin Analysis
+- Financial Modeling
+- Valuation
+- Advanced Valuation
 key_concepts:
-  - Discounted Cash Flow (DCF) analysis
-  - Multiples-based valuation
-  - Financial statement analysis
-  - Enterprise value calculation
-  - WACC determination
-  - Terminal value estimation
-  - Risk assessment in valuation
-  - Cross-sectional and time-series analysis
+- Company valuation methodologies
+- Cross-sectional and time-series analysis
+- Derivative securities
+- Discounted Cash Flow (DCF) analysis
+- Discounted Cash Flow valuation
+- Discounted cash flow analysis
+- Enterprise value calculation
+- Enterprise value estimation
+- Financial risk management
+- Financial statement analysis
+- Free cash flow modeling
+- Gordon growth model
+- Industry analysis
+- Multi-stage DCF models
+- Multiples-based valuation
+- Portfolio optimization
+- Quantitative financial analysis
+- Risk assessment and mitigation
+- Risk assessment in valuation
+- Terminal value calculation
+- Terminal value estimation
+- WACC calculation
+- WACC determination
+- Weighted Average Cost of Capital
 ---
 
 # Advanced Financial Analysis and Valuation
-
 %% Begin Waypoint %%
 - **Advanced Financial Analysis and Valuation**
 	- Advanced Financial Analysis and Valuation
@@ -44,5 +68,4 @@ key_concepts:
 	- Porter's Five Forces
 	- **Problem Sets**
 	- Warren Buffet Case Study
-
 %% End Waypoint %%

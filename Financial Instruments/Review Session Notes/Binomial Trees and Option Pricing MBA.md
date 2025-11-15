@@ -1,121 +1,261 @@
 ---
-cssclasses:
-  - academia
-linter-yaml-title-alias: Binomial Trees and Option Pricing MBA
 title: Binomial Trees and Option Pricing MBA
-tags:
-  - binomial_tree
-  - capm
-  - option_pricing
-  - risk_neutral
-  - stock_valuation
-  - dynamic_replication
-  - comparative_statics
 aliases:
-  - BOPM
-  - Binomial Option Pricing
-  - Option Valuation
-  - Single-Period Option Model
+- BOPM
+- Binomial Option Pricing
+- Option Valuation
+- Single-Period Option Model
 key_concepts:
-  - ATM option valuation
-  - Binomial tree parameters
-  - CAPM formula
-  - Risk neutral probability
-  - Stock price at maturity
-  - Dynamic replication strategies
-  - Single-period option pricing
-  - Risk-neutral methodology
+- ATM option valuation
+- American options valuation
+- Backward induction algorithm
+- Beta calculation
+- Binomial option pricing model
+- Binomial tree parameters
+- CAPM formula
+- Capital Asset Pricing Model
+- Convergence to Black-Scholes
+- Cost of equity estimation
+- Cox-Ross-Rubinstein framework
+- Delta risk management
+- Derivative securities
+- Dynamic hedging strategies
+- Dynamic replication strategies
+- Financial risk management
+- Gamma effects on options
+- Lattice methods for derivatives
+- Market efficiency implications
+- Market portfolio
+- Multi-period binomial tree
+- Options Greeks measurement
+- Portfolio optimization
+- Portfolio risk hedging
+- Quantitative financial analysis
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Risk neutral probability
+- Risk-neutral methodology
+- Risk-neutral probability
+- Risk-return tradeoff
+- Security Market Line
+- Single-period option pricing
+- Stock price at maturity
+- Systematic vs idiosyncratic risk
+- Theta time decay
+- Vega volatility sensitivity
+tags:
+- binomial
+- binomial-tree
+- bond
+- call
+- capm
+- comparative-statics
+- dynamic-replication
+- exam-prep
+- greeks
+- interest-rate
+- market-risk
+- market-risk-premium
+- option
+- option-pricing
+- review-session
+- risk-free-rate
+- risk-neutral
+- stock
+- stock-valuation
 ---
 
 # Binomial Trees and Option Pricing MBA
-## 1. BINOMIAL TREES IN PHARMACEUTICALS
 
-### 1.1. PARAMETERS
+## Key Concepts
 
-[^1]: Let $i$ denote a pharmaceutical company
-[^2]: Stock price at maturity $t = T$: $S_{T, i} \in \{S_d, S_u\}$
-   a. Decrease scenario: $S_d$
-   b. Increase scenario: $S_u$
-[^3]: Probability distribution at maturity $t = T$
-   a. Decrease scenario: $q$
-   b. Increase scenario: $1 - q$
-[^4]: Systematic risk: $\beta_i$
-[^5]: Annualized risk-free interest rate (continuously compounded): $r_f$
-[^6]: Annualized expected excess return (annually compounded): $E[R_m] - r_f$
+### Binomial Model Overview
+The Binomial Option Pricing Model (BOPM) is a discrete-time approach to option valuation that models stock price movements using a **binomial tree**. At each period, the stock price can either move **up** or **down** by specified factors.
 
-### 1.2. CAPM
+### Key Parameters
+- **Stock price at inception**: $S_0$
+- **Up factor**: $u$ (stock price increases to $S_u = u \cdot S_0$)
+- **Down factor**: $d$ (stock price decreases to $S_d = d \cdot S_0$)
+- **Risk-free rate**: $r_f$ (continuously compounded)
+- **Systematic risk**: $\beta_i$ (for stock $i$)
 
-[^1]: Let $R_i$ denote the expected return on the stock of pharmaceutical company
-[^2]: Note $R_i$ is a random variable because stock price $S_{T, i} \in \{S_d, S_u\}$ at maturity $t = T$ is a random variable, and so the realization of $R$ depends on the realization of $S_T$.
-[^3]: Relationship between continuously compounded and annually compounded interest rates:
+### CAPM Relationship
+The Capital Asset Pricing Model (CAPM) relates expected return to systematic risk:
+$$E[R_i] = \bar{r}_f + \beta_i \cdot [E[R_m] - r_f]$$
 
-   $$1 + \bar{r}_f = \exp(r_f)$$
+Where:
+- $E[R_i]$ = expected return on stock $i$
+- $\bar{r}_f$ = risk-free rate (annually compounded)
+- $E[R_m] - r_f$ = market risk premium
 
-   $$1 + \bar{r}_f = \exp(-r_f)$$
+### Two Pricing Approaches
 
-[^4]: CAPM formula:
+1. **Dynamic Replication**: Construct a hedging portfolio that replicates option payoff
+2. **Risk-Neutral Valuation**: Use risk-neutral probabilities to price the option
 
-   $$E[R_i] = \bar{r}_f + \beta_i \cdot [E[R_m] - r_f]$$
+## Formulas/Math
 
-[^5]: Note $E[R_i]$ varies (linearly) with $\beta_i$.
+### Stock Price Evolution
 
-### 1.3. STOCK VALUATION AT INCEPTION
+**At maturity $t = T$:**
+$$S_{T, i} \in \{S_d, S_u\}$$
 
-[^1]: The stock price $S_{0, i}$ at inception $t = 0$ is equal to the expected discounted stock price at maturity $t = T$.
-[^2]: Expected stock price at maturity $t = T$ (i.e., the mean of the random variable $S_{T, i}$):
+**Expected stock price at $t = T$ under analyst probability $q$:**
+$$E_q[S_{T, i}] = q \cdot S_u + (1 - q) \cdot S_d$$
 
-   $$E_q[S_{T, i}] = q \cdot S_u + (1 - q) \cdot S_d$$
+**Present value at $t = 0$:**
+$$(1 + E[R_i]) \cdot S_{0, i} = E[S_{T, i}]$$
 
-[^3]: Use expected stock price return $E[R_i]$ to compute present-value at inception:
-   $$(1 + E[R_i]) \cdot S_{0, i} = E[S_{T, i}]$$
+### Dynamic Replication for ATM Options
 
-### 1.4. AT-THE-MONEY OPTION UNDER DYNAMIC REPLICATION
+An **at-the-money (ATM)** option has strike price $K_i = S_{0, i}$.
 
-[^1]: An **at-the-money** ("ATM") call option features a strike price $K_i$ equal to the current spot stock price $S_0$ at inception $t = 0$, i.e. $K_i = S_{0, i}$
-[^2]: Payoff from option at maturity $t = T$ depends on realized stock price $S_{T, i}$ at maturity:
-   $$c(S_{T, i}) = \begin{cases} \max\{S_d - K_i, 0\} & \text{if } S_{T, i} = S_d \\ \max\{S_u - K_i, 0\} & \text{if } S_{T, i} = S_u \end{cases}$$
-[^3]: Value of position in stocks at inception $t = 0$:
-   $$\Delta_{i, 0} = \frac{\max\{S_u - K_i, 0\} - \max\{S_d - K_i, 0\}}{S_u - S_d}$$
-[^4]: Value of position in bonds at inception $t = 0$:
-   $$B_0 = e^{(-r_f)} \cdot [\max\{S_u - K_i, 0\} - \Delta_{i, 0} \cdot S_u]$$
-[^5]: Value of ATM option at inception $t = 0$:
+**Option payoff at maturity:**
+$$c(S_{T, i}) = \begin{cases} 
+\max\{S_d - K_i, 0\} & \text{if } S_{T, i} = S_d \\
+\max\{S_u - K_i, 0\} & \text{if } S_{T, i} = S_u
+\end{cases}$$
 
-   $$V_0^{\text{ATM}} = \Delta_{i, 0} \cdot S_{0, i} + B_0$$
+**Position in stocks (delta):**
+$$\Delta_{i, 0} = \frac{\max\{S_u - K_i, 0\} - \max\{S_d - K_i, 0\}}{S_u - S_d}$$
 
-[^6]: Payoff from dynamic replication portfolio at maturity $t = T$ should replicate the payoff from the option:
+**Position in bonds:**
+$$B_0 = e^{(-r_f)} \cdot [\max\{S_u - K_i, 0\} - \Delta_{i, 0} \cdot S_u]$$
 
-   $$V_{T, i}^{DR}(S_{T, i}) = \begin{cases} \Delta_{i, 0} \cdot S_d + \exp(r_f) \cdot B_0 & \text{if } S_{T, i} = S_d \\ \Delta_{i, 0} \cdot S_u + \exp(r_f) \cdot B_0 & \text{if } S_{T, i} = S_u \end{cases}$$
+**Option value:**
+$$V_0^{\text{ATM}} = \Delta_{i, 0} \cdot S_{0, i} + B_0$$
 
-### 1.5. AT-THE-MONEY OPTION UNDER RISK NEUTRAL METHODOLOGY
+**Replication portfolio payoff at $t = T$:**
+$$V_{T, i}^{DR}(S_{T, i}) = \begin{cases} 
+\Delta_{i, 0} \cdot S_d + e^{r_f} \cdot B_0 & \text{if } S_{T, i} = S_d \\
+\Delta_{i, 0} \cdot S_u + e^{r_f} \cdot B_0 & \text{if } S_{T, i} = S_u
+\end{cases}$$
 
-[^1]: Risk neutral probability: The probability such that the risky asset (stock) yields an expected (gross) return equal to that of the risk-free asset (bond):
-   $$q^* \cdot \frac{S_u}{S_0} + (1 - q^*) \cdot \frac{S_d}{S_0} = e^{r_f}$$
+### Risk-Neutral Methodology
 
-[^2]: Expected stock price at maturity $t = T$ under risk neutral probability:
-   $$E_{q^*}[S_{T, i}] = q^* \cdot S_u + (1 - q^*) \cdot S_d$$
+**Risk-neutral probability $q^*$:** Equates expected stock return to risk-free return
+$$q^* \cdot \frac{S_u}{S_0} + (1 - q^*) \cdot \frac{S_d}{S_0} = e^{r_f}$$
 
-[^3]: Expected stock price at maturity $t = T$ under analysts' probability:
-   $$E_q[S_{T, i}] = q \cdot S_u + (1 - q) \cdot S_d$$
+**Expected stock price under risk-neutral probability:**
+$$E_{q^*}[S_{T, i}] = q^* \cdot S_u + (1 - q^*) \cdot S_d$$
 
-[^4]: Question: Why may the probabilities $(q, q^*)$ differ?
+**Option value under risk-neutral pricing:**
+$$V_0^{\text{ATM}} = e^{-r_f} \cdot [q^* \cdot \max\{S_u - K_i, 0\} + (1 - q^*) \cdot \max\{S_d - K_i, 0\}]$$
 
-[^5]: Value of ATM option under risk neutral methodology at inception $t = 0$:
-   $$V_0^{\text{ATM}} = \exp(-r_f) \cdot [q^* \cdot \max\{S_u - K_i, 0\} + (1 - q^*) \cdot \max\{S_d - K_i, 0\}]$$
+### Interest Rate Conversions
 
-### 1.6. OPTION VALUE COMPARATIVE STATICS
+**Continuous to annual:**
+$$1 + \bar{r}_f = \exp(r_f)$$
 
-#### 1.6.1. CHANGE IN ANALYST PROBABILITIES
+**Annual to continuous:**
+$$1 + \bar{r}_f = \exp(-r_f)$$
 
-[^1]: Suppose that $q$ changes.
-[^2]: All else equal, $E_q[S_{T, i}]$ changes because the probability distribution has changed.
-[^3]: In turn, the present-value of the stock price $S_0$ at inception $t = 0$ changes.
-[^4]: Furthermore, the risk neutral probability $q^*$ changes due to change in $S_0$.
+## Examples
 
-#### 1.6.2. CHANGE IN MARKET EXPOSURE
+### Example 1: ATM Call Option Pricing
 
-[^1]: Suppose that $\beta_i$ changes.
-[^2]: All else equal, $E[R_i]$ changes by CAPM formula.
-[^3]: In turn, the present-value of the stock price $S_0$ at inception $t = 0$ changes.
-[^4]: Furthermore, the risk neutral probability $q^*$ changes due to change in $S_0$.
+**Given:**
+- $S_0 = 100$, $K = 100$ (ATM)
+- Up factor: $u = 1.10$ (stock rises 10%)
+- Down factor: $d = 0.90$ (stock falls 10%)
+- Risk-free rate: $r_f = 5\%$ (continuous)
+- Analyst probability of up: $q = 0.60$
 
----
+**Step 1: Calculate option payoffs**
+- If up: $\max\{110 - 100, 0\} = 10$
+- If down: $\max\{90 - 100, 0\} = 0$
+
+**Step 2: Dynamic Replication**
+$$\Delta_0 = \frac{10 - 0}{110 - 90} = 0.5$$
+
+$$B_0 = e^{-0.05} \cdot [10 - 0.5 \cdot 110] = 0.9512 \cdot [-45] = -42.80$$
+
+$$V_0 = 0.5 \cdot 100 + (-42.80) = 50 - 42.80 = 7.20$$
+
+**Result:** Option value = **$7.20**
+
+**Step 3: Risk-Neutral Method**
+
+First, solve for $q^*$:
+$$q^* \cdot \frac{110}{100} + (1 - q^*) \cdot \frac{90}{100} = e^{0.05}$$
+
+$$q^* \cdot 1.10 + (1 - q^*) \cdot 0.90 = 1.0513$$
+
+$$1.10q^* + 0.90 - 0.90q^* = 1.0513$$
+
+$$0.20q^* = 0.1513$$
+
+$$q^* = 0.7565$$
+
+**Option value:**
+$$V_0 = e^{-0.05} \cdot [0.7565 \cdot 10 + (1 - 0.7565) \cdot 0]$$
+
+$$V_0 = 0.9512 \cdot 7.565 = 7.20$$
+
+**Consistency Check:** Both methods give the same result!
+
+### Example 2: CAPM and Stock Valuation
+
+**Given:**
+- $S_0 = 50$
+- $\beta_i = 1.5$
+- $r_f = 3\%$ (continuous) → $\bar{r}_f = 3.045\%$
+- $E[R_m] - r_f = 8\%$
+- $q = 0.55$, $u = 1.20$, $d = 0.80$
+
+**Step 1: Calculate expected return using CAPM**
+$$E[R_i] = 0.03045 + 1.5 \cdot 0.08 = 0.15045 = 15.045\%$$
+
+**Step 2: Calculate expected stock price at T**
+$$E[S_T] = 0.55 \cdot 60 + 0.45 \cdot 40 = 33 + 18 = 51$$
+
+**Step 3: Verify present value**
+$$(1 + 0.15045) \cdot 50 = 57.52 \neq 51$$
+
+**Analysis:** The expected return implies a different present value than current price, suggesting either:
+- Market inefficiency
+- Risk premium adjustment needed
+- Probability estimates need revision
+
+## Study Points
+
+### Key Formulas Summary
+
+**Dynamic Replication:**
+- $\Delta = \frac{c_u - c_d}{S_u - S_d}$
+- $B = e^{-rT} \cdot (c_u - \Delta \cdot S_u)$
+- $V_0 = \Delta \cdot S_0 + B$
+
+**Risk-Neutral Pricing:**
+- Solve $q^*$ from: $q^* \cdot u + (1 - q^*) \cdot d = e^{r_f}$
+- $V_0 = e^{-r_f} \cdot [q^* \cdot c_u + (1 - q^*) \cdot c_d]$
+
+**CAPM:**
+- $E[R_i] = \bar{r}_f + \beta_i \cdot (E[R_m] - r_f)$
+
+### Comparative Statics
+
+**Change in Analyst Probabilities ($q$):**
+- Affects $E[S_T]$ and $S_0$
+- Changes risk-neutral probability $q^*$
+- Impacts option valuation indirectly
+
+**Change in Market Exposure ($\beta_i$):**
+- Affects expected return $E[R_i]$
+- Changes present value of stock
+- Influences risk-neutral pricing
+
+### Exam Strategies
+
+1. **Identify pricing method** - Dynamic replication or risk-neutral
+2. **Calculate $\Delta$** - Number of shares to hold
+3. **Compute bond position** - Amount to borrow/lend
+4. **Verify consistency** - Check both methods give same result
+5. **Interpret results** - Understand economic meaning
+
+### Common Pitfalls
+
+- Confusing analyst probability $q$ with risk-neutral probability $q^*$
+- Forgetting to discount bond position
+- Using annual vs. continuous compounding incorrectly
+- Not recognizing ATM vs. ITM/OTM options

@@ -3,22 +3,56 @@ cssclasses: academia
 linter-yaml-title-alias: BINOMIAL TREES AND MONTE CARLO SIMULATIONS
 title: Teaching Note 5 Risk Neutral Pricing
 tags:
-  - binomial_trees
-  - option_hedging
-  - replicating_portfolio
-  - risk_neutral_pricing
-  - zero_coupon_bond
+- american-options
+- arbitrage
+- asian-options
+- asset-pricing
+- binomial-model
+- binomial_trees
+- bond-durability
+- caps-floors
+- coupon-bonds
+- derivatives-pricing
+- european-options
+- forward-contracts
+- forward-rates
+- futures-contracts
+- government-bonds
+- hedging-strategies
+- ho-lee-model
+- interest-rates
+- lattice-models
+- libor
 aliases:
-  - Heaton
-  - Risk Neutrality
-  - TN5
+- Heaton
+- Risk Neutrality
+- TN5
 key_concepts:
-  - Binomial tree example
-  - Continuously compounded rate
-  - Option hedging strategy
-  - Relative pricing on trees
-  - Replicating portfolio concept
+- Monte Carlo simulation methods for derivatives pricing
+- Duration and interest rate risk measurement
+- Forward rate calculations and forward curve construction
+- Mortgage-backed securities and prepayment modeling
+- Arbitrage opportunities and relative value trading
+- Risk-neutral pricing and martingale measures
+- Term structure of interest rates and yield curves
+- 'Reference rates: SOFR, LIBOR, and rate transitions'
+- Futures contracts and forward pricing
+- Interest rate swaps and swap curve construction
+- Financial theory and academic research
+- Practical examples and implementation
+- Derivatives and structured financial instruments
+- Risk management techniques and best practices
+- Investment analysis and portfolio management
+- Financial valuation and pricing methodologies
+- Fixed income securities and bond markets
+- Asset pricing and derivatives valuation
+- Risk assessment and management frameworks
+last_enhanced: '2025-11-06 08:42:39'
 ---
+
+
+
+
 
 # Teaching Note 5 Risk Neutral Pricing
 

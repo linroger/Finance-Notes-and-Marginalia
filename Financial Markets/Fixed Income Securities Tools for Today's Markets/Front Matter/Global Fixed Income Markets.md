@@ -1,22 +1,128 @@
 ---
-tags:
-  - debt_securities
-  - fixed_income
-  - global_markets
-  - interest_rate_derivatives
-  - issuer_residence
 aliases:
-  - Debt Securities
-  - Fixed Income Overview
-  - Global Debt Markets
-  - Interest Rate Derivatives
+- Debt Securities
+- Fixed Income Overview
+- Global Debt Markets
+- Interest Rate Derivatives
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Global Fixed Income Markets and financial analysis
+- Global Fixed Income Markets in modern finance
+- Applications of Global Fixed Income Markets
+- 'Case study: Global Fixed Income Markets'
+last_enhanced: '2025-11-06 08:42:36'
+- bond
+- cds
+- credit-risk
+- irs
+- treasury
+- fixed-income
+- hedging
+- derivatives
+- default
+- options
+- swaps
+- swap
+- credit
+- forward
+- futures
+tags:
+- abs
+- arbitrage
+- asian
+- austerity
+- banking
+- basis
+- bid-ask
+- bond
+- case-study
+- central-bank
+- credit-market
+- crisis-analysis
+- currency
+- default
+- derivative-pricing
+- derivatives
+- empirical-analysis
+- equity
+- european
+- european-debt-crisis
+- eurozone
+- financial-crisis
+- fixed-income
+- graduate-level
+- grexit
+- hedging
+- institutional-quality
+- learning-from-crisis
+- mathematical-finance
+- mbs
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- sec-regulation
+- securitization
+- sovereign
+- sovereign-debt
+- spread
+- treasury
+- yield-curve
+
 key_concepts:
-  - Debt by sector
-  - Debt securities issuers
-  - Global debt securities
-  - Government debt
-  - Interest rate derivatives
+- Austerity Measures
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Currency Union Risks
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- European Debt Crisis
+- European Integration
+- Eurozone Crisis Management
+- Financial Crisis Case Studies
+- Financial Markets and Institutions
+- Fiscal Integration
+- Greek Debt Crisis
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Sovereign Debt Restructuring
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # 0.1 GLOBAL FIXED INCOME MARKETS  
 

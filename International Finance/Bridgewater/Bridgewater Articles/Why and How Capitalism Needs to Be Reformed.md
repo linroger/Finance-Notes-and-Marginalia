@@ -1,20 +1,31 @@
 ---
 tags:
-  - american_dream
-  - capitalism_reform
-  - economic_inequality
-  - income_inequality
-  - wealth_gap
+- abs
+- american_dream
+- asset-pricing
+- banking
+- capitalism_reform
+- credit-risk
+- economic_inequality
+- income_inequality
+- interest-rates
+- wealth_gap
 aliases:
-  - Capitalism Reform
-  - Reforming Capitalism
+- Capitalism Reform
+- Reforming Capitalism
 key_concepts:
-  - Capitalism needs reform
-  - Economic investing game
-  - Equal opportunity is fair
-  - Self-reinforcing spirals
-  - Widening opportunity gaps
+- Financial theory and academic research
+- Practical examples and implementation
+- Investment analysis and portfolio management
+- Equity markets and stock valuation
+- International finance and global markets
+- Monetary policy and central banking
+last_enhanced: '2025-11-06 08:42:40'
 ---
+
+
+
+
 
 April 5 th, 2019
 

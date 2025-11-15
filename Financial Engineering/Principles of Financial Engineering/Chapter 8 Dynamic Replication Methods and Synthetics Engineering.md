@@ -1,27 +1,96 @@
 ---
 title: Dynamic Replication Methods and Synthetics Engineering
 tags:
-  - dynamic-replication
-  - synthetic-instruments
-  - financial-engineering
-  - delta-hedging
-  - options-replication
-  - static-replication
-  - black-scholes
-  - hedging-strategies
+- bid-ask
+- binomial
+- black-scholes
+- bond
+- call
+- convexity
+- counterparty
+- credit-risk
+- currency
+- defi
+- delta-hedging
+- duration
+- dynamic-replication
+- equity
+- european
+- exchange-rate
+- factor-model
+- financial-engineering
+- fixed-income
+- forward
+- future
+- greeks
+- hedge
+- hedging-strategies
+- interest-rate
+- liquidity
+- market-risk
+- monte-carlo
+- option
+- options-replication
+- pde
+- put
+- risk-free-rate
+- sde
+- static-replication
+- stock
+- synthetic-instruments
+- transaction-cost
+- vol-smile
+- yield-curve
 aliases:
-  - Chapter 8 Dynamic Replication
-  - Synthetic Instruments Engineering
-  - Dynamic Hedging Methods
+- Chapter 8 Dynamic Replication
+- Synthetic Instruments Engineering
+- Dynamic Hedging Methods
 key_concepts:
-  - Dynamic vs static replication
-  - Delta hedging
-  - Synthetic positions
-  - Black-Scholes framework
-  - Continuous rebalancing
-  - Path dependency
-  - Transaction costs
-  - Volatility estimation
+- American options valuation
+- Backward induction algorithm
+- Binomial option pricing model
+- Black-Scholes framework
+- Continuous rebalancing
+- Convergence to Black-Scholes
+- Convexity adjustment
+- Cox-Ross-Rubinstein framework
+- DV01 calculation
+- Delta hedging
+- Delta risk management
+- Delta-hedging implementation
+- Derivative securities
+- Duration measurement
+- Dynamic hedging strategies
+- Dynamic replication
+- Dynamic vs static replication
+- Financial risk management
+- Gamma effects on options
+- Gamma hedging techniques
+- Hedge ratio calculation
+- Hedging effectiveness
+- Hedging with bonds
+- Interest rate sensitivity
+- Lattice methods for derivatives
+- Modified duration calculation
+- Multi-period binomial tree
+- Options Greeks measurement
+- Path dependency
+- Portfolio immunization
+- Portfolio insurance methods
+- Portfolio optimization
+- Portfolio risk hedging
+- Price-yield relationship
+- Quantitative financial analysis
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Risk-neutral probability
+- Static hedging
+- Synthetic positions
+- Theta time decay
+- Transaction costs
+- Vega hedging strategies
+- Vega volatility sensitivity
+- Volatility estimation
 cssclasses: academia
 ---
 

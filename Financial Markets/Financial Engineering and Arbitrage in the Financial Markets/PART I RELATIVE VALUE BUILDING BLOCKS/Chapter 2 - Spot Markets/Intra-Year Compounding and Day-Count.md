@@ -1,21 +1,107 @@
 ---
-tags:
-  - accrued_interest
-  - bond_valuation
-  - coupon_bonds
-  - day_count_conventions
-  - intra_year_compounding
 aliases:
-  - Accrued Interest
-  - Day-Count
-  - Intra-Year Compounding
+- Accrued Interest
+- Day-Count
+- Intra-Year Compounding
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Intra-Year Compounding and Day-Count and financial analysis
+- Intra-Year Compounding and Day-Count in modern finance
+- Applications of Intra-Year Compounding and Day-Count
+- 'Case study: Intra-Year Compounding and Day-Count'
+last_enhanced: '2025-11-06 08:42:32'
+- maturity
+- coupon
+- interest-rate
+- options
+- fixed-income
+- bond
+- multiple
+- bonds
+- libor
+- corporate-bond
+- interest-rates
+- call
+- futures
+- basis
+- yield
+tags:
+- arbitrage
+- banking
+- basis
+- bid-ask
+- bond
+- case-study
+- crisis-analysis
+- derivative-pricing
+- derivatives
+- duration
+- empirical-analysis
+- fixed-income
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- sec-regulation
+- securitization
+- spread
+- yield-curve
+
 key_concepts:
-  - Accrued interest calculation
-  - Coupon bond example
-  - Day-count conventions
-  - Intra-year compounding
-  - Semi-annual bond yield
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 2.2 INTRA-YEAR COMPOUNDING AND DAY-COUNT  
 

@@ -1,33 +1,48 @@
 ---
-cssclasses:
-  - academia
-title: "Class Note 4: Restructuring Debt Outside Bankruptcy"
-tags:
-  - bank_debt
-  - bankruptcy
-  - bondholders
-  - public_debt
-  - renegotiation
-  - debt_restructuring
-  - going_concern_value
-  - trust_indenture_act
-  - debt_concessions
 aliases:
-  - Bank Debt
-  - Class Note 4
-  - Restructuring Outside Bankruptcy
-  - Debt Renegotiation
+- Bank Debt
+- Class Note 4
+- Restructuring Outside Bankruptcy
+- Debt Renegotiation
+cssclasses:
+- academia
 key_concepts:
-  - Bank lending limit
-  - Bankruptcy implications
-  - Private placement debt
-  - Public debt concessions
-  - Single bank lender
-  - Going concern value
-  - Trust indenture act
-  - Senior vs junior debt
-  - Debt covenant restrictions
-  - Me-first rules
+- Corporate bankruptcy process
+- Debt restructuring and workouts
+- Chapter 11 reorganization
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Class Note 4 Class Slide 4-Restructuring Debt Outside BankruptcyRestructuring Debt
+  Outside Bankruptcy and financial analysis
+- Class Note 4 Class Slide 4-Restructuring Debt Outside BankruptcyRestructuring Debt
+  Outside Bankruptcy in modern finance
+- Applications of Class Note 4 Class Slide 4-Restructuring Debt Outside BankruptcyRestructuring
+  Debt Outside Bankruptcy
+- 'Case study: Class Note 4 Class Slide 4-Restructuring Debt Outside BankruptcyRestructuring
+  Debt Outside Bankruptcy'
+tags:
+- call
+- fixed-income
+- maturity
+- bond
+- options
+- irs
+- swaps
+- bonds
+- bankruptcy
+- default
+- risk
+title: 'Class Note 4: Restructuring Debt Outside Bankruptcy'
 ---
 
 # Class Note 4: Restructuring Debt Outside Bankruptcy

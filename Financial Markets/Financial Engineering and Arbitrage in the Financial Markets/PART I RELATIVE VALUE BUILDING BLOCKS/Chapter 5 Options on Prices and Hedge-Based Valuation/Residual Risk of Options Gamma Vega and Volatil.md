@@ -1,21 +1,120 @@
 ---
-tags:
-  - delta_hedging
-  - gamma_risk
-  - options_pricing
-  - vega_risk
-  - volatility_risk
 aliases:
-  - Delta Hedge Risk
-  - Gamma Vega Volatility
-  - Residual Risk
+- Delta Hedge Risk
+- Gamma Vega Volatility
+- Residual Risk
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Black-Scholes-Merton option pricing model
+- Greeks calculation and interpretation
+- Volatility surface and smile
+- Residual Risk of Options Gamma Vega and Volatil and financial analysis
+- Residual Risk of Options Gamma Vega and Volatil in modern finance
+- Applications of Residual Risk of Options Gamma Vega and Volatil
+- 'Case study: Residual Risk of Options Gamma Vega and Volatil'
+last_enhanced: '2025-11-06 08:42:33'
+- put
+- gamma
+- risk-management
+- futures
+- expiry
+- hedge-ratio
+- basis
+- forward
+- options
+- strike
+- vega
+- var
+- black-scholes
+- hedging
+- delta
+tags:
+- arbitrage
+- banking
+- basis
+- bid-ask
+- case-study
+- central-bank
+- counterparty
+- credit-curve
+- credit-rating
+- crisis-analysis
+- currency
+- derivative-pricing
+- derivatives
+- econometric
+- empirical-analysis
+- equity
+- fair-value
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-analysis
+- quantitative-methods
+- real-world-example
+- spread
+- statistical-model
+- stress-test
+- var
+- volatility
+
 key_concepts:
-  - Binomial model
-  - Delta hedging
-  - Gamma risk
-  - Vega risk
-  - Volatility assumption
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Econometric Analysis
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Econometrics
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Mathematical Finance Applications
+- Mathematical Modeling
+- Quantitative Analysis in Finance
+- Quantitative Methods in Finance
+- Quantitative Risk Management
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Statistical Finance
+- Statistical Modeling
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 5.8 RESIDUAL RISK OF OPTIONS: GAMMA, VEGA, AND VOLATILITY  
 

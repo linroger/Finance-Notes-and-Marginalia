@@ -1,20 +1,122 @@
 ---
-tags:
-  - fixed_income
-  - libor
-  - pca
-  - principal_component_analysis
-  - term_structure
 aliases:
-  - PCA
-  - Principal Components
+- PCA
+- Principal Components
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Yield curve construction and modeling
+- Forward rate calculations
+- Spot and discount factors
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Principal Component Analysis and financial analysis
+- Principal Component Analysis in modern finance
+- Applications of Principal Component Analysis
+- 'Case study: Principal Component Analysis'
+last_enhanced: '2025-11-06 08:42:36'
+- risk-management
+- irs
+- var
+- interest-rate
+- hedging
+- pricing
+- arbitrage
+- swaps
+- swap
+- libor
+- basis
+- term-structure
+- hedge-ratio
+- futures
+- interest-rates
+tags:
+- arbitrage
+- austerity
+- banking
+- basis
+- bid-ask
+- bond
+- case-study
+- central-bank
+- credit-curve
+- crisis-analysis
+- currency
+- derivatives
+- duration
+- empirical-analysis
+- european
+- european-debt-crisis
+- eurozone
+- fixed-income
+- graduate-level
+- grexit
+- hedging
+- institutional-quality
+- learning-from-crisis
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- sec-regulation
+- securitization
+- sovereign-debt
+- spread
+- stress-test
+- treasury
+- var
+- volatility
+- yield-curve
+
 key_concepts:
-  - Empirical description of behavior
-  - Interest rate factors
-  - Principal components
-  - Regression hedging
-  - Term structure
+- Austerity Measures
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Currency Union Risks
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- European Debt Crisis
+- European Integration
+- Eurozone Crisis Management
+- Financial Crisis Case Studies
+- Financial Markets and Institutions
+- Fiscal Integration
+- Greek Debt Crisis
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Sovereign Debt Restructuring
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # 6.5 PRINCIPAL COMPONENT ANALYSIS  
 

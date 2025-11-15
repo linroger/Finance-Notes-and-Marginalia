@@ -1,35 +1,109 @@
 ---
 cssclasses: academia
-linter-yaml-title-alias: Class Note 1 - Borrower-Lender Conflicts and Implied Agency Problems
+linter-yaml-title-alias: Class Note 1 - Borrower-Lender Conflicts and Implied Agency
+  Problems
 title: Class Note 1 - Borrower-Lender Conflicts and Implied Agency Problems
-tags:
-  - agency_problems
-  - asset_substitution
-  - borrower_lender_conflicts
-  - capital_structure
-  - debt_holders
-  - leverage_effects
-  - capital_budgeting
-  - debt_covenants
-  - financial_incentives
+- agency_problems
+- asset_substitution
+- beta
+- bond
+- borrower_lender_conflicts
+- capital-structure
+- capital_budgeting
+- capital_structure
+- debt_covenants
+- debt_holders
+- equity
+- financial_incentives
+- interest-rate
+- leverage-ratio
+- leverage_effects
+- put
 aliases:
-  - Capital Budgeting
-  - Class Note 1
-  - Debt and Equity
-  - Incentive Conflicts
-  - Borrower-Lender Agency Problems
+- Capital Budgeting
+- Class Note 1
+- Debt and Equity
+- Incentive Conflicts
+- Borrower-Lender Agency Problems
+- Asset substitution theory
+- Capital budgeting decisions
+- Covenant changes and enforcement
+- Debt capacity calculation
+- Debt holder ownership claims
+- Derivative securities
+- Equity owner ownership claims
+- Financial risk management
+- Leverage and incentives
+- Owner-managed firms
+- Perverse incentive effects
+- Portfolio optimization
+- Quantitative financial analysis
+- Risk assessment and mitigation
+- Trust Indenture Act
+tags:
+- bank-failure
+- banking
+- bankruptcy
+- bond
+- cash-flow
+- covenant
+- default
+- deposit-insurance
+- derivatives
+- econometric
+- equity
+- financial-institutions
+- financial-markets
+- graduate-level
+- hedging
+- institutional-analysis
+- institutional-quality
+- leverage
+- leverage-ratio
+- market-structure
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-analysis
+- quantitative-methods
+- sec-regulation
+- securitization
+- sovereign
+- statistical-model
+
 key_concepts:
-  - Capital budgeting decisions
-  - Covenant changes and enforcement
-  - Debt holder ownership claims
-  - Equity owner ownership claims
-  - Leverage and incentives
-  - Owner-managed firms
-  - Asset substitution theory
-  - Perverse incentive effects
-  - Debt capacity calculation
-  - Trust Indenture Act
+- Banking and Financial Intermediation
+- Econometric Analysis
+- Financial Econometrics
+- Financial Intermediation and Banking
+- Financial Markets and Institutions
+- Institutional Analysis of Financial Systems
+- Institutional-Quality Financial Education
+- Market Structure and Microstructure
+- Mathematical Finance Applications
+- Mathematical Modeling
+- Quantitative Analysis in Finance
+- Quantitative Methods in Finance
+- Quantitative Risk Management
+- Regulatory Framework in Financial Markets
+- Risk Management and Hedging Strategies
+- Statistical Finance
+- Statistical Modeling
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
 
 # Class Note 1 - Borrower-Lender Conflicts and Implied Agency Problems
 

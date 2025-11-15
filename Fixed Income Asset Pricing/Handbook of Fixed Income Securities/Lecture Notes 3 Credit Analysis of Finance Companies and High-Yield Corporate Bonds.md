@@ -1,4 +1,62 @@
 ---
+tags:
+- abs
+- arbitrage
+- asset-pricing
+- banking
+- black-scholes-model
+- bond-convexity
+- bond-durability
+- caps-floors
+- cdo
+- convexity
+- corporate-bonds
+- coupon-bonds
+- credit-default-swaps
+- credit-derivatives
+- credit-rating
+- credit-risk
+- credit-spreads
+- default-probability
+- euribor
+- factor-investing
+key_concepts:
+- Black-Scholes option pricing model and its applications
+- Monte Carlo simulation methods for derivatives pricing
+- Duration and interest rate risk measurement
+- Convexity adjustments in fixed income
+- Yield curve modeling and term structure analysis
+- Forward rate calculations and forward curve construction
+- Credit default swaps and credit risk transfer
+- Value at Risk (VaR) and risk metrics
+- Stress testing and scenario analysis
+- Credit default swap pricing and spreads
+- Mortgage-backed securities and prepayment modeling
+- Arbitrage opportunities and relative value trading
+- Model calibration and parameter estimation
+- Term structure of interest rates and yield curves
+- 'Reference rates: SOFR, LIBOR, and rate transitions'
+- Futures contracts and forward pricing
+- Interest rate swaps and swap curve construction
+- Credit spreads and credit risk assessment
+- Liquidity risk management and measurement
+- Market microstructure and trading mechanisms
+- Financial theory and academic research
+- Practical examples and implementation
+- Derivatives and structured financial instruments
+- Trading strategies and market implementation
+- Risk management techniques and best practices
+- Financial regulation and compliance requirements
+- Investment analysis and portfolio management
+- Financial valuation and pricing methodologies
+- Fixed income securities and bond markets
+- Equity markets and stock valuation
+last_enhanced: '2025-11-06 08:42:40'
+---
+
+
+
+---
 title: Lecture Notes 3 Credit Analysis of Finance Companies and High-Yield Class
 Notes 2 – Corporate Bond Contracts | Corporate Bonds]]
 cssclasses:

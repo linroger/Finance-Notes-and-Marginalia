@@ -1,20 +1,115 @@
 ---
-tags:
-  - compounding
-  - continuous_compounding
-  - fixed_cash_flows
-  - interest_rate_quotations
-  - money_market
 aliases:
-  - Interest Rate Quotes
-  - Rate Quotations
+- Interest Rate Quotes
+- Rate Quotations
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest Rate Quotations and financial analysis
+- Interest Rate Quotations in modern finance
+- Applications of Interest Rate Quotations
+- 'Case study: Interest Rate Quotations'
+last_enhanced: '2025-11-06 08:42:36'
+- options
+- call
+- corporate-bond
+- fixed-income
+- discount
+- put
+- interest-rate
+- irs
+- bond
+- bonds
+- swap
+- interest-rates
+- swaps
+- maturity
+tags:
+- basis
+- bid-ask
+- bond
+- case-study
+- corporate-bond
+- crisis-analysis
+- currency
+- derivative-pricing
+- derivatives
+- duration
+- econometric
+- empirical-analysis
+- fixed-income
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- mathematical-finance
+- monetary-policy
+- money-market
+- professional-standard
+- provision
+- quantitative-analysis
+- quantitative-methods
+- real-world-example
+- sec-regulation
+- securitization
+- sovereign
+- spread
+- statistical-model
+- treasury
+- yield-curve
+
 key_concepts:
-  - Compounding frequency
-  - Continuous compounding
-  - Fixed cash flows
-  - Interest rates
-  - Simple interest
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Econometric Analysis
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Econometrics
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Mathematical Finance Applications
+- Mathematical Modeling
+- Quantitative Analysis in Finance
+- Quantitative Methods in Finance
+- Quantitative Risk Management
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Statistical Finance
+- Statistical Modeling
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # 2.1 INTEREST RATE QUOTATIONS  
 

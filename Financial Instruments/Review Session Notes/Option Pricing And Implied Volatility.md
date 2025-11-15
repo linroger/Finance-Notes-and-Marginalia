@@ -1,31 +1,62 @@
 ---
 cssclasses:
-  - academia
+- academia
 linter-yaml-title-alias: Option Pricing and Implied Volatility
 title: Option Pricing and Implied Volatility
 tags:
-  - black_scholes_model
-  - call_option
-  - delta_hedging
-  - implied_volatility
-  - option_pricing
-  - normal_distribution
-  - put_option
-  - financial_mathematics
+- black-scholes
+- black_scholes_model
+- call
+- call_option
+- delta_hedging
+- financial_mathematics
+- greeks
+- hedge
+- implied-vol
+- implied_volatility
+- interest-rate
+- normal_distribution
+- option
+- option_pricing
+- put
+- put_option
+- risk-free-rate
+- stock
 aliases:
-  - BSM
-  - Black-Scholes
-  - Option Pricing Model
-  - Volatility Calculation
+- BSM
+- Black-Scholes
+- Option Pricing Model
+- Volatility Calculation
 key_concepts:
-  - Delta hedging parameters
-  - Implied volatility extraction
-  - Risk-free rate influence
-  - Maturity effects on pricing
-  - Stock price and strike price relationship
-  - Volatility parameter estimation
-  - Normal distribution application
-  - Non-linear equation solving
+- Delta hedging parameters
+- Delta risk management
+- Delta-hedging implementation
+- Derivative securities
+- Dynamic hedging strategies
+- Dynamic replication
+- Financial risk management
+- Gamma effects on options
+- Gamma hedging techniques
+- Hedge ratio calculation
+- Hedging effectiveness
+- Implied volatility extraction
+- Maturity effects on pricing
+- Non-linear equation solving
+- Normal distribution application
+- Options Greeks measurement
+- Portfolio insurance methods
+- Portfolio optimization
+- Portfolio risk hedging
+- Quantitative financial analysis
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Risk-free rate influence
+- Static hedging
+- Stock price and strike price relationship
+- Theta time decay
+- Vega hedging strategies
+- Vega volatility sensitivity
+- Volatility parameter estimation
 ---
 
 # BLACK-SCHOLES MODEL OF OPTION PRICING

@@ -1,32 +1,63 @@
 ---
 title: Primary vs. Secondary Commodities
 tags:
-  - cash_and_carry
-  - commodity_prices
-  - convenience_yield
-  - extractive_commodities
-  - lease_rate
-  - primary_commodities
-  - primary_vs_secondary
-  - renewable_commodities
-  - secondary_commodities
-  - storage_costs
+- basis-swap
+- bond
+- cash_and_carry
+- classification
+- commodity
+- commodity_prices
+- convenience_yield
+- defi
+- euribor
+- exchange-rate
+- extractive_commodities
+- forward
+- future
+- gold
+- interest-rate
+- lease_rate
+- libor
+- oil
+- primary_commodities
+- primary_vs_secondary
+- real-estate
+- renewable_commodities
+- risk-free-rate
+- secondary_commodities
+- stock
+- storage_costs
+- swap
+- treasury
 aliases:
-  - Commodities Classification
-  - Commodity Prices
-  - Commodity Types
-  - Extractive vs Renewable
-  - Primary vs Secondary
+- Commodities Classification
+- Commodity Prices
+- Commodity Types
+- Extractive vs Renewable
+- Primary vs Secondary
 key_concepts:
-  - Cash-and-carry markets
-  - Commodity units
-  - Convenience yield
-  - Extractive commodities
-  - Lease rate
-  - Primary commodities
-  - Renewable commodities
-  - Secondary commodities
-  - Storage costs
+- Basis swap mechanics
+- Cash-and-carry markets
+- Commodity units
+- Convenience yield
+- Cross-currency basis
+- Currency swap structure
+- Derivative securities
+- Extractive commodities
+- Financial risk management
+- Fixed vs floating leg
+- Interest rate swap pricing
+- Lease rate
+- Portfolio optimization
+- Present value of swaps
+- Primary commodities
+- Quantitative financial analysis
+- Renewable commodities
+- Risk assessment and mitigation
+- Secondary commodities
+- Storage costs
+- Swap curve construction
+- Swaption valuation
 ---
 
 - Introduction to Derivative Markets]]

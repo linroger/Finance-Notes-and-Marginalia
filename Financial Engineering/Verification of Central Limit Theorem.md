@@ -1,21 +1,27 @@
 ---
 tags:
-  - central_limit_theorem
-  - distribution_function
-  - moment_generating_function
-  - random_variables
-  - standard_normal_distribution
+- central_limit_theorem
+- defi
+- distribution_function
+- moment_generating_function
+- random_variables
+- standard_normal_distribution
 aliases:
-  - CLT Verification
-  - Central Limit Theorem Proof
+- CLT Verification
+- Central Limit Theorem Proof
 key_concepts:
-  - Distribution function
-  - Independent random variables
-  - Moment generating function
-  - Random variable mean
-  - Random variable variance
-  - Standard normal distribution
-  - Taylor series expansion
+- Derivative securities
+- Distribution function
+- Financial risk management
+- Independent random variables
+- Moment generating function
+- Portfolio optimization
+- Quantitative financial analysis
+- Random variable mean
+- Random variable variance
+- Risk assessment and mitigation
+- Standard normal distribution
+- Taylor series expansion
 ---
 
 # Chapter 2 Additional Readings  

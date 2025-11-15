@@ -1,23 +1,70 @@
 ---
 title: Hedging Strategies with Forwards
 tags:
-  - continuous_dividends
-  - dividend_yield
-  - forward_contracts
-  - prepaid_forward
-  - stock_price
+- basis-swap
+- bid-ask
+- bond
+- call
+- commodity
+- continuous_dividends
+- currency
+- dividend-yield
+- dividend_yield
+- euribor
+- exchange-rate
+- forward
+- forward_contracts
+- future
+- gold
+- greeks
+- index
+- interest-rate
+- libor
+- liquidity
+- oil
+- prepaid_forward
+- real-estate
+- risk-free-rate
+- stock
+- stock_price
+- swap
+- tail-risk
+- transaction-cost
+- treasury
+- weather-derivative
 aliases:
-  - continuous dividend
-  - forward price
-  - prepaid forward
-  - stock index
+- continuous dividend
+- forward price
+- prepaid forward
+- stock index
 key_concepts:
-  - continuous dividend yield
-  - dividend reinvestment
-  - forward contract
-  - future spot price
-  - prepaid forward price
-  - time to maturity
+- Basis swap mechanics
+- Cross-currency basis
+- Currency swap structure
+- Delta risk management
+- Derivative securities
+- Dynamic hedging strategies
+- Financial risk management
+- Fixed vs floating leg
+- Gamma effects on options
+- Interest rate swap pricing
+- Options Greeks measurement
+- Portfolio optimization
+- Portfolio risk hedging
+- Present value of swaps
+- Quantitative financial analysis
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Swap curve construction
+- Swaption valuation
+- Theta time decay
+- Vega volatility sensitivity
+- continuous dividend yield
+- dividend reinvestment
+- forward contract
+- future spot price
+- prepaid forward price
+- time to maturity
 ---
 
 - Introduction to Derivative Markets]]

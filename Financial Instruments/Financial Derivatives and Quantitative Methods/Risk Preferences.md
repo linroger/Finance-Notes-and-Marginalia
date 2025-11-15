@@ -1,21 +1,61 @@
 ---
 title: Risk Preferences
 tags:
-  - hedging
-  - portfolio_risk
-  - risk_aversion
-  - risk_preferences
-  - utility_theory
+- alpha
+- beta
+- capm
+- defi
+- expected-shortfall
+- greeks
+- hedging
+- mean-variance
+- portfolio_risk
+- put
+- risk-management
+- risk_aversion
+- risk_preferences
+- sharpe
+- utility_theory
+- var
 aliases:
-  - Investor Preferences
-  - Risk Assessment
-  - Riskiness
+- Investor Preferences
+- Risk Assessment
+- Riskiness
 key_concepts:
-  - Hedging risk with assets
-  - Investor portfolio risk
-  - Risk aversion notions
-  - Total vs partial payoffs
-  - Utility theory
+- Backtesting VaR models
+- Beta calculation
+- Capital Asset Pricing Model
+- Cost of equity estimation
+- Delta risk management
+- Derivative securities
+- Dynamic hedging strategies
+- Expected Shortfall calculation
+- Financial risk management
+- Gamma effects on options
+- Hedging risk with assets
+- Historical simulation VaR
+- Investor portfolio risk
+- Market efficiency implications
+- Market portfolio
+- Monte Carlo VaR
+- Options Greeks measurement
+- Parametric VaR models
+- Portfolio optimization
+- Portfolio risk hedging
+- Quantitative financial analysis
+- Regulatory VaR requirements
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Risk aversion notions
+- Risk-return tradeoff
+- Security Market Line
+- Systematic vs idiosyncratic risk
+- Theta time decay
+- Total vs partial payoffs
+- Utility theory
+- VaR model validation
+- Value at Risk (VaR) methodology
+- Vega volatility sensitivity
 ---
 
  #Risk_Preferences

@@ -2,38 +2,66 @@
 title: PSET 5 - Pharmaceuticals and Intangibles in Valuation
 cssclasses: academia
 tags:
-  - dcf_model
-  - intangibles
-  - medfield_pharma
-  - pharmaceuticals
-  - pset_5
-  - valuations
-  - financial_analysis
-  - drug_pipeline
-  - research_advantage
-  - patent_protection
-  - acquisition_analysis
+- acquisition
+- acquisition_analysis
+- cost-of-capital
+- dcf
+- dcf-analysis
+- dcf_model
+- drug_pipeline
+- enterprise-value
+- financial_analysis
+- future
+- intangibles
+- medfield_pharma
+- merger
+- option
+- patent_protection
+- pharmaceuticals
+- portfolio-optimization
+- pset_5
+- research_advantage
+- terminal-value
+- valuation
+- valuations
+- wacc
+- wacc-calculation
 aliases:
-  - Fleximat Reformulation
-  - Medfield Case
-  - PSET 5
+- Fleximat Reformulation
+- Medfield Case
+- PSET 5
 key_concepts:
-  - Discounted Cash Flow (DCF) model
-  - Free Cash Flow (FCF) calculation
-  - Fleximat drug reformulation value
-  - Medfield pharmaceuticals valuation
-  - Research and development advantage valuation
-  - Reximet new drug value proposition
-  - Patent protection and drug lifecycle
-  - Terminal value estimation
-  - Intangible asset valuation
-  - Pharmaceutical company acquisitions
+- Company valuation methodologies
+- Derivative securities
+- Discounted Cash Flow (DCF) model
+- Discounted Cash Flow valuation
+- Discounted cash flow analysis
+- Enterprise value estimation
+- Financial risk management
+- Financial statement analysis
+- Fleximat drug reformulation value
+- Free Cash Flow (FCF) calculation
+- Free cash flow modeling
+- Gordon growth model
+- Industry analysis
+- Intangible asset valuation
+- Medfield pharmaceuticals valuation
+- Multi-stage DCF models
+- Patent protection and drug lifecycle
+- Pharmaceutical company acquisitions
+- Portfolio optimization
+- Quantitative financial analysis
+- Research and development advantage valuation
+- Reximet new drug value proposition
+- Risk assessment and mitigation
+- Terminal value calculation
+- Terminal value estimation
+- WACC calculation
+- Weighted Average Cost of Capital
 ---
 
 # PSET 5 - Pharmaceuticals and Intangibles in Valuation
-
 ### CASE: MEDFIELD PHARMACEUTICALS (DARDEN)
-
 Roger Lin
 
 Please review the following materials to prepare for the case:
@@ -44,12 +72,12 @@ Please review the following materials to prepare for the case:
 Please answer the following questions for this assignment. If there are questions in the case materials, please ignore and answer only the questions below.
 
 [^1]: Using the Excel template, create forecasts for Medfield to the year 2034. What is the value of Medfield's existing drugs and drug pipeline, ignoring the reformulation option? Use a DCF model to determine this value; discount future cash flows to the beginning of FY 2011 (or 1/1/2011) as the case is set in the first few weeks of 2011. Provide brief reasoning for how you get from NOPAT (as provided in the case) to FCF in your model.
-[^1]: With the existing pipeline of drugs, Medfield has a net present value of $442 million dollars.
+[^1]: With the existing pipeline of drugs, Medfield has a net present value of $442 million dollars.$
 [^1]: Fleximat is projected to earn $644.76 over its remaining lifespan of 2 years of patent protection, followed by 3 consecutive years of 50% declines in sales.
 [^2]: Lodamadal is projected to earn $220.79 million over the remaining 5 years of patent protection and 3 years of gradual obsolescence.
-[^3]: Orsamorph has 14 years remaining on its patent life, and is expected to contribute $1,121.43 million in gross profits over its remaining lifespan.
-[^4]: Finally, Reximet has not yet been released to the public, and thus, has a full 20 year lifespan ahead of it, followed by 3 years of declining sales. It is expected to provide $288.6 million over the course of its lifespan.
-[^2]: However, I should note that this NPV is for the current value of the existing drugs, and assuming that research costs are as given in the model, even when no new drugs are being released by the market. We should expect a higher valuation if we cut out research costs since no new drugs are being researched. This model also does not account for the terminal value of the company, which would increase the NPV of the company. The $442 million dollar NPV estimate is thus likely an undercount.
+[^3]: Orsamorph has 14 years remaining on its patent life, and is expected to contribute $1,121.43 million in gross profits over its remaining lifespan.$
+[^4]: Finally, Reximet has not yet been released to the public, and thus, has a full 20 year lifespan ahead of it, followed by 3 years of declining sales. It is expected to provide $288.6 million over the course of its lifespan.$
+[^2]: However, I should note that this NPV is for the current value of the existing drugs, and assuming that research costs are as given in the model, even when no new drugs are being released by the market. We should expect a higher valuation if we cut out research costs since no new drugs are being researched. This model also does not account for the terminal value of the company, which would increase the NPV of the company. The $442 million dollar NPV estimate is thus likely an undercount.$
 [^3]: Typically, to get from NOPAT to FCF, we would add back depreciation and amortization to the NOPAT, and subtract out any capital expenditures, net changes in working capital, and proceeds from asset sales. However, we are told that "Capital expenditures were typically close to depreciation levels so that net changes in plant and equipment associated with a given product could be ignored. Similarly, net working capital tended to be very small and could be ignored." Similarly, the income statement notes that Midfield pharmaceuticals has negligible depreciation and amortization. Thus, we do not make any adjustments to the NOPAT, and simply set our FCF estimates equal to the NOPAT projections.
 
 [^2]: What incremental financial value could Medfield create if Susan Johnson chose to reformulate Fleximat?
@@ -60,7 +88,6 @@ Please answer the following questions for this assignment. If there are question
 
 [^4]: Does the acquisition offer price seem reasonable in light of your analyses and should Susan Johnson recommend accepting it? Please provide a brief (but precise) explanation using the results of your analyses.
 	- The offer of $775 million for the company represents a significant premium over the $502.6 million NPV of the company, if we assume that the company stops producing new drugs, reformulates Fleximat and that there is no terminal value for the firm. If we assume that the firm will continue to release new drugs, then the terminal value will increase the NPV of the company significantly, which would likely imply that the offered $775 million is far too low for the true value of the company.
-
 Week 5 Accounting Recap - R&D, Intangibles, M&A & Goodwill
 
 HBS Case - Medfield Pharmaceuticals

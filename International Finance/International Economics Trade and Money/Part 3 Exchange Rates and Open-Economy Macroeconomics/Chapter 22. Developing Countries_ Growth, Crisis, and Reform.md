@@ -1,3 +1,150 @@
+---
+- asset-pricing
+- banking
+- bond-durability
+- credit-risk
+- financial-regulation
+- forward-contracts
+- futures-contracts
+- government-bonds
+- interest-rates
+- market-structure
+- options
+- portfolio-management
+- swaps
+- Duration and interest rate risk measurement
+- Futures contracts and forward pricing
+- Interest rate swaps and swap curve construction
+- Financial theory and academic research
+- Case study analysis and real-world applications
+- Practical examples and implementation
+- Financial regulation and compliance requirements
+- Investment analysis and portfolio management
+- Financial valuation and pricing methodologies
+- Fixed income securities and bond markets
+- Equity markets and stock valuation
+- International finance and global markets
+- Monetary policy and central banking
+- Financial crises and market stress events
+- Basel regulations and banking capital requirements
+last_enhanced: '2025-11-06 08:42:51'
+tags:
+- asian
+- asian-crisis
+- austerity
+- bank-bailout
+- bank-failure
+- bank-regulation
+- bank-run
+- banking
+- bankruptcy
+- basel
+- basis
+- bid-ask
+- bond
+- capital-flow
+- case-study
+- central-bank
+- cftc
+- commodity
+- contagion
+- covid-crisis
+- credit-curve
+- crisis-analysis
+- cross-border
+- currency
+- currency-crisis
+- default
+- derivatives
+- devaluation
+- duration
+- emerging-market
+- empirical-analysis
+- equity
+- european
+- european-debt-crisis
+- eurozone
+- financial-crisis
+- financial-regulation
+- fixed-income
+- governance
+- graduate-level
+- grexit
+- institutional-quality
+- learning-from-crisis
+- lender-of-last-resort
+- liquidity
+- liquidity-crisis
+- mathematical-finance
+- monetary-policy
+- moral-hazard
+- pegging
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- regulatory-compliance
+- restructuring
+- robo-advisor
+- sec-regulation
+- securitization
+- sovereign
+- sovereign-debt
+- spread
+- structured-product
+- supervision
+- tail-risk
+- treasury
+- volatility
+- yield-curve
+
+key_concepts:
+- Austerity Measures
+- Bank Supervision
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Compliance Management
+- Corporate Governance
+- Crisis Case Study Design
+- Currency Union Risks
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- European Debt Crisis
+- European Integration
+- Eurozone Crisis Management
+- Financial Crisis Case Studies
+- Financial Markets and Institutions
+- Financial Regulation
+- Fiscal Integration
+- Governance Standards
+- Greek Debt Crisis
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Regulatory Compliance
+- Regulatory Framework
+- Regulatory Risk
+- Risk Management and Hedging Strategies
+- Sovereign Debt Restructuring
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
+---
+
+
+
+
+
 # CHAPTER 22  
 
 # Developing Countries: Growth, Crisis, and Reform  

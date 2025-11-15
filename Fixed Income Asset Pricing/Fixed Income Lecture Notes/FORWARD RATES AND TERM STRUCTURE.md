@@ -1,26 +1,58 @@
 ---
 cssclasses:
-  - academia
+- academia
 linter-yaml-title-alias: Forward Rates and Term Structure
 title: Forward Rates and Term Structure
 tags:
-  - expectations_hypothesis
-  - forward_rates
-  - interest_rates
-  - term_structure
-  - yield_curve
+- arbitrage
+- asset-pricing
+- banking
+- bond-convexity
+- capm
+- convexity
+- coupon-bonds
+- expectations_hypothesis
+- feynman-kac
+- forward-contracts
+- forward-rates
+- forward_rates
+- futures-contracts
+- government-bonds
+- hedging-strategies
+- interest-rates
+- interest_rates
+- mbs
+- options-greeks
+- overnight-rates
 aliases:
-  - Expectations
-  - Forward Rates
-  - Term Structure
-  - Yields
+- Expectations
+- Forward Rates
+- Term Structure
+- Yields
 key_concepts:
-  - Expectations hypothesis
-  - Forward rates calculation
-  - Risk premium impact
-  - Term structure of rates
-  - Yield curve decomposition
+- Convexity adjustments in fixed income
+- Yield curve modeling and term structure analysis
+- Forward rate calculations and forward curve construction
+- Mortgage-backed securities and prepayment modeling
+- Arbitrage opportunities and relative value trading
+- Risk-neutral pricing and martingale measures
+- Term structure of interest rates and yield curves
+- Futures contracts and forward pricing
+- Capital Asset Pricing Model (CAPM)
+- Financial theory and academic research
+- Practical examples and implementation
+- Derivatives and structured financial instruments
+- Risk management techniques and best practices
+- Investment analysis and portfolio management
+- Fixed income securities and bond markets
+- Equity markets and stock valuation
+- Monetary policy and central banking
+last_enhanced: '2025-11-06 08:42:38'
 ---
+
+
+
+
 
 Fixed Income Lecture Notes]]
 

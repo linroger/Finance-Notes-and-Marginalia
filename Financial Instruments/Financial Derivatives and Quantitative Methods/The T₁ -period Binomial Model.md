@@ -1,21 +1,61 @@
 ---
 title: The T₁ -period Binomial Model
 tags:
-  - binomial_model
-  - derivatives
-  - hull_chapter_11
-  - option_pricing
-  - risk_neutral_valuation
+- american
+- binomial
+- binomial_model
+- call
+- derivatives
+- european
+- greeks
+- hedge
+- hull_chapter_11
+- interest-rate
+- option
+- option_pricing
+- put
+- risk_neutral_valuation
+- stock
+- terminal-value
+- vol-smile
 aliases:
-  - T1 model
-  - binomial tree model
-  - multi-period binomial model
+- T1 model
+- binomial tree model
+- multi-period binomial model
 key_concepts:
-  - Binomial coefficients
-  - Delta hedging
-  - Risk-neutral probability
-  - Synthetic options
-  - Two-period binomial model
+- American options valuation
+- Backward induction algorithm
+- Binomial coefficients
+- Binomial option pricing model
+- Convergence to Black-Scholes
+- Cox-Ross-Rubinstein framework
+- Delta hedging
+- Delta risk management
+- Delta-hedging implementation
+- Derivative securities
+- Dynamic hedging strategies
+- Dynamic replication
+- Financial risk management
+- Gamma effects on options
+- Gamma hedging techniques
+- Hedge ratio calculation
+- Hedging effectiveness
+- Lattice methods for derivatives
+- Multi-period binomial tree
+- Options Greeks measurement
+- Portfolio insurance methods
+- Portfolio optimization
+- Portfolio risk hedging
+- Quantitative financial analysis
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Risk-neutral probability
+- Static hedging
+- Synthetic options
+- Theta time decay
+- Two-period binomial model
+- Vega hedging strategies
+- Vega volatility sensitivity
 ---
 
 # The T₁ -period Binomial Model

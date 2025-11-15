@@ -1,33 +1,49 @@
 ---
-cssclasses:
-  - academia
-title: HomeMax Case Study Solution
-tags:
-  - capital_structure
-  - case_study
-  - debt_recovery
-  - distressed_debt
-  - financial_analysis
-  - homemax_inc
-  - investment_analysis
-  - oaktree_capital
-  - restructuring
-  - valuation
 aliases:
-  - Distressed Investing
-  - HomeMax Case Study
-  - Howard Marks
-  - Restructuring Plan
-  - Train & Co. Acquisition
+- Distressed Investing
+- HomeMax Case Study
+- Howard Marks
+- Restructuring Plan
+- Train & Co. Acquisition
+cssclasses:
+- academia
 key_concepts:
-  - Acquisition by Train & Co.
-  - Capital structure analysis
-  - Distressed debt investing
-  - Enterprise value estimation
-  - Equity allocation valuation
-  - HomeMax Inc. overview
-  - Restructuring process steps
-  - Risk considerations
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Corporate bankruptcy process
+- Debt restructuring and workouts
+- Chapter 11 reorganization
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Credit analysis and rating
+- Default probability modeling
+- Loss given default estimation
+- Mathematical optimization in finance
+- Portfolio optimization techniques
+- Linear and quadratic programming
+- HomeMax Case Study Solution and financial analysis
+- HomeMax Case Study Solution in modern finance
+- Applications of HomeMax Case Study Solution
+- 'Case study: HomeMax Case Study Solution'
+tags:
+- optimization
+- leverage
+- constraint
+- irs
+- multiple
+- swaps
+- credit-risk
+- collateral
+- valuation
+- cds
+- distressed
+- bankruptcy
+- default
+- recovery
+- ratio
+title: HomeMax Case Study Solution
 ---
 
 # HomeMax Case Study Solution

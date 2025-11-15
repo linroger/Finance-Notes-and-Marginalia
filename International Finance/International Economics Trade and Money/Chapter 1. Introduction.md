@@ -1,18 +1,98 @@
 ---
-cssclasses: [international-economics]
+cssclasses:
+- international-economics
 title: Chapter 1. Introduction
-tags: [international-economics, trade, monetary-economics, introduction]
-aliases: [International Econ Introduction]
-key_concepts:
-  - Gains from Trade
-  - Pattern of Trade
-  - Balance of Payments
-  - Exchange Rate Determination
-  - International Policy Coordination
-  - International Capital Markets
-  - Protectionism
+- asset-pricing
+- banking
+- credit-risk
+- financial-regulation
+- futures-contracts
+- international-economics
+- introduction
+- mbs
+- monetary-economics
+- trade
+- trading-strategies
+aliases:
+- International Econ Introduction
+- Mortgage-backed securities and prepayment modeling
+- Futures contracts and forward pricing
+- Financial theory and academic research
+- Practical examples and implementation
+- Trading strategies and market implementation
+- Investment analysis and portfolio management
+- Fixed income securities and bond markets
+- International finance and global markets
+- Monetary policy and central banking
+- Financial crises and market stress events
 linter-yaml-title-alias: Chapter 1. Introduction
+last_enhanced: '2025-11-06 08:42:49'
+tags:
+- asian
+- austerity
+- banking
+- bond
+- commodity
+- covid-crisis
+- cross-border
+- currency
+- default
+- derivatives
+- equity
+- european
+- european-debt-crisis
+- eurozone
+- financial-crisis
+- fixed-income
+- graduate-level
+- grexit
+- institutional-quality
+- mathematical-finance
+- mbs
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- sec-regulation
+- securitization
+- sovereign
+- sovereign-debt
+- yield-curve
+
+key_concepts:
+- Austerity Measures
+- Banking and Financial Intermediation
+- Currency Union Risks
+- European Debt Crisis
+- European Integration
+- Eurozone Crisis Management
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Fiscal Integration
+- Greek Debt Crisis
+- Institutional-Quality Financial Education
+- Quantitative Methods in Finance
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+- Sovereign Debt Restructuring
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # Chapter 1. Introduction
 

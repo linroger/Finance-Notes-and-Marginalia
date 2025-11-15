@@ -1,20 +1,101 @@
 ---
-tags:
-  - aggregate_production
-  - brownian_motion
-  - general_equilibrium
-  - investment
-  - real_interest_rates
 aliases:
-  - CIR model
-  - Interest Rates and Production
+- CIR model
+- Interest Rates and Production
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Efficient market hypothesis
+- Market anomalies and patterns
+- Price discovery and information
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Financial econometrics and regression
+- Time series analysis in finance
+- Volatility modeling (GARCH)
+- Real Interest Rates and Aggregate Production and financial analysis
+- Real Interest Rates and Aggregate Production in modern finance
+- Applications of Real Interest Rates and Aggregate Production
+- 'Case study: Real Interest Rates and Aggregate Production'
+last_enhanced: '2025-11-06 08:42:30'
+- market-efficiency
+- interest-rates
+- alpha
+- interest-rate
+- correlation
+- call
+- options
+- delta
+- risk-management
+- regression
+- put
+- volatility
+- risk
+- var
+tags:
+- basis
+- case-study
+- crisis-analysis
+- derivative-pricing
+- derivatives
+- empirical-analysis
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- market-efficiency
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- sovereign
+- stress-test
+- var
+- volatility
+- yield-curve
+
 key_concepts:
-  - Aggregate production
-  - Brownian motion
-  - General equilibrium model
-  - Investment in production
-  - Real interest rates
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 10.4 Real interest rates and aggregate production  
 

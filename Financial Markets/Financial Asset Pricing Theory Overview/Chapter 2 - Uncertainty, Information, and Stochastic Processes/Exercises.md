@@ -1,15 +1,80 @@
 ---
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Monte Carlo simulation methods
+- Stochastic processes in finance
+- Path-dependent derivatives pricing
+- Financial econometrics and regression
+- Time series analysis in finance
+- Volatility modeling (GARCH)
+- Exercises and financial analysis
+- Exercises in modern finance
+- Applications of Exercises
+- 'Case study: Exercises'
+last_enhanced: '2025-11-06 08:42:31'
+- dividend
+- correlation
+- risk-management
+- regression
+- stochastic
+- volatility
+- var
+- monte-carlo
 tags:
-  - '#asset_pricing'
-  - '#asset_returns'
-  - '#brownian_motion'
-  - '#geometric_brownian_motion'
-  - '#law_of_iterated_expectations'
-  - '#ordinary_differential_equation'
-  - '#return_variance'
-  - '#stochastic_process'
-  - '#two_period_economy'
+- case-study
+- crisis-analysis
+- derivatives
+- empirical-analysis
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- mathematical-finance
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- stress-test
+- var
+- volatility
+
+key_concepts:
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 # 2.8 Exercises  
 
 EXERCISE 2.1 In the two-period economy illustrated in Figures 2.1 and 2.2 consider an asset paying a dividend at time 2 given by  

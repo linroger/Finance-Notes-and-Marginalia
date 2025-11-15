@@ -1,20 +1,96 @@
 ---
-tags:
-  - closed_form_valuation
-  - continuous_time
-  - discrete_time
-  - multi_period_valuation
-  - state_price_deflator
 aliases:
-  - Multi-Period Models
-  - Multi-Period Valuation
+- Multi-Period Models
+- Multi-Period Valuation
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Financial econometrics and regression
+- Time series analysis in finance
+- Volatility modeling (GARCH)
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Multi-Period Valuation Models and financial analysis
+- Multi-Period Valuation Models in modern finance
+- Applications of Multi-Period Valuation Models
+- 'Case study: Multi-Period Valuation Models'
+last_enhanced: '2025-11-06 08:42:31'
+- valuation
+- interest-rates
+- dividend
+- interest-rate
+- correlation
+- ratio
+- discount
+- risk-management
+- regression
+- risk
+- var
+- irs
+- swaps
+tags:
+- basis
+- case-study
+- cash-flow
+- crisis-analysis
+- currency
+- derivatives
+- empirical-analysis
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- sovereign
+- stress-test
+- var
+- volatility
+
 key_concepts:
-  - Closed-form dividend valuation
-  - Continuous-time valuation
-  - Discrete-time framework
-  - Price-dividend ratio
-  - Risk-adjusted discount factor
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 4.4 Multi-period valuation models  
 

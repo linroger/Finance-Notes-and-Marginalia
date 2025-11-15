@@ -1,20 +1,108 @@
 ---
-tags:
-  - bond_yields
-  - butterfly_strategy
-  - regression_hedging
-  - relative_value_trade
-  - term_structure
 aliases:
-  - Regression hedging
-  - Two-variable hedging
+- Regression hedging
+- Two-variable hedging
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Financial econometrics and regression
+- Time series analysis in finance
+- Volatility modeling (GARCH)
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Two-Variable Regression Hedging and financial analysis
+- Two-Variable Regression Hedging in modern finance
+- Applications of Two-Variable Regression Hedging
+- 'Case study: Two-Variable Regression Hedging'
+last_enhanced: '2025-11-06 08:42:36'
+- bond
+- dv01
+- treasury
+- risk-management
+- fixed-income
+- var
+- hedging
+- regression
+- bonds
+- options
+- delta
+- yield
+- corporate-bond
+- risk
+- call
+tags:
+- basis
+- bid-ask
+- bond
+- case-study
+- corporate-bond
+- credit-curve
+- crisis-analysis
+- derivative-pricing
+- derivatives
+- duration
+- empirical-analysis
+- fixed-income
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- sec-regulation
+- securitization
+- spread
+- stress-test
+- treasury
+- var
+- volatility
+- yield-curve
+
 key_concepts:
-  - Butterfly trade
-  - Hedging face amounts
-  - Relative value trader
-  - Term structure correlation
-  - Two-variable regression hedging
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # 6.2 TWO-VARIABLE REGRESSION HEDGING  
 

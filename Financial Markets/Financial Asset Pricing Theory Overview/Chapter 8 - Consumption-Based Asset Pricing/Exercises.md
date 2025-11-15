@@ -1,22 +1,119 @@
 ---
-tags:
-  - consumption_based_capm
-  - european_call_option
-  - present_value
-  - state_price_deflator
-  - zero_coupon_bond
 aliases:
-  - carl smart
-  - exercise 8.1
-  - investment projects
-  - risk-ignoring approach
+- carl smart
+- exercise 8.1
+- investment projects
+- risk-ignoring approach
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Efficient market hypothesis
+- Market anomalies and patterns
+- Price discovery and information
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Exercises and financial analysis
+- Exercises in modern finance
+- Applications of Exercises
+- 'Case study: Exercises'
+last_enhanced: '2025-11-06 08:42:32'
+- market-efficiency
+- interest-rates
+- strike
+- alpha
+- interest-rate
+- call
+- gamma
+- options
+- delta
+- risk-management
+- theta
+- put
+- var
+- beta
+- irs
+tags:
+- austerity
+- banking
+- basis
+- bond
+- case-study
+- crisis-analysis
+- currency
+- derivative-pricing
+- derivatives
+- empirical-analysis
+- equity
+- european
+- european-debt-crisis
+- eurozone
+- graduate-level
+- grexit
+- hedging
+- institutional-quality
+- learning-from-crisis
+- market-efficiency
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- sovereign
+- sovereign-debt
+- stress-test
+- var
+- volatility
+
 key_concepts:
-  - aggregate consumption growth
-  - conditional CAPM
-  - consumption growth rate
-  - expected dividends
-  - riskless returns
+- Austerity Measures
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Currency Union Risks
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- European Debt Crisis
+- European Integration
+- Eurozone Crisis Management
+- Financial Crisis Case Studies
+- Financial Markets and Institutions
+- Fiscal Integration
+- Greek Debt Crisis
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Sovereign Debt Restructuring
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 8.11 Exercises  
 

@@ -1,32 +1,44 @@
 ---
 cssclasses:
-  - academia
-title: "Class Note 3: Financial Intermediation and Delegated Loan Monitoring - Bank Asset Services"
+- academia
+title: 'Class Note 3: Financial Intermediation and Delegated Loan Monitoring - Bank
+  Asset Services'
 tags:
-  - bank_asset_services
-  - class_note
-  - delegated_loan_monitoring
-  - financial_intermediation
-  - loan_rates
-  - diversification
-  - monitoring_incentives
+- bank_asset_services
+- bond
+- call
+- class_note
+- cost-of-capital
+- delegated_loan_monitoring
+- diversification
+- financial_intermediation
+- floor
+- interest-rate
+- loan_rates
+- monitoring_incentives
+- put
 aliases:
-  - Banker Profit
-  - Class Note 3
-  - Financial Intermediaries
-  - Delegated Monitoring
-  - Bank Diversification
+- Banker Profit
+- Class Note 3
+- Financial Intermediaries
+- Delegated Monitoring
+- Bank Diversification
 key_concepts:
-  - Banker Profit Opportunity
-  - Delegated Loan Monitoring
-  - Financial Intermediation
-  - Payment Distribution Table
-  - Synthetic Large Investors
-  - Two-Loan Bank Model
-  - Monitoring Incentives
-  - Control Rent
-  - Diversification Benefits
-  - Mathematical Appendix
+- Banker Profit Opportunity
+- Control Rent
+- Delegated Loan Monitoring
+- Derivative securities
+- Diversification Benefits
+- Financial Intermediation
+- Financial risk management
+- Mathematical Appendix
+- Monitoring Incentives
+- Payment Distribution Table
+- Portfolio optimization
+- Quantitative financial analysis
+- Risk assessment and mitigation
+- Synthetic Large Investors
+- Two-Loan Bank Model
 ---
 
 # Class Note 3: Financial Intermediation and Delegated Loan Monitoring - Bank Asset Services

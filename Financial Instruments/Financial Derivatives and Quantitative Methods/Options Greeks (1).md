@@ -2,23 +2,72 @@
 cssclasses: academia
 title: Options Greeks
 tags:
-  - delta
-  - gamma
-  - greeks
-  - options_greeks
-  - rho
-  - theta
-  - vega
+- american
+- binomial
+- black-scholes
+- brownian
+- call
+- currency
+- delta
+- european
+- fat-tail
+- forward
+- future
+- gamma
+- gbm
+- greeks
+- hedge
+- implied-vol
+- interest-rate
+- option
+- options_greeks
+- pde
+- put
+- rho
+- stochastic
+- stock
+- theta
+- vega
+- vol-smile
 aliases:
-  - Black-Scholes
-  - Option Pricing
-  - The Greeks
+- Black-Scholes
+- Option Pricing
+- The Greeks
 key_concepts:
-  - Delta of option
-  - Hedging risks
-  - Option price changes
-  - Risk management
-  - Volatility smiles
+- American options valuation
+- Backward induction algorithm
+- Binomial option pricing model
+- Convergence to Black-Scholes
+- Cox-Ross-Rubinstein framework
+- Delta of option
+- Delta risk management
+- Delta-hedging implementation
+- Derivative securities
+- Dynamic hedging strategies
+- Dynamic replication
+- Financial risk management
+- Gamma effects on options
+- Gamma hedging techniques
+- Hedge ratio calculation
+- Hedging effectiveness
+- Hedging risks
+- Lattice methods for derivatives
+- Multi-period binomial tree
+- Option price changes
+- Options Greeks measurement
+- Portfolio insurance methods
+- Portfolio optimization
+- Portfolio risk hedging
+- Quantitative financial analysis
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Risk management
+- Risk-neutral probability
+- Static hedging
+- Theta time decay
+- Vega hedging strategies
+- Vega volatility sensitivity
+- Volatility smiles
 ---
 
 # Options Greeks

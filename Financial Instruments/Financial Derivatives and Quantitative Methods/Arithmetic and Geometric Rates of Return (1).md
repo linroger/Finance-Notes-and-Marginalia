@@ -2,29 +2,70 @@
 cssclasses: academia
 title: Arithmetic and Geometric Rates of Return
 tags:
-  - arithmetic_mean
-  - continuous_compounding
-  - geometric_mean
-  - rate_of_return
-  - wiener_process
-  - ito_calculus
-  - brownian_motion
-  - stochastic_processes
+- arithmetic_mean
+- binomial
+- brownian
+- brownian_motion
+- continuous_compounding
+- defi
+- forward
+- gbm
+- geometric_mean
+- greeks
+- interest-rate
+- ito
+- ito_calculus
+- option
+- rate_of_return
+- stochastic
+- stochastic_processes
+- stock
+- var
+- wiener_process
 aliases:
-  - Arithmetic Mean vs Geometric Mean
-  - Continuously Compounded Return
-  - Arithmetic vs Geometric Return
+- Arithmetic Mean vs Geometric Mean
+- Continuously Compounded Return
+- Arithmetic vs Geometric Return
 key_concepts:
-  - Arithmetic mean return
-  - Continuously compounded rate
-  - Geometric mean return calculation
-  - Variance impact on geometric returns
-  - Wiener process properties
-  - Ito's lemma application
-  - Geometric Brownian motion
-  - Forward price stochastic process
-  - Return variance relationship
-  - Log-normal distribution properties
+- American options valuation
+- Arithmetic mean return
+- Backtesting VaR models
+- Backward induction algorithm
+- Binomial option pricing model
+- Continuously compounded rate
+- Convergence to Black-Scholes
+- Cox-Ross-Rubinstein framework
+- Delta risk management
+- Derivative securities
+- Dynamic hedging strategies
+- Expected Shortfall calculation
+- Financial risk management
+- Forward price stochastic process
+- Gamma effects on options
+- Geometric Brownian motion
+- Geometric mean return calculation
+- Historical simulation VaR
+- Ito's lemma application
+- Lattice methods for derivatives
+- Log-normal distribution properties
+- Monte Carlo VaR
+- Multi-period binomial tree
+- Options Greeks measurement
+- Parametric VaR models
+- Portfolio optimization
+- Portfolio risk hedging
+- Quantitative financial analysis
+- Regulatory VaR requirements
+- Return variance relationship
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Risk-neutral probability
+- Theta time decay
+- VaR model validation
+- Value at Risk (VaR) methodology
+- Variance impact on geometric returns
+- Vega volatility sensitivity
+- Wiener process properties
 ---
 
 # Arithmetic and Geometric Rates of Return

@@ -1,29 +1,117 @@
 ---
 title: Cash Flow Engineering, Interest Rate Forwards and Futures
 tags:
-  - cash-flow-engineering
-  - interest-rate-forwards
-  - interest-rate-futures
-  - fixed-income
-  - libor
-  - yield-curve
-  - synthetic-assets
-  - day-count-conventions
+- alpha
+- backtest
+- basel
+- basis-swap
+- bid-ask
+- bond
+- bps
+- call
+- cash-flow-engineering
+- commodity
+- convexity
+- counterparty
+- credit-risk
+- currency
+- day-count-conventions
+- dcf
+- defi
+- duration
+- dv01
+- equity
+- euribor
+- exchange-rate
+- expected-shortfall
+- fixed-income
+- forward
+- future
+- greeks
+- hedge-fund
+- interest-rate
+- interest-rate-forwards
+- interest-rate-futures
+- libor
+- liquidity
+- market-risk
+- multiple
+- oil
+- ois
+- option
+- plain-vanilla-swap
+- put
+- risk-free-rate
+- stochastic
+- swap
+- synthetic-assets
+- tail-risk
+- transaction-cost
+- treasury
+- var
+- volatility-swap
+- yield-curve
+- yield-spread
 aliases:
-  - Chapter 3 Cash Flow Engineering
-  - Interest Rate Derivatives Engineering
-  - Synthetic Interest Rate Instruments
+- Chapter 3 Cash Flow Engineering
+- Interest Rate Derivatives Engineering
+- Synthetic Interest Rate Instruments
 key_concepts:
-  - Cash flow engineering
-  - Synthetic instruments
-  - Interest rate forwards
-  - Interest rate futures
-  - LIBOR benchmarks
-  - Fixed income conventions
-  - Day-count conventions
-  - Forward loans
-  - Contractual equations
-  - Replication strategies
+- Backtesting VaR models
+- Basis swap mechanics
+- Cash flow engineering
+- Contractual equations
+- Convexity adjustment
+- Cross-currency basis
+- Currency swap structure
+- DV01 calculation
+- Day-count conventions
+- Delta risk management
+- Derivative securities
+- Discounted Cash Flow valuation
+- Duration measurement
+- Dynamic hedging strategies
+- Enterprise value estimation
+- Expected Shortfall calculation
+- Financial risk management
+- Fixed income conventions
+- Fixed vs floating leg
+- Forward loans
+- Free cash flow modeling
+- Gamma effects on options
+- Gordon growth model
+- Hedging with bonds
+- Historical simulation VaR
+- Interest rate forwards
+- Interest rate futures
+- Interest rate sensitivity
+- Interest rate swap pricing
+- LIBOR benchmarks
+- Modified duration calculation
+- Monte Carlo VaR
+- Multi-stage DCF models
+- Options Greeks measurement
+- Parametric VaR models
+- Portfolio immunization
+- Portfolio optimization
+- Portfolio risk hedging
+- Present value of swaps
+- Price-yield relationship
+- Quantitative financial analysis
+- Regulatory VaR requirements
+- Replication strategies
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Swap curve construction
+- Swaption valuation
+- Synthetic instruments
+- Terminal value calculation
+- Theta time decay
+- VaR model validation
+- Value at Risk (VaR) methodology
+- Vega volatility sensitivity
+- WACC calculation
+- Weighted Average Cost of Capital
 cssclasses: academia
 ---
 

@@ -4,31 +4,69 @@ source: https://gouthamanbalaraman.com/blog/hull-white-simulation-quantlib-pytho
 description: Discusses simulation of the Hull White interest rate term structure model
   in QuantLib Python
 tags:
-  - hull_white_model
-  - interest_rate_model
-  - quantlib_python
-  - simulation
-  - term_structure
+- alpha
+- defi
+- forward
+- greeks
+- hull_white_model
+- interest-rate
+- interest_rate_model
+- quantlib_python
+- simulation
+- swap
+- term_structure
+- var
+- yield-curve
 aliases:
-  - Hull-White model
-  - QuantLib simulation
+- Hull-White model
+- QuantLib simulation
 key_concepts:
-  - Hull-White short rate model
-  - Interest rate properties
-  - QuantLib Python simulation
-  - Simulating interest rates
-  - Term structure modeling
+- Backtesting VaR models
+- Basis swap mechanics
+- Cross-currency basis
+- Currency swap structure
+- Delta risk management
+- Derivative securities
+- Dynamic hedging strategies
+- Expected Shortfall calculation
+- Financial risk management
+- Fixed vs floating leg
+- Gamma effects on options
+- Historical simulation VaR
+- Hull-White short rate model
+- Interest rate properties
+- Interest rate swap pricing
+- Monte Carlo VaR
+- Options Greeks measurement
+- Parametric VaR models
+- Portfolio optimization
+- Portfolio risk hedging
+- Present value of swaps
+- QuantLib Python simulation
+- Quantitative financial analysis
+- Regulatory VaR requirements
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Simulating interest rates
+- Swap curve construction
+- Swaption valuation
+- Term structure modeling
+- Theta time decay
+- VaR model validation
+- Value $\$a_t$$ Risk (VaR) methodology
+- Vega volatility sensitivity
 ---
 
 # Hull White Term Structure Simulations with QuantLib Python
+
 Discusses simulation of the Hull White interest rate term structure model in QuantLib Python
 
 *Visit here for other QuantLib Python examples](http://gouthamanbalaraman.com/blog/quantlib-python-tutorials-with-examples.html). If you found these posts useful,  please take a minute by providing some feedback.*
 
 The Hull-White Short Rate Model is defined as:
-$$ dr\_t = (\theta(t) - a r\_t)dt + \sigma dW\_t $$
+$\$ dr\_t = (\\theta(t) - a r\_t)$$d_t$$ + \\sigma dW\_t $$
 
-where $a$ and $ \sigma $ are constants,  and $\theta(t)$ is chosen in order to fit the input term structure of interest rates. Here we use QuantLib to show how to simulate the Hull-White model and investigate some of the properties.
+where $a$ and $ \\sigma $ are constants,  and $\\theta(t)$ is chosen in order to fit the input term structure of interest rates. Here we use QuantLib to show how to simulate the Hull-White model and investigate some of the properties.
 
 We import the libraries and set things up as shown below:
 
@@ -99,7 +137,7 @@ plt.show()
 
  !500
 The short rate $r(t)$ is given a distribution with the properties:
-$$ E\{r(t) | F\_s\} = r(s)e^{-a(t-s)} + \alpha(t) - \alpha(s)e^{-a(t-s)} $$ $$ Var\{ r(t) | F\_s \} = \frac{\sigma[^2]}{2a} [1 - e^{-2a(t-s)}] $$ where $$ \alpha(t) = f^M(0,  t) + \frac{\sigma[^2]} {2a[^2]}(1-e^{-at})[^2]$$
+$\$ E\{r(t) | F\_s\} = r(s)e^{-a(t-s)} + \\alpha(t) - \\alpha(s)e^{-a(t-s)} $$ $$ Var\{ r(t) | F\_s \} = \frac{\\sigma[^2]}{2a} [1 - e^{-2a(t-s)}] $$ where $$ \\alpha(t) = f^M(0,  t) + \frac{\\sigma[^2]} {2a[^2]}(1-e^{-$$a_t$$})[^2]$$
 
 as shown in Brigo & Mercurio's book on Interest Rate Models.
 
@@ -144,7 +182,6 @@ Out\[9\]:
  !500
 
 ## Conclusion
-
 This post shows how to simulate Hull-White short rate model using QuantLib Python. You can download the ipython notebook on Hull-White simulations.
 
    quantlib](http://gouthamanbalaraman.com/tag/quantlib.html)   python   finance

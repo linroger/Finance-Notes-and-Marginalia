@@ -1,22 +1,111 @@
 ---
-tags:
-  - bond_spreads
-  - century_bond_hedging
-  - dv01_hedging
-  - market_making
-  - treasury_bonds
 aliases:
-  - DV01
-  - Hedging Century Bond
-  - NSC bonds
-  - Treasury hedge
+- DV01
+- Hedging Century Bond
+- NSC bonds
+- Treasury hedge
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Hedging a Century Bond Part I and financial analysis
+- Hedging a Century Bond Part I in modern finance
+- Applications of Hedging a Century Bond Part I
+- 'Case study: Hedging a Century Bond Part I'
+last_enhanced: '2025-11-06 08:42:36'
+- treasury
+- hedging
+- swaps
+- corporate-bond
+- fixed-income
+- irs
+- bond
+- futures
+- bonds
+- spread
+- dv01
+- liquidity
+- basis
+- maturity
+- market-maker
+tags:
+- arbitrage
+- basis
+- bid-ask
+- bond
+- case-study
+- corporate-bond
+- credit-curve
+- crisis-analysis
+- currency
+- derivatives
+- duration
+- empirical-analysis
+- fixed-income
+- graduate-level
+- hedging
+- income-statement
+- institutional-quality
+- learning-from-crisis
+- liquidity
+- market-making
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- sec-regulation
+- securitization
+- spread
+- treasury
+- yield-curve
+
 key_concepts:
-  - Bond spread risk
-  - DV01 and hedging
-  - Hedging century bonds
-  - Market maker example
-  - Treasury bond face amount
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # 4.3 HEDGING A CENTURY BOND: PART I  
 

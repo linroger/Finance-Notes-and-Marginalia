@@ -1,21 +1,110 @@
 ---
-tags:
-  - asset_liability_management
-  - convexity
-  - corporate_bonds
-  - duration
-  - pension_liabilities
 aliases:
-  - Asset Portfolio
-  - Barbell vs. Bullet
-  - JNJ Bonds
+- Asset Portfolio
+- Barbell vs. Bullet
+- JNJ Bonds
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- The Barbell Versus the Bullet and financial analysis
+- The Barbell Versus the Bullet in modern finance
+- Applications of The Barbell Versus the Bullet
+- 'Case study: The Barbell Versus the Bullet'
+last_enhanced: '2025-11-06 08:42:36'
+- options
+- forward
+- hedging
+- call
+- portfolio
+- coupon
+- yield
+- fixed-income
+- corporate-bond
+- portfolio-optimization
+- put
+- bond
+- futures
+- bonds
+- convexity
+tags:
+- arbitrage
+- asset-liability
+- basis
+- bid-ask
+- bond
+- case-study
+- cash-flow
+- credit-curve
+- crisis-analysis
+- derivative-pricing
+- derivatives
+- duration
+- empirical-analysis
+- fixed-income
+- graduate-level
+- hedging
+- income-statement
+- institutional-quality
+- learning-from-crisis
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- sec-regulation
+- securitization
+- spread
+- tail-risk
+- volatility
+- yield-curve
+
 key_concepts:
-  - Barbell and bullet portfolios
-  - Defined-benefit pension liabilities
-  - Duration and convexity
-  - Hedging with assets
-  - Johnson & Johnson bonds
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # 4.8 THE BARBELL VERSUS THE BULLET  
 

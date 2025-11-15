@@ -1,35 +1,76 @@
 ---
 tags:
-  - callable_leveraged_cms
-  - cms_spread_note
-  - interest_rate_risk
-  - monte_carlo_simulation
-  - swaption_volatility
-  - structured_products
-  - fixed_income
-  - quantitative_finance
-  - derivative_pricing
+- alpha
+- beta
+- bond
+- call
+- callable_leveraged_cms
+- cap
+- cms_spread_note
+- commodity
+- derivative_pricing
+- fixed-income
+- fixed_income
+- forward
+- future
+- greeks
+- implied-vol
+- interest-rate
+- interest_rate_risk
+- libor
+- monte-carlo
+- monte_carlo_simulation
+- multiple
+- option
+- quantitative_finance
+- stochastic
+- structured_products
+- swap
+- swaption
+- swaption_volatility
+- yield-curve
 aliases:
-  - CMS Spread Note
-  - Callable Note
-  - Swap Spread Note
-  - Constant Maturity Swap Note
-  - Leveraged CMS Spread Structure
+- CMS Spread Note
+- Callable Note
+- Swap Spread Note
+- Constant Maturity Swap Note
+- Leveraged CMS Spread Structure
 key_concepts:
-  - CMS spread
-  - Discount curve construction
-  - Implied swaption volatility
-  - Monte Carlo simulation
-  - Stochastic cash flows
-  - Interest rate correlation
-  - Black-76 model
-  - Bermudan option valuation
-  - Term structure modeling
-  - Correlation calibration
-  - Antithetic variance reduction
-  - Interest rate path simulation
-  - Rational call strategy
-  - Yield curve bootstrapping
+- Antithetic variance reduction
+- Basis swap mechanics
+- Bermudan option valuation
+- Black-76 model
+- CMS spread
+- Correlation calibration
+- Cross-currency basis
+- Currency swap structure
+- Delta risk management
+- Derivative securities
+- Discount curve construction
+- Dynamic hedging strategies
+- Financial risk management
+- Fixed vs floating leg
+- Gamma effects on options
+- Implied swaption volatility
+- Interest rate correlation
+- Interest rate path simulation
+- Interest rate swap pricing
+- Monte Carlo simulation
+- Options Greeks measurement
+- Portfolio optimization
+- Portfolio risk hedging
+- Present value of swaps
+- Quantitative financial analysis
+- Rational call strategy
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Stochastic cash flows
+- Swap curve construction
+- Swaption valuation
+- Term structure modeling
+- Theta time decay
+- Vega volatility sensitivity
+- Yield curve bootstrapping
 cssclasses: academia
 ---
 

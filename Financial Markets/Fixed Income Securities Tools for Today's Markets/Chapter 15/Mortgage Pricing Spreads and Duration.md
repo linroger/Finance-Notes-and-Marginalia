@@ -1,32 +1,111 @@
 ---
-tags:
-  - duration
-  - fixed_rate_security
-  - interest_rate_risk
-  - mbs
-  - model_error
-  - mortgage_pricing
-  - oas
-  - prepayment_model
-  - relative_value_trades
-  - risk_neutral_model
 aliases:
-  - MBS pricing
-  - Mortgage duration
-  - OAS
-  - Option-adjusted spread
+- MBS pricing
+- Mortgage duration
+- OAS
+- Option-adjusted spread
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Mortgage-backed securities structure
+- Prepayment modeling and analysis
+- Securitization and CDO structures
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Yield curve construction and modeling
+- Forward rate calculations
+- Spot and discount factors
+- Mortgage Pricing Spreads and Duration and financial analysis
+- Mortgage Pricing Spreads and Duration in modern finance
+- Applications of Mortgage Pricing Spreads and Duration
+- 'Case study: Mortgage Pricing Spreads and Duration'
+last_enhanced: '2025-11-06 08:42:35'
+- treasury
+- term-structure
+- discount-factors
+- coupon
+- discount
+- fixed-income
+- mbs
+- liquidity
+- trading
+- bond
+- cash flow
+- bonds
+- convexity
+- duration
+- spread
+tags:
+- bankruptcy
+- basis
+- bid-ask
+- bond
+- case-study
+- cash-flow
+- cdo
+- covid-crisis
+- credit-curve
+- crisis-analysis
+- derivatives
+- duration
+- empirical-analysis
+- fixed-income
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- liquidity
+- mathematical-finance
+- mbs
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- sec-regulation
+- securitization
+- spread
+- treasury
+- yield-curve
+
 key_concepts:
-  - Fixed cash flow duration
-  - MBS cash flows
-  - Mean reverting OAS
-  - Model error misspecification
-  - Model price vs market price
-  - Mortgage risk sensitivities
-  - Negative convexity
-  - Option-adjusted spread (OAS)
-  - Prepayment impact on price
-  - Relative value trades
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # 15.7 MORTGAGE PRICING, SPREADS, AND DURATION  
 

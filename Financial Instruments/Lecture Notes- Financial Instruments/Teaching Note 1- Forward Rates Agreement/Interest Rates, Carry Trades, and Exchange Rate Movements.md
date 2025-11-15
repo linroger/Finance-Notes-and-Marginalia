@@ -1,20 +1,30 @@
 ---
 title: Interest Rates,  Carry Trades,  and Exchange Rate Movements
 tags:
-  - carry_trade
-  - currency_markets
-  - exchange_rates
-  - interest_rate_differentials
-  - interest_rates
+- carry_trade
+- currency
+- currency_markets
+- exchange-rate
+- exchange_rates
+- forward
+- future
+- interest-rate
+- interest_rate_differentials
+- interest_rates
 aliases:
-  - Carry Trade Strategy
-  - Exchange Rate Swings
+- Carry Trade Strategy
+- Exchange Rate Swings
 key_concepts:
-  - Carry trade strategy
-  - Covered interest parity
-  - Forward exchange rate
-  - Funding currency
-  - Interest rate differentials
+- Carry trade strategy
+- Covered interest parity
+- Derivative securities
+- Financial risk management
+- Forward exchange rate
+- Funding currency
+- Interest rate differentials
+- Portfolio optimization
+- Quantitative financial analysis
+- Risk assessment and mitigation
 ---
 
 # Interest Rates, Carry Trades, and Exchange Rate Movements

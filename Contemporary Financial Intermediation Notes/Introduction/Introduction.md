@@ -3,45 +3,104 @@ cssclasses: academia
 title: Introduction to Financial Intermediation
 linter-yaml-title-alias: Introduction to Financial Intermediation
 tags:
-  - financial_intermediation
-  - financial_contracts
-  - risk_management
-  - financial_system
-  - financial_crisis
-  - great_recession
-  - financial_innovation
-  - banking_regulation
-  - securitization
-  - leverage
+- abs
+- apt
+- banking_regulation
+- bond
+- bubble
+- capital-account
+- cdo
+- cdsos
+- counterparty
+- credit-risk
+- defi
+- duration
+- equity
+- financial-crisis
+- financial_contracts
+- financial_crisis
+- financial_innovation
+- financial_intermediation
+- financial_system
+- future
+- great_recession
+- hedge-fund
+- hft
+- inflation
+- interest-rate
+- lehman
+- leverage
+- liquidity
+- liquidity-risk
+- long-term-capital
+- ltcm
+- mbs
+- option
+- put
+- risk_management
+- securitization
+- stock
+- subprime
+- swap
+- treasury
+- unemployment
+- yield-curve
 aliases:
-  - Overview of Financial Intermediation
-  - Financial System Introduction
-  - Financial Markets and Institutions Introduction
+- Overview of Financial Intermediation
+- Financial System Introduction
+- Financial Markets and Institutions Introduction
 key_concepts:
-  - Financial contracts and securities
-  - Risk redistribution mechanisms
-  - Intertemporal consumption adjustment
-  - Financial system complexity and fragility
-  - Market information asymmetry
-  - Public intervention rationale
-  - Shadow banking system
-  - Securitization impacts
-  - Financial leverage consequences
-  - Great Recession lessons
+- Basis swap mechanics
+- CDO structure
+- Convexity adjustment
+- Credit tranching
+- Cross-currency basis
+- Currency swap structure
+- DV01 calculation
+- Derivative securities
+- Duration measurement
+- Financial contracts and securities
+- Financial leverage consequences
+- Financial risk management
+- Financial system complexity and fragility
+- Fixed vs floating leg
+- Great Recession lessons
+- Hedging with bonds
+- Interest rate sensitivity
+- Interest rate swap pricing
+- Intertemporal consumption adjustment
+- Market information asymmetry
+- Modified duration calculation
+- Mortgage-backed securities
+- Option-adjusted spread
+- PSA curves
+- Portfolio immunization
+- Portfolio optimization
+- Prepayment modeling
+- Present value of swaps
+- Price-yield relationship
+- Public intervention rationale
+- Quantitative financial analysis
+- Risk assessment and mitigation
+- Risk redistribution mechanisms
+- Securitization impacts
+- Shadow banking system
+- Subprime crisis
+- Swap curve construction
+- Swaption valuation
+- Waterfall mechanics
 ---
 
 # Introduction
-
-Financial intermediation has been in service of civilized mankind for centuries. Financial contracts, including financial securities (e.g., shares, bonds, and derivatives), and the markets in which they are traded have mitigated and repositioned risks to their most cost-effective venues and advantageously redistributed cash flows through time. Insurance, equity, swaps, futures, and options contracts redistribute risks from those for whom they are onerous or unacceptable to those for whom they are bearable, at a price. Credit contracts transport wealth and income through time, again for a price, facilitating (dis)saving and investments. Agents can thereby consume (invest) more (less) than they earn or possess, providing a valuable flexibility thereby benefiting individuals as well as society. Financial intermediaries play an important role in this process of risk redistribution and intertemporal adjustment of consumption. Together with financial contracts, securities and markets, financial intermediaries constitute the financial system.
+Financial intermediation has been in service of civilized mankind for centuries. Financial contracts, including financial securities (e.g., shares, bonds, and derivatives), and the markets in which they are traded have mitigated and repositioned risks to their most cost-effective venues and advantageously redistributed cash flows through time. Insurance, equity, swaps, futures, and options contracts redistribute risks from those for whom they are onerous or unacceptable to those for whom they are bearable, $\$a_t$$ a price. Credit contracts transport wealth and income through time, again for a price, facilitating (dis)saving and investments. Agents can thereby consume (invest) more (less) than they earn or possess, providing a valuable flexibility thereby benefiting individuals as well as society. Financial intermediaries play an important role in this process of risk redistribution and intertemporal adjustment of consumption. Together with financial contracts, securities and markets, financial intermediaries constitute the financial system.
 
 As a civilization develops economically, its financial system becomes more complex in order to serve a greater and more nuanced demand for risk management and allocation of capital. More than a few believe that we can gauge the progress of a civilization by the sophistication and complexity of its financial system. Yet, vulnerability almost inevitably accompanies complexity. Think of the evolution of tools. The sharper a scalpel, the greater the surgeon's precision, but mistakes, however infrequent, are apt to be more damaging with a sharper instrument. In the financial context, more indirect and nuanced instruments and more time efficient markets (think high frequency trading) will improve the allocation of resources, but they also make it more challenging to control, to modulate, to regulate. Complexity consequently gives rise to bubbles and crashes that impose costs in terms of social dislocations and lost output. This means the highs are higher and the lows are lower (greater fragility and volatility), even if we are better off, on average.
 
-To minimize these social dislocations, the fragility of the financial system has to be kept in check. Ordinarily, we would rely on market forces to provide the necessary checks and balances to limit the fragility of the financial system. However, this requires that market participants understand how financial contracts and securities work or fail, something that may prove to be a challenge in a complex financial system. In particular, the more sophisticated agents will know more about the securities that are traded and contracts that are used in the market, and these agents may exploit the uninformed, with predictably negative societal effects. This then becomes a predicate for public intervention in financial markets, which is undertaken at a cost in order to avoid the presumably greater costs resulting from laissez faire where the public is too readily exploited as a result of the private information and market power of some institutions and individuals.
+To minimize these social dislocations, the fragility of the financial system has to be kept in check. Ordinarily, we would rely on market forces to provide the necessary checks and balances to limit the fragility of the financial system. However, this requires that market participants understand how financial contracts and securities work or fail, something that may prove to be a challenge in a complex financial system. In particular, the more sophisticated agents will know more about the securities that are traded and contracts that are used in the market, and these agents may exploit the uninformed, with predictably negative societal effects. This then becomes a predicate for public intervention in financial markets, which is undertaken $\$a_t$$ a cost in order to avoid the presumably greater costs resulting from laissez faire where the public is too readily exploited as a result of the private information and market power of some institutions and individuals.
 
 Understanding these issues requires one to access the body of knowledge in the financial intermediation area, a body of knowledge that has particularly grown since the 2007–2009 global crisis. This crisis is an issue we will turn to shortly. We first explain how our discussion of this body of knowledge is organized in the book.
 
 ## Some More on the Organization of the Chapters
-
 Chapter 1 develops key concepts and analytical tools that are used subsequently. Chapter 2 introduces the plenitude of financial intermediaries, stressing the variety of institutions and financial services provided. This chapter describes the variety of financial needs that emerge in the typical developed economy and the responsiveness of markets in serving them. Chapter 3 turns to the economics of financial intermediation and the details of the financial system. Chapter 4 examines the risks managed by intermediaries, particularly those that are basic in the provision of financial services. Hence we encounter liquidity, market, interest rate, and credit risks. We also examine how these risks are integrated in forming a risk culture and need to be managed jointly, Enterprise Risk Management. Chapter 5 treats the details of interest rate risk, particularly root causes, measurement, and control. Chapter 6 tackles the details of liquidity risk.
 
 Chapters 7, 8, and 9 constitute a more detailed examination of credit, default, or counterparty risk, which inheres in lending and reflects the core competency of commercial banks. Lending requires a searching analysis of the creditworthiness of the potential borrower followed by an appropriate design of the lending contract. Terms of the contract involve pricing of course, but this is only the beginning. Duration of the loan, periodic payments of interest, fees, amortization, and the issues of collateral and covenants provide scope for endless variation in contractual design. Indeed, the loan covenants can lengthen or shorten the expected duration of the loan. So there is almost boundless scope for tailoring the terms of the loan to create value for both the lender and the borrower. After consummating the loan, there comes the all-important monitoring whereby the lender protects itself from unacceptable deterioration in the quality of the credit. If the borrower violates covenants of the loan contract or fails to make timely payments the loan will typically "accelerate" or become payable immediately. This, of course, invites a possible receivership or more likely a renegotiation, which involves yet additional banking skills. Credit management, in all of its varied manifestations, is the defining skill set of commercial banking. Specifically, Chapter 7 deals with the basics of spot lending; Chapter 8 examines how loans are priced, why credit is rationed, and how loans are restructured to reduce the probability of default; and Chapter 9 deals with loan syndications, loan sales, and project financing.
@@ -61,10 +120,9 @@ Chapter 16 discusses major milestones in bank legislation and regulation. Every 
 Chapter 17 examines the evolving boundaries between banks and financial markets. While we often think of banks and capital markets as distinct and competitive, their boundaries have become ever less fulgent as banks and markets coevolve. Finally, Chapter 18 offers some speculative thoughts on the future of banking.
 
 ## How These Concepts Help Us Understand the Great Recession: The 2007–2009 Subprime Crisis
-
 The Great Recession, beginning late in 2007, was said to be the worst since the Great Depression of 1929; it is discussed extensively in Chapter 14. It followed a 20-year period often described as the Great (is the adjective overworked?) Moderation. A perfect storm is the way some have described the Great Recession. The market for residential and commercial mortgages was central to the Great Recession's severity if not to its timing. Due to a variety of factors that we will discuss later in the book, U.S. housing prices had risen, more or less uninterruptedly for decades prompting a collective overconfidence, an arrogance, expressed most concretely in an unprecedented and unsustainable relaxation of mortgage standards. A whole vocabulary developed around deterioration in credit standards. There were lo-docs and no-docs (referring to mortgage applications that did not require adequate documentation of income, employment, etc.), as well as zero-down, neg-am, etc. (referring to easy payment terms). All of these were expressions of the provision of mortgage finance to those who would previously not have qualified for home loans, certainly not in the amount offered. The liberality in credit standards inevitably led to expanded demand for home ownership and supported a seemingly ineluctable escalation in home prices. Even if buyers could ill afford to service their mortgage debt currently, the virtually certain increase in the value of their residence would provide the capital gains to assure solvency. Not only did first mortgages proliferate, second mortgages (home equity loans) grew on the basis of rising home values. Thus, the mortgage market inflated the bubble in housing, that is, until late 2007. A nationwide decline in housing prices followed, and years later we were still dealing with painfully high unemployment and underemployment and wasted potential output in the trillions of dollars, not to mention the accompaniment of polarizing social unrest. In addition to covering these issues in Chapter 14, the discussion relies on concepts covered earlier in the chapters leading up to Chapter 14.
 
-Paradoxically, it appears that the very developments of the financial market that facilitated economic growth exacerbated the Great Recession. Indeed, this is the thesis of the celebrated This Time is Different by Reinhart and Rogoff (2009), a meticulous study of 800 years of business cycles. Important financial contracts and the many innovations in these contracts (like securitization) facilitated unprecedented financial leverage in the household, banking, and government-sponsored enterprise (so-called GSEs, especially Fannie Mae and Freddie Mac) sectors. However, there was more to the financial innovation story. Tainted mortgages were sold to, or guaranteed by, the massively overleveraged, politically influenced Fannie Mae, and Freddie Mac, or sold for resale to Wall Street's similarly overleveraged investment banks. The investment banks resold their mortgage assets to trusts that pooled the mortgages and sold claims against the cash flows generated by the mortgage pools. This added level of intermediation, called securitization, led to "tranched" financial claims typically categorized in descending order of seniority; this is discussed at great length in Chapter 11. That is, the most senior claims would be paid in full first, followed by each descending class of claims until the periodic cash flows generated by the mortgage pools either were exhausted or all tranches were contractually satisfied. These securitized claims were complex in that the underlying pools of mortgages were large and heterogeneous and the claims on the pools were structured giving rise to added subtlety and opacity. A kind of multiplicative complexity frustrated those seeking to assess the risk of mortgagebacked securities. Buyers found it prohibitively expensive to perform independent due diligence as their clients assumed had been done routinely. Rather, buyers of mortgage-backed securities became overly dependent on the rating agencies, the Moody's and Standard and Poors of the financial marketplace. But, the rating agencies themselves were operating in an environment in which historical data – which turned out to be a poor predictor of future defaults – exhibited low mortgage defaults and created a false sense of security. Moreover, some have suggested that the rating agencies were compromised by contracts that provided them with inappropriate incentives. That is, although they had reputational incentives to credibly certify the credit qualities of the issues they rated, their immediate compensation was less dependent on the accuracy of their work than on the volume of securities they evaluated. This revenue inducement led the rating agencies to compete to retain clients who paid for their services (the "issuer pays" model), and the clients quite naturally wished to maximize the certified quality of the securities they sought to sell. We discuss rating agencies in Chapters 2 and 17. The upshot of this misbegotten dynamic was that there was "ratings inflation" – the credit qualities implied by ratings seemed exaggerated, at least with the benefit of hindsight – and there were also failures of fiduciary responsibilities in the market for mortgagebacked securities. Does the "perfect storm" come into view? There is more.
+Paradoxically, it appears that the very developments of the financial market that facilitated economic growth exacerbated the Great Recession. Indeed, this is the thesis of the celebrated This Time is Different by Reinhart and Rogoff (2009), a meticulous study of 800 years of business cycles. Important financial contracts and the many innovations in these contracts (like securitization) facilitated unprecedented financial leverage in the household, banking, and government-sponsored enterprise (so-called GSEs, especially Fannie Mae and Freddie Mac) sectors. However, there was more to the financial innovation story. Tainted mortgages were sold to, or guaranteed by, the massively overleveraged, politically influenced Fannie Mae, and Freddie Mac, or sold for resale to Wall Street's similarly overleveraged investment banks. The investment banks resold their mortgage assets to trusts that pooled the mortgages and sold claims against the cash flows generated by the mortgage pools. This added level of intermediation, called securitization, led to "tranched" financial claims typically categorized in descending order of seniority; this is discussed $\$a_t$$ great length in Chapter 11. That is, the most senior claims would be paid in full first, followed by each descending class of claims until the periodic cash flows generated by the mortgage pools either were exhausted or all tranches were contractually satisfied. These securitized claims were complex in that the underlying pools of mortgages were large and heterogeneous and the claims on the pools were structured giving rise to added subtlety and opacity. A kind of multiplicative complexity frustrated those seeking to assess the risk of mortgagebacked securities. Buyers found it prohibitively expensive to perform independent due diligence as their clients assumed had been done routinely. Rather, buyers of mortgage-backed securities became overly dependent on the rating agencies, the Moody's and Standard and Poors of the financial marketplace. But, the rating agencies themselves were operating in an environment in which historical data – which turned out to be a poor predictor of future defaults – exhibited low mortgage defaults and created a false sense of security. Moreover, some have suggested that the rating agencies were compromised by contracts that provided them with inappropriate incentives. That is, although they had reputational incentives to credibly certify the credit qualities of the issues they rated, their immediate compensation was less dependent on the accuracy of their work than on the volume of securities they evaluated. This revenue inducement led the rating agencies to compete to retain clients who paid for their services (the "issuer pays" model), and the clients quite naturally wished to maximize the certified quality of the securities they sought to sell. We discuss rating agencies in Chapters 2 and 17. The upshot of this misbegotten dynamic was that there was "ratings inflation" – the credit qualities implied by ratings seemed exaggerated, $$a_t$$ least with the benefit of hindsight – and there were also failures of fiduciary responsibilities in the market for mortgagebacked securities. Does the "perfect storm" come into view? There is more.
 
 The most junior and riskiest class of the tranched securitizations were commonly unrated residual claims which were difficult for the investment banks to peddle. These would reside on the balance sheet of the investment banks for prolonged periods waiting to be resecuritized into "toxic" CDOs (Collateralized Debt Obligations). CDOs were originally developed for the corporate debt market and were named as such to represent the fact that the collateral backing the securitized claims (or tranches) consisted of debt securities. However, in the years leading up to the 2007–2009 financial crisis, the rapid growth in the CDO market came from the mortgage-backed securities market, and many CDOs were created through aggregations of the detritus (junior stubs) of earlier securitizations. As indicated, the difficulty of evaluating these leveraged, riskier claims inflated the balance sheets of the banks engaged in securitization. In addition, the market became flooded with these extraordinarily opaque CDOs which also bore exaggerated quality indications from rating agencies.
 
@@ -75,7 +133,6 @@ However, the institutional investors providing the financing were constrained in
 The major point of Reinhart and Rogoff (2009) is that economic downturns precipitated by the financial sector tend to be more severe in depth and duration. The Great Recession provided confirming evidence.
 
 ## The Legacy of the Great Recession
-
 Fair to say, the Great Recession caused an outpouring of retrospection by all manner of specialists, anointed and self-appointed: academics, management gurus, legislators and politicians of all stripes, public regulators, and bankers themselves. Turning back to recent history, people asked how Continental Illinois Bank, the country's largest commercial lender, and celebrated as one of America's five best managed businesses by Dun's Review in 1982, could be bankrupt by 1984. And how could this most prestigious banking behemoth be victimized by a minuscule shopping center bank (Penn Square Bank) in Oklahoma?
 
 How could the entire Savings and Loan industry, comprising 4500 firms, bet its existence on an upward sloping yield curve that was widely known to flip according to volatile interest rate expectations? The industry, heavily regulated owing to its government insured deposits, has largely vanished, leaving a residue of public losses variously estimated in the hundreds of billions of dollars. Indeed, the failure of the Savings and Loan industry reoriented mortgage finance toward mortgage bankers, investment banks, and the aforementioned GSEs. That institutional reorientation, together with the spread of securitization and excess leverage, enabled the mortgage disaster central to the Great Recession.
@@ -84,7 +141,7 @@ Thus, the Great Recession can – to some extent – be traced directly to the S
 
 The next watershed financial disaster came in the late 90s with the collapse of the storied hedge fund, Long Term Capital Management (LTCM). Founded in 1994 by John W. Meriwether, a legendary trader, LTCM specialized in outsized transactions with minimal investment risk. Among Meriwether's partners were Robert Merton and Myron Scholes, worldrenowned academics and Nobel Prize winners. Not only was LTCM an intellectual powerhouse, it also achieved extraordinary size and leverage that accompanied worldwide acclaim. At the beginning of 1998, the year of its demise, LTCM had almost $5 billion of book value capital, assets of almost $130 billion and off-balance sheet derivative positions of $1.25 trillion in notional value. It was a largely unregulated intermediary that traded with virtually every important financial institution on the planet. It was the very essence of what today's public regulators would deem a "systemically important financial institution" warranting public oversight. Its failure was caused by a combination of many circumstances: to an evolution away from its initial low-risk investment strategies, high financial leverage, and most notably two external shocks, the 1997 East Asia financial crisis and the 1998 default on Russian government debt. These external shocks induced unprecedented correlations among various asset classes that had previously exhibited low correlations, substantially diminishing the gains from portfolio diversification, and producing losses that resulted in a flight of investors and a dissipation of capital. These events prompted a shotgun bailout financed by their trading-partner banks, but cajoled by the U.S. Treasury and the Federal Reserve. The story of this spectacular collapse is well told by Roger Lowenstein (2000) in his "When Genius Failed: The Rise and Fall of Long-Term Capital Management". From our viewpoint, LTCM provides one more data point documenting both the fragility and centrality of contemporary financial arrangements, especially when instruments and trading strategies become nuanced.
 
-It was a brief 3 years after LTCM failed that Enron collapsed. This was, at the time, the largest bankruptcy in history. Enron had over $100 billion in revenues in 2000, one year before its demise. Again, a paragon fell from highest repute, trading at over $90 per share in 2001 to virtual worthlessness in the same year. Here was the world's largest energy trader, led by a blue-ribbon board and executives with nonpareil credentials, utterly demolished. Its CFO was initially charged with 98 counts of fraud, money laundering, insider trading, and conspiracy. He received a sentence of 10 years without parole. The board chairman and CEO, Kenneth Lay and Jeffrey Skilling, were charged with 53 counts of bank fraud, making false statements to banks and auditors, securities and wire fraud, money laundering, conspiracy, and insider trading. Skilling was sentenced to 24 years and 4 months in prison. Lay succumbed before sentencing. Arthur Andersen, the Enron auditor, was found guilty of obstruction of justice (destroying evidence) and was put out of business. (Andersen was to be later absolved on appeal, but too late because their dissolution proved irreversible.)
+It was a brief 3 years after LTCM failed that Enron collapsed. This was, $\$a_t$$ the time, the largest bankruptcy in history. Enron had over $100 billion in revenues in 2000, one year before its demise. Again, a paragon fell from highest repute, trading $\$a_t$$ over $90 per share in 2001 to virtual worthlessness in the same year. Here was the world's largest energy trader, led by a blue-ribbon board and executives with nonpareil credentials, utterly demolished. Its CFO was initially charged with 98 counts of fraud, money laundering, insider trading, and conspiracy. He received a sentence of 10 years without parole. The board chairman and CEO, Kenneth Lay and Jeffrey Skilling, were charged with 53 counts of bank fraud, making false statements to banks and auditors, securities and wire fraud, money laundering, conspiracy, and insider trading. Skilling was sentenced to 24 years and 4 months in prison. Lay succumbed before sentencing. Arthur Andersen, the Enron auditor, was found guilty of obstruction of justice (destroying evidence) and was put out of business. (Andersen was to be later absolved on appeal, but too late because their dissolution proved irreversible.)
 
 The Enron scandal decimated reputations, lives, and fortunes. It was enabled in the last analysis by misrepresentation based on aggressive accounting countenanced by one of the world's leading accounting firms, a prestigious board of directors, and an ostensibly impeccable management team. The chairman of the Audit Committee was a leading academic accountant and dean of the Stanford Business School. The Chairman of the Board was a Ph.D. in economics and the Chief Financial Officer, an MBA from the Kellogg School of Management. Moreover, Enron operated in a highly regulated environment. How could all of these controls, external and internal, layered upon each other with conscious redundancy, have ignored blatant unethical, even illegal, behaviors that were ultimately exposed by less-informed journalists and securities analysts? More to our point, these transgressions were done with novel financial transactions and aggressive accounting and obscured leverage. Perhaps most notable were the so-called Special Purpose Entities (SPEs) that permitted Enron to devolve assets and liabilities into off-balance sheet entities that permitted Enron to reduce its nominal financial leverage and thereby massively understate its risk. Remarkably, this occurred only a few years before Citibank attracted unwanted notoriety for tweaking the SPE and redeploying it as a Structured Investment Vehicle (SIV). Again, its effect was to understate financial leverage. The lesson of the Enron tragedy was again the fragility of finance and the vulnerability of the less informed. The fact that Citigroup could employ SIVs so aggressively only a few short years after Enron's widely visible discrediting is doubly puzzling.
 
@@ -95,5 +152,4 @@ George Santayana admonished that those failing to remember the past are condemne
 As you embark on this journey of learning, open yourself to an appreciation for the splendid complexity arising from the irrepressible and creative innovations and adaptations of the financial system. Private-sector resilience is followed by public regulatory responses that, in turn, spur still more circumventing innovations. The endless malleability of the financial system stems from its stock in trade being nothing more substantial than the financial contract, the variation of which is limited only by the imagination of contracting parties. But almost inevitably, private sector ingenuity gives rise to occasional chicanery and the process of intermediation therefore displays the worst as well as the best in the human condition. It is the consequent drama that makes this topic so fascinating. Enjoy the illuminating journey!
 
 # Reference
-
 Reinhart, C., Rogoff, K., 2009. This time is different: eight centuries of financial folly. Princeton University Press, Princeton, NJ.

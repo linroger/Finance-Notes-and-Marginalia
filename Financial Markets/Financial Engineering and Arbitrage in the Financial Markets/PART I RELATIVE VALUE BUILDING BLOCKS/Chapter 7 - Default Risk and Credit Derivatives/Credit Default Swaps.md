@@ -1,23 +1,149 @@
 ---
-tags:
-  - corporate_bonds
-  - credit_default_swaps
-  - credit_derivatives
-  - credit_risk
-  - floating_rate_bonds
-  - no_arbitrage
 aliases:
-  - CDS
-  - Credit Default Swap
-  - Default Insurance
-  - Protection Contract
+- CDS
+- Credit Default Swap
+- Default Insurance
+- Protection Contract
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Credit Default Swaps and financial analysis
+- Credit Default Swaps in modern finance
+- Applications of Credit Default Swaps
+- 'Case study: Credit Default Swaps'
+last_enhanced: '2025-11-06 08:42:33'
+- swaps
+- spread
+- credit-spread
+- currency-swap
+- yield
+- fixed-income
+- swap
+- maturity
+- cds
+- duration
+- recovery
+- bond
+- irs
+- treasury
+- trading
+tags:
+- arbitrage
+- austerity
+- banking
+- bankruptcy
+- basis
+- bid-ask
+- bond
+- case-study
+- cash-flow
+- cdo
+- collateral
+- collateral-haircut
+- corporate-bond
+- counterparty
+- credit-market
+- crisis-analysis
+- currency
+- default
+- derivatives
+- duration
+- empirical-analysis
+- european
+- european-debt-crisis
+- eurozone
+- fixed-income
+- graduate-level
+- grexit
+- haircut
+- hedging
+- institutional-quality
+- learning-from-crisis
+- liquidity
+- margin-call
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- repo
+- risk-weight
+- sec-regulation
+- securitization
+- sovereign
+- sovereign-debt
+- spread
+- stress-test
+- structured-product
+- synthetic
+- tranche
+- treasury
+- valuation-discount
+- yield-curve
+
 key_concepts:
-  - Default insurance arrangement
-  - No-arbitrage principle
-  - Periodic premium payments
-  - Protection buyer seller
-  - Reference issue default risk
+- Austerity Measures
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Collateral Adequacy
+- Collateral Haircut Models
+- Crisis Case Study Design
+- Currency Union Risks
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- European Debt Crisis
+- European Integration
+- Eurozone Crisis Management
+- Financial Crisis Case Studies
+- Financial Markets and Institutions
+- Fiscal Integration
+- Greek Debt Crisis
+- Haircut and Valuation Adjustments
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Market Risk Adjustments
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management Haircuts
+- Risk Management and Hedging Strategies
+- Risk Weight Calculations
+- Risk-Based Haircuts
+- Sovereign Debt Restructuring
+- Valuation Discounts
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 7.1 CREDIT DEFAULT SWAPS  
 

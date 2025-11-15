@@ -2,23 +2,29 @@
 linter-yaml-title-alias: FIXED INCOME ASSET PRICING
 title: PSET II Fixed Income Asset Pricing 1
 tags:
-  - duration_convexity
-  - fixed_income_asset_pricing
-  - interest_rate_hedge
-  - leveraged_inverse_floater
-  - term_sheet
+- asset-pricing
+- duration_convexity
+- fixed_income_asset_pricing
+- interest-rates
+- interest_rate_hedge
+- leveraged_inverse_floater
+- term_sheet
 aliases:
-  - Homework 2
-  - JCH Fixed Income Group
-  - LIF
-  - PSET II
+- Homework 2
+- JCH Fixed Income Group
+- LIF
+- PSET II
 key_concepts:
-  - Cash flows decomposition
-  - Convexity
-  - Duration calculation
-  - Fixed rate note
-  - Leveraged Inverse Floaters
+- Financial theory and academic research
+- Investment analysis and portfolio management
+- Fixed income securities and bond markets
+- Asset pricing and derivatives valuation
+last_enhanced: '2025-11-06 08:42:40'
 ---
+
+
+
+
 
 # PSET II Fixed Income Asset Pricing 1
 

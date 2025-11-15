@@ -1,25 +1,33 @@
 ---
 cssclasses:
-  - academia
+- academia
 title: Economic Principles - Why and How Capitalism Needs To Be Reformed
 source: https://www.economicprinciples.org/Why-and-How-Capitalism-Needs-To-Be-Reformed/
-description:
+description: null
 tags:
-  - american_dream
-  - capitalism_reform
-  - economic_principles
-  - income_inequality
-  - middle_class
+- american_dream
+- asset-pricing
+- banking
+- capitalism_reform
+- economic_principles
+- income_inequality
+- interest-rates
+- middle_class
 aliases:
-  - Capitalism Reform
-  - Economic System Reform
+- Capitalism Reform
+- Economic System Reform
 key_concepts:
-  - American Dream
-  - Capitalism's shortcomings
-  - Economic pie division
-  - Income/wealth gaps
-  - Socialist vs Capitalist
+- Practical examples and implementation
+- Investment analysis and portfolio management
+- Fixed income securities and bond markets
+- International finance and global markets
+- Monetary policy and central banking
+last_enhanced: '2025-11-06 08:42:40'
 ---
+
+
+
+
 
 # Economic Principles - Why and How Capitalism Needs To Be Reformed
 ## Summary

@@ -1,19 +1,70 @@
 ---
-cssclasses: [international-economics]
+cssclasses:
+- international-economics
 title: Chapter 5. Resources and Trade_ The Heckscher-Ohlin Model
-tags: [international-economics, heckscher-ohlin-model, factor-proportions, comparative-advantage]
-aliases: [Heckscher-Ohlin Model, Factor Proportions Theory]
-key_concepts:
-  - Factor Abundance
-  - Factor Intensity
-  - Factor-Proportions Theory
-  - Factor Price Equalization
-  - Stolper-Samuelson Theorem
-  - Rybczynski Theorem
-  - Long-run Income Distribution
-  - Resource Endowments
+- comparative-advantage
+- factor-proportions
+- heckscher-ohlin-model
+- international-economics
+aliases:
+- Heckscher-Ohlin Model
+- Factor Proportions Theory
+- Financial theory and academic research
+- Practical examples and implementation
+- International finance and global markets
+- Mathematical and statistical modeling in finance
 linter-yaml-title-alias: Chapter 5. Resources and Trade_ The Heckscher-Ohlin Model
+last_enhanced: '2025-11-06 08:42:49'
+tags:
+- bid-ask
+- capital-ratio
+- credit-curve
+- cross-border
+- econometric
+- graduate-level
+- institutional-quality
+- mathematical-finance
+- professional-standard
+- provision
+- quantitative-analysis
+- quantitative-methods
+- spread
+- statistical-model
+
+key_concepts:
+- Banking and Financial Intermediation
+- Econometric Analysis
+- Financial Econometrics
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Institutional-Quality Financial Education
+- Mathematical Finance Applications
+- Mathematical Modeling
+- Quantitative Analysis in Finance
+- Quantitative Methods in Finance
+- Quantitative Risk Management
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+- Statistical Finance
+- Statistical Modeling
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # Chapter 5. Resources and Trade: The Heckscher-Ohlin Model
 

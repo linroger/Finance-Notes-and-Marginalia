@@ -1,22 +1,112 @@
 ---
-tags:
-  - cftc
-  - fixed_income
-  - interest_rate_swaps
-  - market_size
-  - swap_dealers
 aliases:
-  - ENN
-  - IRS market
-  - five-year equivalent
-  - notional amount
+- ENN
+- IRS market
+- five-year equivalent
+- notional amount
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Credit analysis and rating
+- Default probability modeling
+- Loss given default estimation
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Market Size and Participants and financial analysis
+- Market Size and Participants in modern finance
+- Applications of Market Size and Participants
+- 'Case study: Market Size and Participants'
+last_enhanced: '2025-11-06 08:42:35'
+- credit-risk
+- treasury
+- dv01
+- counterparty
+- swaption
+- fixed-income
+- corporate-bond
+- interest-rate
+- irs
+- risk
+- bond
+- bonds
+- swap
+- interest-rates
+- swaps
+tags:
+- banking
+- basis
+- bid-ask
+- bond
+- case-study
+- cftc
+- commodity
+- counterparty
+- crisis-analysis
+- currency
+- default
+- derivatives
+- duration
+- empirical-analysis
+- fixed-income
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- reporting-requirement
+- sec-regulation
+- securitization
+- spread
+- synthetic
+- treasury
+- yield-curve
+
 key_concepts:
-  - CFTC reporting entities
-  - Entity-netted notionals (ENNs)
-  - Five-year equivalent notional
-  - Interest rate swap products
-  - Long and short positions
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # 13.1 MARKET SIZE AND PARTICIPANTS  
 

@@ -1,22 +1,94 @@
 ---
-tags:
-  - cross_currency_basis
-  - fx_hedged_pickup
-  - government_bonds
-  - interest_rates
-  - xccy_basis
+- banking
+- credit-risk
+- cross_currency_basis
+- forward-contracts
+- fx_hedged_pickup
+- government-bonds
+- government_bonds
+- hedging-strategies
+- interest-rates
+- interest_rates
+- options-greeks
+- spot-rates
+- swaps
+- time-series
+- xccy_basis
+- yield-curve
 aliases:
-  - Cross-currency basis
-  - FX Hedged Pickup
-  - Hedged Pickups
-  - XCCY basis
+- Cross-currency basis
+- FX Hedged Pickup
+- Hedged Pickups
+- XCCY basis
+- Yield curve modeling and term structure analysis
+- Interest rate swaps and swap curve construction
+- Financial theory and academic research
+- Practical examples and implementation
+- Investment analysis and portfolio management
+- Fixed income securities and bond markets
+- International finance and global markets
+last_enhanced: '2025-11-06 08:42:38'
+tags:
+- banking
+- basis
+- bid-ask
+- bond
+- credit-curve
+- credit-market
+- cross-border
+- currency
+- derivatives
+- european
+- fixed-income
+- graduate-level
+- hedging
+- institutional-quality
+- liquidity
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- sec-regulation
+- securitization
+- sovereign
+- spread
+- yield-curve
+
 key_concepts:
-  - FX hedged pickup
-  - cross currency basis
-  - currency quote convention
-  - government bond yields
-  - xccy basis calculation
+- Banking and Financial Intermediation
+- Banking and Intermediation
+- Credit Risk Assessment
+- Derivative Securities
+- Financial Crisis Analysis
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Financial Regulation and Compliance
+- Institutional-Quality Financial Education
+- Liquidity and Market Structure
+- Market Trading and Hedging
+- Quantitative Finance Methods
+- Quantitative Methods in Finance
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # Chapter 3 Calculating Novel Cross-Currency Bases and FX Hedged Pickups
 

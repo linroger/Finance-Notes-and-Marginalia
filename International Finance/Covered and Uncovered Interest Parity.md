@@ -2,23 +2,37 @@
 cssclasses: academia
 title: Covered and Uncovered Interest Parity
 tags:
-  - covered_interest_parity
-  - exchange_rates
-  - interest_rates
-  - international_finance
-  - uncovered_interest_parity
+- arbitrage
+- covered_interest_parity
+- exchange_rates
+- forward-contracts
+- forward-rates
+- futures-contracts
+- hedging-strategies
+- interest-rates
+- interest_rates
+- international_finance
+- market-structure
+- options-greeks
+- uncovered_interest_parity
 aliases:
-  - CIP
-  - FX Parity
-  - Interest Parity
-  - UIP
+- CIP
+- FX Parity
+- Interest Parity
+- UIP
 key_concepts:
-  - Arbitrage in FX markets
-  - 'CIP: interest rate parity'
-  - Forward exchange contracts
-  - Risk premium deviations
-  - 'UIP: exchange rate expectations'
+- Forward rate calculations and forward curve construction
+- Arbitrage opportunities and relative value trading
+- Futures contracts and forward pricing
+- Investment analysis and portfolio management
+- International finance and global markets
+- Financial crises and market stress events
+last_enhanced: '2025-11-06 08:42:47'
 ---
+
+
+
+
 
 # Covered and Uncovered Interest Parity
 

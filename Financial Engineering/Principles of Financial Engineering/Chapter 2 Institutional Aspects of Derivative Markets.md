@@ -1,20 +1,113 @@
 ---
 title: Institutional Aspects of Derivative Markets
 tags:
-  - clearing_houses
-  - derivatives_markets
-  - euromarkets
-  - futures_exchanges
-  - market_conventions
+- abs
+- algo-trading
+- american
+- bid-ask
+- bond
+- call
+- cap
+- cds
+- cdsos
+- clearing_houses
+- commodity
+- corporate-bond
+- counterparty
+- currency
+- defi
+- derivatives_markets
+- dodd-frank
+- equity
+- euribor
+- euromarkets
+- financial-crisis
+- fixed-income
+- floor
+- forward
+- future
+- futures_exchanges
+- garch
+- gold
+- greeks
+- hedge-fund
+- index
+- interest-rate
+- libor
+- limit-order
+- liquidity
+- margin-call
+- market-making
+- market-order
+- market-risk
+- market_conventions
+- mbs
+- merger
+- multiple
+- net-zero
+- oil
+- option
+- order-book
+- put
+- stochastic
+- stock
+- swap
+- swaption
+- treasury
 aliases:
-  - Derivative Market Infrastructure
-  - Institutional Aspects
+- Derivative Market Infrastructure
+- Institutional Aspects
 key_concepts:
-  - Clearing and settlement
-  - Euromarkets structure
-  - Futures vs forwards
-  - Market participants
-  - Trading conventions
+- ' tranche valuation'
+- ARCH effects
+- Basis swap mechanics
+- CDO squared structures
+- CDO structure
+- CDS curve construction
+- CDS spread calibration
+- Clearing and settlement
+- Credit Default Swaps
+- Credit index products
+- Credit tranching
+- Cross-currency basis
+- Currency swap structure
+- Default correlation
+- Delta risk management
+- Derivative securities
+- Dynamic hedging strategies
+- EGARCH specification
+- Euromarkets structure
+- Financial risk management
+- Fixed vs floating leg
+- Futures vs forwards
+- GARCH volatility modeling
+- GARCH(p,q) models
+- GARCH-in-Mean models
+- Gamma effects on options
+- Interest rate swap pricing
+- Market participants
+- Mortgage-backed securities
+- Multivariate GARCH
+- Option-adjusted spread
+- Options Greeks measurement
+- PSA curves
+- Portfolio optimization
+- Portfolio risk hedging
+- Prepayment modeling
+- Present value of swaps
+- Quantitative financial analysis
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Subprime crisis
+- Swap curve construction
+- Swaption valuation
+- Synthetic CDO pricing
+- Theta time decay
+- Time-varying volatility
+- Trading conventions
+- Vega volatility sensitivity
+- Volatility clustering
+- Waterfall mechanics
 cssclasses: academia
 ---
 

@@ -1,27 +1,117 @@
 ---
 title: Introduction to Interest-Rate Swap Engineering
 tags:
-  - interest-rate-swaps
-  - swap-engineering
-  - financial-derivatives
-  - equity-swaps
-  - basis-swaps
-  - asset-swaps
-  - swap-logic
-  - derivatives-engineering
+- abs
+- asset-swap
+- asset-swaps
+- basis-swap
+- basis-swaps
+- bid-ask
+- bond
+- bps
+- call
+- cds
+- commodity
+- convexity
+- corporate-bond
+- counterparty
+- credit-risk
+- credit-spread
+- cta
+- currency
+- defi
+- derivatives-engineering
+- dividend-yield
+- duration
+- dv01
+- equity
+- equity-swap
+- equity-swaps
+- euribor
+- exchange-rate
+- financial-derivatives
+- fixed-income
+- forward
+- future
+- gdp
+- greeks
+- hedge-fund
+- index
+- inflation
+- interest-rate
+- interest-rate-swaps
+- libor
+- managed-future
+- market-risk
+- mbs
+- put
+- share-repurchase
+- stock
+- swap
+- swap-engineering
+- swap-logic
+- total-return
+- tracking-error
+- treasury
+- yield-curve
 aliases:
-  - Chapter 4 Swap Engineering
-  - Interest Rate Swap Introduction
-  - Swap Markets Introduction
+- Chapter 4 Swap Engineering
+- Interest Rate Swap Introduction
+- Swap Markets Introduction
 key_concepts:
-  - Swap logic
-  - Equivalent of zero in finance
-  - Equity swaps
-  - Interest rate swaps
-  - Basis swaps
-  - Asset swaps
-  - Swap types
-  - Swap applications
+- ' tranche valuation'
+- Asset swaps
+- Basis swap mechanics
+- Basis swaps
+- CDO squared structures
+- CDO structure
+- CDS curve construction
+- CDS spread calibration
+- Convexity adjustment
+- Credit Default Swaps
+- Credit index products
+- Credit tranching
+- Cross-currency basis
+- Currency swap structure
+- DV01 calculation
+- Default correlation
+- Delta risk management
+- Derivative securities
+- Duration measurement
+- Dynamic hedging strategies
+- Equity swaps
+- Equivalent of zero in finance
+- Financial risk management
+- Fixed vs floating leg
+- Gamma effects on options
+- Hedging with bonds
+- Interest rate sensitivity
+- Interest rate swap pricing
+- Interest rate swaps
+- Modified duration calculation
+- Mortgage-backed securities
+- Option-adjusted spread
+- Options Greeks measurement
+- PSA curves
+- Portfolio immunization
+- Portfolio optimization
+- Portfolio risk hedging
+- Prepayment modeling
+- Present value of swaps
+- Price-yield relationship
+- Quantitative financial analysis
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Subprime crisis
+- Swap applications
+- Swap curve construction
+- Swap logic
+- Swap types
+- Swaption valuation
+- Synthetic CDO pricing
+- Theta time decay
+- Vega volatility sensitivity
+- Waterfall mechanics
 cssclasses: academia
 ---
 

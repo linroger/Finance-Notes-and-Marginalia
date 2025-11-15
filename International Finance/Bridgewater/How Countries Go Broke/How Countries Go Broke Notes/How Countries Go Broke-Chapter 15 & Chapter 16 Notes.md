@@ -1,3 +1,113 @@
+---
+- asset-pricing
+- banking
+- credit-risk
+- credit-spreads
+- financial-regulation
+- futures-contracts
+- hedging-strategies
+- interest-rates
+- market-risk
+- market-structure
+- options
+- swaps
+- trading-strategies
+- Model calibration and parameter estimation
+- Futures contracts and forward pricing
+- Interest rate swaps and swap curve construction
+- Credit spreads and credit risk assessment
+- Financial theory and academic research
+- Practical examples and implementation
+- Derivatives and structured financial instruments
+- Trading strategies and market implementation
+- Investment analysis and portfolio management
+- Financial valuation and pricing methodologies
+- Fixed income securities and bond markets
+- International finance and global markets
+- Monetary policy and central banking
+- Financial crises and market stress events
+- Basel regulations and banking capital requirements
+last_enhanced: '2025-11-06 08:42:43'
+tags:
+- asian
+- balance-sheet
+- banking
+- basel
+- basis
+- bond
+- cash-flow
+- central-bank
+- commodity
+- covid-crisis
+- credit-curve
+- credit-market
+- credit-rating
+- cross-border
+- currency
+- default
+- derivatives
+- econometric
+- equity
+- financial-crisis
+- finra
+- fintech
+- fixed-income
+- graduate-level
+- hedging
+- income-statement
+- institutional-quality
+- leverage
+- liquidity
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-analysis
+- quantitative-easing
+- quantitative-methods
+- robo-advisor
+- sec-regulation
+- securitization
+- sovereign
+- statistical-model
+- stress-test
+- structured-product
+- tail-risk
+- yield-curve
+
+key_concepts:
+- Banking and Financial Intermediation
+- Econometric Analysis
+- Financial Econometrics
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Institutional-Quality Financial Education
+- Mathematical Finance Applications
+- Mathematical Modeling
+- Quantitative Analysis in Finance
+- Quantitative Methods in Finance
+- Quantitative Risk Management
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+- Statistical Finance
+- Statistical Modeling
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
+---
+
+
+
+
+
 I'll rewrite the chapters in a more engaging and clearer manner while preserving all the details, illustrating economic chains with mermaid diagrams, and maintaining the markdown formatting.
 
 # Chapter 15: What My Indicators Show

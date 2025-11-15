@@ -1,26 +1,100 @@
 ---
 title: Cash Flow Engineering and Alternative Classes (Commodities and Hedge Funds)
 tags:
-  - cash-flow-engineering
-  - commodities
-  - hedge-funds
-  - alternative-investments
-  - futures-contracts
-  - commodity-futures
-  - backwardation
-  - contango
+- abs
+- alternative-investments
+- backwardation
+- basel
+- bond
+- capital-structure
+- cash-flow-engineering
+- classification
+- commodities
+- commodity
+- commodity-futures
+- contango
+- convertible-arbitrage
+- corporate-bond
+- cost-of-debt
+- counterparty
+- currency
+- defi
+- distressed
+- dodd-frank
+- duration
+- equity
+- equity-swap
+- event-driven
+- financial-crisis
+- fixed-income
+- forward
+- future
+- futures-contracts
+- gold
+- greeks
+- hedge-fund
+- hedge-funds
+- implied-vol
+- index
+- index-future
+- interest-rate
+- leverage-ratio
+- libor
+- liquidity
+- managed-future
+- market-neutral
+- merger
+- multiple
+- oil
+- option
+- put
+- real-estate
+- stock
+- swap
+- transaction-cost
+- volcker
+- yield-curve
 aliases:
-  - Chapter 7 Alternative Classes
-  - Commodities and Hedge Funds Engineering
-  - Alternative Asset Classes
+- Chapter 7 Alternative Classes
+- Commodities and Hedge Funds Engineering
+- Alternative Asset Classes
 key_concepts:
-  - Futures contract parameters
-  - Term structure of commodity futures
-  - Backwardation and contango
-  - Commodity futures engineering
-  - Hedge fund strategies
-  - Alternative investment vehicles
-  - Cash flow engineering applications
+- Alternative investment vehicles
+- Backwardation and contango
+- Basis swap mechanics
+- Cash flow engineering applications
+- Commodity futures engineering
+- Convexity adjustment
+- Cross-currency basis
+- Currency swap structure
+- DV01 calculation
+- Delta risk management
+- Derivative securities
+- Duration measurement
+- Dynamic hedging strategies
+- Financial risk management
+- Fixed vs floating leg
+- Futures contract parameters
+- Gamma effects on options
+- Hedge fund strategies
+- Hedging with bonds
+- Interest rate sensitivity
+- Interest rate swap pricing
+- Modified duration calculation
+- Options Greeks measurement
+- Portfolio immunization
+- Portfolio optimization
+- Portfolio risk hedging
+- Present value of swaps
+- Price-yield relationship
+- Quantitative financial analysis
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Swap curve construction
+- Swaption valuation
+- Term structure of commodity futures
+- Theta time decay
+- Vega volatility sensitivity
 cssclasses: academia
 ---
 

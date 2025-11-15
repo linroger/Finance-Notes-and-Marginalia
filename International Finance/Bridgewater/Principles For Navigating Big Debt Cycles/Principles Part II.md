@@ -1,25 +1,123 @@
 ---
 title: Principles Part II
 cssclasses: academia
-tags:
-  - big_debt_crises
-  - cause_effect
-  - economic_dynamics
-  - principles
-  - world_order
+- asset-pricing
+- banking
+- big_debt_crises
+- cause_effect
+- credit-risk
+- credit-spreads
+- economic_dynamics
+- forward-contracts
+- futures-contracts
+- government-bonds
+- interest-rates
+- principles
+- world_order
 aliases:
-  - Changing World Order
-  - Debt Crises
-  - Principles Part 2
+- Changing World Order
+- Debt Crises
+- Principles Part 2
+- Futures contracts and forward pricing
+- Credit spreads and credit risk assessment
+- Financial theory and academic research
+- Practical examples and implementation
+- Investment analysis and portfolio management
+- Financial valuation and pricing methodologies
+- Fixed income securities and bond markets
+- Equity markets and stock valuation
+- International finance and global markets
+- Monetary policy and central banking
+- Financial crises and market stress events
+last_enhanced: '2025-11-06 08:42:47'
+tags:
+- asian
+- austerity
+- bank-failure
+- bank-run
+- banking
+- bankruptcy
+- bond
+- cash-flow
+- central-bank
+- commodity
+- covid-crisis
+- credit-market
+- cross-border
+- currency
+- default
+- derivatives
+- devaluation
+- econometric
+- emerging-market
+- equity
+- european-debt-crisis
+- eurozone
+- financial-crisis
+- fixed-income
+- graduate-level
+- grexit
+- income-statement
+- institutional-quality
+- mathematical-finance
+- monetary-policy
+- pegging
+- professional-standard
+- provision
+- quantitative-analysis
+- quantitative-easing
+- quantitative-methods
+- restructuring
+- sec-regulation
+- securitization
+- sovereign
+- sovereign-debt
+- statistical-model
+- stress-test
+- tail-risk
+- treasury
+- yield-curve
+
 key_concepts:
-  - Big debt crises
-  - Cause/effect relationships
-  - Dominant power changes
-  - Economic machine
-  - Important drivers changes
-  - Timeless universal truths
-  - World order transition
+- Austerity Measures
+- Banking and Financial Intermediation
+- Currency Union Risks
+- Econometric Analysis
+- European Debt Crisis
+- European Integration
+- Eurozone Crisis Management
+- Financial Econometrics
+- Financial Markets and Institutions
+- Fiscal Integration
+- Greek Debt Crisis
+- Institutional-Quality Financial Education
+- Mathematical Finance Applications
+- Mathematical Modeling
+- Quantitative Analysis in Finance
+- Quantitative Methods in Finance
+- Quantitative Risk Management
+- Risk Management and Hedging Strategies
+- Sovereign Debt Restructuring
+- Statistical Finance
+- Statistical Modeling
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 Principles Part I
 

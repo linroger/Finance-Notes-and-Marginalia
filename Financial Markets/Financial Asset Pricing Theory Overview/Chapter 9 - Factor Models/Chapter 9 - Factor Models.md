@@ -1,8 +1,93 @@
 ---
+- Capital Asset Pricing Model (CAPM)
+- Arbitrage Pricing Theory (APT)
+- Multi-factor risk models
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- Arbitrage principles and opportunities
+- Relative value trading
+- Law of one price enforcement
+- Chapter 9 - Factor Models and financial analysis
+- Chapter 9 - Factor Models in modern finance
+- Applications of Chapter 9 - Factor Models
+- 'Case study: Chapter 9 - Factor Models'
+last_enhanced: '2025-11-06 08:42:32'
+- portfolio
+- pricing
+- capm
+- factor-models
+- factor-model
+- call
+- options
+- risk-management
+- arbitrage
+- var
+- portfolio-optimization
+- arbitrage-pricing
 tags:
-  - '#chapter_9'
-  - '#factor_models'
+- arbitrage
+- case-study
+- crisis-analysis
+- derivative-pricing
+- derivatives
+- empirical-analysis
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- mathematical-finance
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- sovereign
+- stress-test
+- tail-risk
+- var
+
+key_concepts:
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 # Chapter 9 - Factor Models
 %% Begin Waypoint %%
 - **Chapter 9 - Factor Models**

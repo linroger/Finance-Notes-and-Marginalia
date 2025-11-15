@@ -2,23 +2,44 @@
 cssclasses: academia
 title: Foreign Exchange Reserves - Wikipedia
 source: https://en.wikipedia.org/wiki/Foreign_exchange_reserves
-description:
+description: null
 tags:
-  - central_bank
-  - currency
-  - foreign_exchange
-  - fx_reserves
-  - reserve_management
+- banking
+- central_bank
+- credit-risk
+- currency
+- financial-regulation
+- foreign_exchange
+- forward-contracts
+- futures-contracts
+- fx_reserves
+- government-bonds
+- interest-rates
+- market-structure
+- options
+- portfolio-management
+- reserve_management
+- swaps
 aliases:
-  - FX reserves
-  - forex reserves
+- FX reserves
+- forex reserves
 key_concepts:
-  - central bank objectives
-  - currency composition
-  - foreign exchange reserves
-  - reserve asset components
-  - reserve management functions
+- Futures contracts and forward pricing
+- Interest rate swaps and swap curve construction
+- Practical examples and implementation
+- Derivatives and structured financial instruments
+- Investment analysis and portfolio management
+- Financial valuation and pricing methodologies
+- Fixed income securities and bond markets
+- International finance and global markets
+- Monetary policy and central banking
+- Financial crises and market stress events
+last_enhanced: '2025-11-06 08:42:47'
 ---
+
+
+
+
 
 # Foreign Exchange Reserves - Wikipedia
 **Foreign exchange reserves** (also called **forex reserves** or **FX reserves**) are cash and other reserve assets such as gold and silver held by a central bank or other monetary authority that are primarily available to balance payments") of the country,  influence the foreign exchange rate of its currency,  and to maintain confidence in financial markets. Reserves are held in one or more reserve currencies"),  nowadays mostly the United States dollar and to a lesser extent the euro.[[^1]]

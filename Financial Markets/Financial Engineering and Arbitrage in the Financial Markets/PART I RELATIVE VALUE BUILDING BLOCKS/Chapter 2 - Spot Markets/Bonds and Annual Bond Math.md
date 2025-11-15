@@ -1,26 +1,118 @@
 ---
-tags:
-  - annual_interest_rate
-  - bond_math
-  - bond_valuation
-  - coupon_bond
-  - floating_rate_bond
-  - zero_coupon_bond
 aliases:
-  - Bond Analysis
-  - Bond Pricing
-  - Loans and Bonds
+- Bond Analysis
+- Bond Pricing
+- Loans and Bonds
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Bonds and Annual Bond Math and financial analysis
+- Bonds and Annual Bond Math in modern finance
+- Applications of Bonds and Annual Bond Math
+- 'Case study: Bonds and Annual Bond Math'
+last_enhanced: '2025-11-06 08:42:32'
+- forward
+- maturity
+- coupon
+- interest-rate
+- options
+- fixed-income
+- put
+- bond
+- bonds
+- libor
+- interest-rates
+- call
+- futures
+- basis
+- yield
+tags:
+- arbitrage
+- basis
+- bid-ask
+- bond
+- case-study
+- cash-flow
+- counterparty
+- crisis-analysis
+- derivative-pricing
+- derivatives
+- duration
+- econometric
+- empirical-analysis
+- fixed-income
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- margin-call
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-analysis
+- quantitative-methods
+- real-world-example
+- sec-regulation
+- securitization
+- spread
+- statistical-model
+- yield-curve
+
 key_concepts:
-  - Bond characteristics
-  - Cash flow valuation
-  - Coupon bonds valuation
-  - Discount bonds
-  - Floating rate bonds
-  - Interest rate reset
-  - Par value bonds
-  - Yield to maturity
-  - Zero-coupon bonds
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Econometric Analysis
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Econometrics
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Mathematical Finance Applications
+- Mathematical Modeling
+- Quantitative Analysis in Finance
+- Quantitative Methods in Finance
+- Quantitative Risk Management
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Statistical Finance
+- Statistical Modeling
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 2.1 BONDS AND ANNUAL BOND MATH  
 

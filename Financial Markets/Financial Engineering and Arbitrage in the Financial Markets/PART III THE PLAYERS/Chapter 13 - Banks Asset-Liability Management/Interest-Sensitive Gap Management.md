@@ -1,16 +1,120 @@
 ---
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Interest-Sensitive Gap Management and financial analysis
+- Interest-Sensitive Gap Management in modern finance
+- Applications of Interest-Sensitive Gap Management
+- 'Case study: Interest-Sensitive Gap Management'
+last_enhanced: '2025-11-06 08:42:33'
+- maturity
+- var
+- interest-rate
+- options
+- put
+- swap
+- swaps
+- yield-curve
+- irs
+- bonds
+- hedging
+- risk-management
+- fed-funds
+- interest-rates
+- call
 tags:
-  - '#asset_sensitivity'
-  - '#interest_rate_risk'
-  - '#interest_rate_swaps'
-  - '#interest_sensitive_gap_management'
-  - '#liability_sensitivity'
-  - '#loan_portfolio_maturity'
-  - '#maturity_gap_analysis'
-  - '#net_interest_margin'
-  - '#repricing_assets_liabilities'
-  - '#zions_bank'
+- arbitrage
+- asset-liability
+- balance-sheet
+- banking
+- basis
+- bid-ask
+- bond
+- case-study
+- central-bank
+- counterparty
+- credit-curve
+- credit-market
+- crisis-analysis
+- currency
+- deposit-insurance
+- derivative-pricing
+- derivatives
+- duration
+- empirical-analysis
+- equity
+- fair-value
+- fdic
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- liquidity
+- margin-call
+- mathematical-finance
+- monetary-policy
+- money-market
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- repo
+- sec-regulation
+- securitization
+- sovereign
+- spread
+- stress-test
+- var
+- yield-curve
+
+key_concepts:
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 # 13.2  INTEREST-SENSITIVE GAP MANAGEMENT  
 
 Let us step back and think broadly about analyzing the future prospects of any company.. If we were looking at Apple, we would want to know the product development mix: new. phones, music, and video players. The same would apply to any drug company or industrial manufacturing company, like Siemens. We would want to know not only Siemens' new equipment line-up, but also the long-term contract pipeline for power plant construction and large industrial installations. What about a bank such as Zions? The main drivers of future revenue, besides fees charged on deposit and loan servicing, would be the ability to generate. new loans and the interest rates earned on those new loans. The aim of the Interest-Sensitive (Maturity) Gap methods is to quantify the number of loans that come due in the near future, break them down by maturity, and assess the amount of revenue at risk..  

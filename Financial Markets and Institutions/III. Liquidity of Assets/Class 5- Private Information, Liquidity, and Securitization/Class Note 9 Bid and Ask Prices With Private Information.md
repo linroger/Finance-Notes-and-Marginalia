@@ -1,25 +1,126 @@
 ---
+aliases:
+- Adverse Selection
+- Bid and Ask
+- Glosten-Milgrom
+- Market Maker
 cssclasses:
-  - academia
+- academia
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Market structure and trading
+- Order types and execution
+- Market making and liquidity provision
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Financial regulation and compliance
+- Basel III capital requirements
+- Dodd-Frank Act implications
+- Class Note 9 Bid and Ask Prices With Private Information and financial analysis
+- Class Note 9 Bid and Ask Prices With Private Information in modern finance
+- Applications of Class Note 9 Bid and Ask Prices With Private Information
+- 'Case study: Class Note 9 Bid and Ask Prices With Private Information'
+- market-maker
+- regulation
+- basel
+- swaps
+- spread
+- liquidity
+- irs
+- risk
+- trading
 title: Class Note 9 Bid and Ask Prices With Private Information
 tags:
-  - adverse_selection
-  - bid_ask_spread
-  - liquidity_traders
-  - market_makers
-  - private_information
-aliases:
-  - Adverse Selection
-  - Bid and Ask
-  - Glosten-Milgrom
-  - Market Maker
+- basel
+- basis
+- bid-ask
+- case-study
+- commercial-paper
+- crisis-analysis
+- currency
+- derivatives
+- dodd-frank
+- empirical-analysis
+- equity
+- financial-institutions
+- financial-markets
+- financial-regulation
+- governance
+- graduate-level
+- institutional-analysis
+- institutional-quality
+- learning-from-crisis
+- liquidity
+- liquidity-management
+- market-liquidity
+- market-making
+- market-structure
+- mathematical-finance
+- mbs
+- monetary-policy
+- money-markets
+- moral-hazard
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- regulatory-compliance
+- repo-markets
+- securitization
+- short-term-funding
+- spread
+- supervision
+
 key_concepts:
-  - Bid-Ask Spread
-  - Informed vs. Liquidity Traders
-  - Market Maker Profits
-  - Private Information Impact
-  - Risk Neutrality Assumption
+- Bank Supervision
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Central Bank Liquidity Facilities
+- Commercial Paper Markets
+- Compliance Management
+- Corporate Governance
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Intermediation and Banking
+- Financial Markets and Institutions
+- Financial Regulation
+- Governance Standards
+- Historical Financial Analysis
+- Institutional Analysis of Financial Systems
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Liquidity Crisis and Management
+- Liquidity Risk and Management
+- Market Structure and Microstructure
+- Money Market Fund Dynamics
+- Money Market Instruments
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Regulatory Compliance
+- Regulatory Framework
+- Regulatory Framework in Financial Markets
+- Regulatory Risk
+- Repurchase Agreement Markets
+- Risk Management and Hedging Strategies
+- Short-Term Funding Markets
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
 
 # Class Note 9 Bid and Ask Prices With Private Information
 

@@ -1,3 +1,203 @@
+---
+- abs
+- arbitrage
+- asset-pricing
+- banking
+- corporate-bonds
+- credit-default-swaps
+- credit-rating
+- credit-risk
+- financial-regulation
+- forward-contracts
+- futures-contracts
+- government-bonds
+- hedging-strategies
+- interest-rates
+- market-structure
+- mbs
+- options
+- portfolio-management
+- swaps
+- trading-strategies
+- Credit default swaps and credit risk transfer
+- Stress testing and scenario analysis
+- Credit default swap pricing and spreads
+- Mortgage-backed securities and prepayment modeling
+- Arbitrage opportunities and relative value trading
+- Futures contracts and forward pricing
+- Interest rate swaps and swap curve construction
+- Financial theory and academic research
+- Case study analysis and real-world applications
+- Practical examples and implementation
+- Derivatives and structured financial instruments
+- Trading strategies and market implementation
+- Financial regulation and compliance requirements
+- Investment analysis and portfolio management
+- Financial valuation and pricing methodologies
+- Fixed income securities and bond markets
+- Equity markets and stock valuation
+- International finance and global markets
+- Monetary policy and central banking
+- Financial crises and market stress events
+- Basel regulations and banking capital requirements
+- 'Financial market regulations: MiFID and Dodd-Frank'
+last_enhanced: '2025-11-06 08:42:51'
+tags:
+- abs
+- arbitrage
+- asian
+- asian-crisis
+- asset-quality
+- austerity
+- balance-sheet
+- bank-bailout
+- bank-failure
+- bank-regulation
+- bank-run
+- banking
+- bankruptcy
+- basel
+- basis
+- bear-stearns
+- bid-ask
+- bond
+- case-study
+- central-bank
+- collateral
+- collateral-haircut
+- commercial-paper
+- contagion
+- corporate-bond
+- counterparty
+- covid-crisis
+- credit-curve
+- credit-market
+- crisis-2008
+- crisis-analysis
+- cross-border
+- currency
+- default
+- deposit-insurance
+- derivatives
+- devaluation
+- discount-window
+- dodd-frank
+- emerging-market
+- empirical-analysis
+- equity
+- european
+- european-debt-crisis
+- eurozone
+- facility-lending
+- fdic
+- financial-crisis
+- financial-regulation
+- fire-sale
+- fixed-income
+- governance
+- graduate-level
+- grexit
+- gse
+- haircut
+- hedging
+- institutional-quality
+- learning-from-crisis
+- lehman
+- lender-of-last-resort
+- leverage
+- leverage-ratio
+- liquidity
+- liquidity-ratio
+- margin-call
+- market-efficiency
+- mathematical-finance
+- mbs
+- monetary-policy
+- money-market
+- moral-hazard
+- non-bank
+- pegging
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- regulatory-compliance
+- repo
+- reporting-requirement
+- restructuring
+- risk-weight
+- robo-advisor
+- sec-regulation
+- securitization
+- shadow-banking
+- sovereign
+- sovereign-debt
+- spread
+- stress-test
+- structured-product
+- supervision
+- systemic-risk
+- tranche
+- treasury
+- valuation-discount
+- volatility
+- yield-curve
+
+key_concepts:
+- Austerity Measures
+- Bank Supervision
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Collateral Adequacy
+- Collateral Haircut Models
+- Compliance Management
+- Corporate Governance
+- Crisis Case Study Design
+- Currency Union Risks
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- European Debt Crisis
+- European Integration
+- Eurozone Crisis Management
+- Financial Crisis Case Studies
+- Financial Markets and Institutions
+- Financial Regulation
+- Fiscal Integration
+- Governance Standards
+- Greek Debt Crisis
+- Haircut and Valuation Adjustments
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Market Risk Adjustments
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Regulatory Compliance
+- Regulatory Framework
+- Regulatory Risk
+- Risk Management Haircuts
+- Risk Management and Hedging Strategies
+- Risk Weight Calculations
+- Risk-Based Haircuts
+- Sovereign Debt Restructuring
+- Valuation Discounts
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
+---
+
+
+
+
+
 # CHAPTER 20  
 
 # Financial Globalization: Opportunity and Crisis  

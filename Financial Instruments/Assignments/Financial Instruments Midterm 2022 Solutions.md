@@ -1,30 +1,85 @@
 ---
 cssclasses:
-  - academia
+- academia
 title: Financial Instruments Midterm 2022 Solutions
 tags:
-  - binomial_tree
-  - exchange_rate
-  - financial_instruments
-  - forward_contract
-  - swap_rate
-  - options_pricing
-  - risk_neutral_probability
-  - european_options
-  - hedging_strategies
-  - capital_protected_notes
-aliases: [FINANCIAL INSTRUMENTS MIDTERM SOLUTIONS]
+- binomial
+- binomial_tree
+- bond
+- call
+- capital_protected_notes
+- commodity
+- currency
+- equity
+- european_options
+- exchange-rate
+- exchange_rate
+- financial_instruments
+- forward
+- forward_contract
+- greeks
+- hedge
+- hedging_strategies
+- interest-rate
+- lookback
+- option
+- options_pricing
+- put
+- risk-free-rate
+- risk_neutral_probability
+- stock
+- swap
+- swap_rate
+aliases:
+- FINANCIAL INSTRUMENTS MIDTERM SOLUTIONS
 key_concepts:
-  - Binomial tree option pricing
-  - Risk-neutral probability calculation
-  - Exchange rate forward contracts
-  - Interest rate parity
-  - Forward contract valuation
-  - Swap rate determination
-  - Delta hedging strategies
-  - Capital protected notes
-  - Option replication
-  - Lookback options
+- American options valuation
+- Backward induction algorithm
+- Basis swap mechanics
+- Binomial option pricing model
+- Binomial tree option pricing
+- Capital protected notes
+- Convergence to Black-Scholes
+- Cox-Ross-Rubinstein framework
+- Cross-currency basis
+- Currency swap structure
+- Delta hedging strategies
+- Delta risk management
+- Delta-hedging implementation
+- Derivative securities
+- Dynamic hedging strategies
+- Dynamic replication
+- Exchange rate forward contracts
+- Financial risk management
+- Fixed vs floating leg
+- Forward contract valuation
+- Gamma effects on options
+- Gamma hedging techniques
+- Hedge ratio calculation
+- Hedging effectiveness
+- Interest rate parity
+- Interest rate swap pricing
+- Lattice methods for derivatives
+- Lookback options
+- Multi-period binomial tree
+- Option replication
+- Options Greeks measurement
+- Portfolio insurance methods
+- Portfolio optimization
+- Portfolio risk hedging
+- Present value of swaps
+- Quantitative financial analysis
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Risk-neutral probability
+- Risk-neutral probability calculation
+- Static hedging
+- Swap curve construction
+- Swap rate determination
+- Swaption valuation
+- Theta time decay
+- Vega hedging strategies
+- Vega volatility sensitivity
 ---
 
 # Financial Instruments Midterm 2022 Solutions

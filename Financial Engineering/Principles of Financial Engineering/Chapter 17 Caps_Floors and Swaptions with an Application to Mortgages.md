@@ -1,27 +1,99 @@
 ---
 title: Caps/Floors and Swaptions with an Application to Mortgages
 tags:
-  - caps
-  - floors
-  - swaptions
-  - interest-rate-derivatives
-  - mortgages
-  - prepayment-risk
-  - financial-engineering
-  - hedging-strategies
+- abs
+- bond
+- bps
+- call
+- cap
+- caps
+- convexity
+- credit-risk
+- credit-spread
+- currency
+- defi
+- duration
+- equity
+- financial-engineering
+- floor
+- floors
+- forward
+- future
+- greeks
+- hedge-fund
+- hedging-strategies
+- interest-rate
+- interest-rate-derivatives
+- lehman
+- libor
+- liquidity
+- market-risk
+- mbs
+- monte-carlo
+- mortgages
+- option
+- plain-vanilla-swap
+- prepayment-risk
+- put
+- sde
+- stock
+- swap
+- swaption
+- swaptions
+- transaction-cost
+- treasury
+- vol-smile
+- yield-curve
 aliases:
-  - Chapter 17 Caps Floors Swaptions
-  - Interest Rate Options
-  - Mortgage Applications
+- Chapter 17 Caps Floors Swaptions
+- Interest Rate Options
+- Mortgage Applications
 key_concepts:
-  - Interest rate caps
-  - Interest rate floors
-  - Swaptions
-  - Mortgage market mechanics
-  - Prepayment risk
-  - Hedging mortgage portfolios
-  - Convexity risk
-  - Option-adjusted spreads
+- Basis swap mechanics
+- CDO structure
+- Convexity adjustment
+- Convexity risk
+- Credit tranching
+- Cross-currency basis
+- Currency swap structure
+- DV01 calculation
+- Delta risk management
+- Derivative securities
+- Duration measurement
+- Dynamic hedging strategies
+- Financial risk management
+- Fixed vs floating leg
+- Gamma effects on options
+- Hedging mortgage portfolios
+- Hedging with bonds
+- Interest rate caps
+- Interest rate floors
+- Interest rate sensitivity
+- Interest rate swap pricing
+- Modified duration calculation
+- Mortgage market mechanics
+- Mortgage-backed securities
+- Option-adjusted spread
+- Option-adjusted spreads
+- Options Greeks measurement
+- PSA curves
+- Portfolio immunization
+- Portfolio optimization
+- Portfolio risk hedging
+- Prepayment modeling
+- Prepayment risk
+- Present value of swaps
+- Price-yield relationship
+- Quantitative financial analysis
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Subprime crisis
+- Swap curve construction
+- Swaption valuation
+- Swaptions
+- Theta time decay
+- Vega volatility sensitivity
+- Waterfall mechanics
 cssclasses: academia
 ---
 

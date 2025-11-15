@@ -1,20 +1,124 @@
 ---
-tags:
-  - asset_liability_management
-  - balance_sheet
-  - duration_gap
-  - interest_rate_risk
-  - zions_bank
 aliases:
-  - Duration Gap
-  - Interest Rate Exposure
+- Duration Gap
+- Interest Rate Exposure
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Duration Gap Management and financial analysis
+- Duration Gap Management in modern finance
+- Applications of Duration Gap Management
+- 'Case study: Duration Gap Management'
+last_enhanced: '2025-11-06 08:42:33'
+- maturity
+- var
+- interest-rate
+- duration
+- options
+- put
+- bond
+- yield-curve
+- bonds
+- libor
+- hedging
+- delta
+- risk-management
+- fed-funds
+- interest-rates
+tags:
+- arbitrage
+- asset-liability
+- balance-sheet
+- banking
+- basis
+- bond
+- case-study
+- credit-curve
+- crisis-analysis
+- deposit-insurance
+- derivative-pricing
+- derivatives
+- duration
+- econometric
+- empirical-analysis
+- equity
+- fdic
+- graduate-level
+- hedging
+- income-statement
+- institutional-quality
+- learning-from-crisis
+- leverage
+- liquidity
+- mathematical-finance
+- monetary-policy
+- money-market
+- professional-standard
+- provision
+- quantitative-analysis
+- quantitative-methods
+- real-world-example
+- sec-regulation
+- securitization
+- statistical-model
+- stress-test
+- var
+- yield-curve
+
 key_concepts:
-  - Asset and liability categories
-  - Duration Gap Management
-  - Interest rate exposure
-  - Neutral net worth position
-  - Weighted average duration
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Econometric Analysis
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Econometrics
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Mathematical Finance Applications
+- Mathematical Modeling
+- Quantitative Analysis in Finance
+- Quantitative Methods in Finance
+- Quantitative Risk Management
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Statistical Finance
+- Statistical Modeling
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 13.3 DURATION GAP MANAGEMENT  
 

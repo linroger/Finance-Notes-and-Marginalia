@@ -2,25 +2,52 @@
 cssclasses: academia
 title: QuantLib-Python
 tags:
-  - derivative_pricing
-  - financial_modeling
-  - option_pricing
-  - python_libraries
-  - quantlib_python
+- american
+- bond
+- cap
+- commodity
+- credit-spread
+- derivative_pricing
+- european
+- financial_modeling
+- floor
+- future
+- interest-rate
+- monte-carlo
+- option
+- option_pricing
+- python_libraries
+- quantlib_python
+- swap
+- treasury
+- vol-smile
+- yield-curve
 aliases:
-  - Python QuantLib
-  - QL-Python
-  - QuantLib
+- Python QuantLib
+- QL-Python
+- QuantLib
 key_concepts:
-  - Derivative pricing
-  - Financial library
-  - Interest rate models
-  - Python implementation
-  - Risk management
+- Basis swap mechanics
+- Cross-currency basis
+- Currency swap structure
+- Derivative pricing
+- Derivative securities
+- Financial library
+- Financial risk management
+- Fixed vs floating leg
+- Interest rate models
+- Interest rate swap pricing
+- Portfolio optimization
+- Present value of swaps
+- Python implementation
+- Quantitative financial analysis
+- Risk assessment and mitigation
+- Risk management
+- Swap curve construction
+- Swaption valuation
 ---
 
 # QuantLib-Python
-
 %% Begin Waypoint %%
 - **QuantLib-Python**
 	- American Option Pricing with QuantLib and Python
@@ -43,5 +70,4 @@ key_concepts:
 	- Valuing Interest Rate Caps and Floors Using QuantLib Python
 	- Valuing Options on Commodity Futures Using QuantLib Python
 	- Valuing Treasury Futures Using QuantLib Python
-
 %% End Waypoint %%

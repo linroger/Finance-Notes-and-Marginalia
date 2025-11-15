@@ -1,22 +1,51 @@
 ---
 tags:
-  - credit_risk
-  - debt_securities
-  - fixed_income
-  - interest_rates
-  - yield_curve
+- banking
+- corporate-bonds
+- credit-default-swaps
+- credit-risk
+- credit-spreads
+- credit_risk
+- debt_securities
+- financial-engineering
+- fixed_income
+- forward-contracts
+- forward-rates
+- interest-rates
+- interest_rates
+- libor
+- liquidity-risk
+- market-structure
+- mbs
+- municipal-bonds
+- options
+- swaps
 aliases:
-  - Bond Analysis
-  - Debt Securities
-  - Fixed Income Analysis
+- Bond Analysis
+- Debt Securities
+- Fixed Income Analysis
 key_concepts:
-  - Credit spread analysis
-  - Fixed income derivatives
-  - Fixed income securities
-  - Interest rate risk
-  - Market developments
-  - Yield curve construction
+- Yield curve modeling and term structure analysis
+- Forward rate calculations and forward curve construction
+- Credit default swaps and credit risk transfer
+- Mortgage-backed securities and prepayment modeling
+- 'Reference rates: SOFR, LIBOR, and rate transitions'
+- Interest rate swaps and swap curve construction
+- Credit spreads and credit risk assessment
+- Liquidity risk management and measurement
+- Practical examples and implementation
+- Derivatives and structured financial instruments
+- Trading strategies and market implementation
+- Risk management techniques and best practices
+- Investment analysis and portfolio management
+- Fixed income securities and bond markets
+- Financial analysis and performance measurement
+last_enhanced: '2025-11-06 08:42:38'
 ---
+
+
+
+
 
 # Analysis of Fixed Income Securities
 

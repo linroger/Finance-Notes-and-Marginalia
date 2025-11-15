@@ -1,23 +1,42 @@
 ---
-cssclasses:
-  - academia
-linter-yaml-title-alias: Greece Faces Bond-Swap Holdouts
-title: Greece Faces Bond Swap Holdouts
-tags:
-  - bond_holdouts
-  - bond_swap
-  - debt_restructuring
-  - foreign_law_bonds
-  - greece_debt
 aliases:
-  - Greece bond swap
-  - Greek debt deal
+- Greece bond swap
+- Greek debt deal
+cssclasses:
+- academia
 key_concepts:
-  - Greece bond swap
-  - bond swap participation
-  - debt burden reduction
-  - debt restructuring deal
-  - foreign law bonds
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Corporate bankruptcy process
+- Debt restructuring and workouts
+- Chapter 11 reorganization
+- Greece Faces Bond Swap Holdouts and financial analysis
+- Greece Faces Bond Swap Holdouts in modern finance
+- Applications of Greece Faces Bond Swap Holdouts
+- 'Case study: Greece Faces Bond Swap Holdouts'
+linter-yaml-title-alias: Greece Faces Bond-Swap Holdouts
+tags:
+- statement
+- fixed-income
+- debt-restructuring
+- swap
+- bond
+- swaps
+- bonds
+- cds
+- bankruptcy
+- default
+title: Greece Faces Bond Swap Holdouts
 ---
 
 # Greece Faces Bond Swap Holdouts

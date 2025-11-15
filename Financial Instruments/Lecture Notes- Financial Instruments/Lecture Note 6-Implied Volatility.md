@@ -4,23 +4,72 @@ linter-yaml-title-alias: LECTURE NOTE 7-EXOTIC OPTIONS AND DERIVATIVE PRICING BY
   CARLO SIMULATION
 title: Lecture Note 6-Implied Volatility
 tags:
-  - black_scholes
-  - implied_volatility
-  - market_uncertainty
-  - option_pricing
-  - volatility_surface
+- alpha
+- binomial
+- black-scholes
+- black_scholes
+- call
+- defi
+- dividend-yield
+- exotic
+- fat-tail
+- forward
+- greeks
+- implied-vol
+- implied_volatility
+- market_uncertainty
+- monte-carlo
+- october-1987
+- option
+- option_pricing
+- put
+- risk-free-rate
+- stock
+- swap
+- vol-smile
+- volatility-swap
+- volatility_surface
 aliases:
-  - BSM
-  - IV
-  - The Smirk
+- BSM
+- IV
+- The Smirk
 key_concepts:
-  - Black-Scholes model issues
-  - Fat tails in returns
-  - Implied volatility definition
-  - Implied volatility surface
-  - Moneyness definition
-  - Stochastic volatility
-  - VIX volatility swaps
+- American options valuation
+- Backward induction algorithm
+- Basis swap mechanics
+- Binomial option pricing model
+- Black-Scholes model issues
+- Convergence to Black-Scholes
+- Cox-Ross-Rubinstein framework
+- Cross-currency basis
+- Currency swap structure
+- Delta risk management
+- Derivative securities
+- Dynamic hedging strategies
+- Fat tails in returns
+- Financial risk management
+- Fixed vs floating leg
+- Gamma effects on options
+- Implied volatility definition
+- Implied volatility surface
+- Interest rate swap pricing
+- Lattice methods for derivatives
+- Moneyness definition
+- Multi-period binomial tree
+- Options Greeks measurement
+- Portfolio optimization
+- Portfolio risk hedging
+- Present value of swaps
+- Quantitative financial analysis
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Risk-neutral probability
+- Stochastic volatility
+- Swap curve construction
+- Swaption valuation
+- Theta time decay
+- VIX volatility swaps
+- Vega volatility sensitivity
 ---
 
 # Lecture Note 6-Implied Volatility

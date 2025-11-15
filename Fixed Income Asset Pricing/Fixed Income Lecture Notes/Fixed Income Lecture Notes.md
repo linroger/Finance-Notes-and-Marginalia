@@ -3,22 +3,42 @@ cssclasses: academia
 title: Fixed Income Lecture Notes
 linter-yaml-title-alias: FIXED INCOME LECTURE NOTES
 tags:
-  - bond_pricing
-  - fixed_income
-  - interest_rates
-  - lecture_notes
-  - yield_curve
+- asset-pricing
+- bond_pricing
+- fixed_income
+- forward-contracts
+- forward-rates
+- interest-rate-derivatives
+- interest-rates
+- interest_rates
+- lecture_notes
+- mbs
+- swaps
+- term-structure
+- vasicek-model
+- yield-curve
+- yield_curve
 aliases:
-  - FI Notes
-  - Fixed Income
-  - Lecture Notes
+- FI Notes
+- Fixed Income
+- Lecture Notes
 key_concepts:
-  - Bond Pricing
-  - Bond Valuation
-  - Fixed Income Securities
-  - Interest Rates
-  - Yield Curve
+- Yield curve modeling and term structure analysis
+- Forward rate calculations and forward curve construction
+- Mortgage-backed securities and prepayment modeling
+- Risk-neutral pricing and martingale measures
+- Term structure of interest rates and yield curves
+- Interest rate swaps and swap curve construction
+- Financial theory and academic research
+- Derivatives and structured financial instruments
+- Risk management techniques and best practices
+- Fixed income securities and bond markets
+last_enhanced: '2025-11-06 08:42:38'
 ---
+
+
+
+
 
 # Fixed Income Lecture Notes
 

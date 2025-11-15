@@ -1,29 +1,118 @@
 ---
-tags:
-  - cash_flow_engineering
-  - finance_textbook
-  - hedge_funds
-  - investment_banking
-  - market_participants
-  - market_segments
-  - relative_value
-  - security_valuation
 aliases:
-  - Book Preview
-  - Cash Flow
-  - Finance Book Overview
-  - Relative Value
+- Book Preview
+- Cash Flow
+- Finance Book Overview
+- Relative Value
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Arbitrage principles and opportunities
+- Relative value trading
+- Law of one price enforcement
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Preview of the Book and financial analysis
+- Preview of the Book in modern finance
+- Applications of Preview of the Book
+- 'Case study: Preview of the Book'
+last_enhanced: '2025-11-06 08:42:32'
+- forward
+- coupon
+- duration
+- options
+- fixed-income
+- put
+- bond
+- bonds
+- arbitrage
+- municipal
+- call
+- futures
+- relative-value
+- basis
+- yield
+tags:
+- arbitrage
+- asset-liability
+- banking
+- basis
+- bid-ask
+- bond
+- case-study
+- cash-flow
+- cftc
+- commodity
+- credit-curve
+- crisis-analysis
+- currency
+- default
+- derivative-pricing
+- derivatives
+- duration
+- empirical-analysis
+- equity
+- fixed-income
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- mathematical-finance
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- sec-regulation
+- securitization
+- sovereign
+- spread
+- structured-product
+- synthetic
+- yield-curve
+
 key_concepts:
-  - asset-liability management
-  - cash flow diversion
-  - demand side participants
-  - internal workings of markets
-  - market segments
-  - relative value trades
-  - security valuation
-  - spot, forward, option contracts
-  - structured products
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 1.8  PREVIEW OF THE BOOK  
 

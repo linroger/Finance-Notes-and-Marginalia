@@ -2,23 +2,83 @@
 linter-yaml-title-alias: HEDGING WITH CURRENCY SWAPS
 title: Teaching Note 3 SwapsFinancial Instruments
 tags:
-  - financial_instruments
-  - forward_rates
-  - fx_swap
-  - interest_rate_swaps
-  - no_arbitrage
+- american
+- basis-swap
+- binomial
+- black-scholes
+- cds
+- currency
+- dcf
+- exchange-rate
+- exotic
+- financial_instruments
+- forward
+- forward_rates
+- future
+- fx_swap
+- implied-vol
+- index
+- interest-rate
+- interest_rate_swaps
+- libor
+- monte-carlo
+- no_arbitrage
+- oil
+- ois
+- option
+- overnight-swap
+- stock
+- swap
+- total-return
 aliases:
-  - FX Swap
-  - Forward Contracts
-  - Swap Rate
-  - Swaps
-  - Teaching Note 3
+- FX Swap
+- Forward Contracts
+- Swap Rate
+- Swaps
+- Teaching Note 3
 key_concepts:
-  - 'FX swap: currency exchange'
-  - 'Forward rates: cash flow'
-  - Interest rate swaps
-  - No arbitrage condition
-  - 'Swap rate: zero value'
+- ' tranche valuation'
+- American options valuation
+- Backward induction algorithm
+- Basis swap mechanics
+- Binomial option pricing model
+- CDO squared structures
+- CDS curve construction
+- CDS spread calibration
+- Convergence to Black-Scholes
+- Cox-Ross-Rubinstein framework
+- Credit Default Swaps
+- Credit index products
+- Cross-currency basis
+- Currency swap structure
+- Default correlation
+- Derivative securities
+- Discounted Cash Flow valuation
+- Enterprise value estimation
+- 'FX swap: currency exchange'
+- Financial risk management
+- Fixed vs floating leg
+- 'Forward rates: cash flow'
+- Free cash flow modeling
+- Gordon growth model
+- Interest rate swap pricing
+- Interest rate swaps
+- Lattice methods for derivatives
+- Multi-period binomial tree
+- Multi-stage DCF models
+- No arbitrage condition
+- Portfolio optimization
+- Present value of swaps
+- Quantitative financial analysis
+- Risk assessment and mitigation
+- Risk-neutral probability
+- Swap curve construction
+- 'Swap rate: zero value'
+- Swaption valuation
+- Synthetic CDO pricing
+- Terminal value calculation
+- WACC calculation
+- Weighted Average Cost of Capital
 ---
 
 Teaching Note 2-Futures Contracts

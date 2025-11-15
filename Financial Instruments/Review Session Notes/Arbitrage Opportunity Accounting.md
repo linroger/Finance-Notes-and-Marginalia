@@ -1,66 +1,159 @@
 ---
-cssclasses:
-  - academia
-linter-yaml-title-alias: Arbitrage Opportunity Accounting
 title: Arbitrage Opportunity Accounting
-tags:
-  - arbitrage_opportunity
-  - bond_valuation
-  - currency_swaps
-  - exchange_rate_risk
-  - government_bonds
-  - hedging_strategies
 aliases:
-  - Currency Swap Accounting
-  - FX Risk Management
-  - Foreign Currency Bonds
+- Currency Swap Accounting
+- FX Risk Management
+- Foreign Currency Bonds
 key_concepts:
-  - Bond valuation in foreign currencies
-  - Currency swap contracts
-  - Exchange rate risk hedging
-  - Foreign currency bonds issuance
-  - Spot exchange rate mechanics
-  - Swap rate determination
+- Basis swap mechanics
+- Bond valuation in foreign currencies
+- Cross-currency basis
+- Currency swap contracts
+- Currency swap structure
+- Derivative securities
+- Exchange rate risk hedging
+- Financial risk management
+- Fixed vs floating leg
+- Foreign currency bonds issuance
+- Interest rate swap pricing
+- Portfolio optimization
+- Present value of swaps
+- Quantitative financial analysis
+- Risk assessment and mitigation
+- Spot exchange rate mechanics
+- Swap curve construction
+- Swap rate determination
+- Swaption valuation
+tags:
+- arbitrage-opportunity
+- bond
+- bond-valuation
+- cost-of-debt
+- currency
+- currency-swaps
+- exam-prep
+- exchange-rate
+- exchange-rate-risk
+- government-bonds
+- hedging-strategies
+- review-session
+- swap
 ---
 
 # Arbitrage Opportunity Accounting
-## 1. DETERMINING CURRENCY SWAP RATES
 
-### 1.1. PREAMBLE
+## Key Concepts
 
-[^1]: Governments often issue bonds in foreign currencies (e.g., the Greek government issues Greek bonds denominated in USD rather than in EUR, the home currency).
-[^2]: In issuing bonds in a foreign currency, a government exposes itself to exchange rate risk. If the foreign currency appreciates relative to the home currency, then more units of the home currency are required to pay the interest and principal in the foreign currency.
-[^3]: Currency swaps serve as a hedge against such exchange rate risk.
+### Overview
+Governments often issue bonds in foreign currencies to access broader capital markets or meet investor demand. However, this creates **exchange rate risk** - if the foreign currency appreciates relative to the home currency, the cost of debt service increases.
 
-### 1.2. CURRENCY SWAP
+**Currency swaps** serve as an effective hedge against this exchange rate risk by allowing the government to exchange foreign currency cash flows for domestic currency cash flows.
 
-[^1]: Consider two countries: Home H and Foreign F.
-[^2]: At inception $t = 0$, Home issues government bonds with value $X$ in currency F.
-[^3]: The bond pays a coupon (interest) semi-annually at the annual interest rate $c$.
-[^4]: To hedge against exchange rate risk, Home enters in a swap contract.
-[^5]: Let $M_0$ denote the exchange rate for F/H currencies at inception $t = 0$.
-[^6]: At inception $t = 0$, the swap contract requires:
-   a. Home pays $N_F = X$ in F currency.
-   b. Home receives $N_H = X \cdot \frac{1}{M_0}$ in H currency.
-[^7]: At maturity $t = T$, the swap contract requires:
-   a. Home receives $N_F = X$ in F currency.
-   b. Home pays $N_H = X \cdot \frac{1}{M_0}$ in H currency.
+### Currency Swap Mechanics
 
-### 1.3. VALUE OF BONDS
+A currency swap is a contractual agreement between two parties to exchange:
+- **Principal amounts** in different currencies at inception and maturity
+- **Interest payments** in each currency over the life of the swap
 
-[^1]: Time $t = 0$ value of the bond denominated in F currency:
-   $$B_0^F = \sum_{t=1}^T \frac{c}{2} \cdot N_F \cdot Z_F(0, t)\text{ Interest PV} + N_F \cdot Z_F(0, T)\text{ Principal PV}$$
+## Formulas/Math
 
-[^2]: Time $t = 0$ value of the bond denominated in H currency:
-   $$B_0^H(K) = \sum_{t=1}^T \frac{K}{2} \cdot N_H \cdot Z_H(0, t)\text{ Interest PV} + N_H \cdot Z_H(0, T)\text{ Principal PV}$$
+### Bond Valuation in Foreign Currency
 
-   - $K$ denotes the "swap rate," i.e. the annualized coupon rate for semi-annual payments of coupons in the H currency.
-   - The bond value $B_0^H(K)$ is a function of the swap rate $K$.
+The value of a bond denominated in foreign currency F at time $t = 0$:
 
-### 1.4. SWAP RATE UNDER SPOT EXCHANGE OF PRINCIPAL
+$$B_0^F = \sum_{t=1}^T \frac{c}{2} \cdot N_F \cdot Z_F(0, t) + N_F \cdot Z_F(0, T)$$
 
-[^1]: Time $t = 0$ value of the swap in F currency is equal to the value of the long position in the bond denominated in the F currency minus the value of the short position in the bond denominated in the H currency, converted into the F currency using the time $t = 0$ exchange rate $M_0$:
-   $$V_{0}^{\text{Swap, }F}(K)=B_{0}^{F}-M_{0}\cdot B_{0}^{H}(K)+V_{0}^{\text{FX,}F}(\overline{M}_{0})$$
+Where:
+- $c$ = annual coupon rate (semi-annual payments)
+- $N_F$ = principal amount in foreign currency
+- $Z_F(0, t)$ = discount factor for foreign currency
+- First term = present value of interest payments
+- Second term = present value of principal
 
-[^2]: Value of exchange of principal:
-   $$V_0^{\mathrm{FX,}F}(\bar{M}_0)=\left(\frac{M_0}{\overline{M}_0}-1\right)\cdot N^F$$
+### Bond Valuation in Home Currency
+
+The value of a bond denominated in home currency H at time $t = 0$:
+
+$$B_0^H(K) = \sum_{t=1}^T \frac{K}{2} \cdot N_H \cdot Z_H(0, t) + N_H \cdot Z_H(0, T)$$
+
+Where $K$ is the **swap rate** (annualized coupon rate for semi-annual payments in H currency).
+
+### Currency Swap Setup
+
+**At Inception ($t = 0$):**
+- Home pays: $N_F = X$ in foreign currency F
+- Home receives: $N_H = X \cdot \frac{1}{M_0}$ in home currency H
+- $M_0$ = spot exchange rate (units of H per unit of F)
+
+**At Maturity ($t = T$):**
+- Home receives: $N_F = X$ in foreign currency F
+- Home pays: $N_H = X \cdot \frac{1}{M_0}$ in home currency H
+
+### Swap Value Calculation
+
+Time $t = 0$ value of the swap in foreign currency F:
+
+$$V_{0}^{\text{Swap, }F}(K) = B_{0}^{F} - M_{0} \cdot B_{0}^{H}(K) + V_{0}^{\text{FX, }F}(\bar{M}_{0})$$
+
+**Value of Exchange of Principal:**
+
+$$V_0^{\mathrm{FX, }F}(\bar{M}_0) = \left(\frac{M_0}{\bar{M}_0} - 1\right) \cdot N^F$$
+
+### No-Arbitrage Condition
+
+The swap rate $K$ is determined such that the swap has **zero value** at inception:
+
+$$V_{0}^{\text{Swap, }F}(K) = 0$$
+
+## Examples
+
+### Example 1: Government Bond Issuance with Currency Swap
+
+**Scenario:**
+- Country H (Home) issues government bonds worth $X = 100$ million USD
+- H's home currency is EUR
+- Spot exchange rate: $M_0 = 1.2$ USD/EUR
+- Annual coupon rate: $c = 5\%$
+- Maturity: $T = 5$ years
+
+**Setup:**
+1. **At Inception:**
+   - H issues $100$ million USD bonds
+   - H enters swap: Pays $100$ million USD, Receives $100 / 1.2 = 83.33$ million EUR
+
+2. **Swap Cash Flows:**
+   - Semi-annual interest payments exchanged
+   - Principal amounts exchanged at maturity
+
+**Key Insight:**
+The swap effectively converts the USD-denominated debt into EUR-denominated debt, eliminating exchange rate risk on both interest and principal payments.
+
+### Example 2: Swap Rate Calculation
+
+**Given:**
+- Foreign bond value: $B_0^F = 95$ million USD
+- Exchange rate: $M_0 = 1.2$ USD/EUR
+- Home discount factors: $Z_H(0, t) = e^{-r_H \cdot t}$ where $r_H = 3\%$
+
+**Find the swap rate $K$ such that:**
+
+$$B_0^F - M_0 \cdot B_0^H(K) + V_0^{\mathrm{FX, }F}(\bar{M}_0) = 0$$
+
+**Solution Approach:**
+1. Calculate home currency bond value $B_0^H(K)$
+2. Solve for $K$ that sets swap value to zero
+3. This $K$ represents the coupon rate that makes the swap fair
+
+## Study Points
+
+**Key Formulas to Remember:**
+- Foreign bond valuation: $B_0^F = \text{PV(interest)} + \text{PV(principal)}$
+- Currency swap setup: Principal exchange at inception and maturity
+- Swap value: $V_{0}^{\text{Swap}} = B_{0}^{\text{Foreign}} - M_{0} \cdot B_{0}^{\text{Home}} + V_{0}^{\text{FX}}$
+- No-arbitrage: Swap value = 0 at inception
+
+**Common Exam Questions:**
+- Calculate swap rate given bond values
+- Determine optimal hedge ratio
+- Evaluate exchange rate risk exposure
+- Price currency swap contracts

@@ -1,27 +1,99 @@
 ---
 title: Credit Markets - CDS Engineering
 tags:
-  - credit-derivatives
-  - cds
-  - credit-default-swaps
-  - credit-risk
-  - financial-engineering
-  - structured-credit
-  - default-risk
-  - credit-spreads
+- asset-swap
+- barrier
+- bid-ask
+- bond
+- bps
+- call
+- cap
+- cdo
+- cds
+- cdsos
+- convexity
+- corporate-bond
+- counterparty
+- credit-default-swaps
+- credit-derivatives
+- credit-risk
+- credit-spread
+- credit-spreads
+- currency
+- debt-equity
+- default-risk
+- defi
+- dv01
+- equity
+- equity-swap
+- financial-engineering
+- floor
+- forward
+- future
+- greeks
+- hedge-fund
+- implied-vol
+- index
+- interest-rate
+- lehman
+- leveraged-buyout
+- libor
+- liquidity
+- market-risk
+- option
+- put
+- sovereign-debt
+- stock
+- structured-credit
+- swap
+- swaption
+- total-return
+- treasury
+- volatility-swap
+- yield-curve
+- z-spread
 aliases:
-  - Chapter 18 CDS Engineering
-  - Credit Default Swaps
-  - Credit Markets Engineering
+- Chapter 18 CDS Engineering
+- Credit Default Swaps
+- Credit Markets Engineering
 key_concepts:
-  - Credit default swaps
-  - Reference entities
-  - Credit spread
-  - Default events
-  - Recovery rates
-  - CDS valuation
-  - Synthetic CDOs
-  - Credit risk transfer
+- ' tranche valuation'
+- Basis swap mechanics
+- CDO squared structures
+- CDS curve construction
+- CDS spread calibration
+- CDS valuation
+- Credit Default Swaps
+- Credit default swaps
+- Credit index products
+- Credit risk transfer
+- Credit spread
+- Cross-currency basis
+- Currency swap structure
+- Default correlation
+- Default events
+- Delta risk management
+- Derivative securities
+- Dynamic hedging strategies
+- Financial risk management
+- Fixed vs floating leg
+- Gamma effects on options
+- Interest rate swap pricing
+- Options Greeks measurement
+- Portfolio optimization
+- Portfolio risk hedging
+- Present value of swaps
+- Quantitative financial analysis
+- Recovery rates
+- Reference entities
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Swap curve construction
+- Swaption valuation
+- Synthetic CDO pricing
+- Synthetic CDOs
+- Theta time decay
+- Vega volatility sensitivity
 cssclasses: academia
 ---
 

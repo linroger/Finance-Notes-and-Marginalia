@@ -1,21 +1,106 @@
 ---
-tags:
-  - benchmark_rates
-  - credit_risk
-  - credit_spreads
-  - default_timing
-  - hazard_adjusted_duration
 aliases:
-  - Duration
-  - Dv01
-  - HAD
+- Duration
+- Dv01
+- HAD
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Hazard-Adjusted Duration and Dvo1 and financial analysis
+- Hazard-Adjusted Duration and Dvo1 in modern finance
+- Applications of Hazard-Adjusted Duration and Dvo1
+- 'Case study: Hazard-Adjusted Duration and Dvo1'
+last_enhanced: '2025-11-06 08:42:35'
+- options
+- credit-risk
+- call
+- default
+- fixed-income
+- put
+- recovery
+- liquidity
+- bond
+- credit-spread
+- bonds
+- spread
+- dv01
+- duration
+- cds
+tags:
+- basis
+- bid-ask
+- bond
+- case-study
+- credit-curve
+- credit-market
+- crisis-analysis
+- default
+- derivative-pricing
+- derivatives
+- duration
+- empirical-analysis
+- fixed-income
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- liquidity
+- mathematical-finance
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- sec-regulation
+- securitization
+- spread
+- yield-curve
+
 key_concepts:
-  - Benchmark rate curve
-  - Conventional vs hazard-adjusted
-  - Credit spreads and durations
-  - Expected cash flow timing
-  - Hazard-adjusted duration (HAD)
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # 14.9 HAZARD-ADJUSTED DURATION AND DVO1  
 

@@ -1,20 +1,102 @@
 ---
-tags:
-  - cmt_swap
-  - discounting
-  - market_price
-  - option_adjusted_spread
-  - relative_value
 aliases:
-  - OAS
-  - Option Adjusted Spread
+- OAS
+- Option Adjusted Spread
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Arbitrage principles and opportunities
+- Relative value trading
+- Law of one price enforcement
+- Option-Adjusted Spread and financial analysis
+- Option-Adjusted Spread in modern finance
+- Applications of Option-Adjusted Spread
+- 'Case study: Option-Adjusted Spread'
+last_enhanced: '2025-11-06 08:42:36'
+- discount
+- spread
+- put
+- risk
+- arbitrage
+- liquidity
+- valuation
+- options
+- swaps
+- swap
+- relative-value
+- basis
+- futures
+tags:
+- arbitrage
+- bankruptcy
+- basis
+- bid-ask
+- bond
+- case-study
+- crisis-analysis
+- currency
+- derivative-pricing
+- derivatives
+- empirical-analysis
+- fixed-income
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- liquidity
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- sec-regulation
+- securitization
+- spread
+
 key_concepts:
-  - CMT swap example
-  - Discount rates in model
-  - Model value of security
-  - OAS market price
-  - Risk-neutral rates
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # 7.6 OPTION-ADJUSTED SPREAD  
 

@@ -1,20 +1,66 @@
 ---
 tags:
-  - affine_models
-  - futures
-  - options
-  - sofr
-  - swaption
+- affine_models
+- american
+- basis-swap
+- beta
+- black-scholes
+- bond
+- call
+- cap
+- convexity
+- defi
+- european
+- floor
+- forward
+- future
+- futures
+- greeks
+- inflation
+- interest-rate
+- libor
+- liquidity
+- multiple
+- ois
+- option
+- options
+- sde
+- sofr
+- swap
+- swaption
+- treasury
+- yield-curve
 aliases:
-  - Gaussian models
-  - SOFR derivative pricing
-  - SOFR derivatives
+- Gaussian models
+- SOFR derivative pricing
+- SOFR derivatives
 key_concepts:
-  - Affine term structure models
-  - Analytic pricing formula
-  - European SOFR options
-  - Overnight Treasury repo rate
-  - SOFR reference rate
+- Affine term structure models
+- Analytic pricing formula
+- Basis swap mechanics
+- Cross-currency basis
+- Currency swap structure
+- Delta risk management
+- Derivative securities
+- Dynamic hedging strategies
+- European SOFR options
+- Financial risk management
+- Fixed vs floating leg
+- Gamma effects on options
+- Interest rate swap pricing
+- Options Greeks measurement
+- Overnight Treasury repo rate
+- Portfolio optimization
+- Portfolio risk hedging
+- Present value of swaps
+- Quantitative financial analysis
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- SOFR reference rate
+- Swap curve construction
+- Swaption valuation
+- Theta time decay
+- Vega volatility sensitivity
 ---
 
 # SOFR Derivative Pricing Using a Short Rate Model

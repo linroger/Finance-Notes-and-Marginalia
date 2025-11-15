@@ -1,27 +1,143 @@
 ---
 tags:
-  - equity_indices
-  - hedging
-  - option_pricing
-  - relative_value_trading
-  - variance_swaps
-  - volatility
-  - volatility_view
+- alpha
+- asset-allocation
+- backtest
+- barrier
+- beta
+- black-scholes
+- bond
+- bps
+- bubble
+- call
+- cap
+- capital-structure
+- cds
+- collar
+- commodity
+- convexity
+- correlation-swap
+- crash
+- credit-risk
+- credit-spread
+- currency
+- defi
+- dividend-yield
+- dot-com
+- efficient-frontier
+- equity
+- equity_indices
+- euribor
+- exchange-rate
+- fixed-income
+- floor
+- forward
+- future
+- garch
+- greeks
+- hedge
+- hedge-fund
+- hedging
+- implied-vol
+- index
+- inflation
+- information-ratio
+- interest-rate
+- ito
+- libor
+- liquidity
+- ltcm
+- margin-call
+- market-risk
+- merger
+- multiple
+- oil
+- option
+- option_pricing
+- pca
+- put
+- regression
+- relative_value_trading
+- stock
+- swap
+- transaction-cost
+- var
+- variance
+- variance_swaps
+- vol-smile
+- volatility
+- volatility-swap
+- volatility_view
+- yield-curve
+- yield-spread
 aliases:
-  - Variance Swap
-  - Variance Swap Market
-  - Volatility Swap
+- Variance Swap
+- Variance Swap Market
+- Volatility Swap
 key_concepts:
-  - Delta hedging portfolio
-  - Exploiting volatility view
-  - Exposure to underlying volatility
-  - Generating alpha
-  - Hedging volatility exposures
-  - Market development
-  - Replicating with options
-  - Small premium to ATM
-  - Trading forward volatility
-  - Variance swap mechanics
+- ' tranche valuation'
+- ARCH effects
+- Backtesting VaR models
+- Basis swap mechanics
+- CDO squared structures
+- CDS curve construction
+- CDS spread calibration
+- Credit Default Swaps
+- Credit index products
+- Cross-currency basis
+- Currency swap structure
+- Default correlation
+- Delta hedging portfolio
+- Delta risk management
+- Delta-hedging implementation
+- Derivative securities
+- Dynamic hedging strategies
+- Dynamic replication
+- EGARCH specification
+- Expected Shortfall calculation
+- Exploiting volatility view
+- Exposure to underlying volatility
+- Financial risk management
+- Fixed vs floating leg
+- GARCH volatility modeling
+- GARCH(p,q) models
+- GARCH-in-Mean models
+- Gamma effects on options
+- Gamma hedging techniques
+- Generating alpha
+- Hedge ratio calculation
+- Hedging effectiveness
+- Hedging volatility exposures
+- Historical simulation VaR
+- Interest rate swap pricing
+- Market development
+- Monte Carlo VaR
+- Multivariate GARCH
+- Options Greeks measurement
+- Parametric VaR models
+- Portfolio insurance methods
+- Portfolio optimization
+- Portfolio risk hedging
+- Present value of swaps
+- Quantitative financial analysis
+- Regulatory VaR requirements
+- Replicating with options
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Small premium to ATM
+- Static hedging
+- Swap curve construction
+- Swaption valuation
+- Synthetic CDO pricing
+- Theta time decay
+- Time-varying volatility
+- Trading forward volatility
+- VaR model validation
+- Value at Risk (VaR) methodology
+- Variance swap mechanics
+- Vega hedging strategies
+- Vega volatility sensitivity
+- Volatility clustering
 ---
 
 # Variance Swaps

@@ -1,33 +1,86 @@
 ---
 cssclasses: academia
-title: Unified Stochastic GBM Model with GARCH, ARCH, Poisson Jump Diffusion, and ARIMA
+title: Unified Stochastic GBM Model with GARCH, ARCH, Poisson Jump Diffusion, and
+  ARIMA
 tags:
-  - arima_model
-  - asset_prices
-  - garch_model
-  - gbm_model
-  - heavy_tails
-  - jump_diffusion
-  - regime_shifts
-  - time_series_model
-  - volatility_clustering
-  - financial_mathematics
-  - stochastic_modeling
+- alpha
+- arima_model
+- asset_prices
+- basel
+- beta
+- brownian
+- clustering
+- covid
+- crash
+- defi
+- equity
+- fat-tail
+- financial_mathematics
+- future
+- garch
+- garch_model
+- gbm
+- gbm_model
+- greeks
+- heavy_tails
+- hidden-markov
+- index
+- jump_diffusion
+- monte-carlo
+- multiple
+- option
+- regime_shifts
+- sde
+- stochastic
+- stochastic_modeling
+- stock
+- time_series_model
+- var
+- vol-smile
+- volatility_clustering
 aliases:
-  - ARIMA-Driven Drift
-  - GARCH Jump-Diffusion
-  - Regime-Switching Model
-  - Unified Stochastic Process
+- ARIMA-Driven Drift
+- GARCH Jump-Diffusion
+- Regime-Switching Model
+- Unified Stochastic Process
 key_concepts:
-  - Asset price dynamics
-  - Heavy-tailed distributions
-  - Regime-dependent volatility
-  - Time-varying drift
-  - Volatility clustering
-  - Stochastic differential equations
-  - Exponential jump diffusion
-  - GARCH volatility model
-  - Parameter calibration
+- ARCH effects
+- Asset price dynamics
+- Backtesting VaR models
+- Delta risk management
+- Derivative securities
+- Dynamic hedging strategies
+- EGARCH specification
+- Expected Shortfall calculation
+- Exponential jump diffusion
+- Financial risk management
+- GARCH volatility model
+- GARCH volatility modeling
+- GARCH(p,q) models
+- GARCH-in-Mean models
+- Gamma effects on options
+- Heavy-tailed distributions
+- Historical simulation VaR
+- Monte Carlo VaR
+- Multivariate GARCH
+- Options Greeks measurement
+- Parameter calibration
+- Parametric VaR models
+- Portfolio optimization
+- Portfolio risk hedging
+- Quantitative financial analysis
+- Regime-dependent volatility
+- Regulatory VaR requirements
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Stochastic differential equations
+- Theta time decay
+- Time-varying drift
+- Time-varying volatility
+- VaR model validation
+- Value at Risk (VaR) methodology
+- Vega volatility sensitivity
+- Volatility clustering
 ---
 
 # A Regime-Switching GARCH Jump-Diffusion Model with ARIMA-Driven Drift for Asset Prices

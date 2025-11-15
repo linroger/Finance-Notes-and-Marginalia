@@ -1,28 +1,112 @@
 ---
-tags:
-  - bond_liquidity
-  - cds_auction
-  - cds_settlement
-  - corporate_bonds
-  - default_event
-  - hertz_cds
-  - physical_settlement
 aliases:
-  - CDS Auctions
-  - CDS Settlement
-  - Hertz CDS Auction
+- CDS Auctions
+- CDS Settlement
+- Hertz CDS Auction
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- CDS Settlement Auctions and financial analysis
+- CDS Settlement Auctions in modern finance
+- Applications of CDS Settlement Auctions
+- 'Case study: CDS Settlement Auctions'
+last_enhanced: '2025-11-06 08:42:35'
+- options
+- bankruptcy
+- call
+- swaps
+- default
+- corporate-bond
+- fixed-income
+- put
+- recovery
+- irs
+- bond
+- bonds
+- derivatives
+- cds
+- maturity
+tags:
+- bank-failure
+- banking
+- bankruptcy
+- basis
+- bid-ask
+- bond
+- case-study
+- corporate-bond
+- credit-market
+- crisis-analysis
+- currency
+- default
+- derivative-pricing
+- derivatives
+- duration
+- empirical-analysis
+- fixed-income
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- liquidity
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- restructuring
+- sec-regulation
+- securitization
+- spread
+- yield-curve
+
 key_concepts:
-  - Auction phase one
-  - Bond price observation
-  - CDS settlement challenges
-  - Dealer bids and offers
-  - Deliverable obligations list
-  - Hertz CDS auction process
-  - Inside market midpoint
-  - Net CDS positions
-  - Physical settlement requests
-  - Physical settlement squeeze
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # 14.11 CDS SETTLEMENT AUCTIONS  
 

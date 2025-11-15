@@ -1,32 +1,52 @@
 ---
 cssclasses:
-  - academia
+- academia
 title: Class Notes 2 – Corporate Bond Contracts
 tags:
-  - bondholder_rights
-  - corporate_bond_contracts
-  - indentures
-  - optional_redemption
-  - prospectus
-  - defeasance
-  - covenants
-  - trustee_role
+- acquisition
+- bond
+- bondholder_rights
+- call
+- corporate-bond
+- corporate_bond_contracts
+- covenants
+- currency
+- debt-equity
+- defeasance
+- defi
+- equity
+- future
+- indentures
+- merger
+- option
+- optional_redemption
+- prospectus
+- put
+- stock
+- stock-option
+- treasury
+- trustee_role
 aliases:
-  - Bond Contracts
-  - Bond Indentures
-  - Corporate Bonds
-  - Indenture Provisions
+- Bond Contracts
+- Bond Indentures
+- Corporate Bonds
+- Indenture Provisions
 key_concepts:
-  - bond legal contracts
-  - bondholder get out
-  - optional redemption
-  - present value calculation
-  - rights responsibilities
-  - covenant structures
-  - default remedies
-  - contract modification
-  - defeasance provisions
-  - trustee obligations
+- Derivative securities
+- Financial risk management
+- Portfolio optimization
+- Quantitative financial analysis
+- Risk assessment and mitigation
+- bond legal contracts
+- bondholder get out
+- contract modification
+- covenant structures
+- default remedies
+- defeasance provisions
+- optional redemption
+- present value calculation
+- rights responsibilities
+- trustee obligations
 ---
 
 # Class Notes 2 – Corporate Bond Contracts

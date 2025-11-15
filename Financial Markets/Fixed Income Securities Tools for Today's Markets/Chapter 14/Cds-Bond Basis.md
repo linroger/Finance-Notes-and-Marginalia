@@ -1,24 +1,126 @@
 ---
-tags:
-  - arbitrage
-  - cds_bond_basis
-  - cds_market
-  - corporate_debt
-  - credit_risk
-  - repo_market
 aliases:
-  - Basis Trade
-  - CDS-Bond Basis
-  - Negative Basis Trade
-  - Positive Basis Trade
+- Basis Trade
+- CDS-Bond Basis
+- Negative Basis Trade
+- Positive Basis Trade
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Cds-Bond Basis and financial analysis
+- Cds-Bond Basis in modern finance
+- Applications of Cds-Bond Basis
+- 'Case study: Cds-Bond Basis'
+last_enhanced: '2025-11-06 08:42:35'
+- credit-risk
+- coupon
+- default
+- yield
+- fixed-income
+- corporate-bond
+- basis
+- trading
+- bond
+- futures
+- bonds
+- spread
+- liquidity
+- cds
+- maturity
+tags:
+- arbitrage
+- austerity
+- banking
+- basis
+- bid-ask
+- bond
+- case-study
+- central-bank
+- corporate-bond
+- covid-crisis
+- credit-market
+- crisis-analysis
+- default
+- derivatives
+- duration
+- empirical-analysis
+- european
+- european-debt-crisis
+- eurozone
+- financial-crisis
+- fixed-income
+- graduate-level
+- grexit
+- hedging
+- institutional-quality
+- learning-from-crisis
+- liquidity
+- mathematical-finance
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- repo
+- sec-regulation
+- securitization
+- sovereign
+- sovereign-debt
+- spread
+- treasury
+- yield-curve
+
 key_concepts:
-  - Arbitrage opportunity
-  - Bond spread
-  - CDS and bond pricing
-  - CDS spread
-  - Relative value trading
-  - Repo market financing
+- Austerity Measures
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Currency Union Risks
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- European Debt Crisis
+- European Integration
+- Eurozone Crisis Management
+- Financial Crisis Case Studies
+- Financial Markets and Institutions
+- Fiscal Integration
+- Greek Debt Crisis
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Sovereign Debt Restructuring
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # 14.8 CDS-BOND BASIS  
 

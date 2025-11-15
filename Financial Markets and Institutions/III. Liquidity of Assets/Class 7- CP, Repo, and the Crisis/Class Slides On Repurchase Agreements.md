@@ -1,24 +1,170 @@
 ---
+aliases:
+- Repo Slides
+- Repurchase Agreements
 cssclasses:
-  - academia
+- academia
+- Credit analysis and rating
+- Default probability modeling
+- Loss given default estimation
+- Mortgage-backed securities structure
+- Prepayment modeling and analysis
+- Securitization and CDO structures
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Market structure and trading
+- Order types and execution
+- Market making and liquidity provision
+- Class Slides On Repurchase Agreements and financial analysis
+- Class Slides On Repurchase Agreements in modern finance
+- Applications of Class Slides On Repurchase Agreements
+- 'Case study: Class Slides On Repurchase Agreements'
 linter-yaml-title-alias: Class SlIdes On Repurchase Agreements
+- credit
+- default
+- spread
+- credit-risk
+- collateral
+- risk
+- cds
+- liquidity
+- bankruptcy
+- counterparty
+- subprime
+- trading
+- mbs
 title: Class Slides On Repurchase Agreements
 tags:
-  - haircut
-  - interest_calculation
-  - margin
-  - repo_transaction
-  - repurchase_agreements
-aliases:
-  - Repo Slides
-  - Repurchase Agreements
+- asset-backed-cp
+- bank-failure
+- bank-run
+- banking
+- bankruptcy
+- basis
+- bear-stearns
+- bid-ask
+- bond
+- case-study
+- cdo
+- collateral
+- collateral-haircut
+- collateralized-lending
+- commercial-paper
+- contagion
+- counterparty
+- cp-rate
+- credit-market
+- crisis-2008
+- crisis-analysis
+- default
+- derivatives
+- empirical-analysis
+- facility-lending
+- financial-institutions
+- financial-markets
+- graduate-level
+- haircut
+- institutional-analysis
+- institutional-quality
+- learning-from-crisis
+- lehman
+- liquidity
+- liquidity-management
+- margin-call
+- market-liquidity
+- market-making
+- market-structure
+- mathematical-finance
+- mbs
+- monetary-policy
+- money-market
+- money-market-fund
+- money-markets
+- overnight-funding
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- repo
+- repo-market
+- repo-markets
+- repo-rate
+- repurchase-agreement
+- risk-weight
+- sec-regulation
+- securitization
+- short-term-funding
+- spread
+- stress-test
+- tri-party-repo
+- valuation-discount
+
 key_concepts:
-  - Borrowing a security
-  - Interest calculation
-  - Margin or haircut
-  - Repo transaction example
-  - Selling the security
+- Asset-Backed Commercial Paper
+- Banking and Financial Intermediation
+- CP Investor Base
+- Case Study Methodology
+- Central Bank Liquidity Facilities
+- Collateral Adequacy
+- Collateral Haircut Models
+- Collateral Management
+- Collateralized Lending
+- Commercial Paper Markets
+- Commercial Paper Rates
+- Commercial Paper Risk Assessment
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Intermediation and Banking
+- Financial Markets and Institutions
+- Haircut and Valuation Adjustments
+- Historical Financial Analysis
+- Institutional Analysis of Financial Systems
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Liquidity Crisis and Management
+- Liquidity Risk and Management
+- Market Risk Adjustments
+- Market Structure and Microstructure
+- Money Market Dynamics
+- Money Market Fund Dynamics
+- Money Market Fund Regulation
+- Money Market Instruments
+- Overnight Funding Markets
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Regulatory Framework in Financial Markets
+- Repo Market Dynamics
+- Repo Market Regulation
+- Repo Rates and Spreads
+- Repurchase Agreement Markets
+- Risk Management Haircuts
+- Risk Management and Hedging Strategies
+- Risk Weight Calculations
+- Risk-Based Haircuts
+- Short-Term Funding Markets
+- Short-Term Funding Strategies
+- Tri-Party Repo Arrangements
+- Valuation Discounts
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
 
 Class Note 12 Part 2 Repos
 

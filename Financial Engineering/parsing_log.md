@@ -1,3 +1,18 @@
+---
+title: Parsing Log for Financial Engineering Directory
+tags:
+- apt
+- bonds
+- derivatives
+- financial-engineering
+- financial-markets
+- fixed-income
+- m&a
+- stochastic-calculus
+key_concepts:
+- Arbitrage theory and replicating portfolios
+---
+
 # Parsing Log for Financial Engineering Directory
 
 ## Session: 2025-01-17

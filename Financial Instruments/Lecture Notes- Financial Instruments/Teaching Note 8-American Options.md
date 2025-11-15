@@ -1,21 +1,74 @@
 ---
 title: Teaching Note 8-American Options
 tags:
-  - american_options
-  - binomial_trees
-  - early_exercise
-  - no_arbitrage
-  - option_pricing
+- american
+- american_options
+- bid-ask
+- binomial
+- binomial_trees
+- bond
+- call
+- dividend-yield
+- early_exercise
+- etf
+- european
+- forward
+- future
+- greeks
+- implied-vol
+- index
+- interest-rate
+- monte-carlo
+- multiple
+- no_arbitrage
+- option
+- option-to-wait
+- option_pricing
+- put
+- real-option
+- stock
+- stock-option
+- swap
+- swaption
 aliases:
-  - American Option
-  - Binomial Model
-  - Option Valuation
+- American Option
+- Binomial Model
+- Option Valuation
 key_concepts:
-  - American option features
-  - Binomial tree method
-  - Dynamic replication strategy
-  - Early exercise decision
-  - No arbitrage bounds
+- American option features
+- American options valuation
+- Backward induction algorithm
+- Basis swap mechanics
+- Binomial option pricing model
+- Binomial tree method
+- Convergence to Black-Scholes
+- Cox-Ross-Rubinstein framework
+- Cross-currency basis
+- Currency swap structure
+- Delta risk management
+- Derivative securities
+- Dynamic hedging strategies
+- Dynamic replication strategy
+- Early exercise decision
+- Financial risk management
+- Fixed vs floating leg
+- Gamma effects on options
+- Interest rate swap pricing
+- Lattice methods for derivatives
+- Multi-period binomial tree
+- No arbitrage bounds
+- Options Greeks measurement
+- Portfolio optimization
+- Portfolio risk hedging
+- Present value of swaps
+- Quantitative financial analysis
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Risk-neutral probability
+- Swap curve construction
+- Swaption valuation
+- Theta time decay
+- Vega volatility sensitivity
 ---
 
 # Teaching Note 8-American Options

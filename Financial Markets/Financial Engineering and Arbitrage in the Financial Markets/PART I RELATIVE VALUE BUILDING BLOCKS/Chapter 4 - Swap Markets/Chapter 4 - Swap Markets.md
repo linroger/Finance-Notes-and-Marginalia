@@ -1,3 +1,93 @@
+---
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Chapter 4 - Swap Markets and financial analysis
+- Chapter 4 - Swap Markets in modern finance
+- Applications of Chapter 4 - Swap Markets
+- 'Case study: Chapter 4 - Swap Markets'
+last_enhanced: '2025-11-06 08:42:33'
+- forward
+- pricing
+- interest-rate
+- swap
+- swaps
+- hedging
+- risk-management
+- valuation
+- interest-rates
+- futures
+- currency-swap
+- volatility
+tags:
+- arbitrage
+- basis
+- case-study
+- cftc
+- commodity
+- crisis-analysis
+- currency
+- derivatives
+- empirical-analysis
+- equity
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- stress-test
+- var
+- volatility
+
+key_concepts:
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
+---
+
+
+
+
+
+
+
 %% Begin Waypoint %%
 - **Chapter 4 - Swap Markets**
 	- Chapter 4 - Swap Markets

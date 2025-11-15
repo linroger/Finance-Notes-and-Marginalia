@@ -1,24 +1,159 @@
 ---
+aliases:
+- Fiscal Policy
+- Monetary Policy
+- Regime Change
+- The Economist
 banner: Attachments/4a643986b2694830401910f31df7403911f5d2ef.avif.png
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- The Economist Regime Change and financial analysis
+- The Economist Regime Change in modern finance
+- Applications of The Economist Regime Change
+- 'Case study: The Economist Regime Change'
+last_enhanced: '2025-11-06 08:42:29'
+- call
+- fixed-income
+- credit
+- monetary-policy
+- bond
+- options
+- put
+- bonds
+- ratio
+- interest-rates
+- risk
+- interest-rate
 title: The Economist Regime Change
 tags:
-  - central_banks
-  - economic_stability
-  - fiscal_policy
-  - global_inflation
-  - monetary_policy
-aliases:
-  - Fiscal Policy
-  - Monetary Policy
-  - Regime Change
-  - The Economist
+- asian
+- austerity
+- bank-failure
+- banking
+- banking-crisis
+- bid-ask
+- bond
+- case-study
+- central-bank
+- central-bank-policy
+- commercial-paper
+- commodity
+- covid-crisis
+- crisis-analysis
+- crisis-management
+- cross-border
+- derivative-pricing
+- derivatives
+- dodd-frank
+- duration
+- empirical-analysis
+- european
+- european-debt-crisis
+- eurozone
+- financial-crisis
+- financial-institutions
+- financial-markets
+- financial-stability
+- fixed-income
+- graduate-level
+- grexit
+- hedging
+- institutional-analysis
+- institutional-quality
+- learning-from-crisis
+- liquidity
+- liquidity-management
+- market-liquidity
+- market-structure
+- mathematical-finance
+- monetary-policy
+- money-markets
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- repo-markets
+- sec-regulation
+- securitization
+- short-term-funding
+- sovereign
+- sovereign-debt
+- spread
+- systemic-risk
+- yield-curve
+
 key_concepts:
-  - Central banks raising rates
-  - Economic policy reboot
-  - Federal Reserve shifts
-  - Fiscal policy reversal
-  - Global inflation surge
+- Austerity Measures
+- Bank Failure Prevention
+- Banking Crisis Management
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Central Bank Crisis Response
+- Central Bank Liquidity Facilities
+- Commercial Paper Markets
+- Crisis Case Study Design
+- Crisis Communication
+- Currency Union Risks
+- Emergency Liquidity Assistance
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- European Debt Crisis
+- European Integration
+- Eurozone Crisis Management
+- Financial Crisis Case Studies
+- Financial Intermediation and Banking
+- Financial Markets and Institutions
+- Financial Stability Measures
+- Fiscal Integration
+- Greek Debt Crisis
+- Historical Financial Analysis
+- Institutional Analysis of Financial Systems
+- Institutional-Quality Financial Education
+- International Crisis Coordination
+- Learning from Financial Crises
+- Liquidity Crisis and Management
+- Liquidity Risk and Management
+- Market Structure and Microstructure
+- Money Market Fund Dynamics
+- Money Market Instruments
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Regulatory Framework in Financial Markets
+- Repurchase Agreement Markets
+- Risk Management and Hedging Strategies
+- Short-Term Funding Markets
+- Sovereign Debt Restructuring
+- Systemic Risk Assessment
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
  !500
 

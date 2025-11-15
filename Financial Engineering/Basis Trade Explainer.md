@@ -1,28 +1,72 @@
 ---
 tags:
-  - basis_trade
-  - financial_crisis
-  - repo_market
-  - treasury_futures
-  - treasury_yields
+- alpha
+- basis_trade
+- bond
+- corporate-bond
+- covid
+- crash
+- credit-risk
+- defi
+- deleveraging
+- duration
+- financial-crisis
+- financial_crisis
+- floor
+- future
+- hedge-fund
+- inflation
+- interest-rate
+- liquidity
+- liquidity-risk
+- march-2020
+- put
+- repo_market
+- stock
+- swap
+- treasury
+- treasury_futures
+- treasury_yields
 aliases:
-  - JPMorgan
-  - Odd Lots
-  - basis trade
-  - hedge funds
+- JPMorgan
+- Odd Lots
+- basis trade
+- hedge funds
 key_concepts:
-  - 2008 financial crisis
-  - Basis trade explained
-  - Hedge fund returns
-  - Repo market funding
-  - Treasury yields spike
+- 2008 financial crisis
+- Basis swap mechanics
+- Basis trade explained
+- Convexity adjustment
+- Cross-currency basis
+- Currency swap structure
+- DV01 calculation
+- Derivative securities
+- Duration measurement
+- Financial risk management
+- Fixed vs floating leg
+- Hedge fund returns
+- Hedging with bonds
+- Interest rate sensitivity
+- Interest rate swap pricing
+- Modified duration calculation
+- Portfolio immunization
+- Portfolio optimization
+- Present value of swaps
+- Price-yield relationship
+- Quantitative financial analysis
+- Repo market funding
+- Risk assessment and mitigation
+- Swap curve construction
+- Swaption valuation
+- Treasury yields spike
 ---
 # Basis Trade Explainer
+
 I remember when the basis trade first burst into the market’s collective consciousness.
 
 It was March of 2020. The stock market was crashing and Treasury yields had spiked to 1.19%. Now, as yields now surge to 4.46%, that doesn’t seem like a very big deal. But the direction of travel was unusual; when the stock market crashes investors typically run to the perceived safety of US Treasuries. Now, in the depths of the pandemic, they were suddenly *running away*.
 
-What was going on? Josh Younger, a favorite *Odd Lots* guest who was then working at JPMorgan, published a note. I was head of the Asia News Desk at the time, and commissioned the talented Stephen Spratt (now at SocGen) to write the story. The basis trade was blowing up.
+What was going on? Josh Younger, a favorite *Odd Lots* guest who was then working $\$a_t$$ JPMorgan, published a note. I was head of the Asia News Desk $$a_t$$ the time, and commissioned the talented Stephen Spratt (now $$a_t$$ SocGen) to write the story. The basis trade was blowing up.
 
 That article was the first, to my knowledge, to really explain just what was going on (thank you Asia time zone). Since then the controversy over the basis trade has only grown, with regulators occasionally threatening to clamp down on it but never really getting around to actually *doing* anything. And so, here we are five years later and the basis trade is in the news again.
 
@@ -48,13 +92,13 @@ Here’s Josh Younger, writing back in March of 2020:
 
 > “\The [basis trade\] has been a common alpha-seeking strategy among actively managed funds for many decades. But more recently, it has grown due to regulatory constraints among dealers which incentivize large dealers to plan their balance sheet usage months in advance, which frequently takes the form of ‘use-it-or-lose-it’ allocations to end users. One way to occupy that sheet with limited downside is buying the futures basis, in which the cash CTD is funded in overnight or term repo and paired with a short position in the contact, which in principle limits downside by allowing the fund to deliver these securities into the short futures position. The CTD cash/futures basis has also generally traded with limited MTM volatility as well, which makes for an ideal way to preserve balance sheet allocations.”
 
-JPMorgan estimated that the basis trade stood at nearly $400 billion dollars (proxied by the amount of short interest across Treasury futures that didn’t seem to have much to do with economic bets. It’s not a perfect proxy but a lack of transparency is a hallmark of the hedge fund industry. It’s hard to tell what they’re doing).
+JPMorgan estimated that the basis trade stood $\$a_t$$ nearly $400 billion dollars (proxied by the amount of short interest across Treasury futures that didn’t seem to have much to do with economic bets. It’s not a perfect proxy but a lack of transparency is a hallmark of the hedge fund industry. It’s hard to tell what they’re doing).
 
 **The blow-up in basis**
 
 But as markets came crashing down in March 2020, the basis trade transformed into a problem instead of a solution. Suddenly renting out balance sheet to clients in this way didn’t look like such a great deal for banks. Sure, they were paid for this service, but they were in the process of de-risking and balance sheet was scarcer than ever.
 
-And so, banks rushed for the exit. And they did so all at once.
+And so, banks rushed for the exit. And they did so all $\$a_t$$ once.
 
 This left hedge funds in a bit of a basis bother (say that three times fast). Sure, they could hold their positions until maturity, which would give them some breathing room to realize losses. But as banks ratcheted down risk *en masse*, they could no longer roll over their positions. They now had to liquidate their basis trades.
 
@@ -64,7 +108,7 @@ The Treasury market crash was only halted when the Federal Reserve stepped in wi
 
 It’s worth emphasizing what a departure this was for the central bank. Citigroup analysts talked about how the measures had changed the corporate bond market forever; when things got really bad, the assumption was now that the central bank would step in. The same can be said of the Treasury market and the basis trade. There’s a belief that the Fed will always be there, hovering in the background, to provide that backstop for bonds even as regulators simultaneously debated the safety of these trades.
 
-Why didn’t they move? Basis trades have the added effect of lubricating the Treasury market. Arbitraging the difference between cash and futures keeps the spread low. Snapping up loads of cash bonds also means there’s an added demand for debt at tricky times. When the Fed started tightening its own balance sheet in 2017, this extra layer of absorption was pretty useful-basis-trades-20240308.html). Killing off the basis trade meant killing off a source of additional demand for Treasuries and liquidity in the bond market.
+Why didn’t they move? Basis trades have the added effect of lubricating the Treasury market. Arbitraging the difference between cash and futures keeps the spread low. Snapping up loads of cash bonds also means there’s an added demand for debt $\$a_t$$ tricky times. When the Fed started tightening its own balance sheet in 2017, this extra layer of absorption was pretty useful-basis-trades-20240308.html). Killing off the basis trade meant killing off a source of additional demand for Treasuries and liquidity in the bond market.
 
 **Back to the future with basis trades**
 
@@ -82,9 +126,9 @@ Now, with the Trump administration not looking so bank-friendly and lenders rush
 
 Source: Bloomberg
 
-More generally, there has long been concern over just who will buy [US Treasuries](https://archive.is/o/DIpfw/https://www.bloomberg.com/news/articles/2022-10-03/jpmorgan-is-worried-about-who-s-going-to-buy-all-the-bonds) to help finance the America’s soaring deficit. The three main buyers of US Treasuries — commercial banks, foreign governments, and the central bank itself — have all had their own special reasons for backing away from the market. The worry is that they’re backing away all at the same time. Balance sheet constraints mean banks can’t handle holding all these bonds at the same time if Treasuries are really being sold at scale.
+More generally, there has long been concern over just who will buy [US Treasuries](https://archive.is/o/DIpfw/https://www.bloomberg.com/news/articles/2022-10-03/jpmorgan-is-worried-about-who-s-going-to-buy-all-the-bonds) to help finance the America’s soaring deficit. The three main buyers of US Treasuries — commercial banks, foreign governments, and the central bank itself — have all had their own special reasons for backing away from the market. The worry is that they’re backing away all $\$a_t$$ the same time. Balance sheet constraints mean banks can’t handle holding all these bonds $$a_t$$ the same time if Treasuries are really being sold $$a_t$$ scale.
 
-By tightening post-2008 banking regulation, policymakers helped to shift risk out of the banking system and make it safer. But they did so at the cost of liquidity in markets, which ultimately necessitated emergency moves from the Fed. Policymakers helped create the problem, but they also came up with a solution.
+By tightening post-2008 banking regulation, policymakers helped to shift risk out of the banking system and make it safer. But they did so $\$a_t$$ the cost of liquidity in markets, which ultimately necessitated emergency moves from the Fed. Policymakers helped create the problem, but they also came up with a solution.
 
 Here’s Josh, writing in 2020 again:
 
@@ -107,16 +151,14 @@ But things really are different this time. News coming out of the White House is
 It’s true that the very possibility of the Fed stepping into the bond market again may be enough to calm investors jangly nerves and keep a lid on the worst potential market moves. But so far, markets are getting spooked instead of soothed. There’s a real risk we go from spooked to downright scared.
 
 ### What Joe is thinking about
-
-  
 As Tracy wrote about yesterday, one of the crazy things about this market situation is that we know exactly where the problem is coming from: The White House.
 
-Five minutes on the day’s stock markets winners and losers. And so people are gaming out all kinds of different scenarios for how the turmoil could come to an end. Maybe the Fed acts soon and that eases the market stress in some way (though no amount of Fed cutting will make industrial manufacturing capacity suddenly exist in the US). Maybe Congress removes Trump’s power to unilaterally impose tariffs. It’s not 100% inconceivable, I guess. A few senators here and there have talked about it. But at least right now, on April 9, 2025, I literally cannot envision House Speaker Mike Johnson bringing something like that to the floor.
+Five minutes on the day’s stock markets winners and losers. And so people are gaming out all kinds of different scenarios for how the turmoil could come to an end. Maybe the Fed acts soon and that eases the market stress in some way (though no amount of Fed cutting will make industrial manufacturing capacity suddenly exist in the US). Maybe Congress removes Trump’s power to unilaterally impose tariffs. It’s not 100% inconceivable, I guess. A few senators here and there have talked about it. But $\$a_t$$ least right now, on April 9, 2025, I literally cannot envision House Speaker Mike Johnson bringing something like that to the floor.
 
 But of course, the other possibility is that Trump just snaps his fingers and makes it all go away.
 
-Just think! All Trump has to do is snap his fingers and this could all go away.  
-  
+Just think! All Trump has to do is snap his fingers and this could all go away.
+
 And if he rescinded the tariffs, then we could go back to talking about how DeepSeek has kneecapped the booming AI business models that had been underpinning the stock market rally.
 
 If Trump rescinded the tariffs, we could go back to a world where America’s leading industrial company — Tesla — is seeing its global market share collapse in the face of steep competition and a brand that’s been deeply tarnished.

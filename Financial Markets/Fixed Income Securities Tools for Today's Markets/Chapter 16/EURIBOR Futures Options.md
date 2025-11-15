@@ -1,20 +1,90 @@
 ---
-tags:
-  - daily_settlement
-  - euribor_futures
-  - futures_style_options
-  - option_payoff
-  - strike_price
 aliases:
-  - Euribor Options
-  - Futures-style Options
+- Euribor Options
+- Futures-style Options
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Black-Scholes-Merton option pricing model
+- Greeks calculation and interpretation
+- Volatility surface and smile
+- EURIBOR Futures Options and financial analysis
+- EURIBOR Futures Options in modern finance
+- Applications of EURIBOR Futures Options
+- 'Case study: EURIBOR Futures Options'
+last_enhanced: '2025-11-06 08:42:36'
+- options
+- pricing
+- call
+- black-scholes
+- volatility
+- discount
+- put
+- strike
+- risk
+- futures
+- bsm
+- basis
+tags:
+- arbitrage
+- basis
+- bond
+- case-study
+- crisis-analysis
+- derivative-pricing
+- derivatives
+- empirical-analysis
+- fixed-income
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- mathematical-finance
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- sec-regulation
+- securitization
+- volatility
+
 key_concepts:
-  - Call option on rate
-  - Euribor futures contracts
-  - Final settlement price
-  - Futures-style call option
-  - Trader's daily settlement payments
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # 16.2 EURIBOR FUTURES OPTIONS  
 

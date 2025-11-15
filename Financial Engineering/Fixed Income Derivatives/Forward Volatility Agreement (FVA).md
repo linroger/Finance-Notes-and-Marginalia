@@ -1,31 +1,106 @@
 ---
 tags:
-  - carry_trade
-  - forward_volatility
-  - fva
-  - implied_volatility
-  - volatility_swap
+- alpha
+- barrier
+- beta
+- bid-ask
+- black-scholes
+- bond
+- brownian
+- call
+- carry_trade
+- convexity
+- crash
+- currency
+- defi
+- equity
+- exchange-rate
+- exotic
+- forward
+- forward_volatility
+- future
+- fva
+- garch
+- gbm
+- greeks
+- hedge
+- implied-vol
+- implied_volatility
+- index
+- interest-rate
+- liquidity
+- long-short
+- option
+- pde
+- put
+- sde
+- stochastic
+- stock
+- stock-option
+- swap
+- transaction-cost
+- variance
+- vol-smile
+- volatility-swap
+- volatility_swap
+- yield-curve
 aliases:
-  - FVA
-  - Forward Volatility Agreement
+- FVA
+- Forward Volatility Agreement
 key_concepts:
-  - forward implied volatility
-  - future spot volatility
-  - long short straddle
-  - spot implied volatility
-  - volatility swap contract
+- ARCH effects
+- Basis swap mechanics
+- Cross-currency basis
+- Currency swap structure
+- Delta risk management
+- Delta-hedging implementation
+- Derivative securities
+- Dynamic hedging strategies
+- Dynamic replication
+- EGARCH specification
+- Financial risk management
+- Fixed vs floating leg
+- GARCH volatility modeling
+- GARCH(p,q) models
+- GARCH-in-Mean models
+- Gamma effects on options
+- Gamma hedging techniques
+- Hedge ratio calculation
+- Hedging effectiveness
+- Interest rate swap pricing
+- Multivariate GARCH
+- Options Greeks measurement
+- Portfolio insurance methods
+- Portfolio optimization
+- Portfolio risk hedging
+- Present value of swaps
+- Quantitative financial analysis
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Static hedging
+- Swap curve construction
+- Swaption valuation
+- Theta time decay
+- Time-varying volatility
+- Vega hedging strategies
+- Vega volatility sensitivity
+- Volatility clustering
+- forward implied volatility
+- future spot volatility
+- long short straddle
+- spot implied volatility
+- volatility swap contract
 ---
 
 # Forward Volatility Agreement (FVA)
 # 1.1   Forward Volatility Agreement (FVA)
+The forward implied volatility of an exchange rate returns can be defined by forward volatility  agreement (FVA). The FVA is a volatility swap contract between a buyer and seller to exchange  a straddle option $\$a_t$$ a specified date in the future and specified volatility level.
 
-The forward implied volatility of an exchange rate returns can be defined by forward volatility  agreement (FVA). The FVA is a volatility swap contract between a buyer and seller to exchange  a straddle option at a specified date in the future and specified volatility level.
-
-A long (short) straddle involves buying (selling) both a call and a put option on the same  underlying at the same strike price and for the same expiration date.  Option players who have a  view on volatility usually take a position on straddle trades. A long straddle position is a bet that  the underlying will be more volatile over the term of the instrument then predicted by the market.
+A long (short) straddle involves buying (selling) both a call and a put option on the same  underlying $\$a_t$$ the same strike price and for the same expiration date.  Option players who have a  view on volatility usually take a position on straddle trades. A long straddle position is a bet that  the underlying will be more volatile over the term of the instrument then predicted by the market.
 
 Forward volatility agreement can also be defined as forward contract on future spot implied  volatility, which for a one dollar investment delivers the difference between future spot implied  volatility and forward implied volatility.
 
-In other words, the FVA is a forward contract on a future spot implied volatility with a payoff at  maturity equal to:
+In other words, the FVA is a forward contract on a future spot implied volatility with a payoff $\$a_t$$  maturity equal to:
 $$
 \big(I V_{t+k}-F V_{t}^{k}\big)x M
 $$
@@ -39,13 +114,13 @@ $$
 
 𝑀
 
-is the annualised spot implied volatility observed at time   $_{t+k}$   and measured over  the interval   $t{+}k$   to   $_{t+2k}$
+is the annualised spot implied volatility observed $\$a_t$$ time   $_{t+k}$   and measured over  the interval   $t{+}k$   to   $_{t+2k}$
 
-is the annualized forward implied volatility determined at time   $t$    for the same  interval starting at time  $\mathbf{t}\!+\!\mathbf{k}$
+is the annualized forward implied volatility determined $\$a_t$$ time   $t$    for the same  interval starting $$a_t$$ time  $\mathbf{t}\!+\!\mathbf{k}$
 
 is the notional dollar amount that converts the volatility difference into a dollar  payoff.
 
-For example, setting   $k{=}I$   month  implies that   $I V_{t+k}$   is the observed spot implied  volatility at  $_{t+I}$   month for the interval   $t+.$  1month to   $t\!+\!2.$  months
+For example, setting   $k{=}I$   month  implies that   $I V_{t+k}$   is the observed spot implied  volatility $\$a_t$$  $_{t+I}$   month for the interval   $t+.$  1month to   $t\!+\!2.$  months
 
 The implied volatility is a measure of expected volatility, which is directly quoted  in traded currency options.
 
@@ -57,24 +132,23 @@ The key motivation for trading FVA’s is that it allows investors to speculate 
  !500
 Figure 1.1, Source:
 
-Given the data on the current implied vol at ili ties for alternative maturities, the calculation of  forward implied volatility can be computed (proxy) by a simple formula, which assumes that the  relation between implied variance and time is linear across the term structure.
+Given the data on the current implied vol $\$a_t$$ ili ties for alternative maturities, the calculation of  forward implied volatility can be computed (proxy) by a simple formula, which assumes that the  relation between implied variance and time is linear across the term structure.
 
-Define   $\sigma_{t_{1T_{1}}}$   and    $\sigma_{t_{2T_{2}}}$   as annualized at-the-money (ATMF) implied vol at ili ties for the interval t  to   $T_{1}$   and   $\mathbf{t}$   to    $T_{2}$  . Respectively, corresponding to year fraction   $D_{t_{1T_{1}}}$   and   $D_{t_{2T_{2}}}$   . The forward  implied volatility between the two dates   $(\sigma_{T_{1T_{2}}})$    is determined as follows:
+Define   $\sigma_{t_{1T_{1}}}$   and    $\sigma_{t_{2T_{2}}}$   as annualized $\$a_t$$-the-money (ATMF) implied vol $$a_t$$ ili ties for the interval t  to   $T_{1}$   and   $\mathbf{t}$   to    $T_{2}$  . Respectively, corresponding to year fraction   $D_{t_{1T_{1}}}$   and   $D_{t_{2T_{2}}}$   . The forward  implied volatility between the two dates   $(\sigma_{T_{1T_{2}}})$    is determined as follows:
 $$
 \begin{array}{r}{\sigma_{T_{1T_{2}}}=\sqrt{\frac{\sigma2_{t_{2T_{2}}}{D_{t_{2T_{2}}}}-\sigma2_{t_{1T_{1}}}{D_{t_{1T_{1}}}}}{{D_{t_{1T_{1}}}}{D_{t_{2T_{2}}}}}}}\end{array}
 $$
-$\sigma_{T_{1}T_{2}}$    is the market-determined forward implied volatility, which is known at time   $t$   and  corresponds to the interval between   $T_{I}$   and   $T_{2}$
+$\sigma_{T_{1}T_{2}}$    is the market-determined forward implied volatility, which is known $\$a_t$$ time   $t$   and  corresponds to the interval between   $T_{I}$   and   $T_{2}$
 
 It is therefore possible to infer the “local” volatility between two points   $T_{I}$   and   $T_{2}$      given spot  volatility curve.
 
-For example, if current 3-month and 6-month volatility are trading at   $10\%$   and   $15\%$   respectively,  the 3-month forward then would be   $18.71\%$   as per the above equation.
-The above relationship can be used to calculate forward vol at ili ties for the entire volatility surface.  However, this calculation does assume that skew in absolute (fixed) time is fixed.
+For example, if current 3-month and 6-month volatility are trading $\$a_t$$   $10\%$   and   $15\%$   respectively,  the 3-month forward then would be   $18.71\%$   as per the above equation.
+The above relationship can be used to calculate forward vol $\$a_t$$ ili ties for the entire volatility surface.  However, this calculation does assume that skew in absolute (fixed) time is fixed.
 
 # 1.2  Features
+The buyer of a forward volatility agreement enters a contract to buy $\$a_t$$ specified future date  “fixing” date, an OTM straddle maturing $$a_t$$ a date after the start or the trade date of the straddle  strategy.  The volatility level of the OTM straddle is agreed initially such that there is a zero cost  to enter into the strategy. For example, the quoted volatility for the FVA is the forward volatility  level that gives a zero cost.
 
-The buyer of a forward volatility agreement enters a contract to buy at specified future date  “fixing” date, an OTM straddle maturing at a date after the start or the trade date of the straddle  strategy.  The volatility level of the OTM straddle is agreed initially such that there is a zero cost  to enter into the strategy. For example, the quoted volatility for the FVA is the forward volatility  level that gives a zero cost.
-
-The strike of the straddle is fixed to the date on which the term of the options begins, and at the  same time the forward spot is set for the exercise date of the straddle. The premium of the forward  volatility agreement is also calculated and paid on the forward date.
+The strike of the straddle is fixed to the date on which the term of the options begins, and $\$a_t$$ the  same time the forward spot is set for the exercise date of the straddle. The premium of the forward  volatility agreement is also calculated and paid on the forward date.
 
 The amount paid for the forward volatility agreement is calculated as follows:
 $$
@@ -83,7 +157,7 @@ $$
 
 Where
 $N$   is the nominal value of the forward volatility agreement,
-$\sigma$    is the current volatility,
+$\\sigma$    is the current volatility,
 $\sigma_{f i x}$   is the agreed volatility,
 
 V straddle  is the value of the options.
@@ -91,8 +165,9 @@ V straddle  is the value of the options.
 The calculation rule is applied only if the horizon date is before or on the forward date. If the  horizon date is after the forward date, the value of the forward volatility agreements is zero.
 
 The following formula provides the value  v FVA  for a purchase of a straddle for the forward date:
-#  $=4\cdot e^{-\bar{\gamma}(\bar{t},T)(\bar{\gamma}-\bar{t})}\cdot e^{(\bar{\gamma}(\bar{t},T)-q(\bar{t},T))(\bar{\gamma}-\bar{t})}\cdot s(\bar{t})\cdot\left[\bar{N}\!\left(\frac12\,\sigma(\bar{t},t_{\bar{F}},T)\sqrt{T-t_{\bar{F}}}\right)\!-\bar{N}\!\left(\frac12\,\sigma_{\bar{\gamma}\bar{t}\kappa}\sqrt{T-t_{\bar{F}}}\right)\right]$
-$s(t)$       is the spot price of the underlying of the straddle,    r(t 1 ,t 2 )    is the risk-free interest rate for the period  $t_{I}$   through to   $t_{2}$  ,   q(t 1 ,t 2 )    is the dividend rate for the period  $t_{I}$   through to  $t_{2}$  ,    σ fix     is the volatility agreed on the contract date,    $\sigma(t,t_{F},T)$     is the forward volatility at time point  $t$   for the period   $t_{F}$    through to T ,   N(x)     is the cumulative normal distribution.
+# $=4\cdot e^{-\bar{\\gamma}(\bar{t},T)(\bar{\\gamma}-\bar{t})}\cdot e^{(\bar{\\gamma}(\bar{t},T)-q(\bar{t},T))(\bar{\\gamma}-\bar{t})}\cdot s(\bar{t})\cdot\left[\bar{N}\!\left(\frac12\,\\sigma(\bar{t},t_{\bar{F}},T)\sqrt{T-t_{\bar{F}}}\right)\!-\bar{N}\!\left(\frac12\,\sigma_{\bar{\\gamma}\bar{t}\\kappa}\sqrt{T-t_{\bar{F}}}\right)\right]$
+
+$s(t)$       is the spot price of the underlying of the straddle,    r(t 1 ,t 2 )    is the risk-free interest rate for the period  $t_{I}$   through to   $t_{2}$  ,   q(t 1 ,t 2 )    is the dividend rate for the period  $t_{I}$   through to  $t_{2}$  ,    σ fix     is the volatility agreed on the contract date,    $\\sigma(t,t_{F},T)$     is the forward volatility $\$a_t$$ time point  $t$   for the period   $t_{F}$    through to T ,   N(x)     is the cumulative normal distribution.
 
 Continuous compounding is used for interest rate   $r$   and dividend rate  $q$  ; yield curve   $r(t_{E},T)$   is  used for forward rate  $r(t,T)$  , in which  $t_{E}$   is the evaluation date. The current forward volatility is  calculated as follows:
 $$
@@ -106,6 +181,7 @@ If the underlying of the straddle is an exchange rate,   $r$   is the risk-free 
 The calculation rule uses the Black-Scholes formula for pricing options. This formula first prices  the components of the straddle - the call and put options - by using the forward interest rates and  the current forward volatility. The values for the straddles are totaled and discounted, and the  option premiums are deducted. This results in the calculation rule shown above for forward  volatility agreements, in which the premium of the term is given by the fixed volatility   $\sigma_{f i x}$  .
 
 # 1.3 Variations;
+
 Effectively an FVA is a forward contract struck with a specified implied volatility. Therefore on  the trade date both parties agree on: a reference forward volatility (strike volatility), a strike fixing  date and an option expiry date.
 
 Physical Settlment:   On the strike fixing date the seller of the contract receives a cash premium  equal to the Black-Scholes (BS) price of the option calculated using the agreed strike volatility in  exchange for the option itself.
@@ -115,21 +191,17 @@ Cash Settlment:  On the strike fixing date the contract is settled with payment 
 Variations of FVA contract are currently restricted to the definition of strike of the straddle.  Typical variations are ATM Forward or the delta neutral straddle strike for standard Black-Scholes  delta or for Black-Scholes delta with option premium included.
 
 # TERMSHEET
-
  !500
 
 From the above term-sheet, the strike of the straddle is defined to as Delta Neutral straddle. This  implies that the strike is solved for such that the aggregate delta of the straddle is zero.
 
-Consider a situation where one believes the implied volatility for a given currency on a given tenor  will be higher at some point in the future. For example, 3 month EUR-USD will be higher, 3 month  from now. One can then enter a   $3^{*}6$   forward volatility agreement for a notional of USD 100,000.  Assume that the agreed forward volatility level at inception of the contract was at   $10\%$  . There is  no premium paid at this stage.
-Settlement Date:  04/18/2012    Maturity  07/18/2012 Currency    EUR-USD  Notional     100,000    Contract:     FVA  Tenor:      $3^{*}6$   (3 month option in 3 month time)        Agreed Volatility:   $10\%$   (the FVA rate)
+Consider a situation where one believes the implied volatility for a given currency on a given tenor  will be higher $\$a_t$$ some point in the future. For example, 3 month EUR-USD will be higher, 3 month  from now. One can then enter a   $3^{*}6$   forward volatility agreement for a notional of USD 100,000.  Assume that the agreed forward volatility level $$a_t$$ inception of the contract was $$a_t$$   $10\%$  . There is  no premium paid $$a_t$$ this stage.
+Settlement Date:  04/18/2012    Maturity  07/18/2012 Currency    EUR-USD  Notional     100,000    Contract:     FVA  Tenor:      $3^{*}6$   (3 month option in 3 month time)        Agreed Volatility:   $10\\%$   (the FVA rate)
 
 # Contract Date: 01/18/2012 ( t 0 )
-
--   We enter into a 3x6 FVA Contract paying Fixed FVA rate of   $10\%$      -   Notional  $=$   100,000 USD     -   No upfront Premium
-
+- We enter into a 3x6 FVA Contract paying Fixed FVA rate of   $10\\%$      -   Notional  $=$   100,000 USD     -   No upfront Premium
 # Settlement Date: 04/18/2012:
-
--   On settlement date   $(t{+}k)$   if the 3 month Implied volatility is   $11\%$  , then    -   The deal settles into ATMF Straddle position with notional of say 25M per leg    -   The premium to pay for this straddle is then   $\mathbf{EUC}\%$   3.9847 (3 month Straddle priced at   $10\%$   volatility    -   If the observed implied 3 month volatility on settlement date is   $11\%$  , The position could  be closed out immediately at   $11\%$   volatility level which corresponds to   $\mathbf{EUC}\%$   4.3839  (Straddle premium priced at   $11\%$   volatility)     -   Recall the FVA payoff:
+- On settlement date   $(t{+}k)$   if the 3 month Implied volatility is   $11\\%$  , then    -   The deal settles into ATMF Straddle position with notional of say 25M per leg    -   The premium to pay for this straddle is then   $\mathbf{EUC}\\%$   3.9847 (3 month Straddle priced $\$a_t$$   $10\%$   volatility    -   If the observed implied 3 month volatility on settlement date is   $11\%$  , The position could  be closed out immediately $$a_t$$   $11\%$   volatility level which corresponds to   $\mathbf{EUC}\%$   4.3839  (Straddle premium priced $$a_t$$   $11\%$   volatility)     -   Recall the FVA payoff:
 $$
 p a y\circ\mathcal{V}_{s t r a x}(\mathcal{N},\sigma,\sigma_{j x})=\bar{N}\cdot\left\langle\bar{V}_{s t r a x\bar{\alpha}e}(\sigma)-\bar{V}_{s t r a x\bar{\alpha}e}(\sigma_{j x})\right\rangle
 $$
@@ -139,30 +211,29 @@ The net profit if cash settled is:   $25\mathbf{M}\times(0.043839-0.039847)=3$  
 
  !500
 
-On settlement date, we are pricing  EUR-USD Straddle position which  expires in 3 month time and with a  volatility of   $10\%$   which is the fixed  FVA rate.
+On settlement date, we are pricing  EUR-USD Straddle position which  expires in 3 month time and with a  volatility of   $10\\%$   which is the fixed  FVA rate.
 
-The upfront premium is  $\mathbf{EUC}\%$  3.9847
+The upfront premium is  $\mathbf{EUC}\\%$  3.9847
 
-On Settlement date, if the observed 3  moths spot implied volatility is  $11\%.$  ,  we can cash settle the deal by the  difference in premium using the two  vols.
+On Settlement date, if the observed 3  moths spot implied volatility is  $11\\%.$  ,  we can cash settle the deal by the  difference in premium using the two  vols.
 
  !500
 # FVA EXAMPLE (BID/ASK SPREAD)
-
 Consider an investor who on September 25, 2007 enters a   $I$  -month FVA written on the dollar price  of the euro (EUR) with a notional of M = 1,000,000 USD. Note that for this example we go back  to using two subscripts to clearly identify the start and end of the volatility interval.
 
-Table below lists the Garman.Kohlhagen   $I$  -month and 2-month IVs available on this date from  Bloomberg at five fixed deltas: 10-delta put, 25-delta put, ATMF, 25-delta call and 10-delta call.  The   $I$  -month spot  $I V(S V t;t{+}I)$   covers the period of September 25, 2007 to October 25, 2007, and  the 2-month spot  $I V(S V t;t{+}2)$   covers the period of September 25, 2007 to November 25, 2007.
+Table below lists the Garman.Kohlhagen   $I$  -month and 2-month IVs available on this date from  Bloomberg $\$a_t$$ five fixed deltas: 10-\delta put, 25-\delta put, ATMF, 25-\delta call and 10-\delta call.  The   $I$  -month spot  $I V(S V t;t{+}I)$   covers the period of September 25, 2007 to October 25, 2007, and  the 2-month spot  $I V(S V t;t{+}2)$   covers the period of September 25, 2007 to November 25, 2007.
 
-Given these quotes, we compute the model-free   $I$  -month and 2-month spot IVs as in Jiang and  Tian (2005) and Carr and Wu (2009), which turn out to be   $S V t;t+I\,=\,6{:}930\%$   and   $S V t;t+2=$     $6{\cdot}895\%$  . It is then straightforward to plug these values into above equation to compute the modelfree   $I$  -month forward   $I V\left(F V\right)$   that is known on September 25, 2007 and covers the period of  October 25, 2007 to November 25, 2007. The model-free forward   $I V$   is the fair delivery price of  the FVA and is equal to  $F V=6{:}860\%$  .
+Given these quotes, we compute the model-free   $I$  -month and 2-month spot IVs as in Jiang and  Tian (2005) and Carr and Wu (2009), which turn out to be   $S V t;t+I\,=\,6{:}930\\%$   and   $S V t;t+2=$     $6{\cdot}895\\%$  . It is then straightforward to plug these values into above equation to compute the modelfree   $I$  -month forward   $I V\left(F V\right)$   that is known on September 25, 2007 and covers the period of  October 25, 2007 to November 25, 2007. The model-free forward   $I V$   is the fair delivery price of  the FVA and is equal to  $F V=6{:}860\\%$  .
 
-These figures suggest a downward-sloping volatility curve. In a real trade, the FVA delivery price  is quoted with a bid-ask spread, which typically revolves around  $\it{0:5\%}$   for major currencies such  as EUR. If the trader goes long the FVA, the contract will expire on October 25, 2007 and deliver  a payoff equal to   $(S V t{+}I;t{+}2\;{\bar{\mathbf{\nabla}}}F V-O.5\%)\,x\,M,$  , where  $\scriptstyle S V t+I;t+2$   is the model-free 1-month spot  IV computed on October 25, 2007 that covers the period of October 25, 2007 to November 25,  2007. As seen in Table below, it turns out that   $S V t{+}I{;}t{+}2\,=\,7{\cdot}75O\%$  . Hence, the FVA is cashsettled with a payoff of 390, 000 USD .
+These figures suggest a downward-sloping volatility curve. In a real trade, the FVA delivery price  is quoted with a bid-ask spread, which typically revolves around  $\it{0:5\\%}$   for major currencies such  as EUR. If the trader goes long the FVA, the contract will expire on October 25, 2007 and deliver  a payoff equal to   $(S V t{+}I;t{+}2\;{\bar{\mathbf{\nabla}}}F V-O.5\\%)\,x\,M,$  , where  $\scriptstyle S V t+I;t+2$   is the model-free 1-month spot  IV computed on October 25, 2007 that covers the period of October 25, 2007 to November 25,  2007. As seen in Table below, it turns out that   $S V t{+}I{;}t{+}2\,=\,7{\cdot}75O\\%$  . Hence, the FVA is cashsettled with a payoff of 390, 000 USD .
 
  !500
 # Table (data source Bloomberg)
-$_{t+1}$   $S V_{t,t+1}$   $S V_{t,t+2}$   $F V_{t}^{1}$   $S V_{t+1,t+2}$   $S V_{t,t+1}$   $S V_{t,t+2}$   $F V_{t}^{1}$   $S V_{t+1,t+2}$   $(S V_{t+1,t+2}-F V_{t}^{1}-0.5\%)$   $1,000,000$   $0.5\%$
+
+$_{t+1}$   $S V_{t,t+1}$   $S V_{t,t+2}$   $F V_{t}^{1}$   $S V_{t+1,t+2}$   $S V_{t,t+1}$   $S V_{t,t+2}$   $F V_{t}^{1}$   $S V_{t+1,t+2}$   $(S V_{t+1,t+2}-F V_{t}^{1}-0.5\\%)$   $1,000,000$   $0.5\\%$
 
  !500
 # 2.1 Pricing and Hedging FVA’s
-
 Isolating Local Volatility with “Gadgets”
 
 Local or forward volatility is the market price of volatility you can lock in today to obtain volatility  exposure over specific some range of future times and market levels.
@@ -179,8 +250,7 @@ This gadget is sensitive to (forward) local index volatility only in the region 
 
 See, (Derman, E., Kani, I., and Kamal, M., \`Trading and Hedging Local Volatility',  Quantitative Strategies Research Notes, Goldman Sachs & Co, 1996
 # Forward Start Straddle (STO)
-
-Forward start option can be used to price contracts such as Forward Rate Agreement (FVA), which  is also a trade on implied volatility at a future date.
+Forward start option can be used to price contracts such as Forward Rate Agreement (FVA), which  is also a trade on implied volatility $\$a_t$$ a future date.
 
 When defining a forward start, you can choose a ATM delta neutral straddle, with the strike set on  the forward start date (or strike fixing date). This is exactly the physical trade that takes place when  an FVA is fixed.
 
@@ -188,7 +258,7 @@ For example, you trade a delta neutral straddle forward start option with an exp
 
 In this case, the buyer of the option is effectively buying volatility for three months starting in  three months. The exposure of the buyer is long 6-month Vega and short 3-month Vega. This is  quoted in the interbank market in terms of implied volatility.
 
-The value of the forward start straddle at maturity depends then on the volatility expected in the  interval  $\mathrm{T}_{1}$   to   $\mathrm{T}_{2}$   and therefore it is a tool to hedge future volatility. It is sensitive to changes in  volatility but not to changes in interest rates or to a large change in spot.
+The value of the forward start straddle $\$a_t$$ maturity depends then on the volatility expected in the  interval  $\mathrm{T}_{1}$   to   $\mathrm{T}_{2}$   and therefore it is a tool to hedge future volatility. It is sensitive to changes in  volatility but not to changes in interest rates or to a large change in spot.
 
 Brenner, Earnest Y.Ou and Zhang have investigated the valuations of forward start options on  equity indices using Stochastic Volatility Model (SV) similar to the one by Stein and Stein (1991).  We present a summary of their key results below:
 $$
@@ -203,12 +273,11 @@ Results from the above model show that for relatively low strike prices, the eff
 
 They have also showed that the sensitivity of the straddle position to changes in initial volatility.  This shows that the position was extremely sensitive to changes in volatility and declined in value  when volatility decreased. Also, the higher the vol-of-vol, the higher is the vega of the forward  strart straddle position.$i=0$   $K_{\mathrm{SID}}$
  !500
- $=0.20,\theta,$   $=$   $=4.00$   $T_{1}=0.5,$
+ $=0.20,\\theta,$   $=$   $=4.00$   $T_{1}=0.5,$
 
  !500
- $k$   $K_{\mathrm{STO}}$   $k\,S_{0}\,{=}\,100,r\,{=}\,0$   $\bar{\sigma}_{\bar{0}}=0.20$   $\beta\!=\!0.20$   $\delta\!=\!4.00$   $T_{\mathrm{i}}=0.5$   $T_{2}=1.0$
+ $k$   $K_{\mathrm{STO}}$   $k\,S_{0}\,{=}\,100,r\,{=}\,0$   $\bar{\\sigma}_{\bar{0}}=0.20$   $\\beta\!=\!0.20$   $\\delta\!=\!4.00$   $T_{\mathrm{i}}=0.5$   $T_{2}=1.0$
 # Trading FVA’s
-
 An investor who believes that the implied volatility will be higher (lower) level then predicted by  the forward volatility market, can enter into a Forward Volatility Agreement (FVA):
 $\checkmark$    If implied volatility is expected to be higher ----  $\cdot\xrightarrow{}$   buy/take a long FVA position   $\checkmark$    If implied volatility is expected to be lower ----  $\cdot\xrightarrow{}$   Sell/take a short FVA position
 
@@ -221,8 +290,7 @@ However, even-though the Theta may be zero for forward starting product compared
 
 While the FVA product may have zero mathematical Theta, they might suffer from the fact that  volatility and variance term-structure is usually expensive and upward sloping. The average  implied volatility of the FVA product is likely to be higher than vanilla product, which will cause  the long forward starting position to suffer carry as the volatility is re-marked lower during the  forward starting period (if a 3-month forward starting option is compared to a 3-month vanilla  option, then during the forward starting period the forward starting implied volatility should, on  average, decline.
 # GENERIC OPTION VALUATION (OVGE)
-
-If we look at the current implied forward volatility that commences 3 month from now and expires  3 months later. We can see from the table below that the 3x6 for EURUSD quote is:   $11.541\%$  .  Even-though the market quote for future date is unknown, however, the current volatility surface  can be used to extract future or instantaneous vol at ili ties.
+If we look $\$a_t$$ the current implied forward volatility that commences 3 month from now and expires  3 months later. We can see from the table below that the 3x6 for EURUSD quote is:   $11.541\%$  .  Even-though the market quote for future date is unknown, however, the current volatility surface  can be used to extract future or instantaneous vol $$a_t$$ ili ties.
 
  !500
 
@@ -232,11 +300,11 @@ Using Bloomberg OVGE screen, we price up 3month FVA, expiring 3 months after the
 
 Currency Pair: EUR-USD
 
-Trade date:   04/30/2012  FVA date:  07/30/2012  Expiry Date: 10/30/2012  Notional:   100,000,000  Not.Curncy: EUR  Agreed Vol:   $11.574\%$     Market Quote:   $11.574\%$   (3x6)
+Trade date:   04/30/2012  FVA date:  07/30/2012  Expiry Date: 10/30/2012  Notional:   100,000,000  Not.Curncy: EUR  Agreed Vol:   $11.574\\%$     Market Quote:   $11.574\\%$   (3x6)
 
 To simplify the example, we can set the agreed volatility strike the same as the market extrapolated  volatility for the tenor of FVA contract. Then;
 
-We use the FVA template in Bloomberg OVGE screen. We enter the trade date, Domestic and  Foreign currencies, the FVA date and the final expiry of the contract. We solve for the volatility  strike that produces zero price (as close as possible). One limitation with OVGE is that it does not  have solver functionality and for this reason, we keep changing the volatility strike until we get  price that is close enough to zero or negligibly small. In this case, we have solved for   $10.3\%$    volatility strike. The solved volatility strike gives a  $0.02\%$   price of the notional which is very small.  Please note that in order to speed up the calculations; we are using MC Heston but only up to 1000  sample paths.
+We use the FVA template in Bloomberg OVGE screen. We enter the trade date, Domestic and  Foreign currencies, the FVA date and the final expiry of the contract. We solve for the volatility  strike that produces zero price (as close as possible). One limitation with OVGE is that it does not  have solver functionality and for this reason, we keep changing the volatility strike until we get  price that is close enough to zero or negligibly small. In this case, we have solved for   $10.3\\%$    volatility strike. The solved volatility strike gives a  $0.02\\%$   price of the notional which is very small.  Please note that in order to speed up the calculations; we are using MC Heston but only up to 1000  sample paths.
 As expected when using stochastic volatility models, the model tends to undervalue the market  price or quoted prices and this is mainly due to the correlation between spot and volatility.  The  dynamics of the observed volatility surface when spot moves is inconsistent with the result from  stochastic volatility models.
 
 To hedge the above FVA contract:
@@ -253,6 +321,7 @@ As mentioned above the FVA contract does not need to be delta hedged before the 
 
 From inception of the contract until the FVA’s date, we maintain a constant Vega position. Given  the above portfolio of vanilla positions, we then risk manage the Delta/Gamma risk, Vega risk, as  well as Vanna and Volga risk.
 # DELTA RISK :
+
 $$
 C a l l O p t i o n=S\;x N(d_{1})-K e^{-r T}N(d_{2})
 $$
@@ -270,15 +339,13 @@ Delt  $\mathrm{a}=\mathbf{N}(\mathbf{d}\mathrm{\mathbf{\mathbf{l}}})$
 To maintain the delta neutrality of the position once after the FVA’s date, we need to buy/sell an  amount equivalent of the delta of the position.
 
 # STRIKE-LESS VEGA
-
 Both Volatility Swap and FVA’s initially give exposure to strike-less Vega (exposure to implied  volatility that remains constant as spot moves). This is because the ATM straddle is not set until  the FVA’s fixing date / start date.
 
  !500
 
-The FVA’s strike-less Vega is constant until the strike fixing date and once the strike is fixed at  fixing date of the FVA, the Vega profile is similar to Vanilla and varies with the underlying.
+The FVA’s strike-less Vega is constant until the strike fixing date and once the strike is fixed $\$a_t$$  fixing date of the FVA, the Vega profile is similar to Vanilla and varies with the underlying.
 
 # RISK MANAGE GAMMA OF VOLATILITY EXPOSURE (VOLGA)
-
 Volga represents the sensitivity of vega to change in implied volatility. Mathematically;
 $$
 V o l g a=\frac{\delta^{2}\mathrm{P}}{\upsigma\delta^{2}}
@@ -303,7 +370,6 @@ For complex exotics such as FVA, traders cannot just simply ignore the risk due 
      Discrete type option pricing models that are in fact, disc ret is ed versions of the models  above. For instance ARCH/GARCH processes are just discrete versions of stochastic  volatility models.
 
 # RISK MANAGE SKEW EXPOSURE (VANNA)
-
 Vanna measures the change in delta due to a change in volatility. It measures the size of the skew  position. Vanna is the slope of vega plotted against spot.
 
  !500
@@ -316,7 +382,6 @@ To account for the complexity of the smile and in particular its skew and convex
 
 Stochastic models can change considerably the shape of the Vanna as they explicitly specify the  correlation between volatility and the spot. If spot and volatility are positively correlated, the  holder of the option with positive Vanna will benefit from the correlation.
 # Review of Variance Swap risks:
-
 To hedge variance swap, market makers hold a portfolio of single stock options and carry out    daily delta hedging.
 
 The hedge held by market-makers consisted of a portfolio of options built in such a way to have  constant dollar gamma both for movements in the stock prices and for the passage of time. This  portfolio can be theoretically created by combining an infinite number of options with strikes  spanning all possible values of the stock and the same maturity as the variance swap. Figure 3  shows the dollar gamma profile of individual options of different strikes. Weighting the options  according to 1/Strike\*Strike creates a portfolio with the flat gamma profile needed to hedge a  variance swap
@@ -331,14 +396,13 @@ Figure 4 shows the dollar gamma profile of holding portfolios of 1, 2 and 5 opti
 
  !500
 
-After the market declined, many single stock option desks became forced buyers of low strike  options, in order to manage the gamma and vega risk of the variance swap positions in their books.  In fact, by selling variance swaps, the traders had committed to deliver the P/L of a constant dollar  gamma portfolio, irrespective of the spot level, but their replicating portfolio did not have  sufficient dollar gamma at the new spot levels. Market makers were therefore forced to buy low  strike options at the post-crash volatility level, which was much higher than the one prevailing  when they sold the variance swap, and therefore incurred heavy losses.
+After the market declined, many single stock option desks became forced buyers of low strike  options, in order to manage the gamma and vega risk of the variance swap positions in their books.  In fact, by selling variance swaps, the traders had committed to deliver the P/L of a constant dollar  gamma portfolio, irrespective of the spot level, but their replicating portfolio did not have  sufficient dollar gamma $\$a_t$$ the new spot levels. Market makers were therefore forced to buy low  strike options $$a_t$$ the post-crash volatility level, which was much higher than the one prevailing  when they sold the variance swap, and therefore incurred heavy losses.
 Not re-hedging the gamma risk was not a possibility, as this would have left the books exposed to  potentially catastrophic losses if the stock prices declined further, and volatility continued to  increase. The convexity of the variance swap payoff further exacerbated the downside risk. This  situation led to large losses for many market-makers in the single stock variance swap markets. In  turn this led banks to re-assess the risk of making markets in these instruments and to a substantial  shutdown of the single stock variance swap market
 
  !500
 
  !500
 # Review of Volatility Swap risks:
-
 Delta-hedging options leads to a P/L linked to the variance of returns rather than volatility. To  achieve the linear exposure to volatility which volatility swaps provide it is therefore necessary to  dynamically trade in portfolios of options, which would otherwise provide an exposure to the  square of volatility. A volatility swap can be thought as a non-linear derivative of realized variance,  the ‘underlier’ that can be traded through portfolios of delta-hedged options.
 
 To hedge volatility swap with variance swap, the trader would need to trade in and out of variance  swaps in order to replicate the square root of variance payoff of the volatility swap.
@@ -348,10 +412,10 @@ The volatility swap payoff can be locally approximated by a variance swap, where
  !500
 A volatility swap can be replicated using a delta-hedged portfolio of options, where the portfolio  of options is dynamically rebalanced to replicate the Vega and gamma profile of the volatility swap  across the range of spot prices.
 
-One possible approach to hedging the volatility swap is to trade delta-hedged ratio strangles (e.g.  short   $1.5\;80\%$   strike puts and short one   $120\%$   call to hedge a long volatility swap), where the ratio  and strikes are set in order to minimize the net exposure to volatility across the skew (i.e. to attempt  to match the Vega profile of the options to the volatility swap over a range of anticipated spot  levels). Since the Vega exposure of the strangle and volatility swap differ as the spot changes, the  strangles will have to be re-striked when the net exposure to volatility exceeds the trader’s  tolerance .
+One possible approach to hedging the volatility swap is to trade delta-hedged ratio strangles (e.g.  short   $1.5\;80\\%$   strike puts and short one   $120\\%$   call to hedge a long volatility swap), where the ratio  and strikes are set in order to minimize the net exposure to volatility across the skew (i.e. to attempt  to match the Vega profile of the options to the volatility swap over a range of anticipated spot  levels). Since the Vega exposure of the strangle and volatility swap differ as the spot changes, the  strangles will have to be re-striked when the net exposure to volatility exceeds the trader’s  tolerance .
 Below, we can see how the Vega and gamma sensitivity of the volatility swap compares to a  sample ratio strangle chosen to minimize the error for near-the-money Vega exposure for an  assumed level of volatility and skew.
 
-The strangle notionals, strikes and the ratio of puts to calls will depend on the shape of the implied  volatility skew at the time the hedge is put in place.
+The strangle notionals, strikes and the ratio of puts to calls will depend on the shape of the implied  volatility skew $\$a_t$$ the time the hedge is put in place.
 
 Additionally, it may not be possible to simultaneously replicate both vega and gamma well over a  broad range of spot levels with this approach, as is the case in the example below where the chosen  portfolio poorly replicates the gamma exposure of the volatility swap below the spot.
 
@@ -359,41 +423,33 @@ Additionally, it may not be possible to simultaneously replicate both vega and g
 
  !500
 
--   Re-striking may cause the need for new strangles to be initiated with significant different  volatility if the volatility level has shifted.
-
- -   More transaction costs
-
- -   P&L risk when re-striking the hedging portfolio will depend on vol-of-vol
-
- -   Higher vol-of-vol leads to largest shifts in pricing the options used for the hedge
+- Re-striking may cause the need for new strangles to be initiated with significant different  volatility if the volatility level has shifted.
+ - More transaction costs
+ - P&L risk when re-striking the hedging portfolio will depend on vol-of-vol
+ - Higher vol-of-vol leads to largest shifts in pricing the options used for the hedge
 # Valuation Models:
-
 Volatility swaps and forward volatility agreements are more complex  instrument to price.   Volatility is the square root of variance, and is a more complex derivative of variance. Its value  depends not just on volatility, but on the volatility of volatility, and you have to dynamically hedge  it by trading variance swaps as the underlier. This is possible too, but needs a model for the  volatility of volatility.
 
 We will review existing models and the most appropriate model for valuation of Forward Volatility  Agreement contract. However, the selected model should be able to produce realistic hedge ratios  or Greeks such as Delta, Gamma, Vega, as well as vega risk with respect to changes in both spot  and implied volatility.
 
 # 3.1 Appropriate Models;
-
 # LOCAL VOLATILITY MODEL (LV)
-
 T he Local Volatility Model (LV) extends the Black-Scholes model by allowing the instantaneous  volatility to depend on spot and time (Dupire 1994).
 $$
 d S=S_{t}(r_{t}-q_{t})+\sigma(t,S_{t})S_{t}d W
 $$
 
-The Local Volatility function   $\sigma(t,S_{t})$   is a function to be inserted into the (3.1) which will  reproduce the current vanilla market prices. The function has no stochastic it y of its own, just  deterministic state dependency on time and underlying. This model class is considered less  complex since it does not involve individual stochastic differential equations (SDE) for the  volatility, it is merely described by a function.
+The Local Volatility function   $\\sigma(t,S_{t})$   is a function to be inserted into the (3.1) which will  reproduce the current vanilla market prices. The function has no stochastic it y of its own, just  deterministic state dependency on time and underlying. This model class is considered less  complex since it does not involve individual stochastic differential equations (SDE) for the  volatility, it is merely described by a function.
 
 Dupire found that the Local Volatility (LV) function could be derived as:
 $$
 \sigma(K,T)=\sqrt{2\frac{\displaystyle\frac{\delta C}{\delta K}+(r-d)K\,\frac{\delta C}{\delta K}+d C}{K^{2}\frac{\delta^{2}C}{\delta K^{2}}}}
 $$
-$\checkmark$    Simplest model consistent with the market   $\checkmark$    Local vol at ili ties are forward vol at ili ties   $\checkmark$    Arbitrage free (positive and regular)   $\checkmark$    Implied vol at ili ties surface with strike extrapolation provides variance swap fair value
+$\checkmark$    Simplest model consistent with the market   $\checkmark$    Local vol $\$a_t$$ ili ties are forward vol $$a_t$$ ili ties   $\checkmark$    Arbitrage free (positive and regular)   $\checkmark$    Implied vol $$a_t$$ ili ties surface with strike extrapolation provides variance swap fair value
 #    Good IV surface should give an accurate risk neutral density
-
-The deterministic LV function, represents a market consensus estimates for the instantaneous  volatility at some future time   $t$    with the asset at value  S.  It can be shown that the local variance   $\sigma^{2}(S,t)$   is the expectation of the future instantaneous variance  $\sigma^{2}(t)$   at time   $t$    conditional on the  asset having a value  $S$    at time   $t$  .
+The deterministic LV function, represents a market consensus estimates for the instantaneous  volatility $\$a_t$$ some future time   $t$    with the asset $$a_t$$ value  S.  It can be shown that the local variance   $\sigma^{2}(S,t)$   is the expectation of the future instantaneous variance  $\sigma^{2}(t)$   $$a_t$$ time   $t$    conditional on the  asset having a value  $S$    $$a_t$$ time   $t$  .
 
 # Known Issues using Local Volatility (LV) Model
-
 Since in local volatility models the volatility is a deterministic function of the random underlying   price, local volatility models are not very well used to price cliquet options, forward starting  options, Forward Volatility Agreement, as well as variance and volatility swaps, whose values  depend specifically on the random nature of volatility itself
 
 Lian (2010) noted that one of the problems related to applying the Dupire equation is that options  might not be available for a complete range of strikes and maturity.
@@ -405,8 +461,8 @@ Local volatility Models are easy to implement and theoretically self consistent,
 When the prices decreases, Local Volatility Models predict that the smile shifts to higher prices.  When the price increases, Local Volatility Models predict that the smile shifts to lower prices. In  reality asset prices and market smiles moves in the same direction. These inconsistencies lead to  incorrect hedges and hence incorrect pricing for exotic options.
 
  !500
-Implied volatility  $\sigma(K,f)$   if the forward prices decreases from  f 0  to f (solid line).
-Local volatility models are deterministic models and produce sharply flattened future volatility  smiles and skews as seen in figure below, which shows the three month forward implied volatility  skew at different reset dates, where 0M refers to the vanilla three-month option and 60M refers to  an option with three months' expiry starting in five years' time. We can see as we go out further in  time that the volatility skew and curvature decays. This behavior is not observed in the market.
+Implied volatility  $\\sigma(K,f)$   if the forward prices decreases from  f 0  to f (solid line).
+Local volatility models are deterministic models and produce sharply flattened future volatility  smiles and skews as seen in figure below, which shows the three month forward implied volatility  skew $\$a_t$$ different reset dates, where 0M refers to the vanilla three-month option and 60M refers to  an option with three months' expiry starting in five years' time. We can see as we go out further in  time that the volatility skew and curvature decays. This behavior is not observed in the market.
 
  !500
 Notice the flattening of the surface for lower and higher strikes
@@ -420,9 +476,7 @@ There are no documented empirical research testing the pricing result of FVA’s
 
 Red indicates results from the Local Vol. Model which are outside of the market consensus.
 # STOCHASTIC VOLATILITY MODELS
-
 # (HESTON);
-
 The first stochastic volatility model was proposed by Heston in 1993, who introduced an intuitive  extension of the well known Black and Scholes model iz ation. He assumed that the spot price  follows the diffusion: that is, a process resembling geometric Brownian motion with a nonconstant instantaneous variance  $\mathrm{v}$   (t). Furthermore, he proposed that the variance is a CIR process,  that is a mean reverting stochastic process%20Process.md) of the form:
 $$
 d S_{t}=\big(r_{d}-r_{f}\big)S_{t}d t+\sqrt{V_{t}}\,S_{t}d W_{t}^{1}
@@ -442,54 +496,52 @@ $$
 
 [^3]: Speed of mean reversion%20Process.md) of volatility:  $k$
 
-[^4]: Volatility of volatility:  $\textdollar{\sigma}$
+[^4]: Volatility of volatility:  $\textdollar{\\sigma}$
 
-[^5]: Correlation between spot exchange rate and volatility:  $\textdollar{\rho}$
+[^5]: Correlation between spot exchange rate and volatility:  $\textdollar{\\rho}$
 
 All these parameters can be calibrated.
 
-We can interpret the parameters   $\textdollar{\sigma}$   and   $\textdollar{\rho}$   as being responsible for the skew, the volatility of  variance controlling the curvature and the correlation the tilt.
+We can interpret the parameters   $\textdollar{\\sigma}$   and   $\textdollar{\\rho}$   as being responsible for the skew, the volatility of  variance controlling the curvature and the correlation the tilt.
 
-The other three parameters   $(V(\textdollar{\theta}),\textdollar{\theta},a n d\textdollar{k})$    control the term structure of the model; where the mean  reversion controls the skewness of the curve from the short volatility level to the long volatility  level.
+The other three parameters   $(V(\textdollar{\\theta}),\textdollar{\\theta},a n d\textdollar{k})$    control the term structure of the model; where the mean  reversion controls the skewness of the curve from the short volatility level to the long volatility  level.
 
-The Heston model is a generalization of the Black-Scholes model. Taking the limits   $\textdollar{\sigma}->\mathbf{0}$  ,  and   $k\Rightarrow\theta_{r}$  ,  we recover the Black-Scholes PDE with constant volatility.
+The Heston model is a generalization of the Black-Scholes model. Taking the limits   $\textdollar{\\sigma}->\mathbf{0}$  ,  and   $k\Rightarrow\theta_{r}$  ,  we recover the Black-Scholes PDE with constant volatility.
 
 The volatility-of-volatility and mean reversion%20Process.md) have opposite effect on the dispersion of volatility.  Volatility-of-volatility allows a large variation of future values of volatility; Mean-reversion  reversion tends to push future values of volatility towards the long-term value of volatility.
 # Advantages:
-
 The model intuitively extends the Black and Scholes model, including it as a special case. The  model is better used to price derivatives whose underlying is the spot itself, as it directly models  St. Heston’s setting take into account non-lognormal distribution of the assets returns, leverage  effect, important mean-reverting property of volatility and it remains analytically tractable.
 
 # Limitations:
-
-Empirical evidence suggests that Stochastic Volatility model (SV) is able to capture the empirical  surface quite well in general. However as noted in many research papers the model does a rather  poor job fitting the smile at short maturities. See figure below.
+Empirical evidence suggests that Stochastic Volatility model (SV) is able to capture the empirical  surface quite well in general. However as noted in many research papers the model does a rather  poor job fitting the smile $\$a_t$$ short maturities. See figure below.
 
 The model has five parameters to calibrate. The volatility does not depend on the level of the spot,  which may a drawback when the model is used to price products sensitive with respect to the spot  of the underlying.
 
 The dynamics of the calibrated Heston Model predict that:
 
--   Volatility can reach zero  -   Stay at zero for some time  -   Volatility is likely to stay extremely low or very high for long periods of time
-
+- Volatility can reach zero  -   Stay $\$a_t$$ zero for some time  -   Volatility is likely to stay extremely low or very high for long periods of time
 Bloomberg have implemented Heston model for pricing FX options and find similar weaknesses  mentioned above – the model’s inability to generate the smirks and the smiles for short options.  This is a characteristic for all stochastic volatility models.
 
 Below we list the three main problems reported in the Bloomberg study:
 
-   Heston model cannot fit a general volatility surface, which may contain 20-30 data  points.        Over short horizons, the Heston model does not generate the amount of skew and  curvatures quoted in actual volatility surfaces. (  This short comings of stochastic volatility  models can be alleviated by adding jump component to the model )       The time dependency in implied vol at ili ties of ATM options is not in general of the form  of an exponential transition from short-term to long-term levels as prescribed by the form  of mean-reversion of the Heston model Parameter effects on the implied volatility smile  in the Heston SV model.
+   Heston model cannot fit a general volatility surface, which may contain 20-30 data  points.        Over short horizons, the Heston model does not generate the amount of skew and  curvatures quoted in actual volatility surfaces. (  This short comings of stochastic volatility  models can be alleviated by adding jump component to the model )       The time dependency in implied vol $\$a_t$$ ili ties of ATM options is not in general of the form  of an exponential transition from short-term to long-term levels as prescribed by the form  of mean-reversion of the Heston model Parameter effects on the implied volatility smile  in the Heston SV model.
  !500
 
 Under the Bloomberg study, a set of Heston model parameters are calibrated using EUR/JPY,  EUR/USD, GBP/USD and USD/JPY and their volatility surfaces. The relative error of volatility  implied by the Heston option pricingi model and the input implied volatility. The test is based on  ATM, 25 and 10-delta points with expiries of 1 week, 1 month, 6 month and 1 year.
 
  !500
-Errors are smaller for the 25-delta options but the error increases for 10-delta options. For 1  week and 1 month options, the fit is not very good as expected for the Heston model. Errors are  around   $5.10\%$   for all delta values.
+Errors are smaller for the 25-delta options but the error increases for 10-delta options. For 1  week and 1 month options, the fit is not very good as expected for the Heston model. Errors are  around   $5.10\\%$   for all delta values.
 Below is a list of pros and cons of stochastic volatility models compiled by Peter Carr and Roger  Lee in their joint presentation; Robust Re plc i ation of Volatility Derivatives, April 2003, Stanford  University.
 
-   All of the literature on volatility derivatives employs some kind of stochastic volatility  (SV) model .     Furthermore, the models typically (but not always) assume that the price process and the  volatility process are both continuous over time.       To the extent that these assumptions are correct and that the particular process specification  is correct, one can use dynamic trading in one option and its underlying to hedge.       Most of the SV models used further assume that prices and instantaneous volatility both  diffuse leading to a simple and parsimonious world view. However, simple SV models  cannot simultaneously fit option prices at long and short maturities. Furthermore, since  instantaneous volatility is not directly observable, the assumption that the diffusion  coefficients of the volatility process are known is debatable.       Indeed, the SV diffusion parameters implied from time series typically differ from the riskneutral parameters, contradicting the implications of Girsanov’s theorem.       Complicating the pricing and hedging of volatility derivatives is the ugly fact that prices  jump.       Furthermore, when prices jump by a large amount, it is widely believed that expectations  of future realized volatility jump as well. The high levels of mean reversion%20Process.md) and vol-of-vol  implied from option prices further suggests that volatility jumps.       When price and/or volatility can jump from one level to any other, then in a model with  two or more sources of uncertainty, perfect replication typically requires dynamic trading  in a portfolio of options.     While option bid/ask spreads typically render this strategy as prohibitively expensive at  the individual contract level, knowledge of desired option hedges can be enacted at the  aggregate portfolio level.     Can we use dynamic trading in a portfolio of options to develop a theory which does not  require a complete specification of the stochastic process%20Process.md) for volatility?
+   All of the literature on volatility derivatives employs some kind of stochastic volatility  (SV) model .     Furthermore, the models typically (but not always) assume that the price process and the  volatility process are both continuous over time.       To the extent that these assumptions are correct and that the particular process specification  is correct, one can use dynamic trading in one option and its underlying to hedge.       Most of the SV models used further assume that prices and instantaneous volatility both  diffuse leading to a simple and parsimonious world view. However, simple SV models  cannot simultaneously fit option prices $\$a_t$$ long and short maturities. Furthermore, since  instantaneous volatility is not directly observable, the assumption that the diffusion  coefficients of the volatility process are known is debatable.       Indeed, the SV diffusion parameters implied from time series typically differ from the riskneutral parameters, contradicting the implications of Girsanov’s theorem.       Complicating the pricing and hedging of volatility derivatives is the ugly fact that prices  jump.       Furthermore, when prices jump by a large amount, it is widely believed that expectations  of future realized volatility jump as well. The high levels of mean reversion\%20Process.md) and vol-of-vol  implied from option prices further suggests that volatility jumps.       When price and/or volatility can jump from one level to any other, then in a model with  two or more sources of uncertainty, perfect replication typically requires dynamic trading  in a portfolio of options.     While option bid/ask spreads typically render this strategy as prohibitively expensive $$a_t$$  the individual contract level, knowledge of desired option hedges can be enacted $$a_t$$ the  aggregate portfolio level.     Can we use dynamic trading in a portfolio of options to develop a theory which does not  require a complete specification of the stochastic process%20Process.md) for volatility?
 
 # DE TERM IS TIC AND STOCHASTIC VOLATILITY MODELS: REULTS
+
 First, the valuation and hedging of volatility swap as well as forward volatility agreements are  more complicated then Variance swap contracts. The standard deviation is the square root of the  variance; but the square root is a non linear function. It is this linearity that makes the replication  and valuation of volatility based swaps more complex. Oliver Brockhaus and Douglas Long (Risk,  Jan. 2000), investigated the pricing of volatility derivatives and used both deterministic and  stochastic volatility based model.
 
 According to the above authors, a comparison between a deterministic volatility model (DVM)  and stochastic volatility model (SVM) shows that the price of DVM is always higher. As can be  seen from the figure below, the price difference increases with decreasing absolute asset-volatility  correlation and increasing volatility of volatility.
 
-A model-independent approach can be derived for volatility swap using Taylor expansion of the  square root function around some value that is close to the expected volatility swap value. So in  approximating volatility swaps only to   $1^{\mathrm{st}}$   order, we do not capture the effects of stochastic  volatility (volatility convexity).
+A model-independent approach can be derived for volatility swap using Taylor expansion of the  square root function around some value that is close to the expected volatility swap value. So in  approximating volatility swaps only to   $1^{\mathrm{$$s_t$$}}$   order, we do not capture the effects of stochastic  volatility (volatility convexity).
 
  !500
  $I^{s t}$    and  $2^{n d}$    order approximation for the volatility swap.
@@ -497,10 +549,9 @@ A model-independent approach can be derived for volatility swap using Taylor exp
  !500
 model dependency of volatility swap.
 
-So, the   $1^{\mathrm{st}}$   and   $2^{\mathrm{nd}}$   order Taylor expansions provide two approximations that respectively  overestimate and underestimate the true value of the swap. Since Forward volatility agreement  requires the square root of the variance, one can argue that we might expect similar results too.
+So, the   $1^{\mathrm{$$s_t$$}}$   and   $2^{\mathrm{nd}}$   order Taylor expansions provide two approximations that respectively  overestimate and underestimate the true value of the swap. Since Forward volatility agreement  requires the square root of the variance, one can argue that we might expect similar results too.
 
 # STOCHASTIC LOCAL VOLATILITY MODEL (SLV);
-
    Classical models such as  local volatility  (LV) and  stochastic volatility  (SV) are in fact calibrated to  and completely determined by the vanilla market
 
    They offer no extra flexibility in matching the market dynamics.
@@ -510,30 +561,26 @@ Because of the limitations of the Local and Stochastic models on their own, rece
 
 At the moment there is not much empirical tests on valuations of volatility derivatives (products)  using this new approach, however, implementation and tests on barrier type exotics show:
 
--   calibration matches the entire volatility surface to the very distant wings  -   better model generated prices for reverse KO, Touches and Digital   -   consistent with market dynamics.
-
+- calibration matches the entire volatility surface to the very distant wings  -   better model generated prices for reverse KO, Touches and Digital   -   consistent with market dynamics.
 For valuation of FVA, it would require a model that has the above features. It will also require not  only better calibration but the calibrated volatility surface should have correct dynamics.
 
 To test the SLV model, we would need to generate list of FVA prices for a given maturity using  various mixing fractions. We can then compare these prices with market quoted prices (provided  there are liquid OTC prices).   For more detailed discussion on the implementations and empirical  result on SLV model, see Tataru and Fisher, (2010).
 
 # Bloomberg SLV Model
-
 The SLV model that we investigate is described by:$$
 \begin{array}{r l}&{\displaystyle\frac{d S_{t}}{S_{t}}=(\boldsymbol{r}_{d}-\boldsymbol{r}_{f})d t+L(S_{t},t)\sqrt{V_{t}}d W_{t}^{1}}\\ &{d V_{t}=k(\theta-V_{t})d t+\nu\nu o l\!\cdot\!V_{t}^{\alpha}d W_{t}^{2}}\\ &{d W_{t}^{1}\cdot d W_{t}^{2}=\rho~d t}\end{array}
 $$
-$L(S_{t},t)\ =$   = Local Volatility,   $\textdollar{K}=$    speed of mean reversion%20Process.md),   $\Theta\!\!=$  mean reversion%20Process.md) level,  Vvol    $=$  volatility of variance,  $\mathbf{P}=$  correlation.
+$L(S_{t},t)\ =$   = Local Volatility,   $\textdollar{K}=$    speed of mean reversion%20Process.md),   $\\Theta\!\!=$  mean reversion%20Process.md) level,  Vvol    $=$  volatility of variance,  $\mathbf{P}=$  correlation.
 
-The mixing of LV and SV features is controlled mostly by  vvol , followed as importance by the  correlation ρ. For SLV to degenerate to a pure LV model one would set   $\nu\nu o l{=}0$   and to obtain a  pure SV model one would set   $L(S_{t},t)\!=\!1$  =1.
+The mixing of LV and SV features is controlled mostly by  vvol , followed as importance by the  correlation ρ. For SLV to degenerate to a pure LV model one would set   $\\nu\\nu o l{=}0$   and to obtain a  pure SV model one would set   $L(S_{t},t)\!=\!1$  =1.
 
 # Calibration:
-
 [^1]: Find the stochastic parameters to match the market dynamics  2.   And then calibrate the local vol. function   $L(S_{t},t)$   to match the vanilla market
 
  !500
-$\mathcal{\prime}_{\sf A}$   rigorous approach to finding the stochastic parameters rests on a quant if i cation of the market  dynamics. This can be represented by   ATM/  Spot and   $\hat{\sigma}$  RR/  Spot  or other ways to quantify the  movements of the implied volatility surface given a move in spot.”
+$\mathcal{\prime}_{\sf A}$   rigorous approach to finding the stochastic parameters rests on a quant if i cation of the market  dynamics. This can be represented by   ATM/  Spot and   $\hat{\\sigma}$  RR/  Spot  or other ways to quantify the  movements of the implied volatility surface given a move in spot.”
 
 # References
-
 Grigore Tataru, Travis Fisher, Quantitative Development Group, Bloomberg “Stochastic Local Volatility”  (February, 2010).
 Patrick Hagan, Deep Kumar, Andrew S. Lesniewski and Diana E. Woodward. Managing smile risk.  Wilmott Magazine, pages 86-108, July 2002.    Steven L. Heston. A closed-form solution for options with stochastic volatility with applications to bond  and currency options. Review of Financial Studies, 6(2):327{343, 1993.    Guanghua Lian. Pricing volatility derivatives with stochastic volatility. PhD thesis, University  of Wollongong, 2010.    Iddo Yekutieli. Implementation of Heston Model for the Pricing of GX Options. Bloomberg LP. Bloomberg  Financial Markets (BFM), June 22 2004.     Collin Bennet, Miguel A.Gil.  “Volatility Trading – Trading volatility, correlation, term structure and skew.  Equity Derivatives. Santander, Global Banking and Markets.     Menachem Brenner, Ernest Y. Ou, Jin E Zhang. “ Hedging Volatility Risk”. Journal of Banking and Finance  30 (2006) 811 – 821    Carr, P., and L. Wu (2007). .Stochastic Skew in Currency Options,. Journal of Financial Economics, 86,
 

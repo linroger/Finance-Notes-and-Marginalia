@@ -1,32 +1,81 @@
 ---
 title: Governance in Financial Distress and Bankruptcy
 tags:
-  - bankruptcy
-  - board_turnover
-  - chapter_11
-  - corporate_governance
-  - creditor_rights
-  - distressed_firms
-  - financial_distress
-  - management
-  - restructuring
-  - shareholders
+- acquisition
+- bankruptcy
+- board_turnover
+- bond
+- capital-structure
+- chapter_11
+- compound
+- corporate_governance
+- credit-spread
+- creditor_rights
+- defi
+- distressed
+- distressed_firms
+- duration
+- equity
+- equity-swap
+- equity-value
+- financial-crisis
+- financial_distress
+- fire-sale
+- future
+- hedge-fund
+- lehman
+- leverage-ratio
+- liquidity
+- management
+- merger
+- option
+- private-equity
+- put
+- real-option
+- regulatory-capital
+- restructuring
+- shareholders
+- stock
+- swap
+- transaction-cost
+- yield-curve
 aliases:
-  - Corporate Bankruptcy
-  - Distressed Firm Governance
-  - Financial Distress Governance
-  - Governance in Distress
+- Corporate Bankruptcy
+- Distressed Firm Governance
+- Financial Distress Governance
+- Governance in Distress
 key_concepts:
-  - Automatic stay
-  - Chapter 11 reorganization process
-  - Control rights of stakeholders
-  - Creditor-controlled outcomes
-  - Debtor in possession
-  - Equity holder-creditor conflicts
-  - Framework of control rights
-  - Governance and financial distress
-  - Influence of creditors
-  - Management and board turnover
+- Automatic stay
+- Basis swap mechanics
+- Chapter 11 reorganization process
+- Control rights of stakeholders
+- Convexity adjustment
+- Creditor-controlled outcomes
+- Cross-currency basis
+- Currency swap structure
+- DV01 calculation
+- Debtor in possession
+- Derivative securities
+- Duration measurement
+- Equity holder-creditor conflicts
+- Financial risk management
+- Fixed vs floating leg
+- Framework of control rights
+- Governance and financial distress
+- Hedging with bonds
+- Influence of creditors
+- Interest rate sensitivity
+- Interest rate swap pricing
+- Management and board turnover
+- Modified duration calculation
+- Portfolio immunization
+- Portfolio optimization
+- Present value of swaps
+- Price-yield relationship
+- Quantitative financial analysis
+- Risk assessment and mitigation
+- Swap curve construction
+- Swaption valuation
 ---
 
 # Governance in Financial Distress and Bankruptcy

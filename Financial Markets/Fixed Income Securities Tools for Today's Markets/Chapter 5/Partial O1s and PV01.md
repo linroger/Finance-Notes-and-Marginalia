@@ -1,20 +1,107 @@
 ---
-tags:
-  - curve_building
-  - hedging
-  - interest_rate_swaps
-  - pv01
-  - swap_markets
 aliases:
-  - DV01
-  - Partial PV01
+- DV01
+- Partial PV01
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Partial O1s and PV01 and financial analysis
+- Partial O1s and PV01 in modern finance
+- Applications of Partial O1s and PV01
+- 'Case study: Partial O1s and PV01'
+last_enhanced: '2025-11-06 08:42:36'
+- bond
+- coupon
+- put
+- dv01
+- risk-management
+- hedging
+- bonds
+- options
+- swaps
+- swap
+- basis
+- forward
+- yield
+- futures
+- call
+tags:
+- arbitrage
+- basis
+- bond
+- case-study
+- credit-curve
+- crisis-analysis
+- currency
+- derivative-pricing
+- derivatives
+- duration
+- empirical-analysis
+- fixed-income
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- leverage
+- liquidity
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- sec-regulation
+- securitization
+- stress-test
+- var
+- yield-curve
+
 key_concepts:
-  - Curve refitting caveats
-  - Hedging with swaps
-  - Partial PV01 definition
-  - Present value calculation
-  - Swap rate curve
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # 5.5 PARTIAL 'O1S AND PV01  
 

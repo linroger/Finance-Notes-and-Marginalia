@@ -1,28 +1,44 @@
 ---
 cssclasses:
-  - academia
+- academia
 title: The Battle to Defend Hong Kong’s Financial Stability
 source: https://www.hkma.gov.hk/eng/news-and-media/insight/2019/09/20190911/
 description: During my nearly three decade career with the HKMA,     I have had the
   unenviable experience of very close encounters with two major financial crises,     namely
   the Asian Financial Crisis (AFC) which started
 tags:
-  - asian_financial_crisis
-  - currency_manipulation
-  - hedge_funds
-  - hkma
-  - linked_exchange_rate
+- asian_financial_crisis
+- banking
+- credit-risk
+- currency_manipulation
+- forward-contracts
+- futures-contracts
+- hedge_funds
+- hedging-strategies
+- hkma
+- interest-rates
+- linked_exchange_rate
+- market-structure
+- options
+- trading-strategies
 aliases:
-  - AFC
-  - Hong Kong financial stability
-  - LERS
+- AFC
+- Hong Kong financial stability
+- LERS
 key_concepts:
-  - Asian currency crisis
-  - Hong Kong's history
-  - currency and stock markets
-  - financial crises
-  - hedge fund strategies
+- Futures contracts and forward pricing
+- Trading strategies and market implementation
+- Investment analysis and portfolio management
+- Financial valuation and pricing methodologies
+- Fixed income securities and bond markets
+- International finance and global markets
+- Financial crises and market stress events
+last_enhanced: '2025-11-06 08:42:47'
 ---
+
+
+
+
 
 # The Battle to Defend Hong Kong’s Financial Stability
 

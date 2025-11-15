@@ -3,25 +3,44 @@ cssclasses: academia
 title: HBR Notes
 linter-yaml-title-alias: HBR NOTES
 tags:
-  - business_publication
-  - case_study
-  - financial_analysis
-  - hbr_notes
-  - management
+- business_publication
+- case_study
+- currency
+- dodd-frank
+- financial_analysis
+- hbr_notes
+- liquidity
+- long-term-capital
+- ltcm
+- management
+- option
+- swap
 aliases:
-  - HBR
-  - HBR Article
-  - Harvard Business Review
+- HBR
+- HBR Article
+- Harvard Business Review
 key_concepts:
-  - Business case studies
-  - Financial analysis tools
-  - Harvard Business Review
-  - Management insights
-  - Strategic business decisions
+- Basis swap mechanics
+- Business case studies
+- Cross-currency basis
+- Currency swap structure
+- Derivative securities
+- Financial analysis tools
+- Financial risk management
+- Fixed vs floating leg
+- Harvard Business Review
+- Interest rate swap pricing
+- Management insights
+- Portfolio optimization
+- Present value of swaps
+- Quantitative financial analysis
+- Risk assessment and mitigation
+- Strategic business decisions
+- Swap curve construction
+- Swaption valuation
 ---
 
 # HBR Notes
-
 %% Begin Waypoint %%
 - **HBR Notes**
 	- A Primer on Bank Liquidity
@@ -39,5 +58,4 @@ key_concepts:
 	- Notes- Contemporary Financial Intermediation
 	- Oaktree and the Restructuring of CIT Group
 	- The Mechanics of Currency Swaps With Bank Credit Intermediation
-
 %% End Waypoint %%

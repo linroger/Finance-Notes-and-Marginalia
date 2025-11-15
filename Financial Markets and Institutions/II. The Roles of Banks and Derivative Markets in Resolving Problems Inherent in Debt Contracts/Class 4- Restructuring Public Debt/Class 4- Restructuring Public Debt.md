@@ -1,36 +1,35 @@
 ---
-cssclasses:
-  - academia
-title: "Class 4: Restructuring Public Debt"
-tags:
-  - bankruptcy
-  - bond_markets
-  - case_studies
-  - corporate_restructuring
-  - debt_restructuring
-  - exchange_offers
-  - exit_consents
-  - public_finance
-  - sovereign_debt
-  - coercive_exchanges
-  - holdout_problem
-  - trust_indenture_act
 aliases:
-  - Class 4 Restructuring
-  - Public Debt Restructuring
-  - Debt Restructuring Outside Bankruptcy
+- Class 4 Restructuring
+- Public Debt Restructuring
+- Debt Restructuring Outside Bankruptcy
+cssclasses:
+- academia
 key_concepts:
-  - Bankruptcy process
-  - Bond markets
-  - Debt restructuring
-  - Exchange offers
-  - Sovereign debt
-  - Coercive exchange offers
-  - Exit consents
-  - Trust Indenture Act
-  - Holdout problem
-  - CIT Group restructuring
-  - Greece bond swap
+- Corporate bankruptcy process
+- Debt restructuring and workouts
+- Chapter 11 reorganization
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Class 4- Restructuring Public Debt and financial analysis
+- Class 4- Restructuring Public Debt in modern finance
+- Applications of Class 4- Restructuring Public Debt
+- 'Case study: Class 4- Restructuring Public Debt'
+tags:
+- fixed-income
+- swap
+- bond
+- swaps
+- bonds
+- bankruptcy
+title: 'Class 4: Restructuring Public Debt'
 ---
 
 # Class 4: Restructuring Public Debt

@@ -2,20 +2,21 @@
 title: Handbook of Fixed Income Securities
 cssclasses: academia
 tags:
-  - bond_market
-  - bond_pricing
-  - credit_risk
-  - fixed_income_securities
-  - yield_curve
+- bond_market
+- bond_pricing
+- credit_risk
+- fixed_income_securities
+- yield_curve
 aliases:
-  - Bond Handbook
-  - Fixed Income Handbook
+- Bond Handbook
+- Fixed Income Handbook
 key_concepts:
-  - Bond valuation
-  - Credit spread
-  - Duration and convexity
-  - Fixed income derivatives
-  - Yield curve analysis
+- Fixed income securities and bond markets
+last_enhanced: '2025-11-06 08:42:39'
 ---
+
+
+
+
 
 # Handbook of Fixed Income Securities

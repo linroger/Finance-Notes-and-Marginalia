@@ -1,20 +1,109 @@
 ---
-tags:
-  - cash_and_carry
-  - dollar_rolls
-  - repo_rate
-  - tba_liquidity
-  - tba_prices
 aliases:
-  - Dollar Rolls
-  - TBA rolls
+- Dollar Rolls
+- TBA rolls
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Credit analysis and rating
+- Default probability modeling
+- Loss given default estimation
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Dollar Rolls and financial analysis
+- Dollar Rolls in modern finance
+- Applications of Dollar Rolls
+- 'Case study: Dollar Rolls'
+last_enhanced: '2025-11-06 08:42:35'
+- roll
+- options
+- forward
+- credit-risk
+- call
+- coupon
+- fixed-income
+- put
+- arbitrage
+- cash flow
+- bond
+- futures
+- bonds
+- collateral
+- basis
+tags:
+- arbitrage
+- bankruptcy
+- basis
+- bid-ask
+- bond
+- case-study
+- cash-flow
+- collateral
+- counterparty
+- crisis-analysis
+- default
+- derivative-pricing
+- derivatives
+- duration
+- empirical-analysis
+- fixed-income
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- liquidity
+- mathematical-finance
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- repo
+- sec-regulation
+- securitization
+- spread
+- yield-curve
+
 key_concepts:
-  - Cash-and-carry arbitrage
-  - Forward contracts
-  - Implied financing rate
-  - Repo position
-  - TBA contracts
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # 15.10 DOLLAR ROLLS  
 

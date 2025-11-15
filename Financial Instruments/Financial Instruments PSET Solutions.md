@@ -1,24 +1,102 @@
 ---
 tags:
-  - arbitrage
-  - commodity_futures
-  - currency_swaps
-  - forward_rates
-  - hedging
-  - options_hedging
+- abs
+- american
+- arbitrage
+- basel
+- beta
+- binomial
+- black-scholes
+- bond
+- call
+- cap
+- collar
+- commodity
+- commodity_futures
+- credit-spread
+- currency
+- currency_swaps
+- defi
+- dividend-yield
+- energy-derivative
+- equity
+- equity-value
+- european
+- exchange-rate
+- floor
+- forward
+- forward_rates
+- future
+- gdp
+- greeks
+- hedge
+- hedge-fund
+- hedging
+- implied-vol
+- interest-rate
+- lehman
+- libor
+- margin-call
+- oil
+- option
+- options_hedging
+- put
+- regression
+- risk-free-rate
+- sovereign-debt
+- stock
+- swap
+- treasury
 aliases:
-  - Commodity Futures
-  - FX Forwards
-  - Financial Derivatives
-  - PSET Solutions
-  - Southwest Hedge
+- Commodity Futures
+- FX Forwards
+- Financial Derivatives
+- PSET Solutions
+- Southwest Hedge
 key_concepts:
-  - Amaranth Calendar Spread
-  - Arbitrage and Forward Rates
-  - Commodity Futures
-  - Covered Interest Rate Parity
-  - Currency Swaps
-  - Hedging with Futures
+- Amaranth Calendar Spread
+- American options valuation
+- Arbitrage and Forward Rates
+- Backward induction algorithm
+- Basis swap mechanics
+- Binomial option pricing model
+- Commodity Futures
+- Convergence to Black-Scholes
+- Covered Interest Rate Parity
+- Cox-Ross-Rubinstein framework
+- Cross-currency basis
+- Currency Swaps
+- Currency swap structure
+- Delta risk management
+- Delta-hedging implementation
+- Derivative securities
+- Dynamic hedging strategies
+- Dynamic replication
+- Financial risk management
+- Fixed vs floating leg
+- Gamma effects on options
+- Gamma hedging techniques
+- Hedge ratio calculation
+- Hedging effectiveness
+- Hedging with Futures
+- Interest rate swap pricing
+- Lattice methods for derivatives
+- Multi-period binomial tree
+- Options Greeks measurement
+- Portfolio insurance methods
+- Portfolio optimization
+- Portfolio risk hedging
+- Present value of swaps
+- Quantitative financial analysis
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Risk-neutral probability
+- Static hedging
+- Swap curve construction
+- Swaption valuation
+- Theta time decay
+- Vega hedging strategies
+- Vega volatility sensitivity
 ---
 ```markdown
 # Financial Instruments

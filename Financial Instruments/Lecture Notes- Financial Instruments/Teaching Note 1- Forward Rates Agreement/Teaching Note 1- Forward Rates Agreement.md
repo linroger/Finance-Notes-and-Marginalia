@@ -3,23 +3,48 @@ cssclasses: academia
 linter-yaml-title-alias: LECTURE NOTE 1 FORWARD RATES AGREEMENT
 title: Teaching Note 1Forward Rates Agreement
 tags:
-  - backwardation
-  - commodity_forwards
-  - contango
-  - forward_curve
-  - lease_rate
-  - short_selling
-  - storage_costs
+- alpha
+- backwardation
+- bond
+- commodity
+- commodity_forwards
+- contango
+- defi
+- dividend-yield
+- exchange-rate
+- forward
+- forward_curve
+- future
+- greeks
+- interest-rate
+- lease_rate
+- risk-free-rate
+- short_selling
+- stock
+- storage_costs
 aliases:
-  - FRA
-  - commodity forward
-  - forward strip
+- FRA
+- commodity forward
+- forward strip
 key_concepts:
-  - Commodity forward prices
-  - Contango and backwardation
-  - Equilibrium pricing
-  - Lease rate definition
-  - Short-selling commodity
+- Commodity forward prices
+- Contango and backwardation
+- Delta risk management
+- Derivative securities
+- Dynamic hedging strategies
+- Equilibrium pricing
+- Financial risk management
+- Gamma effects on options
+- Lease rate definition
+- Options Greeks measurement
+- Portfolio optimization
+- Portfolio risk hedging
+- Quantitative financial analysis
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Short-selling commodity
+- Theta time decay
+- Vega volatility sensitivity
 ---
 
 # Teaching Note 1Forward Rates Agreement

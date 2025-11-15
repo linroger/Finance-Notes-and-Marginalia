@@ -1,3 +1,77 @@
+---
+- asset-pricing
+- banking
+- financial-regulation
+- futures-contracts
+- options
+- Futures contracts and forward pricing
+- Financial theory and academic research
+- Practical examples and implementation
+- Investment analysis and portfolio management
+- International finance and global markets
+- Financial crises and market stress events
+last_enhanced: '2025-11-06 08:42:49'
+tags:
+- asian
+- austerity
+- banking
+- bankruptcy
+- bid-ask
+- commodity
+- cross-border
+- derivatives
+- equity
+- european
+- european-debt-crisis
+- eurozone
+- facility-lending
+- financial-crisis
+- graduate-level
+- grexit
+- institutional-quality
+- mathematical-finance
+- professional-standard
+- provision
+- quantitative-methods
+- sovereign
+- sovereign-debt
+- spread
+- tail-risk
+- yield-curve
+
+key_concepts:
+- Austerity Measures
+- Banking and Financial Intermediation
+- Currency Union Risks
+- European Debt Crisis
+- European Integration
+- Eurozone Crisis Management
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Fiscal Integration
+- Greek Debt Crisis
+- Institutional-Quality Financial Education
+- Quantitative Methods in Finance
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+- Sovereign Debt Restructuring
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
+---
+
+
+
+
+
 # CHAPTER 11  
 
 # Trade Policy in Developing Countries  

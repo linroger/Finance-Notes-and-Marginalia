@@ -1,20 +1,42 @@
 ---
 tags:
-  - asset_pricing
-  - financial_markets
-  - fixed_income
-  - fixed_income_securities
-  - securities_analysis
+- asset-pricing
+- asset_pricing
+- bond-convexity
+- bond-durability
+- cmo
+- convexity
+- corporate-bonds
+- financial-engineering
+- financial_markets
+- fixed_income
+- fixed_income_securities
+- futures-contracts
+- market-structure
+- mbs
+- securities_analysis
+- trading-strategies
 aliases:
-  - Asset Pricing
-  - Fixed Income
+- Asset Pricing
+- Fixed Income
 key_concepts:
-  - Financial markets
-  - Fixed income asset pricing
-  - Handbook of securities
-  - Problem sets and materials
-  - Securities analysis
+- Duration and interest rate risk measurement
+- Convexity adjustments in fixed income
+- Mortgage-backed securities and prepayment modeling
+- Futures contracts and forward pricing
+- Market microstructure and trading mechanisms
+- Financial theory and academic research
+- Practical examples and implementation
+- Derivatives and structured financial instruments
+- Trading strategies and market implementation
+- Fixed income securities and bond markets
+- Asset pricing and derivatives valuation
+last_enhanced: '2025-11-06 08:42:38'
 ---
+
+
+
+
 
 # Fixed Income Asset Pricing
 This document serves as a comprehensive resource for understanding fixed income asset pricing, covering various critical topics in financial markets and securities analysis.

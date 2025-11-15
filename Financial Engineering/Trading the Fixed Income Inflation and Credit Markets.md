@@ -1,21 +1,166 @@
 ---
 tags:
-  - bond_fundamentals
-  - credit_markets
-  - fixed_income
-  - inflation
-  - market_risk
+- acquisition
+- alpha
+- asset-swap
+- barrier
+- basis-swap
+- beta
+- black-scholes
+- bond
+- bond_fundamentals
+- bps
+- call
+- cap
+- capital-structure
+- cdo
+- cds
+- cdsos
+- commodity
+- convexity
+- copula
+- corporate-bond
+- crash
+- credit-derivatives
+- credit-risk
+- credit-spread
+- credit_markets
+- currency
+- dcf
+- defi
+- deflation
+- digital
+- duration
+- dv01
+- equity
+- euribor
+- exchange-rate
+- exotic
+- extreme-value
+- fat-tail
+- financial-crisis
+- fixed-income
+- fixed_income
+- floor
+- forward
+- future
+- g-spread
+- gold
+- greeks
+- hedge
+- hedge-fund
+- implied-vol
+- index
+- inflation
+- interest-rate
+- lehman
+- leveraged-buyout
+- libor
+- liquidity
+- liquidity-risk
+- market-neutral
+- market-risk
+- market-risk-premium
+- market_risk
+- monetary-policy
+- monte-carlo
+- multiple
+- oil
+- ois
+- option
+- overnight-swap
+- pca
+- put
+- quantitative-easing
+- regression
+- risk-free-rate
+- sovereign-debt
+- spread
+- stock
+- swap
+- swaption
+- total-return
+- tracking-error
+- trade-deficit
+- transaction-cost
+- treasury
+- var
+- vol-smile
+- yield-curve
+- yield-spread
+- z-spread
 aliases:
-  - Credit Markets
-  - Fixed Income Markets
-  - Trading Fixed Income
+- Credit Markets
+- Fixed Income Markets
+- Trading Fixed Income
 key_concepts:
-  - Bond fundamentals
-  - Market risk management
-  - Pricing relationships
-  - Relative value
-  - Spot-forward relationship
-  - Yield curve formation
+- ' tranche valuation'
+- Backtesting VaR models
+- Basis swap mechanics
+- Bond fundamentals
+- CDO squared structures
+- CDS curve construction
+- CDS spread calibration
+- Convexity adjustment
+- Credit Default Swaps
+- Credit index products
+- Cross-currency basis
+- Currency swap structure
+- DV01 calculation
+- Default correlation
+- Delta risk management
+- Delta-hedging implementation
+- Derivative securities
+- Discounted Cash Flow valuation
+- Duration measurement
+- Dynamic hedging strategies
+- Dynamic replication
+- Enterprise value estimation
+- Expected Shortfall calculation
+- Financial risk management
+- Fixed vs floating leg
+- Free cash flow modeling
+- Gamma effects on options
+- Gamma hedging techniques
+- Gordon growth model
+- Hedge ratio calculation
+- Hedging effectiveness
+- Hedging with bonds
+- Historical simulation VaR
+- Interest rate sensitivity
+- Interest rate swap pricing
+- Market risk management
+- Modified duration calculation
+- Monte Carlo VaR
+- Multi-stage DCF models
+- Options Greeks measurement
+- Parametric VaR models
+- Portfolio immunization
+- Portfolio insurance methods
+- Portfolio optimization
+- Portfolio risk hedging
+- Present value of swaps
+- Price-yield relationship
+- Pricing relationships
+- Quantitative financial analysis
+- Regulatory VaR requirements
+- Relative value
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Spot-forward relationship
+- Static hedging
+- Swap curve construction
+- Swaption valuation
+- Synthetic CDO pricing
+- Terminal value calculation
+- Theta time decay
+- VaR model validation
+- Value at Risk (VaR) methodology
+- Vega hedging strategies
+- Vega volatility sensitivity
+- WACC calculation
+- Weighted Average Cost of Capital
+- Yield curve formation
 ---
 
 Trading the Fixed Income, Inflation/War%20Economies%20and%20Hyperinflation.md) and Credit Markets  

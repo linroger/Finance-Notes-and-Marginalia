@@ -2,26 +2,76 @@
 title: Financial Instruments Example Midterm Solutions
 cssclasses: academia
 tags:
-  - binomial_trees
-  - bond_valuation
-  - european_call_option
-  - european_put_option
-  - no_arbitrage_price
+- binomial
+- binomial_trees
+- black-scholes
+- bond
+- bond_valuation
+- call
+- commodity
+- currency
+- digital
+- dividend-yield
+- equity
+- european_call_option
+- european_put_option
+- exchange-rate
+- forward
+- future
+- greeks
+- interest-rate
+- libor
+- no_arbitrage_price
+- oil
+- option
+- put
+- risk-free-rate
+- stock
+- swap
 aliases:
-  - financial instruments midterm solutions
-  - option pricing exam
-  - option valuation
+- financial instruments midterm solutions
+- option pricing exam
+- option valuation
 key_concepts:
-  - Binary option price
-  - Binomial tree pricing
-  - Bond valuation example
-  - European call option
-  - European put option
-  - Forward contract pricing
-  - Hedging strategies
-  - Risk-neutral valuation
-  - No-arbitrage pricing
-  - Option delta calculation
+- American options valuation
+- Backward induction algorithm
+- Basis swap mechanics
+- Binary option price
+- Binomial option pricing model
+- Binomial tree pricing
+- Bond valuation example
+- Convergence to Black-Scholes
+- Cox-Ross-Rubinstein framework
+- Cross-currency basis
+- Currency swap structure
+- Delta risk management
+- Derivative securities
+- Dynamic hedging strategies
+- European call option
+- European put option
+- Financial risk management
+- Fixed vs floating leg
+- Forward contract pricing
+- Gamma effects on options
+- Hedging strategies
+- Interest rate swap pricing
+- Lattice methods for derivatives
+- Multi-period binomial tree
+- No-arbitrage pricing
+- Option delta calculation
+- Options Greeks measurement
+- Portfolio optimization
+- Portfolio risk hedging
+- Present value of swaps
+- Quantitative financial analysis
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Risk-neutral probability
+- Risk-neutral valuation
+- Swap curve construction
+- Swaption valuation
+- Theta time decay
+- Vega volatility sensitivity
 ---
 
 # Financial Instruments Example Midterm Solutions

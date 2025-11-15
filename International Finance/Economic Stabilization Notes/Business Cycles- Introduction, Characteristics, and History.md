@@ -1,38 +1,93 @@
 ---
-cssclasses: ["academia"]
+cssclasses:
+- academia
 title: Business Cycles - Introduction, Characteristics, and History
 linter-yaml-title-alias: Business Cycles - Introduction, Characteristics, and History
-tags:
-  - business_cycles
-  - economic_activity
-  - expansions
-  - macroeconomic_fluctuations
-  - recessions
-  - economic_growth
-  - cyclical_patterns
-  - turning_points
-  - nber_dating
-  - economic_history
+- bond-durability
+- business_cycles
+- cyclical_patterns
+- economic_activity
+- economic_growth
+- economic_history
+- expansions
+- government-bonds
+- interest-rates
+- macroeconomic_fluctuations
+- nber_dating
+- recessions
+- turning_points
 aliases:
-  - Business Cycle
-  - Business Cycle Overview
-  - Economic Cycle
-  - Business Cycles Introduction
-  - Cyclical Fluctuations
+- Business Cycle
+- Business Cycle Overview
+- Economic Cycle
+- Business Cycles Introduction
+- Cyclical Fluctuations
+- Duration and interest rate risk measurement
+- Practical examples and implementation
+- Fixed income securities and bond markets
+- International finance and global markets
+- Financial crises and market stress events
+last_enhanced: '2025-11-06 08:42:47'
+tags:
+- bid-ask
+- bond
+- central-bank
+- commodity
+- covid-crisis
+- cross-border
+- duration
+- equity
+- financial-crisis
+- fixed-income
+- graduate-level
+- institutional-quality
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- robo-advisor
+- sec-regulation
+- securitization
+- sovereign
+- spread
+- treasury
+- volatility
+
 key_concepts:
-  - Aggregate output, income, employment
-  - Business cycle characteristics
-  - Fluctuations in economic activity
-  - Macroeconomic fiscal and monetary policies
-  - Recessions and expansions
-  - Burns-Mitchell definition
-  - Business cycle dating
-  - Peak and trough identification
-  - Cyclical vs. growth trends
-  - Duration and amplitude of cycles
-  - Synchronization across sectors
-  - Historical business cycles
+- Banking and Financial Intermediation
+- Banking and Intermediation
+- Credit Risk Assessment
+- Derivative Securities
+- Financial Crisis Analysis
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Financial Regulation and Compliance
+- Institutional-Quality Financial Education
+- Liquidity and Market Structure
+- Market Trading and Hedging
+- Quantitative Finance Methods
+- Quantitative Methods in Finance
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # Business Cycles: Introduction, Characteristics, and History
 

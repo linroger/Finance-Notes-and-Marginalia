@@ -1,3 +1,32 @@
+---
+tags:
+- asset-pricing
+- black-scholes-model
+- capm
+- credit-default-swaps
+- credit-risk
+- exotic-options
+- financial-engineering
+- options
+- swaps
+key_concepts:
+- Black-Scholes option pricing model and its applications
+- Credit default swaps and credit risk transfer
+- Credit default swap pricing and spreads
+- Risk-neutral pricing and martingale measures
+- Interest rate swaps and swap curve construction
+- Capital Asset Pricing Model (CAPM)
+- Financial theory and academic research
+- Practical examples and implementation
+- Derivatives and structured financial instruments
+- Investment analysis and portfolio management
+- Financial valuation and pricing methodologies
+- Fixed income securities and bond markets
+last_enhanced: '2025-11-06 08:42:40'
+---
+
+
+
 # VoyageNotes Formatting Processing Log
 
 This file tracks all markdown documents that have been processed by the formatting subagents.

@@ -1,37 +1,80 @@
 ---
 tags:
-  - annuities
-  - bond_valuation
-  - duration_convexity
-  - financial_instruments
-  - financial_mathematics
-  - interest_rates
-  - term_structure
-  - actuarial_science
-  - present_value
-  - future_value
+- actuarial_science
+- annuities
+- bond
+- bond_valuation
+- convexity
+- dcf
+- defi
+- duration
+- duration_convexity
+- financial_instruments
+- financial_mathematics
+- forward
+- future
+- future_value
+- greeks
+- interest-rate
+- interest_rates
+- multiple
+- option
+- present_value
+- put
+- stock
+- term_structure
+- yield-curve
 aliases:
-  - Actuarial Guide
-  - Business Professionals
-  - Financial Math
-  - Financial Mathematics
-  - Time Value of Money
+- Actuarial Guide
+- Business Professionals
+- Financial Math
+- Financial Mathematics
+- Time Value of Money
 key_concepts:
-  - Bond valuation
-  - Duration, convexity, immunization
-  - Financial instruments
-  - Interest rates and factors
-  - Level annuities
-  - Project appraisal and loans
-  - Varying annuities
-  - Amortization and sinking fund methods
-  - Term structure of interest rates
-  - Annuity-immediate and annuity-due
-  - Continuously payable annuities
-  - Perpetuities
-  - Equations of value
-  - Deferred annuities
-  - Varying force of interest
+- Amortization and sinking fund methods
+- Annuity-immediate and annuity-due
+- Bond valuation
+- Continuously payable annuities
+- Convexity adjustment
+- DV01 calculation
+- Deferred annuities
+- Delta risk management
+- Derivative securities
+- Discounted Cash Flow valuation
+- Duration measurement
+- Duration, convexity, immunization
+- Dynamic hedging strategies
+- Enterprise value estimation
+- Equations of value
+- Financial instruments
+- Financial risk management
+- Free cash flow modeling
+- Gamma effects on options
+- Gordon growth model
+- Hedging with bonds
+- Interest rate sensitivity
+- Interest rates and factors
+- Level annuities
+- Modified duration calculation
+- Multi-stage DCF models
+- Options Greeks measurement
+- Perpetuities
+- Portfolio immunization
+- Portfolio optimization
+- Portfolio risk hedging
+- Price-yield relationship
+- Project appraisal and loans
+- Quantitative financial analysis
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Term structure of interest rates
+- Terminal value calculation
+- Theta time decay
+- Varying annuities
+- Varying force of interest
+- Vega volatility sensitivity
+- WACC calculation
+- Weighted Average Cost of Capital
 cssclasses: academia
 ---
 

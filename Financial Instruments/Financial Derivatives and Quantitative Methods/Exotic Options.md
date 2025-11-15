@@ -1,24 +1,39 @@
 ---
 cssclasses:
-  - academia
+- academia
 title: Exotic Options
 tags:
-  - barrier_options
-  - digital_options
-  - exotic_options
-  - path_dependent
-  - range_forward
+- asian
+- barrier
+- barrier_options
+- call
+- digital
+- digital_options
+- exotic
+- exotic_options
+- forward
+- interest-rate
+- lookback
+- option
+- path_dependent
+- put
+- range_forward
 aliases:
-  - binary option
-  - break forward
-  - digital put
-  - exotic derivatives
+- binary option
+- break forward
+- digital put
+- exotic derivatives
 key_concepts:
-  - break forward contract
-  - digital/binary option
-  - exotic option payoffs
-  - path dependent options
-  - range forward contract
+- Derivative securities
+- Financial risk management
+- Portfolio optimization
+- Quantitative financial analysis
+- Risk assessment and mitigation
+- break forward contract
+- digital/binary option
+- exotic option payoffs
+- path dependent options
+- range forward contract
 ---
 
 # Exotic Options

@@ -1,61 +1,90 @@
 ---
 title: Credit Markets Homework 2
 tags:
-  - bond_market_data
-  - cashflow_schedules
-  - credit_markets
-  - fixed_rate_bonds
-  - quantlib
+- bond
+- bond_market_data
+- bps
+- cashflow_schedules
+- convexity
+- corporate-bond
+- credit-derivatives
+- credit-risk
+- credit_markets
+- currency
+- defi
+- duration
+- dv01
+- fixed_rate_bonds
+- future
+- interest-rate
+- quantlib
+- treasury
+- yield-curve
+- z-spread
 aliases:
-  - Credit Markets
-  - Fixed Rate Bonds
-  - Homework 2
+- Credit Markets
+- Fixed Rate Bonds
+- Homework 2
 key_concepts:
-  - Bond cash flows
-  - Cashflow schedules
-  - Fixed rate bonds
-  - QuantLib date object
-  - Symbology data
+- Bond cash flows
+- Cashflow schedules
+- Convexity adjustment
+- DV01 calculation
+- Derivative securities
+- Duration measurement
+- Financial risk management
+- Fixed rate bonds
+- Hedging with bonds
+- Interest rate sensitivity
+- Modified duration calculation
+- Portfolio immunization
+- Portfolio optimization
+- Price-yield relationship
+- QuantLib date object
+- Quantitative financial analysis
+- Risk assessment and mitigation
+- Symbology data
 ---
 
 # Credit Markets Homework 2
-
 This homework relies on:
 
 - The corporate and government bonds symbology file `bond_symbology`,
 - The "on-the-run" treasuries data file `govt_on_the_run`,
 - The bond market data file `bond_market_prices_eod`,  containing EOD price data as of 2024-04-08.
-
 # Problem 1: Constructing fixed rate bonds
+
 ```python
 Import QuantLib as ql
 Import pandas as pd
 Import datetime as dt
 
 # Use static calculation/valuation date of 2024-04-08,          matching data available in the market prices EOD file
+
 Calc_date = ql.Date (8,          4,          2024)
 Ql.Settings.Instance (). EvaluationDate = calc_date
 ```
 
 ## a. Prepare the symbology and market data files for fixed rate government and Corporate Bonds
-
 Load the `bond_symbology`,  `bond_market_prices_eod` and `govt_on_the_run` Excel files into dataframes.
 
 Filter the symbology frame for fixed rate bonds only (cpn_type="FIXED").
 ```python
 # Set as-of-date
+
 As_of_date = pd. To_datetime ('2024-04-08')
 
 # Load bond_symbology. Xlsx
-
 Bond_symbology  = bond_symbology[bond_symbology['cpn_type'] == 'FIXED']
 
 # Add term and TTM columns
+
 Bond_symbology['term'] = (bond_symbology['maturity'] - bond_symbology['start_date']). Dt. Days / 365.25
 Bond_symbology['TTM'] = (bond_symbology['maturity'] - as_of_date). Dt. Days / 365.25
 Display (bond_symbology.Head ())
 # Load bond_market_prices_eod
 # Add mid prices and yields
+
 Bond_market_prices_eod['midPrice'] = 0.5*(bond_market_prices_eod['bidPrice'] + bond_market_prices_eod['askPrice'])
 Bond_market_prices_eod['midYield'] = 0.5*(bond_market_prices_eod['bidYield'] + bond_market_prices_eod['askYield'])
 Display (bond_market_prices_eod.Head ())
@@ -64,6 +93,7 @@ Bond_symbology
 
 # Load govt_on_the_run,          as of 2024-04-08
 # Keep OTR treasuries only
+
 Govt_on_the_run_simple = govt_on_the_run[~govt_on_the_run['ticker']. Str.Contains ('B | C')]
 Display (govt_on_the_run_simple.Head ())
 
@@ -413,7 +443,6 @@ Display (govt_on_the_run_simple.Head ())
 </div>
 
 ## b. Add function to construct generic fixed rate cashflow schedules from symbology data
-
 Use one row of the symbology dataframe as input to the function. Use the helper function to convert a date string to a QuantLib date object.
 ```python
 Def get_ql_date (date) -> ql. Date:
@@ -432,52 +461,55 @@ Def get_ql_date (date) -> ql. Date:
 Def create_schedule_from_symbology (details: dict):
     '''Create a QuantLib cashflow schedule from symbology details dictionary (usually one row of the symbology dataframe)
     '''
-    
+
     # Create maturity from details['maturity']
     Maturity = get_ql_date (details['maturity'])
-    
+
     # Create acc_first from details['acc_first']
     Acc_first =  get_ql_date (details['acc_first'])
-    
+
     # Create calendar for Corp and Govt asset classes
     Calendar = ql.UnitedStates (ql. UnitedStates. GovernmentBond)
-    
+
     # define period from details['cpn_freq'] … Can be hard-coded to 2 = semi-annual frequency
     Period = ql.Period (2)
-    
+
     # business_day_convention
     Business_day_convention = ql. Unadjusted
-    
+
     # termination_date_convention
     Termination_date_convention = ql. Unadjusted
-    
+
     # date_generation
     Date_generation=ql. DateGeneration. Backward
-    
+
     # Create schedule using ql. MakeSchedule interface (with keyword arguments)
     Schedule = ql.MakeSchedule (effectiveDate=acc_first,           # this may not be the same as the bond's start date
-                            TerminationDate=maturity,         
-                            Tenor=period,         
-                            Calendar=calendar,         
-                            Convention=business_day_convention,         
-                            TerminalDateConvention=termination_date_convention,         
-                            Rule=date_generation,         
-                            EndOfMonth=True,         
-                            FirstDate=ql.Date (),         
+                            TerminationDate=maturity,
+                            Tenor=period,
+                            Calendar=calendar,
+                            Convention=business_day_convention,
+                            TerminalDateConvention=termination_date_convention,
+                            Rule=date_generation,
+                            EndOfMonth=True,
+                            FirstDate=ql.Date (),
                             NextToLastDate=ql.Date ())
     Return schedule
 ```
 ```python
 # Use one row of the symbology dataframe as input to the create_schedule_from_symbology () function.
+
 Corp_bond_details = bond_symbology[bond_symbology['class'] == 'Corp']. Iloc[10]
 Print ("Corp bond details for",          corp_bond_details['security'])
 Display (corp_bond_details)
 
 # Create cashflow_schedule
+
 Cashflow_schedule = create_schedule_from_symbology (corp_bond_details)
 Print ("Cashflow dates for",          corp_bond_details['security'])
 
 # List cashflow dates
+
 For date in cashflow_schedule:
         Print (date)
 ```
@@ -533,17 +565,16 @@ For date in cashflow_schedule:
     February 9 th,          2027
 
 ## c. Add function to construct generic fixed rate bond objects from symbology data
-
 Use one row of the symbology dataframe as input to the function. Use create_schedule_from_symbology () internally to create the cashflow schedule.
 ```python
 Def create_bond_from_symbology (details: dict):
     '''Create a US fixed rate bond object from symbology details dictionary (usually one row of the symbology dataframe)
     '''
-    
+
      # Create day_count from details['dcc']
      # For US Treasuries use ql.ActualActual (ql. ActualActual. ISMA)
      # For US Corporate Bonds use ql. Thirty 360 (ql. Thirty 360. USA)
-    
+
     If details['class'] == 'Corp':
         Day_count = ql. Thirty 360 (ql. Thirty 360. USA)
     Elif details['class'] == 'Govt':
@@ -552,7 +583,7 @@ Def create_bond_from_symbology (details: dict):
         Raise ValueError (f"unsupported asset class,          {type (details['class'])},          {details['class']}")
     # Create issue_date from details['start_date']
     Issue_date = get_ql_date (details['start_date'])
-    
+
     # Create days_settle from details['days_settle']
     Days_settle = int (float (details['days_settle']))
 
@@ -560,28 +591,29 @@ Def create_bond_from_symbology (details: dict):
     Coupon = float (details['coupon'])/100.
     # Create cashflow schedule
     Schedule = create_schedule_from_symbology (details)
-    
+
     Face_value = 100
     Redemption = 100
-    
+
     Payment_convention = ql. Unadjusted
-        
+
     # Create fixed rate bond object
     Fixed_rate_bond = ql.FixedRateBond (
-        Days_settle,         
-        Face_value,         
-        Schedule,         
-        [coupon],         
-        Day_count,         
-        Payment_convention,         
-        Redemption,         
-        Issue_date)        
+        Days_settle,
+        Face_value,
+        Schedule,
+        [coupon],
+        Day_count,
+        Payment_convention,
+        Redemption,
+        Issue_date)
 
     Return fixed_rate_bond
 
 ```
 ```python
 # Use one row of the symbology dataframe as input to the function.
+
 Corp_bond_object = create_bond_from_symbology (corp_bond_details)
 
 Print ("Corp bond object details for",          corp_bond_details['security'])
@@ -597,21 +629,20 @@ Print ('Bond face notional: ',          corp_bond_object.Notional ())
     Bond face notional: 100.0
 
 ## d. Add function that returns a dataframe with (future) cash flows details for a bond object
-
 Use the "Investigate Bond Cashflows" section in the Quantlib Basic notebook as a template.
 
 The results dataframe should contain following columns:
 
- | CashFlowDate | CashFlowAmount | CashFlowYearFrac | 
- | ---------- | ------- | ------------- | 
+ | CashFlowDate | CashFlowAmount | CashFlowYearFrac |
+ | ---------- | ------- | ------------- |
 
 Pick one government and one corporate bond from symbology,  create the bond objects and display the future cashflows.
 ```python
 Def get_bond_cashflows (bond: ql. FixedRateBond,          calc_date=ql. Date) -> pd. DataFrame:
     '''Returns all future cashflows as of calc_date,          i.e. with payment dates > calc_date.
-    '''    
-    Day_counter = bond.DayCounter ()    
-    
+    '''
+    Day_counter = bond.DayCounter ()
+
     X = [(cf.Date (),          day_counter.YearFraction (calc_date,          cf.Date ()),          cf.Amount ()) for cf in bond.Cashflows ()]
     Cf_date,          cf_yearFrac,          cf_amount = zip (*x)
     Cashflows_df = pd.DataFrame (data={'CashFlowDate': cf_date,          'CashFlowYearFrac': cf_yearFrac,          'CashFlowAmount': cf_amount})
@@ -623,11 +654,13 @@ Def get_bond_cashflows (bond: ql. FixedRateBond,          calc_date=ql. Date) ->
 ```
 ```python
 # Pick one government and one corporate bond from symbology,          create the bond objects.
+
 Govt_bond_details = bond_symbology[bond_symbology['class'] == 'Govt']. Iloc[10]
 Print ("Govt bond details for",          govt_bond_details['security'])
 Display (govt_bond_details)
 
 # Create govt_bond_object
+
 Govt_bond_object = create_bond_from_symbology (govt_bond_details)
 ```
 
@@ -660,11 +693,13 @@ Govt_bond_object = create_bond_from_symbology (govt_bond_details)
     Name: 348,          dtype: object
 ```python
 # Govt bond: display the future cashflows.
+
 Print ("Govt bond future cashflows for",          govt_bond_details['security'])
 Govt_bond_cf = get_bond_cashflows (govt_bond_object,          calc_date=calc_date)
 Display (govt_bond_cf)
 
 # Corp bond: display the future cashflows.
+
 Print ("Corp bond future cashflows for",          corp_bond_details['security'])
 Corp_bond_cf = get_bond_cashflows (corp_bond_object,          calc_date=calc_date)
 Display (corp_bond_cf)
@@ -791,26 +826,27 @@ Display (corp_bond_cf)
 </div>
 
 # Problem 2: US Treasury yield curve calibration (On-The-Runs)
-
 ## a. Create the on-the-run US treasury bond objects
-
 Restrict the symbology + market data dataframe to "on-the-run"/OTR US treasury notes/bonds only and create the treasury bond objects.
 
 Extend the treasuries symbology dataframe with the following market data columns (code from Homework 1):
 
- | date | bidPrice | askPrice | midPrice | bidYield | askYield | midYield | term | TTM | 
- | ---------- | ------- | ------------- | ----- | ---------- | --------- | --------- | --------- | --------- | 
+ | date | bidPrice | askPrice | midPrice | bidYield | askYield | midYield | term | TTM |
+ | ---------- | ------- | ------------- | ----- | ---------- | --------- | --------- | --------- | --------- |
 
 Plot a graph/scatter plot of on-the-run treasury mid yields by TTM.
 ```python
 # Create symbology for on-the-run treasuries only
+
 Govt_symbology_otr = bond_symbology[bond_symbology['isin']. Isin (govt_on_the_run_simple['isin'])]. Copy ()
 Govt_symbology_otr = govt_symbology_otr. Sort_values (by='TTM')
 
 # Merge market data as of 2024-04-01 into treasury OTR symbology
+
 Govt_combined_otr = govt_symbology_otr.Merge (bond_market_prices_eod,           on=['class',         'ticker',         'figi',         'isin'])
 
 # Plot a graph/scatter plot of treasury OTR mid yields by TTM
+
 Govt_combined_otr.Plot (x='TTM',          y='midYield',          grid=True,          style='*-',          title='OTR US Treasury yields by TTM',          figsize=(12,         4))
 ```
 
@@ -818,7 +854,6 @@ Govt_combined_otr.Plot (x='TTM',          y='midYield',          grid=True,     
 !png
 
 ## b. Calibrate the on-the-run treasury yield curve (bootstrapping)
-
 The function below shows how to calibrate a smooth yield/discount factor curve from the on-the-run treasury dataframe.
 
 Calibrate the bid,  ask and mid discount factor curves as of 2024-04-08.
@@ -826,37 +861,37 @@ Calibrate the bid,  ask and mid discount factor curves as of 2024-04-08.
 Display the calibration results for the mid curve,  using get_yield_curve_details_df ().
 ```python
 Def calibrate_yield_curve_from_frame (
-        Calc_date: ql. Date,         
-        Treasury_details: pd. DataFrame,         
+        Calc_date: ql. Date,
+        Treasury_details: pd. DataFrame,
         Price_quote_column: str):
     '''Create a calibrated yield curve from a details dataframe which includes bid/ask/mid price quotes.
     '''
     Ql.Settings.Instance (). EvaluationDate = calc_date
 
     # Sort dataframe by maturity
-    Sorted_details_frame = treasury_details. Sort_values (by='maturity')    
-    
+    Sorted_details_frame = treasury_details. Sort_values (by='maturity')
+
     # For US Treasuries use ql.ActualActual (ql. ActualActual. ISMA)
     Day_count = ql.ActualActual (ql. ActualActual. ISMA)
 
     Bond_helpers = []
-    
+
     For index,          row in sorted_details_frame.Iterrows ():
         Bond_object = create_bond_from_symbology (row)
-        
+
         Tsy_clean_price_quote = row[price_quote_column]
         Tsy_clean_price_handle = ql.QuoteHandle (ql.SimpleQuote (tsy_clean_price_quote))
-        
+
         Bond_helper = ql.BondHelper (tsy_clean_price_handle,          bond_object)
         Bond_helpers.Append (bond_helper)
-        
+
     Yield_curve = ql.PiecewiseLogCubicDiscount (calc_date,          bond_helpers,          day_count)
     # yield_curve = ql.PiecewiseFlatForward (calc_date,          bond_helpers,          day_count)
-    
+
     Yield_curve.EnableExtrapolation ()
     Return yield_curve
 Def get_yield_curve_details_df (yield_curve,          curve_dates=None):
-    
+
     If (curve_dates == None):
         Curve_dates = yield_curve.Dates ()
 
@@ -865,19 +900,21 @@ Def get_yield_curve_details_df (yield_curve,          curve_dates=None):
     Yearfracs = [round (yield_curve.TimeFromReference (d),          3) for d in curve_dates]
     ZeroRates = [round (yield_curve.ZeroRate (d,          yield_curve.DayCounter (),          ql. Compounded). Rate () * 100,          3) for d in curve_dates]
 
-    Yield_curve_details_df = pd.DataFrame (data={'Date': dates,         
-                             'YearFrac': yearfracs,         
-                             'DiscountFactor': discounts,         
-                             'ZeroRate': zeroRates})                             
+    Yield_curve_details_df = pd.DataFrame (data={'Date': dates,
+                             'YearFrac': yearfracs,
+                             'DiscountFactor': discounts,
+                             'ZeroRate': zeroRates})
     Return yield_curve_details_df
 ```
 ```python
 # Calibrate the bid,          ask and mid discount factor curves as of 2024-04-08.
+
 Tsy_yield_curve_bid = calibrate_yield_curve_from_frame (calc_date,          govt_combined_otr,          'bidPrice')
 Tsy_yield_curve_mid = calibrate_yield_curve_from_frame (calc_date,          govt_combined_otr,          'midPrice')
 Tsy_yield_curve_ask = calibrate_yield_curve_from_frame (calc_date,          govt_combined_otr,          'askPrice')
 
 # Display the calibration results for the mid curve
+
 Tsy_yield_curve_df = get_yield_curve_details_df (tsy_yield_curve_mid)
 Display (tsy_yield_curve_df)
 
@@ -1212,7 +1249,6 @@ Display (tsy_yield_curve_monthly_df)
 </div>
 
 ## c. Plot the calibrated US Treasury yield (zero rate) curves
-
 Create a graph/scatter plot of the newly computed mid yields by maturity.
 ```python
 Plt = tsy_yield_curve_df.Plot (x='Date',          y=['ZeroRate'],          style='*-',          grid=True,          title=f'US Treasury OTR yield curve as of {as_of_date.Date ()}',          figsize=(12,         4))
@@ -1231,7 +1267,6 @@ Plt. Set_xlabel ('Date')
 !png
 
 ## d. Plot calibrated discount factors
-
 Plot the discount factor curve up to the 30 years point,  using a 6 months discretization grid.
 ```python
 Plt = tsy_yield_curve_df.Plot (x='Date',          y=['DiscountFactor'],          style='*-',          grid=True,          title=f'US Treasury OTR discount factor curve as of {as_of_date.Date ()}',          figsize=(12,         4))
@@ -1249,9 +1284,7 @@ Plt. Set_xlabel ('Date')
 !png
 
 # Problem 3: Pricing and risk metrics for US Treasury bonds
-
 ## a. US Treasury pricing on the calibrated discount factor curve
-
 Follow Section 5. "Bond Present Value Calculation (no credit risk)" in the QuantLib Basic notebook to re-price the US on-the-run treasuries using the calibrated discount factor curve.
 
 You will need to switch the bond_engine to use the new on-the-run treasury yield curve:
@@ -1259,26 +1292,29 @@ Bond_engine = ql.DiscountingBondEngine (tsy_yield_curve_mid)
 
 Extend the dataframe with the following computed columns for clean mid prices:
 
- | calc_mid_price | 
- | --------------- | 
+ | calc_mid_price |
+ | --------------- |
 
 To validate the calibration,  compare the calculated clean mid prices to the original market mid prices.
 ```python
 # Create risk free bond_engine using calibrated US OTR yield curve
+
 Tsy_yield_curve_mid_handle = ql.YieldTermStructureHandle (tsy_yield_curve_mid)
 Bond_engine = ql.DiscountingBondEngine (tsy_yield_curve_mid_handle)
 
 # Calculate mid prices
+
 Calculated_mid_prices = []
 For index,          row in govt_combined_otr.Iterrows ():
     Bond_object = create_bond_from_symbology (row)
     Bond_object.SetPricingEngine (bond_engine)
     Calculated_mid_prices.Append (bond_object.CleanPrice ())
-    
+
 Govt_combined_otr['calc_mid_price'] = calculated_mid_prices
 Govt_combined_otr['calib_error'] = govt_combined_otr['midPrice'] - govt_combined_otr['calc_mid_price']
 
 # Compare the calculated clean mid prices to the original market mid prices.
+
 display (govt_combined_otr 'security',          'isin',          'figi',          'midPrice',          'calc_mid_price',          'calib_error')
 ```
 
@@ -1377,45 +1413,47 @@ display (govt_combined_otr 'security',          'isin',          'figi',        
 </div>
 
 ## b. Compute analytical DV 01,  Duration and Convexity for US on-the-run treasuries (using flat yield)
-
 Compute analytical DV 01,  Duration and Convexity metrics,  as described in Section 7. "Analytical Duration,  Convexity and Z-Spread (flat yield model)" in the QuantLib Basic notebook.
 
 Remember that DV 01 = Dirty_Price * Duration.
 
 Extend the dataframe with the following calculated risk metrics:
 
- | dv 01 | duration | convexity | 
- | ------- | ------- | ------------- | 
+ | dv 01 | duration | convexity |
+ | ------- | ------- | ------------- |
 ```python
 # Set yield conventions
+
 Compounding = ql. Compounded
 Coupon_freq = ql. Semiannual
 
 # Calculate dv 01 s,          durations and convexities
+
 Dv 01 s = []
 Calc_durations = []
 Calc_convexities = []
 
 For index,          row in govt_combined_otr.Iterrows ():
-    
+
     Bond_object = create_bond_from_symbology (row)
     Bond_object.SetPricingEngine (bond_engine)
-    
+
     Settle_date = bond_object.SettlementDate (calc_date)
-    Day_counter = bond_object.DayCounter ()    
-    
+    Day_counter = bond_object.DayCounter ()
+
     Bond_yield = bond_object.BondYield (row['calc_mid_price'],          day_counter,          compounding,          coupon_freq,          settle_date) * 100
-    
+
     Flat_int_rate = ql.InterestRate (bond_yield / 100,          day_counter,          compounding,          coupon_freq)
     Bond_duration = ql.BondFunctions.Duration (bond_object,          flat_int_rate)
     Bond_convexity = ql.BondFunctions.Convexity (bond_object,          flat_int_rate)
     Bond_dv 01 = bond_object.DirtyPrice () * bond_duration / 100
-    
+
     Dv 01 s.Append (bond_dv 01)
     Calc_durations.Append (bond_duration)
     Calc_convexities.Append (bond_convexity)
 
-# Add new risk columns and display results    
+# Add new risk columns and display results
+
 Govt_combined_otr['dv 01'] = dv 01 s
 Govt_combined_otr['duration'] = calc_durations
 Govt_combined_otr['convexity'] = calc_convexities
@@ -1527,17 +1565,17 @@ display (govt_combined_otr 'security',          'isin',          'figi',        
 </div>
 
 ## c. Compute scenario DV 01,  Duration and Convexity for US on-the-run treasuries (using calibrated yield curve)
-
 Compute the scenario DV 01,  Duration and Convexity metrics using +/-1 bp interest rate shocks,  as described in Section 6. "Market Data Scenarios" in the QuantLib Basic notebook.
 
 Remember that DV 01 = Dirty_Price * Duration.
 
 Extend the dataframe with the following scenario sensitivities metrics:
 
- | scen_dv 01 | scen_duration | scen_convexity | 
- | ------- | ------- | ------------- | 
+ | scen_dv 01 | scen_duration | scen_convexity |
+ | ------- | ------- | ------------- |
 ```python
 # Calculate scenario dv 01 s,          durations and convexities
+
 Scen_dv 01 s = []
 Scen_durations = []
 Scen_convexities = []
@@ -1545,32 +1583,33 @@ Scen_convexities = []
 For index,          row in govt_combined_otr.Iterrows ():
     Bond_object = create_bond_from_symbology (row)
     Bond_object.SetPricingEngine (bond_engine)
-    
+
     # create interest rate scenarios
     Interest_rate_bump = ql.SimpleQuote (0.0)
     Calibrated_yield_curve_bumped = ql.ZeroSpreadedTermStructure (tsy_yield_curve_mid_handle,          ql.QuoteHandle (interest_rate_bump))
     Bond_engine_bumped = ql.DiscountingBondEngine (ql.YieldTermStructureHandle (calibrated_yield_curve_bumped))
     Bond_object.SetPricingEngine (bond_engine_bumped)
     Dirty_price_base = bond_object.DirtyPrice ()
-    
+
     # Create +1 bp scenario
     Interest_rate_bump.SetValue (0.0001)
-    Dirty_price_plus = bond_object.DirtyPrice ()    
-    
+    Dirty_price_plus = bond_object.DirtyPrice ()
+
     # Create -1 bp scenario
     Interest_rate_bump.SetValue (-0.0001)
     Dirty_price_minus = bond_object.DirtyPrice ()
-    
-    # Calc scenario risks        
+
+    # Calc scenario risks
     Scen_dv 01 = (dirty_price_minus - dirty_price_base)*100
     Scen_duration = scen_dv 01  / dirty_price_base * 100
     Scen_convexity = (dirty_price_plus + dirty_price_minus - 2 * dirty_price_base) / (dirty_price_base * 0.0001**2)
-    
+
     Scen_dv 01 s.Append (scen_dv 01)
     Scen_durations.Append (scen_duration)
     Scen_convexities.Append (scen_convexity)
 
 # Add new scenario risk columns and display results
+
 Govt_combined_otr['scen_dv 01'] = scen_dv 01 s
 Govt_combined_otr['scen_duration'] = scen_durations
 Govt_combined_otr['scen_convexity'] = scen_convexities
@@ -1674,12 +1713,11 @@ display (govt_combined_otr 'security',          'isin',          'figi',        
 </div>
 
 # Problem 4: Pricing and risk metrics for Corporate Bonds
-
 ## a. Create the fixed-rate corporate bond objects
-
 Restrict the symbology dataframe to fixed rate Corporate Bonds only and create the corporate bond objects.
 ```python
 # Create the fixed-rate corporate bond symbology + combined dataframes
+
 Corp_symbology = bond_symbology[bond_symbology['cpn_type'] == 'FIXED']
 Corp_combined = corp_symbology.Merge (bond_market_prices_eod,           on=['class',         'ticker',         'figi',         'isin'])
 
@@ -1854,14 +1892,16 @@ Display (corp_combined.Head ())
 </div>
 ```python
 # Create the corporate bond objects and store them in a dictionary
+
 Corp_bond_object_dict = {}
 
 For index,          row in corp_combined.Iterrows ():
     Bond_details = row. To_dict ()
     Corp_bond_object = create_bond_from_symbology (bond_details)
     Corp_bond_object_dict[row['security']] = corp_bond_object
-    
+
 # Display the future cashflows for one corp bond object in the dictionary
+
 Corp_bond_key = corp_combined. Iloc[10]['security']
 Corp_bond_cf = get_bond_cashflows (corp_bond_object_dict[corp_bond_key],          calc_date=calc_date)
 
@@ -1942,47 +1982,50 @@ Display (corp_bond_cf)
 </div>
 
 ## b. Compute analytical Yields and Z-Spreads
-
 Compute analytical Yields and Z-Spreads metrics,  as described in Section 7. "Analytical Duration,  Convexity and Z-Spread (flat yield model)" in the QuantLib Basic notebook.
 
 Extend the dataframe with the following calculated risk metrics:
 
- | calc_yield | calc_zspread | 
- | ------- | ------------- | 
+ | calc_yield | calc_zspread |
+ | ------- | ------------- |
 ```python
 # Create risk free bond engine
+
 Bond_engine = ql.DiscountingBondEngine (tsy_yield_curve_mid_handle)
 
 # Set yield conventions
+
 Compounding = ql. Compounded
 Coupon_freq = ql. Semiannual
 
 # Calculate yields and zspreads
+
 Calc_yields = []
 Calc_zspreads = []
 
 For index,          row in corp_combined.Iterrows ():
-        
-    Bond_object = create_bond_from_symbology (row)    
+
+    Bond_object = create_bond_from_symbology (row)
     Bond_object.SetPricingEngine (bond_engine)
-    
+
     Settle_date = bond_object.SettlementDate (calc_date)
     Day_counter = bond_object.DayCounter ()
 
     Clean_price = bond_object.CleanPrice ()
-    
+
     # yield in pct
     Calc_yield = bond_object.BondYield (clean_price,          day_counter,          compounding,          coupon_freq,          settle_date) * 1 e 2
     Flat_int_rate = ql.InterestRate (calc_yield / 100,          day_counter,          compounding,          coupon_freq)
     Bond_market_price = row['midPrice']
-    
+
     # zspread in bps
     Calc_zspread = ql.BondFunctions.ZSpread (bond_object,          bond_market_price,          tsy_yield_curve_mid,          day_counter,          compounding,          coupon_freq,          settle_date) * 1 e 4
-    
+
     Calc_yields.Append (calc_yield)
     Calc_zspreads.Append (calc_zspread)
 
 # Add new columns and display results
+
 Corp_combined['calc_yield'] = calc_yields
 Corp_combined['calc_zspread'] = calc_zspreads
 
@@ -2122,8 +2165,7 @@ display (corp_combined 'security',          'isin',          'figi',          'm
 </div>
 
 ## c. Validate Z-Spread computation for a few fixed rate Corporate Bonds
-
-Pick 3 Corporate Bonds (at your discretion) and use function below to re-price them using the calibrated flat z-spread. Follow the example in Section 7. "Analytical Duration,  Convexity and Z-Spread (flat yield model)".
+Pick 3 Corporate Bonds ($\$a_t$$ your discretion) and use function below to re-price them using the calibrated flat z-spread. Follow the example in Section 7. "Analytical Duration,  Convexity and Z-Spread (flat yield model)".
 
 Validate that you match the original market prices,  which were used as input to the z-Spread function.
 ```python
@@ -2132,7 +2174,7 @@ Def calc_clean_price_with_zspread (fixed_rate_bond,          yield_curve_handle,
     Zspread_quote_handle = ql.QuoteHandle (zspread_quote)
     Yield_curve_bumped = ql.ZeroSpreadedTermStructure (yield_curve_handle,          zspread_quote_handle,          ql. Compounded,          ql. Semiannual)
     Yield_curve_bumped_handle = ql.YieldTermStructureHandle (yield_curve_bumped)
-    
+
     # Set Valuation engine
     Bond_engine = ql.DiscountingBondEngine (yield_curve_bumped_handle)
     Fixed_rate_bond.SetPricingEngine (bond_engine)
@@ -2142,27 +2184,32 @@ Def calc_clean_price_with_zspread (fixed_rate_bond,          yield_curve_handle,
 ```
 ```python
 # Create risk free bond engine
+
 Bond_engine = ql.DiscountingBondEngine (tsy_yield_curve_mid_handle)
 
 # Set yield conventions
+
 Compounding = ql. Compounded
 Coupon_freq = ql. Semiannual
 
 # Pick 3 Corporate Bonds (at your discretion)
+
 Corp_combined_small = corp_combined[: 3]. Copy ()
 
 # Calculate prices with zspreads
+
 Bond_zspread_prices = []
 
 For index,          row in corp_combined_small.Iterrows ():
-    
-    Bond_object = create_bond_from_symbology (row)    
+
+    Bond_object = create_bond_from_symbology (row)
     Bond_object.SetPricingEngine (bond_engine)
-        
+
     Bond_zspread_price = calc_clean_price_with_zspread (bond_object,          tsy_yield_curve_mid_handle,          row['calc_zspread']/1 e 4)
     Bond_zspread_prices.Append (bond_zspread_price)
-    
+
 # Validate that you match the original market prices,          which were used as input to the z-Spread function.
+
 Corp_combined_small['bond_zspread_price'] = bond_zspread_prices
 Corp_combined_small['price_difference'] = corp_combined_small['midPrice'] - corp_combined_small['bond_zspread_price']
 
@@ -2232,45 +2279,48 @@ display (corp_combined_small 'security',          'isin',          'figi',      
 </div>
 
 ## d. Compute Duration and Convexity for fixed rate Corporate Bonds (using flat yield)
-
 Compute analytical Duration and Convexity metrics,  as described in Section 7. "Analytical Duration,  Convexity and Z-Spread (flat yield model)" in the QuantLib Basic notebook.
 
 Extend the dataframe with the following calculated risk metrics:
 
- | calc_duration | calc_convexity | 
- | ------- | ------------- | 
+ | calc_duration | calc_convexity |
+ | ------- | ------------- |
 
 Display the head of the dataframe.
 ```python
 # Create risk free bond engine
+
 Bond_engine = ql.DiscountingBondEngine (tsy_yield_curve_mid_handle)
 
 # Set yield conventions
+
 Compounding = ql. Compounded
 Coupon_freq = ql. Semiannual
 
 # Calculate durations and convexities
+
 Calc_durations = []
 Calc_convexities = []
 
 For index,          row in corp_combined.Iterrows ():
-    
+
     Bond_object = create_bond_from_symbology (row)
     Bond_object.SetPricingEngine (bond_engine)
-    
+
     Settle_date = bond_object.SettlementDate (calc_date)
-    Day_counter = bond_object.DayCounter ()    
-    
+    Day_counter = bond_object.DayCounter ()
+
     Bond_yield = bond_object.BondYield (row['midPrice'],          day_counter,          compounding,          coupon_freq,          settle_date) * 100
-    
+
     Flat_int_rate = ql.InterestRate (bond_yield / 100,          day_counter,          compounding,          coupon_freq)
     Bond_duration = ql.BondFunctions.Duration (bond_object,          flat_int_rate)
-    Bond_convexity = ql.BondFunctions.Convexity (bond_object,          flat_int_rate)        
-    
+    Bond_convexity = ql.BondFunctions.Convexity (bond_object,          flat_int_rate)
+
     Calc_durations.Append (bond_duration)
     Calc_convexities.Append (bond_convexity)
 
 # Add new risk columns and display results
+
 Corp_combined['calc_duration'] = calc_durations
 Corp_combined['calc_convexity'] = calc_convexities
 
@@ -2355,6 +2405,7 @@ display (corp_combined 'security',          'isin',          'figi',          'm
 </div>
 ```python
 # Visualize duration and convexity for one ticker (for better understanding of risks) [Not part of homework]
+
 Corp_combined_aapl = corp_combined[corp_combined['ticker'] == 'AAPL']
 
 Plt = corp_combined_aapl.Plot (x='maturity',          y=['calc_duration'],          style='*-',          grid=True,          title=f'Duration for AAPL bonds as of {as_of_date.Date ()}',          figsize=(12,         4))

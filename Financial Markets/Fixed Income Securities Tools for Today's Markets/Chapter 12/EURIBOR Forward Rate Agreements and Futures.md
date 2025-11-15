@@ -1,22 +1,110 @@
 ---
-tags:
-  - euribor
-  - euribor_futures
-  - forward_rate_agreement
-  - fra
-  - interest_rate_risk
 aliases:
-  - Euribor
-  - Euribor Futures
-  - FRA
-  - Forward Rate Agreements
+- Euribor
+- Euribor Futures
+- FRA
+- Forward Rate Agreements
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- EURIBOR Forward Rate Agreements and Futures and financial analysis
+- EURIBOR Forward Rate Agreements and Futures in modern finance
+- Applications of EURIBOR Forward Rate Agreements and Futures
+- 'Case study: EURIBOR Forward Rate Agreements and Futures'
+last_enhanced: '2025-11-06 08:42:35'
+- options
+- forward
+- hedging
+- call
+- sofr
+- interest-rate
+- risk-management
+- risk
+- futures
+- spread
+- interest-rates
+- libor
+- liquidity
+- basis
+tags:
+- arbitrage
+- banking
+- basis
+- bid-ask
+- bond
+- case-study
+- counterparty
+- crisis-analysis
+- derivative-pricing
+- derivatives
+- empirical-analysis
+- european
+- fixed-income
+- graduate-level
+- hedging
+- income-statement
+- institutional-quality
+- learning-from-crisis
+- liquidity
+- margin-call
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- sec-regulation
+- securitization
+- spread
+- stress-test
+- var
+
 key_concepts:
-  - Euribor futures contracts
-  - Euribor term rates
-  - FRA fixed rate
-  - 'FRAs: interest rate hedging'
-  - Hedging with FRAs
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # 12.5 EURIBOR FORWARD RATE AGREEMENTS AND FUTURES  
 

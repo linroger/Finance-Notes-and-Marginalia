@@ -1,20 +1,81 @@
 ---
-tags:
-  - call_option
-  - currency_options
-  - fx_market
-  - fx_rates
-  - put_option
 aliases:
-  - Currency Derivatives
-  - FX Options
+- Currency Derivatives
+- FX Options
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Currency Options and financial analysis
+- Currency Options in modern finance
+- Applications of Currency Options
+- 'Case study: Currency Options'
+last_enhanced: '2025-11-06 08:42:33'
+- forward
+- pricing
+- futures
+- options
+- put
+- strike
+- call
+- expiry
+tags:
+- arbitrage
+- basis
+- case-study
+- crisis-analysis
+- currency
+- derivative-pricing
+- derivatives
+- empirical-analysis
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- mathematical-finance
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+
 key_concepts:
-  - Call option on dollar
-  - Currency option mechanics
-  - Dual nature of FX rates
-  - Put option on yen
-  - Strike price inversion
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 5.5 CURRENCY OPTIONS  
 

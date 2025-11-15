@@ -1,25 +1,85 @@
 ---
-title: "Week 8 - Opportunities And Risks Of Investing Internationally"
-linter-yaml-title-alias: "Week 8 - Opportunities And Risks Of Investing Internationally"
-aliases: [International Investing, Investing Abroad, Global Investment Opportunities]
+title: Week 8 - Opportunities And Risks Of Investing Internationally
+linter-yaml-title-alias: Week 8 - Opportunities And Risks Of Investing Internationally
+aliases:
+- International Investing
+- Investing Abroad
+- Global Investment Opportunities
 date created: Tuesday, November 26th 2024, 8:55:15 pm
 cssclasses: academia
-tags: [currency_risks, diversification_benefits, emerging_markets, fdi_and_ma, international_investments, portfolio_theory, cross_border_mergers, market_integration, home_bias, country_risk, institutional_quality]
-key_concepts: [currency risks and volatility, diversification benefits, emerging market companies, global ma trends, importance of international investments, opportunities of investing abroad, cross border ma, financial integration, portfolio diversification, home bias explanation, international risk measurement, country credit ratings, sovereign spreads, capm adjustments]
+tags:
+- asset-allocation
+- barrier
+- beta
+- cap
+- capm
+- cost-of-capital
+- cost-of-equity
+- country_risk
+- credit-risk
+- cross_border_mergers
+- currency
+- currency_risks
+- diversification_benefits
+- emerging_markets
+- equity
+- exchange-rate
+- fdi_and_ma
+- financial-crisis
+- home_bias
+- institutional_quality
+- international_investments
+- liquidity
+- market_integration
+- merger
+- portfolio-optimization
+- portfolio_theory
+- put
+- risk-management
+- sharpe
+- stock
+- transaction-cost
+- treasury
+key_concepts:
+- Beta calculation
+- Capital Asset Pricing Model
+- Cost of equity estimation
+- Derivative securities
+- Financial risk management
+- Market efficiency implications
+- Market portfolio
+- Portfolio optimization
+- Quantitative financial analysis
+- Risk assessment and mitigation
+- Risk-return tradeoff
+- Security Market Line
+- Systematic vs idiosyncratic risk
+- capm adjustments
+- country credit ratings
+- cross border ma
+- currency risks and volatility
+- diversification benefits
+- emerging market companies
+- financial integration
+- global ma trends
+- home bias explanation
+- importance of international investments
+- international risk measurement
+- opportunities of investing abroad
+- portfolio diversification
+- sovereign spreads
 instructor: Thomas Rauter
 ---
 
 # Week 8 - Opportunities And Risks Of Investing Internationally
-
 ## File Information
+
 - **Course**: Advanced Financial Analysis and Valuation
 - **Week**: 8
 - **Topic**: International Investment Opportunities and Risks
 - **Instructor**: Thomas Rauter
 - **Type**: Pre-recording
-
 ## Overview
-
 - Importance of international investments
   - Introduction to globalization of markets
 - Opportunities of investing abroad: FDI and M&A
@@ -31,11 +91,8 @@ instructor: Thomas Rauter
   - International risks and the cost of capital
 - What do practitioners do?
   - Sovereign spread model
-
 # Opportunities of Investing Abroad: FDI and M&A
-
 ## Importance of International Investments
-
 - Globalization of markets
   - Financial integration through liberalization of capital markets
   - Economic integration through increased trade
@@ -43,15 +100,12 @@ instructor: Thomas Rauter
   - Firms become more international in their operations
   - Best opportunities have often been abroad
   - Increasingly, emerging market companies are engaging in cross-border M&A too
-
 !Cross-border M&A trends
 
 ## Cross-Border M&A Accounts for 25-30%
-
 !Cross-border M&A percentage
 
 ## Emerging Market Companies
-
 - At the start of the 90s, companies from U.S., Western Europe and Japan represented the bulk of the global economy
 - This has fundamentally changed over the past 25 years
   - Emerging market companies are among the largest globally
@@ -64,11 +118,8 @@ instructor: Thomas Rauter
   - Information quality, corporate governance, ownership concentration
 - Basic ingredients for valuing emerging market companies are the same
   - But many practical issues
-
 # Opportunities of Investing Abroad
-
 ## Why Invest Abroad?
-
 - Commonly cited benefits from investing abroad (as a portfolio investor)
   - Higher returns than in the U.S.
   - Diversification benefits
@@ -78,29 +129,23 @@ instructor: Thomas Rauter
 - Domestic strategy can have significant asset-selection risks as well as industry and style tilts (relative to global benchmark), especially true for
   - Domestic large cap strategy
   - In countries with small domestic equity markets
-
 ## Diversification Illustrated Starting from UK Benchmark
-
 !UK benchmark diversification
 
 *Global Equity Model (GEM2L)*
 
 ## Emerging Market vs. Developed Market Returns
-
 !EM vs DM returns comparison
 
 - Emerging markets have historically outperformed developed markets
   - But they also are riskier - see volatility in chart above
 - U.S. has offered a higher return for a given level of risk and hence was more attractive standalone investment than most foreign markets
   - This does not imply that foreign markets are not attractive in combination with U.S. stocks
-
 ## Diversification Benefits
-
 - Benefits from foreign equity investments are well documented
   - Higher return and/or lower risk
 - Originally, investors started with domestic-international allocation
   - Focused on developed markets and larger cap stocks (e.g., MSCI EAFE index)
-
 Figure 2: Going Abroad Has Provided Diversification
 
 !Diversification benefits chart
@@ -108,7 +153,6 @@ Figure 2: Going Abroad Has Provided Diversification
 Even a small fraction of foreign investment in developed economies dominated a 100% US portfolio
 
 ## Diversification Benefits from Emerging Markets (EMs)
-
 - EMs often viewed as appealing due to lower correlations with the U.S. as compared to other developed markets (DMs)
   - Additional diversification benefits relative to DMs
 - In 70s and 80s, EM correlations with U.S. were very low
@@ -117,34 +161,26 @@ Even a small fraction of foreign investment in developed economies dominated a 1
   - True for both EMs and DMs
   - Effect of market liberalizations, financial integration, macroeconomic coordination, and globalization
 - What does this mean for diversification benefits?
-
 ## Changes in Correlations Over Time
-
 !Correlations over time
 
 ## Changes in Correlations Over Time (Continued)
-
 !Additional correlation data
 
 ## Is It Still Worth It (Given Increase in Correlations)?
-
 - Do we care about a low correlation per se?
   - We would not use a lottery for diversification (even though it is uncorrelated with our portfolio return)
 - Diversification benefits are not just determined by the correlations
   - They also depend on expected returns and volatility
 - It is possible that diversification benefits and the Sharpe ratio increase, despite the fact that correlations increase
   - Not only correlations, but also returns and risk in EMs have changed over time
-
 !Returns and correlations relationship
 
 ## Trend Towards Investments in International Small Caps
-
 - These investments are often motivated by lower correlations of small caps
-
 !International small caps correlations
 
 ## Trend Towards International Small Caps (Continued)
-
 - Conceptually, it makes sense that multinationals and large global players in EMs offer less diversification
   - But again, we also need to consider expected returns and volatility
 - While foreign small caps can be attractive from a diversification or growth perspective, they tend to have larger risks and pose challenges in terms of
@@ -152,9 +188,7 @@ Even a small fraction of foreign investment in developed economies dominated a 1
   - Corporate governance
   - Liquidity
 - These risks matter especially for M&A
-
 ## What About Crises?
-
 - Diversification benefits and optimal allocations change through time
   - See earlier graphs
 - During financial or corona crisis, there was no place to hide (in equities)
@@ -164,17 +198,13 @@ Even a small fraction of foreign investment in developed economies dominated a 1
   - Financial markets have never been more interconnected
   - This risk is better addressed with asset allocation (across classes of assets)
 - So not really an argument against diversification
-
 ## Correlations with U.S. Returns in the Financial Crisis
-
 !Crisis correlations
 
 - Similar results could be shown for other crises
 - Despite widespread negative returns, there are substantial differences in how EMs fare during crises
 - Crisis performance often depends on countries' legal and political institutions
-
 ## To What Extent Do We Invest Abroad?
-
 - In sum, case for investment in EMs as part of an equity portfolio remains strong
   - EMs offer substantial diversification benefits
   - EMs provide interesting investment opportunities
@@ -189,21 +219,17 @@ Even a small fraction of foreign investment in developed economies dominated a 1
   - Financial liberalizations in many countries
 - However, home bias has not declined much, given the decline in barriers
   - Barriers and transaction costs alone cannot explain home bias
-
 ## Home Bias in U.S. Investors' Portfolios
-
 !Home bias in US portfolios
 
 *Kho et al. / Journal of Accounting Research, Vol. 47 No. 2 May 2009*
 
 ## Home Bias in U.S. Investors' Portfolios (Continued)
-
 !Home bias continued
 
 HOME BIAS HAS NOT SUBSTANTIALLY CHANGED FROM 1994 TO 2004
 
 ## Non-Traditional Reasons for Home Bias
-
 - Behavioral and cultural biases (e.g., familiarity)
 - Concentrated ownership around the world
   - Home bias is much smaller once we adjust for availability of shares (free float)
@@ -213,11 +239,8 @@ HOME BIAS HAS NOT SUBSTANTIALLY CHANGED FROM 1994 TO 2004
 - Information and governance problems can explain a good deal of home bias
   - Information and governance explanations have different implications than behavioral or cultural biases
   - There can be good reasons why investors put less money in certain foreign markets
-
 # International Risks
-
 ## International Risks
-
 - International investments have a broad range of risks
   - "Classic" international risks: Currency and macroeconomic risks
 - But there are other issues to consider
@@ -230,81 +253,65 @@ HOME BIAS HAS NOT SUBSTANTIALLY CHANGED FROM 1994 TO 2004
   - Market liquidity and ability to trade is closely linked to transparency
   - Transaction costs (in particular price impact)
 - Lecture will cover a number of these risks
-
 # Measuring International Risks
-
 ## Measuring International and Country Risks
-
 - There are many useful sources
   - Economist Intelligence Unit (EIU)
   - IHS Economics and Country Risk
   - Institutional Investor Country Credit Ratings (IICCR)
   - International Country Risk Guide (ICRG)
-- Measuring institutional quality is a major effort at the World Bank and IMF
+- Measuring institutional quality is a major effort $\$a_t$$ the World Bank and IMF
   - Worldwide Governance Indicators & Doing Business Reports
 - Measuring political risks is still an art rather than a science
 - Scores often map into sovereign spreads
   - Priced in cost of capital
 - Scores can be useful to quantify country differences as well as the components of country risk
-
 ## International Country Risk Guide (ICRG): Risk Categories
-
- | Risk Category | Composite Score Range | 
- | ----------------- | ------------------------- | 
- | Very High Risk | 0.0-49.5 | 
- | High Risk | 50.0-59.5 | 
- | Moderate Risk | 60.0-69.5 | 
- | Low Risk | 70.0-84.5 | 
- | Very Low Risk | 85.0-100.0 | 
+ | Risk Category | Composite Score Range |
+ | ----------------- | ------------------------- |
+ | Very High Risk | 0.0-49.5 |
+ | High Risk | 50.0-59.5 |
+ | Moderate Risk | 60.0-69.5 |
+ | Low Risk | 70.0-84.5 |
+ | Very Low Risk | 85.0-100.0 |
 
 ## Economist Intelligence Unit (EIU)
-
 !EIU ratings 1
 
 ## Economist Intelligence Unit (EIU) - Continued
-
 !EIU ratings 2
 
 ## Transparency International
-
 CORRUPTION PERCEPTIONS INDEX 2015
 
 !Corruption perceptions index
 
 ## Institutional Investor Magazine: Country Credit Risk Ratings
-
 !Country credit risk ratings
 
 ## Country Scores for Institutional Quality (or Governance)
-
 !Institutional quality scores 1
 
 *Source: World Bank, Worldwide Governance Indicators, 2018*
 
 ## Country Scores for Institutional Quality (or Governance) - Continued
-
 !Institutional quality scores 2
 
 *Source: World Bank, Worldwide Governance Indicators, 2018*
 
 ## Country Scores for Institutional Quality (or Governance) - Continued
-
 !Institutional quality scores 3
 
 *Source: World Bank, Worldwide Governance Indicators, 2018*
 
 ## Components of Country Risk: Radar Charts
-
 !Radar charts showing country risk components
 
 ## Developed vs. Emerging Markets
-
 !Developed vs emerging markets comparison
 
 # International Cost of Capital in Practice
-
 ## How Do We Capture International Risks?
-
 - Cost of capital is frequently used to account for international risks
   - These factors are generally not captured in and compensated w/ beta
   - Common to make adjustments to cost of capital
@@ -314,14 +321,11 @@ CORRUPTION PERCEPTIONS INDEX 2015
   - Most practitioners start with CAPM (see Readings for Week 8)
   - Make adjustments to the CAPM to account for country risks
 - Common to use sovereign spreads over U.S. treasury yields to capture country risks: e.g.,
-
-$$\text{CoC} = R_f^{US} + \beta \times \text{U.S. Equity Premium} + \text{SS}$$
+$\$\text{CoC} = R_f^{US} + \\beta \times \text{U.S. Equity Premium} + \text{SS}$$
 
 ## What Do Practitioners Do?
-
 - There are many different models and proposed approaches
   - Different values for Exxon Mobile investment in Argentina (in 2005):
-
 !Different valuation models comparison
 
 - Salomon Smith Barney survey (2002):

@@ -1,20 +1,107 @@
 ---
-tags:
-  - continuous_time
-  - discrete_time
-  - one_period_economy
-  - risk_free_return
-  - risk_neutral_probabilities
 aliases:
-  - Risk-Neutral Expectation
-  - Risk-Neutral Measure
+- Risk-Neutral Expectation
+- Risk-Neutral Measure
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Risk-Neutral Probabilities and financial analysis
+- Risk-Neutral Probabilities in modern finance
+- Applications of Risk-Neutral Probabilities
+- 'Case study: Risk-Neutral Probabilities'
+last_enhanced: '2025-11-06 08:42:30'
+- pricing
+- coupon
+- roll
+- valuation
+- bonds
+- call
+- options
+- delta
+- risk-management
+- bond
+- put
+- var
+- irs
+- futures
+- swaps
+tags:
+- arbitrage
+- banking
+- bankruptcy
+- basis
+- bond
+- case-study
+- cash-flow
+- crisis-analysis
+- currency
+- derivative-pricing
+- derivatives
+- duration
+- empirical-analysis
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- sovereign
+- stress-test
+- var
+- yield-curve
+
 key_concepts:
-  - Continuous-time economy
-  - Discrete-time economy
-  - One-period economy
-  - Risk-free return
-  - Risk-neutral probability measure
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 11.3 Risk-neutral probabilities  
 

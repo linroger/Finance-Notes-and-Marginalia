@@ -1,33 +1,75 @@
 ---
 tags:
-  - barrier_options
-  - black_scholes
-  - exotic_options
-  - option_pricing
-  - path_dependent
+- american
+- barrier
+- barrier_options
+- binomial
+- black-scholes
+- black_scholes
+- bond
+- brownian
+- call
+- defi
+- dividend-yield
+- european
+- exotic
+- exotic_options
+- fixed-income
+- gbm
+- greeks
+- interest-rate
+- ito
+- monte-carlo
+- option
+- option_pricing
+- path_dependent
+- pde
+- put
+- risk-free-rate
+- sde
+- stochastic
+- stock
+- transaction-cost
 aliases:
-  - Barrier Option Pricing
-  - Knock-in Options
-  - Knock-out Options
+- Barrier Option Pricing
+- Knock-in Options
+- Knock-out Options
 key_concepts:
-  - Advantages for buyer/writer
-  - Analytical pricing solution
-  - Barrier option properties
-  - Continuous vs discrete monitoring
-  - Option valuation techniques
+- Advantages for buyer/writer
+- American options valuation
+- Analytical pricing solution
+- Backward induction algorithm
+- Barrier option properties
+- Binomial option pricing model
+- Continuous vs discrete monitoring
+- Convergence to Black-Scholes
+- Cox-Ross-Rubinstein framework
+- Delta risk management
+- Derivative securities
+- Dynamic hedging strategies
+- Financial risk management
+- Gamma effects on options
+- Lattice methods for derivatives
+- Multi-period binomial tree
+- Option valuation techniques
+- Options Greeks measurement
+- Portfolio optimization
+- Portfolio risk hedging
+- Quantitative financial analysis
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Risk-neutral probability
+- Theta time decay
+- Vega volatility sensitivity
 ---
 
 # [](../7.%20Black%20Scholes%20Model.md#2%20The%20Volatility%20Surface | Exotic%20Options)
-
 ## [](../7.%20Black%20Scholes%20Model.md#2%20The%20Volatility%20Surface | Exotic%20Options):  Pricing Path-Dependent single Barrier Option contracts
-
 # Abstract
-
 This paper discusses the basic properties of barrier options and an analytical solution  for pricing such contracts. The significance of monitoring is considered, for example  the difference between continuous monitoring and discrete monitoring. Pitfalls  arising from a naïve application of standard option valuation techniques to barrier  options are pointed out. We also discuss the practical issues related to barrier options,  such as the advantages they provide to the buyer as well as to the writer, and consider  practical issues behind valuation.
 
 Key words and phrases: Barrier Options, Knock-out Options, Knock-in Options,  Rebate, Path-dependant Payoff, Black & Scholes, restricted density, Reflection  Principal.
 # 1.  Introduction
-
 Barrier options are a class of exotic options which were first priced by Merton  (1973). The most common approaches used to price these type of derivatives are the  expectations methods and the differential equation methods. The expectations  method has been worked out in detail by Rubinstein and Reiner (1991) and also Rich  (1994). The expectations pricing method requires the determination of the riskneutral densities of the underlying price as it breaches the barrier from above and  below. If rebates apply then the first exit time densities through the barrier are also  required. Barrier option prices are then obtained, in the usual way, by integrating the  discounted barrier option pay-off function over the calculated densities. It is  considered difficult to work out these densities when using the expectation approach,  it is however remarkable that closed form solutions for all types of barrier options are  in fact obtained.
 
 A brief discussion of the differential equation method can be found in Wilmott  (1993). The basic idea of this approach is that all barrier options satisfy the BlackScholes partial differential equation but with different domains, expiry conditions  and boundary conditions. In principal, these partial differential equations (PDE's) can  be transformed to the diffusion equation and solved. Once again the analysis is  complex and also requires the evaluation of integrals, but the same closed form  solutions are obtained. The solution from the PDE method is of course related to the  solutions from the expectation approach. Ritchken (1995) has investigated  computational aspects of barrier option pricing using binomial and trinomial lattice.
@@ -35,10 +77,8 @@ A brief discussion of the differential equation method can be found in Wilmott  
 In this paper, the PDE method will be adopted to show that a direct and simple  analysis leads to the closed form solutions. The method employs symmetry  properties of the Black-Scholes (B&S) PDE and requires little more than the wellknown basic European vanilla option solutions.
 
 # 2. Pricing of simple contingent claims
-
 # 2.1 Asset Price Dynamics and Ito Process
-
-The dynamics of stock price   $S$    are represented by the following Ito process with a  drift rate of   $\mu S$   and variance rate of   $\sigma^{2}S^{2}$  :
+The dynamics of stock price   $S$    are represented by the following Ito process with a  drift rate of   $\\mu S$   and variance rate of   $\\sigma^{2}S^{2}$  :
 $$
 d S=\mu S d t+\sigma S d X
 $$
@@ -52,21 +92,21 @@ This process of stock prices, known also as the geometric Brownian motion, can b
 $$
 \Delta S/S=\mu\Delta t+\sigma\varepsilon\Delta d t
 $$
-Where   $\varepsilon$  is a random sample from distribution with zero mean and a unit standard  deviation. If we set   $\sigma=0$  , the term involving   $d X$  in equation (1.2), would drop out  and we are left with ordinary differential equation (ODE)
+Where   $\varepsilon$  is a random sample from distribution with zero mean and a unit standard  deviation. If we set   $\\sigma=0$  , the term involving   $d X$  in equation (1.2), would drop out  and we are left with ordinary differential equation (ODE)
 $$
 d S/S=\mu d t\quad{\mathrm{or~}}d S/d t=\mu S
 $$
 
-Where   $\mu$   is constant this can be solved exactly to give exponential growth in the  value of the asset, i.e.
+Where   $\\mu$   is constant this can be solved exactly to give exponential growth in the  value of the asset, i.e.
 $$
 S=S_{\scriptscriptstyle0}\exp[\mu(t-t_{\scriptscriptstyle0})]
 $$
 
-The random term   $d X$   from equation (1.2) is known as a Weiner process which has  the properties defined below. The model has the stock price growing at a constant  rate   $\mu$  , with random fluctuations superimposed. These fluctuations are proportional  to the standard deviation of the asset price and are dependant on standard normal  random variable. This type of process is known as Weiner process.
+The random term   $d X$   from equation (1.2) is known as a Weiner process which has  the properties defined below. The model has the stock price growing $\$a_t$$ a constant  rate   $\mu$  , with random fluctuations superimposed. These fluctuations are proportional  to the standard deviation of the asset price and are dependant on standard normal  random variable. This type of process is known as Weiner process.
 
 Definition 1.1  A stochastic process%20Process.md)  $X$    is called Weiner process if the following hold.
 
-[^1]: $W(\theta)=0$  W(0) = 0
+[^1]: $W(\\theta)=0$  W(0) = 0
 
 [^2]: The process   $W$    has independent increments, i.e. if  $r<s\leq t<u$    then
 
@@ -83,12 +123,12 @@ $$
 d X=\phi\sqrt{d t}
 $$
 
-where   $\phi$   is a random variable with   $N\sim(0,\!1)$   and a probability density function  given by
+where   $\\phi$   is a random variable with   $N\sim(0,\!1)$   and a probability density function  given by
 $$
 \frac{1}{\sqrt{2\pi}}e^{-\frac{1}{2}{\phi}^{2}}\,,\quad\mathrm{for}\quad-\infty<{\phi}<\infty
 $$
 
-Define the expectation operator   $\xi$  by
+Define the expectation operator   $\\xi$  by
 $$
 \xi[F(.)]\!=\!\frac{1}{\sqrt{2\pi}}\!\int_{\infty}^{\infty}\!F(\phi)e^{-\frac{1}{2}\phi^{2}}d\phi,
 $$
@@ -103,14 +143,13 @@ $$
 $$
 
 # 2.2 Ito's Lemma
-
 Ito's Lemma is an important result about the manipulation of random variables.  While Taylor's theorem allows one to manipulate functions of deterministic  variables, Ito's Lemma can be applied to manipulate functions of random variables. It  relates the small change in a function of random variable to the small change of in  the random variable itself.
 
 [^2]: We will use the following Ito's multiplication table
 $$
 \begin{array}{c c c}{{(d X)^{2}}}&{{=}}&{{\quad d t,}}\\ {{d t.d X}}&{{=}}&{{\quad O,}}\\ {{(d t)^{2}}}&{{=}}&{{\quad O,}}\end{array}
 $$
- dt,
+ $\$d_t$$,
 ${\mathrm{If}}f(S)$    is a smooth function of  $S$    and we vary   $S$    by small amount   $d S$  , then the function    $f$  will also vary amount small amount   $d\!f.$   Using the Taylor series expansion we can  write the change of the function   $f$   as:
 $$
 d\!f=\!\frac{d\!f}{d\!S}\,d\!S+\frac{1}{2}\frac{d^{\,2}f}{d\!S^{\,2}}\,d\!S^{\,2}\,+...,
@@ -146,7 +185,6 @@ d f=(\frac{\partial f}{\partial S}\,\mu S+\frac{1}{2}\frac{\partial^{2}f}{\parti
 $$
 
 # 3.1 The Black -Scholes Formulation of Option Pricing
-
 We illustrate how to use the riskless hedging principle to derive the governing partial  differential equation for the price of European call. The derivation follows the  approach used by Black and Scholes in their seminal paper (1973). They made the  following assumption in the financial market:
 
 (i)  trading takes place continuously in time;
@@ -167,7 +205,7 @@ Let   $V(S,\,t)$    be the value of an option whose value depends on both  $S$  
 d V=({\frac{\partial V}{\partial S}}\,\mu S+{\frac{1}{2}}{\frac{\partial^{2}V}{\partial S^{2}}}\,\sigma^{2}S^{2}\,+{\frac{\partial V}{\partial t}})d t+\sigma S{\frac{\partial V}{\partial S}}\,d X
 $$
 
-If we now construct a portfolio of consisting a long position of the option and a short  position of the underlying asset   $(-\Delta)$  , the value of the portfolio is
+If we now construct a portfolio of consisting a long position of the option and a short  position of the underlying asset   $(-\\Delta)$  , the value of the portfolio is
 $$
 \Pi=V-\Delta S
 $$
@@ -198,7 +236,7 @@ The first two terms from the right hand side of the equation cancels each other 
 $$
 d\Pi=({\frac{\partial V}{\partial t}}\!+\!{\frac{1}{2}}{\frac{\partial^{2}V}{\partial\!S^{2}}}\sigma^{2}S^{2}\,)d t
 $$
-Note the uncertainty due to   $d X$    is cancelled out and  $u$  ,  the premium for risk (return on    $S)$  ) ,  is also cancelled out. Not only that the term   $d\Pi$  has no uncertainty, it is also  preference free and not dependant on   $u$  ,  a parameter controlled by investors risk  aversion. If the portfolio value is fully hedged, then no arbitrage implies that it myst  earn only risk free rate of return.   We then have
+Note the uncertainty due to   $d X$    is cancelled out and  $u$  ,  the premium for risk (return on    $S)$  ) ,  is also cancelled out. Not only that the term   $d\\Pi$  has no uncertainty, it is also  preference free and not dependant on   $u$  ,  a parameter controlled by investors risk  aversion. If the portfolio value is fully hedged, then no arbitrage implies that it myst  earn only risk free rate of return.   We then have
 $$
 r\Pi d t=({\frac{\partial V}{\partial t}}\!+\!{\frac{1}{2}}{\frac{\partial^{2}V}{\partial\boldsymbol{S}^{2}}}\sigma^{2}\boldsymbol{S}^{2}\,)d t
 $$
@@ -236,20 +274,19 @@ The term  $d X$  disappear from the PDE, which means there is no uncertainty. Wh
 
 The term  u  which is the expected rate of return on the stock also disappear from the  PDE. The expected return is affected by risk preference. The more risk averse the  investor, the smaller the expected return. Given that the expected return does not  appear in the pricing formula for derivatives, valuation of derivatives in this  framework is preference free. The solution to the differential equation is therefore the  same in a risk-free world as it is in the real world.  Hence, this type of valuation  method are often called, risk neutral valuation relationship (RNVR).
 
-Application of RNV sets the expected growth rate of stock equal to risk free interest  rate, then discount expected payoff of option at risk free rate.
+Application of RNV sets the expected growth rate of stock equal to risk free interest  rate, then discount expected payoff of option $\$a_t$$ risk free rate.
 
 There are many solutions to (3.5) that correspond to different derivatives,   $f$  , with  underlying asset  $S$    . In other words, without further constraints, the PDE in (3.5) does  not have a unique solution.
 
-The particular security being valued is determined by its boundary conditions of the  differential equation. In the case of a European call, the value at expiry   $c(S,T)\!=\!(S-E,\!0)$    serves as the final condition for the Black-Scholes PDE.
+The particular security being valued is determined by its boundary conditions of the  differential equation. In the case of a European call, the value $\$a_t$$ expiry   $c(S,T)\!=\!(S-E,\!0)$    serves as the final condition for the Black-Scholes PDE.
 
 # 3.2  Lognormal property and stock price process
-
 Black-Scholes (1973) assume that there are two fundamental assets: a bond with a  price   $B(.)$    and a stock with a price   $S(.)$  . The price of the bond and the stock are  assumed to grow as follows for any   $0\leq t\leq T$  :
 $$
 \begin{array}{l}{{\displaystyle{\cal B}(t)=\exp(r t),\qquad\mathrm{and}}}\\ {{\displaystyle{\cal S}(t)={\cal S}(0)\exp\Biggl\{\!\!\left(\mu-\frac{1}{2}\sigma^{2}\right)\!t+\sigma w(t)\Biggr\},}}\end{array}
 $$
 
-[^3]: where  $r,\,u$  ,  and   $\sigma$    are constants, and   $w(t)$    is a standard Brownian motion .   The ratio of   $S(T)$    to  $S(t)$    can be written:$$
+[^3]: where  $r,\,u$  ,  and   $\\sigma$    are constants, and   $w(t)$    is a standard Brownian motion .   The ratio of   $S(T)$    to  $S(t)$    can be written:$$
 {\begin{array}{l}{S(T)=S(0)\exp\!\left\{\!\!\left(\mu-{\frac{1}{2}}\sigma^{2}\right)\!{\bar{T}}+\sigma w(T)\right\}}\\ {S(t)=S(0)\exp\!\left\{\!\!\left(\mu-{\frac{1}{2}}\sigma^{2}\right)\!{\bar{t}}+\sigma w(t)\right\}}\end{array}}
 $$
 $$
@@ -261,7 +298,7 @@ $$
 \ln\!\left({\frac{S(T)}{S(t)}}\right)\!=\!\left(\mu-{\frac{1}{2}}\sigma^{2}\right)\!(T-t)+\sigma{\big(}w(T)-w(t){\big)}
 $$
 
-the increment   $w(T)\textrm{-}w(t)$    is distributed normal  $N(\theta,\,T{-}t)$  ,  so it follow that
+the increment   $w(T)\textrm{-}w(t)$    is distributed normal  $N(\\theta,\,T{-}t)$  ,  so it follow that
 $$
 \!\ln\!\left({\frac{S(T)}{S(t)}}\right)\!\sim N\!\left(\!\left(\mu\!-\!{\frac{1}{2}}\sigma^{2}\right)\!(T-t),\sigma(T-t)\right)
 $$
@@ -285,7 +322,7 @@ $$
 $$
 
 where   $W\equiv\big(w(T)-w(t)\big)$    is distributed as normal   $N(0,T-t)$    under the usual  probability measure.
-As mentioned above the price of European option at time   $t$    can be found by  discounting the expected payoff of the call option (Where   $\mathrm{E}^{*}$    denotes expectation  taken under the risk-neutral probability measure). The expectation is taken  conditional on information at time  $t$    [that is, conditional on  $S(t)]$  :
+As mentioned above the price of European option $\$a_t$$ time   $t$    can be found by  discounting the expected payoff of the call option (Where   $\mathrm{E}^{*}$    denotes expectation  taken under the risk-neutral probability measure). The expectation is taken  conditional on information $$a_t$$ time  $t$    [that is, conditional on  $S(t)]$  :
 $$
 c(t)=e^{-r(T-t)}E^{*}\big[\mathrm{max}\big(S(T)-K_{*}\!0\big)\big | S(t)\big)\big]
 $$
@@ -309,7 +346,7 @@ $$
 c(t)=e^{-r(T-t)}\int_{\varepsilon=-\infty}^{+\infty}\left(S(t)e^{\left(\mu-\frac{1}{2}\sigma^{2}\right)(T-t)+\sigma\varepsilon\sqrt{T-t}}-K\right)^{+}\frac{1}{\sqrt{2\pi}}e^{-\frac{1^{2}}{2}}d\varepsilon
 $$
 
-let  ε    be such that   $\left(S(t)e^{(r-\frac{1}{2}\sigma^{2})(T-t)+\sigma\varepsilon\sqrt{T-t}}-K\right)\!=\!0\,,\,\mathrm{then}$
+let  ε    be such that   $\left(S(t)e^{(r-\frac{1}{2}\\sigma^{2})(T-t)+\\sigma\varepsilon\sqrt{T-t}}-K\right)\!=\!0\,,\,\mathrm{then}$
 $$
 {\mathcal{E}}_{\scriptscriptstyle0}=\!\frac{1}{\sigma\sqrt{T-t}}\!\left\{\ln\!\left(\frac{K}{S(t)}\right)\!-\!\left(r-\!\frac{1}{2}\sigma^{2}\right)\!(T-t)\right\}
 $$
@@ -339,7 +376,7 @@ $$
 -{\frac{1}{2}}\sigma^{2}(T-t)+\sigma\varepsilon\sqrt{T-t}-{\frac{1}{2}}\varepsilon^{2}=-{\frac{1}{2}}{\bigl(}\varepsilon-\sigma\sqrt{T-t}{\bigr)}^{2}=-{\frac{1}{2}}\varepsilon^{2},
 $$
 
-where   $\varepsilon^{'}\equiv\varepsilon-\sigma\sqrt{T-t}$    .  Now substitute this into the first integral to simply the  expression for  $c(t)$  :
+where   $\varepsilon^{'}\equiv\varepsilon-\\sigma\sqrt{T-t}$    .  Now substitute this into the first integral to simply the  expression for  $c(t)$  :
 $$
 c(t)\!=\!S(t)\!\int\!\!\!\!\int\!\!\frac{1}{\sqrt{2\pi}}e^{-\frac{1}{2}\varepsilon^{2}}d\varepsilon^{'}\!-\!k e^{-r(T-t)}\!\int\displaylimits_{\varepsilon=\varepsilon_{0}}^{+\infty}\!\!\frac{1}{\sqrt{2\pi}}e^{-\frac{1}{2}\varepsilon^{2}}d\varepsilon
 $$
@@ -377,7 +414,7 @@ where
 $$
 d_{_1}\!=\!\frac{\ln\!\left(\cfrac{S(t)}{K}\right)\!+\!\left(r+\cfrac{1}{2}\sigma^{2}\right)\!(T-t)}{\sigma\sqrt{T-t}},
 $$
-The above call price formula can be interpreted using the language of probability.  First,   $N(d_{2})$   is seen as the probability of the call being in-the-money at expiry and  so   $K N(d_{2})$   can be interpreted as the risk neutral expectation of the payment made  by the holder of the call option at expiry on exercising the option. Second,   $S(t)e^{r(T-t)}N(d_{1})$  is the risk neutral expectation of the asset price at expiry  conditional on the call being in-the-money. Hence, the expectation of the call value  at expiry is
+The above call price formula can be interpreted using the language of probability.  First,   $N(d_{2})$   is seen as the probability of the call being in-the-money $\$a_t$$ expiry and  so   $K N(d_{2})$   can be interpreted as the risk neutral expectation of the payment made  by the holder of the call option $$a_t$$ expiry on exercising the option. Second,   $S(t)e^{r(T-t)}N(d_{1})$  is the risk neutral expectation of the asset price $$a_t$$ expiry  conditional on the call being in-the-money. Hence, the expectation of the call value  $$a_t$$ expiry is
 $$
 =S(t)N(d_{1})-e^{-r(T-t)}K N(d_{2}),
 $$
@@ -385,14 +422,12 @@ $$
 which is then discounted by the factor   $=e^{-r(T-t)}$   in the risk neutral world to give the  present value of the call.
 
 # 4.1 Barrier Options
-
 Options with the barrier feature, commonly called barrier options, are considered to  be one of the simplest types of path-dependent options. The unique feature is that the  payoff depends not only on the final price of the underlying asset but also on whether  or not the underlying asset price has reached (one-touch) some barrier level during  the life of the option. An  out-barrier  option (knock-out option) is one where the  option is nullified prior to expiration if the underlying asset price touches the barrier.  The option holder may be compensated by a rebate payment for the cancellation of  the option. An  in-barrier  option (knock-in) option is barrier option type which comes  into play if the asses price hits or crosses the predefined barrier level. When the  barrier is approached from below, the barrier option is called an  up-option;  otherwise  it is called  down-option . One can identify eight type of European barrier options,  such as down-in calls, up-in calls, down-out calls, up-out calls. And similar four  types of options for the European barrier put options.
 
 All these options are called standard or vanilla barrier options. The attractiveness of  barrier options is that they are cheaper than their corresponding vanilla options, as  the sum of the premiums of a knock-in and its corresponding knock-out is always the  same as the premium of their corresponding vanilla option if there are no rebates.
 
 # 4.2 Vanilla barrier options
-
-Another name for barrier type options is also a trigger option. This is because the  payoff depends critically on whether a pre-specified barrier or a trigger is touched  during the life of the option. If the barrier is breached during this time, the holder is  entitled to receive a European option. Otherwise, the holder gets a rebate at the  maturity of the option. This kind of barrier is known as knock-in barrier option, or  simply knock-in. Given the underlying asset price, the barrier level can be placed  above of below it. If the barrier is below the underlying price, the knock-in option is  called a down knock-in option (DI - for down and in option). The payoff of a down  knock-in option (PDI) can be formally given as$$
+Another name for barrier type options is also a trigger option. This is because the  payoff depends critically on whether a pre-specified barrier or a trigger is touched  during the life of the option. If the barrier is breached during this time, the holder is  entitled to receive a European option. Otherwise, the holder gets a rebate $\$a_t$$ the  maturity of the option. This kind of barrier is known as knock-in barrier option, or  simply knock-in. Given the underlying asset price, the barrier level can be placed  above of below it. If the barrier is below the underlying price, the knock-in option is  called a down knock-in option (DI - for down and in option). The payoff of a down  knock-in option (PDI) can be formally given as$$
 \begin{array}{r l}&{P D I=\operatorname*{max}\big\{\!\left[\omega S(t^{*})-\omega K,0\right]\!\mid S(t)>H}\\ &{\mathrm{and}\ S(T)\!\mid\!S(H,\mathrm{for\;some}\quad t<T\leq t^{*}\big\},}\end{array}
 $$
 
@@ -401,7 +436,7 @@ $$
 P D I=R m(\tau)\ \mathrm{if}\;S(t)>H\,\mathrm{and}\;S(T)>H,\,\mathrm{for\all}\;t<T\leq t^{*}\,,
 $$
 
-Where   $t,a n d,t^{*}$    are the current and expiration time of the option respectively;  $H$    is  the knock-in boundary of the option or the constant barrier level.  $K$   is the strike price  of the option;    $\omega$  is a binary operator (1 for a call and   $^{-1}$   for a put).    $R m(\tau)$    is the  rebate of the barrier option paid at maturity if the barrier is not touched.
+Where   $t,a n d,t^{*}$    are the current and expiration time of the option respectively;  $H$    is  the knock-in boundary of the option or the constant barrier level.  $K$   is the strike price  of the option;    $\\omega$  is a binary operator (1 for a call and   $^{-1}$   for a put).    $R m(\\tau)$    is the  rebate of the barrier option paid $\$a_t$$ maturity if the barrier is not touched.
 
 Below we also so define the payoff for remaining vanilla barrier types such as up-anin (PUI), down-and-out (PDO). For up-and-out (PUO) payoff see Zhang (1998).
 
@@ -418,15 +453,13 @@ $$
 $$
 
 or
-${\tt R}({\tt T})$   is in this case also the rebate function which is time dependant. R(T) is most  often an increasing function of time starting from zero, or   $R^{\prime}\!(T)\!>\theta$    and  $R(\!O\!){=}0$  .  The  rebate defined in (4.2c) is called non-deferred rebate, implying that the rebate is paid  as soon as the barrier is reached. The rebate can also be deferred, that is, the rebate  payment can be postponed until maturity.
+${\tt R}({\tt T})$   is in this case also the rebate function which is time dependant. R(T) is most  often an increasing function of time starting from zero, or   $R^{\prime}\!(T)\!>\\theta$    and  $R(\!O\!){=}0$  .  The  rebate defined in (4.2c) is called non-deferred rebate, implying that the rebate is paid  as soon as the barrier is reached. The rebate can also be deferred, that is, the rebate  payment can be postponed until maturity.
 # 4.2.1 Path Independence and Path Dependence
-
-A security is path-independent if its value at a given point in time depends on the socalled state-of-the-world at the time, and now on how the world evolved to that state.  For example, the premium of European option depends on the price and the return  volatility of the underlying at a given point in time, but is independent of the actual  price history that transpired prior to that time. Barrier options are dependant on price  history for determining if a barrier has been hit or not. For an out-option, this type of  dependency is theoretically no different than the path-dependency inherent in the  early exercise of an American option. A non-linear barrier option exist for an  American option, defined at time  $t$    by the critical price  $S_{t}$  at which the investor should    exercise. In practise this barrier is subjective, to the extent that the investor needs to  specify volatility before the American barrier can be identified. Also, the rational  investor would exercise, but is not required to do so, whereas the breaching of the  barrier triggers a contractual provision in a knock-out or knock-in option.
+A security is path-independent if its value $\$a_t$$ a given point in time depends on the socalled state-of-the-world $$a_t$$ the time, and now on how the world evolved to that state.  For example, the premium of European option depends on the price and the return  volatility of the underlying $$a_t$$ a given point in time, but is independent of the actual  price history that transpired prior to that time. Barrier options are dependant on price  history for determining if a barrier has been hit or not. For an out-option, this type of  dependency is theoretically no different than the path-dependency inherent in the  early exercise of an American option. A non-linear barrier option exist for an  American option, defined $$a_t$$ time  $t$    by the critical price  $S_{t}$  $$a_t$$ which the investor should    exercise. In practise this barrier is subjective, to the extent that the investor needs to  specify volatility before the American barrier can be identified. Also, the rational  investor would exercise, but is not required to do so, whereas the breaching of the  barrier triggers a contractual provision in a knock-out or knock-in option.
 
 Financial engineers are concerned with yet another type of path dependence -  whether and how backward recursion can be used for pricing. Backward recursion  refers to the methods such as Cox-Ross-Rubinstein. This is of interest because  backward recursion is flexible and efficient when compared to Monte Carlo  simulations. In order to use backward recursion one requires the security (contingent  claim) being priced be path-independent (in a weak sense). Fortunately, barrier  options are bath-independent in this sense
 
 # 4.3 Reflecting barrier
-
 A Brownian motion with reflecting barrier is also called Brownian motion reflected  about some particular point. A Brownian motion  $X(t)$    reflected about the line  $x=b$    is  given as follows.
 $$
 \begin{array}{l}{{\tilde{X}(t)=X(t)\mathrm{~for~}t<T_{b}}}\\ {{=2b-X(t)\mathrm{~for~}t>T_{b}}}\end{array}
@@ -438,9 +471,9 @@ Simulated asset  price
 Figure 1.1   Simulated asset prices with a fixed barrier level of 115.
 The well-known result abut the reflecting barrier is the reflection principle which  states that for every sample path with   $X(T)>b$    there are two sample paths   $X(T)$
 
-and   $\tilde{X}(T)$    with the same probability of occurrence. Because of the symmetry with  respect to  $b$    of a Brownian motion   $X(t)$    starting at   $b$  ,  the "probability" of doing this  is the same as the "probability" of travelling from   $b$    to the point  $2b-X(t)$  .  The reason  for this is that, for every bath which crosses level   $b$    and is found at time   $t$    at a point
+and   $\tilde{X}(T)$    with the same probability of occurrence. Because of the symmetry with  respect to  $b$    of a Brownian motion   $X(t)$    starting $\$a_t$$   $b$  ,  the "probability" of doing this  is the same as the "probability" of travelling from   $b$    to the point  $2b-X(t)$  .  The reason  for this is that, for every bath which crosses level   $b$    and is found $$a_t$$ time   $t$    $$a_t$$ a point
 
-below   $b$  ,  there is a shadow path   $\stackrel{\sim}{X}(t)$    obtained from the reflection about the level  $b$    which exceeds this level at time t, and these two paths have the same probability. The  actual probability for the occurrence of any particular path is zero. With the  argument stated above, we can write the equation of the reflection principle as  follows:
+below   $b$  ,  there is a shadow path   $\stackrel{\sim}{X}(t)$    obtained from the reflection about the level  $b$    which exceeds this level $\$a_t$$ time t, and these two paths have the same probability. The  actual probability for the occurrence of any particular path is zero. With the  argument stated above, we can write the equation of the reflection principle as  follows:
 $$
 P\big[T_{b}<t,X(t)<b\big]\!=\!P\big[T_{b}<t,X(t)\!>\!b\big]\!=\!P\big[X(t)\!>\!b\big],
 $$
@@ -448,7 +481,6 @@ $$
 Where   $T_{b}$    stands for the time when the reflecting barrier  $\mathfrak{b}$   is first touched and   $P$    is  the probability.  The reflection principle can be used to find the first passage time.  The solution of the density functions for the Brownian motion with a reflecting  5 barrier can be found in several text books in financial mathematics .
 
 # 4.4.1 Unrestricted distribution and absorbing barrier
-
 Let   $g$  stand for the annual continues dividend yield on the underlying asset. The  stochastic process%20Process.md) which governs the underlying asset price movement given in (1.1)  becomes
 $$
 d S=(\mu-g)S d t+\sigma S d z(t),
@@ -459,9 +491,9 @@ $$
 S(\tau)\!=\!S\exp\!\big[\nu\tau+\sigma w(\tau)\big],
 $$
 
-where   $\tau\!=\!t^{*}-t,\ \left[t,t^{*}\right]$  stand for current time and expiration time of the option,  respectively,    $\nu\,{=}\,r-g-\sigma^{2}\,/\,2$  ,   and   $w(\tau)$  is standard Gauss-Weiner process ( note  here that we have changed the notation slightly).
+where   $\\tau\!=\!t^{*}-t,\ \left[t,t^{*}\right]$  stand for current time and expiration time of the option,  respectively,    $\\nu\,{=}\,r-g-\\sigma^{2}\,/\,2$  ,   and   $w(\\tau)$  is standard Gauss-Weiner process ( note  here that we have changed the notation slightly).
 
-We know that   $\boldsymbol{X}_{\u{\tau}}=\ln\bigl[S(\tau)/S)\bigr]$    is the log-return of the underlying asset, then the  density function of   $X_{\tau}$   is normally distributed with mean   $\nu\tau$  v and variance   $\sigma^{2}\tau$  .   its  pdf is then given by:$$
+We know that   $\boldsymbol{X}_{\u{\\tau}}=\ln\bigl[S(\\tau)/S)\bigr]$    is the log-return of the underlying asset, then the  density function of   $X_{\\tau}$   is normally distributed with mean   $\\nu\\tau$  v and variance   $\\sigma^{2}\\tau$  .   its  pdf is then given by:$$
 f(x)\!=\!\frac{1}{\sigma\sqrt{2\pi\tau}}\mathrm{exp}\Bigg[\!-\frac{(x-\nu\tau)^{2}}{2\sigma^{2}\tau}\Bigg]\!.
 $$
 
@@ -472,7 +504,6 @@ $$
  x < a,
 
 # 4.4.2 Restricted Distributions
-
 From the specification of the payoff of a brier option, we know that in order to price  it, we certainly need another density function conditioned on whether the barrier is  reached during the life of the option. Define:
 $$
 {M_{t}^{t^{*}}=\operatorname*{max}\left\{\left.S(s)\,\right | \,s\in\left[t,t^{*}\right]\right\}},
@@ -483,7 +514,7 @@ $$
 m_{t}^{t^{*}}=\operatorname*{min}\big\{S(s)\, | \,s\in\big[t,t^{*}\big]\big\},
 $$
 
-where   $x\in X$    stands for that  $x$    belongs to  $X,$  ;   $\left[t,t^{*}\right]$    stands for the set of real numbers  starting from   $t$    and ending at    $t^{*}$    .  max and min represent the functions giving the  maximum and the minimum of a set of numbers, respectively.
+where   $x\in X$    stands for that  $x$    belongs to  $X,$  ;   $\left[t,t^{*}\right]$    stands for the set of real numbers  starting from   $t$    and ending $\$a_t$$    $t^{*}$    .  max and min represent the functions giving the  maximum and the minimum of a set of numbers, respectively.
 
 The two variables given in (4.3a) and (4.3b) are the maximum and minimum of all  underlying asset prices  within the life of the option. We can express these in terms  of log-returns:
 $$
@@ -526,8 +557,8 @@ $$
 \phi(x\, | \,Y_{\tau}<a)=0\,\,\mathrm{for}\,\,x{\ge}\,a,
 $$
 
-where  $f(x)$    is the unrestricted density function of the log-return of the underlying  asset given in (4.2.1). The restricted density function given in (4.5b) or (4.5c) is  exactly the same as the solution to the Brownian motion with an absorbing barrier  $a$     $>\theta$    given in (4.2.1a).
-The complement of being always below the barrier is not always being above or at  the barrier, because it is possible that the barrier is reached and the price ends up  below. The density function that the barrier is touched can be obtained from the  following identity.
+where  $f(x)$    is the unrestricted density function of the log-return of the underlying  asset given in (4.2.1). The restricted density function given in (4.5b) or (4.5c) is  exactly the same as the solution to the Brownian motion with an absorbing barrier  $a$     $>\\theta$    given in (4.2.1a).
+The complement of being always below the barrier is not always being above or $\$a_t$$  the barrier, because it is possible that the barrier is reached and the price ends up  below. The density function that the barrier is touched can be obtained from the  following identity.
 $$
 \phi(x\, | \,Y_{\tau}\geq a)+\phi(x\, | \,Y_{\tau}<a)=f(x)
 $$
@@ -535,13 +566,12 @@ $$
 This equation can be interpreted as the summation of the probability when the  barrier is touched and the probability when the barrier is never touched within the  live of the option, and this is the same as the unrestricted density given in (4.2.1a).
 
 # 4.5.1 Distribution of the first passage time
-
 The first passage time to a particular point on the path of the underlying asset price is  the first time that this particular point is first reached. The joint probability that             $x=y=a>0$     for an up-barrier cab be obtained using (4.4a) and (4.5)
 $$
 \begin{array}{l}{{P\left(X_{_t}\leq a,Y_{_t}\leq a\right)=P\left(X_{_t}\leq a,T_{_a}>\tau\right)}}\\ {{\mathrm{~}}}\\ {{{\mathrm{~}}}=N\mathrm{\left(}\displaystyle\frac{a-\nu t}{\sigma\sqrt{\tau}}\right)\!-e^{2a\nu/\sigma^{2}}N\mathrm{\left(}\displaystyle\frac{-a-\nu t}{\sigma\sqrt{\tau}}\right)\!,}}\end{array}
 $$
 
-if the drift term   $\nu\,{=}\,r-g-\sigma^{2}\,/\,2\,{\geq}\,0$  , the density function of the first passage time  from zero to the transferred barrier point   $a=\ln(U/S)>0$    can be obtained by  differentiating (4.6) with respect to the time to maturity.
+if the drift term   $\\nu\,{=}\,r-g-\\sigma^{2}\,/\,2\,{\geq}\,0$  , the density function of the first passage time  from zero to the transferred barrier point   $a=\ln(U/S)>0$    can be obtained by  differentiating (4.6) with respect to the time to maturity.
 $$
 \begin{array}{r l r}&{}&{h(T\, | \,a>0)\!=\!\!\left[-\displaystyle\frac{\partial}{\partial\tau}F(X_{\tau}\!\leq\!a,Y_{\tau}\!\leq\!a)\right]_{\tau=T}}\\ &{}&\\ &{}&{\qquad\displaystyle=\!\frac{a}{\sigma\sqrt{2\pi T^{3}}}\mathrm{exp}\!\left[-\displaystyle\frac{\left(a-\nu T\right)^{2}}{2\sigma^{2}T}\right]}\end{array}
 $$
@@ -549,9 +579,8 @@ $$
 equation (4.6a) is the distribution of the first passage time.
 
 # 5.1 Pricing standard barrier options
-
 One of the oldest barrier option types such as down-and-out call options were first  made available in the U.S. market from 1967. The corresponding valuation formula  for these options was driven by Merton (1973). A decade later Bergman (1983)  developed a framework for pricing path-dependant claims such as barrier options,  and Cox and Rubinstein (1985) used their down-and-out formula to price fixed  income securities with embedded characters. Rubinstein and Reiner (1991) also  contributed detailed results for all barrier option types with the assumption that the  underlying asset price follows lognormal process.
-The expected payoffs of in and out barrier options can be calculated in the same way  as in vanilla options with the only exception that the restricted density function  shown above is used. Using a risk-neutral evaluation relationship, one can obtain  barrier option prices by discounting the expected payoffs at the risk-free rate of  return. The barrier option is however also affected by the relative magnitude of the  strike price and the barrier level. For a down-and-in call with a strike price  $K$    greater  than the barrier level  $H$    and without any rebate, the value of the call can be found by  integrating the payoff of a vanilla call option with the restricted density function for  all possible underlying asset price starting from the strike price  $K$    to infinity.
+The expected payoffs of in and out barrier options can be calculated in the same way  as in vanilla options with the only exception that the restricted density function  shown above is used. Using a risk-neutral evaluation relationship, one can obtain  barrier option prices by discounting the expected payoffs $\$a_t$$ the risk-free rate of  return. The barrier option is however also affected by the relative magnitude of the  strike price and the barrier level. For a down-and-in call with a strike price  $K$    greater  than the barrier level  $H$    and without any rebate, the value of the call can be found by  integrating the payoff of a vanilla call option with the restricted density function for  all possible underlying asset price starting from the strike price  $K$    to infinity.
 
 If however the strike price is below or lower the barrier, the payoff of the down-andin call barrier option includes two parts: the integration of the payoff function of a  vanilla call option with the restricted density functions given in (5.1a) for all possible  underlying asset prices starting from the barrier  $H=L$    to infinity, and the integration  of the same payoff function with the density function given in (5.1b) for all  $S$    starting  from the strike price  $K$    to the barrier  $H=L$  .
 $$
@@ -566,8 +595,7 @@ $$
 where     $b\,=\,l n(L/S)$    and   $L$    stands for a down-barrier   $L\,<\,S.$  .  (5.1a) is the restricted  density function of the underlying asset log-return under the condition that the downbarrier is touched within the options lifetime.
 
 # 5.2 Down-and-in barrier call option
-
-The payoff of a down-an-in barrier call option can be divided in two parts; one part  including the payoff of the corresponding vanilla option if the barrier is reached any  time within the life of the option, and the rebate if the barrier is never reached.  Within the life of the option. Lets first consider the case where the strike is greater  than the barrier level (   $K>H$  ). The value of down-and-in call option (VDIC)  without any rebate if the barrier is reached is readily obtained by discounting it is  expected payoff given in equation (4.2a) at the risk-free rate of return:
+The payoff of a down-an-in barrier call option can be divided in two parts; one part  including the payoff of the corresponding vanilla option if the barrier is reached any  time within the life of the option, and the rebate if the barrier is never reached.  Within the life of the option. Lets first consider the case where the strike is greater  than the barrier level (   $K>H$  ). The value of down-and-in call option (VDIC)  without any rebate if the barrier is reached is readily obtained by discounting it is  expected payoff given in equation (4.2a) $\$a_t$$ the risk-free rate of return:
 $$
 V D I C=\left(\frac{H}{S}\right)^{2\nu/\sigma^{2}}\left\{\left(\frac{H^{2}}{S}\right)\;e^{-g\tau}N\left[d_{\mathrm{\sigma}b s}\left(\frac{H^{2}}{S},K\right)\right]-K e^{-r\tau}N\left[d_{b s}\left(\frac{H^{2}}{S},K\right)\right]\right\},
 $$
@@ -613,12 +641,12 @@ Where max (H, K) is the function which gives the larger of the two numbers  $\ma
 
 We now continue to price down-and-call option by using numerical example and  with the assumption that the down barrier is touched. This implies that the rebate is  zero.
 
-To find the find the price of down-and-in barrier call option, consider the following  parameter;  strike price   $\mathrm{K}=£98$  , spot price  $=£100$  , barrier level of  $\mathrm{H}=£95$  , interest  rate   $r=8\%$  , the yield of the underlying asset  $g=3\%$   and volatility of the underlying  asset  $=20\%$
+To find the find the price of down-and-in barrier call option, consider the following  parameter;  strike price   $\mathrm{K}=£98$  , spot price  $=£100$  , barrier level of  $\mathrm{H}=£95$  , interest  rate   $r=8\\%$  , the yield of the underlying asset  $g=3\\%$   and volatility of the underlying  asset  $=20\\%$
 
 Substituting   $\mathrm{S}=£100$  ,   $\mathrm{K}=£98$  ,  $\mathrm{H}=£95$  ,   $w=0.20$  ,   $r=0.08$  ,  $g=0.03$  ,  and  $t=0.5$    into (5.6) yields
 $$
 \begin{array}{r l}&{\nu=r-g-\sigma^{2}\⁄2=0.8-0.03-(0.20^{2}⁄2)=0.03,}\\ &{(H^{2}⁄S)=(95^{2}⁄100)=90.25,}\\ &{\operatorname*{max}(H,K)=\operatorname*{max}(95,\!98)=98,}\end{array}
-$$$$
+$\$$$
 d_{_{b s}}\!\left(\frac{H^{2}}{S},\!K\right)\!=\!\frac{\ln\!\left[\left(\!H^{2}\mid2\right)\!/\,K\right]\!+\nu\tau}{\sigma\sqrt{\tau}}\!=\!-0.4765,
 $$
 $$
@@ -638,7 +666,7 @@ $$
 
 when the strike price   $\mathrm{K}=£92$  , max (H, K) - max   $(95,\,92)=£\,95$  ,   $B_{H>K}{=}I$  ,  and all  the terms in (5.6) and nonzero.
 
-Substituting  $\mathrm{S}=£100,\,\mathrm{K}=£92,\,B_{H>K}=\,I,\,\mathrm{sigma}=0.20,\,r=0.08,\,g=0.03$   and   $t=$   $\it0.50$    into (5.6) yields:
+Substituting  $\mathrm{S}=£100,\,\mathrm{K}=£92,\,B_{H>K}=\,I,\,\mathrm{\sigma}=0.20,\,r=0.08,\,g=0.03$   and   $t=$   $\it0.50$    into (5.6) yields:
 $$
 d_{_{b s}}\biggl[\frac{H^{2}}{S}\mathrm{max}(H,K)\biggr]\!=\!\frac{\ln\bigl[\bigl(H^{2}\mid S\bigr)/\,H\bigr]\!+\nu\tau}{\sigma\sqrt{\tau}}\!=\!-0.2566,
 $$
@@ -647,7 +675,7 @@ d_{_{1b s}}\Biggl[{\frac{H^{2}}{S}}\mathrm{max}(H,K)\Biggr]\!=\!d_{_{b s}}\Biggl
 $$
 $$
 \begin{array}{r l}&{P_{_{b s}}(S,K)\!=\!-S\!\left[e^{-g\tau}N\!\left[-\,d_{_{1b s}}(S,K)\right]\!+\!k e^{-\tau}N\!\left[-\,d_{_{b s}}(S,K)\right]\!\right]\!\!=\!1.5801,}\\ &{P_{_{b s}}(S,H)\!=\!-S e^{-g\tau}N\!\left[-\,d_{_{1b s}}(S,H)\right]\!+\!H e^{-\tau}N\!\left[-\,d_{_{b s}}(S,H)\right]\!\!=\!2.4896}\end{array}
-$$$$
+$\$$$
 C_{b s}\!\left(\frac{H^{2}}{S},\operatorname*{max}(H,K)\right)\!=\!\!\left(\frac{95^{2}}{100}\right)\!e^{o.03x0.5}N\!\!\left[d_{1b s}\!\left(\frac{95^{2}}{100},\!95\right)\right]
 $$
 $$
@@ -661,7 +689,7 @@ $$
 
 the price of the down-and-in barrier call option can also be incorporated in the case  when the barrier is never touched and the option pays some rebate.  (the present  value of this rebate is given above). For compact solutions for all remaining types of  barrier options can be found under Haug (1998).
 
-The value of the rebate at the option maturity can be obtained by integrating the  restricted density function below from which the down barrier  $H=L$    to infinity.
+The value of the rebate $\$a_t$$ the option maturity can be obtained by integrating the  restricted density function below from which the down barrier  $H=L$    to infinity.
 $$
 \phi(x\, | \,Y_{\tau}>b)=f(x)-\left(\frac{L}{S}\right)^{2\nu/\sigma^{2}}f(x-2b)\qquad\mathrm{for}\;x>b,
 $$
@@ -669,7 +697,7 @@ $$
 =R m(\tau)\Biggl\{N\bigl[d_{_{b s}}(S,H)\bigr]-\left(\frac{H}{S}\right)^{2\nu\tau/\sigma^{2}}N\bigl[d_{_{b s}}(H,S)\bigr]\Biggr\},
 $$
 
-The present value of the rebate is obtained by discounting (5.7) at the risk free rate  $r$  :
+The present value of the rebate is obtained by discounting (5.7) $\$a_t$$ the risk free rate  $r$  :
 $$
 R B D I=e^{-r\tau}R m(\tau)\Biggl\{N\bigl[d_{_{b s}}(S,H)\bigr]-\left(\frac{H}{S}\right)^{2\nu\tau/\sigma^{2}}N\bigl[d_{_{b s}}(H,S)\bigr]\Biggr\},
 $$
@@ -677,11 +705,10 @@ $$
 RBDI is the present value of the rebate for down-and-in call option.
 The price of down-and-in call option (PDIC) can now be expressed using (5.6) and  (5.8):
 
-#  $P D I C=D I N C\quad+\quad R B D I$
-
+# $P D I C=D I N C\quad+\quad R B D I$
 Where RBDI and DINC are given in equations (5.6) and (5.8) respectively.
 
-To find the present value of the rebate when the rebate is paid £1.5 at maturity if the  barrier is not touched within the live of the call option from the numerical example  above, substituting
+To find the present value of the rebate when the rebate is paid £1.5 $\$a_t$$ maturity if the  barrier is not touched within the live of the call option from the numerical example  above, substituting
 $\mathrm{Rm}(0.5)=1.5$  ,   $\mathrm{S}=£100$  ,  $\mathrm{H}=£95$  , sigma  $=0.20$  ,   $\mathrm{r}=0.08$  ,  $\mathbf{g}=0.03$  , and  $\mathbf{t}=0.50$    Into equation (5.8) yields
 $$
 d_{_{b s}}\left(H,S\right)\!=\!\frac{\ln(S\,/\,H)+\nu\tau}{\sigma\sqrt{\tau}}\!=\!\frac{\ln(100\,/\,95)+0.03x0.5}{0.20\sqrt{0.50}}\!=\!0.4688,
@@ -693,14 +720,14 @@ $$
 R B D I=1.5e^{-0.08x0.05}\left\{N\big[0.4688\big]-\left(\frac{95}{100}\right)^{2x0.03/0.2^{2}}N\big[-0.2566\big]\right\}=£0.449
 $$
 
-we can now find the price of the down-and-in call option when the rebate is paid £1.5  at maturity if the barrier is not touched within the live of the option
+we can now find the price of the down-and-in call option when the rebate is paid £1.5  $\$a_t$$ maturity if the barrier is not touched within the live of the option
 
 The down-and-in call option price with strike price  $\mathrm{K}{=}\ 92$
 $$
 =\mathrm{DINC}(\mathrm{K}=92)+\mathrm{RBDI}\ =\ 4.862\ \ +\ 0.449\ \ =£5.312
 $$
 
-An important issue of pricing barrier options is whether the barrier crossing is  monitored in continues time. Most models assume continues monitoring of the  barrier. In other words, in the models a knock-in or knock-out occurs if the barrier is  reached at any instance before the maturity of the contract, mainly because this leads  to analytical solutions;  see for example Merton (1973), Heynen & Kat  (1994a,1994b) and kunitomo & Ikeda (1992) for various formulae for continuously  monitored barrier options under the classical Brownian motion framework; see Kou  & Wang (2001) for continuously monitored barrier options under a jump diffusion  framework.
+An important issue of pricing barrier options is whether the barrier crossing is  monitored in continues time. Most models assume continues monitoring of the  barrier. In other words, in the models a knock-in or knock-out occurs if the barrier is  reached $\$a_t$$ any instance before the maturity of the contract, mainly because this leads  to analytical solutions;  see for example Merton (1973), Heynen & Kat  (1994a,1994b) and kunitomo & Ikeda (1992) for various formulae for continuously  monitored barrier options under the classical Brownian motion framework; see Kou  & Wang (2001) for continuously monitored barrier options under a jump diffusion  framework.
 
 However in practice most, if not all, barrier options traded in markets are discretely  monitored. In other words, they specify fixed times for monitoring of the barrier  (typically daily closings).
 Besides practical implementation issues, there are some legal and financial reasons  why discretely monitored barrier options are preferred to continuously monitored  barrier options.  For example, some discussions in trader's literature ("Derivatives  Week", may   $29^{\mathrm{th}}$  , 1995) voice concern that, when the monitoring is continuous,  extraneous barrier breach may occur in less liquid markets while the major western  markets are closed, and may lead to certain arbitrage opportunities.
@@ -710,7 +737,6 @@ Although discretely monitored barrier options are popular and important, pricing
 To give a feel for the accuracy of these models, see Table 1.1. This is reproduced  with permission from Brodie, Glasserman and Kou (1997). The numerical results  shown in Table 1.1 suggest that, even for daily monitored discrete barrier options,  there can still be big differences between the discrete prices and the continuous  prices.
 
 # Table 1.1
-
 Up-and-out Call option price results, with   $m=50$   (daily monitoring) and following  parameters:
 $\begin{array}{l}{\mathrm{S}(0)=110}\\ {\mathrm{K}=100}\end{array}$  S(0) = 110
 
@@ -722,7 +748,6 @@ $\begin{array}{l}{\mathrm{S}(0)=110}\\ {\mathrm{K}=100}\end{array}$  S(0) = 110
 
  !500
 # References
-
 Broadie, M., Glasserman, P. and Kou, S G. (1997), “A continuous correction for  discrete barrier options”,  Math. Finance   7 , pp. 325-349
 
 Broadie, M., Glasserman, P. and Kou, S G. (1999), “Connecting discrete and  continuous path-dependant options”,  Finan. Stochastic s  3, pp. 55-82.   Espen G. Haug., (1997),  The complete guide to Option pricing , McGraw-Hill

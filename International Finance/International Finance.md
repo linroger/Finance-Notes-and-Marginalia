@@ -1,43 +1,74 @@
 ---
 cssclasses:
-  - academia
+- academia
 title: International Finance
-tags:
-  - currency_risk
-  - exchange_rates
-  - international_finance
-  - international_investments
-  - balance_of_payments
-  - foreign_exchange_markets
-  - international_capital_flows
-  - exchange_rate_policy
-  - international_monetary_system
-  - global_financial_crisis
-  - currency_hedging
-  - international_trade
+- balance_of_payments
+- currency_hedging
+- currency_risk
+- exchange_rate_policy
+- exchange_rates
+- foreign_exchange_markets
+- global_financial_crisis
+- international_capital_flows
+- international_finance
+- international_investments
+- international_monetary_system
+- international_trade
 aliases:
-  - Intl Finance
-  - International Financial Markets
-  - Global Finance
-  - International Money and Finance
-key_concepts:
-  - Currency exchange risk
-  - Exchange rate determination
-  - Global financial markets
-  - International capital flows
-  - International trade
-  - Balance of payments accounting
-  - Foreign exchange market structure
-  - Interest rate parity conditions
-  - Eurocurrency markets
-  - International reserve management
-  - Financial globalization
-  - Exchange rate regimes
-  - International financial crises
-  - Currency speculation
-  - Global imbalances
+- Intl Finance
+- International Financial Markets
+- Global Finance
+- International Money and Finance
+- Financial theory and academic research
+- International finance and global markets
 linter-yaml-title-alias: International Finance
+last_enhanced: '2025-11-06 08:42:51'
+tags:
+- asian
+- cross-border
+- currency
+- financial-markets
+- graduate-level
+- institutional-quality
+- mathematical-finance
+- professional-standard
+- provision
+- quantitative-methods
+
+key_concepts:
+- Banking and Financial Intermediation
+- Banking and Intermediation
+- Credit Risk Assessment
+- Derivative Securities
+- Financial Crisis Analysis
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Financial Regulation and Compliance
+- Institutional-Quality Financial Education
+- Liquidity and Market Structure
+- Market Trading and Hedging
+- Quantitative Finance Methods
+- Quantitative Methods in Finance
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # International Finance
 

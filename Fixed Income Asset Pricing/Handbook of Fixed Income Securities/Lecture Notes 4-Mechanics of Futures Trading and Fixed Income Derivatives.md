@@ -2,23 +2,67 @@
 title: '# Lecture Notes 4-Mechanics of Futures Trading and Fixed Income Derivatives'
 cssclasses: academia
 tags:
-  - derivatives
-  - fixed_income
-  - futures_trading
-  - limit_orders
-  - market_orders
-  - stop_orders
+- american-options
+- arbitrage
+- banking
+- basis-risk
+- black-scholes-model
+- bond-convexity
+- bond-durability
+- caps-floors
+- cdo
+- cmo
+- convexity
+- corporate-bonds
+- credit-default-swaps
+- credit-derivatives
+- credit-rating
+- credit-risk
+- credit-spreads
+- currency-derivatives
+- default-probability
+- delta-gamma-vega
 aliases:
-  - Futures and Derivatives
-  - Lecture 4
-  - Trading Mechanics
+- Futures and Derivatives
+- Lecture 4
+- Trading Mechanics
 key_concepts:
-  - Exchange-traded futures options
-  - Futures trading mechanics
-  - Long and short positions
-  - Managing interest rate risk
-  - Types of futures orders
+- Black-Scholes option pricing model and its applications
+- Delta hedging strategies in options markets
+- Duration and interest rate risk measurement
+- Convexity adjustments in fixed income
+- Yield curve modeling and term structure analysis
+- Forward rate calculations and forward curve construction
+- Credit default swaps and credit risk transfer
+- Credit default swap pricing and spreads
+- Mortgage-backed securities and prepayment modeling
+- Arbitrage opportunities and relative value trading
+- Model calibration and parameter estimation
+- Risk-neutral pricing and martingale measures
+- Term structure of interest rates and yield curves
+- 'Reference rates: SOFR, LIBOR, and rate transitions'
+- Futures contracts and forward pricing
+- Interest rate swaps and swap curve construction
+- Credit spreads and credit risk assessment
+- Financial theory and academic research
+- Practical examples and implementation
+- Derivatives and structured financial instruments
+- Trading strategies and market implementation
+- Risk management techniques and best practices
+- Financial regulation and compliance requirements
+- Investment analysis and portfolio management
+- Financial valuation and pricing methodologies
+- Fixed income securities and bond markets
+- Equity markets and stock valuation
+- International finance and global markets
+- Financial crises and market stress events
+- 'Financial market regulations: MiFID and Dodd-Frank'
+last_enhanced: '2025-11-06 08:42:40'
 ---
+
+
+
+
 
 # # Lecture Notes 4-Mechanics of Futures Trading and Fixed Income Derivatives
 

@@ -1,41 +1,96 @@
 ---
-cssclasses: ["academia"]
+cssclasses:
+- academia
 title: Macroeconomic Models of Business Cycles
 linter-yaml-title-alias: Macroeconomic Models of Business Cycles
-tags:
-  - aggregate_demand
-  - business_cycles
-  - is_curve
-  - macroeconomic_models
-  - real_interest_rate
-  - consumption_theory
-  - life_cycle_hypothesis
-  - permanent_income_hypothesis
-  - fiscal_policy
-  - monetary_policy
-  - stabilization_policy
+- aggregate_demand
+- asset-pricing
+- banking
+- business_cycles
+- consumption_theory
+- fiscal_policy
+- futures-contracts
+- interest-rates
+- is_curve
+- life_cycle_hypothesis
+- macroeconomic_models
+- market-structure
+- monetary_policy
+- permanent_income_hypothesis
+- real_interest_rate
+- stabilization_policy
 aliases:
-  - IS curve
-  - business cycle models
-  - consumption smoothing
-  - Aggregate Demand Models
-  - Macroeconomic Stabilization
+- IS curve
+- business cycle models
+- consumption smoothing
+- Aggregate Demand Models
+- Macroeconomic Stabilization
+- Futures contracts and forward pricing
+- Practical examples and implementation
+- Investment analysis and portfolio management
+- Fixed income securities and bond markets
+- Basel regulations and banking capital requirements
+- Mathematical and statistical modeling in finance
+last_enhanced: '2025-11-06 08:42:47'
+tags:
+- banking
+- basel
+- basis
+- bond
+- credit-curve
+- cross-border
+- derivatives
+- econometric
+- equity
+- fixed-income
+- graduate-level
+- institutional-quality
+- liquidity
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-analysis
+- quantitative-methods
+- sec-regulation
+- securitization
+- sovereign
+- statistical-model
+
 key_concepts:
-  - aggregate demand
-  - consumer durables
-  - consumption smoothing
-  - ex ante real interest
-  - real interest rate
-  - IS curve derivation
-  - life-cycle hypothesis
-  - permanent income hypothesis
-  - marginal propensity to consume
-  - wealth effects
-  - time preference
-  - capital market imperfections
-  - borrowing constraints
-  - policy effectiveness
+- Banking and Financial Intermediation
+- Econometric Analysis
+- Financial Econometrics
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Institutional-Quality Financial Education
+- Mathematical Finance Applications
+- Mathematical Modeling
+- Quantitative Analysis in Finance
+- Quantitative Methods in Finance
+- Quantitative Risk Management
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+- Statistical Finance
+- Statistical Modeling
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # Macroeconomic Models of Business Cycles
 

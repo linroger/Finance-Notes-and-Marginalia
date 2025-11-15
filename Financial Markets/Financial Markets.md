@@ -1,3 +1,108 @@
+---
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Black-Scholes-Merton option pricing model
+- Greeks calculation and interpretation
+- Volatility surface and smile
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Arbitrage principles and opportunities
+- Relative value trading
+- Law of one price enforcement
+- Market structure and trading
+- Order types and execution
+- Market making and liquidity provision
+- Financial Markets and financial analysis
+- Financial Markets in modern finance
+- Applications of Financial Markets
+- 'Case study: Financial Markets'
+last_enhanced: '2025-11-06 08:42:34'
+- forward
+- pricing
+- black-scholes
+- greeks
+- option-pricing
+- arbitrage-free
+- liquidity
+- risk
+- volatility-smile
+- hedging
+- arbitrage
+- futures
+- basis
+- trading
+- volatility
+tags:
+- arbitrage
+- bankruptcy
+- basis
+- bid-ask
+- bond
+- case-study
+- crisis-analysis
+- currency
+- derivative-pricing
+- derivatives
+- duration
+- empirical-analysis
+- fixed-income
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- liquidity
+- market-efficiency
+- market-making
+- mathematical-finance
+- monetary-policy
+- moral-hazard
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- sec-regulation
+- securitization
+- sovereign
+- volatility
+- yield-curve
+
+key_concepts:
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
+---
+
+
+
+
+
+
+
 %% Begin Waypoint %%
 - **Financial Markets**
 	- **Financial Asset Pricing Theory Overview**

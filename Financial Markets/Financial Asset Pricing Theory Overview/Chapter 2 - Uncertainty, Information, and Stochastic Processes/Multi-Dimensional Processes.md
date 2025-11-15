@@ -1,31 +1,102 @@
 ---
-tags:
-  - asset_pricing
-  - brownian_motion
-  - continuous_time
-  - correlation
-  - covariance
-  - discrete_time
-  - exogenous_shocks
-  - ito_process
-  - multi_dimensional_processes
-  - stochastic_processes
 aliases:
-  - Multi-dimensional analysis
-  - Multi-dimensional models
-  - Multi-process models
+- Multi-dimensional analysis
+- Multi-dimensional models
+- Multi-process models
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Financial econometrics and regression
+- Time series analysis in finance
+- Volatility modeling (GARCH)
+- Monte Carlo simulation methods
+- Stochastic processes in finance
+- Path-dependent derivatives pricing
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Multi-Dimensional Processes and financial analysis
+- Multi-Dimensional Processes in modern finance
+- Applications of Multi-Dimensional Processes
+- 'Case study: Multi-Dimensional Processes'
+last_enhanced: '2025-11-06 08:42:31'
+- probabilistic
+- irs
+- correlation
+- call
+- options
+- gamma
+- risk-management
+- delta
+- regression
+- stochastic
+- put
+- volatility
+- var
+- monte-carlo
+- swaps
+tags:
+- basis
+- case-study
+- crisis-analysis
+- currency
+- derivative-pricing
+- derivatives
+- empirical-analysis
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- sovereign
+- stress-test
+- var
+- volatility
+
 key_concepts:
-  - Asset pricing models
-  - Brownian motion
-  - Continuous-time model
-  - Covariances and correlations
-  - Discrete-time model
-  - Exogenous shocks
-  - Instantaneous correlation
-  - Ito processes
-  - Multi-dimensional processes
-  - Two-dimensional processes
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 2.7 Multi-dimensional processes  
 

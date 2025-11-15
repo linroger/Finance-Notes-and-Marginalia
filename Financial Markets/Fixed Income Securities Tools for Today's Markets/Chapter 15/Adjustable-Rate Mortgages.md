@@ -1,23 +1,117 @@
 ---
-tags:
-  - adjustable_rate_mortgages
-  - arm_features
-  - hybrid_arm
-  - interest_rate_risk
-  - mortgage_rates
 aliases:
-  - ARM
-  - ARMs
-  - Adjustable Rate Mortgages
-  - Hybrid ARM
+- ARM
+- ARMs
+- Adjustable Rate Mortgages
+- Hybrid ARM
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Adjustable-Rate Mortgages and financial analysis
+- Adjustable-Rate Mortgages in modern finance
+- Applications of Adjustable-Rate Mortgages
+- 'Case study: Adjustable-Rate Mortgages'
+last_enhanced: '2025-11-06 08:42:35'
+- options
+- treasury
+- call
+- leverage
+- default
+- cds
+- fixed-income
+- put
+- irs
+- risk
+- bond
+- bonds
+- swaps
+- maturity
+tags:
+- banking
+- basis
+- bid-ask
+- bond
+- case-study
+- collateral
+- counterparty
+- credit-market
+- crisis-analysis
+- currency
+- default
+- derivative-pricing
+- derivatives
+- duration
+- empirical-analysis
+- equity
+- financial-crisis
+- fixed-income
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- leverage
+- margin-call
+- mathematical-finance
+- mbs
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- rmbs
+- sec-regulation
+- securitization
+- spread
+- stress-test
+- treasury
+- yield-curve
+
 key_concepts:
-  - 5/1 hybrid ARM
-  - Adjustable mortgage interest rate
-  - Cap structure limits
-  - Homeowners interest rate risk
-  - Lower initial interest rates
-  - Mortgage rate reset
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # 15.3 ADJUSTABLE-RATE MORTGAGES  
 

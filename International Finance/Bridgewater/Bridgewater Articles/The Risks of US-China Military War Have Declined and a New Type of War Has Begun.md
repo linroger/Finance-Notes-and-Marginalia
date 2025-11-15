@@ -1,4 +1,14 @@
 ---
+tags: []
+key_concepts:
+- Practical examples and implementation
+- International finance and global markets
+last_enhanced: '2025-11-06 08:42:40'
+---
+
+
+
+---
 title: The Risks of US-China Military War Have Declined and a New Type of War Has
 Begun | LinkedIn
 source: 

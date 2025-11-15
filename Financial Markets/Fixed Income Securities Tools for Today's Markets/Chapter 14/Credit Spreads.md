@@ -1,21 +1,125 @@
 ---
-tags:
-  - asset_swap
-  - bond_spread
-  - credit_spreads
-  - oas
-  - yield_spread
 aliases:
-  - Bond Spread
-  - Credit Spreads
-  - OAS
+- Bond Spread
+- Credit Spreads
+- OAS
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Credit Spreads and financial analysis
+- Credit Spreads in modern finance
+- Applications of Credit Spreads
+- 'Case study: Credit Spreads'
+last_enhanced: '2025-11-06 08:42:35'
+- credit-risk
+- coupon
+- default
+- yield
+- fixed-income
+- corporate-bond
+- cds
+- irs
+- bond
+- credit-spread
+- bonds
+- spread
+- swap
+- liquidity
+- swaps
+tags:
+- bankruptcy
+- basis
+- bid-ask
+- bond
+- case-study
+- collateral
+- corporate-bond
+- counterparty
+- credit-curve
+- credit-market
+- crisis-analysis
+- currency
+- default
+- derivatives
+- duration
+- econometric
+- empirical-analysis
+- fixed-income
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- liquidity
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-analysis
+- quantitative-methods
+- real-world-example
+- repo
+- sec-regulation
+- securitization
+- sovereign
+- spread
+- statistical-model
+- stress-test
+- tail-risk
+- treasury
+- yield-curve
+
 key_concepts:
-  - asset swap spreads
-  - bond cash flows
-  - credit risk
-  - embedded options
-  - yield spread
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Econometric Analysis
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Econometrics
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Mathematical Finance Applications
+- Mathematical Modeling
+- Quantitative Analysis in Finance
+- Quantitative Methods in Finance
+- Quantitative Risk Management
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Statistical Finance
+- Statistical Modeling
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # 14.3 CREDIT SPREADS  
 

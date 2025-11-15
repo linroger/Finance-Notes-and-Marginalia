@@ -1,23 +1,112 @@
 ---
-tags:
-  - fixed_swap_rate
-  - interest_rate_swaps
-  - notional_amount
-  - sofr_swap
-  - term_structure
 aliases:
-  - IRS
-  - SOFR
-  - SONIA
-  - Swap
-  - TONAR
+- IRS
+- SOFR
+- SONIA
+- Swap
+- TONAR
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Credit analysis and rating
+- Default probability modeling
+- Loss given default estimation
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Interest Rate Swaps and financial analysis
+- Interest Rate Swaps in modern finance
+- Applications of Interest Rate Swaps
+- 'Case study: Interest Rate Swaps'
+last_enhanced: '2025-11-06 08:42:36'
+- options
+- credit-risk
+- treasury
+- call
+- counterparty
+- sofr
+- put
+- interest-rate
+- irs
+- collateral
+- bond
+- bonds
+- swap
+- interest-rates
+- libor
+tags:
+- basis
+- bond
+- case-study
+- collateral
+- counterparty
+- credit-curve
+- crisis-analysis
+- currency
+- default
+- derivative-pricing
+- derivatives
+- duration
+- empirical-analysis
+- european
+- fixed-income
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- sec-regulation
+- securitization
+- sovereign
+- stress-test
+- treasury
+- yield-curve
+
 key_concepts:
-  - Fixed swap rate
-  - Interest rate swap
-  - Notional amount
-  - SOFR swap payments
-  - Term structure currencies
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # 2.2 INTEREST RATE SWAPS  
 

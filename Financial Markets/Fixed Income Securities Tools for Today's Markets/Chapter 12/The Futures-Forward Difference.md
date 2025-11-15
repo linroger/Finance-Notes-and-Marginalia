@@ -1,22 +1,111 @@
 ---
-tags:
-  - daily_settlement
-  - forward_agreement
-  - futures_contract
-  - futures_forward_difference
-  - interest_rates
-  - market_rates
 aliases:
-  - Forward Rates vs Futures Rates
-  - Futures vs. Forwards
-  - Futures-Forward
+- Forward Rates vs Futures Rates
+- Futures vs. Forwards
+- Futures-Forward
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Yield curve construction and modeling
+- Forward rate calculations
+- Spot and discount factors
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- The Futures-Forward Difference and financial analysis
+- The Futures-Forward Difference in modern finance
+- Applications of The Futures-Forward Difference
+- 'Case study: The Futures-Forward Difference'
+last_enhanced: '2025-11-06 08:42:35'
+- options
+- basis-swap
+- forward
+- term-structure
+- call
+- swaption
+- sofr
+- basis
+- interest-rate
+- irs
+- futures
+- swap
+- interest-rates
+- libor
+- fed-funds
+tags:
+- arbitrage
+- basis
+- bond
+- case-study
+- collateral
+- counterparty
+- credit-curve
+- credit-market
+- crisis-analysis
+- currency
+- derivative-pricing
+- derivatives
+- dodd-frank
+- empirical-analysis
+- finra
+- fixed-income
+- graduate-level
+- hedging
+- income-statement
+- institutional-quality
+- learning-from-crisis
+- margin-call
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- sec-regulation
+- securitization
+- volatility
+- yield-curve
+
 key_concepts:
-  - Daily settlement impact
-  - Futures contract P&L
-  - Futures rates exceed forward rates
-  - One-factor term structure model
-  - Volatility and time
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # 12.6 THE FUTURES-FORWARD DIFFERENCE  
 

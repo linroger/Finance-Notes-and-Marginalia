@@ -1,24 +1,125 @@
 ---
-tags:
-  - bank_loans
-  - commercial_paper
-  - corporate_bonds
-  - corporate_loans
-  - floating_rate
-  - mtns
 aliases:
-  - Bond Markets
-  - Corporate Debt
-  - Debt Instruments
+- Bond Markets
+- Corporate Debt
+- Debt Instruments
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Mortgage-backed securities structure
+- Prepayment modeling and analysis
+- Securitization and CDO structures
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Corporate Bonds and Loans and financial analysis
+- Corporate Bonds and Loans in modern finance
+- Applications of Corporate Bonds and Loans
+- 'Case study: Corporate Bonds and Loans'
+last_enhanced: '2025-11-06 08:42:35'
+- options
+- bankruptcy
+- treasury
+- call
+- tranche
+- coupon
+- yield
+- fixed-income
+- corporate-bond
+- mbs
+- bond
+- bonds
+- spread
+- liquidity
+- maturity
+tags:
+- bank-failure
+- banking
+- bankruptcy
+- basis
+- bid-ask
+- bond
+- case-study
+- cdo
+- central-bank
+- collateral
+- commercial-paper
+- corporate-bond
+- counterparty
+- credit-market
+- credit-rating
+- crisis-analysis
+- default
+- derivative-pricing
+- derivatives
+- duration
+- empirical-analysis
+- equity
+- fixed-income
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- leverage
+- liquidity
+- mathematical-finance
+- mbs
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- repo
+- roe
+- sec-regulation
+- securitization
+- spread
+- stress-test
+- tranche
+- treasury
+- volatility
+- yield-curve
+
 key_concepts:
-  - Bank loan features
-  - Commercial paper (CP)
-  - Corporate bond characteristics
-  - Corporate borrowing methods
-  - Floating-rate notes (FRNs)
-  - Medium-term notes (MTNs)
-  - Private placement bonds
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # 14.1 CORPORATE BONDS AND LOANS  
 

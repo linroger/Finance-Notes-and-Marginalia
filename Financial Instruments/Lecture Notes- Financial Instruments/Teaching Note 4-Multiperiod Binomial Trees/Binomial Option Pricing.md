@@ -2,20 +2,79 @@
 linter-yaml-title-alias: Binomial Option Pricing
 title: Binomial Option Pricing
 tags:
-  - american_option
-  - binomial_model
-  - european_option
-  - option_pricing
-  - stock_option
+- alpha
+- american
+- american_option
+- binomial
+- binomial_model
+- black-scholes
+- bond
+- call
+- dcf
+- defi
+- dividend-yield
+- european
+- european_option
+- forward
+- future
+- greeks
+- interest-rate
+- monte-carlo
+- multiple
+- option
+- option_pricing
+- put
+- risk-free-rate
+- stock
+- stock_option
+- treasury
+- var
+- vol-smile
 aliases:
-  - Binomial Pricing
-  - CRR model
+- Binomial Pricing
+- CRR model
 key_concepts:
-  - Binomial option pricing model
-  - European and American options
-  - Market maker synthetic options
-  - No-arbitrage option price
-  - Underlying asset price movement
+- American options valuation
+- Backtesting VaR models
+- Backward induction algorithm
+- Binomial option pricing model
+- Convergence to Black-Scholes
+- Cox-Ross-Rubinstein framework
+- Delta risk management
+- Derivative securities
+- Discounted Cash Flow valuation
+- Dynamic hedging strategies
+- Enterprise value estimation
+- European and American options
+- Expected Shortfall calculation
+- Financial risk management
+- Free cash flow modeling
+- Gamma effects on options
+- Gordon growth model
+- Historical simulation VaR
+- Lattice methods for derivatives
+- Market maker synthetic options
+- Monte Carlo VaR
+- Multi-period binomial tree
+- Multi-stage DCF models
+- No-arbitrage option price
+- Options Greeks measurement
+- Parametric VaR models
+- Portfolio optimization
+- Portfolio risk hedging
+- Quantitative financial analysis
+- Regulatory VaR requirements
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Risk-neutral probability
+- Terminal value calculation
+- Theta time decay
+- Underlying asset price movement
+- VaR model validation
+- Value at Risk (VaR) methodology
+- Vega volatility sensitivity
+- WACC calculation
+- Weighted Average Cost of Capital
 ---
 
 - **Binomial Trees]]**

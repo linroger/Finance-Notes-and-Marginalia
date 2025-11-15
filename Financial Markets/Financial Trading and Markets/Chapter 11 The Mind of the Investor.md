@@ -1,20 +1,158 @@
 ---
-tags:
-  - behavioral_finance
-  - day_traders
-  - investor_behavior
-  - market_efficiency
-  - rational_investor
 aliases:
-  - Investor's Mind
-  - Rationality in Investing
+- Investor's Mind
+- Rationality in Investing
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Market structure and trading
+- Order types and execution
+- Market making and liquidity provision
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- Chapter 11 The Mind of the Investor and financial analysis
+- Chapter 11 The Mind of the Investor in modern finance
+- Applications of Chapter 11 The Mind of the Investor
+- 'Case study: Chapter 11 The Mind of the Investor'
+last_enhanced: '2025-11-06 08:42:34'
+- pricing
+- ratio
+- statement
+- options
+- call
+- put
+- liquidity
+- swaps
+- irs
+- market-maker
+- gamma
+- portfolio
+- spread
+- portfolio-optimization
+- trading
+tags:
+- asian
+- asian-crisis
+- austerity
+- bank-failure
+- banking
+- bankruptcy
+- basis
+- bid-ask
+- bond
+- case-study
+- cash-flow
+- central-bank
+- crisis-analysis
+- cross-border
+- currency
+- derivative-pricing
+- derivatives
+- duration
+- econometric
+- empirical-analysis
+- equity
+- european
+- european-debt-crisis
+- eurozone
+- financial-regulation
+- governance
+- graduate-level
+- grexit
+- hedging
+- impairment
+- institutional-quality
+- learning-from-crisis
+- liquidity
+- market-efficiency
+- market-making
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-analysis
+- quantitative-methods
+- real-world-example
+- regulatory-compliance
+- reporting-requirement
+- robo-advisor
+- sec-regulation
+- securitization
+- sovereign
+- sovereign-debt
+- spread
+- statistical-model
+- stress-test
+- supervision
+- treasury
+- volatility
+- write-off
+
 key_concepts:
-  - Day traders' performance
-  - Efficient market theories
-  - Investor IQ and success
-  - Rational investor paradigms
-  - Rationality assumption in models
+- Austerity Measures
+- Bank Supervision
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Compliance Management
+- Corporate Governance
+- Crisis Case Study Design
+- Currency Union Risks
+- Econometric Analysis
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- European Debt Crisis
+- European Integration
+- Eurozone Crisis Management
+- Financial Crisis Case Studies
+- Financial Econometrics
+- Financial Markets and Institutions
+- Financial Regulation
+- Fiscal Integration
+- Governance Standards
+- Greek Debt Crisis
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Mathematical Finance Applications
+- Mathematical Modeling
+- Quantitative Analysis in Finance
+- Quantitative Methods in Finance
+- Quantitative Risk Management
+- Real-World Financial Examples
+- Regulatory Compliance
+- Regulatory Framework
+- Regulatory Risk
+- Risk Management and Hedging Strategies
+- Sovereign Debt Restructuring
+- Statistical Finance
+- Statistical Modeling
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # The Mind of the Investor  
 

@@ -1,30 +1,32 @@
 ---
-cssclasses:
-  - academia
-title: "Class Note 5A: Coercive Exchange Offers and Exit Consents"
-tags:
-  - bondholders
-  - coercive_exchange_offers
-  - covenant_changes
-  - exit_consents
-  - trust_indenture_act
-  - debt_restructuring
-  - consent_payments
-  - seniority
 aliases:
-  - Coercive and Exit Consents
-  - Consent Payment
-  - Exit Consent Vote
-  - Class Note 5A
+- Coercive and Exit Consents
+- Consent Payment
+- Exit Consent Vote
+- Class Note 5A
+cssclasses:
+- academia
 key_concepts:
-  - Change in covenants
-  - Coercive exchange offers
-  - Consent payment
-  - Exit consent vote
-  - New bond exchange
-  - Trust Indenture Act implications
-  - Seniority changes
-  - Collective action problems
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Class Note 5A Coercive Exchange Offers and Exit Consents and financial analysis
+- Class Note 5A Coercive Exchange Offers and Exit Consents in modern finance
+- Applications of Class Note 5A Coercive Exchange Offers and Exit Consents
+- 'Case study: Class Note 5A Coercive Exchange Offers and Exit Consents'
+tags:
+- call
+- fixed-income
+- bond
+- options
+- bonds
+title: 'Class Note 5A: Coercive Exchange Offers and Exit Consents'
 ---
 
 # Class Note 5A: Coercive Exchange Offers and Exit Consents

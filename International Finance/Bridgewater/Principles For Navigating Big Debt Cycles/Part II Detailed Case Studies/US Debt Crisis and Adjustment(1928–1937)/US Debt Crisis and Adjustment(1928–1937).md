@@ -1,3 +1,161 @@
+---
+- banking
+- bond-durability
+- caps-floors
+- corporate-bonds
+- credit-risk
+- financial-regulation
+- forward-contracts
+- futures-contracts
+- government-bonds
+- interest-rates
+- market-structure
+- municipal-bonds
+- options-greeks
+- portfolio-management
+- trading-strategies
+- yield-curve
+- Duration and interest rate risk measurement
+- Yield curve modeling and term structure analysis
+- Futures contracts and forward pricing
+- Financial theory and academic research
+- Practical examples and implementation
+- Trading strategies and market implementation
+- Financial regulation and compliance requirements
+- Investment analysis and portfolio management
+- Financial valuation and pricing methodologies
+- Fixed income securities and bond markets
+- Equity markets and stock valuation
+- International finance and global markets
+- Monetary policy and central banking
+- Financial crises and market stress events
+last_enhanced: '2025-11-06 08:42:46'
+tags:
+- asian
+- austerity
+- balance-sheet
+- bank-bailout
+- bank-failure
+- bank-run
+- banking
+- bankruptcy
+- basis
+- bid-ask
+- bond
+- capital-flow
+- central-bank
+- cftc
+- collateral
+- commercial-paper
+- commodity
+- contagion
+- counterparty
+- credit-curve
+- credit-market
+- credit-rating
+- crisis-2008
+- cross-border
+- currency
+- default
+- deposit-insurance
+- derivatives
+- devaluation
+- duration
+- econometric
+- equity
+- european
+- european-debt-crisis
+- eurozone
+- fdic
+- financial-crisis
+- financial-regulation
+- finra
+- fire-sale
+- fixed-income
+- flash-crash
+- governance
+- graduate-level
+- grexit
+- impairment
+- institutional-quality
+- lender-of-last-resort
+- leverage
+- liquidity
+- liquidity-crisis
+- margin-call
+- mathematical-finance
+- monetary-policy
+- money-market
+- moral-hazard
+- pegging
+- professional-standard
+- provision
+- quantitative-analysis
+- quantitative-easing
+- quantitative-methods
+- regulatory-compliance
+- reporting-requirement
+- restructuring
+- sec-regulation
+- securitization
+- shadow-banking
+- sovereign
+- sovereign-debt
+- spread
+- statistical-model
+- supervision
+- tail-risk
+- treasury
+- volatility
+- yield-curve
+
+key_concepts:
+- Austerity Measures
+- Bank Supervision
+- Banking and Financial Intermediation
+- Compliance Management
+- Corporate Governance
+- Currency Union Risks
+- Econometric Analysis
+- European Debt Crisis
+- European Integration
+- Eurozone Crisis Management
+- Financial Econometrics
+- Financial Markets and Institutions
+- Financial Regulation
+- Fiscal Integration
+- Governance Standards
+- Greek Debt Crisis
+- Institutional-Quality Financial Education
+- Mathematical Finance Applications
+- Mathematical Modeling
+- Quantitative Analysis in Finance
+- Quantitative Methods in Finance
+- Quantitative Risk Management
+- Regulatory Compliance
+- Regulatory Framework
+- Regulatory Risk
+- Risk Management and Hedging Strategies
+- Sovereign Debt Restructuring
+- Statistical Finance
+- Statistical Modeling
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
+---
+
+
+
+
+
 # **US Debt Crisis and Adjustment (1928–1937)**
 
 This section gives a detailed account of the big US debt cycle of the 1920s and 1930s, including the Great Depression, which is probably the most iconic case of a deflationary deleveraging. It takes you through the particulars of the case with reference to the template laid out earlier in the "Archetypal Big Debt Cycle." Though the Great Depression happened nearly a century ago, its dynamic was basically the same as what occurred in and around 2008. As with the other cases in this part, I both describe the timeline (which in this case is based on the library of books I've amassed on the Great Depression over the years rather than my personal experience trading through it) and provide a real-time "newsfeed" drawn from newspaper headlines and what the Federal Reserve was saying at the time that runs along the sides of the pages.

@@ -1,21 +1,109 @@
 ---
-tags:
-  - consumption_process
-  - discrete_time_framework
-  - habit_formation
-  - state_price_deflator
-  - time_additive_utility
 aliases:
-  - Discrete Time Framework
-  - Habit Formation Utility
-  - Time Additive Utility
+- Discrete Time Framework
+- Habit Formation Utility
+- Time Additive Utility
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Efficient market hypothesis
+- Market anomalies and patterns
+- Price discovery and information
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Mathematical optimization in finance
+- Portfolio optimization techniques
+- Linear and quadratic programming
+- The Discrete-Time Framework and financial analysis
+- The Discrete-Time Framework in modern finance
+- Applications of The Discrete-Time Framework
+- 'Case study: The Discrete-Time Framework'
+last_enhanced: '2025-11-06 08:42:32'
+- portfolio
+- market-efficiency
+- call
+- options
+- delta
+- risk-management
+- theta
+- constraint
+- optimization
+- var
+- beta
+- irs
+- swaps
+tags:
+- basis
+- case-study
+- crisis-analysis
+- currency
+- derivative-pricing
+- derivatives
+- econometric
+- empirical-analysis
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- market-efficiency
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-analysis
+- quantitative-methods
+- real-world-example
+- sovereign
+- statistical-model
+- stress-test
+- var
+
 key_concepts:
-  - Consumption process choice
-  - Habit level at time
-  - Non-additive preference specification
-  - State-price deflator definition
-  - Time-additive expected utility
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Econometric Analysis
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Econometrics
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Mathematical Finance Applications
+- Mathematical Modeling
+- Quantitative Analysis in Finance
+- Quantitative Methods in Finance
+- Quantitative Risk Management
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Statistical Finance
+- Statistical Modeling
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 6.3 The discrete-time framework  
 

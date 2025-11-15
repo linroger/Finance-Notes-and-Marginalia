@@ -1,32 +1,57 @@
 ---
 title: American Option Pricing with QuantLib and Python
 tags:
-  - american_option_pricing
-  - binomial_tree
-  - european_option
-  - python
-  - quantlib
+- alpha
+- american
+- american_option_pricing
+- binomial
+- binomial_tree
+- black-scholes
+- call
+- commodity
+- dividend-yield
+- european
+- european_option
+- future
+- interest-rate
+- monte-carlo
+- option
+- python
+- quantlib
+- stock
 aliases:
-  - AAPL
-  - Option Pricing
-  - QuantLib Python
+- AAPL
+- Option Pricing
+- QuantLib Python
 key_concepts:
-  - American option valuation
-  - Binomial tree approach
-  - European option pricing
-  - Option exercise type
-  - Strike price
+- American option valuation
+- American options valuation
+- Backward induction algorithm
+- Binomial option pricing model
+- Binomial tree approach
+- Convergence to Black-Scholes
+- Cox-Ross-Rubinstein framework
+- Derivative securities
+- European option pricing
+- Financial risk management
+- Lattice methods for derivatives
+- Multi-period binomial tree
+- Option exercise type
+- Portfolio optimization
+- Quantitative financial analysis
+- Risk assessment and mitigation
+- Risk-neutral probability
+- Strike price
 ---
 
 # American Options Pricing using QuantLib and Python
-
 This post explains valuing American Options using QuantLib and Python
 
 _Visit here for other QuantLib Python examples](http://gouthamanbalaraman.com/blog/quantlib-python-tutorials-with-examples.html). If you found these posts useful,  please take a minute by providing some  feedback._
 
-I wrote about pricing European options using [QuantLib](http://gouthamanbalaraman.com/blog/european-option-binomial-tree-quantlib-python.html) in an earlier post. Since then,  I have received many questions from readers on how to extend this to price American options. So here is a modified example on pricing American options using QuantLib. The idea is very similar to European Option construction. Lets take a look at the details below. In this post,  I will price both an European option and an American option side by side.
+I wrote about pricing European options using [QuantLib](http://gouthamanbalaraman.com/blog/european-option-binomial-tree-quantlib-python.html) in an earlier post. Since then,  I have received many questions from readers on how to extend this to price American options. So here is a modified example on pricing American options using QuantLib. The idea is very similar to European Option construction. Lets take a look $\$a_t$$ the details below. In this post,  I will price both an European option and an American option side by side.
 ```python
-import QuantLib as ql 
+import QuantLib as ql
 import matplotlib.pyplot as plt
 %matplotlib inline
 ql.__version__
@@ -37,6 +62,7 @@ ql.__version__
 Let us consider a European and an American call option for AAPL with a strike price of $130 maturing on 15th Jan,    2016. Let the spot price be $127.62. The volatility of the underlying stock is known to be 20%,  and has a dividend yield of 1.63%. Lets value these options as of 8th May,  2015.
 ```python
 # option data
+
 maturity_date = ql.Date(15,    1,    2016)
 spot_price = 127.62
 strike_price = 130
@@ -77,9 +103,9 @@ dividend_yield = ql.YieldTermStructureHandle(
 flat_vol_ts = ql.BlackVolTermStructureHandle(
     ql.BlackConstantVol(calculation_date,    calendar,    volatility,    day_count)
 )
-bsm_process = ql.BlackScholesMertonProcess(spot_handle,    
-                                           dividend_yield,    
-                                           flat_ts,    
+bsm_process = ql.BlackScholesMertonProcess(spot_handle,
+                                           dividend_yield,
+                                           flat_ts,
                                            flat_vol_ts)
 
 The value of the American option can be computed using a Binomial Engine using the CRR approach.
@@ -90,10 +116,10 @@ american_option.setPricingEngine(binomial_engine)
 print (american_option.NPV())
 ```
 ```python
-6.84210328728556
+6. 84210328728556
 ```
 
-For illustration purpose,  lets compare the European and American option prices using the binomial tree approach. 
+For illustration purpose,  lets compare the European and American option prices using the binomial tree approach.
 ```python
 def binomial_price(option,    bsm_process,    steps):
     binomial_engine = ql.BinomialVanillaEngine(bsm_process,    "crr",    steps)
@@ -105,6 +131,7 @@ eu_prices = [binomial_price(european_option,    bsm_process,    step) for step i
 am_prices = [binomial_price(american_option,    bsm_process,    step) for step in steps]
 
 # theoretical European option price
+
 european_option.setPricingEngine(ql.AnalyticEuropeanEngine(bsm_process))
 bs_price = european_option.NPV()
 ```

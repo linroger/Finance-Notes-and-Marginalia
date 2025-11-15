@@ -1,32 +1,161 @@
 ---
-cssclasses:
-  - academia
-title: "Pilgrim Prime Rate Trust"
-linter-yaml-title-alias: "Pilgrim Prime Rate Trust"
-tags:
-  - closed_end_fund
-  - corporate_loans
-  - participation_interests
-  - prime_rate
-  - senior_loans
-  - investment_company
-  - credit_instruments
-  - loan_participations
 aliases:
-  - Pilgrim Prime
-  - Prime Rate Trust
-  - "Pilgrim Prime Rate Fund"
+- Pilgrim Prime
+- Prime Rate Trust
+- Pilgrim Prime Rate Fund
+cssclasses:
+- academia
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Credit analysis and rating
+- Default probability modeling
+- Loss given default estimation
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Pilgrim Prime Rate Trust and financial analysis
+- Pilgrim Prime Rate Trust in modern finance
+- Applications of Pilgrim Prime Rate Trust
+- 'Case study: Pilgrim Prime Rate Trust'
+linter-yaml-title-alias: Pilgrim Prime Rate Trust
+- yield
+- call
+- treasury
+- fixed-income
+- maturity
+- bond
+- portfolio-optimization
+- portfolio
+- options
+- put
+- corporate-bond
+- bonds
+- credit-risk
+- collateral
+- duration
+title: Pilgrim Prime Rate Trust
+tags:
+- bank-failure
+- banking
+- bankruptcy
+- basis
+- bid-ask
+- bond
+- case-study
+- cash-flow
+- central-bank
+- collateral
+- commercial-paper
+- commodity
+- counterparty
+- covenant
+- credit-market
+- credit-rating
+- crisis-analysis
+- cross-border
+- currency
+- default
+- deposit-insurance
+- derivative-pricing
+- derivatives
+- duration
+- empirical-analysis
+- equity
+- facility-lending
+- fdic
+- financial-institutions
+- financial-markets
+- financial-regulation
+- fixed-income
+- governance
+- graduate-level
+- hedging
+- institutional-analysis
+- institutional-quality
+- learning-from-crisis
+- lehman
+- leverage
+- liquidity
+- liquidity-management
+- market-liquidity
+- market-structure
+- mathematical-finance
+- monetary-policy
+- money-market
+- money-markets
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- regulatory-compliance
+- repo
+- repo-markets
+- reporting-requirement
+- sec-regulation
+- securitization
+- short-term-funding
+- sovereign
+- spread
+- supervision
+- tranche
+- treasury
+- yield-curve
+
 key_concepts:
-  - closed-end investment company
-  - participation interests
-  - preservation of capital
-  - seeks current income
-  - senior corporate loans
-  - Variable rate instruments
-  - Credit quality focus
-  - Closed-end fund structure
-  - Below investment grade loans
+- Bank Supervision
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Central Bank Liquidity Facilities
+- Commercial Paper Markets
+- Compliance Management
+- Corporate Governance
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Intermediation and Banking
+- Financial Markets and Institutions
+- Financial Regulation
+- Governance Standards
+- Historical Financial Analysis
+- Institutional Analysis of Financial Systems
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Liquidity Crisis and Management
+- Liquidity Risk and Management
+- Market Structure and Microstructure
+- Money Market Fund Dynamics
+- Money Market Instruments
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Regulatory Compliance
+- Regulatory Framework
+- Regulatory Framework in Financial Markets
+- Regulatory Risk
+- Repurchase Agreement Markets
+- Risk Management and Hedging Strategies
+- Short-Term Funding Markets
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
 
 # Pilgrim Prime Rate Trust
 

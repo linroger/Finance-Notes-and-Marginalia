@@ -1,25 +1,53 @@
 ---
-linter-yaml-title-alias: 'When Safe Proved Risky: Class Note 12 – Commercial Paper#Class
-Note 12 – Commercial Paper | Commercial Paper]] During the Financial Crisis of 2007–2009'
-title: 'When Safe Proved Risky: Class Note 12 – Commercial Paper#Class Note 12 –
-Commercial Paper | Commercial Paper]] During the Financial Crisis of 2007–2009'
-tags:
-  - asset_backed
-  - commercial_paper
-  - financial_crisis
-  - money_market
-  - short_term_debt
 aliases:
-  - CP
-  - Commercial Paper Crisis
-  - Financial Crisis 2007-2009
-  - Short-term Debt
+- CP
+- Commercial Paper Crisis
+- Financial Crisis 2007-2009
+- Short-term Debt
 key_concepts:
-  - Asset-backed commercial paper
-  - Financial sector impact
-  - Minimal credit risk
-  - Raising capital cheaply
-  - Short-term debt instrument
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Corporate bankruptcy process
+- Debt restructuring and workouts
+- Chapter 11 reorganization
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- When Safe Proved Risky Commercial Paper During the Financial Crisis of 2007 2009
+  and financial analysis
+- When Safe Proved Risky Commercial Paper During the Financial Crisis of 2007 2009
+  in modern finance
+- Applications of When Safe Proved Risky Commercial Paper During the Financial Crisis
+  of 2007 2009
+- 'Case study: When Safe Proved Risky Commercial Paper During the Financial Crisis
+  of 2007 2009'
+linter-yaml-title-alias: 'When Safe Proved Risky: Class Note 12 – Commercial Paper#Class
+  Note 12 – Commercial Paper | Commercial Paper]] During the Financial Crisis of 2007–2009'
+tags:
+- yield
+- hedging
+- treasury
+- interest-rates
+- libor
+- fed-funds
+- futures
+- monetary-policy
+- maturity
+- bond
+- basis
+- bonds
+- spread
+- liquidity
+- bankruptcy
+title: 'When Safe Proved Risky: Class Note 12 – Commercial Paper#Class Note 12 – Commercial
+  Paper | Commercial Paper]] During the Financial Crisis of 2007–2009'
 ---
 
 # When Safe Proved Risky Commercial Paper During the Financial Crisis of 2007 2009

@@ -1,20 +1,153 @@
 ---
-tags:
-  - market_risk
-  - risk_management
-  - value_at_risk
-  - var_calculation
-  - yield_curve
 aliases:
-  - Market VaR
-  - VaR
+- Market VaR
+- VaR
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Value at Risk and financial analysis
+- Value at Risk in modern finance
+- Applications of Value at Risk
+- 'Case study: Value at Risk'
+last_enhanced: '2025-11-06 08:42:33'
+- interest-rate
+- put
+- risk-management
+- spread
+- yield
+- options
+- maturity
+- var
+- duration
+- bond
+- convexity
+- yield-curve
+- fed-funds
+- interest-rates
+- call
+tags:
+- arbitrage
+- asset-liability
+- austerity
+- balance-sheet
+- banking
+- basis
+- bid-ask
+- bond
+- case-study
+- cftc
+- commodity
+- credit-curve
+- credit-rating
+- crisis-2008
+- crisis-analysis
+- currency
+- default
+- deposit-insurance
+- derivative-pricing
+- derivatives
+- duration
+- econometric
+- emerging-market
+- empirical-analysis
+- equity
+- european
+- european-debt-crisis
+- eurozone
+- fdic
+- fixed-income
+- graduate-level
+- grexit
+- hedging
+- institutional-quality
+- learning-from-crisis
+- lehman
+- leverage
+- liquidity
+- mathematical-finance
+- monetary-policy
+- money-market
+- professional-standard
+- provision
+- quantitative-analysis
+- quantitative-methods
+- real-world-example
+- reporting-requirement
+- sec-regulation
+- securitization
+- sovereign
+- sovereign-debt
+- spread
+- statistical-model
+- stress-test
+- tail-risk
+- treasury
+- var
+- volatility
+- yield-curve
+
 key_concepts:
-  - Confidence level and horizon
-  - Factor change data
-  - Historical bootstrap method
-  - Portfolio sensitivity to factors
-  - 'VaR: critical value'
+- Austerity Measures
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Currency Union Risks
+- Econometric Analysis
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- European Debt Crisis
+- European Integration
+- Eurozone Crisis Management
+- Financial Crisis Case Studies
+- Financial Econometrics
+- Financial Markets and Institutions
+- Fiscal Integration
+- Greek Debt Crisis
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Mathematical Finance Applications
+- Mathematical Modeling
+- Quantitative Analysis in Finance
+- Quantitative Methods in Finance
+- Quantitative Risk Management
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Sovereign Debt Restructuring
+- Statistical Finance
+- Statistical Modeling
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 13.4 VALUE AT RISK  
 

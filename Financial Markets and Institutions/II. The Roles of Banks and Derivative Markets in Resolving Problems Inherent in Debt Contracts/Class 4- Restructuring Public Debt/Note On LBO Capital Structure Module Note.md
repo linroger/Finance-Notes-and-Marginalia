@@ -1,23 +1,47 @@
 ---
-cssclasses: academia
-linter-yaml-title-alias: Note On LBO Capital Structure
-title: Note on LBO Capital Structure
-tags:
-  - capital_structure
-  - debt_financing
-  - lbo
-  - leveraged_loans
-  - senior_debt
 aliases:
-  - Capital Structure
-  - Debt Layers
-  - LBO Debt
+- Capital Structure
+- Debt Layers
+- LBO Debt
+cssclasses: academia
 key_concepts:
-  - Asset-backed loans
-  - Junior debt
-  - LBO debt characteristics
-  - Leveraged loans
-  - Senior secured debt
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Mortgage-backed securities structure
+- Prepayment modeling and analysis
+- Securitization and CDO structures
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Note On LBO Capital Structure Module Note and financial analysis
+- Note On LBO Capital Structure Module Note in modern finance
+- Applications of Note On LBO Capital Structure Module Note
+- 'Case study: Note On LBO Capital Structure Module Note'
+linter-yaml-title-alias: Note On LBO Capital Structure
+tags:
+- yield
+- call
+- treasury
+- fixed-income
+- tranche
+- maturity
+- liquidity
+- bond
+- options
+- bonds
+- securitization
+- spread
+- coupon
+- trading
+- mbs
+title: Note on LBO Capital Structure
 ---
 
 # Note on LBO Capital Structure

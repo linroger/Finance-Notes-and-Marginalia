@@ -1,25 +1,52 @@
 ---
 cssclasses:
-  - academia
+- academia
 title: The Eurocurrency and Eurobond Markets Annotations
 tags:
-  - eurobond_markets
-  - eurocurrency_markets
-  - international_markets
-  - offshore_markets
-  - trade_financing
+- asset-pricing
+- banking
+- corporate-bonds
+- credit-rating
+- credit-risk
+- eurobond_markets
+- eurocurrency_markets
+- financial-regulation
+- forward-contracts
+- futures-contracts
+- government-bonds
+- hedging-strategies
+- interest-rates
+- international_markets
+- libor
+- market-structure
+- offshore_markets
+- swaps
+- trade_financing
+- trading-strategies
 aliases:
-  - Eurobond
-  - Eurocurrency
-  - Euromarkets
-  - Offshore Markets
+- Eurobond
+- Eurocurrency
+- Euromarkets
+- Offshore Markets
 key_concepts:
-  - 'eurobond: international capital market'
-  - 'eurocurrency: short-term borrowing'
-  - 'eurodollar: dollar deposits outside US'
-  - speculative positions
-  - trade financing motive
+- 'Reference rates: SOFR, LIBOR, and rate transitions'
+- Futures contracts and forward pricing
+- Interest rate swaps and swap curve construction
+- Financial theory and academic research
+- Practical examples and implementation
+- Trading strategies and market implementation
+- Financial regulation and compliance requirements
+- Investment analysis and portfolio management
+- Fixed income securities and bond markets
+- Equity markets and stock valuation
+- International finance and global markets
+- Market dynamics and pricing mechanisms
+last_enhanced: '2025-11-06 08:42:51'
 ---
+
+
+
+
 
 # The Eurocurrency and Eurobond Markets Annotations
 

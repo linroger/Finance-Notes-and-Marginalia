@@ -1,3 +1,28 @@
+---
+tags:
+- asset-pricing
+- banking
+- corporate-bonds
+- futures-contracts
+- government-bonds
+- interest-rates
+- portfolio-management
+- trading-strategies
+key_concepts:
+- Futures contracts and forward pricing
+- Financial theory and academic research
+- Practical examples and implementation
+- Trading strategies and market implementation
+- Investment analysis and portfolio management
+- Fixed income securities and bond markets
+- Equity markets and stock valuation
+- International finance and global markets
+- Basel regulations and banking capital requirements
+last_enhanced: '2025-11-06 08:42:48'
+---
+
+
+
 # **Chapter 14 Capital Flows and the Current Account**
 
 Once upon a time there was a politician, running on the following election platform: "As soon as I am in office, I will make our region both a leader in exports and a top destination for outside investors. I will make sure that our region will run a trade surplus, exporting more goods and services than we import. A trade surplus is what I call export success. Moreover, I will also make sure that our region attracts foreign capital clearly in excess of the investments that our residents make abroad. Large net capital inflows are what I mean by a top destination for outside investors. Vote for me to make these successes in trade and finance happen for our region." To live happily ever after, should you vote for this politician?

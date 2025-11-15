@@ -1,21 +1,105 @@
 ---
-tags:
-  - bond_portfolio
-  - duration
-  - interest_rate_risk
-  - key_rates
-  - term_structure
 aliases:
-  - Bloomberg Index
-  - JPM Fund
-  - Key Rate Overview
+- Bloomberg Index
+- JPM Fund
+- Key Rate Overview
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Yield curve construction and modeling
+- Forward rate calculations
+- Spot and discount factors
+- Key Rates Overview and financial analysis
+- Key Rates Overview in modern finance
+- Applications of Key Rates Overview
+- 'Case study: Key Rates Overview'
+last_enhanced: '2025-11-06 08:42:36'
+- bond
+- risk
+- dv01
+- treasury
+- fixed-income
+- portfolio-optimization
+- bonds
+- portfolio
+- basis
+- term-structure
+- yield
+- futures
+- duration
+tags:
+- arbitrage
+- basis
+- bid-ask
+- bond
+- case-study
+- credit-curve
+- crisis-analysis
+- derivatives
+- duration
+- empirical-analysis
+- fixed-income
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- liquidity
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- sec-regulation
+- securitization
+- sovereign
+- spread
+- treasury
+- yield-curve
+
 key_concepts:
-  - Bond portfolio risks
-  - Interest rate risk
-  - Key rate durations
-  - Term structure changes
-  - Total duration
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # 5.2 KEY RATES: OVERVIEW  
 

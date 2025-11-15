@@ -1,3 +1,22 @@
+---
+tags:
+- banking
+- credit-risk
+- hedging-strategies
+- interest-rates
+key_concepts:
+- Financial theory and academic research
+- Practical examples and implementation
+- Investment analysis and portfolio management
+- Financial valuation and pricing methodologies
+- Fixed income securities and bond markets
+- International finance and global markets
+- Monetary policy and central banking
+last_enhanced: '2025-11-06 08:42:40'
+---
+
+
+
 Chapter 3: The Changing Value of Money
 
 # **Chapter 3: The Changing Value of Money**

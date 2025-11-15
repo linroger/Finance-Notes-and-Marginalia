@@ -1,22 +1,108 @@
 ---
-tags:
-  - bond_yield
-  - dv01
-  - forward_contract
-  - forward_yield
-  - interest_rate_sensitivity
-  - repo_rate
 aliases:
-  - Bond Yield
-  - Forward Bond Yield
-  - Forward Price
+- Bond Yield
+- Forward Bond Yield
+- Forward Price
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Forward Bond Yield and financial analysis
+- Forward Bond Yield in modern finance
+- Applications of Forward Bond Yield
+- 'Case study: Forward Bond Yield'
+last_enhanced: '2025-11-06 08:42:35'
+- options
+- forward
+- yield-curve
+- treasury
+- coupon
+- yield
+- fixed-income
+- interest-rates
+- put
+- interest-rate
+- bond
+- futures
+- bonds
+- dv01
+- basis
+tags:
+- arbitrage
+- bankruptcy
+- basis
+- bid-ask
+- bond
+- case-study
+- credit-curve
+- crisis-analysis
+- derivative-pricing
+- derivatives
+- duration
+- empirical-analysis
+- fixed-income
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- repo
+- sec-regulation
+- securitization
+- spread
+- treasury
+- yield-curve
+
 key_concepts:
-  - bond's cash flows
-  - forward settlement
-  - interest rate sensitivity
-  - repo rate
-  - spot yield
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # 11.2 FORWARD BOND YIELD  
 

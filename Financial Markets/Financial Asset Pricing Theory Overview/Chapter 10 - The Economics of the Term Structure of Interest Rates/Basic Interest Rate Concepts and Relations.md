@@ -1,22 +1,118 @@
 ---
-tags:
-  - compounding
-  - forward_rates
-  - interest_rates
-  - yield_curve
-  - zero_coupon_bonds
 aliases:
-  - Bond Pricing
-  - Discount Function
-  - Interest Rate Basics
-  - Spot Rates
+- Bond Pricing
+- Discount Function
+- Interest Rate Basics
+- Spot Rates
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Yield curve construction and modeling
+- Forward rate calculations
+- Spot and discount factors
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Basic Interest Rate Concepts and Relations and financial analysis
+- Basic Interest Rate Concepts and Relations in modern finance
+- Applications of Basic Interest Rate Concepts and Relations
+- 'Case study: Basic Interest Rate Concepts and Relations'
+last_enhanced: '2025-11-06 08:42:30'
+- yield-curve
+- coupon
+- treasury
+- interest-rates
+- term-structure
+- interest-rate
+- forward-rates
+- bonds
+- spot-rates
+- basis
+- maturity
+- yield
+- bond
+- discount-factors
+- forward
+tags:
+- arbitrage
+- basis
+- bid-ask
+- bond
+- case-study
+- credit-curve
+- crisis-analysis
+- cross-border
+- derivatives
+- duration
+- econometric
+- empirical-analysis
+- fixed-income
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-analysis
+- quantitative-methods
+- real-world-example
+- sec-regulation
+- securitization
+- spread
+- statistical-model
+- treasury
+- yield-curve
+
 key_concepts:
-  - Coupon bond valuation
-  - Discount function
-  - Interest rate compounding
-  - Spot and forward rates
-  - Zero-coupon bond pricing
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Econometric Analysis
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Econometrics
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Mathematical Finance Applications
+- Mathematical Modeling
+- Quantitative Analysis in Finance
+- Quantitative Methods in Finance
+- Quantitative Risk Management
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Statistical Finance
+- Statistical Modeling
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 10.2 Basic interest rate concepts and relations  
 

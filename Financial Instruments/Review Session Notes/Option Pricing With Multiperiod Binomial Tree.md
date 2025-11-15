@@ -1,31 +1,71 @@
 ---
 cssclasses:
-  - academia
+- academia
 linter-yaml-title-alias: Option Pricing with Multiperiod Binomial Tree
 title: Option Pricing with Multiperiod Binomial Tree
 tags:
-  - binomial_tree
-  - dividend_yield
-  - european_option
-  - option_pricing
-  - stock_price
-  - replicating_portfolio
-  - self_financing
-  - no_arbitrage
+- binomial
+- binomial_tree
+- bond
+- call
+- dividend-yield
+- dividend_yield
+- european_option
+- future
+- greeks
+- hedge
+- interest-rate
+- multiple
+- no_arbitrage
+- option
+- option_pricing
+- replicating_portfolio
+- self_financing
+- stock
+- stock_price
 aliases:
-  - BOPM
-  - Binomial Option Pricing
-  - Multiperiod Binomial Model
-  - Option Tree Model
+- BOPM
+- Binomial Option Pricing
+- Multiperiod Binomial Model
+- Option Tree Model
 key_concepts:
-  - European call option pricing
-  - Multiperiod binomial tree construction
-  - Option pricing with dividends
-  - Replicating portfolio strategy
-  - Stock price payoff tree modeling
-  - Delta hedging calculation
-  - Self-financing portfolio properties
-  - Backward induction methodology
+- American options valuation
+- Backward induction algorithm
+- Backward induction methodology
+- Binomial option pricing model
+- Convergence to Black-Scholes
+- Cox-Ross-Rubinstein framework
+- Delta hedging calculation
+- Delta risk management
+- Delta-hedging implementation
+- Derivative securities
+- Dynamic hedging strategies
+- Dynamic replication
+- European call option pricing
+- Financial risk management
+- Gamma effects on options
+- Gamma hedging techniques
+- Hedge ratio calculation
+- Hedging effectiveness
+- Lattice methods for derivatives
+- Multi-period binomial tree
+- Multiperiod binomial tree construction
+- Option pricing with dividends
+- Options Greeks measurement
+- Portfolio insurance methods
+- Portfolio optimization
+- Portfolio risk hedging
+- Quantitative financial analysis
+- Replicating portfolio strategy
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Risk-neutral probability
+- Self-financing portfolio properties
+- Static hedging
+- Stock price payoff tree modeling
+- Theta time decay
+- Vega hedging strategies
+- Vega volatility sensitivity
 ---
 
 # Option Pricing with Multiperiod Binomial Tree

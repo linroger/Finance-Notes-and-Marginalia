@@ -1,24 +1,41 @@
 ---
 tags:
-  - academic_finance_journals
-  - bond_price_models
-  - inflation_dynamics
-  - inflation_indexed_securities
-  - no_arbitrage_valuation
-  - risk_metrics
-  - short_rate_models
-  - stochastic_modeling
+- academic_finance_journals
+- arbitrage
+- banking
+- bond-convexity
+- bond-durability
+- bond_price_models
+- convexity
+- coupon-bonds
+- cox-ingersoll-ross
+- futures-contracts
+- hedging-strategies
+- inflation_dynamics
+- inflation_indexed_securities
+- no_arbitrage_valuation
+- risk_metrics
+- short_rate_models
+- stochastic_modeling
+- vasicek-model
+- zero-coupon-bonds
 aliases:
-  - Inflation-Indexed
-  - Pricing Framework
-  - Risk Metric Analysis
+- Inflation-Indexed
+- Pricing Framework
+- Risk Metric Analysis
 key_concepts:
-  - Bond Price Models
-  - No-arbitrage framework
-  - Pricing mechanisms
-  - Risk metric analysis
-  - Stochastic modeling
+- Convexity adjustments in fixed income
+- Arbitrage opportunities and relative value trading
+- Risk-neutral pricing and martingale measures
+- Futures contracts and forward pricing
+- Financial valuation and pricing methodologies
+- Asset pricing and derivatives valuation
+last_enhanced: '2025-11-06 08:42:40'
 ---
+
+
+
+
 
 # Inflation-Indexed Securities: Pricing Framework
 

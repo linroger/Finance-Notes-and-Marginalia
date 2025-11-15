@@ -1,25 +1,112 @@
 ---
-tags:
-  - bond_investing
-  - carry_roll_down
-  - interest_rates
-  - p_and_l_attribution
-  - term_structure
 aliases:
-  - P&L Breakdown
-  - Profit and Loss Attribution
-  - Return Attribution
+- P&L Breakdown
+- Profit and Loss Attribution
+- Return Attribution
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Yield curve construction and modeling
+- Forward rate calculations
+- Spot and discount factors
+- Pl Attribution and financial analysis
+- Pl Attribution in modern finance
+- Applications of Pl Attribution
+- 'Case study: Pl Attribution'
+last_enhanced: '2025-11-06 08:42:36'
+- treasury
+- yield
+- spot-rates
+- spread
+- duration
+- roll
+- term-structure
+- bonds
+- forward-rates
+- market-maker
+- forward
+- coupon
+- trading
+- futures
+- liquidity
+tags:
+- arbitrage
+- asset-liability
+- bankruptcy
+- basis
+- bid-ask
+- bond
+- case-study
+- cash-flow
+- credit-curve
+- crisis-analysis
+- derivatives
+- duration
+- empirical-analysis
+- fixed-income
+- graduate-level
+- hedging
+- income-statement
+- institutional-quality
+- learning-from-crisis
+- liquidity
+- market-making
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- sec-regulation
+- securitization
+- spread
+- stress-test
+- treasury
+- yield-curve
+
 key_concepts:
-  - Attribution reports
-  - Cash carry
-  - Changes in rates
-  - Changes in spreads
-  - Coupon income
-  - Financing arrangements
-  - Forward loan example
-  - P&L component parts
-  - Term structure scenario
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # 3.8 P&L ATTRIBUTION  
 

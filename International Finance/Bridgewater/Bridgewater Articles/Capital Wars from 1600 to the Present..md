@@ -1,24 +1,39 @@
 ---
 title: Capital Wars from 1600 to the Present
 cssclasses:
-  - academia
+- academia
 tags:
-  - asset_freezes
-  - capital_wars
-  - economic_conflicts
-  - geopolitical_conflict
-  - trade_embargoes
+- asset-pricing
+- asset_freezes
+- banking
+- capital_wars
+- economic_conflicts
+- forward-contracts
+- forward-rates
+- futures-contracts
+- geopolitical_conflict
+- swaps
+- trade_embargoes
+- trading-strategies
 aliases:
-  - Capital Conflicts
-  - Economic Warfare
-  - Financial Warfare
+- Capital Conflicts
+- Economic Warfare
+- Financial Warfare
 key_concepts:
-  - Asset freezes and seizures
-  - Blocking capital market access
-  - Embargoes and blockades
-  - Escalating conflicts between powers
-  - Tit-for-tat escalation
+- Forward rate calculations and forward curve construction
+- Futures contracts and forward pricing
+- Interest rate swaps and swap curve construction
+- Practical examples and implementation
+- Trading strategies and market implementation
+- Investment analysis and portfolio management
+- Equity markets and stock valuation
+- International finance and global markets
+last_enhanced: '2025-11-06 08:42:40'
 ---
+
+
+
+
 
 # Capital Wars from 1600 to the Present
 

@@ -1,21 +1,108 @@
 ---
-tags:
-  - fnma
-  - mbs
-  - mortgage_pools
-  - prepayments
-  - wac
 aliases:
-  - FNMA Pools
-  - MBS
-  - Mortgage Pool
+- FNMA Pools
+- MBS
+- Mortgage Pool
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Mortgage Pools and financial analysis
+- Mortgage Pools in modern finance
+- Applications of Mortgage Pools
+- 'Case study: Mortgage Pools'
+last_enhanced: '2025-11-06 08:42:35'
+- roll
+- options
+- call
+- coupon
+- ratio
+- basis
+- put
+- irs
+- futures
+- bonds
+- spread
+- credit
+- liquidity
+- swaps
+- maturity
+tags:
+- arbitrage
+- basis
+- bid-ask
+- bond
+- case-study
+- crisis-analysis
+- currency
+- derivative-pricing
+- derivatives
+- duration
+- empirical-analysis
+- fixed-income
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- liquidity
+- mathematical-finance
+- mbs
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- sec-regulation
+- securitization
+- sovereign
+- spread
+- yield-curve
+
 key_concepts:
-  - Coupon and WAC
-  - MBS characteristics
-  - Mortgage pool definition
-  - Prepayment rates
-  - WAM and WALA
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # 15.5 MORTGAGE POOLS  
 

@@ -2,33 +2,98 @@
 linter-yaml-title-alias: LECTURE NOTES 10 INTEREST RATE DERIVATIVES
 title: LECTURE NOTES 10 INTEREST RATE DERIVATIVES
 tags:
-  - black_model
-  - callable_bonds
-  - financial_instruments
-  - floating_rate_debt
-  - forward_rate_agreement
-  - interest_rate_derivatives
-  - interest_rate_swaps
-  - risk_neutral_pricing
-  - swap_contract
-  - treasury_bills
+- american
+- basis-swap
+- black-scholes
+- black_model
+- bond
+- bps
+- call
+- callable_bonds
+- cap
+- cds
+- defi
+- duration
+- financial_instruments
+- fixed-income
+- floating_rate_debt
+- floor
+- forward
+- forward_rate_agreement
+- future
+- greeks
+- implied-vol
+- interest-rate
+- interest_rate_derivatives
+- interest_rate_swaps
+- libor
+- monetary-policy
+- ois
+- option
+- overnight-swap
+- risk-free-rate
+- risk_neutral_pricing
+- sofr
+- stock
+- swap
+- swap_contract
+- swaption
+- treasury
+- treasury_bills
 aliases:
-  - FRA
-  - IR Derivatives
-  - Interest Rate Trees
-  - Lecture 10
-  - Swaps
+- FRA
+- IR Derivatives
+- Interest Rate Trees
+- Lecture 10
+- Swaps
 key_concepts:
-  - Callable bonds
-  - Floating rate debt
-  - Forward rate agreement
-  - Hedging problem solution
-  - Ho Lee Model
-  - Interest rate derivatives
-  - Interest rate swaps
-  - Risk neutral pricing
-  - Swap rate calculation
-  - Zero coupon bonds
+- ' tranche valuation'
+- Basis swap mechanics
+- CDO squared structures
+- CDS curve construction
+- CDS spread calibration
+- Callable bonds
+- Convexity adjustment
+- Credit Default Swaps
+- Credit index products
+- Cross-currency basis
+- Currency swap structure
+- DV01 calculation
+- Default correlation
+- Delta risk management
+- Derivative securities
+- Duration measurement
+- Dynamic hedging strategies
+- Financial risk management
+- Fixed vs floating leg
+- Floating rate debt
+- Forward rate agreement
+- Gamma effects on options
+- Hedging problem solution
+- Hedging with bonds
+- Ho Lee Model
+- Interest rate derivatives
+- Interest rate sensitivity
+- Interest rate swap pricing
+- Interest rate swaps
+- Modified duration calculation
+- Options Greeks measurement
+- Portfolio immunization
+- Portfolio optimization
+- Portfolio risk hedging
+- Present value of swaps
+- Price-yield relationship
+- Quantitative financial analysis
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Risk neutral pricing
+- Swap curve construction
+- Swap rate calculation
+- Swaption valuation
+- Synthetic CDO pricing
+- Theta time decay
+- Vega volatility sensitivity
+- Zero coupon bonds
 ---
 
 # Lecture Notes 10- Interest Rate Derivatives

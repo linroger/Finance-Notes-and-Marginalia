@@ -1,15 +1,65 @@
 ---
-cssclasses: [international-economics]
+cssclasses:
+- international-economics
 title: International Economics Trade and Money
-tags: [international-economics, trade, monetary-economics, exchange-rates]
-aliases: [International Econ]
-key_concepts:
-  - International Trade Theory
-  - Trade Policy
-  - Exchange Rates
-  - Open Economy Macroeconomics
+- exchange-rates
+- interest-rates
+- international-economics
+- monetary-economics
+- trade
+aliases:
+- International Econ
+- Financial theory and academic research
+- International finance and global markets
 linter-yaml-title-alias: International Economics Trade and Money
+last_enhanced: '2025-11-06 08:42:49'
+tags:
+- bankruptcy
+- cross-border
+- currency
+- european
+- graduate-level
+- institutional-quality
+- mathematical-finance
+- pegging
+- professional-standard
+- provision
+- quantitative-methods
+
+key_concepts:
+- Banking and Financial Intermediation
+- Banking and Intermediation
+- Credit Risk Assessment
+- Derivative Securities
+- Financial Crisis Analysis
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Financial Regulation and Compliance
+- Institutional-Quality Financial Education
+- Liquidity and Market Structure
+- Market Trading and Hedging
+- Quantitative Finance Methods
+- Quantitative Methods in Finance
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # International Economics Trade and Money
 

@@ -1,21 +1,154 @@
 ---
-tags:
-  - financial_crisis
-  - interbank_borrowing
-  - libor_transition
-  - short_term_rates
-  - sofr
 aliases:
-  - LIBOR
-  - London Interbank Offered Rate
-  - SOFR
+- LIBOR
+- London Interbank Offered Rate
+- SOFR
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Short-Term Rates and the Transition from LIBOR and financial analysis
+- Short-Term Rates and the Transition from LIBOR in modern finance
+- Applications of Short-Term Rates and the Transition from LIBOR
+- 'Case study: Short-Term Rates and the Transition from LIBOR'
+last_enhanced: '2025-11-06 08:42:35'
+- options
+- forward
+- credit-risk
+- call
+- cds
+- sofr
+- put
+- interest-rate
+- liquidity
+- trading
+- futures
+- credit-spread
+- spread
+- interest-rates
+- libor
+tags:
+- arbitrage
+- asian
+- asian-crisis
+- banking
+- basis
+- bid-ask
+- bond
+- case-study
+- central-bank
+- collateral
+- counterparty
+- credit-curve
+- credit-market
+- credit-migration
+- crisis-analysis
+- cross-border
+- currency
+- default
+- derivative-pricing
+- derivatives
+- econometric
+- empirical-analysis
+- european
+- financial-crisis
+- financial-regulation
+- fixed-income
+- governance
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- liquidity
+- markov-chain
+- mathematical-finance
+- monetary-policy
+- probabilistic-model
+- professional-standard
+- provision
+- quantitative-analysis
+- quantitative-easing
+- quantitative-methods
+- rating-transition
+- real-world-example
+- regulatory-compliance
+- repo
+- sec-regulation
+- securitization
+- spread
+- statistical-model
+- supervision
+- synthetic
+- transition-matrix
+- yield-curve
+
 key_concepts:
-  - Interbank borrowing
-  - LIBOR reference rates
-  - Overnight rates
-  - SOFR benchmark
-  - Term loans
+- Bank Supervision
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Compliance Management
+- Corporate Governance
+- Credit Migration Analysis
+- Credit Portfolio Modeling
+- Credit Transition Matrices
+- Crisis Case Study Design
+- Econometric Analysis
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Expected Loss Calculations
+- Financial Crisis Case Studies
+- Financial Econometrics
+- Financial Markets and Institutions
+- Financial Regulation
+- Governance Standards
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Markov Chain Models
+- Mathematical Finance Applications
+- Mathematical Modeling
+- Probabilistic Credit Models
+- Quantitative Analysis in Finance
+- Quantitative Methods in Finance
+- Quantitative Risk Management
+- Rating Transition Models
+- Real-World Financial Examples
+- Regulatory Compliance
+- Regulatory Framework
+- Regulatory Risk
+- Risk Management and Hedging Strategies
+- Statistical Finance
+- Statistical Modeling
+- Transition Matrix Estimation
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # 12.1 SHORT-TERM RATES AND THE TRANSITION FROM LIBOR  
 

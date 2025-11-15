@@ -1,21 +1,119 @@
 ---
-tags:
-  - cash_settled
-  - cme
-  - hedging
-  - interest_rate_risk
-  - sofr_futures
 aliases:
-  - SER
-  - SOFR futures
-  - one-month SOFR
+- SER
+- SOFR futures
+- one-month SOFR
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Algorithmic trading strategies
+- Quantitative signal development
+- High-frequency trading
+- One-Month SOFR Futures and financial analysis
+- One-Month SOFR Futures in modern finance
+- Applications of One-Month SOFR Futures
+- 'Case study: One-Month SOFR Futures'
+last_enhanced: '2025-11-06 08:42:35'
+- roll
+- algorithmic-trading
+- hedging
+- var
+- swaps
+- ratio
+- strategy
+- sofr
+- interest-rate
+- irs
+- risk-management
+- futures
+- hedge-ratio
+- interest-rates
+- basis
+tags:
+- algorithmic-trading
+- arbitrage
+- basis
+- bond
+- case-study
+- central-bank
+- cftc
+- commodity
+- crisis-analysis
+- currency
+- derivatives
+- econometric
+- empirical-analysis
+- fixed-income
+- graduate-level
+- hedging
+- income-statement
+- institutional-quality
+- learning-from-crisis
+- liquidity
+- mathematical-finance
+- monetary-policy
+- money-market
+- professional-standard
+- provision
+- quantitative-analysis
+- quantitative-methods
+- real-world-example
+- repo
+- sec-regulation
+- securitization
+- statistical-model
+- stress-test
+- var
+
 key_concepts:
-  - CME trading
-  - Cash settlement
-  - Delivery month
-  - Hedging interest rate risk
-  - SOFR futures contract
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Econometric Analysis
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Econometrics
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Mathematical Finance Applications
+- Mathematical Modeling
+- Quantitative Analysis in Finance
+- Quantitative Methods in Finance
+- Quantitative Risk Management
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Statistical Finance
+- Statistical Modeling
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # 12.2 ONE-MONTH SOFR FUTURES  
 

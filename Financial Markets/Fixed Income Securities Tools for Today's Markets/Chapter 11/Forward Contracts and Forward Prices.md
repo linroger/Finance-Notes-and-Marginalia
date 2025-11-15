@@ -1,22 +1,108 @@
 ---
-tags:
-  - arbitrage
-  - bond_contract
-  - forward_contracts
-  - forward_prices
-  - repo_rate
-  - treasury_bonds
 aliases:
-  - Forward agreement
-  - Forward bond contract
-  - Forward price
+- Forward agreement
+- Forward bond contract
+- Forward price
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Arbitrage principles and opportunities
+- Relative value trading
+- Law of one price enforcement
+- Forward Contracts and Forward Prices and financial analysis
+- Forward Contracts and Forward Prices in modern finance
+- Applications of Forward Contracts and Forward Prices
+- 'Case study: Forward Contracts and Forward Prices'
+last_enhanced: '2025-11-06 08:42:35'
+- options
+- forward
+- treasury
+- call
+- arbitrage-free
+- coupon
+- fixed-income
+- arbitrage
+- cash flow
+- bond
+- futures
+- bonds
+- maturity
+tags:
+- arbitrage
+- bankruptcy
+- basis
+- bid-ask
+- bond
+- case-study
+- cash-flow
+- collateral
+- counterparty
+- crisis-analysis
+- derivative-pricing
+- derivatives
+- duration
+- empirical-analysis
+- fixed-income
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- mathematical-finance
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- repo
+- sec-regulation
+- securitization
+- spread
+- synthetic
+- treasury
+- yield-curve
+
 key_concepts:
-  - Arbitrage arguments
-  - Forward bond contract
-  - Forward price definition
-  - Invoice price
-  - Repo rate
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # 11.1 FORWARD CONTRACTS AND FORWARD PRICES  
 

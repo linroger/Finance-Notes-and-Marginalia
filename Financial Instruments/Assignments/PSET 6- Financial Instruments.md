@@ -1,33 +1,60 @@
 ---
 cssclasses:
-  - academia
+- academia
 linter-yaml-title-alias: PSET 6-Financial Instruments
 title: PSET 6-Financial Instruments
 tags:
-  - financial_instruments
-  - implied_volatility
-  - morgan_stanley
-  - options_data
-  - structured_security
-  - black_scholes
-  - equity_derivatives
-  - plus_securities
-  - options_pricing
+- beta
+- black_scholes
+- bond
+- call
+- cap
+- dividend-yield
+- equity
+- equity_derivatives
+- financial_instruments
+- greeks
+- implied-vol
+- implied_volatility
+- interest-rate
+- morgan_stanley
+- option
+- options_data
+- options_pricing
+- plus_securities
+- put
+- risk-free-rate
+- stock
+- structured_security
+- treasury
 aliases:
-  - Homework 6
-  - PLUS Security
-  - PSET 6
+- Homework 6
+- PLUS Security
+- PSET 6
 key_concepts:
-  - Implied Volatility Calculation
-  - PLUS Security Decomposition
-  - Risk Factors
-  - S&P 500 Options Data
-  - Structured Security Valuation
-  - Option Elasticity
-  - Performance Leveraged Securities
-  - Option Replication Strategies
-  - Delta Sensitivity
-  - Beta Calculation
+- Beta Calculation
+- Delta Sensitivity
+- Delta risk management
+- Derivative securities
+- Dynamic hedging strategies
+- Financial risk management
+- Gamma effects on options
+- Implied Volatility Calculation
+- Option Elasticity
+- Option Replication Strategies
+- Options Greeks measurement
+- PLUS Security Decomposition
+- Performance Leveraged Securities
+- Portfolio optimization
+- Portfolio risk hedging
+- Quantitative financial analysis
+- Rho interest rate sensitivity
+- Risk Factors
+- Risk assessment and mitigation
+- S&P 500 Options Data
+- Structured Security Valuation
+- Theta time decay
+- Vega volatility sensitivity
 ---
 
 # PSET 6-Financial Instruments

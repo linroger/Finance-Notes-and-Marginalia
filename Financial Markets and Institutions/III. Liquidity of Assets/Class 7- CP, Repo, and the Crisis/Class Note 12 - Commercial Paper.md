@@ -1,37 +1,175 @@
 ---
-cssclasses:
-  - academia
-title: "Class Note 12: Commercial Paper"
-linter-yaml-title-alias: "Class Note 12: Commercial Paper"
-tags:
-  - 2007_2009_financial_crisis
-  - asset_backed_paper
-  - backup_lines_of_credit
-  - commercial_paper
-  - short_term_promissory_note
-  - money_markets
-  - cp_market_freeze
-  - rating_agencies
-  - liquidity_facilities
 aliases:
-  - CP
-  - Class 12 Note
-  - Commercial Paper Note
-  - ECN
-  - "Commercial Paper Note"
+- CP
+- Class 12 Note
+- Commercial Paper Note
+- ECN
+- Commercial Paper Note
+cssclasses:
+- academia
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Mortgage-backed securities structure
+- Prepayment modeling and analysis
+- Securitization and CDO structures
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Class Note 12 - Commercial Paper and financial analysis
+- Class Note 12 - Commercial Paper in modern finance
+- Applications of Class Note 12 - Commercial Paper
+- 'Case study: Class Note 12 - Commercial Paper'
+linter-yaml-title-alias: 'Class Note 12: Commercial Paper'
+- yield
+- call
+- treasury
+- cds
+- maturity
+- bond
+- coupon
+- options
+- put
+- bonds
+- mortgage-backed
+- securitization
+- credit-risk
+- spread
+- liquidity
+title: 'Class Note 12: Commercial Paper'
+tags:
+- abcp
+- asian
+- asset-backed-cp
+- bank-run
+- banking
+- basis
+- bid-ask
+- bond
+- case-study
+- cash-flow
+- cdo
+- central-bank
+- collateral
+- commercial-paper
+- commodity
+- corporate-bond
+- counterparty
+- cp-rate
+- credit-market
+- credit-rating
+- crisis-analysis
+- default
+- derivative-pricing
+- derivatives
+- discount-window
+- duration
+- empirical-analysis
+- equity
+- european
+- facility-lending
+- financial-crisis
+- financial-institutions
+- financial-markets
+- financial-regulation
+- governance
+- graduate-level
+- hedging
+- institutional-analysis
+- institutional-quality
+- learning-from-crisis
+- lender-of-last-resort
+- liquidity
+- liquidity-management
+- margin-call
+- market-liquidity
+- market-structure
+- mathematical-finance
+- mbs
+- monetary-policy
+- money-market
+- money-market-fund
+- money-markets
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- regulatory-compliance
+- repo
+- repo-markets
+- reporting-requirement
+- sec-regulation
+- securitization
+- short-term-funding
+- sovereign
+- spread
+- supervision
+- tail-risk
+- treasury
+- volatility
+- yield-curve
+
 key_concepts:
-  - Backup lines of credit
-  - Commercial paper significance
-  - Early-exit mechanism
-  - Prices and quotes
-  - CP issuance decline
-  - Dealer placement
-  - Direct placement
-  - Rating requirements
-  - ABCP conduits
-  - Maturity structure
-  - Regulations and maturities
+- Asset-Backed Commercial Paper
+- Bank Supervision
+- Banking and Financial Intermediation
+- CP Investor Base
+- Case Study Methodology
+- Central Bank Liquidity Facilities
+- Commercial Paper Markets
+- Commercial Paper Rates
+- Commercial Paper Risk Assessment
+- Compliance Management
+- Corporate Governance
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Intermediation and Banking
+- Financial Markets and Institutions
+- Financial Regulation
+- Governance Standards
+- Historical Financial Analysis
+- Institutional Analysis of Financial Systems
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Liquidity Crisis and Management
+- Liquidity Risk and Management
+- Market Structure and Microstructure
+- Money Market Dynamics
+- Money Market Fund Dynamics
+- Money Market Fund Regulation
+- Money Market Instruments
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Regulatory Compliance
+- Regulatory Framework
+- Regulatory Framework in Financial Markets
+- Regulatory Risk
+- Repurchase Agreement Markets
+- Risk Management and Hedging Strategies
+- Short-Term Funding Markets
+- Short-Term Funding Strategies
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
 
 # Class Note 12: Commercial Paper
 ## Commercial Paper

@@ -1,22 +1,113 @@
 ---
-tags:
-  - basket_credit_derivatives
-  - cds
-  - credit_risk
-  - default_events
-  - protection_buyer
-  - protection_seller
-  - synthetic_cdo
 aliases:
-  - Basket CDS
-  - Credit Derivatives Basket
+- Basket CDS
+- Credit Derivatives Basket
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Basket Credit Derivatives and financial analysis
+- Basket Credit Derivatives in modern finance
+- Applications of Basket Credit Derivatives
+- 'Case study: Basket Credit Derivatives'
+last_enhanced: '2025-11-06 08:42:33'
+- cds
+- maturity
+- options
+- recovery
+- put
+- swap
+- default
+- swaps
+- fixed-income
+- bond
+- irs
+- gamma
+- bonds
+- delta
+- call
+tags:
+- arbitrage
+- basis
+- bid-ask
+- bond
+- case-study
+- cash-flow
+- cdo
+- collateral
+- credit-market
+- crisis-analysis
+- currency
+- default
+- derivative-pricing
+- derivatives
+- duration
+- empirical-analysis
+- fixed-income
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- sec-regulation
+- securitization
+- spread
+- structured-product
+- synthetic
+- yield-curve
+
 key_concepts:
-  - CDS on defaultable securities
-  - Dealer buys and sells CDS
-  - First default triggers payout
-  - Protection buyer pays premium
-  - Protection seller receives losses
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 10.2 BASKET CREDIT DERIVATIVES  
 

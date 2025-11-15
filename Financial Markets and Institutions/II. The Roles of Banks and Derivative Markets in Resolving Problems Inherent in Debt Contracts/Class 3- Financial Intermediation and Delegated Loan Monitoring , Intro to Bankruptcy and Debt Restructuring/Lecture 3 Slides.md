@@ -2,21 +2,29 @@
 linter-yaml-title-alias: Direct Finance Without Monitoring
 title: Direct Finance Without Monitoring
 tags:
-  - costly_monitoring
-  - debt_contract
-  - delegated_monitoring
-  - financial_intermediation
-  - loan_monitoring
+- bond
+- cost-of-capital
+- costly_monitoring
+- debt_contract
+- delegated_monitoring
+- equity
+- financial_intermediation
+- loan_monitoring
 aliases:
-  - Debt Without Monitoring
-  - Lender and Borrower
-  - Optimal Contract
+- Debt Without Monitoring
+- Lender and Borrower
+- Optimal Contract
 key_concepts:
-  - Borrower's cash flow
-  - Costly ex-post information
-  - Delegated loan monitoring
-  - Lender's expected repayment
-  - Optimal debt contract
+- Borrower's cash flow
+- Costly ex-post information
+- Delegated loan monitoring
+- Derivative securities
+- Financial risk management
+- Lender's expected repayment
+- Optimal debt contract
+- Portfolio optimization
+- Quantitative financial analysis
+- Risk assessment and mitigation
 ---
 
 Financial Intermediation and Delegated Monitoring Business 35202 Class 3 1

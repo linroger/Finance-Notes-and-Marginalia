@@ -1,19 +1,49 @@
 ---
 tags:
-  - commodity_swap
-  - forward_contract
-  - hedging
-  - oil_swap
-  - swap
+- basis-swap
+- bid-ask
+- bond
+- call
+- commodity
+- commodity_swap
+- credit-risk
+- currency
+- exchange-rate
+- forward
+- forward_contract
+- future
+- hedging
+- interest-rate
+- libor
+- multiple
+- oil
+- oil_swap
+- ois
+- overnight-swap
+- swap
+- transaction-cost
 aliases:
-  - Commodity Swap Example
-  - Swap Contract
+- Commodity Swap Example
+- Swap Contract
 key_concepts:
-  - Borrowing and lending
-  - Exchange of payments
-  - Forward contract pricing
-  - Hedging risky payments
-  - Lock in fixed price
+- Basis swap mechanics
+- Borrowing and lending
+- Cross-currency basis
+- Currency swap structure
+- Derivative securities
+- Exchange of payments
+- Financial risk management
+- Fixed vs floating leg
+- Forward contract pricing
+- Hedging risky payments
+- Interest rate swap pricing
+- Lock in fixed price
+- Portfolio optimization
+- Present value of swaps
+- Quantitative financial analysis
+- Risk assessment and mitigation
+- Swap curve construction
+- Swaption valuation
 ---
 
 **Teaching Note 3 SwapsFinancial Instruments**

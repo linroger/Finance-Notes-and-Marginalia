@@ -1,3 +1,30 @@
+---
+tags:
+- banking
+- caps-floors
+- credit-risk
+- futures-contracts
+- government-bonds
+- hedging-strategies
+- interest-rates
+- options
+- portfolio-management
+key_concepts:
+- Futures contracts and forward pricing
+- Financial theory and academic research
+- Practical examples and implementation
+- Investment analysis and portfolio management
+- Financial valuation and pricing methodologies
+- Fixed income securities and bond markets
+- Equity markets and stock valuation
+- International finance and global markets
+- Monetary policy and central banking
+- Financial crises and market stress events
+last_enhanced: '2025-11-06 08:42:40'
+---
+
+
+
 Chapter 2: The Big Cycle of Money, Credit, Debt, and Economic Activity
 
 # **Chapter 2: The Big Cycle of Money, Credit, Debt, and Economic Activity**

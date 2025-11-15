@@ -1,33 +1,42 @@
 ---
 cssclasses:
-  - academia
-title: "Class Note 2: Debt Contracts Due to the Lack of Information - Debt as a Promise and a Threat"
+- academia
+title: 'Class Note 2: Debt Contracts Due to the Lack of Information - Debt as a Promise
+  and a Threat'
 tags:
-  - borrower_lender
-  - debt_contracts
-  - information_asymmetry
-  - liquidation
-  - monitoring_costs
-  - renegotiation
-  - bankruptcy
-  - covenant_enforcement
+- bankruptcy
+- bond
+- borrower_lender
+- corporate-bond
+- covenant_enforcement
+- debt_contracts
+- equity
+- information_asymmetry
+- liquidation
+- monitoring_costs
+- renegotiation
 aliases:
-  - Borrower's Dilemma
-  - Debt as Promise
-  - Debt as Threat
-  - Non-Monitored Debt
-  - Information Problems in Debt
+- Borrower's Dilemma
+- Debt as Promise
+- Debt as Threat
+- Non-Monitored Debt
+- Information Problems in Debt
 key_concepts:
-  - Borrower's profitable project
-  - Borrower's underreported cash
-  - Debt in corporate control
-  - Lender's monitoring cost
-  - Lenders write a contract
-  - Optimal liquidation policy
-  - Face value determination
-  - Monitoring and renegotiation value
-  - Bankruptcy as penalty
-  - Financial contract optimization
+- Bankruptcy as penalty
+- Borrower's profitable project
+- Borrower's underreported cash
+- Debt in corporate control
+- Derivative securities
+- Face value determination
+- Financial contract optimization
+- Financial risk management
+- Lender's monitoring cost
+- Lenders write a contract
+- Monitoring and renegotiation value
+- Optimal liquidation policy
+- Portfolio optimization
+- Quantitative financial analysis
+- Risk assessment and mitigation
 ---
 
 # Class Note 2: Debt Contracts Due to the Lack of Information - Debt as a Promise and a Threat

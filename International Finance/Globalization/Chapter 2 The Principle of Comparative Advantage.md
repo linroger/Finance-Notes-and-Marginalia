@@ -1,3 +1,20 @@
+---
+tags:
+- asset-pricing
+- futures-contracts
+- options
+- trading-strategies
+key_concepts:
+- Futures contracts and forward pricing
+- Financial theory and academic research
+- Practical examples and implementation
+- Trading strategies and market implementation
+- International finance and global markets
+last_enhanced: '2025-11-06 08:42:48'
+---
+
+
+
 # **Chapter 2 The Principle of Comparative Advantage**
 
 Imagine a place that grows avocados, strawberries, lemons, and almonds all at lower prices than anywhere else in the world. The same place also makes motorcycles, skateboards, laptops, and mobile apps. Whatever it makes is more competitively priced than in any other country. Should this place trade its products with other people around the world? After all, no growers and manufacturers elsewhere can match the imaginary place's prices. Moreover, what goods would other suppliers around the globe have to offer since it appears they would have little chance to compete?

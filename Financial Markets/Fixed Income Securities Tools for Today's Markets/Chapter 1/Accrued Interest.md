@@ -1,22 +1,128 @@
 ---
-tags:
-  - accrued_interest
-  - bond_pricing
-  - clean_price
-  - day_count_convention
-  - dirty_price
 aliases:
-  - Flat Price
-  - Full Price
-  - Invoice Price
-  - Quoted Price
+- Flat Price
+- Full Price
+- Invoice Price
+- Quoted Price
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Accrued Interest and financial analysis
+- Accrued Interest in modern finance
+- Applications of Accrued Interest
+- 'Case study: Accrued Interest'
+last_enhanced: '2025-11-06 08:42:35'
+- options
+- treasury
+- call
+- coupon
+- fixed-income
+- put
+- interest-rate
+- irs
+- bond
+- bonds
+- interest-rates
+- swaps
+- maturity
+tags:
+- basis
+- bid-ask
+- bond
+- case-study
+- crisis-analysis
+- currency
+- derivative-pricing
+- derivatives
+- duration
+- econometric
+- empirical-analysis
+- equity
+- financial-regulation
+- fixed-income
+- governance
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-analysis
+- quantitative-methods
+- real-world-example
+- regulatory-compliance
+- sec-regulation
+- securitization
+- spread
+- statistical-model
+- supervision
+- treasury
+- yield-curve
+
 key_concepts:
-  - Accrued Interest Calculation
-  - Actual/Actual Day-Count
-  - Coupon Payment Division
-  - Full vs. Flat Price
-  - Present Value of Cash Flows
+- Bank Supervision
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Compliance Management
+- Corporate Governance
+- Crisis Case Study Design
+- Econometric Analysis
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Econometrics
+- Financial Markets and Institutions
+- Financial Regulation
+- Governance Standards
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Mathematical Finance Applications
+- Mathematical Modeling
+- Quantitative Analysis in Finance
+- Quantitative Methods in Finance
+- Quantitative Risk Management
+- Real-World Financial Examples
+- Regulatory Compliance
+- Regulatory Framework
+- Regulatory Risk
+- Risk Management and Hedging Strategies
+- Statistical Finance
+- Statistical Modeling
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 1.6 ACCRUED INTEREST  
 

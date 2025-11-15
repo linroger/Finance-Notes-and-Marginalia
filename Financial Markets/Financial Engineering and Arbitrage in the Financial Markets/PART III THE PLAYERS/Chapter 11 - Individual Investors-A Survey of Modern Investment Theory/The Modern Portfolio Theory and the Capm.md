@@ -1,21 +1,109 @@
 ---
-tags:
-  - capm
-  - efficient_frontier
-  - modern_portfolio_theory
-  - portfolio_returns
-  - risk_management
 aliases:
-  - MPT and CAPM
-  - Markowitz Theory
-  - Portfolio Optimization
+- MPT and CAPM
+- Markowitz Theory
+- Portfolio Optimization
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- Efficient market hypothesis
+- Market anomalies and patterns
+- Price discovery and information
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Capital Asset Pricing Model (CAPM)
+- Arbitrage Pricing Theory (APT)
+- Multi-factor risk models
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- The Modern Portfolio Theory and the Capm and financial analysis
+- The Modern Portfolio Theory and the Capm in modern finance
+- Applications of The Modern Portfolio Theory and the Capm
+- 'Case study: The Modern Portfolio Theory and the Capm'
+last_enhanced: '2025-11-06 08:42:33'
+- asset-allocation
+- var
+- factor-models
+- factor-model
+- options
+- beta
+- efficient-frontier
+- capm
+- call
+- put
+- arbitrage-pricing
+- risk-management
+- market-efficiency
+- portfolio
+- portfolio-optimization
+tags:
+- arbitrage
+- asian-crisis
+- bankruptcy
+- case-study
+- cash-flow
+- counterparty
+- credit-curve
+- crisis-analysis
+- cross-border
+- derivative-pricing
+- derivatives
+- empirical-analysis
+- equity
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- margin-call
+- market-efficiency
+- mathematical-finance
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- securitization
+- stress-test
+- var
+- yield-curve
+
 key_concepts:
-  - CSCO and XOM returns
-  - Diversification effects
-  - 'Efficient frontier: portfolios'
-  - 'MPT: reward and risk'
-  - 'Standard deviation: total risk'
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 11.3 THE MODERN PORTFOLIO THEORY AND THE CAPM  
 

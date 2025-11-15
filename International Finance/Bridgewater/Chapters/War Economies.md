@@ -1,23 +1,138 @@
 ---
 title: War Economies
 cssclasses: academia
-tags:
-  - big_debt_crises
-  - economic_conflicts
-  - economic_rivalries
-  - geopolitical_cycle
-  - war_economies
+- asset-pricing
+- banking
+- big_debt_crises
+- caps-floors
+- credit-risk
+- economic_conflicts
+- economic_rivalries
+- financial-regulation
+- forward-contracts
+- futures-contracts
+- geopolitical_cycle
+- government-bonds
+- hedging-strategies
+- interest-rates
+- market-structure
+- options
+- trading-strategies
+- war_economies
 aliases:
-  - Conflict Economics
-  - Military Economics
-  - War Economy
+- Conflict Economics
+- Military Economics
+- War Economy
+- Futures contracts and forward pricing
+- Practical examples and implementation
+- Trading strategies and market implementation
+- Financial regulation and compliance requirements
+- Investment analysis and portfolio management
+- Financial valuation and pricing methodologies
+- Fixed income securities and bond markets
+- Equity markets and stock valuation
+- International finance and global markets
+- Monetary policy and central banking
+- Financial crises and market stress events
+last_enhanced: '2025-11-06 08:42:43'
+tags:
+- asian
+- austerity
+- bank-failure
+- bank-run
+- banking
+- bankruptcy
+- basis
+- bid-ask
+- bond
+- capital-flow
+- central-bank
+- cftc
+- collateral
+- commodity
+- counterparty
+- credit-market
+- credit-rating
+- cross-border
+- currency
+- currency-crisis
+- default
+- derivatives
+- devaluation
+- equity
+- european
+- european-debt-crisis
+- eurozone
+- financial-crisis
+- financial-regulation
+- fixed-income
+- governance
+- graduate-level
+- grexit
+- hedging
+- institutional-quality
+- liquidity
+- liquidity-crisis
+- mathematical-finance
+- monetary-policy
+- pegging
+- professional-standard
+- provision
+- quantitative-methods
+- regulatory-compliance
+- reputation-risk
+- restructuring
+- sec-regulation
+- securitization
+- sovereign
+- sovereign-debt
+- spread
+- supervision
+- tail-risk
+- treasury
+- volatility
+- yield-curve
+
 key_concepts:
-  - economic conflicts, military conflicts
-  - economic rivalries, fighting
-  - economic/geopolitical cycle
-  - populist, autocratic leaders
-  - war production, consumption, accounting
+- Austerity Measures
+- Bank Supervision
+- Banking and Financial Intermediation
+- Compliance Management
+- Corporate Governance
+- Currency Union Risks
+- European Debt Crisis
+- European Integration
+- Eurozone Crisis Management
+- Financial Markets and Institutions
+- Financial Regulation
+- Fiscal Integration
+- Governance Standards
+- Greek Debt Crisis
+- Institutional-Quality Financial Education
+- Quantitative Methods in Finance
+- Regulatory Compliance
+- Regulatory Framework
+- Regulatory Risk
+- Risk Management and Hedging Strategies
+- Sovereign Debt Restructuring
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # War Economies
 

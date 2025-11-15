@@ -1,31 +1,116 @@
 ---
-tags:
-  - cap_weighting
-  - dividend_weighting
-  - equal_weighting
-  - etfs
-  - fundamental_indexing
-  - index_funds
-  - market_portfolio
-  - passive_investing
-  - research_affiliates
-  - risk_factors
 aliases:
-  - DVY
-  - Fundamental Indexing
-  - RSP
-  - Rob Arnott
+- DVY
+- Fundamental Indexing
+- RSP
+- Rob Arnott
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Financial econometrics and regression
+- Time series analysis in finance
+- Volatility modeling (GARCH)
+- Fundamental Indexing and financial analysis
+- Fundamental Indexing in modern finance
+- Applications of Fundamental Indexing
+- 'Case study: Fundamental Indexing'
+last_enhanced: '2025-11-06 08:42:33'
+- asset-allocation
+- var
+- options
+- call
+- regression
+- risk
+- swaps
+- irs
+- risk-management
+- valuation
+- portfolio
+- portfolio-optimization
+- optimization
+- dividend
+- statistical
+tags:
+- arbitrage
+- asian
+- bankruptcy
+- basis
+- case-study
+- cash-flow
+- crisis-analysis
+- cross-border
+- currency
+- derivative-pricing
+- derivatives
+- emerging-market
+- empirical-analysis
+- equity
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- liquidity
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- robo-advisor
+- sec-regulation
+- securitization
+- sovereign
+- stress-test
+- synthetic
+- var
+- volatility
+- yield-curve
+
 key_concepts:
-  - Cap weighting model
-  - Dividend-weighted index
-  - Equal-weighted index
-  - Fundamental indexing
-  - Index fund performance
-  - Overweight overpriced stocks
-  - Passive investor strategy
-  - Systematic risk factors
-  - Underweight underpriced stocks
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 11.5 FUNDAMENTAL INDEXING  
 

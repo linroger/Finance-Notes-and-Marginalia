@@ -1,22 +1,154 @@
 ---
-tags:
-  - arbitrage
-  - financial_markets
-  - liquidity_risk
-  - ltcm_meltdown
-  - risk_management
 aliases:
-  - Diamond-Dybvig model
-  - LTCM
-  - Long Term Capital Management
+- Diamond-Dybvig model
+- LTCM
+- Long Term Capital Management
+- Arbitrage principles and opportunities
+- Relative value trading
+- Law of one price enforcement
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Class Note 13 The LTCM Meltdown and financial analysis
+- Class Note 13 The LTCM Meltdown in modern finance
+- Applications of Class Note 13 The LTCM Meltdown
+- 'Case study: Class Note 13 The LTCM Meltdown'
+- yield
+- call
+- treasury
+- pricing
+- bond
+- arbitrage
+- put
+- options
+- bonds
+- cds
+- liquidity
+- default
+- risk
+- trading
+tags:
+-  LTCM
+- arbitrage
+- bank-run
+- banking
+- basis
+- bid-ask
+- bond
+- case-study
+- commercial-paper
+- commodity
+- convergence-trading
+- counterparty
+- credit-market
+- crisis-analysis
+- cross-border
+- default
+- derivative-pricing
+- derivatives
+- duration
+- econometric
+- empirical-analysis
+- equity
+- financial-institutions
+- financial-markets
+- graduate-level
+- hedge-fund
+- hedging
+- institutional-analysis
+- institutional-quality
+- learning-from-crisis
+- lender-of-last-resort
+- leverage
+- liquidity
+- liquidity-management
+- long-term-capital
+- margin-call
+- market-liquidity
+- market-neutral
+- market-structure
+- mathematical-finance
+- money-markets
+- professional-standard
+- provision
+- quant-fund
+- quantitative-analysis
+- quantitative-methods
+- real-world-example
+- repo-markets
+- securitization
+- short-term-funding
+- statistical-model
+- tail-risk
+- treasury
+- var
+- yield-curve
+
 key_concepts:
-  - Russian default
-  - Shleifer-Vishny paper
-  - arbitrage opportunities
-  - illiquid assets
-  - liquidity risk
-  - margin calls
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Central Bank Liquidity Facilities
+- Commercial Paper Markets
+- Convergence Trading Strategies
+- Counterparty Risk Assessment
+- Crisis Case Study Design
+- Econometric Analysis
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Econometrics
+- Financial Intermediation and Banking
+- Financial Market Fragility
+- Financial Markets and Institutions
+- Hedge Fund Crisis
+- Historical Financial Analysis
+- Institutional Analysis of Financial Systems
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Leverage and Risk
+- Liquidity Crisis and Management
+- Liquidity Risk and Management
+- Long Term Capital Management Case
+- Market Neutral Strategies
+- Market Structure and Microstructure
+- Mathematical Finance Applications
+- Mathematical Modeling
+- Money Market Fund Dynamics
+- Money Market Instruments
+- Quantitative Analysis in Finance
+- Quantitative Fund Management
+- Quantitative Methods in Finance
+- Quantitative Risk Management
+- Real-World Financial Examples
+- Regulatory Framework in Financial Markets
+- Repurchase Agreement Markets
+- Risk Management and Hedging Strategies
+- Short-Term Funding Markets
+- Statistical Finance
+- Statistical Modeling
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
 
 # Class Note 13 The LTCM Meltdown
 

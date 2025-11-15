@@ -1,34 +1,160 @@
 ---
-cssclasses:
-  - academia
-title: "Case Study of Bear Stearns"
-linter-yaml-title-alias: "Case Study of Bear Stearns"
-tags:
-  - asset_management
-  - bear_stearns_case_study
-  - cdo_market
-  - financial_crisis
-  - subprime_mortgages
-  - repo_market
-  - 2008_crisis
-  - investment_banking
-  - liquidity_crisis
 aliases:
-  - BS Case Study
-  - Bear Stearns Collapse
-  - "Bear Stearns Case"
+- BS Case Study
+- Bear Stearns Collapse
+- Bear Stearns Case
+cssclasses:
+- academia
+- Credit analysis and rating
+- Default probability modeling
+- Loss given default estimation
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Mortgage-backed securities structure
+- Prepayment modeling and analysis
+- Securitization and CDO structures
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Case Study of Bear Sterns and financial analysis
+- Case Study of Bear Sterns in modern finance
+- Applications of Case Study of Bear Sterns
+- 'Case study: Case Study of Bear Sterns'
+linter-yaml-title-alias: Case Study of Bear Stearns
+- call
+- tranche
+- swap
+- options
+- put
+- swaps
+- securitization
+- credit-risk
+- collateral
+- liquidity
+- irs
+- counterparty
+- subprime
+- trading
+- mbs
+title: Case Study of Bear Stearns
+tags:
+- asian-crisis
+- asset-backed-cp
+- asset-quality
+- balance-sheet
+- bank-failure
+- bank-run
+- banking
+- bankruptcy
+- basel
+- basis
+- bear-stearns
+- bid-ask
+- case-study
+- cdo
+- collateral
+- commercial-paper
+- contagion
+- counterparty
+- cp-rate
+- credit-rating
+- crisis-2008
+- crisis-analysis
+- currency
+- default
+- derivative-pricing
+- derivatives
+- empirical-analysis
+- equity
+- facility-lending
+- fed-facility
+- financial-institutions
+- financial-markets
+- graduate-level
+- hedging
+- impairment
+- institutional-analysis
+- institutional-quality
+- learning-from-crisis
+- lehman
+- leverage
+- liquidity
+- liquidity-crisis
+- liquidity-management
+- market-liquidity
+- market-structure
+- mathematical-finance
+- mbs
+- monetary-policy
+- money-market
+- money-market-fund
+- money-markets
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- repo
+- repo-markets
+- sec-regulation
+- securitization
+- short-term-funding
+- stress-test
+- structured-product
+- systemic-risk
+- tranche
+- yield-curve
+
 key_concepts:
-  - Bear Stearns leveraged bank
-  - CDO market major player
-  - High-Grade funds collapse
-  - Repo market leverage
-  - Securitization repackaging techniques
-  - Liquidity crisis and bank run
-  - JP Morgan acquisition
-  - Prime brokerage business
-  - Counterparty risk
-  - Fed intervention
+- Asset-Backed Commercial Paper
+- Banking and Financial Intermediation
+- CP Investor Base
+- Case Study Methodology
+- Central Bank Liquidity Facilities
+- Commercial Paper Markets
+- Commercial Paper Rates
+- Commercial Paper Risk Assessment
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Intermediation and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional Analysis of Financial Systems
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Liquidity Crisis and Management
+- Liquidity Risk and Management
+- Market Structure and Microstructure
+- Money Market Dynamics
+- Money Market Fund Dynamics
+- Money Market Fund Regulation
+- Money Market Instruments
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Regulatory Framework in Financial Markets
+- Repurchase Agreement Markets
+- Risk Management and Hedging Strategies
+- Short-Term Funding Markets
+- Short-Term Funding Strategies
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
 
 # Case Study of Bear Stearns
 

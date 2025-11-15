@@ -1,23 +1,40 @@
 ---
-title: Reflections On Modern Bank Runs a Case Study of Reflections On Modern Bank
-Runs a Case Study of Northern Rock | Northern Rock]]*
-tags:
-  - bank_run
-  - credit_crisis
-  - financial_markets
-  - northern_rock
-  - securitization
-aliases:
-  - Bank of England
-  - Hyun Song Shin
-  - Modern Bank Runs
-  - UK Bank
 key_concepts:
-  - Credit crisis impact
-  - Institutional investor vulnerability
-  - Modern bank run analysis
-  - Northern Rock case study
-  - Short-term funding reliance
+- Financial regulation and compliance
+- Basel III capital requirements
+- Dodd-Frank Act implications
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Mortgage-backed securities structure
+- Prepayment modeling and analysis
+- Securitization and CDO structures
+- Mathematical optimization in finance
+- Portfolio optimization techniques
+- Linear and quadratic programming
+- Reflections On Modern Bank Runs a Case Study of Northern Rock and financial analysis
+- Reflections On Modern Bank Runs a Case Study of Northern Rock in modern finance
+- Applications of Reflections On Modern Bank Runs a Case Study of Northern Rock
+- 'Case study: Reflections On Modern Bank Runs a Case Study of Northern Rock'
+tags:
+- yield
+- mbs
+- optimization
+- regulatory
+- maturity
+- regulation
+- bond
+- constraint
+- basel
+- subprime
+- bonds
+- mortgage-backed
+- securitization
+- spread
+- liquidity
 ---
 
 # Reflections On Modern Bank Runs a Case Study of Northern Rock

@@ -1,32 +1,40 @@
 ---
-title: "Problem Sets - Advanced Financial Analysis and Valuation"
-linter-yaml-title-alias: "Problem Sets - Advanced Financial Analysis and Valuation"
+title: Problem Sets - Advanced Financial Analysis and Valuation
+linter-yaml-title-alias: Problem Sets - Advanced Financial Analysis and Valuation
 tags:
-  - aFAV
-  - case_questions
-  - exercises  
-  - practice_questions
-  - problem_sets
-  - solutions
-  - waypoint
-  - navigation
+- aFAV
+- case_questions
+- equity
+- exercises
+- navigation
+- portfolio-optimization
+- practice_questions
+- private-equity
+- problem_sets
+- regulatory-capital
+- solutions
+- waypoint
 aliases:
-  - "Practice Set"
-  - "Problem Set"
-  - "Advanced Financial Analysis Problem Sets"
+- Practice Set
+- Problem Set
+- Advanced Financial Analysis Problem Sets
 key_concepts:
-  - Harvard Business School case studies
-  - Private equity valuation cases
-  - Bank valuation problem sets
-  - Pharmaceutical industry valuation
-  - Retail industry analysis
-  - Financial reporting and regulatory capital
-  - Dissenting shareholder cases
+- Bank valuation problem sets
+- Derivative securities
+- Dissenting shareholder cases
+- Financial reporting and regulatory capital
+- Financial risk management
+- Harvard Business School case studies
+- Pharmaceutical industry valuation
+- Portfolio optimization
+- Private equity valuation cases
+- Quantitative financial analysis
+- Retail industry analysis
+- Risk assessment and mitigation
 cssclasses: academia
 ---
 
 # Problem Sets - Advanced Financial Analysis and Valuation
-
 %% Begin Waypoint %%
 - BROADLINES RETAILING DAY WITH THE DOLLAR STORE HIGHLIGHTS
 - Dollar General Case Study
@@ -43,5 +51,4 @@ cssclasses: academia
 - PSET 5- Pharmaceuticals And Intangibles In Valuation
 - PSET 6- Evaluating Bank Balance Sheets and Loan Portfolios
 - PSET 7- Kohler
-
 %% End Waypoint %%

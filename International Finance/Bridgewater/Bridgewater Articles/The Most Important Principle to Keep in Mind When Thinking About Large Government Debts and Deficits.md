@@ -1,3 +1,32 @@
+---
+tags:
+- banking
+- financial-regulation
+- futures-contracts
+- government-bonds
+- hedging-strategies
+- interest-rates
+- market-risk
+- options
+- portfolio-management
+- swaps
+- trading-strategies
+key_concepts:
+- Stress testing and scenario analysis
+- Futures contracts and forward pricing
+- Interest rate swaps and swap curve construction
+- Practical examples and implementation
+- Derivatives and structured financial instruments
+- Trading strategies and market implementation
+- Investment analysis and portfolio management
+- Financial valuation and pricing methodologies
+- Fixed income securities and bond markets
+- International finance and global markets
+last_enhanced: '2025-11-06 08:42:40'
+---
+
+
+
 
 It is:
 

@@ -1,39 +1,79 @@
 ---
 cssclasses:
-  - academia
+- academia
 Owner: RRoger Lin
 title: Oaktree and the Restructuring of CIT Group
 tags:
-  - bankruptcy
-  - commercial_lender
-  - financial_crisis
-  - restructuring
-  - unsecured_debt
+- abs
+- bankruptcy
+- basis-swap
+- bond
+- bps
+- capital-structure
+- commercial_lender
+- debt-equity
+- defi
+- distressed
+- duration
+- equity
+- financial-crisis
+- financial_crisis
+- floor
+- interest-rate
+- leverage-ratio
+- libor
+- liquidity
+- option
+- put
+- restructuring
+- subprime
+- swap
+- unsecured_debt
 aliases:
-  - CIT Group
-  - Oaktree Capital
-  - Restructuring Case Study
+- CIT Group
+- Oaktree Capital
+- Restructuring Case Study
 key_concepts:
-  - Asset-based lending
-  - Financial institution characteristics
-  - Government debt guarantee
-  - Liquidity crisis
-  - Unsecured debt bonds
+- Asset-based lending
+- Basis swap mechanics
+- Convexity adjustment
+- Cross-currency basis
+- Currency swap structure
+- DV01 calculation
+- Derivative securities
+- Duration measurement
+- Financial institution characteristics
+- Financial risk management
+- Fixed vs floating leg
+- Government debt guarantee
+- Hedging with bonds
+- Interest rate sensitivity
+- Interest rate swap pricing
+- Liquidity crisis
+- Modified duration calculation
+- Portfolio immunization
+- Portfolio optimization
+- Present value of swaps
+- Price-yield relationship
+- Quantitative financial analysis
+- Risk assessment and mitigation
+- Swap curve construction
+- Swaption valuation
+- Unsecured debt bonds
 ---
 
 # Oaktree and the Restructuring of CIT Group
-
 HBR Case Study- Oaktree
 
 **Part 1 - Introduction and Overview**
 
-As the co-founder of Oaktree Capital Management.md),  I have decades of experience investing in Primer on Distressed Investing | distressed debt]] and guiding companies through restructurings. In this case,  CIT Group,  a major commercial lender,  was facing a severe liquidity crisis in 2009 due to the financial crisis and recession. My team at Oaktree had acquired a substantial position in CIT's unsecured debt bonds,  believing CIT's assets would allow for good recovery in a restructuring.
+As the co-founder of Oaktree Capital Management.md),  I have decades of experience investing in Primer on Distressed Investing | distressed debt]] and guiding companies through restructurings. In this case,  CIT Group,  a major commercial lender,  was facing a severe liquidity crisis in 2009 due to the financial crisis and recession. My team $\$a_t$$ Oaktree had acquired a substantial position in CIT's unsecured debt bonds,  believing CIT's assets would allow for good recovery in a restructuring.
 
 CIT was denied access to a government debt guarantee program,  putting them on the brink of bankruptcy. As one of CIT's largest creditors,  Oaktree joined a group providing a $3 billion rescue loan to buy time for CIT to develop a restructuring plan. I will analyze this situation in depth,  explaining the financial ratios,  and walking through Oaktree's investment process and the choices facing CIT. The analysis will be broken into 10 parts.
 
 **Part 2 - Analysis of CIT's Financial Statements and Key Ratios**
 
-Let's start by looking at CIT's financial statements and calculating some key financial ratios to assess their financial health:
+Let's start by looking $\$a_t$$ CIT's financial statements and calculating some key financial ratios to assess their financial health:
 
 - **Profitability Ratios**
 	- Return on Assets (ROA) = Net Income / Average Total Assets
@@ -56,22 +96,20 @@ Let's start by looking at CIT's financial statements and calculating some key fi
 	- Interest Coverage = EBIT%20Formula%20and%20Example.md) / Interest Expense
 		- Q2 2009 Interest Coverage = $-332.9M / $633.6M = **0.5x**
 	- Negative interest coverage ratio is very dangerous.
-
 Overall,    CIT's ratios show a company in financial distress.md) - unprofitable,    illiquid,    and overleveraged. Bankruptcy was a real possibility without swift action.
 
 **Part 3 - Oaktree's Investment Thesis and CIT Debt Position**
 
-Despite CIT's troubles,    Oaktree saw an opportunity in its unsecured debt bonds trading at distressed levels. Our investment thesis was:
+Despite CIT's troubles,    Oaktree saw an opportunity in its unsecured debt bonds trading $\$a_t$$ distressed levels. Our investment thesis was:
 
 - CIT had significant asset value that could recover well in a restructuring
 - The market was underpricing recovery value due to panic selling
 - Longer-dated bonds maturing in 2010-2012 offered best risk/reward
-
-To capitalize on this opportunity,    we accumulated a substantial position concentrated in the 2010-2012 unsecured bonds,    acquired at significant discounts to par value.
+To capitalize on this opportunity,    we accumulated a substantial position concentrated in the 2010-2012 unsecured bonds,    acquired $\$a_t$$ significant discounts to par value.
 
 For example,    the 8/15/2010 bonds with $11.98M par value were trading around $0.55 on the dollar when we acquired our position. This enabled us to get a bond with $11.98M face value by only paying around $6.59M. The market was pricing in very low recovery values.
 
-Our experience told us recoveries would likely be higher,    potentially generating significant profits on the bonds purchased at distressed prices once the restructuring completed.
+Our experience told us recoveries would likely be higher,    potentially generating significant profits on the bonds purchased $\$a_t$$ distressed prices once the restructuring completed.
 
 **Part 4 - CIT's Choices and Oaktree's Incentives in Restructuring**
 
@@ -82,7 +120,6 @@ CIT had few good options remaining by mid-2009:
 - Prepackaged bankruptcy - Could attract bondholder support with less uncertainty
 - Asset sales - Could raise cash but may not solve underlying issues
 - Government assistance - Already denied further aid from TLGP program
-
 A prepackaged "prepack" bankruptcy was likely the best option,    potentially allowing an orderly restructuring with creditor support.
 
 As a major CIT bondholder,    Oaktree's incentives were aligned with an orderly restructuring that maximized creditor recoveries. A "free-fall" bankruptcy could lead to lower recoveries,  while an out-of-court exchange depended on voluntary participation.
@@ -92,9 +129,8 @@ A prepack would allow Oaktree to:
 - Negotiate favorable restructuring terms for bondholders
 - Minimize bankruptcy uncertainty
 - Maximize bondholder recoveries
-- Capitalize on CIT bonds acquired at distressed prices
-
-**Part 5 - $3 Billion Rescue Loan Terms and Impact**
+- Capitalize on CIT bonds acquired $\$a_t$$ distressed prices
+**Part 5 - $3 Billion Rescue Loan Terms and Impact**$
 
 To buy time for a restructuring,  Oaktree and other bondholders provided a $3 billion rescue loan with the following key terms:
 
@@ -103,7 +139,6 @@ To buy time for a restructuring,  Oaktree and other bondholders provided a $3 bi
 - 5% commitment fee,  1% undrawn fee,  6.5% prepayment premium
 - Secured by unencumbered assets worth 8x loan value
 - Required acceptable restructuring plan by 10/1/2009
-
 This loan allowed CIT to avoid immediate bankruptcy while providing time to negotiate a prepack plan. It also gave creditors control through strict terms and covenants.
 
 For Oaktree,  it provided influence over the restructuring as part of the Lender Steering Committee while ensuring priority recovery through the secured loan if CIT still filed for bankruptcy.
@@ -114,7 +149,6 @@ As a large secured lender and unsecured bondholder,  Oaktree occupied two differ
 
 - **Secured Lender**: Priority recovery in bankruptcy provides incentive to push for repayment of rescue loan.
 - **Unsecured Bondholder**: Incentive to maximize bondholder recoveries in restructuring plan.
-
 This required balancing interests across the capital structure. An overly aggressive restructuring could scuttle the prepack plan and lead to a chaotic bankruptcy with lower recoveries.
 
 Oaktree needed an outcome that repaid the rescue loan while providing reasonable recoveries across the capital structure. The loan terms ensured influence over the restructuring plan while the steering committee role allowed negotiating a fair,  orderly prepack settlement.
@@ -136,32 +170,27 @@ A prepackaged bankruptcy would allow an orderly restructuring with creditor supp
 Key steps for CIT would be negotiating plan terms with creditors like Oaktree,  defining claimant classes,  and obtaining required votes for approval prior to filing. This would streamline the court process.
 
 - *Part 8 - Estimating Recoveries in a CIT Prepackaged Bankruptcy **
-
 We can estimate potential creditor recoveries under a hypothetical CIT prepackaged bankruptcy as follows:
 
 **Total Distributable Value**:
 
-- Net Book Value of Unencumbered Assets: $8B
-- Liquidation Value @ 60% of Book: $4.8B
-
+- Net Book Value of Unencumbered Assets: $8B$
+- Liquidation Value @ 60% of Book: $4.8B$
 **Total Claims**:
 
-- Secured Debt: $25B
-- Unsecured Debt: $31B
-- TOTAL: $56B
-
+- Secured Debt: $25B$
+- Unsecured Debt: $31B$
+- TOTAL: $56B$
 **Waterfall Distribution**:
 
-[^1]: Secured Debt: $25B
-[^1]: Ch. 11 Costs: $0.5B (Estimate)
-[^1]: Unsecured Debt: $4.8B * (Remaining Value / Total Unsecured Claims)
+[^1]: Secured Debt: $25B$
+[^1]: Ch. 11 Costs: $0.5B (Estimate)$
+[^1]: Unsecured Debt: $4.8B * (Remaining Value / Total Unsecured Claims)$
 	- $4.8B * ($4.3B / $31B) = $0.69B
-
 **Estimated Recoveries**:
 
 - Secured Debt: $25B / $25B = **100%**
 - Unsecured Debt: $0.69B / $31B = **~22%**
-
 This demonstrates potential recoveries for Oaktree's secured rescue loan and unsecured bond positions. Actual results would vary based on negotiated plan terms.
 
 **Part 9 - Key Factors in Negotiating CIT's Prepackaged Restructuring**
@@ -174,7 +203,6 @@ As a member of the steering committee,  Oaktree would negotiate the prepack plan
 - **Asset Sales**: Sale proceeds used to pay down debt vs. fund operations.
 - **Creditor Positions**: Offer incentives for broad-based plan support.
 - **Court Approval**: Fairness of plan to dissenting creditors.
-
 Negotiating an acceptable plan requires balancing these diverse interests among classes of creditors and the company's operating needs.
 
 **Part 10 - Conclusion**
@@ -208,19 +236,16 @@ CIT is in financial distress.md) for several key reasons:
 	- CIT lost access to unsecured debt markets in 2007-2008 as crisis unfolded
 - [](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%207-%20CP,%20Repo,%20and%20the%20Crisis/Class%20Note%2012%20-%20Commercial%20Paper.md#Class%20Note%2012%20–%20Commercial%20Paper | Commercial%20Paper) rollovers dropped from $8 billion per month to near zero
 	- Forced to draw on credit lines and use secured debt as alternative funding
-
 **Key Financial Metrics Showing CIT's Deterioration**
 
 - Return on Equity dropped from 15% in 2006 to -24% in Q2 2009
 - Non-performing assets jumped from 0.4% of loans in 2006 to 4.7% in Q2 2009
 - Interest coverage ratio dropped from 2.1x in 2006 to -0.5x in Q2 2009
-
 **Impact on CIT's Financial Performance**
 
 - Return on Assets dropped from 1.6% in 2006 to -2.2% in Q2 2009
 - Leverage ratio jumped from 9.0x debt/equity in 2006 to 10.7x in Q2 2009
 - Default risks increased with 66% jump in non-performing loans
-
 In summary,    CIT's aggressive growth strategy without proper risk controls combined with over-reliance on debt funding made it highly vulnerable when the recession and financial crisis hit. This perfect storm severely damaged CIT's financial performance and brought it to the edge of bankruptcy.
 
 **2. How did CIT fund its operations leading up to the financial crisis? How did it change during the financial crisis? Why is CIT struggling to refinance its debt now?**
@@ -234,25 +259,22 @@ CIT's funding model was not sustainable when market conditions deteriorated:
 - Historically relied on long-term debt (80%) and [](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%207-%20CP,%20Repo,%20and%20the%20Crisis/Class%20Note%2012%20-%20Commercial%20Paper.md#Class%20Note%2012%20–%20Commercial%20Paper | Commercial%20Paper) (5-10%)
 - Limited deposit funding cushion - less than 5% of assets
 - Minimal equity capital - 6-7% of assets from 2006-2008
-
-When the financial crisis hit in 2007-2008,  CIT lost access to unsecured debt markets and could no longer issue [](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%207-%20CP,%20Repo,%20and%20the%20Crisis/Class%20Note%2012%20-%20Commercial%20Paper.md#Class%20Note%2012%20–%20Commercial%20Paper | Commercial%20Paper). CIT could no longer roll over or access enough debt funding to sustain operations. Its credit ratings were downgraded,  making debt issuance prohibitively expensive. [](Class%20Note%2012%20–%20Commercial%20Paper#Class%20Note%2012%20–%20Commercial%20Paper | CP) rollovers dropped quickly from $8B/month to near zero.
+When the financial crisis hit in 2007-2008,  CIT lost access to unsecured debt markets and could no longer issue [](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%207-%20CP,%20Repo,%20and%20the%20Crisis/Class%20Note%2012%20-%20Commercial%20Paper.md#Class%20Note%2012%20–%20Commercial%20Paper | Commercial%20Paper). CIT could no longer roll over or access enough debt funding to sustain operations. Its credit ratings were downgraded,  making debt issuance prohibitively expensive. [](Class%20Note%2012%20–%20Commercial%20Paper#Class%20Note%2012%20–%20Commercial%20Paper | CP) rollovers dropped quickly from $8B/month to near zero.$
 
 To bridge the gap,  CIT drew on credit lines and increased secured borrowing:
 
-- Raised $3B in a secured loan from Goldman Sachs in 2008
-- Drew $7.3B on credit lines in Q1 2008 - immediately maxing out facilities
+- Raised $3B in a secured loan from Goldman Sachs in 2008$
+- Drew $7.3B on credit lines in Q1 2008 - immediately maxing out facilities$
 - Increased secured borrowing from $17B (2006) to $32B (Q2 2009)
 - Encumbered 30% of CIT assets with secured debt by 2009
-
 However,  this was a short term patch and did not fix the core funding gap. Credit lines were maxed out quickly while secured debt had limits.
 
 By 2009,  CIT could not refinance maturing debt due to:
 
-- Lack of unsecured market access at reasonable rates
+- Lack of unsecured market access $\$a_t$$ reasonable rates
 - Inability to roll [](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%207-%20CP,%20Repo,%20and%20the%20Crisis/Class%20Note%2012%20-%20Commercial%20Paper.md#Class%20Note%2012%20–%20Commercial%20Paper | Commercial%20Paper)
 - Credit lines fully utilized
 - Assets already heavily encumbered by secured debt
-
 The over-reliance on debt markets without a stable deposit base or adequate equity buffer left CIT extremely exposed when wholesale funding disappeared during the financial crisis.
 
 **3. What are the unique characteristics of CIT,  as compared to other types of financial institutions,  that will influence the outcome of the restructuring?**
@@ -267,7 +289,6 @@ CIT has several unique characteristics compared to other financial institutions 
 - **Lack of Core Deposit Funding** - Only 5% deposit funding versus 30-50% for most banks. This made CIT reliant on less stable wholesale funding.
 - **Small Retail Presence** - CIT lacks an extensive branch network or large base of retail customers. This makes it harder to attract deposits but also reduces integration challenges.
 - **Not a Bank** - CIT is not a commercial bank. This provides more restructuring flexibility but also eliminates the option of FDIC assistance.
-
 These attributes will facilitate CIT's restructuring as an asset-backed specialty lender without an extensive consumer presence. The lack of deposit funding increases urgency for a solution.
 
 **4. What are the characteristics of CIT’s assets? Does the fact that CIT is in trouble indicate that these assets are likely worth very little? How do value its assets: you can make use of the historical recovery rates for senior secured and senior unsecured debt of 80 cents and 45 cents on the dollar,  respectively. The five-year default rate for senior secured debt is approximately 3%.**
@@ -280,37 +301,33 @@ While CIT is in financial trouble,  an analysis of its assets indicates higher r
 - CIT 2009 Q2 non-performing loan rate of 4.7% is well below most banks in the crisis.
 - Historical recovery rates are 80% for senior secured debt and 45% for senior unsecured.
 - CIT's senior secured debt recovery rate likely higher than 80% given strong asset collateral.
-
 Estimating CIT's liquidation value:
 
-- Total Assets: $71B
-- Estimated Loan Recovery at 90% of face value: 90% x $48B = $43B
-- Remaining Asset Recovery at 50%: 50% x ($71B - $48B) = $12B
+- Total Assets: $71B$
+- Estimated Loan Recovery $\$a_t$$ 90\% of face value: 90\% x $48B = $43B
+- Remaining Asset Recovery $\$a_t$$ 50\%: 50\% x ($71B - $48B) = $12B
 - **Total Liquidation Value = $43B + $12B = $55B**
-
 Compared to total debt of $59B,  this liquidation value indicates potential recovery rates exceeding 90% on secured debt and 70% on unsecured debt - far higher than current market pricing.
 
 The collateral supporting CIT's loans gives confidence that liquidation recovery values should significantly exceed current depressed estimates. CIT's asset values appear poised to recover substantially once stability is restored.
 
-[^1]: **On what terms,  if any,  should Oaktree participate in an additional $3 billion credit to CIT?
+[^1]: **On what terms,  if any,  should Oaktree participate in an additional $3 billion credit to CIT?$
 	How should it be structured to successfully attract funding from the large investors holding its existing debt? What are the key issues in this structuring of the participation?**
 
-**Question 5 - Terms for Oaktree to Participate in $3B CIT Credit**
+**Question 5 - Terms for Oaktree to Participate in $3B CIT Credit**$
 
-I would recommend Oaktree participate in the additional $3B credit facility.md) to CIT under the following terms:
+I would recommend Oaktree participate in the additional $3B credit facility.md) to CIT under the following terms:$
 
 - **Secured Structure** - Loan should be secured by unencumbered CIT assets to provide priority recovery and mitigate risk.
 - **Short Maturity** - 1-2 year term to incentive timely repayment. Longer maturity reduces urgency.
 - **High Interest Rates** - Pricing should reflect distressed nature of credit. Suggest 1000 bps over LIBOR.
 - **Strong Covenants** - Strict financial Slides 2 Discussion of Loan Covenants Vs. Bond Covenants | Covenants]] to control CIT's actions. Minimum capital and liquidity requirements.
 - **Fees** - Attractive fees for lenders,  including 5% commitment fee and 1% unused fee.
-
 This structure enhances priority recovery,  provides high current income,  and imposes financial discipline on CIT. Key participation issues include:
 
 - Collateral value sufficiency and coverage ratios
 - Coordination across existing creditors
 - Interest costs for CIT balance sheet
-
 The loan must balance attractive lender terms with viability for CIT's recapitalization. Broad existing creditor participation is also critical for successful syndication
 
 [^1]: **Given the actual structure and terms of the deal outlined in part B,  what do you expect CIT to do next and what is likely to happen? Why?**
@@ -323,7 +340,6 @@ Based on the actual rescue loan terms,  I expect CIT will:
 - Obtain broad creditor support for a prepackaged Chapter 11 plan
 - File for Chapter 11 by end of 2009 with pre-approved plan
 - Transfer assets to new company per plan,  emerge quickly from Ch. 11
-
 The tight timeline,  strict covenants,  and steering committee oversight will force CIT to move quickly to finalize an acceptable prepack plan.
 
 The secured loan gives creditors priority recovery and influence over the restructuring. This will incentivize CIT management to develop a credible prepack plan that respects creditor interests.

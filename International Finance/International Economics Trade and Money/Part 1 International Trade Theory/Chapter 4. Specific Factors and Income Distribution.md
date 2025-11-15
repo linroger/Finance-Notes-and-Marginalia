@@ -1,19 +1,72 @@
 ---
-cssclasses: [international-economics]
+cssclasses:
+- international-economics
 title: Chapter 4. Specific Factors and Income Distribution
-tags: [international-economics, specific-factors-model, income-distribution, short-run-effects]
-aliases: [Specific Factors Model, Income Distribution]
-key_concepts:
-  - Specific Factors
-  - Mobile Factors
-  - Income Distribution
-  - Short-run Effects of Trade
-  - Winners and Losers from Trade
-  - Diminishing Returns
-  - Production Possibility Frontier
-  - Factor Price Equalization
+- bond-durability
+- income-distribution
+- international-economics
+- short-run-effects
+- specific-factors-model
+- trading-strategies
+aliases:
+- Specific Factors Model
+- Income Distribution
+- Duration and interest rate risk measurement
+- Financial theory and academic research
+- Practical examples and implementation
+- Trading strategies and market implementation
+- Investment analysis and portfolio management
+- International finance and global markets
 linter-yaml-title-alias: Chapter 4. Specific Factors and Income Distribution
+last_enhanced: '2025-11-06 08:42:49'
+tags:
+- bond
+- credit-curve
+- cross-border
+- duration
+- equity
+- graduate-level
+- institutional-quality
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+
+key_concepts:
+- Banking and Financial Intermediation
+- Banking and Intermediation
+- Credit Risk Assessment
+- Derivative Securities
+- Financial Crisis Analysis
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Financial Regulation and Compliance
+- Institutional-Quality Financial Education
+- Liquidity and Market Structure
+- Market Trading and Hedging
+- Quantitative Finance Methods
+- Quantitative Methods in Finance
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # Chapter 4. Specific Factors and Income Distribution
 

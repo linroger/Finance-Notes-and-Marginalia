@@ -1,20 +1,100 @@
 ---
-tags:
-  - asset_pricing
-  - capm
-  - market_portfolio
-  - mean_variance
-  - quadratic_utility
 aliases:
-  - Capital Asset Pricing Model
-  - Sharpe-Lintner-Mossin Model
+- Capital Asset Pricing Model
+- Sharpe-Lintner-Mossin Model
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- Efficient market hypothesis
+- Market anomalies and patterns
+- Price discovery and information
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Capital Asset Pricing Model (CAPM)
+- Arbitrage Pricing Theory (APT)
+- Multi-factor risk models
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- The Classical One-Period Capm and financial analysis
+- The Classical One-Period Capm in modern finance
+- Applications of The Classical One-Period Capm
+- 'Case study: The Classical One-Period Capm'
+last_enhanced: '2025-11-06 08:42:32'
+- market-efficiency
+- pricing
+- dividend
+- capm
+- alpha
+- factor-models
+- call
+- options
+- delta
+- risk-management
+- risk
+- portfolio-optimization
+- var
+- beta
+- portfolio
+tags:
+- arbitrage
+- case-study
+- crisis-analysis
+- derivative-pricing
+- derivatives
+- empirical-analysis
+- equity
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- market-efficiency
+- mathematical-finance
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- sovereign
+- stress-test
+- var
+
 key_concepts:
-  - Classical CAPM
-  - Consumption-based asset pricing
-  - Market portfolio return
-  - Mean-variance analysis
-  - Quadratic utility function
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 9.2 The classical one-period CAPM  
 

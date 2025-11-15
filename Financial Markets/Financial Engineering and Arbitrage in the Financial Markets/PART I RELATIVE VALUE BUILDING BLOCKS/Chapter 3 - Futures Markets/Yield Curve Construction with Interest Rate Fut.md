@@ -1,21 +1,136 @@
 ---
-tags:
-  - eurodollar_futures
-  - financing_rate
-  - interest_rate_futures
-  - libor_rate
-  - yield_curve
 aliases:
-  - Eurodollar futures
-  - LIBOR
-  - Yield curve
+- Eurodollar futures
+- LIBOR
+- Yield curve
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Yield curve construction and modeling
+- Forward rate calculations
+- Spot and discount factors
+- Yield Curve Construction with Interest Rate Fut and financial analysis
+- Yield Curve Construction with Interest Rate Fut in modern finance
+- Applications of Yield Curve Construction with Interest Rate Fut
+- 'Case study: Yield Curve Construction with Interest Rate Fut'
+last_enhanced: '2025-11-06 08:42:33'
+- interest-rate
+- forward-rates
+- put
+- roll
+- futures
+- expiry
+- basis
+- yield
+- forward
+- options
+- discount-factors
+- maturity
+- spot-rates
+- bond
+- convexity
+tags:
+- arbitrage
+- bank-failure
+- banking
+- bankruptcy
+- basis
+- bond
+- case-study
+- cash-flow
+- cftc
+- collateral
+- commodity
+- counterparty
+- credit-curve
+- credit-market
+- crisis-analysis
+- cross-border
+- currency
+- default
+- derivative-pricing
+- derivatives
+- duration
+- econometric
+- empirical-analysis
+- equity
+- european
+- fair-value
+- fixed-income
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- liquidity
+- margin-call
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-analysis
+- quantitative-methods
+- real-world-example
+- repo
+- sec-regulation
+- securitization
+- sovereign
+- statistical-model
+- structured-product
+- synthetic
+- volatility
+- yield-curve
+
 key_concepts:
-  - Discount factors calculation
-  - Eurodollar futures role
-  - Financing rate information
-  - Spot LIBOR rate
-  - Yield curve construction
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Econometric Analysis
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Econometrics
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Mathematical Finance Applications
+- Mathematical Modeling
+- Quantitative Analysis in Finance
+- Quantitative Methods in Finance
+- Quantitative Risk Management
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Statistical Finance
+- Statistical Modeling
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 3.5 YIELD CURVE CONSTRUCTION WITH INTEREST RATE FUTURES  
 

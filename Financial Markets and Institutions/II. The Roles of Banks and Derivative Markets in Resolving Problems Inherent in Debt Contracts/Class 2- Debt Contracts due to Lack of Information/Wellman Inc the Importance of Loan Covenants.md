@@ -1,20 +1,44 @@
 ---
 title: Wellman Inc the Importance of Loan Covenants
 tags:
-  - business_strategy
-  - credit_quality
-  - financial_analysis
-  - loan_covenants
-  - wellman_inc
+- acquisition
+- asset-swap
+- bond
+- business_strategy
+- credit_quality
+- equity
+- financial_analysis
+- forward
+- leverage-ratio
+- loan_covenants
+- merger
+- option
+- stock
+- swap
+- unemployment
+- wellman_inc
 aliases:
-  - Loan Covenants
-  - Wellman Inc.
+- Loan Covenants
+- Wellman Inc.
 key_concepts:
-  - 'Borrower: Wellman Inc.'
-  - Conflicts of interest
-  - Credit quality
-  - Loan covenants
-  - Rating downgrade
+- Basis swap mechanics
+- 'Borrower: Wellman Inc.'
+- Conflicts of interest
+- Credit quality
+- Cross-currency basis
+- Currency swap structure
+- Derivative securities
+- Financial risk management
+- Fixed vs floating leg
+- Interest rate swap pricing
+- Loan covenants
+- Portfolio optimization
+- Present value of swaps
+- Quantitative financial analysis
+- Rating downgrade
+- Risk assessment and mitigation
+- Swap curve construction
+- Swaption valuation
 ---
 
 # Wellman Inc the Importance of Loan Covenants

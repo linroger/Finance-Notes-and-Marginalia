@@ -2,36 +2,99 @@
 cssclasses: academia
 title: Financial Engineering
 tags:
-  - derivative_pricing
-  - financial_engineering
-  - financial_markets
-  - investment_strategies
-  - risk_management
-  - quantitative_finance
-  - stochastic_calculus
-  - fixed_income
+- black-scholes
+- bond
+- cap
+- capm
+- cds
+- cdsos
+- credit-risk
+- currency
+- derivative_pricing
+- duration
+- dv01
+- equity
+- exotic
+- financial_engineering
+- financial_markets
+- fixed-income
+- fixed_income
+- floor
+- forward
+- future
+- inflation
+- interest-rate
+- investment_strategies
+- ito
+- liquidity
+- mean-variance
+- option
+- quantitative_finance
+- real-option
+- risk_management
+- sofr
+- stochastic
+- stochastic_calculus
+- swap
+- variance
+- yield-curve
 aliases:
-  - Fin. Engineering
-  - FinEng
-  - Financial Eng.
-  - Quantitative Finance
+- Fin. Engineering
+- FinEng
+- Financial Eng.
+- Quantitative Finance
 key_concepts:
-  - Derivatives pricing models
-  - Financial innovation techniques
-  - Structured products design
-  - Arbitrage pricing theory
-  - Risk-neutral valuation
-  - Stochastic processes in finance
-  - Credit risk modeling
-  - Interest rate modeling
-  - Volatility surface calibration
-  - Financial engineering tools
+- ' tranche valuation'
+- Arbitrage pricing theory
+- Basis swap mechanics
+- Beta calculation
+- CDO squared structures
+- CDS curve construction
+- CDS spread calibration
+- Capital Asset Pricing Model
+- Convexity adjustment
+- Cost of equity estimation
+- Credit Default Swaps
+- Credit index products
+- Credit risk modeling
+- Cross-currency basis
+- Currency swap structure
+- DV01 calculation
+- Default correlation
+- Derivative securities
+- Derivatives pricing models
+- Duration measurement
+- Financial engineering tools
+- Financial innovation techniques
+- Financial risk management
+- Fixed vs floating leg
+- Hedging with bonds
+- Interest rate modeling
+- Interest rate sensitivity
+- Interest rate swap pricing
+- Market efficiency implications
+- Market portfolio
+- Modified duration calculation
+- Portfolio immunization
+- Portfolio optimization
+- Present value of swaps
+- Price-yield relationship
+- Quantitative financial analysis
+- Risk assessment and mitigation
+- Risk-neutral valuation
+- Risk-return tradeoff
+- Security Market Line
+- Stochastic processes in finance
+- Structured products design
+- Swap curve construction
+- Swaption valuation
+- Synthetic CDO pricing
+- Systematic vs idiosyncratic risk
+- Volatility surface calibration
 ---
 
 # Financial Engineering
-
 ## Core Topics
-
 - 1. Deterministic Cash Flows
 - 2. Forwards, Swaps, Futures, and Options
 - 5. Mean Variance-CAPM
@@ -40,9 +103,7 @@ key_concepts:
 - 8. Credit Modeling and Credit Derivatives
 - 9. Introduction to Real Options
 - 10. Other Topics in Quantitative Finance
-
 ## Primers and Guides
-
 - A Guide to Duration DV01 and Yield Curve
 - A Practical Guide to Bonds and Swaps
 - A Primer on Currency Derivatives
@@ -53,9 +114,7 @@ key_concepts:
 - Introduction to Financial Mathematics
 - Mathematical Modeling of Derivative Pricing
 - Mathematics of the Financial Markets
-
 ## Specific Products and Models
-
 - Basis Trade Explainer
 - Determining the Stochastic Process for a Forward Contract from Ito's Lemma
 - Finance Derivatives Overview and Uses
@@ -71,9 +130,7 @@ key_concepts:
 - Variance Swaps
 - Verification of Central Limit Theorem
 - Verifying Martingale Property with Q
-
 ## Fixed Income Derivatives
-
 - A Primer on Probability Theory and Stochastic Modelling
 - An Introduction to Credit Risk Modelling
 - Assessing the LIFFE Swapnote

@@ -1,42 +1,78 @@
 ---
 title: Week 3 Financial Risk Analysis
 cssclasses:
-  - academia
+- academia
 linter-yaml-title-alias: Week 3 Financial Risk Analysis
 tags:
-  - cash_flow_analysis
-  - financial_risk
-  - liquidity_ratios
-  - solvency_ratios
-  - credit_analysis
-  - bankruptcy_prediction
-  - covenant_analysis
+- bankruptcy_prediction
+- basis-swap
+- capital-structure
+- cash_flow_analysis
+- cds
+- cdsos
+- covenant_analysis
+- credit-risk
+- credit_analysis
+- currency
+- debt-equity
+- equity
+- financial_risk
+- forward
+- interest-rate
+- leveraged-buyout
+- liquidity
+- liquidity_ratios
+- multiple
+- portfolio-optimization
+- risk-management
+- share-repurchase
+- solvency_ratios
+- swap
+- swaption
 aliases:
-  - Financial Risk Analysis
-  - Credit Risk Assessment
-  - Week 3 Risk Analysis
+- Financial Risk Analysis
+- Credit Risk Assessment
+- Week 3 Risk Analysis
 key_concepts:
-  - Bankruptcy prediction models
-  - Cash flow analysis
-  - Credit default swap spreads
-  - Financial risk analysis
-  - Forecast cash flows
-  - Liquidity and profitability ratios
-  - Lemons problem in lending
-  - Risk-incentive problems
-  - Loan covenants
-  - Altman Z-score
-  - Piotroski F-score
+- ' tranche valuation'
+- Altman Z-score
+- Bankruptcy prediction models
+- Basis swap mechanics
+- CDO squared structures
+- CDS curve construction
+- CDS spread calibration
+- Cash flow analysis
+- Credit Default Swaps
+- Credit default swap spreads
+- Credit index products
+- Cross-currency basis
+- Currency swap structure
+- Default correlation
+- Derivative securities
+- Financial risk analysis
+- Financial risk management
+- Fixed vs floating leg
+- Forecast cash flows
+- Interest rate swap pricing
+- Lemons problem in lending
+- Liquidity and profitability ratios
+- Loan covenants
+- Piotroski F-score
+- Portfolio optimization
+- Present value of swaps
+- Quantitative financial analysis
+- Risk assessment and mitigation
+- Risk-incentive problems
+- Swap curve construction
+- Swaption valuation
+- Synthetic CDO pricing
+- tranche valuation
 ---
 
 # Week 3 Financial Risk Analysis
-
 ## ADVANCED FINANCIAL ANALYSIS AND VALUATION
-
 ## FINANCIAL STATEMENT ANALYSIS
-
 ### FINANCIAL RISK ANALYSIS
-
 - Valuation Process
 	- Forecast cash flows (or earnings)
 	- Build valuation model and discount CFs
@@ -44,13 +80,11 @@ key_concepts:
 			- Finish Risk Analysis
 			- focus on financial risk
 			- Start with forecasting (mechanics)
-
 !500
 
 ### BASIC ISSUES IN LENDING
-
 - "Lemons" Problem (Ex Ante)
-	- Who will accept a loan at a given rate?
+	- Who will accept a loan $\$a_t$$ a given rate?
 	- Raising the interest rate does not fix the problem
 	- Credit rationing and analyzing the borrower's financial situation are potential solutions (or responses)
 - Risk-Incentive Problem (Ex Post)
@@ -58,9 +92,7 @@ key_concepts:
 	- Analyze whether risk or strategy has changed
 	- Place Covenants into the lending agreement
 - Information And Risk Analysis Are Critical With Respect To Both Problems
-
 ### FINANCIAL RISK ANALYSIS TOOLBOX
-
 - Ratio Analysis
 	- Liquidity: What are the borrower's short-term cash needs?
 	- Capital structure or solvency: What is the borrower's financial leverage?
@@ -71,30 +103,22 @@ key_concepts:
 	- Default prediction models
 - Credit scoring from external sources
 	- Moody's & S&P
-
 ### LIQUIDITY RATIOS
-
 - Current Ratio = Current Assets / Current Liabilities
 - Quick (Acid-Test) Ratio = (Current Assets - Inventory) / Current Liabilities
 - Cash Ratio = Cash / Current Liabilities
 - Operating Cash Flow Ratio = Operating Cash Flow / Current Liabilities
-
 ### SOLVENCY RATIOS
-
 - Debt-to-Equity = Total Debt / Total Equity
 - Debt-to-Assets = Total Debt / Total Assets
 - Interest Coverage = EBIT / Interest Expense
 - Debt Service Coverage = (EBIT + Depreciation) / (Interest + Principal)
-
 ### PROFITABILITY RATIOS (RELEVANT FOR CREDIT)
-
 - Return on Assets (ROA) = Net Income / Total Assets
 - Return on Equity (ROE) = Net Income / Total Equity
 - EBITDA Margin = EBITDA / Revenue
 - Operating Cash Flow Margin = Operating Cash Flow / Revenue
-
 ### ALTMAN Z-SCORE
-
 Original Z-Score for Public Manufacturing Companies:
 
 Z = 1.2(Working Capital/Total Assets) + 1.4(Retained Earnings/Total Assets) + 3.3(EBIT/Total Assets) + 0.6(Market Value of Equity/Book Value of Debt) + 1.0(Sales/Total Assets)
@@ -102,9 +126,7 @@ Z = 1.2(Working Capital/Total Assets) + 1.4(Retained Earnings/Total Assets) + 3.
 - Z > 2.99: "Safe" Zone
 - 1.80 < Z < 2.99: "Grey" Zone
 - Z < 1.80: "Distress" Zone
-
 ### PIOTROSKI F-SCORE
-
 Nine fundamental signals:
 1. Positive Net Income (1 point)
 2. Positive ROA (1 point)
@@ -115,28 +137,22 @@ Nine fundamental signals:
 7. No New Shares Issued (1 point)
 8. Higher Gross Margin (1 point)
 9. Higher Asset Turnover (1 point)
-
 Score 8-9: Strong
 Score 0-2: Weak
 
 ### CREDIT DEFAULT SWAPS (CDS)
-
 - Market-based measure of credit risk
 - CDS spread reflects market's assessment of default probability
 - Higher spread indicates higher perceived risk
 - Can be used to complement fundamental analysis
-
 ### COVENANT ANALYSIS
-
 Common Financial Covenants:
 - Minimum EBITDA levels
 - Maximum debt-to-EBITDA ratios
 - Minimum interest coverage ratios
 - Maximum capital expenditure limits
 - Restrictions on dividends and share buybacks
-
 ### PRACTICAL APPLICATION
-
 [^1]: Start with ratio analysis
 [^2]: Apply prediction models
 [^3]: Compare with market-based measures
@@ -144,7 +160,6 @@ Common Financial Covenants:
 [^5]: Form overall credit assessment
 
 ### KEY TAKEAWAYS
-
 - Financial risk analysis is critical for lenders and investors
 - Multiple tools should be used in combination
 - Both historical analysis and forward-looking assessment are important

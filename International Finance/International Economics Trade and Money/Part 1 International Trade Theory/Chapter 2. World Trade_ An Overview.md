@@ -1,17 +1,86 @@
 ---
-cssclasses: [international-economics]
+cssclasses:
+- international-economics
 title: Chapter 2. World Trade_ An Overview
-tags: [international-economics, world-trade, gravity-model, trade-patterns]
-aliases: [World Trade Overview]
-key_concepts:
-  - Gravity Model
-  - Size Matters in Trade
-  - Distance and Trade
-  - Trade Impediments
-  - Trade Agreements
-  - Border Effects
+- financial-regulation
+- gravity-model
+- international-economics
+- trade-patterns
+- trading-strategies
+- world-trade
+aliases:
+- World Trade Overview
+- Financial theory and academic research
+- Practical examples and implementation
+- Trading strategies and market implementation
+- Financial regulation and compliance requirements
+- International finance and global markets
 linter-yaml-title-alias: Chapter 2. World Trade_ An Overview
+last_enhanced: '2025-11-06 08:42:49'
+tags:
+- asian
+- austerity
+- commodity
+- cross-border
+- currency
+- equity
+- european
+- european-debt-crisis
+- eurozone
+- financial-regulation
+- governance
+- graduate-level
+- grexit
+- institutional-quality
+- mathematical-finance
+- professional-standard
+- provision
+- quantitative-methods
+- regulatory-compliance
+- sovereign
+- sovereign-debt
+- supervision
+
+key_concepts:
+- Austerity Measures
+- Bank Supervision
+- Banking and Financial Intermediation
+- Compliance Management
+- Corporate Governance
+- Currency Union Risks
+- European Debt Crisis
+- European Integration
+- Eurozone Crisis Management
+- Financial Markets and Institutions
+- Financial Regulation
+- Fiscal Integration
+- Governance Standards
+- Greek Debt Crisis
+- Institutional-Quality Financial Education
+- Quantitative Methods in Finance
+- Regulatory Compliance
+- Regulatory Framework
+- Regulatory Risk
+- Risk Management and Hedging Strategies
+- Sovereign Debt Restructuring
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # Chapter 2. World Trade: An Overview
 

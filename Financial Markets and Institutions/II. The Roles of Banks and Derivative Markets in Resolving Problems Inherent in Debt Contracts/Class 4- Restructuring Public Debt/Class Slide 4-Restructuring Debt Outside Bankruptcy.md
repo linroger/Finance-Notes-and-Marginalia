@@ -1,32 +1,46 @@
 ---
-cssclasses:
-  - academia
-title: "Class Slide 4: Restructuring Debt Outside Bankruptcy"
-tags:
-  - bank_debt
-  - bankruptcy
-  - negative_pledge
-  - public_debt
-  - renegotiation
-  - debt_restructuring
-  - senior_debt
-  - junior_debt
-  - holdout_problem
 aliases:
-  - Bank vs. Public Debt
-  - Debt Renegotiation
-  - Debt Restructuring
-  - Class Slide 4
+- Bank vs. Public Debt
+- Debt Renegotiation
+- Debt Restructuring
+- Class Slide 4
+cssclasses:
+- academia
 key_concepts:
-  - Bank concessions and bankruptcy
-  - Bank debt seniority
-  - Negative pledge covenant
-  - Public debt vs bank debt
-  - Restructuring debt outside bankruptcy
-  - Senior vs junior debt priority
-  - Holdout problem
-  - Coercive exchange offers
-  - Exit consent votes
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Corporate bankruptcy process
+- Debt restructuring and workouts
+- Chapter 11 reorganization
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Class Slide 4-Restructuring Debt Outside Bankruptcy and financial analysis
+- Class Slide 4-Restructuring Debt Outside Bankruptcy in modern finance
+- Applications of Class Slide 4-Restructuring Debt Outside Bankruptcy
+- 'Case study: Class Slide 4-Restructuring Debt Outside Bankruptcy'
+tags:
+- yield
+- call
+- fixed-income
+- maturity
+- bond
+- options
+- put
+- irs
+- swaps
+- bonds
+- risk
+- bankruptcy
+- cash flow
+title: 'Class Slide 4: Restructuring Debt Outside Bankruptcy'
 ---
 
 # Class Slide 4: Restructuring Debt Outside Bankruptcy

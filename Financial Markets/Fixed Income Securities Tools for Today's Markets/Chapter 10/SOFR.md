@@ -1,19 +1,97 @@
 ---
-tags:
-  - federal_reserve
-  - libor_transition
-  - overnight_borrowing
-  - repo_transactions
-  - sofr
 aliases:
-  - Secured Overnight Financing Rate
+- Secured Overnight Financing Rate
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- SOFR and financial analysis
+- SOFR in modern finance
+- Applications of SOFR
+- 'Case study: SOFR'
+last_enhanced: '2025-11-06 08:42:35'
+- treasury
+- sofr
+- fixed-income
+- bond
+- futures
+- bonds
+- interest-rates
+- libor
+- basis
+tags:
+- arbitrage
+- banking
+- basis
+- bid-ask
+- bond
+- case-study
+- central-bank
+- crisis-analysis
+- duration
+- empirical-analysis
+- fixed-income
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- repo
+- sec-regulation
+- securitization
+- spread
+- treasury
+- yield-curve
+
 key_concepts:
-  - DVP market
-  - Daily repo transactions
-  - Exclude lower-rate trades
-  - 'SOFR: overnight borrowing rate'
-  - Transition from LIBOR
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 10.4 SOFR  
 

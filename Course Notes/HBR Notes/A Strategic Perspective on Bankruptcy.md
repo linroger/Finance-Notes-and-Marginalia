@@ -1,28 +1,49 @@
 ---
 cssclasses:
-  - academia
+- academia
 Owner: RRoger Lin
 linter-yaml-title-alias: A Strategic Perspective on Bankruptcy
 title: A Strategic Perspective on Bankruptcy
 tags:
-  - bankruptcy
-  - chapter_11
-  - liquidation
-  - reorganization
-  - secured_debt
+- bankruptcy
+- chapter_11
+- defi
+- equity
+- future
+- greeks
+- lehman
+- liquidation
+- multiple
+- oil
+- option
+- reorganization
+- secured_debt
+- stock
 aliases:
-  - Bankruptcy Overview
-  - Strategic Bankruptcy
+- Bankruptcy Overview
+- Strategic Bankruptcy
 key_concepts:
-  - Chapter 11 reorganization
-  - Liquidation process
-  - Plan of reorganization
-  - Prepackaged bankruptcy
-  - Secured vs. unsecured debt
+- Chapter 11 reorganization
+- Delta risk management
+- Derivative securities
+- Dynamic hedging strategies
+- Financial risk management
+- Gamma effects on options
+- Liquidation process
+- Options Greeks measurement
+- Plan of reorganization
+- Portfolio optimization
+- Portfolio risk hedging
+- Prepackaged bankruptcy
+- Quantitative financial analysis
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Secured vs. unsecured debt
+- Theta time decay
+- Vega volatility sensitivity
 ---
 
 # A Strategic Perspective on Bankruptcy
-
 bankruptcy
 
 For the managers of a company with obligations to claimholders that exceed its ability to fulfill them,  the choice between out-of-court reorganization and a court-supervised reorganization under Chapter 11 of the U.S. Bankruptcy Code involves complex economic,  legal,  and ethical considerations.
@@ -30,7 +51,6 @@ For the managers of a company with obligations to claimholders that exceed its a
 Over the five-year span that began in 2007,  619 public companies in the U.S. representing more than $2.0 trillion in combined assets entered Chapter 11 bankruptcy proceedings (see **Exhibit 1**)0.\1 While fifteen years earlier managers had reluctance to damage their reputations by taking a company into bankruptcy,  2 it is now a more frequent path for companies in financial distress.md). Nevertheless,  reorganizing the obligations and operations of a distressed company remains a time-consuming,  complex process with uncertain timelines,  numerous hazards,  and unknown outcomes.
 
 ## The Challenges of Reorganizing under the Bankruptcy Code
-
 The proximate cause of bankruptcy,  and the most reliable warning flag to stakeholders,  is a company’s inability to pay debts because of a disruption in cash flow. This scenario is usually preceded by visible signals that may include changes in financing conditions or the competitive landscape,  problems in product development processes,  disruptions to sales and customer relationships,  or a sudden flood of tort litigation.
 
 **Entry** The decision of whether to file for relief with a bankruptcy court lies with management
@@ -49,13 +69,13 @@ During a court-supervised restructuring,  extraordinary demands are placed on ma
 
 The costs of retaining professional advice and special cash compensation programs1 for management during court-supervised restructuring may be offset by the potential financial benefits to the company of eliminating interest payments and halting debt and supplier payments. Operating costs during distress are increased as credit becomes scarcer and terms of payments are tightened up; suppliers frequently require cash payments for parts or inventory shipments during both in-court and out-of-court restructurings.
 
-**Coordinating claims** A company that is deemed at risk of bankruptcy faces an acute challenge when coordinating several constituencies’ claims on the company’s assets without the supervision of the court. The challenge is increased when a company has multiple creditors because the company must reach consensus with its creditors,  and the incentive for any single creditor to hold out is high.
+**Coordinating claims** A company that is deemed $\$a_t$$ risk of bankruptcy faces an acute challenge when coordinating several constituencies’ claims on the company’s assets without the supervision of the court. The challenge is increased when a company has multiple creditors because the company must reach consensus with its creditors,  and the incentive for any single creditor to hold out is high.
 
 In court,  claims are subject to a strict precedence and resolution framework. The Bankruptcy Code defines the hierarchy of claims in court-supervised bankruptcy proceedings (see **Exhibit 3**). A majority of creditors and two-thirds of the value of claims in each class must approve a proposed reorganization. If a majority in a class cannot agree,  the court can force claimants to accept a reorganization plan.
 
-The court often requires a liquidation value to be submitted that reflects the current market value of the assets if they were sold. Book value is often discounted to reflect disposal of the assets in a short time frame,  often at auction. When compared to the hierarchy of claims,  each creditor class can evaluate their potential recovery under this alternative which can be used as a basis for negotiations.
+The court often requires a liquidation value to be submitted that reflects the current market value of the assets if they were sold. Book value is often discounted to reflect disposal of the assets in a short time frame,  often $\$a_t$$ auction. When compared to the hierarchy of claims,  each creditor class can evaluate their potential recovery under this alternative which can be used as a basis for negotiations.
 
-While the intent of the code is to encourage consensual bargaining,  the opportunity remains for bad-faith negotiation. Parties must weigh their strategic options as they decide whether to push for acceptance of a plan or hold out for more favorable treatment. “In a bankruptcy,  the level of cooperation you get in negotiations is at the level of the least reasonable person involved,  ” observes Jeff Werbalowsky,  managing director of Houlinah,  Lokey,  Howard & Zukin0.\1 Observers also cite a wide variance among the courts; some judges and courts are viewed as more sympathetic to management interests,  while others are thought to favor creditors. Courts that favor management are more likely to grant extensions to the 120-day stay to allow management more time to craft a successful reorganization plan.
+While the intent of the code is to encourage consensual bargaining,  the opportunity remains for bad-faith negotiation. Parties must weigh their strategic options as they decide whether to push for acceptance of a plan or hold out for more favorable treatment. “In a bankruptcy,  the level of cooperation you get in negotiations is $\$a_t$$ the level of the least reasonable person involved,  ” observes Jeff Werbalowsky,  managing director of Houlinah,  Lokey,  Howard & Zukin0.\1 Observers also cite a wide variance among the courts; some judges and courts are viewed as more sympathetic to management interests,  while others are thought to favor creditors. Courts that favor management are more likely to grant extensions to the 120-day stay to allow management more time to craft a successful reorganization plan.
 
 **Market for corporate control** All companies in distress encounter a volatile market for corporate control. The uncertainty of negotiating reorganization proposals is further complicated by the uncertainty of market movements in the ownership of various claims. While the stay under Chapter 11 halts payments and legal proceedings,  the market for a company’s debt and equity continues. This volatility is greater under court supervision,  where the strategic value for so-called “vulture investors” of holding various quantities of a company’s different obligations is subject to information asymmetries and coordination problems of their own. Not infrequently,  claimholders acquire claims within other classes in order to gain influence in restructuring negotiations.
 
@@ -65,57 +85,55 @@ Continuing operations under court supervision face unique challenges. First,  ma
 
 Second,  commitment of employees,  partners,  and customers suffers under court supervision. This has been observed in cases of companies that depend on highly skilled employees,  strategic business partnerships,  or long-term customer relationships. While it may be appealing to relinquish burdensome obligations and generate immediate cash savings,  the effect of the consequent loss of [](Week%205%20Accounting%20Recap-%20R&D,%20%20Intangibles,%20%20M&A%20&%20Goodwill#IFRS%20AND%20US%20GAAP%20RESEARCH%20&%20DEVELOPMENT | goodwill) should be carefully considered in light of the future value of the affected relationships. Transaction-based businesses—notably airlines and retail—have established histories of frequent recourse to court-supervised reorganizing,  while relationship businesses—for example,  financial services,  business technology,  and durable goods—are notably absent. Restructuring in this class may be more likely to be conducted out of court or through the sale of all or part of the business.
 
-**Social cost** When management attempts to shed its obligations to improve a company’s position,  the burden of the foregone claim falls elsewhere. Investors,  creditors,  suppliers,  employees,  and retirees have varying abilities to absorb the costs of a failed claim; few stand any chance of being made whole under court-supervised bankruptcy. The various players have different avenues available to absorb their losses,  but even government guarantee programs are at risk. Recourse to the federal Pension Benefit Guaranty Corporation for the spin-off of unfunded pension obligations has strained the resources of the tax-funded body and may increase political pressure to rewrite statutes.
+**Social cost** When management attempts to shed its obligations to improve a company’s position,  the burden of the foregone claim falls elsewhere. Investors,  creditors,  suppliers,  employees,  and retirees have varying abilities to absorb the costs of a failed claim; few stand any chance of being made whole under court-supervised bankruptcy. The various players have different avenues available to absorb their losses,  but even government guarantee programs are $\$a_t$$ risk. Recourse to the federal Pension Benefit Guaranty Corporation for the spin-off of unfunded pension obligations has strained the resources of the tax-funded body and may increase political pressure to rewrite statutes.
 
 The exercise of the most drastic restructuring tools has consequences for firms and for the social compact on which the conduct of business rests. Firms and institutions alike face the long-term loss of [](Week%205%20Accounting%20Recap-%20R&D,%20%20Intangibles,%20%20M&A%20&%20Goodwill#IFRS%20AND%20US%20GAAP%20RESEARCH%20&%20DEVELOPMENT | goodwill) with the public and regulators. This arises in part because of the frequency with which court-supervised restructurings have been perceived as tactics used to circumvent obligations to customers (e.g.,  product liability),  employees (e.g.,  contracts,  pensions,  health care) and the public (e.g.,  environmental cleanups). While the stigma of a court-supervised restructuring may be less severe today among executives and boards of directors,  the stain persists among other stakeholders in a firm.
 
 ## Two Different Paths
-
 While in-court and out-of-court reorganizations face the same sources of uncertainty,  the differences in their treatment yield sharply contrasting paths and outcomes:
 
 - In out-of-court restructurings,  and under volatility caused by investors’ uncertainty,  the challenge of coordinating creditors is far higher than under court supervision. However,  the [](Week%205%20Accounting%20Recap-%20R&D,%20%20Intangibles,%20%20M&A%20&%20Goodwill#IFRS%20AND%20US%20GAAP%20RESEARCH%20&%20DEVELOPMENT | goodwill) of customers and employees is less threatened,  the company controls its calendar,  critical company information,  and management attention,  and the company has the potential to restore value for the holders of its equity.
 - In court-supervised restructurings,  on the other hand,  the company gains the ability to selectively extract assets in a 363 sale,  unilaterally alter leases and employee contracts and suspend payments to creditors. However,  the ultimate outcome is highly unpredictable and may negatively impact the company’s competitive position due to the vagaries of the particular court,  the maneuvers of vulture investors,  the mandatory disclosures of further financial and operating information,  and the loss of [](Week%205%20Accounting%20Recap-%20R&D,%20%20Intangibles,%20%20M&A%20&%20Goodwill#IFRS%20AND%20US%20GAAP%20RESEARCH%20&%20DEVELOPMENT | goodwill) from customers,  employees,  and the public.
-
 **Exhibit 1** Largest Public Bankruptcies by Revenues (before 2012)
 
 |  |
- | --- | --- | --- | 
- | **Company** | **Bankruptcy Filing Date** | **Last FY Revenues ($ millions)** | 
- | General Motors Corporation | 06/01/2009 | $148,  979 | 
- | Enron Corp. | 12/02/2001 | 100,  789 | 
- | Chrysler LLC | 04/30/2009 | 66,  225 | 
- | Lehman Brothers Holdings Inc. | 09/15/2008 | 59,  003 | 
- | Kmart Corporation | 01/22/2002 | 37,  028 | 
- | WorldCom,   Inc. | 07/21/2002 | 35,  179 | 
- | Texaco,   Inc. | 04/12/1987 | 32,  591 | 
- | Yukos Oil Company | 12/14/2004 | 28,  867 | 
- | Delphi Corporation | 10/08/2005 | 28,  622 | 
- | Lyondell Chemical Company | 01/06/2009 | 28,  603 | 
- | AMR Corporation(American Airlines) | 11/29/2011 | 22,  170 | 
- | Pacific Gas and Electric Co. | 04/06/2001 | 20,  820 | 
- | Washington Mutual,   Inc. | 09/26/2008 | 19,  489 | 
- | UAL Corporation(United Airlines) | 12/09/2002 | 16,  138 | 
- | Fleming Companies,   Inc. | 04/01/2003 | 15,  628 | 
- | Delta Air Lines,   Inc. | 09/14/2005 | 15,  002 | 
- | Lear Corporation | 07/07/2009 | 13,  571 | 
- | SemGroup,   L.P. | 07/22/2008 | 13,  200 | 
- | Circuit City Stores,   Inc. | 11/10/2008 | 11,  744 | 
- | Northwest Airlines Corporation | 09/14/2005 | 11,  279 | 
- | Nortel Networks,   Inc. | 10/01/2001 | 10,  948 | 
- | Winn-Dixie Stores,   Inc. | 03/04/1996 | 10,  633 | 
- | Visteon Corporation | 08/27/1996 | 9,  544 | 
- | Calpine Corporation | 10/05/2000 | 9,  230 | 
- | Dana Corporation | 01/15/1990 | 9,  056 | 
- | Great Atlantic & Pacific Tea Co. | 03/09/1989 | 8,  814 | 
- | EOTT Energy Partners | 06/16/2000 | 8,  609 | 
- | CHS Electronics,   Inc. | 12/29/2000 | 8,  546 | 
- | Southland Corp.,   The | 08/20/2001 | 8,  352 | 
- | US Airways Group,   Inc. | 01/08/1991 | 8,  253 | 
- | Conseco,   Inc. | 12/18/2002 | 8,  108 | 
- | Pilgrim’s Pride Corporation | 12/01/2008 | 7,  599 | 
- | LTV Corporation,   The | 07/17/1986 | 7,  582 | 
- | AmeriServe Food Distribution | 01/31/2000 | 7,  421 | 
- | Smurfit-Stone Container Corp. | 01/26/2009 | 7,  420 | 
+ | --- | --- | --- |
+ | **Company** | **Bankruptcy Filing Date** | **Last FY Revenues ($ millions)** | $
+ | General Motors Corporation | 06/01/2009 | $148,  979 | $
+ | Enron Corp. | 12/02/2001 | 100,  789 |
+ | Chrysler LLC | 04/30/2009 | 66,  225 |
+ | Lehman Brothers Holdings Inc. | 09/15/2008 | 59,  003 |
+ | Kmart Corporation | 01/22/2002 | 37,  028 |
+ | WorldCom,   Inc. | 07/21/2002 | 35,  179 |
+ | Texaco,   Inc. | 04/12/1987 | 32,  591 |
+ | Yukos Oil Company | 12/14/2004 | 28,  867 |
+ | Delphi Corporation | 10/08/2005 | 28,  622 |
+ | Lyondell Chemical Company | 01/06/2009 | 28,  603 |
+ | AMR Corporation(American Airlines) | 11/29/2011 | 22,  170 |
+ | Pacific Gas and Electric Co. | 04/06/2001 | 20,  820 |
+ | Washington Mutual,   Inc. | 09/26/2008 | 19,  489 |
+ | UAL Corporation(United Airlines) | 12/09/2002 | 16,  138 |
+ | Fleming Companies,   Inc. | 04/01/2003 | 15,  628 |
+ | Delta Air Lines,   Inc. | 09/14/2005 | 15,  002 |
+ | Lear Corporation | 07/07/2009 | 13,  571 |
+ | SemGroup,   L.P. | 07/22/2008 | 13,  200 |
+ | Circuit City Stores,   Inc. | 11/10/2008 | 11,  744 |
+ | Northwest Airlines Corporation | 09/14/2005 | 11,  279 |
+ | Nortel Networks,   Inc. | 10/01/2001 | 10,  948 |
+ | Winn-Dixie Stores,   Inc. | 03/04/1996 | 10,  633 |
+ | Visteon Corporation | 08/27/1996 | 9,  544 |
+ | Calpine Corporation | 10/05/2000 | 9,  230 |
+ | Dana Corporation | 01/15/1990 | 9,  056 |
+ | Great Atlantic & Pacific Tea Co. | 03/09/1989 | 8,  814 |
+ | EOTT Energy Partners | 06/16/2000 | 8,  609 |
+ | CHS Electronics,   Inc. | 12/29/2000 | 8,  546 |
+ | Southland Corp.,   The | 08/20/2001 | 8,  352 |
+ | US Airways Group,   Inc. | 01/08/1991 | 8,  253 |
+ | Conseco,   Inc. | 12/18/2002 | 8,  108 |
+ | Pilgrim’s Pride Corporation | 12/01/2008 | 7,  599 |
+ | LTV Corporation,   The | 07/17/1986 | 7,  582 |
+ | AmeriServe Food Distribution | 01/31/2000 | 7,  421 |
+ | Smurfit-Stone Container Corp. | 01/26/2009 | 7,  420 |
 
 Source: New Generation Research,  _The 2012 Bankruptcy Yearbook & Almanac,  _ 22nd ed. (Quincy: 2012),  p. 56.
 
@@ -132,7 +150,6 @@ Source: New Generation Research,  _The 2012 Bankruptcy Yearbook & Almanac,  _ 22
 - After the disclosure statement is approved by the court,  the disclosure statement and associated plan of reorganization are submitted to a vote by all impaired creditors and stockholders. (If the plan is rejected,  new plans are submitted or the bankruptcy is converted from Chapter 11 to Chapter 7.) Generally,  each class of creditor must approve the plan by a majority in number and two-thirds in value of that class. If a plan is not accepted by all parties,  the sponsor of that plan can request that the bankruptcy court issue a cram-down. In a cram-down,  the court confirms the plan or reorganization over the objections of one or more classes.
 - The plan of reorganization is confirmed by the bankruptcy court.
 - The company emerges from Chapter 11 when the conditions of the plan of reorganization have been satisfied. Alternatively,  if no plan or reorganization can be agreed upon,  the bankruptcy can be converted from Chapter 11 to Chapter 7. In Chapter 7,  a trustee is appointed and the company assets are sold,  usually by auction. Proceeds from the sale compensate the parties involved and the company ceases to exist.
-
 **Exhibit 3** Hierarchy of Claims in Chapter 11
 
 [^1]: Secured claims

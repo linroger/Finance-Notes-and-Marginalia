@@ -1,24 +1,128 @@
 ---
-tags:
-  - call_option
-  - european_option
-  - option_pricing
-  - put_call_parity
-  - put_option
 aliases:
-  - Call Option
-  - European Options
-  - Option Pricing
-  - Put Option
+- Call Option
+- European Options
+- Option Pricing
+- Put Option
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Options and financial analysis
+- Options in modern finance
+- Applications of Options
+- 'Case study: Options'
+last_enhanced: '2025-11-06 08:42:31'
+- coupon
+- interest-rate
+- bonds
+- options
+- gamma
+- delta
+- maturity
+- bond
+- libor
+- interest-rates
+- basis
+- call
+- yield
+- theta
+- hedging
+tags:
+- arbitrage
+- asian-crisis
+- austerity
+- basis
+- bid-ask
+- bond
+- case-study
+- cash-flow
+- crisis-analysis
+- default
+- derivative-pricing
+- derivatives
+- duration
+- empirical-analysis
+- equity
+- european
+- european-debt-crisis
+- eurozone
+- fixed-income
+- graduate-level
+- grexit
+- hedging
+- institutional-quality
+- learning-from-crisis
+- mathematical-finance
+- monetary-policy
+- money-market
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- sec-regulation
+- securitization
+- sovereign
+- sovereign-debt
+- spread
+- treasury
+- var
+- volatility
+- yield-curve
+
 key_concepts:
-  - European call option
-  - European put option
-  - Exercise price
-  - Forward martingale measure
-  - Non-dividend paying asset
-  - Option price formula
-  - Put-call parity
+- Austerity Measures
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Currency Union Risks
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- European Debt Crisis
+- European Integration
+- Eurozone Crisis Management
+- Financial Crisis Case Studies
+- Financial Markets and Institutions
+- Fiscal Integration
+- Greek Debt Crisis
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Sovereign Debt Restructuring
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 12.3 Options  
 

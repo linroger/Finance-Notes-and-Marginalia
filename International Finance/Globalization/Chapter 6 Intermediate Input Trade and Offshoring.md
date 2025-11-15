@@ -1,3 +1,21 @@
+---
+tags:
+- banking
+- futures-contracts
+- options
+- trading-strategies
+key_concepts:
+- Futures contracts and forward pricing
+- Financial theory and academic research
+- Practical examples and implementation
+- Trading strategies and market implementation
+- Investment analysis and portfolio management
+- International finance and global markets
+last_enhanced: '2025-11-06 08:42:49'
+---
+
+
+
 # **Chapter 6**
 
 # **Intermediate Input Trade and Offshoring**

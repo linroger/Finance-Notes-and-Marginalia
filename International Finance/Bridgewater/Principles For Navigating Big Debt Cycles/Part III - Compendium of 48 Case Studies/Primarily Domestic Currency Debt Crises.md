@@ -1,3 +1,76 @@
+---
+- banking
+- credit-risk
+- interest-rates
+- market-structure
+- portfolio-management
+- Investment analysis and portfolio management
+- Equity markets and stock valuation
+- International finance and global markets
+- Monetary policy and central banking
+- Financial crises and market stress events
+last_enhanced: '2025-11-06 08:42:47'
+tags:
+- asian
+- asian-crisis
+- austerity
+- banking
+- central-bank
+- cftc
+- commodity
+- cross-border
+- currency
+- equity
+- european
+- european-debt-crisis
+- eurozone
+- financial-crisis
+- flash-crash
+- graduate-level
+- grexit
+- institutional-quality
+- liquidity
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- sovereign
+- sovereign-debt
+
+key_concepts:
+- Austerity Measures
+- Banking and Financial Intermediation
+- Currency Union Risks
+- European Debt Crisis
+- European Integration
+- Eurozone Crisis Management
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Fiscal Integration
+- Greek Debt Crisis
+- Institutional-Quality Financial Education
+- Quantitative Methods in Finance
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+- Sovereign Debt Restructuring
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
+---
+
+
+
+
+
 ## Principles For Navigating Big Debt Crises**
 
 ### **Part 3: Compendium of 48 Case Studies**

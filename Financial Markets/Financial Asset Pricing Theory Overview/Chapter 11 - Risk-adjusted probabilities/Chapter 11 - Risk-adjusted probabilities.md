@@ -1,12 +1,101 @@
 ---
-tags:
-  - chapter_11
-  - risk_adjusted_probabilities
 aliases:
-  - Chapter 11
+- Chapter 11
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Corporate bankruptcy process
+- Debt restructuring and workouts
+- Chapter 11 reorganization
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Market structure and trading
+- Order types and execution
+- Market making and liquidity provision
+- Chapter 11 - Risk-adjusted probabilities and financial analysis
+- Chapter 11 - Risk-adjusted probabilities in modern finance
+- Applications of Chapter 11 - Risk-adjusted probabilities
+- 'Case study: Chapter 11 - Risk-adjusted probabilities'
+last_enhanced: '2025-11-06 08:42:30'
+- pricing
+- bankruptcy
+- valuation
+- call
+- options
+- liquidity
+- futures
+- chapter-11
+- trading
+- derivatives
+- risk
+- forward
+tags:
+- arbitrage
+- bank-failure
+- bankruptcy
+- basis
+- bid-ask
+- case-study
+- crisis-analysis
+- derivative-pricing
+- derivatives
+- empirical-analysis
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- liquidity
+- market-making
+- mathematical-finance
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- restructuring
+- sec-regulation
+- securitization
+- sovereign
+
 key_concepts:
-  - Risk-adjusted probabilities
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 %% Begin Waypoint %%
 - **Chapter 11 - Risk-adjusted probabilities**
 	- Change of Probability Measure

@@ -1,21 +1,156 @@
 ---
-tags:
-  - asset_liability_management
-  - banks
-  - basel_accords
-  - capital_flow
-  - risk_management
 aliases:
-  - ALM
-  - Bank Management
-  - Capital Transfer
+- ALM
+- Bank Management
+- Capital Transfer
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Financial regulation and compliance
+- Basel III capital requirements
+- Dodd-Frank Act implications
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Credit analysis and rating
+- Default probability modeling
+- Loss given default estimation
+- Banks Asset-Liability Management and financial analysis
+- Banks Asset-Liability Management in modern finance
+- Applications of Banks Asset-Liability Management
+- 'Case study: Banks Asset-Liability Management'
+last_enhanced: '2025-11-06 08:42:33'
+- maturity
+- var
+- cds
+- duration
+- regulation
+- risk
+- leverage
+- income statement
+- bond
+- liquidity
+- bonds
+- risk-management
+- credit-risk
+- yield
+- basel
+tags:
+- arbitrage
+- asset-liability
+- austerity
+- balance-sheet
+- bank-regulation
+- banking
+- basel
+- basis
+- bond
+- capital-flow
+- case-study
+- central-bank
+- credit-curve
+- credit-market
+- crisis-2008
+- crisis-analysis
+- default
+- derivatives
+- dodd-frank
+- duration
+- econometric
+- empirical-analysis
+- equity
+- european
+- european-debt-crisis
+- eurozone
+- financial-crisis
+- financial-regulation
+- governance
+- graduate-level
+- grexit
+- hedging
+- income-statement
+- institutional-quality
+- learning-from-crisis
+- leverage
+- liquidity
+- mathematical-finance
+- mbs
+- professional-standard
+- provision
+- quantitative-analysis
+- quantitative-methods
+- real-world-example
+- regulatory-compliance
+- securitization
+- sovereign
+- sovereign-debt
+- statistical-model
+- stress-test
+- supervision
+- var
+- yield-curve
+
 key_concepts:
-  - Banks and capital flow
-  - Basel accords and regulations
-  - Capital transformation function
-  - Credit risk quantification
-  - Risk management changes
+- Austerity Measures
+- Bank Supervision
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Compliance Management
+- Corporate Governance
+- Crisis Case Study Design
+- Currency Union Risks
+- Econometric Analysis
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- European Debt Crisis
+- European Integration
+- Eurozone Crisis Management
+- Financial Crisis Case Studies
+- Financial Econometrics
+- Financial Markets and Institutions
+- Financial Regulation
+- Fiscal Integration
+- Governance Standards
+- Greek Debt Crisis
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Mathematical Finance Applications
+- Mathematical Modeling
+- Quantitative Analysis in Finance
+- Quantitative Methods in Finance
+- Quantitative Risk Management
+- Real-World Financial Examples
+- Regulatory Compliance
+- Regulatory Framework
+- Regulatory Risk
+- Risk Management and Hedging Strategies
+- Sovereign Debt Restructuring
+- Statistical Finance
+- Statistical Modeling
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 13 Banks: Asset-Liability Management  
 

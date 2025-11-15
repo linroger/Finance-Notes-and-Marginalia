@@ -2,21 +2,58 @@
 title: HSBC-Auto callable Barrier Notes with Step-up Premium
 cssclasses: academia
 tags:
-  - auto_callable_notes
-  - barrier_notes
-  - hsbc
-  - index_linked
-  - step_up_premium
+- auto_callable_notes
+- barrier
+- barrier_notes
+- call
+- credit-risk
+- defi
+- duration
+- equity
+- future
+- greeks
+- hsbc
+- index
+- index_linked
+- interest-rate
+- liquidity
+- long-term-capital
+- market-risk
+- multiple
+- step_up_premium
+- stock
+- treasury
 aliases:
-  - Barrier Notes
-  - Callable Notes
-  - HSBC Notes
+- Barrier Notes
+- Callable Notes
+- HSBC Notes
 key_concepts:
-  - Auto callable notes
-  - Call threshold
-  - Least performing underlying
-  - Principal amount
-  - Step-up premium
+- Auto callable notes
+- Call threshold
+- Convexity adjustment
+- DV01 calculation
+- Delta risk management
+- Derivative securities
+- Duration measurement
+- Dynamic hedging strategies
+- Financial risk management
+- Gamma effects on options
+- Hedging with bonds
+- Interest rate sensitivity
+- Least performing underlying
+- Modified duration calculation
+- Options Greeks measurement
+- Portfolio immunization
+- Portfolio optimization
+- Portfolio risk hedging
+- Price-yield relationship
+- Principal amount
+- Quantitative financial analysis
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Step-up premium
+- Theta time decay
+- Vega volatility sensitivity
 ---
 
 # HSBC-Auto callable Barrier Notes with Step-up Premium

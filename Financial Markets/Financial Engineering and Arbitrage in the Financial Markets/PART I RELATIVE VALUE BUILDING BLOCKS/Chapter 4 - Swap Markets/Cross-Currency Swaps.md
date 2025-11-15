@@ -1,22 +1,114 @@
 ---
-tags:
-  - bond_valuation
-  - cross_currency_swaps
-  - currency_swaps
-  - fixed_income
-  - interest_rate_swaps
-  - liability_management
 aliases:
-  - Currency swaps
-  - FX swaps
-  - XCCY swaps
+- Currency swaps
+- FX swaps
+- XCCY swaps
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Cross-Currency Swaps and financial analysis
+- Cross-Currency Swaps in modern finance
+- Applications of Cross-Currency Swaps
+- 'Case study: Cross-Currency Swaps'
+last_enhanced: '2025-11-06 08:42:33'
+- interest-rate
+- swaps
+- futures
+- currency-swap
+- basis
+- yield
+- forward
+- fixed-income
+- swap
+- maturity
+- duration
+- bond
+- irs
+- yield-curve
+- hedging
+tags:
+- arbitrage
+- banking
+- basis
+- bid-ask
+- bond
+- case-study
+- cash-flow
+- corporate-bond
+- counterparty
+- credit-curve
+- credit-rating
+- crisis-analysis
+- currency
+- derivatives
+- duration
+- empirical-analysis
+- fixed-income
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- mark-to-market
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- sec-regulation
+- securitization
+- spread
+- synthetic
+- yield-curve
+
 key_concepts:
-  - Alter currency of liabilities
-  - Currency exchange of bonds
-  - Fixed-for-fixed exchange
-  - Present valuing both sides
-  - Principal exchange included
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 4.3 CROSS-CURRENCY SWAPS  
 

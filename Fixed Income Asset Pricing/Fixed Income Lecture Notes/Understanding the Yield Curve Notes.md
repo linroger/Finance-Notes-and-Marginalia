@@ -1,23 +1,41 @@
 ---
 title: Understanding the Yield Curve Notes
 tags:
-  - holding_period
-  - spot_rate
-  - yield_curve
-  - yield_spread
-  - zero_coupon_bond
+- bond-durability
+- coupon-bonds
+- forward-contracts
+- forward-rates
+- high-yield
+- holding_period
+- interest-rates
+- options-greeks
+- relative-value
+- spot-rates
+- spot_rate
+- yield-curve
+- yield_curve
+- yield_spread
+- zero-coupon-bonds
+- zero_coupon_bond
 aliases:
-  - Break-even Yield Change
-  - Carry
-  - Implied Forward Rate
-  - Yield Spread
+- Break-even Yield Change
+- Carry
+- Implied Forward Rate
+- Yield Spread
 key_concepts:
-  - Break-even yield change
-  - Holding-period returns equivalence
-  - Implied forward rate calculation
-  - Positive and negative carry
-  - Yield spread and carry
+- Duration and interest rate risk measurement
+- Yield curve modeling and term structure analysis
+- Forward rate calculations and forward curve construction
+- Practical examples and implementation
+- Risk management techniques and best practices
+- Investment analysis and portfolio management
+- Fixed income securities and bond markets
+last_enhanced: '2025-11-06 08:42:39'
 ---
+
+
+
+
 
 # Understanding the Yield Curve Notes
 

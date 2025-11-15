@@ -1,22 +1,118 @@
 ---
-tags:
-  - company_valuation
-  - cost_of_equity
-  - discounting
-  - fcfe
-  - fcff
-  - free_cash_flow
 aliases:
-  - Company Valuation
-  - FCF Valuation
-  - Free Cash Flow
+- Company Valuation
+- FCF Valuation
+- Free Cash Flow
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Financial accounting standards
+- GAAP and IFRS differences
+- Mark-to-market accounting
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Free Cash Flow Valuation of Companies and financial analysis
+- Free Cash Flow Valuation of Companies in modern finance
+- Applications of Free Cash Flow Valuation of Companies
+- 'Case study: Free Cash Flow Valuation of Companies'
+last_enhanced: '2025-11-06 08:42:33'
+- pricing
+- ratio
+- var
+- coupon
+- options
+- put
+- swaps
+- bond
+- accounting
+- irs
+- bonds
+- delta
+- risk-management
+- call
+- yield
+tags:
+- arbitrage
+- asian
+- balance-sheet
+- banking
+- bankruptcy
+- basis
+- bond
+- case-study
+- cash-flow
+- counterparty
+- credit-curve
+- crisis-analysis
+- currency
+- default
+- derivative-pricing
+- derivatives
+- duration
+- empirical-analysis
+- equity
+- graduate-level
+- hedging
+- income-statement
+- institutional-quality
+- learning-from-crisis
+- leverage
+- margin-call
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- securitization
+- sovereign
+- stress-test
+- var
+- yield-curve
+
 key_concepts:
-  - Discount rate for equity
-  - Dividends vs FCFE vs FCFF
-  - Perpetual stock valuation
-  - Present value of cash flows
-  - Stock cash flow definitions
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 11.2  FREE CASH FLOW VALUATION OF COMPANIES  
 

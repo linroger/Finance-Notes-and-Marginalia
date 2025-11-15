@@ -1,26 +1,46 @@
 ---
-title: Merrill Coercive Exchange Offers
-cssclasses: ["academia"]
-tags:
-  - bondholders
-  - coercive_exchange_offers
-  - corporate_restructuring
-  - high_yield_bonds
-  - leveraged_loans
 aliases:
-  - coercive offers
-  - exchange offers
+- coercive offers
+- exchange offers
+cssclasses:
+- academia
 key_concepts:
-  - Merrill exchange offers
-  - bondholder treatment  
-  - corporate financial distress
-  - high yield bonds
-  - market participant evaluation
-  - exit consents
-  - holdout problem
-  - covenant stripping
-  - debt restructuring strategies
-  - exchange offer mechanics
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Corporate bankruptcy process
+- Debt restructuring and workouts
+- Chapter 11 reorganization
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Merrill Coercive Exchange Offers and financial analysis
+- Merrill Coercive Exchange Offers in modern finance
+- Applications of Merrill Coercive Exchange Offers
+- 'Case study: Merrill Coercive Exchange Offers'
+tags:
+- yield
+- call
+- fixed-income
+- debt-restructuring
+- distressed
+- liquidity
+- bond
+- options
+- put
+- workout
+- bonds
+- spread
+- coupon
+- bankruptcy
+- trading
+title: Merrill Coercive Exchange Offers
 ---
 
 # Merrill Coercive Exchange Offers

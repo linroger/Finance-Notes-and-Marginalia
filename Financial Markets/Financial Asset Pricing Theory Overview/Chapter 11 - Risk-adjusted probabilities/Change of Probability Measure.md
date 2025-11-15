@@ -1,20 +1,94 @@
 ---
-tags:
-  - bayes_formula
-  - brownian_motion
-  - probability_measure
-  - radon_nikodym
-  - stochastic_process
 aliases:
-  - Change of Measure
-  - Probability Measure Change
+- Change of Measure
+- Probability Measure Change
+- Monte Carlo simulation methods
+- Stochastic processes in finance
+- Path-dependent derivatives pricing
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Change of Probability Measure and financial analysis
+- Change of Probability Measure in modern finance
+- Applications of Change of Probability Measure
+- 'Case study: Change of Probability Measure'
+last_enhanced: '2025-11-06 08:42:30'
+- irs
+- call
+- options
+- ratio
+- risk-management
+- stochastic
+- volatility
+- var
+- monte-carlo
+- swaps
+tags:
+- bankruptcy
+- basis
+- case-study
+- crisis-analysis
+- currency
+- derivative-pricing
+- derivatives
+- empirical-analysis
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- sovereign
+- stress-test
+- var
+- volatility
+
 key_concepts:
-  - Change-of-measure process
-  - Equivalent probability measures
-  - Probability space
-  - Radon-Nikodym derivative
-  - Real-world probabilities
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 11.2 Change of probability measure  
 

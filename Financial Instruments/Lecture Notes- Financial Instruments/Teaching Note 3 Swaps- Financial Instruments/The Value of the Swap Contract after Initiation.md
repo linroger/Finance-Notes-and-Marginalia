@@ -1,22 +1,41 @@
 ---
 tags:
-  - currency_swap
-  - eurodollar_futures
-  - fx_swap
-  - interest_rate_risk
-  - swap_contract
+- currency
+- currency_swap
+- eurodollar_futures
+- forward
+- future
+- fx_swap
+- interest_rate_risk
+- ois
+- overnight-swap
+- swap
+- swap_contract
 aliases:
-  - Currency Swap
-  - Eurodollar Futures
-  - FX Swap
-  - Hedging Strategy
-  - Swap Value
+- Currency Swap
+- Eurodollar Futures
+- FX Swap
+- Hedging Strategy
+- Swap Value
 key_concepts:
-  - Borrowing in foreign currency
-  - Eurodollar futures hedging
-  - Hedging principal amount
-  - Plain vanilla FX swaps
-  - Swap value formula
+- Basis swap mechanics
+- Borrowing in foreign currency
+- Cross-currency basis
+- Currency swap structure
+- Derivative securities
+- Eurodollar futures hedging
+- Financial risk management
+- Fixed vs floating leg
+- Hedging principal amount
+- Interest rate swap pricing
+- Plain vanilla FX swaps
+- Portfolio optimization
+- Present value of swaps
+- Quantitative financial analysis
+- Risk assessment and mitigation
+- Swap curve construction
+- Swap value formula
+- Swaption valuation
 ---
 
 **Teaching Note 3 SwapsFinancial Instruments**

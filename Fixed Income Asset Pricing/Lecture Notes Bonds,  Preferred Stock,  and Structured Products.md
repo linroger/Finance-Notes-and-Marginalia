@@ -1,23 +1,43 @@
 ---
 tags:
-  - bond_structure
-  - bond_valuation
-  - credit_risk
-  - fixed_income
-  - yield_measures
+- banking
+- bond-durability
+- bond_structure
+- bond_valuation
+- credit-risk
+- credit_risk
+- financial-engineering
+- fixed_income
+- libor
+- liquidity-risk
+- market-structure
+- options
+- portfolio-management
+- reinvestment-risk
+- sofr
+- swaps
+- yield_measures
+- zero-coupon-bonds
 aliases:
-  - Bonds Overview
-  - Fixed Income
-  - Lecture Notes
+- Bonds Overview
+- Fixed Income
+- Lecture Notes
 key_concepts:
-  - Bond characteristics
-  - Bond maturity
-  - Coupon types
-  - Investment risks
-  - Portfolio strategies
-  - Types of issuers
-  - Yield measures
+- Duration and interest rate risk measurement
+- 'Reference rates: SOFR, LIBOR, and rate transitions'
+- Interest rate swaps and swap curve construction
+- Liquidity risk management and measurement
+- Financial theory and academic research
+- Practical examples and implementation
+- Investment analysis and portfolio management
+- Financial valuation and pricing methodologies
+- Fixed income securities and bond markets
+last_enhanced: '2025-11-06 08:42:40'
 ---
+
+
+
+
 
 # Lecture Notes: Bonds, Preferred Stock, and Structured Products
 

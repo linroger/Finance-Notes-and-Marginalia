@@ -1,20 +1,32 @@
 ---
 title: Deriving Forward Exchange Rate Numerical Example
 tags:
-  - currency_depreciation
-  - forward_exchange_rate
-  - futures_contracts
-  - hedging_strategy
-  - mark_to_market
+- bond
+- currency
+- currency_depreciation
+- exchange-rate
+- forward
+- forward_exchange_rate
+- future
+- futures_contracts
+- hedging_strategy
+- interest-rate
+- mark_to_market
+- stock
 aliases:
-  - FX Forward Example
-  - Forward Rate Derivation
+- FX Forward Example
+- Forward Rate Derivation
 key_concepts:
-  - European bank hedging
-  - Forward exchange rate
-  - Futures contract payoff
-  - Hedging currency risk
-  - Mark to market
+- Derivative securities
+- European bank hedging
+- Financial risk management
+- Forward exchange rate
+- Futures contract payoff
+- Hedging currency risk
+- Mark to market
+- Portfolio optimization
+- Quantitative financial analysis
+- Risk assessment and mitigation
 ---
 
 # Deriving Forward Exchange Rate Numerical Example

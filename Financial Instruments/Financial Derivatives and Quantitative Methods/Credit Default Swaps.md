@@ -2,26 +2,81 @@
 title: Credit Default Swaps
 cssclasses: academia
 tags:
-  - cds_market
-  - cds_valuation
-  - cdx_index
-  - credit_curves
-  - credit_default_swaps
-  - credit_derivatives
-  - credit_risk
-  - credit_risk_management
-  - financial_crisis
+- acquisition
+- asset-swap
+- basel
+- basis-swap
+- bond
+- call
+- cds
+- cds_market
+- cds_valuation
+- cdx_index
+- corporate-bond
+- covid
+- credit-derivatives
+- credit-risk
+- credit-spread
+- credit_curves
+- credit_default_swaps
+- credit_derivatives
+- credit_risk
+- credit_risk_management
+- defi
+- equity
+- financial-crisis
+- financial_crisis
+- fixed-income
+- future
+- gdp
+- hedge-fund
+- index
+- interest-rate
+- libor
+- liquidity
+- liquidity-risk
+- option
+- put
+- regulatory-capital
+- sovereign-debt
+- stock
+- subprime
+- swap
+- transaction-cost
+- treasury
+- yield-curve
 aliases:
-  - CDS
-  - CDS market
-  - CDX
-  - Credit Default Swaps
+- CDS
+- CDS market
+- CDX
+- Credit Default Swaps
 key_concepts:
-  - CDS spread
-  - credit derivative
-  - protection buyer
-  - protection seller
-  - transfer credit risk
+- ' tranche valuation'
+- Basis swap mechanics
+- CDO squared structures
+- CDS curve construction
+- CDS spread
+- CDS spread calibration
+- Credit Default Swaps
+- Credit index products
+- Cross-currency basis
+- Currency swap structure
+- Default correlation
+- Derivative securities
+- Financial risk management
+- Fixed vs floating leg
+- Interest rate swap pricing
+- Portfolio optimization
+- Present value of swaps
+- Quantitative financial analysis
+- Risk assessment and mitigation
+- Swap curve construction
+- Swaption valuation
+- Synthetic CDO pricing
+- credit derivative
+- protection buyer
+- protection seller
+- transfer credit risk
 ---
 
 # Credit Default Swaps

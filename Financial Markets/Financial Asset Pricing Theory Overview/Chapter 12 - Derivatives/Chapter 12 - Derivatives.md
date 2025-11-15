@@ -1,20 +1,121 @@
 ---
-tags:
-  - chapter_12
-  - chapter_introduction
-  - derivative_markets
-  - derivatives
-  - financial_derivatives
 aliases:
-  - Chapter 12
-  - Derivatives
+- Chapter 12
+- Derivatives
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Chapter 12 - Derivatives and financial analysis
+- Chapter 12 - Derivatives in modern finance
+- Applications of Chapter 12 - Derivatives
+- 'Case study: Chapter 12 - Derivatives'
+last_enhanced: '2025-11-06 08:42:30'
+- coupon
+- vega
+- interest-rates
+- interest-rate
+- bonds
+- call
+- options
+- maturity
+- swaption
+- bond
+- futures
+- currency-swap
+- put
+- swap
+- forward
+tags:
+- arbitrage
+- austerity
+- banking
+- bankruptcy
+- basis
+- bond
+- case-study
+- cash-flow
+- cftc
+- commodity
+- crisis-analysis
+- cross-border
+- currency
+- derivative-pricing
+- derivatives
+- duration
+- empirical-analysis
+- equity
+- european
+- european-debt-crisis
+- eurozone
+- graduate-level
+- grexit
+- hedging
+- institutional-quality
+- learning-from-crisis
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- securitization
+- sovereign-debt
+- yield-curve
+
 key_concepts:
-  - Derivatives
-  - financial instruments
-  - market participants
-  - pricing models
-  - risk management
+- Austerity Measures
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Currency Union Risks
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- European Debt Crisis
+- European Integration
+- Eurozone Crisis Management
+- Financial Crisis Case Studies
+- Financial Markets and Institutions
+- Fiscal Integration
+- Greek Debt Crisis
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Sovereign Debt Restructuring
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 %% Begin Waypoint %%
 - **Chapter 12 - Derivatives**
 	- American-Style Derivatives

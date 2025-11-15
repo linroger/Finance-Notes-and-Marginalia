@@ -1,3 +1,124 @@
+---
+- banking
+- caps-floors
+- credit-default-swaps
+- financial-regulation
+- government-bonds
+- interest-rates
+- market-structure
+- portfolio-management
+- yield-curve
+- Yield curve modeling and term structure analysis
+- Credit default swap pricing and spreads
+- Practical examples and implementation
+- Derivatives and structured financial instruments
+- Financial regulation and compliance requirements
+- Investment analysis and portfolio management
+- Fixed income securities and bond markets
+- Equity markets and stock valuation
+- International finance and global markets
+- Monetary policy and central banking
+- Financial crises and market stress events
+last_enhanced: '2025-11-06 08:42:47'
+tags:
+- asian
+- asian-crisis
+- banking
+- basis
+- bond
+- central-bank
+- cftc
+- collateral
+- commercial-paper
+- commodity
+- contagion
+- counterparty
+- credit-curve
+- crisis-2008
+- cross-border
+- currency
+- currency-crisis
+- default
+- deposit-insurance
+- derivatives
+- discount-window
+- dodd-frank
+- econometric
+- emerging-market
+- equity
+- fdic
+- financial-crisis
+- financial-regulation
+- fixed-income
+- governance
+- graduate-level
+- institutional-quality
+- lender-of-last-resort
+- leverage
+- liquidity
+- margin-call
+- margin-requirement
+- mathematical-finance
+- monetary-policy
+- non-bank
+- pegging
+- professional-standard
+- provision
+- quantitative-analysis
+- quantitative-easing
+- quantitative-methods
+- regulatory-compliance
+- repo
+- sec-regulation
+- securitization
+- shadow-banking
+- sovereign
+- statistical-model
+- structured-product
+- supervision
+- tranche
+- treasury
+- yield-curve
+
+key_concepts:
+- Bank Supervision
+- Banking and Financial Intermediation
+- Compliance Management
+- Corporate Governance
+- Econometric Analysis
+- Financial Econometrics
+- Financial Markets and Institutions
+- Financial Regulation
+- Governance Standards
+- Institutional-Quality Financial Education
+- Mathematical Finance Applications
+- Mathematical Modeling
+- Quantitative Analysis in Finance
+- Quantitative Methods in Finance
+- Quantitative Risk Management
+- Regulatory Compliance
+- Regulatory Framework
+- Regulatory Risk
+- Risk Management and Hedging Strategies
+- Statistical Finance
+- Statistical Modeling
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
+---
+
+
+
+
+
 # Non-Domestic Currency Debt Crises
 ## Typically Inflationary Deleveragings
 

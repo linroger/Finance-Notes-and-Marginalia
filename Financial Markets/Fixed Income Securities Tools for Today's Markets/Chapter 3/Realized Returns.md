@@ -1,21 +1,111 @@
 ---
-tags:
-  - bond_returns
-  - coupon_payments
-  - financing_costs
-  - horizon_return
-  - realized_returns
 aliases:
-  - Gross Horizon Return
-  - Net Horizon Return
-  - Realized Return
+- Gross Horizon Return
+- Net Horizon Return
+- Realized Return
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Credit analysis and rating
+- Default probability modeling
+- Loss given default estimation
+- Realized Returns and financial analysis
+- Realized Returns in modern finance
+- Applications of Realized Returns
+- 'Case study: Realized Returns'
+last_enhanced: '2025-11-06 08:42:36'
+- options
+- credit-risk
+- leverage
+- call
+- coupon
+- fixed-income
+- put
+- irs
+- risk
+- bond
+- collateral
+- bonds
+- balance sheet
+- swaps
+tags:
+- balance-sheet
+- banking
+- basis
+- bid-ask
+- bond
+- case-study
+- collateral
+- counterparty
+- crisis-analysis
+- currency
+- default
+- derivative-pricing
+- derivatives
+- duration
+- empirical-analysis
+- fixed-income
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- leverage
+- mathematical-finance
+- monetary-policy
+- money-market
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- repo
+- sec-regulation
+- securitization
+- spread
+- yield-curve
+
 key_concepts:
-  - bond price
-  - coupon payments
-  - financing cost
-  - net horizon return
-  - return on capital
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # 3.1 REALIZED RETURNS  
 

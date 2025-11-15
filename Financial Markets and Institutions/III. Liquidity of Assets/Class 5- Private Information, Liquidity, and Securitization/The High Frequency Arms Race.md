@@ -1,22 +1,110 @@
 ---
+aliases:
+- Frequent Batch Auctions
+- HFT Arms Race
+- Market structure and trading
+- Order types and execution
+- Market making and liquidity provision
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Financial econometrics and regression
+- Time series analysis in finance
+- Volatility modeling (GARCH)
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- The High Frequency Arms Race and financial analysis
+- The High Frequency Arms Race in modern finance
+- Applications of The High Frequency Arms Race
+- 'Case study: The High Frequency Arms Race'
 linter-yaml-title-alias: 'The HFT Arms Race: Example'
+- high-frequency
+- spread
+- correlation
+- bonds
+- regression
+- liquidity
+- duration
+- trading
 title: The High Frequency Arms Race
 tags:
-  - cme_nyse
-  - high_frequency_trading
-  - limit_order_book
-  - market_correlation
-  - market_design
-aliases:
-  - Frequent Batch Auctions
-  - HFT Arms Race
+- bid-ask
+- bond
+- case-study
+- commercial-paper
+- crisis-analysis
+- derivatives
+- duration
+- empirical-analysis
+- equity
+- financial-institutions
+- financial-markets
+- graduate-level
+- hedging
+- high-frequency
+- institutional-analysis
+- institutional-quality
+- learning-from-crisis
+- liquidity
+- liquidity-management
+- market-liquidity
+- market-making
+- market-structure
+- mathematical-finance
+- mbs
+- money-markets
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- repo-markets
+- securitization
+- short-term-funding
+- spread
+- volatility
+- yield-curve
+
 key_concepts:
-  - CME and NYSE data
-  - ES vs SPY
-  - High-frequency trading
-  - Limit order book
-  - Market correlations breakdown
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Central Bank Liquidity Facilities
+- Commercial Paper Markets
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Intermediation and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional Analysis of Financial Systems
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Liquidity Crisis and Management
+- Liquidity Risk and Management
+- Market Structure and Microstructure
+- Money Market Fund Dynamics
+- Money Market Instruments
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Regulatory Framework in Financial Markets
+- Repurchase Agreement Markets
+- Risk Management and Hedging Strategies
+- Short-Term Funding Markets
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
 
 A few slides taken from: The High-Frequency Trading Arms Race: Frequent Batch Auctions as a Market Design Response Eric Budish,  Peter Cramton and John Shim Forthcoming,  Quarterly Journal of Economics Seminar Slides,  Sept 2015
 

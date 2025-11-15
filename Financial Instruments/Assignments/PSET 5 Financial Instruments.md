@@ -1,31 +1,74 @@
 ---
-title: "PSET 5 - Financial Instruments - Options Pricing"
-linter-yaml-title-alias: "PSET 5 - Financial Instruments - Options Pricing"
+title: PSET 5 - Financial Instruments - Options Pricing
+linter-yaml-title-alias: PSET 5 - Financial Instruments - Options Pricing
 cssclasses: academia
 tags:
-  - binomial_tree
-  - european_call_option
-  - hedging_risk
-  - option_pricing
-  - stock_price
-  - black_scholes
-  - delta_hedging
-  - risk_neutral_pricing
+- binomial
+- binomial_tree
+- black-scholes
+- black_scholes
+- bond
+- call
+- delta_hedging
+- dividend-yield
+- european
+- european_call_option
+- forward
+- future
+- greeks
+- hedge
+- hedging_risk
+- option
+- option_pricing
+- put
+- risk-free-rate
+- risk_neutral_pricing
+- stock
+- stock_price
 aliases:
-  - Homework 5
-  - John Heaton
-  - Multiperiod Binomial Tree
-  - Suna Bai
+- Homework 5
+- John Heaton
+- Multiperiod Binomial Tree
+- Suna Bai
 key_concepts:
-  - Black Scholes formula
-  - Binomial tree convergence
-  - Option delta hedging strategies
-  - Replicating portfolio construction
-  - Risk-neutral pricing
-  - Dividend effects on option pricing
-  - Put-call parity
-  - European option valuation
-  - Stock price volatility effects
+- American options valuation
+- Backward induction algorithm
+- Binomial option pricing model
+- Binomial tree convergence
+- Black Scholes formula
+- Convergence to Black-Scholes
+- Cox-Ross-Rubinstein framework
+- Delta risk management
+- Delta-hedging implementation
+- Derivative securities
+- Dividend effects on option pricing
+- Dynamic hedging strategies
+- Dynamic replication
+- European option valuation
+- Financial risk management
+- Gamma effects on options
+- Gamma hedging techniques
+- Hedge ratio calculation
+- Hedging effectiveness
+- Lattice methods for derivatives
+- Multi-period binomial tree
+- Option delta hedging strategies
+- Options Greeks measurement
+- Portfolio insurance methods
+- Portfolio optimization
+- Portfolio risk hedging
+- Put-call parity
+- Quantitative financial analysis
+- Replicating portfolio construction
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Risk-neutral pricing
+- Risk-neutral probability
+- Static hedging
+- Stock price volatility effects
+- Theta time decay
+- Vega hedging strategies
+- Vega volatility sensitivity
 ---
 
 # PSET 5 - Financial Instruments - Options Pricing

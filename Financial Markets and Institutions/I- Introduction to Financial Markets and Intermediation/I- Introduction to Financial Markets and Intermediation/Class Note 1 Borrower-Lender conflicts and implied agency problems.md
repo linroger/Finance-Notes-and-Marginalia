@@ -1,33 +1,106 @@
 ---
 cssclasses: academia
 title: Class Note 1 Borrower-Lender Conflicts and Implied Agency Problems
-tags:
-  - agency_problems
-  - asset_services
-  - bond_covenants
-  - borrower_lender_conflicts
-  - capital_markets
-  - debt_incentives
-  - asset_substitution
-  - leverage_effects
-  - capital_structure
-  - moral_hazard
+- agency_problems
+- asset_services
+- asset_substitution
+- beta
+- bond
+- bond_covenants
+- borrower_lender_conflicts
+- capital-structure
+- capital_markets
+- capital_structure
+- debt_incentives
+- equity
+- interest-rate
+- leverage-ratio
+- leverage_effects
+- moral_hazard
+- put
 aliases:
-  - Borrower-Lender Conflicts
-  - Debt and Incentives  
-  - Asset Substitution Theory
+- Borrower-Lender Conflicts
+- Debt and Incentives
+- Asset Substitution Theory
+- Asset services reduce bad effects
+- Bond covenants and borrower behavior
+- Covenant enforcement problems
+- Debt capacity calculation
+- Debt common for smaller firms
+- Debt distorts capital budgeting
+- Derivative securities
+- Financial risk management
+- Incentives of equity holders
+- Leverage impact on incentives
+- Perverse incentive effects
+- Portfolio optimization
+- Quantitative financial analysis
+- Risk assessment and mitigation
+- Risky debt and lender advantage
+tags:
+- bank-failure
+- banking
+- bankruptcy
+- bond
+- cash-flow
+- covenant
+- default
+- deposit-insurance
+- derivatives
+- econometric
+- equity
+- financial-institutions
+- financial-markets
+- graduate-level
+- hedging
+- institutional-analysis
+- institutional-quality
+- leverage
+- leverage-ratio
+- market-structure
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-analysis
+- quantitative-methods
+- sec-regulation
+- securitization
+- sovereign
+- statistical-model
+
 key_concepts:
-  - Asset services reduce bad effects
-  - Bond covenants and borrower behavior
-  - Debt common for smaller firms
-  - Debt distorts capital budgeting
-  - Incentives of equity holders
-  - Risky debt and lender advantage
-  - Leverage impact on incentives
-  - Perverse incentive effects
-  - Debt capacity calculation
-  - Covenant enforcement problems
+- Banking and Financial Intermediation
+- Econometric Analysis
+- Financial Econometrics
+- Financial Intermediation and Banking
+- Financial Markets and Institutions
+- Institutional Analysis of Financial Systems
+- Institutional-Quality Financial Education
+- Market Structure and Microstructure
+- Mathematical Finance Applications
+- Mathematical Modeling
+- Quantitative Analysis in Finance
+- Quantitative Methods in Finance
+- Quantitative Risk Management
+- Regulatory Framework in Financial Markets
+- Risk Management and Hedging Strategies
+- Statistical Finance
+- Statistical Modeling
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
 
 # Class Note 1 Borrower-Lender Conflicts and Implied Agency Problems
 

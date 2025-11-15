@@ -1,21 +1,114 @@
 ---
-tags:
-  - asset_pricing
-  - consumption
-  - dynamic_programming
-  - state_prices
-  - utility_maximization
 aliases:
-  - DP
-  - Indirect Utility
-  - Optimal Consumption
+- DP
+- Indirect Utility
+- Optimal Consumption
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Algorithmic trading strategies
+- Quantitative signal development
+- High-frequency trading
+- Dynamic Programming and financial analysis
+- Dynamic Programming in modern finance
+- Applications of Dynamic Programming
+- 'Case study: Dynamic Programming'
+last_enhanced: '2025-11-06 08:42:32'
+- portfolio
+- strategy
+- irs
+- pricing
+- hedging
+- call
+- options
+- delta
+- risk-management
+- theta
+- algorithmic-trading
+- optimization
+- var
+- portfolio-optimization
+- swaps
+tags:
+- algorithmic-trading
+- basis
+- bond
+- case-study
+- cash-flow
+- crisis-analysis
+- currency
+- derivative-pricing
+- derivatives
+- econometric
+- empirical-analysis
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-analysis
+- quantitative-methods
+- real-world-example
+- sovereign
+- statistical-model
+- stress-test
+- var
+- volatility
+
 key_concepts:
-  - Consumption-based asset pricing
-  - Discrete-time framework
-  - Envelope condition
-  - Indirect utility function
-  - Optimal consumption plan
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Econometric Analysis
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Econometrics
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Mathematical Finance Applications
+- Mathematical Modeling
+- Quantitative Analysis in Finance
+- Quantitative Methods in Finance
+- Quantitative Risk Management
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Statistical Finance
+- Statistical Modeling
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 6.5 Dynamic programming  
 

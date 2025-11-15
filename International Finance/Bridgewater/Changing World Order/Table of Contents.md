@@ -1,3 +1,12 @@
+---
+tags: []
+key_concepts:
+- Financial theory and academic research
+last_enhanced: '2025-11-06 08:42:41'
+---
+
+
+
 # The Changing World Order
 
 ## Table of Contents

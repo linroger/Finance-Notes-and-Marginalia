@@ -1,3 +1,50 @@
+---
+tags:
+- arbitrage
+- asset-pricing
+- banking
+- bond-durability
+- caps-floors
+- corporate-bonds
+- credit-rating
+- credit-risk
+- credit-spreads
+- financial-engineering
+- financial-regulation
+- forward-contracts
+- futures-contracts
+- government-bonds
+- hedging-strategies
+- interest-rates
+- junk-bonds
+- market-structure
+- options
+- relative-value
+key_concepts:
+- Duration and interest rate risk measurement
+- Yield curve modeling and term structure analysis
+- Arbitrage opportunities and relative value trading
+- Futures contracts and forward pricing
+- Interest rate swaps and swap curve construction
+- Credit spreads and credit risk assessment
+- Financial theory and academic research
+- Case study analysis and real-world applications
+- Practical examples and implementation
+- Trading strategies and market implementation
+- Financial regulation and compliance requirements
+- Investment analysis and portfolio management
+- Financial valuation and pricing methodologies
+- Fixed income securities and bond markets
+- Equity markets and stock valuation
+- International finance and global markets
+- Monetary policy and central banking
+- Financial crises and market stress events
+- Basel regulations and banking capital requirements
+last_enhanced: '2025-11-06 08:42:52'
+---
+
+
+
 
 
 # **HOW COUNTRIES GO BROKE THE BIG CYCLE**

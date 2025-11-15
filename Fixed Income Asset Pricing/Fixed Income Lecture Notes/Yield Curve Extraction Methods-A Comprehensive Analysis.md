@@ -1,23 +1,27 @@
 ---
 LLM-tagged: 2025-03-10 14:08:59.601000+00:00
 cssclasses:
-  - academia
+- academia
 tags:
-  - bootstrapping
-  - cash_flow_matrices
-  - nelson_siegel
-  - risk_management
-  - yield_curve
+- bootstrapping
+- cash_flow_matrices
+- interest-rates
+- nelson_siegel
+- risk_management
+- yield-curve
+- yield_curve
 aliases:
-  - Yield Curve Analysis
-  - Yield Curve Extraction
+- Yield Curve Analysis
+- Yield Curve Extraction
 key_concepts:
-  - Bootstrapping method
-  - Cash flow matrices
-  - Market data analysis
-  - Nelson-Siegel interpolation
-  - Yield curve extraction methods
+- Yield curve modeling and term structure analysis
+- Risk management techniques and best practices
+last_enhanced: '2025-11-06 08:42:39'
 ---
+
+
+
+
 
 ## Step 1: Provide an overview of the yield curve extraction methods
 The problem discusses three methods for extracting the yield curve from market data: Bootstrapping, Nelson-Siegel interpolation, and Cash Flow Matrices.

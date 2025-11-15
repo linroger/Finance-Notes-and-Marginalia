@@ -1,23 +1,120 @@
 ---
-tags:
-  - commodity_markets
-  - credit_risk
-  - currency_linked_note
-  - inflation_risk
-  - sec_rule_434
-  - structured_notes
 aliases:
-  - Structured Products
-  - Structured Securities
+- Structured Products
+- Structured Securities
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- A Simple Classification of Structured Notes and financial analysis
+- A Simple Classification of Structured Notes in modern finance
+- Applications of A Simple Classification of Structured Notes
+- 'Case study: A Simple Classification of Structured Notes'
+last_enhanced: '2025-11-06 08:42:33'
+- forward
+- maturity
+- coupon
+- interest-rate
+- options
+- fixed-income
+- put
+- bond
+- yield-curve
+- bonds
+- contango
+- interest-rates
+- call
+- futures
+- backwardation
+tags:
+- arbitrage
+- banking
+- basis
+- bid-ask
+- bond
+- case-study
+- cash-flow
+- central-bank
+- cftc
+- commodity
+- counterparty
+- credit-curve
+- credit-market
+- crisis-analysis
+- currency
+- default
+- derivative-pricing
+- derivatives
+- duration
+- empirical-analysis
+- equity
+- fixed-income
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- liquidity
+- margin-call
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- sec-regulation
+- securitization
+- sovereign
+- spread
+- structured-product
+- yield-curve
+
 key_concepts:
-  - Access to risk
-  - Commodity price exposure
-  - Credit risk of issuer
-  - Currency-linked note example
-  - Implicit options embedded
-  - Inflation risk hedging
-  - Structured notes characteristics
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 8.1  A SIMPLE CLASSIFICATION OF STRUCTURED NOTES  
 

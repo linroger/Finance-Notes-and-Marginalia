@@ -1,25 +1,50 @@
 ---
 cssclasses:
-  - academia
+- academia
 linter-yaml-title-alias: Market's Rate Expectations and Forward rates
 title: Understanding the Yield CurvePart 2
 tags:
-  - bond_risk_premia
-  - expectations_hypothesis
-  - forward_rates
-  - rate_expectations
-  - yield_curve
+- banking
+- bond-convexity
+- bond-durability
+- bond_risk_premia
+- convexity
+- coupon-bonds
+- expectations_hypothesis
+- forward-contracts
+- forward-rates
+- forward_rates
+- futures-contracts
+- government-bonds
+- interest-rates
+- options-greeks
+- portfolio-management
+- rate_expectations
+- relative-value
+- spot-rates
+- term-structure
+- yield-curve
 aliases:
-  - Forward Rate Analysis
-  - Market Rate Expectations
-  - Yield Curve Part 2
+- Forward Rate Analysis
+- Market Rate Expectations
+- Yield Curve Part 2
 key_concepts:
-  - Break-Even Yield Changes
-  - Curve Shape Influence
-  - Expectations Hypothesis
-  - Forward Rate Computation
-  - Spot vs Forward Rates
+- Duration and interest rate risk measurement
+- Convexity adjustments in fixed income
+- Yield curve modeling and term structure analysis
+- Forward rate calculations and forward curve construction
+- Risk-neutral pricing and martingale measures
+- Term structure of interest rates and yield curves
+- Futures contracts and forward pricing
+- Practical examples and implementation
+- Investment analysis and portfolio management
+- Fixed income securities and bond markets
+last_enhanced: '2025-11-06 08:42:39'
 ---
+
+
+
+
 
 # Understanding the Yield Curve-Part 2
 

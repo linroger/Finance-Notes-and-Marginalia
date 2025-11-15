@@ -1,21 +1,123 @@
 ---
-tags:
-  - case_study
-  - cds_index
-  - credit_deterioration
-  - jpmorgan_chase
-  - london_whale
 aliases:
-  - JPM
-  - JPMorgan
-  - London Whale
+- JPM
+- JPMorgan
+- London Whale
+- Mortgage-backed securities structure
+- Prepayment modeling and analysis
+- Securitization and CDO structures
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Case Study the London Whale and financial analysis
+- Case Study the London Whale in modern finance
+- Applications of Case Study the London Whale
+- 'Case study: Case Study the London Whale'
+last_enhanced: '2025-11-06 08:42:35'
+- options
+- credit-risk
+- hedging
+- tranche
+- call
+- delta
+- default
+- mbs
+- basis
+- put
+- subprime
+- trading
+- credit-spread
+- futures
+- spread
+tags:
+- arbitrage
+- balance-sheet
+- bank-failure
+- banking
+- bankruptcy
+- basis
+- bid-ask
+- bond
+- case-study
+- cdo
+- collateral
+- counterparty
+- credit-market
+- crisis-2008
+- crisis-analysis
+- default
+- derivative-pricing
+- derivatives
+- dodd-frank
+- empirical-analysis
+- equity
+- financial-crisis
+- fixed-income
+- graduate-level
+- gse
+- hedging
+- institutional-quality
+- learning-from-crisis
+- liquidity
+- mathematical-finance
+- mbs
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- sec-regulation
+- securitization
+- sovereign
+- spread
+- stress-test
+- synthetic
+- tail-risk
+- tranche
+- yield-curve
+
 key_concepts:
-  - CDS index tranches
-  - Credit deterioration
-  - Index notional amount
-  - JPMorgan Chase losses
-  - Synthetic Credit Portfolio
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # 14.13 CASE STUDY: THE LONDON WHALE  
 

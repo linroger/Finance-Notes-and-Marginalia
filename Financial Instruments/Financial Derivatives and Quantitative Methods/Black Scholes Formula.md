@@ -1,29 +1,87 @@
 ---
 title: Black Scholes Formula
 tags:
-  - black_scholes_formula
-  - digital_options
-  - european_options
-  - martingale_pricing
-  - pde
-  - option_pricing
-  - geometric_brownian_motion
-  - risk_neutral_pricing
-  - delta_hedging
+- alpha
+- beta
+- binomial
+- black-scholes
+- black_scholes_formula
+- brownian
+- call
+- defi
+- delta_hedging
+- digital
+- digital_options
+- european
+- european_options
+- forward
+- future
+- gbm
+- geometric_brownian_motion
+- greeks
+- hedge
+- implied-vol
+- ito
+- martingale_pricing
+- option
+- option_pricing
+- pde
+- put
+- risk-free-rate
+- risk_neutral_pricing
+- stock
+- var
 aliases:
-  - BS formula
-  - Black-Scholes formula
+- BS formula
+- Black-Scholes formula
 key_concepts:
-  - Digital option payoff
-  - European option pricing
-  - Put-call parity
-  - Risk-neutral valuation
-  - Standard normal distribution
-  - Geometric Brownian motion
-  - Delta hedging strategies
-  - Self-financing portfolios
-  - Ito's lemma application
-  - Boundary conditions
+- American options valuation
+- Backtesting VaR models
+- Backward induction algorithm
+- Binomial option pricing model
+- Boundary conditions
+- Convergence to Black-Scholes
+- Cox-Ross-Rubinstein framework
+- Delta hedging strategies
+- Delta risk management
+- Delta-hedging implementation
+- Derivative securities
+- Digital option payoff
+- Dynamic hedging strategies
+- Dynamic replication
+- European option pricing
+- Expected Shortfall calculation
+- Financial risk management
+- Gamma effects on options
+- Gamma hedging techniques
+- Geometric Brownian motion
+- Hedge ratio calculation
+- Hedging effectiveness
+- Historical simulation VaR
+- Ito's lemma application
+- Lattice methods for derivatives
+- Monte Carlo VaR
+- Multi-period binomial tree
+- Options Greeks measurement
+- Parametric VaR models
+- Portfolio insurance methods
+- Portfolio optimization
+- Portfolio risk hedging
+- Put-call parity
+- Quantitative financial analysis
+- Regulatory VaR requirements
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Risk-neutral probability
+- Risk-neutral valuation
+- Self-financing portfolios
+- Standard normal distribution
+- Static hedging
+- Theta time decay
+- VaR model validation
+- Value at Risk (VaR) methodology
+- Vega hedging strategies
+- Vega volatility sensitivity
 cssclasses: academia
 ---
 

@@ -2,35 +2,118 @@
 cssclasses: academia
 linter-yaml-title-alias: Lecture Slides 1 - Debt Contracts
 title: Lecture Slides 1 - Debt Contracts
-tags:
-  - bank_runs
-  - bankruptcy
-  - capital_structure
-  - debt_contracts
-  - financial_crisis
-  - liquidity
-  - securitization
-  - debt_pricing
-  - agency_costs
-  - trust_indenture_act
+- agency_costs
+- bank_runs
+- bankruptcy
+- bond
+- capital-structure
+- capital_structure
+- covid
+- debt_contracts
+- debt_pricing
+- equity
+- financial-crisis
+- financial_crisis
+- lehman
+- liquidity
+- long-term-capital
+- securitization
+- subprime
+- trust_indenture_act
 aliases:
-  - Debt Contracts
-  - Debt and Bankruptcy
-  - Debt and Liquidity
-  - Lecture 1
-  - Strategic Effects of Debt Slides
+- Debt Contracts
+- Debt and Bankruptcy
+- Debt and Liquidity
+- Lecture 1
+- Strategic Effects of Debt Slides
+- Bailouts and government crises
+- Banks and financial engineering
+- Capital structure choice
+- Debt capacity calculations
+- Debt contracts and bankruptcy
+- Derivative securities
+- Financial panics and debt
+- Financial risk management
+- Liquidity in markets
+- Portfolio optimization
+- Quantitative financial analysis
+- Risk assessment and mitigation
+- Securitization structures
+- Strategic effects of debt
+- Trust Indenture Act restrictions
+tags:
+- asian
+- bank-failure
+- bank-run
+- banking
+- bankruptcy
+- bond
+- central-bank
+- covid-crisis
+- crisis-2008
+- default
+- derivatives
+- econometric
+- equity
+- financial-crisis
+- financial-institutions
+- financial-markets
+- graduate-level
+- hedging
+- institutional-analysis
+- institutional-quality
+- lehman
+- leverage
+- liquidity
+- market-structure
+- mathematical-finance
+- mbs
+- money-market
+- professional-standard
+- provision
+- quantitative-analysis
+- quantitative-methods
+- restructuring
+- sec-regulation
+- securitization
+- silicon-valley-bank
+- sovereign
+- statistical-model
+- terra-luna
+- terrausd
+
 key_concepts:
-  - Bailouts and government crises
-  - Banks and financial engineering
-  - Capital structure choice
-  - Debt contracts and bankruptcy
-  - Financial panics and debt
-  - Liquidity in markets
-  - Securitization structures
-  - Strategic effects of debt
-  - Trust Indenture Act restrictions
-  - Debt capacity calculations
+- Banking and Financial Intermediation
+- Econometric Analysis
+- Financial Econometrics
+- Financial Intermediation and Banking
+- Financial Markets and Institutions
+- Institutional Analysis of Financial Systems
+- Institutional-Quality Financial Education
+- Market Structure and Microstructure
+- Mathematical Finance Applications
+- Mathematical Modeling
+- Quantitative Analysis in Finance
+- Quantitative Methods in Finance
+- Quantitative Risk Management
+- Regulatory Framework in Financial Markets
+- Risk Management and Hedging Strategies
+- Statistical Finance
+- Statistical Modeling
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
 
 # Lecture Slides 1 - Debt Contracts
 

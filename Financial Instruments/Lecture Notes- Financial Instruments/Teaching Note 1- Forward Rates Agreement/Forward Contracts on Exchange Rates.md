@@ -1,21 +1,44 @@
 ---
 title: Forward Contracts on Exchange Rates
 tags:
-  - arbitrage
-  - currency_risk
-  - exchange_rates
-  - forward_contracts
-  - interest_rates
+- arbitrage
+- basis-swap
+- currency
+- currency_risk
+- defi
+- exchange-rate
+- exchange_rates
+- forward
+- forward_contracts
+- future
+- interest-rate
+- interest_rates
+- libor
+- option
+- swap
 aliases:
-  - Currency Forwards
-  - FX Forwards
-  - Forward FX Contracts
+- Currency Forwards
+- FX Forwards
+- Forward FX Contracts
 key_concepts:
-  - Arbitrage strategy
-  - Forward rate definition
-  - Interest rate differential
-  - Short forward contract
-  - Spot exchange rate
+- Arbitrage strategy
+- Basis swap mechanics
+- Cross-currency basis
+- Currency swap structure
+- Derivative securities
+- Financial risk management
+- Fixed vs floating leg
+- Forward rate definition
+- Interest rate differential
+- Interest rate swap pricing
+- Portfolio optimization
+- Present value of swaps
+- Quantitative financial analysis
+- Risk assessment and mitigation
+- Short forward contract
+- Spot exchange rate
+- Swap curve construction
+- Swaption valuation
 ---
 
 Foreign Exchange Quoting Conventions

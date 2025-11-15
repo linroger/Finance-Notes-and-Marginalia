@@ -1,27 +1,64 @@
 ---
 tags:
-  - cpi
-  - derivative_pricing
-  - fixed_income
-  - inflation_swap
-  - risk_management
-  - inflation_expectations
-  - swap_valuation
+- alpha
+- beta
+- black-scholes
+- bond
+- call
+- cpi
+- derivative_pricing
+- fixed_income
+- forward
+- future
+- greeks
+- inflation
+- inflation_expectations
+- inflation_swap
+- interest-rate
+- libor
+- option
+- risk-free-rate
+- risk_management
+- stock
+- swap
+- swap_valuation
+- swaption
 aliases:
-  - CPI
-  - Consumer Price Index
-  - IS
-  - Inflation Swap
-  - Inflation-linked derivatives
+- CPI
+- Consumer Price Index
+- IS
+- Inflation Swap
+- Inflation-linked derivatives
 key_concepts:
-  - CPI index
-  - Fixed side payment
-  - Floating side payout
-  - Inflation swap contract
-  - Swap valuation
-  - Present value calculation
-  - Discount factors
-  - Inflation rate calculation
+- Basis swap mechanics
+- CPI index
+- Cross-currency basis
+- Currency swap structure
+- Delta risk management
+- Derivative securities
+- Discount factors
+- Dynamic hedging strategies
+- Financial risk management
+- Fixed side payment
+- Fixed vs floating leg
+- Floating side payout
+- Gamma effects on options
+- Inflation rate calculation
+- Inflation swap contract
+- Interest rate swap pricing
+- Options Greeks measurement
+- Portfolio optimization
+- Portfolio risk hedging
+- Present value calculation
+- Present value of swaps
+- Quantitative financial analysis
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Swap curve construction
+- Swap valuation
+- Swaption valuation
+- Theta time decay
+- Vega volatility sensitivity
 cssclasses: academia
 ---
 

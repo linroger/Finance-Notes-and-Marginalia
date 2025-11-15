@@ -1,21 +1,105 @@
 ---
-tags:
-  - bond_pricing
-  - bond_valuation
-  - bond_yield
-  - coupon_rate
-  - yield_to_maturity
 aliases:
-  - Bond Yield
-  - YTM
-  - Yield
+- Bond Yield
+- YTM
+- Yield
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Yield curve construction and modeling
+- Forward rate calculations
+- Spot and discount factors
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Yield to Maturity and financial analysis
+- Yield to Maturity in modern finance
+- Applications of Yield to Maturity
+- 'Case study: Yield to Maturity'
+last_enhanced: '2025-11-06 08:42:36'
+- forward-rates
+- options
+- forward
+- treasury
+- term-structure
+- call
+- coupon
+- yield
+- fixed-income
+- spot-rates
+- discount
+- bond
+- futures
+- bonds
+- maturity
+tags:
+- arbitrage
+- basis
+- bid-ask
+- bond
+- case-study
+- credit-curve
+- crisis-analysis
+- derivative-pricing
+- derivatives
+- duration
+- empirical-analysis
+- fixed-income
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- mathematical-finance
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- sec-regulation
+- securitization
+- spread
+- treasury
+- yield-curve
+
 key_concepts:
-  - Bond price and yield
-  - Bond valuation with rates
-  - Coupon rate and yield
-  - Price-yield relationship
-  - Yield to maturity definition
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # 3.2 YIELD TO MATURITY  
 

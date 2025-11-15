@@ -1,41 +1,94 @@
 ---
 cssclasses:
-  - academia
+- academia
 title: Week 6 Bank Analysis and Valuation
 linter-yaml-title-alias: Week 6 Bank Analysis and Valuation
 tags:
-  - bank_analysis
-  - bank_valuation
-  - competitive_analysis
-  - moats_banking
-  - regulatory_capital
-  - cyclicality_lending
-  - economic_spread
-  - flow_to_equity
-  - market_to_book
+- alpha
+- bank_analysis
+- bank_valuation
+- beta
+- bond
+- capital-structure
+- competitive_analysis
+- convexity
+- cost-of-capital
+- cost-of-equity
+- cyclicality_lending
+- dcf
+- dcf-analysis
+- duration
+- dv01
+- economic-profit
+- economic_spread
+- enterprise-value
+- equity
+- equity-value
+- fixed-income
+- flow_to_equity
+- future
+- interest-rate
+- liquidity
+- market_to_book
+- moats_banking
+- multiple
+- portfolio-optimization
+- regulatory-capital
+- regulatory_capital
+- risk-weighted
+- share-repurchase
+- stock
+- terminal-value
+- tier1
+- valuation
+- wacc
+- wacc-calculation
 aliases:
-  - Bank Moats and Valuation
-  - Competitive Analysis Banking
-  - Economic Spread Analysis
+- Bank Moats and Valuation
+- Competitive Analysis Banking
+- Economic Spread Analysis
 key_concepts:
-  - Moats in banking industry
-  - Economies of scale and scope
-  - Net interest margin analysis
-  - Economic spread analysis
-  - Cyclicality in lending
-  - Value drivers for banks
-  - Flow-to-equity valuation model
-  - Economic profit model for banks
-  - Market-to-book ratio for banks
-  - Regulatory capital importance
-  - Blackstone Citigroup case study
-  - Deutsche Bank valuation example
+- Blackstone Citigroup case study
+- Company valuation methodologies
+- Convexity adjustment
+- Cyclicality in lending
+- DV01 calculation
+- Derivative securities
+- Deutsche Bank valuation example
+- Discounted Cash Flow valuation
+- Discounted cash flow analysis
+- Duration measurement
+- Economic profit model for banks
+- Economic spread analysis
+- Economies of scale and scope
+- Enterprise value estimation
+- Financial risk management
+- Financial statement analysis
+- Flow-to-equity valuation model
+- Free cash flow modeling
+- Gordon growth model
+- Hedging with bonds
+- Industry analysis
+- Interest rate sensitivity
+- Market-to-book ratio for banks
+- Moats in banking industry
+- Modified duration calculation
+- Multi-stage DCF models
+- Net interest margin analysis
+- Portfolio immunization
+- Portfolio optimization
+- Price-yield relationship
+- Quantitative financial analysis
+- Regulatory capital importance
+- Risk assessment and mitigation
+- Terminal value calculation
+- Value drivers for banks
+- WACC calculation
+- Weighted Average Cost of Capital
 ---
 
 # Week 6 Bank Analysis and Valuation
-
 ## Today's Focus
-
 - **Business Model:**
   - Highly regulated (including entry)
   - Covered basics & rules in pre-recording
@@ -46,22 +99,18 @@ key_concepts:
   - Flow-to-equity model
   - Economic-profit model
 - **Relative valuation (or multiples)**
-
 ## Banks Are Very Different
-
 - Banks' Financial Statements Are Very Different
   - Equivalent to top line is interest income
     - Interest expense are essentially COGS
-- Not all assets at fair value (but closer than for non-financial firms)
+- Not all assets $\$a_t$$ fair value (but closer than for non-financial firms)
 - Separation of operating and financing items makes little sense
   - Banks largely have financial assets
   - Deposits could be viewed as raw material
   - Fixed assets are not so important, except IT
 - Bank invest heavily in intangible assets (e.g., human capital)
 - Regulation and the role of (equity) capital
-
 ## Importance of Regulatory Capital
-
 - Regulation Is Part Of The Business Model
   - You need to consider regulatory capital requirements in valuing the bank
   - Imagine a bank pays out all its earnings as dividends
@@ -72,9 +121,7 @@ key_concepts:
   - Clear link to reinvestment
   - Pre-recording provided an overview on capital regulation
     - Will illustrate link in a valuation model below
-
 ## Cyclicality in Lending
-
 - **Loan demand increases with the cycle**
 - **Deposit inflows (in good times) lead to more lending**
   - Remember deposits are like working capital for banks
@@ -83,9 +130,7 @@ key_concepts:
   - Makes it easier for banks and borrowers to engage
 - **Competition in local markets can exacerbate the cycle**
   - Lending standards typically decline in booms
-
 ## Going the Extra Mile: Cyclicality of Lending Distances
-
 !500
 
 Source: Granja, Leuz and Rajan (JF 2022)
@@ -94,13 +139,10 @@ Source: Granja, Leuz and Rajan (JF 2022)
   - As the economy heats up, banks' lending distances expand
   - In the bust, default rates on distance loans are higher
 - **Distance lending is partly driven by local competition & deposit inflows**
-
 # Moats and Competitive Analysis
-
 !500
 
 ## Moat Sources in Banking
-
 - **Pricing power in banking is hard to obtain**
   - Undifferentiated products ("a loan is a loan")
   - Cost of borrowing and yields are usually set by the market
@@ -112,15 +154,12 @@ Source: Granja, Leuz and Rajan (JF 2022)
 - **Deep customer relationships spanning multiple product lines can generate switching costs**
   - Economies of scope can be a source of a competitive advantage
 - **Relationship lending & soft information (e.g., in business loans)**
-
-## Economies of Scale at J.P. Morgan
-
-> "Our scale creates huge cost efficiencies and enables significant resources to be brought to bear for the benefit of our company. For example, in global technology, we have nearly 30,000 programmers, application developers and information technology employees who keep our 7,200 applications, 32 data centers, 58,000 servers, 300,000 desktops and global network operating smoothly for all our clients. Resources like these allow us to constantly improve our operating efficiencies and bring enormous capability to deal with issues when we need to do so such as adjusting to all the new global rules and requirements. In total, we believe that expense synergies across the company save us approximately $3 billion a year."
+## Economies of Scale $\$a_t$$ J.P. Morgan
+> "Our scale creates huge cost efficiencies and enables significant resources to be brought to bear for the benefit of our company. For example, in global technology, we have nearly 30,000 programmers, application developers and information technology employees who keep our 7,200 applications, 32 data centers, 58,000 servers, 300,000 desktops and global network operating smoothly for all our clients. Resources like these allow us to constantly improve our operating efficiencies and bring enormous capability to deal with issues when we need to do so such as adjusting to all the new global rules and requirements. In total, we believe that expense synergies across the company save us approximately $3 billion a year."$
 > - Jamie Dimon letter to shareholders (JPM 2013 annual report)
 
-## Economies of Scope at J.P. Morgan
-
-> "Each of our four major businesses operates at good economies of scale and gets significant additional advantages from the other businesses. We believe this is one of the key reasons we have maintained good financial performance. Below are some pretty powerful examples:
+## Economies of Scope $\$a_t$$ J.P. Morgan
+> "Each of our four major businesses operates $\$a_t$$ good economies of scale and gets significant additional advantages from the other businesses. We believe this is one of the key reasons we have maintained good financial performance. Below are some pretty powerful examples:
 >
 > - Our North America Investment Bank generates 29% of its investment banking revenue through Commercial Bank clients covered locally.
 > - Our Global Corporate Bank helped generate $1.3 billion in revenue for our fixed income sales and trading operation, increasing business to our trading desks.
@@ -130,21 +169,17 @@ Source: Granja, Leuz and Rajan (JF 2022)
 > - Jamie Dimon letter to shareholders (JPM 2013 annual report)
 
 # Value Drivers in Banking & Spread Analysis
-
 ## Value Drivers in Bank Lending
-
 Most important profitability metric for banks
 
 !500
 
 ## Net Interest Margin for U.S. Banks
-
-$$NIM = \frac{\text{Net interest income}}{\text{Average interest bearing assets}}$$
+$\$NIM = \frac{\text{Net interest income}}{\text{Average interest bearing assets}}$$
 
 !500
 
 ## Economic Spread Analysis
-
 - **NIM does not measure value creation, as it does not account for duration mismatch**
   - A greater mismatch increases margin due to term premium (i.e., risk)
 - **Value creation is better measured as the difference between the rate a bank receives on loans and the maturity-matched return on loans in financial markets**
@@ -154,13 +189,10 @@ $$NIM = \frac{\text{Net interest income}}{\text{Average interest bearing assets}
   - Mismatched capital charge arises from difference in duration of assets and liabilities (= compensation for risk!)
   - **Economic spread is obtained after adjusting for both charges**
 - **Economic spread analysis provides insights into a bank's value creation**
-
 ## Economic Spread Analysis (Cont.)
-
 !500
 
 ## Modigliani-Miller Tax Penalty
-
 - **Debt creates value through tax shields because interest is tax-deductible**
 - **Banks are holding financial assets and have to pay tax on its interest income**
   - Creates a tax penalty
@@ -171,9 +203,7 @@ $$NIM = \frac{\text{Net interest income}}{\text{Average interest bearing assets}
   - **Banks incur a negative net tax effect**
 - **This implies that equity capital is costly for banks because of the tax penalty**
   - If you use a levered cost of equity, this penalty is included in the valuation
-
 ## Key Metrics for Banks: Summary
-
 - **Key performance metric used for banks is ROE**
   - But beware of the leverage effect
   - Risk shifting & under-provisioning boosts the ROE
@@ -185,29 +215,21 @@ $$NIM = \frac{\text{Net interest income}}{\text{Average interest bearing assets}
 - **Capital (and liquidity)**
   - Heavily regulated
 - **Key number in valuing banks is the forecast of ROE in the long-run**
-
 # Visible Alpha Models
-
 ## Comerica (CMA): Key Ratios
-
 !500
 
 ## CMA: Loan Portfolio
-
 !500
 
 ## JPM: Key Values
-
 !500
 
 ## JPM: Revenue by Business
-
 !500
 
 # Blackstone and Citigroup Case
-
 ## Purpose of the Case
-
 - **Part 1: Introduce you to Citigroup's financial statements**
   - Primary balance sheet and income statement line items
   - Fundamentals of bank regulatory capital
@@ -217,11 +239,8 @@ $$NIM = \frac{\text{Net interest income}}{\text{Average interest bearing assets}
   - **What is the value of a loan (portfolio)?**
     - Expected cash flows, default and discount rates for debt
     - Computing the cost of (risky) debt
-
 # Different Approach to Valuation
-
 ## Why Do We Need a Different Approach?
-
 - **Standard DCF or entity model (w/ FCF) does not make sense for banks**
   - Standard model focuses on assets and sets financing aside
     - Why or how does leverage enter the entity (DCF) model?
@@ -234,24 +253,18 @@ $$NIM = \frac{\text{Net interest income}}{\text{Average interest bearing assets}
   - Flow-to-equity model or economic profit model
 - **For banks, book value is a more appropriate "benchmark" to compute the cost of capital charge for economic profits**
   - Why?
-
 ## Cash Flow-to-Equity Model
-
-- **Equity value equals present value of future cash flows to equity (CFE), discounted at the cost of equity, $k_e$:**
+- **Equity value equals present value of future cash flows to equity (CFE), discounted $\$a_t$$ the cost of equity, $k_e$:**
   - We can derive $CFE$ as Net Income ($NI$) minus increase in book equity ($ΔE$) plus (noncash) other comprehensive income ($OCI$)
     - Think about it as: $CFE = NI – \text{Reinvestment in regulatory capital}$
   - Another way to calculate $CFE$ is to sum all cash paid to or received from shareholders, including dividends, share repurchases, and new share issuances
-
 !500
 
 - Discount with cost of equity ($k_e$)
-
 ## Example: Cash Flow to Equity
-
 !500
 
 ## Bank Betas
-
 - **We do not use WACC for banks**
   - Use cost of equity
 - **Estimated equity beta reflects the leverage of the bank**
@@ -259,39 +272,31 @@ $$NIM = \frac{\text{Net interest income}}{\text{Average interest bearing assets}
   - Reduces noise in beta estimation
   - Unlevering and relevering bank betas to adjust for capital structure is less important
     - Regulation implies banks typically have very similar capital structures
-
 # Economic Profit Model: Equity Version
-
 - Economic profit model can also be applied as an equity model
   - Now, we use equity capital, ROE, RONE, and $k_e$
+$\$\text{Equity Value}_0 = \text{Book Value}_0 + \sum_{t=1}^{\infty} \frac{\text{Economic Profit}_t}{(1+k_e)^t}$$
 
-$$\text{Equity Value}_0 = \text{Book Value}_0 + \sum_{t=1}^{\infty} \frac{\text{Economic Profit}_t}{(1+k_e)^t}$$
+$\$\text{Economic Profit}_t = \text{Book Value}_{t-1} * (ROE_t - k_e)$$
 
-$$\text{Economic Profit}_t = \text{Book Value}_{t-1} * (ROE_t - k_e)$$
+$\$\text{Equity Value}_0 = \text{Book Value}_0 + \sum_{t=1}^T \frac{\text{Economic Profit}_t}{(1+k_e)^t} + \frac{TV_T}{(1+k_e)^T}$$
 
-$$\text{Equity Value}_0 = \text{Book Value}_0 + \sum_{t=1}^T \frac{\text{Economic Profit}_t}{(1+k_e)^t} + \frac{TV_T}{(1+k_e)^T}$$
-
-$$TV_T(\text{Economic Profit}) = \frac{\text{Economic Profit}_{T+1}}{k_e - g}$$
+$\$TV_T(\text{Economic Profit}) = \frac{\text{Economic Profit}_{T+1}}{k_e - g}$$
 
 - Sometimes called "abnormal earnings" or "excess return" model
-
 # Flow to Equity Valuation: Deutsche Bank
-
 ## Deutsche Bank in October 2016
-
 - Major losses in 2015 and "current" year (2016)
 - Drop in Tier 1 regulatory capital in 2015, but still much higher than in the past
-- $14 billion fine by DoJ triggered panic in markets
+- $14 billion fine by DoJ triggered panic in markets$
 - Rumors of possible default or state takeover
-- Stock price dropped to $13.33
+- Stock price dropped to $13.33$
 - Valuation challenges:
   - Bank suspended paying dividends
   - New equity likely to be issued due to regulatory capital shortfall
 - Illustrate CF-to-equity model
   - Key forecast: ROE
-
 ## Deutsche Bank: Assumptions
-
 - **ROE will return to 5.85% by year 5 (25th percentile of all banks)**
 - **ROE will return to 9.44% in year 10**
   - Rationale: Deutsche will earn its cost of equity in steady state
@@ -304,76 +309,60 @@ $$TV_T(\text{Economic Profit}) = \frac{\text{Economic Profit}_{T+1}}{k_e - g}$$
   - After year 5, cost of equity declines to 9.44% by year 10 (median of all banks)
     - Consistent with increase in (equity) capital
 - **Perpetual growth rate g = 1.00%**
-
 ## Step 1: Expected Net Income
-
 !500
 
 Source: Damodaran Chapter 14: Table 14.4 Deutsche Bank – Expected ROE(%) and Net Income Millions of US $ Note: Common equity number is end-of-previous year number plus beginning-of-year forecasted increases in Tier 1 capital.
 
 ## Step 2: Regulatory Capital and Reinvestment
-
 !500
 
 - Forecast: RWA → capital ratio → T1 capital = required equity
 - Capital requirement is estimated based on RWA, not just equity
   - Reflects Capital Regulation
-
-Source: Damodaran Chapter 14: Table 14.5 Deutsche Bank – Regulatory Capital and Reinvestment (In millions of US $) Note: The total reinvestment includes beginning-of-year increases in Tier 1 capital given forecasted growth in RWA, plus losses (which are assumed to occur at the end of the year)
+Source: Damodaran Chapter 14: Table 14.5 Deutsche Bank – Regulatory Capital and Reinvestment (In millions of US $) Note: The total reinvestment includes beginning-of-year increases in Tier 1 capital given forecasted growth in RWA, plus losses (which are assumed to occur $$a_t$$ the end of the year)
 
 ## Deutsche Bank: FCFE and Terminal Value
-
 !500
 
-- Expected Net Income in year 11: 
-  $$\text{Expected Net Income in year 11} = \$8,161 \times 1.01 = \$8,243$$
+- Expected Net Income in year 11:
+  $\$\text{Expected Net Income in year 11} = \$8,161 \times 1.01 = \$8,243$$
 
-- Expected retention ratio in perpetuity: 
-  $$\text{Expected retention ratio in perpetuity} = \frac{g}{ROE} = \frac{1.00\%}{9.44\%} = 10.59\%$$
+- Expected retention ratio in perpetuity:
+  $\$\text{Expected retention ratio in perpetuity} = \frac{g}{ROE} = \frac{1.00\\%}{9.44\\%} = 10.59\\%$$
 
-- Terminal Value (TV) of equity: 
-  $$\text{TV of equity} = \frac{\$8,243 \times (1 - 0.1059)}{0.0944 - 0.01} = \$87,317$$
+- Terminal Value (TV) of equity:
+  $\$\text{TV of equity} = \frac{\$8,243 \times (1 - 0.1059)}{0.0944 - 0.01} = \$87,317$$
 
 ## Deutsche Bank: Failure Risk and Value per Share
-
 - **Summing over the PV terms on previous slide implies an equity value:**
-
 !500
 
 - Key Points:
   - Illustration of flow-to-equity model
   - Valuation incorporates capital raising (and dilution): Divide by shares outstanding
   - How could you incorporate a potential failure: Simple scenario
-
 Source: Damodaran Chapter 14: Table 14.8 Deutsche Bank – Failure Risk and Value per Share
 
 ## Relative Valuation
-
 !500
 
 ## Market-to-Book is Frequently Used for Banks
-
 - For banks, book value is measured closer to market value (or FV):
-
-$$P = \frac{Div}{k_e - g} = \frac{BV \times ROE \times \text{Payout Ratio} \times (1+g)}{k_e - g}$$
+$\$P = \frac{Div}{k_e - g} = \frac{BV \times ROE \times \text{Payout Ratio} \times (1+g)}{k_e - g}$$
 
 ### Division by Book Value
-
 - When both sides are divided by BV, we obtain:
-
-$$\frac{P}{BV} = \frac{ROE \times (1 - \frac{g}{ROE}) \times (1+g)}{k_e - g}$$
+$\$\frac{P}{BV} = \frac{ROE \times (1 - \frac{g}{ROE}) \times (1+g)}{k_e - g}$$
 
 !500
 
 ### Market-to-Book Ratio
-
 - $MTB (\frac{P}{BV})$ is a linear function of ROE:
-  - **Bank with a higher expected ROE should trade at a higher MTB ratio.**
+  - **Bank with a higher expected ROE should trade $\$a_t$$ a higher MTB ratio.**
   - **The connection between economic profits and the market-to-book ratio.**
 - As always, comparability is essential:
   - Consider business model differences (growth and profitability).
   - Account for banks' impairment and provisioning policies (as they determine $BV$).
-
 ## Market-to-Book Ratios Over Time
-
 !500

@@ -1,23 +1,34 @@
 ---
 title: Foreign Exchange Quoting Conventions
 tags:
-  - currency_pair
-  - foreign_exchange
-  - fx_forward_rate
-  - fx_spot_rate
-  - interest_rate_parity
-  - outright_forward
+- currency
+- currency_pair
+- defi
+- exchange-rate
+- foreign_exchange
+- forward
+- future
+- fx_forward_rate
+- fx_spot_rate
+- interest-rate
+- interest_rate_parity
+- outright_forward
 aliases:
-  - FX
-  - FX Quoting
-  - Forex
+- FX
+- FX Quoting
+- Forex
 key_concepts:
-  - Base and quote currency
-  - Exchange rate definition
-  - FX forward rate
-  - FX spot rate
-  - Forward contract value
-  - Interest rate parity
+- Base and quote currency
+- Derivative securities
+- Exchange rate definition
+- FX forward rate
+- FX spot rate
+- Financial risk management
+- Forward contract value
+- Interest rate parity
+- Portfolio optimization
+- Quantitative financial analysis
+- Risk assessment and mitigation
 ---
 
 - Introduction to Derivative Markets]]

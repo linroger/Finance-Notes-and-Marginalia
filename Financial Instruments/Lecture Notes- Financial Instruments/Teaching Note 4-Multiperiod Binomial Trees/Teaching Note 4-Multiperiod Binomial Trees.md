@@ -2,22 +2,91 @@
 linter-yaml-title-alias: LECTURE NOTE 4-MULTIPERIOD BINOMIAL TREES
 title: LECTURE NOTE 4-MULTIPERIOD BINOMIAL TREES
 tags:
-  - binomial_trees
-  - multiperiod_model
-  - option_pricing
-  - replicating_portfolio
-  - risk_neutral_pricing
+- american
+- appreciation
+- binomial
+- binomial_trees
+- black-scholes
+- bond
+- call
+- cds
+- currency
+- defi
+- exchange-rate
+- exotic
+- forward
+- future
+- greeks
+- hedge
+- implied-vol
+- interest-rate
+- monte-carlo
+- multiperiod_model
+- multiple
+- option
+- option_pricing
+- put
+- replicating_portfolio
+- risk-free-rate
+- risk_neutral_pricing
+- stock
+- swap
 aliases:
-  - Binomial Tree
-  - Multi-Step Trees
-  - One Step Binomial Trees
-  - Two-Step Binomial Trees
+- Binomial Tree
+- Multi-Step Trees
+- One Step Binomial Trees
+- Two-Step Binomial Trees
 key_concepts:
-  - American option valuation
-  - Binomial tree pricing
-  - Option pricing methodology
-  - Replicating portfolio
-  - Risk neutral valuation
+- ' tranche valuation'
+- American option valuation
+- American options valuation
+- Backward induction algorithm
+- Basis swap mechanics
+- Binomial option pricing model
+- Binomial tree pricing
+- CDO squared structures
+- CDS curve construction
+- CDS spread calibration
+- Convergence to Black-Scholes
+- Cox-Ross-Rubinstein framework
+- Credit Default Swaps
+- Credit index products
+- Cross-currency basis
+- Currency swap structure
+- Default correlation
+- Delta risk management
+- Delta-hedging implementation
+- Derivative securities
+- Dynamic hedging strategies
+- Dynamic replication
+- Financial risk management
+- Fixed vs floating leg
+- Gamma effects on options
+- Gamma hedging techniques
+- Hedge ratio calculation
+- Hedging effectiveness
+- Interest rate swap pricing
+- Lattice methods for derivatives
+- Multi-period binomial tree
+- Option pricing methodology
+- Options Greeks measurement
+- Portfolio insurance methods
+- Portfolio optimization
+- Portfolio risk hedging
+- Present value of swaps
+- Quantitative financial analysis
+- Replicating portfolio
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Risk neutral valuation
+- Risk-neutral probability
+- Static hedging
+- Swap curve construction
+- Swaption valuation
+- Synthetic CDO pricing
+- Theta time decay
+- Vega hedging strategies
+- Vega volatility sensitivity
 ---
 
 # Teaching Note 4-Multiperiod Binomial Trees

@@ -2,20 +2,32 @@
 linter-yaml-title-alias: Solution to Homework 6
 title: Solution to Homework 6
 tags:
-  - black_scholes_merton
-  - call_option
-  - implied_volatility
-  - sp500
-  - structured_security
+- beta
+- black-scholes
+- black_scholes_merton
+- call
+- call_option
+- dividend-yield
+- implied-vol
+- implied_volatility
+- option
+- risk-free-rate
+- sp500
+- structured_security
 aliases:
-  - BMS implied volatility
-  - Homework 6 Solution
+- BMS implied volatility
+- Homework 6 Solution
 key_concepts:
-  - Black-Scholes model
-  - Implied volatility calculation
-  - Option pricing
-  - PLUS security payoff
-  - Structured security valuation
+- Black-Scholes model
+- Derivative securities
+- Financial risk management
+- Implied volatility calculation
+- Option pricing
+- PLUS security payoff
+- Portfolio optimization
+- Quantitative financial analysis
+- Risk assessment and mitigation
+- Structured security valuation
 ---
 
 # Solution to Homework 6

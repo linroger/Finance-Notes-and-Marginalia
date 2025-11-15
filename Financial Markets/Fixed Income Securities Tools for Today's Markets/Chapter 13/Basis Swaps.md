@@ -1,20 +1,112 @@
 ---
-tags:
-  - basis_swaps
-  - cross_currency_swaps
-  - euribor
-  - sofr
-  - str
 aliases:
-  - Basis Swap
-  - STR vs Euribor
+- Basis Swap
+- STR vs Euribor
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Basis Swaps and financial analysis
+- Basis Swaps in modern finance
+- Applications of Basis Swaps
+- 'Case study: Basis Swaps'
+last_enhanced: '2025-11-06 08:42:35'
+- basis-swap
+- credit-risk
+- hedging
+- fed-funds
+- default
+- cds
+- sofr
+- basis
+- irs
+- trading
+- futures
+- spread
+- swap
+- interest-rates
+- libor
+tags:
+- arbitrage
+- banking
+- basis
+- bid-ask
+- bond
+- case-study
+- collateral
+- corporate-bond
+- credit-curve
+- credit-market
+- credit-rating
+- crisis-analysis
+- currency
+- default
+- derivatives
+- empirical-analysis
+- equity
+- fixed-income
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- liquidity
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- sec-regulation
+- securitization
+- sovereign
+- spread
+- yield-curve
+
 key_concepts:
-  - Basis risk definition
-  - Credit risk perspective
-  - Floating rate on one leg
-  - Hedging basis risk
-  - STR vs Euribor swap
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # 13.6 BASIS SWAPS  
 

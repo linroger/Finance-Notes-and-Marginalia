@@ -1,28 +1,76 @@
 ---
 cssclasses:
-  - academia
+- academia
 title: Risk Neutral Pricing of Options
 tags:
-  - american_option
-  - call_option
-  - european_option
-  - intrinsic_value
-  - maturity_date
-  - options
-  - put_option
-  - strike_price
-  - time_value
+- american
+- american_option
+- binomial
+- bond
+- call
+- call_option
+- defi
+- equity
+- european
+- european_option
+- forward
+- future
+- greeks
+- hedge
+- interest-rate
+- intrinsic_value
+- maturity_date
+- option
+- options
+- put
+- put_option
+- risk-free-rate
+- risk-management
+- stochastic
+- stock
+- strike_price
+- terminal-value
+- time_value
 aliases:
-  - Option Holder
-  - Option Payoffs
-  - Option Pricing
-  - Option Writer
+- Option Holder
+- Option Payoffs
+- Option Pricing
+- Option Writer
 key_concepts:
-  - Derivative assets
-  - Expiration date
-  - Option payoffs
-  - Option types
-  - Underlying asset
+- American options valuation
+- Backward induction algorithm
+- Binomial option pricing model
+- Convergence to Black-Scholes
+- Cox-Ross-Rubinstein framework
+- Delta risk management
+- Delta-hedging implementation
+- Derivative assets
+- Derivative securities
+- Dynamic hedging strategies
+- Dynamic replication
+- Expiration date
+- Financial risk management
+- Gamma effects on options
+- Gamma hedging techniques
+- Hedge ratio calculation
+- Hedging effectiveness
+- Lattice methods for derivatives
+- Multi-period binomial tree
+- Option payoffs
+- Option types
+- Options Greeks measurement
+- Portfolio insurance methods
+- Portfolio optimization
+- Portfolio risk hedging
+- Quantitative financial analysis
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Risk-neutral probability
+- Static hedging
+- Theta time decay
+- Underlying asset
+- Vega hedging strategies
+- Vega volatility sensitivity
 ---
 
  

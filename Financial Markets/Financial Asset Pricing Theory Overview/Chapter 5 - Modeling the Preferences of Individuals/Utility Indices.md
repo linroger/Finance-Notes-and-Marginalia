@@ -1,23 +1,78 @@
 ---
-tags:
-  - archimedean_axiom
-  - continuity_property
-  - monotonicity
-  - preference_relation
-  - utility_index
 aliases:
-  - Axiom 5.1
-  - Axiom 5.2
-  - Preference
-  - Utility Index
+- Axiom 5.1
+- Axiom 5.2
+- Preference
+- Utility Index
+- Efficient market hypothesis
+- Market anomalies and patterns
+- Price discovery and information
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Utility Indices and financial analysis
+- Utility Indices in modern finance
+- Applications of Utility Indices
+- 'Case study: Utility Indices'
+last_enhanced: '2025-11-06 08:42:31'
+- market-efficiency
+- alpha
+- call
+- options
+- put
+tags:
+- case-study
+- crisis-analysis
+- derivative-pricing
+- derivatives
+- empirical-analysis
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- market-efficiency
+- mathematical-finance
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+
 key_concepts:
-  - Archimedean axiom
-  - Continuity property preference
-  - Monotonicity axiom
-  - Preference relation
-  - Strictly increasing transformation
-  - Utility index function
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 5.3 Utility indices  
 

@@ -1,27 +1,102 @@
 ---
 title: Default Correlation Pricing and Trading
 tags:
-  - default-correlation
-  - credit-derivatives
-  - correlation-trading
-  - financial-engineering
-  - copulas
-  - cdo-pricing
-  - credit-risk
-  - correlation-models
+- alpha
+- black-scholes
+- bond
+- bps
+- capital-structure
+- cdo-pricing
+- cds
+- cdsos
+- convexity
+- copula
+- copulas
+- correlation-models
+- correlation-swap
+- correlation-trading
+- credit-derivatives
+- credit-risk
+- credit-spread
+- default-correlation
+- defi
+- equity
+- financial-engineering
+- future
+- greeks
+- hedge
+- hedge-fund
+- implied-vol
+- index
+- interest-rate
+- liquidity
+- market-risk
+- mbs
+- monte-carlo
+- multiple
+- option
+- put
+- stochastic
+- stock
+- swap
+- vol-smile
 aliases:
-  - Chapter 22 Default Correlation
-  - Correlation Trading
-  - Credit Correlation Models
+- Chapter 22 Default Correlation
+- Correlation Trading
+- Credit Correlation Models
 key_concepts:
-  - Default correlation
-  - Correlation trading
-  - Copula models
-  - CDO tranches
-  - Base correlation
-  - Implied correlation
-  - Correlation risk
-  - Portfolio credit models
+- ' tranche valuation'
+- Base correlation
+- Basis swap mechanics
+- CDO squared structures
+- CDO structure
+- CDO tranches
+- CDS curve construction
+- CDS spread calibration
+- Copula models
+- Correlation risk
+- Correlation trading
+- Credit Default Swaps
+- Credit index products
+- Credit tranching
+- Cross-currency basis
+- Currency swap structure
+- Default correlation
+- Delta risk management
+- Delta-hedging implementation
+- Derivative securities
+- Dynamic hedging strategies
+- Dynamic replication
+- Financial risk management
+- Fixed vs floating leg
+- Gamma effects on options
+- Gamma hedging techniques
+- Hedge ratio calculation
+- Hedging effectiveness
+- Implied correlation
+- Interest rate swap pricing
+- Mortgage-backed securities
+- Option-adjusted spread
+- Options Greeks measurement
+- PSA curves
+- Portfolio credit models
+- Portfolio insurance methods
+- Portfolio optimization
+- Portfolio risk hedging
+- Prepayment modeling
+- Present value of swaps
+- Quantitative financial analysis
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Static hedging
+- Subprime crisis
+- Swap curve construction
+- Swaption valuation
+- Synthetic CDO pricing
+- Theta time decay
+- Vega hedging strategies
+- Vega volatility sensitivity
+- Waterfall mechanics
 cssclasses: academia
 ---
 

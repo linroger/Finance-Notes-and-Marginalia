@@ -1,21 +1,52 @@
 ---
 title: Contango And Backwardation In Arbitrage-Free Futures-Markets
 tags:
-  - arbitrage_free
-  - backwardation
-  - carry_trades
-  - contango
-  - futures_prices
+- arbitrage_free
+- backwardation
+- bubble
+- carry_trades
+- commodity
+- contango
+- covid
+- crypto
+- currency
+- defi
+- duration
+- financial-crisis
+- forward
+- future
+- futures_prices
+- gold
+- hedge-fund
+- interest-rate
+- oil
+- option
+- real-option
+- stock
+- yield-curve
 aliases:
-  - Forward Prices
-  - Futures Markets
-  - Spot Prices
+- Forward Prices
+- Futures Markets
+- Spot Prices
 key_concepts:
-  - Arbitrage opportunities
-  - Carry and reverse trades
-  - Contango and backwardation
-  - Futures price determination
-  - Term structure of prices
+- Arbitrage opportunities
+- Carry and reverse trades
+- Contango and backwardation
+- Convexity adjustment
+- DV01 calculation
+- Derivative securities
+- Duration measurement
+- Financial risk management
+- Futures price determination
+- Hedging with bonds
+- Interest rate sensitivity
+- Modified duration calculation
+- Portfolio immunization
+- Portfolio optimization
+- Price-yield relationship
+- Quantitative financial analysis
+- Risk assessment and mitigation
+- Term structure of prices
 ---
 
 # Contango And Backwardation In Arbitrage-Free Futures-Markets

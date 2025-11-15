@@ -1,3 +1,31 @@
+---
+tags:
+- asset-pricing
+- banking
+- caps-floors
+- credit-risk
+- futures-contracts
+- government-bonds
+- interest-rates
+- market-structure
+- swaps
+- trading-strategies
+key_concepts:
+- Futures contracts and forward pricing
+- Interest rate swaps and swap curve construction
+- Financial theory and academic research
+- Practical examples and implementation
+- Trading strategies and market implementation
+- Investment analysis and portfolio management
+- Financial valuation and pricing methodologies
+- Fixed income securities and bond markets
+- Equity markets and stock valuation
+- International finance and global markets
+last_enhanced: '2025-11-06 08:42:40'
+---
+
+
+
 Chapter 4: The Last 500 Years Part 1: The Big Cycles of the Dutch and British Empires and Their Currencies
 
 ## **Chapter 4: The Last 500 Years Part 1: The Big Cycles of the Dutch and British Empires and Their Currencies**

@@ -1,3 +1,58 @@
+---
+title: Settlement Price
+- commodities
+- derivatives
+- equity
+- fx
+- m&a
+- options
+- risk-management
+- volatility
+- Risk measurement and VaR models
+tags:
+- commodity
+- counterparty
+- currency
+- derivatives
+- equity
+- graduate-level
+- institutional-quality
+- margin-call
+- mathematical-finance
+- professional-standard
+- provision
+- quantitative-methods
+- sec-regulation
+- securitization
+- var
+- volatility
+key_concepts:
+- Banking and Financial Intermediation
+- Banking and Intermediation
+- Credit Risk Assessment
+- Derivative Securities
+- Financial Crisis Analysis
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Financial Regulation and Compliance
+- Institutional-Quality Financial Education
+- Liquidity and Market Structure
+- Market Trading and Hedging
+- Quantitative Finance Methods
+- Quantitative Methods in Finance
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
+---
 
 title: Settlement Price
 source: https://www.investopedia.com/terms/s/settlementprice.asp
@@ -16,41 +71,34 @@ aliases:
 key_concepts:
   - Based on trading activity
   - Determines profit or loss
-  - Price at end of day
+  - Price $\$a_t$$ end of day
   - Used for mutual funds
   - Used in derivatives contracts
 ---
 
-
 Momoimages / Getty Images
 
 ## What Is a Settlement Price?
-
-The settlement price is the price used for determining a position's daily profit or loss as well as the related margin requirements for the position. It is typically used in the mutual fund and derivatives](https://www.investopedia.com/terms/d/derivative.asp) markets. The settlement price may also refer to the final price an underlying asset achieves in options contracts to determine whether they are in-the-money (ITM) or out-of-the-money (OTM) at expiration and what their payoffs ought to be.
+The settlement price is the price used for determining a position's daily profit or loss as well as the related margin requirements for the position. It is typically used in the mutual fund and derivatives](https://www.investopedia.com/terms/d/derivative.asp) markets. The settlement price may also refer to the final price an underlying asset achieves in options contracts to determine whether they are in-the-money (ITM) or out-of-the-money (OTM) $\$a_t$$ expiration and what their payoffs ought to be.
 
 ### Key Takeaways
-
-- Settlement price refers to the price at which an asset closes or which a derivatives contract will reference at the end of each trading day and/or upon its expiration.
+- Settlement price refers to the price $\$a_t$$ which an asset closes or which a derivatives contract will reference $$a_t$$ the end of each trading day and/or upon its expiration.
 - The settlement price will be determined on the settlement date of a particular contract.
 - There is no standard across asset classes on how settlement prices must be calculated, and there is thus great variance across exchanges for settlement prices of similar contracts.
-
 ## Understanding Settlement Prices
-
 A settlement price is used as the reference price for marking the value of open derivatives contracts, or for evaluating their value upon expiration. This price is obtained on the settlement date. It can be calculated in one of several ways and is generally set by defined procedures that differ slightly depending on the exchange and the instrument traded.
 
 Settlement prices are typically based on price averages within a specific time. These prices may be calculated based on activity across an entire trading day—using the opening and closing prices as part of the calculation—or on activity that takes place during a specific window of time within a trading day.
 
-The opening price reflects the price for a particular security at the beginning of the trading day within a particular exchange while the closing price refers to the price of a particular security at the end of that same trading day. In cases where securities are traded on multiple markets, a closing price may differ from the next day’s opening price due to off-hours activity occurring while the first market is closed.
+The opening price reflects the price for a particular security $\$a_t$$ the beginning of the trading day within a particular exchange while the closing price refers to the price of a particular security $$a_t$$ the end of that same trading day. In cases where securities are traded on multiple markets, a closing price may differ from the next day’s opening price due to off-hours activity occurring while the first market is closed.
 
 While the opening and closing prices are generally handled the same way from one exchange to the next, there is no standard on how settlement prices must be determined in different exchanges, causing variances across the global markets.
 
 ### Important
-
-Settlement prices are often based on the average price of the contract over a specified period, calculated at both the open and close of each trading day, though not all markets use the same formula.
+Settlement prices are often based on the average price of the contract over a specified period, calculated $\$a_t$$ both the open and close of each trading day, though not all markets use the same formula.
 
 ## Settlement Prices for Specific Markets
-
-The settlement price is typically set by determining the weighted average price over a certain period of trading, typically shortly before the close of the market. For instance, settlement prices are determined at the Chicago Mercantile Exchange (CME) during the range of these settlement periods:$$
+The settlement price is typically set by determining the weighted average price over a certain period of trading, typically shortly before the close of the market. For instance, settlement prices are determined $\$a_t$$ the Chicago Mercantile Exchange (CME) during the range of these settlement periods:$$
 \begin{array}{ | l | l | }
 \hline
 {\text{CME: Settlement Times for Specific Assets}} \\
@@ -71,27 +119,21 @@ $$
 On the Moscow Exchange (MOEX), settlement prices for the RTS Index and MICEX Index are based on activity between 3:00 p.m. and 4:00 p.m. of the last trading day. The Russian Volatility Index uses a different time, focusing instead on activity between 2:03:15 p.m. and 6:00:00 p.m.
 
 ### Fast Fact
-
 Settlement prices may also be used to compute the daily net asset value (NAV) of mutual funds or exchange-traded funds (ETFs).
 
 ## Example of the Settlement Price
-
-If you own a call option with a strike price of $100 and the settlement price of the underlying asset at its expiration is $120, then the owner of the call can purchase shares for $100, which could then be sold for a $20 profit since it is in the money. If, however, the settlement price was $90, then the option would expire worthless since it is out of the money.
+If you own a call option with a strike price of $100 and the settlement price of the underlying asset $$a_t$$ its expiration is $120, then the owner of the call can purchase shares for $100, which could then be sold for a $20 profit since it is in the money. If, however, the settlement price was $90, then the option would expire worthless since it is out of the money.
 
 ## What Does Settlement Mean in Finance?
-
-The term settlement refers to the point at which a financial transaction is complete. This means that payment is transferred from the buyer to the seller and the security or asset is delivered to the buyer. Payment cannot be cancelled in most cases once a transaction is settled.
+The term settlement refers to the point $\$a_t$$ which a financial transaction is complete. This means that payment is transferred from the buyer to the seller and the security or asset is delivered to the buyer. Payment cannot be cancelled in most cases once a transaction is settled.
 
 ## What Is the Settlement Period for a Trade?
-
 The settlement period for a trade depends entirely on the type of security or asset involved. This is the time it takes to complete a transaction from the initiation date to the time delivery must be made. For instance, trades settle for equities on a T+1 schedule. This means they settle one business day after the trade is initiated.
 
 ## What's the Difference Between an Opening and Closing Price?
-
-Opening and closing prices determine the price that assets trade at different times during the trading day. The opening price is the price at which a security trades when the stock market opens. The closing price, on the other hand, is the price at which it trades as soon as the closing bell rings and the market closes for the day. Both reflect the prices at the opening and closing of the regular trading day.
+Opening and closing prices determine the price that assets trade $\$a_t$$ different times during the trading day. The opening price is the price $$a_t$$ which a security trades when the stock market opens. The closing price, on the other hand, is the price $$a_t$$ which it trades as soon as the closing bell rings and the market closes for the day. Both reflect the prices $$a_t$$ the opening and closing of the regular trading day.
 
 ## The Bottom Line
-
 As an investor, there are several things you should understand about how trading works. One of these is how settlement prices work. Settlement prices are often calculated as an average across the trading day. These prices are commonly used as reference prices for assets and can help you determine whether you're in a position to realize a profit or a loss.
 
 Article Sources

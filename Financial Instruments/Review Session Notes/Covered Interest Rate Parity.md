@@ -1,30 +1,39 @@
 ---
 cssclasses:
-  - academia
+- academia
 linter-yaml-title-alias: Covered Interest Rate Parity
 title: Covered Interest Rate Parity
 tags:
-  - covered_interest_rate_parity
-  - currency_security
-  - exchange_rate
-  - forward_rate
-  - model_parameters
-  - no_arbitrage
-  - foreign_exchange
-  - international_finance
+- covered_interest_rate_parity
+- currency
+- currency_security
+- exchange-rate
+- exchange_rate
+- foreign_exchange
+- forward
+- forward_rate
+- interest-rate
+- international_finance
+- model_parameters
+- no_arbitrage
 aliases:
-  - CIRP
-  - Interest Rate Parity
-  - Currency Forward Pricing
+- CIRP
+- Interest Rate Parity
+- Currency Forward Pricing
 key_concepts:
-  - Currency exchange mechanics
-  - Exchange rate units conventions
-  - Forward rate calculation
-  - No-arbitrage condition
-  - Investment strategy comparison
-  - Home and foreign interest rates
-  - Continuous compounding
-  - Forward contract pricing
+- Continuous compounding
+- Currency exchange mechanics
+- Derivative securities
+- Exchange rate units conventions
+- Financial risk management
+- Forward contract pricing
+- Forward rate calculation
+- Home and foreign interest rates
+- Investment strategy comparison
+- No-arbitrage condition
+- Portfolio optimization
+- Quantitative financial analysis
+- Risk assessment and mitigation
 ---
 
 

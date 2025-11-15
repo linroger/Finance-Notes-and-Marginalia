@@ -1,22 +1,99 @@
 ---
-tags:
-  - arbitrage_free_pricing
-  - binomial_model
-  - law_of_one_price
-  - redundant_assets
-  - replicating_portfolio
 aliases:
-  - Asset Pricing
-  - Redundant Asset
-  - Replicating Portfolio
+- Asset Pricing
+- Redundant Asset
+- Replicating Portfolio
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Arbitrage principles and opportunities
+- Relative value trading
+- Law of one price enforcement
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Market structure and trading
+- Order types and execution
+- Market making and liquidity provision
+- Redundant Assets and financial analysis
+- Redundant Assets in modern finance
+- Applications of Redundant Assets
+- 'Case study: Redundant Assets'
+last_enhanced: '2025-11-06 08:42:31'
+- portfolio
+- pricing
+- dividend
+- call
+- options
+- liquidity
+- arbitrage
+- theta
+- no-arbitrage
+- trading
+- arbitrage-free
+- derivatives
+- portfolio-optimization
+tags:
+- arbitrage
+- bid-ask
+- case-study
+- crisis-analysis
+- derivative-pricing
+- derivatives
+- empirical-analysis
+- equity
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- liquidity
+- market-making
+- mathematical-finance
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- sovereign
+
 key_concepts:
-  - Arbitrage-free price
-  - Law of one price
-  - Multi-period model redundancy
-  - Pricing non-redundant assets
-  - Redundant asset definition
-  - Replicating portfolio creation
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 3.5 Redundant assets  
 

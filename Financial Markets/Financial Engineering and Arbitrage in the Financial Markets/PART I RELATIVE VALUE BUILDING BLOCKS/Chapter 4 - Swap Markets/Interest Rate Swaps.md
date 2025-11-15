@@ -1,21 +1,125 @@
 ---
-tags:
-  - fixed_rate
-  - floating_rate
-  - fra
-  - interest_rate_swaps
-  - libor
 aliases:
-  - IRS
-  - Interest Rate Swap
-  - Swap
+- IRS
+- Interest Rate Swap
+- Swap
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest Rate Swaps and financial analysis
+- Interest Rate Swaps in modern finance
+- Applications of Interest Rate Swaps
+- 'Case study: Interest Rate Swaps'
+last_enhanced: '2025-11-06 08:42:33'
+- interest-rate
+- put
+- swaps
+- roll
+- futures
+- expiry
+- basis
+- yield
+- forward
+- options
+- swap
+- maturity
+- bond
+- irs
+- convexity
+tags:
+- arbitrage
+- basis
+- bid-ask
+- bond
+- case-study
+- cash-flow
+- commercial-paper
+- counterparty
+- credit-curve
+- credit-rating
+- crisis-analysis
+- currency
+- derivative-pricing
+- derivatives
+- duration
+- econometric
+- empirical-analysis
+- equity
+- european
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- liquidity
+- mathematical-finance
+- monetary-policy
+- money-market
+- professional-standard
+- provision
+- quantitative-analysis
+- quantitative-methods
+- real-world-example
+- sovereign
+- spread
+- statistical-model
+- synthetic
+- volatility
+- yield-curve
+
 key_concepts:
-  - FRA Settlement Formula
-  - Fixed vs Floating Rates
-  - LIBOR and Indexing
-  - Off-Market FRAs
-  - Swap Valuation
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Econometric Analysis
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Econometrics
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Mathematical Finance Applications
+- Mathematical Modeling
+- Quantitative Analysis in Finance
+- Quantitative Methods in Finance
+- Quantitative Risk Management
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Statistical Finance
+- Statistical Modeling
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 4.2 INTEREST RATE SWAPS  
 

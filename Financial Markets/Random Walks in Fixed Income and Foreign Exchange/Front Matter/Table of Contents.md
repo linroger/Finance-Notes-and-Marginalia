@@ -1,31 +1,108 @@
 ---
-tags:
-  - conversion_factor
-  - cross_currency_basis
-  - empirical_method
-  - fixed_income
-  - forward_curve
-  - fx_hedging
-  - maturity_matched
-  - rolling_hedges
-  - term_premium
-  - xva
+- arbitrage
+- bond-convexity
+- bond-durability
+- conversion_factor
+- convexity
+- credit-spreads
+- cross_currency_basis
+- empirical_method
+- fixed_income
+- forward-contracts
+- forward-rates
+- forward_curve
+- fx_hedging
+- hedging-strategies
+- interest-rates
+- maturity_matched
+- rolling_hedges
+- swaps
+- term_premium
+- trading-strategies
 aliases:
-  - FX Hedged Pickup
-  - Table of Contents
-  - Term Premium
-  - XCCY Basis
+- FX Hedged Pickup
+- Table of Contents
+- Term Premium
+- XCCY Basis
+- Duration and interest rate risk measurement
+- Convexity adjustments in fixed income
+- Yield curve modeling and term structure analysis
+- Forward rate calculations and forward curve construction
+- Arbitrage opportunities and relative value trading
+- Term structure of interest rates and yield curves
+- Interest rate swaps and swap curve construction
+- Credit spreads and credit risk assessment
+- Financial theory and academic research
+- Practical examples and implementation
+- Derivatives and structured financial instruments
+- Trading strategies and market implementation
+- Investment analysis and portfolio management
+- Financial valuation and pricing methodologies
+- Fixed income securities and bond markets
+last_enhanced: '2025-11-06 08:42:38'
+tags:
+- arbitrage
+- bankruptcy
+- basis
+- bid-ask
+- bond
+- counterparty
+- credit-curve
+- credit-market
+- currency
+- derivatives
+- duration
+- fixed-income
+- graduate-level
+- hedging
+- institutional-quality
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- sec-regulation
+- securitization
+- sovereign
+- spread
+- structured-product
+- volatility
+- yield-curve
+
 key_concepts:
-  - Conversion Factor Examples
-  - Cross-Currency Basis Swap
-  - Defining Convexity
-  - Defining Duration
-  - FX Hedge Strategies
-  - Forward Curve Analysis
-  - Maturity-Matched Hedges
-  - Term Premium Calculation
-  - XVA Calculation
+- Banking and Financial Intermediation
+- Banking and Intermediation
+- Credit Risk Assessment
+- Derivative Securities
+- Financial Crisis Analysis
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Financial Regulation and Compliance
+- Institutional-Quality Financial Education
+- Liquidity and Market Structure
+- Market Trading and Hedging
+- Quantitative Finance Methods
+- Quantitative Methods in Finance
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # Table of Contents - Random Walks in Fixed Income and Foreign Exchange
 # Contents

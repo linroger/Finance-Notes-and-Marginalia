@@ -1,21 +1,42 @@
 ---
 title: The Ornstein-Uhlenbeck (OU) Process
 tags:
-  - brownian_motion
-  - interest_rates
-  - mean_reversion
-  - stochastic_processes
-  - volatility_modeling
+- ' PDE'
+- PDE
+- brownian-motion
+- brownian_motion
+- futures-contracts
+- gaussian-hjm-model
+- interest-rates
+- interest_rates
+- ito-calculus
+- markov-processes
+- mean-reversion
+- mean_reversion
+- monte-carlo-simulation
+- options-greeks
+- pairs-trading
+- stochastic_processes
+- trading-strategies
+- value-at-risk
+- volatility_modeling
 aliases:
-  - OU process
-  - Ornstein Uhlenbeck
+- OU process
+- Ornstein Uhlenbeck
 key_concepts:
-  - Long-term mean
-  - Mean reversion
-  - Rate of reversion
-  - Stochastic process
-  - Wiener process
+- Value at Risk (VaR) and risk metrics
+- Stochastic processes in financial modeling
+- Brownian motion and Wiener processes
+- Futures contracts and forward pricing
+- Practical examples and implementation
+- Trading strategies and market implementation
+- Monetary policy and central banking
+last_enhanced: '2025-11-06 08:42:52'
 ---
+
+
+
+
 ## The Ornstein-Uhlenbeck (OU) Process
 
 ### What it is: Deeper Dive

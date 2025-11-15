@@ -1,20 +1,72 @@
 ---
-tags:
-  - conditional_probabilities
-  - continuous_time
-  - exercises
-  - state_price
-  - two_period_economy
 aliases:
-  - Exercise Questions
-  - Exercises
+- Exercise Questions
+- Exercises
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Exercises and financial analysis
+- Exercises in modern finance
+- Applications of Exercises
+- 'Case study: Exercises'
+- Financial markets and institutions
+last_enhanced: '2025-11-06 08:42:30'
+- options
+- dividend
+- put
+tags:
+- bankruptcy
+- case-study
+- crisis-analysis
+- derivative-pricing
+- derivatives
+- empirical-analysis
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- mathematical-finance
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+
 key_concepts:
-  - Asset pricing
-  - Conditional probabilities
-  - Equations equivalence
-  - State-price deflator dynamics
-  - Two-period economy asset
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 11.8 Exercises  
 

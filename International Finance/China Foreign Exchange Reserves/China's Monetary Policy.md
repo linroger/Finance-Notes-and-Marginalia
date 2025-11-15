@@ -2,28 +2,35 @@
 cssclasses: academia
 description: Here is how the Central Bank of China manages its currency rates and
   the money supply.
-source: 
-  https://www.investopedia.com/articles/investing/072815/how-does-china-manage-its-money-supply.asp
+source: https://www.investopedia.com/articles/investing/072815/how-does-china-manage-its-money-supply.asp
 title: China's Monetary Policy
 tags:
-  - chinese_economy
-  - discount_rate
-  - forex_rates
-  - money_supply
-  - pboc
-  - reserve_ratio
-  - yuan
+- banking
+- chinese_economy
+- discount_rate
+- forex_rates
+- interest-rates
+- money_supply
+- pboc
+- reserve_ratio
+- trading-strategies
+- yuan
 aliases:
-  - China's monetary policy
-  - PBOC
-  - People's Bank of China
+- China's monetary policy
+- PBOC
+- People's Bank of China
 key_concepts:
-  - Export-driven economy
-  - Manage forex rates
-  - PBOC controls money supply
-  - Printing currency
-  - Reserve ratio changes
+- Trading strategies and market implementation
+- Investment analysis and portfolio management
+- Fixed income securities and bond markets
+- International finance and global markets
+- Monetary policy and central banking
+last_enhanced: '2025-11-06 08:42:47'
 ---
+
+
+
+
 
 # China's Monetary Policy
 

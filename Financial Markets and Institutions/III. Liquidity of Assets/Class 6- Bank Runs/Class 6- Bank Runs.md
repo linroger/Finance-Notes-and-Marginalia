@@ -1,42 +1,109 @@
 ---
-cssclasses:
-  - academia
-title: "Class 6: Bank Runs"
-linter-yaml-title-alias: "Class 6: Bank Runs"
-tags:
-  - bank_runs
-  - banking_crisis
-  - class_6
-  - financial_crisis
-  - systemic_risk
-  - deposit_insurance
-  - liquidity_crisis
-  - diamond_dybvig_model
-  - money_market_funds
-  - financial_stability
-  - leveraged_loans
-  - bank_failures
 aliases:
-  - "Bank Run"
-  - "Bank Runs"
-  - "Class 6 Bank Runs"
-  - "Banking Crises"
+- Bank Run
+- Bank Runs
+- Class 6 Bank Runs
+- Banking Crises
+cssclasses:
+- academia
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Class 6- Bank Runs and financial analysis
+- Class 6- Bank Runs in modern finance
+- Applications of Class 6- Bank Runs
+- 'Case study: Class 6- Bank Runs'
+linter-yaml-title-alias: 'Class 6: Bank Runs'
+- liquidity
+- bonds
+- bond
+- fixed-income
+title: 'Class 6: Bank Runs'
+tags:
+- bank-run
+- banking
+- bid-ask
+- bond
+- case-study
+- commercial-paper
+- crisis-analysis
+- deposit-insurance
+- duration
+- empirical-analysis
+- facility-lending
+- financial-institutions
+- financial-markets
+- fixed-income
+- graduate-level
+- hedging
+- institutional-analysis
+- institutional-quality
+- learning-from-crisis
+- liquidity
+- liquidity-facility
+- liquidity-management
+- market-liquidity
+- market-structure
+- mathematical-finance
+- money-market
+- money-markets
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- repo-markets
+- sec-regulation
+- securitization
+- short-term-funding
+- spread
+- yield-curve
+
 key_concepts:
-  - Bank run mechanisms and causes
-  - Diamond-Dybvig model of bank runs
-  - Deposit insurance systems
-  - Liquidity creation by banks
-  - Suspension of convertibility
-  - Money market fund runs
-  - Prime money market fund stress
-  - Leveraged loan market
-  - Pilgrim Prime Rate Trust case
-  - Banking crisis examples
-  - Systemic risk in financial systems
-  - Run prevention mechanisms
-  - Multiple equilibria in banking
-  - Financial stability policies
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Central Bank Liquidity Facilities
+- Commercial Paper Markets
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Intermediation and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional Analysis of Financial Systems
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Liquidity Crisis and Management
+- Liquidity Risk and Management
+- Market Structure and Microstructure
+- Money Market Fund Dynamics
+- Money Market Instruments
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Regulatory Framework in Financial Markets
+- Repurchase Agreement Markets
+- Risk Management and Hedging Strategies
+- Short-Term Funding Markets
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
 
 # Class 6: Bank Runs
 

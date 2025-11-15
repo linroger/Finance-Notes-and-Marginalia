@@ -1,23 +1,140 @@
 ---
-tags:
-  - bank_balance_sheets
-  - financial_statements
-  - income_statements
-  - jp_morgan
-  - zions_bancorporation
 aliases:
-  - Bank Financials
-  - Banking Statements
+- Bank Financials
+- Banking Statements
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Market structure and trading
+- Order types and execution
+- Market making and liquidity provision
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Bank Balance Sheets and Income Statements and financial analysis
+- Bank Balance Sheets and Income Statements in modern finance
+- Applications of Bank Balance Sheets and Income Statements
+- 'Case study: Bank Balance Sheets and Income Statements'
+last_enhanced: '2025-11-06 08:42:33'
+- maturity
+- interest-rate
+- duration
+- liquidity
+- risk
+- roll
+- yield-curve
+- bonds
+- hedging
+- fed-funds
+- interest-rates
+- spread
+- futures
+- trading
+- yield
+tags:
+- arbitrage
+- asset-liability
+- austerity
+- balance-sheet
+- bank-bailout
+- banking
+- basel
+- basis
+- bid-ask
+- bond
+- case-study
+- central-bank
+- commercial-paper
+- counterparty
+- credit-curve
+- crisis-analysis
+- currency
+- deposit-insurance
+- derivatives
+- duration
+- empirical-analysis
+- equity
+- european
+- european-debt-crisis
+- eurozone
+- fdic
+- fixed-income
+- graduate-level
+- grexit
+- hedging
+- impairment
+- income-statement
+- institutional-quality
+- learning-from-crisis
+- liquidity
+- margin-call
+- market-making
+- mathematical-finance
+- monetary-policy
+- money-market
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- repo
+- reporting-requirement
+- sec-regulation
+- securitization
+- sovereign
+- sovereign-debt
+- spread
+- tarp
+- var
+- yield-curve
+
 key_concepts:
-  - Balance sheet review
-  - Bank financial statements
-  - Income statement analysis
-  - J.P. Morgan overview
-  - Market VaR methods
-  - Net interest income
-  - Yield curve sensitivity
-  - Zions Bancorporation profile
+- Austerity Measures
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Currency Union Risks
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- European Debt Crisis
+- European Integration
+- Eurozone Crisis Management
+- Financial Crisis Case Studies
+- Financial Markets and Institutions
+- Fiscal Integration
+- Greek Debt Crisis
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Sovereign Debt Restructuring
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 13.1 BANK BALANCE SHEETS AND INCOME STATEMENTS  
 

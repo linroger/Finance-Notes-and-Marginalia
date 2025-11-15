@@ -4,24 +4,44 @@ source: https://gouthamanbalaraman.com/blog/quantlib-bond-modeling.html
 description: This post will walk through an example of modeling fixed rate bonds using
   QuantLib Python.
 tags:
-  - bond_valuation
-  - coupon_bond
-  - fixed_rate_bond
-  - quantlib_python
-  - term_structure
+- bond
+- bond_valuation
+- commodity
+- coupon_bond
+- fixed_rate_bond
+- future
+- interest-rate
+- option
+- quantlib_python
+- swap
+- term_structure
+- treasury
+- yield-curve
 aliases:
-  - Bond Modeling
-  - QuantLib Example
+- Bond Modeling
+- QuantLib Example
 key_concepts:
-  - Bond fair value
-  - Coupon payments
-  - Fixed rate bonds
-  - QuantLib Python modeling
-  - Spot rates
+- Basis swap mechanics
+- Bond fair value
+- Coupon payments
+- Cross-currency basis
+- Currency swap structure
+- Derivative securities
+- Financial risk management
+- Fixed rate bonds
+- Fixed vs floating leg
+- Interest rate swap pricing
+- Portfolio optimization
+- Present value of swaps
+- QuantLib Python modeling
+- Quantitative financial analysis
+- Risk assessment and mitigation
+- Spot rates
+- Swap curve construction
+- Swaption valuation
 ---
 
 # Modeling Fixed Rate Bonds in QuantLib Python
-
 This post will walk through an example of modeling fixed rate bonds using QuantLib Python.
 
 *Visit here for other QuantLib Python examples](http://gouthamanbalaraman.com/blog/quantlib-python-tutorials-with-examples.html). If you found these posts useful,  please take a minute by providing some feedback.*
@@ -31,7 +51,7 @@ Let's consider a hypothetical bond with a par value of 100,  that pays 6% coupon
 To make things simpler,  lets assume that we know the spot rates of the treasury as of January 15th,  2015. The annualized spot rates are 0.5% for 6 months and 0.7% for 1 year point. Lets calculate the fair value of this bond.
 ```latex
 >>> 3/pow(1+0.005,  0.5) + (100 + 3)/(1+0.007)
-105.27653992490681
+105. 27653992490681
 ```
 
 Lets calculate the same thing using QuantLib.
@@ -46,7 +66,7 @@ Lets calculate the same thing using QuantLib.
 >>> interpolation = ql.Linear()
 >>> compounding = ql.Compounded
 >>> compoundingFrequency = ql.Annual
->>> spotCurve = ql.ZeroCurve(spotDates,  spotRates,  dayCount,  calendar,  interpolation, 
+>>> spotCurve = ql.ZeroCurve(spotDates,  spotRates,  dayCount,  calendar,  interpolation,
                              compounding,  compoundingFrequency)
 >>> spotCurveHandle = ql.YieldTermStructureHandle(spotCurve)
 ```
@@ -60,29 +80,33 @@ So far we have created the term structure and the variables are rather self expl
 >>> bussinessConvention = ql.Unadjusted
 >>> dateGeneration = ql.DateGeneration.Backward
 >>> monthEnd = False
->>> schedule = ql.Schedule (issueDate,  maturityDate,  tenor,  calendar,  bussinessConvention, 
+>>> schedule = ql.Schedule (issueDate,  maturityDate,  tenor,  calendar,  bussinessConvention,
                             bussinessConvention ,  dateGeneration,  monthEnd)
 >>> list(schedule)
 [Date(15,  1,  12015),  Date(15, 7, 2015),  Date(15, 1, 2016)]
 
 # Modeling Fixed Rate Bonds in QuantLib Python
+
 >>> dayCount = ql.Thirty360()
 >>> couponRate = 0.\1
 >>> coupons = [couponRate]
 
 # Now lets construct the FixedRateBond
+
 >>> settlementDays = 0
 >>> faceValue = 100
 >>> fixedRateBond = ql.FixedRateBond(settlementDays,  faceValue,  schedule,  coupons,  dayCount)
 
 # create a bond engine with the term structure as input;
 # set the bond to use this bond engine
+
 >>> bondEngine = ql.DiscountingBondEngine(spotCurveHandle)
 >>> fixedRateBond.setPricingEngine(bondEngine)
 
 # Finally the price
+
 >>> fixedRateBond.NPV()
-105.27653992490683
+105. 27653992490683
 ```
 
 Voila!
@@ -100,7 +124,6 @@ Download the modeling bonds ipython notebook.
 - Valuing Options on [Commodity Futures Using QuantLib Python](http://gouthamanbalaraman.com/blog/value-options-commodity-futures-black-formula-quantlib-python.html)
 - Short [Interest Rate Model Calibration in QuantLib Python](http://gouthamanbalaraman.com/blog/short-interest-rate-model-calibration-quantlib.html)
 - Announcing qtk for [QuantLib Python](http://gouthamanbalaraman.com/blog/announcing-qtk-quantlib-python.html)
-
 ---
 
  !500

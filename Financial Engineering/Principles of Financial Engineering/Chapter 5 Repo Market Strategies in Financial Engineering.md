@@ -1,27 +1,87 @@
 ---
 title: REPO Market Strategies in Financial Engineering
 tags:
-  - repo-market
-  - repurchase-agreements
-  - financial-engineering
-  - securities-financing
-  - collateral-management
-  - repo-strategies
-  - money-markets
-  - liquidity-management
+- abs
+- acquisition
+- asset-swap
+- basis-swap
+- bid-ask
+- bond
+- call
+- cdsos
+- collateral-management
+- counterparty
+- crash
+- credit-risk
+- defi
+- equity
+- equity-swap
+- financial-crisis
+- financial-engineering
+- forward
+- future
+- greeks
+- hedge-fund
+- interest-rate
+- lehman
+- libor
+- liquidity
+- liquidity-management
+- margin-call
+- mbs
+- merger
+- money-markets
+- put
+- repo-market
+- repo-strategies
+- repurchase-agreements
+- securities-financing
+- swap
+- transaction-cost
+- treasury
+- yield-curve
 aliases:
-  - Chapter 5 REPO Strategies
-  - Repurchase Agreement Strategies
-  - REPO Market Engineering
+- Chapter 5 REPO Strategies
+- Repurchase Agreement Strategies
+- REPO Market Engineering
 key_concepts:
-  - Repurchase agreements
-  - REPO market mechanics
-  - Securities financing
-  - Collateral management
-  - REPO rates
-  - Special vs general collateral
-  - Haircuts and margins
-  - REPO market strategies
+- Basis swap mechanics
+- CDO structure
+- Collateral management
+- Credit tranching
+- Cross-currency basis
+- Currency swap structure
+- Delta risk management
+- Derivative securities
+- Dynamic hedging strategies
+- Financial risk management
+- Fixed vs floating leg
+- Gamma effects on options
+- Haircuts and margins
+- Interest rate swap pricing
+- Mortgage-backed securities
+- Option-adjusted spread
+- Options Greeks measurement
+- PSA curves
+- Portfolio optimization
+- Portfolio risk hedging
+- Prepayment modeling
+- Present value of swaps
+- Quantitative financial analysis
+- REPO market mechanics
+- REPO market strategies
+- REPO rates
+- Repurchase agreements
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Securities financing
+- Special vs general collateral
+- Subprime crisis
+- Swap curve construction
+- Swaption valuation
+- Theta time decay
+- Vega volatility sensitivity
+- Waterfall mechanics
 cssclasses: academia
 ---
 

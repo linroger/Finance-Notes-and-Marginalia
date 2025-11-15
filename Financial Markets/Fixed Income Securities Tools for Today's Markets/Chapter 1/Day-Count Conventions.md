@@ -1,20 +1,109 @@
 ---
-tags:
-  - 30_360_convention
-  - accrued_interest
-  - actual_360_convention
-  - actual_actual_convention
-  - day_count_conventions
 aliases:
-  - Accrued Interest Calculation
-  - Day-Count Conventions
+- Accrued Interest Calculation
+- Day-Count Conventions
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Yield curve construction and modeling
+- Forward rate calculations
+- Spot and discount factors
+- Day-Count Conventions and financial analysis
+- Day-Count Conventions in modern finance
+- Applications of Day-Count Conventions
+- 'Case study: Day-Count Conventions'
+last_enhanced: '2025-11-06 08:42:35'
+- term-structure
+- coupon
+- corporate-bond
+- sofr
+- fixed-income
+- spot-rates
+- interest-rate
+- irs
+- bond
+- bonds
+- swap
+- interest-rates
+- libor
+- swaps
+- forward-rates
+tags:
+- basis
+- bid-ask
+- bond
+- case-study
+- corporate-bond
+- credit-curve
+- crisis-analysis
+- currency
+- derivatives
+- duration
+- empirical-analysis
+- fixed-income
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- liquidity
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- sec-regulation
+- securitization
+- sovereign
+- spread
+- treasury
+- yield-curve
+
 key_concepts:
-  - 30/360 convention
-  - Accrued interest calculation
-  - Actual/360 convention
-  - Actual/actual convention
-  - Day-count conventions explained
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 1.7 DAY-COUNT CONVENTIONS  
 

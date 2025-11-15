@@ -1,21 +1,58 @@
 ---
 title: Forward and Futures Contracts
 tags:
-  - arbitrage
-  - derivative_pricing
-  - forward_contracts
-  - futures_contracts
-  - hedging
+- arbitrage
+- bond
+- capm
+- commodity
+- derivative_pricing
+- equity
+- forward
+- forward_contracts
+- future
+- futures_contracts
+- hedging
+- index
+- interest-rate
+- limit-order
+- market-order
+- option
+- order-book
+- put
+- risk-free-rate
+- stock
+- swap
 aliases:
-  - Derivatives
-  - Forwards and Futures
-  - Hull Chapters 1, 2, 5
+- Derivatives
+- Forwards and Futures
+- Hull Chapters 1, 2, 5
 key_concepts:
-  - Arbitrage
-  - Forward contracts
-  - Futures contracts
-  - Hedging
-  - Replication
+- Arbitrage
+- Basis swap mechanics
+- Beta calculation
+- Capital Asset Pricing Model
+- Cost of equity estimation
+- Cross-currency basis
+- Currency swap structure
+- Derivative securities
+- Financial risk management
+- Fixed vs floating leg
+- Forward contracts
+- Futures contracts
+- Hedging
+- Interest rate swap pricing
+- Market efficiency implications
+- Market portfolio
+- Portfolio optimization
+- Present value of swaps
+- Quantitative financial analysis
+- Replication
+- Risk assessment and mitigation
+- Risk-return tradeoff
+- Security Market Line
+- Swap curve construction
+- Swaption valuation
+- Systematic vs idiosyncratic risk
 ---
 
 # Forward and Futures Contracts

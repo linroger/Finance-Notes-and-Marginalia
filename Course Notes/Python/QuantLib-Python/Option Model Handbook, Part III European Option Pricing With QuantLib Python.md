@@ -1,28 +1,47 @@
 ---
 title: Option Model Handbook,  Part III European Option Pricing With QuantLib Python
-source: 
-  https://gouthamanbalaraman.com/blog/european-option-binomial-tree-quantlib-python.html
+source: https://gouthamanbalaraman.com/blog/european-option-binomial-tree-quantlib-python.html
 description: Demonstrates how to price European options using QuantLib Python. Methods
   using Black-Scholes-Merton formula and binomial tree will be discussed.
 tags:
-  - aapl_option
-  - binomial_tree
-  - black_scholes_merton
-  - european_option_pricing
-  - quantlib_python
+- aapl_option
+- alpha
+- binomial
+- binomial_tree
+- black-scholes
+- black_scholes_merton
+- call
+- dividend-yield
+- european
+- european_option_pricing
+- option
+- quantlib_python
+- stock
 aliases:
-  - Option Pricing with QuantLib
-  - QuantLib European Options
+- Option Pricing with QuantLib
+- QuantLib European Options
 key_concepts:
-  - AAPL call option
-  - Binomial tree method
-  - Black-Scholes-Merton formula
-  - European option pricing
-  - QuantLib Python example
+- AAPL call option
+- American options valuation
+- Backward induction algorithm
+- Binomial option pricing model
+- Binomial tree method
+- Black-Scholes-Merton formula
+- Convergence to Black-Scholes
+- Cox-Ross-Rubinstein framework
+- Derivative securities
+- European option pricing
+- Financial risk management
+- Lattice methods for derivatives
+- Multi-period binomial tree
+- Portfolio optimization
+- QuantLib Python example
+- Quantitative financial analysis
+- Risk assessment and mitigation
+- Risk-neutral probability
 ---
 
 # Option Model Handbook, Part III European Option Pricing With QuantLib Python
-
 Demonstrates how to price European options using QuantLib Python. Methods using Black-Scholes-Merton formula and binomial tree will be discussed.
 
 *Visit here for other QuantLib Python examples](http://gouthamanbalaraman.com/blog/quantlib-python-tutorials-with-examples.html). If you found these posts useful,  please take a minute by providing some feedback.*
@@ -43,6 +62,7 @@ Let us consider a European call option for AAPL with a strike price of \\$130 ma
 In \[2\]:
 ```latex
 # Option Model Handbook,  Part III European Option Pricing With QuantLib Python
+
 maturity_date = ql.Date(15,  1,  2016)
 spot_price = 127.62
 strike_price = 130
@@ -63,6 +83,7 @@ We construct the European option here.
 In \[3\]:
 ```latex
 # construct the European Option
+
 payoff = ql.PlainVanillaPayoff(option_type,  strike_price)
 exercise = ql.EuropeanExercise(maturity_date)
 european_option = ql.VanillaOption(payoff,  exercise)
@@ -84,9 +105,9 @@ dividend_yield = ql.YieldTermStructureHandle(
 flat_vol_ts = ql.BlackVolTermStructureHandle(
     ql.BlackConstantVol(calculation_date,  calendar,  volatility,  day_count)
 )
-bsm_process = ql.BlackScholesMertonProcess(spot_handle,  
-                                           dividend_yield,  
-                                           flat_ts,  
+bsm_process = ql.BlackScholesMertonProcess(spot_handle,
+                                           dividend_yield,
+                                           flat_ts,
                                            flat_vol_ts)
 ```
 
@@ -135,7 +156,6 @@ Out\[8\]:
  !500
 
 ## Conclusion
-
 This post shows how to price European Options using the theoretical and binomial-tree methods in QuantLib Python. You can download the ipython notebook on European option [pricing with QuantLib](https://gouthamanbalaraman.com/extra/notebooks/european-option-models.ipynb).
 
    quantlib](http://gouthamanbalaraman.com/tag/quantlib.html)   python   finance   option models

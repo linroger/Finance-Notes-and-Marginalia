@@ -1,10 +1,87 @@
 ---
+- Capital Asset Pricing Model (CAPM)
+- Arbitrage Pricing Theory (APT)
+- Multi-factor risk models
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- Chapter 8 - Consumption-Based Asset Pricing and financial analysis
+- Chapter 8 - Consumption-Based Asset Pricing in modern finance
+- Applications of Chapter 8 - Consumption-Based Asset Pricing
+- 'Case study: Chapter 8 - Consumption-Based Asset Pricing'
+last_enhanced: '2025-11-06 08:42:32'
+- portfolio
+- pricing
+- capm
+- factor-models
+- call
+- options
+- risk-management
+- risk
+- var
+- portfolio-optimization
 tags:
-  - '#asset_pricing'
-  - '#chapter_8'
-  - '#consumption'
-  - '#consumption_based_asset_pricing'
+- arbitrage
+- case-study
+- crisis-analysis
+- derivative-pricing
+- derivatives
+- empirical-analysis
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- mathematical-finance
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- sovereign
+- stress-test
+- var
+
+key_concepts:
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 # Chapter 8 - Consumption-Based Asset Pricing
 %% Begin Waypoint %%
 - **Chapter 8 - Consumption-Based Asset Pricing**

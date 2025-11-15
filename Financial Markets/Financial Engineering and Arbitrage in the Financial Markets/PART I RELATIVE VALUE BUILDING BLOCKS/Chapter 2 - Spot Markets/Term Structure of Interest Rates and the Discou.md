@@ -1,21 +1,107 @@
 ---
-tags:
-  - coupon_bond
-  - discount_factor
-  - interest_rates
-  - term_structure
-  - yield_curve
 aliases:
-  - Discount Factors
-  - Term Structure
-  - Yield Curve Bootstrap
+- Discount Factors
+- Term Structure
+- Yield Curve Bootstrap
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Yield curve construction and modeling
+- Forward rate calculations
+- Spot and discount factors
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Term Structure of Interest Rates and the Discou and financial analysis
+- Term Structure of Interest Rates and the Discou in modern finance
+- Applications of Term Structure of Interest Rates and the Discou
+- 'Case study: Term Structure of Interest Rates and the Discou'
+last_enhanced: '2025-11-06 08:42:33'
+- forward
+- maturity
+- coupon
+- forward-rates
+- options
+- fixed-income
+- put
+- bond
+- yield-curve
+- bonds
+- term-structure
+- discount-factors
+- call
+- futures
+- yield
+tags:
+- arbitrage
+- basis
+- bid-ask
+- bond
+- case-study
+- cash-flow
+- credit-curve
+- crisis-analysis
+- derivative-pricing
+- derivatives
+- duration
+- empirical-analysis
+- fixed-income
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- mathematical-finance
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- sec-regulation
+- securitization
+- spread
+- yield-curve
+
 key_concepts:
-  - Coupon bond valuation
-  - Discount factor bootstrap
-  - Spot zero rates
-  - Term structure of rates
-  - Yield to maturity
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
+
+
 
 # 2.3 TERM STRUCTURE OF INTEREST RATES AND THE DISCOUNT FACTOR BOOTSTRAP  
 

@@ -1,3 +1,101 @@
+---
+- banking
+- corporate-bonds
+- credit-risk
+- government-bonds
+- interest-rates
+- market-structure
+- options
+- Financial theory and academic research
+- Case study analysis and real-world applications
+- Practical examples and implementation
+- Investment analysis and portfolio management
+- Financial valuation and pricing methodologies
+- Fixed income securities and bond markets
+- Equity markets and stock valuation
+- Monetary policy and central banking
+last_enhanced: '2025-11-06 08:42:43'
+tags:
+- asian
+- balance-sheet
+- banking
+- bankruptcy
+- blockchain
+- bond
+- capital-flow
+- case-study
+- cash-flow
+- central-bank
+- commodity
+- crisis-analysis
+- cross-border
+- currency
+- default
+- devaluation
+- econometric
+- empirical-analysis
+- equity
+- fixed-income
+- graduate-level
+- institutional-quality
+- learning-from-crisis
+- liquidity
+- mathematical-finance
+- monetary-policy
+- pegging
+- professional-standard
+- provision
+- quantitative-analysis
+- quantitative-easing
+- quantitative-methods
+- real-world-example
+- restructuring
+- sec-regulation
+- securitization
+- sovereign
+- statistical-model
+- stress-test
+- systemic-risk
+
+key_concepts:
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Econometric Analysis
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Econometrics
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Mathematical Finance Applications
+- Mathematical Modeling
+- Quantitative Analysis in Finance
+- Quantitative Methods in Finance
+- Quantitative Risk Management
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Statistical Finance
+- Statistical Modeling
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
+---
+
+
+
+
+
 # Chapter 6: The Crisis Spills over to the Central Bank (Stages 5-6)
 
 ## When Central Banks Step Into the Breach

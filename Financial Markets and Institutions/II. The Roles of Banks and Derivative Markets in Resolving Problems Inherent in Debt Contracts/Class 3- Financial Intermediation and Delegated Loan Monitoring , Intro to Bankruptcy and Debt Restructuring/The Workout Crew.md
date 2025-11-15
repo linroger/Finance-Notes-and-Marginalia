@@ -1,32 +1,44 @@
 ---
-title: The Workout Crew
-cssclasses: academia
-tags:
-  - banking_fraternity
-  - business_failures
-  - nonperforming_loans
-  - workout_crew
-  - workout_officer
-  - debt_restructuring
-  - bank_control
-  - troubled_companies
-  - loan_recovery
-  - financial_distress
-  - turnaround_management
-  - special_assets
-  - problem_loans
-  - workout_specialists
-  - institutional_recovery
 aliases:
-  - black hats
-  - morticians
-  - surgeons
+- black hats
+- morticians
+- surgeons
+cssclasses: academia
 key_concepts:
-  - bank control
-  - banking fraternity
-  - business loan
-  - nonperforming loans
-  - workout specialists
+- Corporate bankruptcy process
+- Debt restructuring and workouts
+- Chapter 11 reorganization
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- The Workout Crew and financial analysis
+- The Workout Crew in modern finance
+- Applications of The Workout Crew
+- 'Case study: The Workout Crew'
+tags:
+- call
+- credit
+- var
+- put
+- options
+- irs
+- workout
+- swaps
+- risk-management
+- cds
+- bankruptcy
+- default
+- recovery
+title: The Workout Crew
 ---
 
 # The Workout Crew

@@ -1,23 +1,26 @@
 ---
 cssclasses:
-  - academia
+- academia
 title: China Foreign Exchange Reserves
 tags:
-  - central_bank
-  - china_economy
-  - china_foreign_exchange
-  - foreign_exchange_reserves
-  - monetary_policy
+- banking
+- central_bank
+- china_economy
+- china_foreign_exchange
+- foreign_exchange_reserves
+- monetary_policy
 aliases:
-  - China FX Reserves
-  - FX Reserves China
+- China FX Reserves
+- FX Reserves China
 key_concepts:
-  - Central bank policy
-  - China's foreign reserves
-  - Economic stability
-  - Exchange rate management
-  - Monetary policy tools
+- Investment analysis and portfolio management
+- Monetary policy and central banking
+last_enhanced: '2025-11-06 08:42:47'
 ---
+
+
+
+
 
 # China Foreign Exchange Reserves
 

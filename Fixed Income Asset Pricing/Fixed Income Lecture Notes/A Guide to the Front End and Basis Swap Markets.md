@@ -1,21 +1,54 @@
 ---
 title: A Guide to the Front End and Basis Swap Markets
-aliases: 
+aliases: null
 cssclasses:
-  - academia
+- academia
 tags:
-  - "#basis_swap_markets"
-  - "#fed_funds_basis_swaps"
-  - "#federal_funds"
-  - "#fra_ois_spread"
-  - "#fras"
-  - "#front_end_markets"
-  - "#interest_rate_derivatives"
-  - "#libor"
-  - "#libor_basis_swaps"
-  - "#ois"
-  - "#prime_basis_swaps"
+- '#basis_swap_markets'
+- '#fed_funds_basis_swaps'
+- '#federal_funds'
+- '#fra_ois_spread'
+- '#fras'
+- '#front_end_markets'
+- '#interest_rate_derivatives'
+- '#libor'
+- '#libor_basis_swaps'
+- '#ois'
+- '#prime_basis_swaps'
+- banking
+- basis-risk
+- bond-convexity
+- bond-durability
+- convexity
+- credit-default-swaps
+- credit-risk
+- credit-spreads
+- financial-regulation
+key_concepts:
+- Duration and interest rate risk measurement
+- Convexity adjustments in fixed income
+- Forward rate calculations and forward curve construction
+- Credit default swap pricing and spreads
+- Term structure of interest rates and yield curves
+- 'Reference rates: SOFR, LIBOR, and rate transitions'
+- Futures contracts and forward pricing
+- Interest rate swaps and swap curve construction
+- Credit spreads and credit risk assessment
+- Practical examples and implementation
+- Derivatives and structured financial instruments
+- Trading strategies and market implementation
+- Financial valuation and pricing methodologies
+- Fixed income securities and bond markets
+- Equity markets and stock valuation
+- International finance and global markets
+- Monetary policy and central banking
+- Financial crises and market stress events
+last_enhanced: '2025-11-06 08:42:38'
 ---
+
+
+
+
 # **Interest Rate Derivatives Table of Contents**
 
 - Introduction

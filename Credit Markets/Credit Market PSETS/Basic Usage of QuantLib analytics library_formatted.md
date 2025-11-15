@@ -1,47 +1,71 @@
 ---
 title: Basic Usage of QuantLib Analytics Library
 tags:
-  - analytics
-  - bond_pricing
-  - cashflow_schedule
-  - quantlib
-  - yield_curve
-  - fixed_income
-  - duration_convexity
-  - discount_curve
-  - z_spread
-  - interest_rate_scenarios
-  - bootstrap_calibration
-  - bond_yield
+- analytics
+- bond
+- bond_pricing
+- bond_yield
+- bootstrap_calibration
+- bps
+- call
+- cashflow_schedule
+- convexity
+- credit-risk
+- defi
+- discount_curve
+- duration
+- duration_convexity
+- dv01
+- fixed_income
+- interest-rate
+- interest_rate_scenarios
+- quantlib
+- sofr
+- treasury
+- yield-curve
+- yield_curve
+- z-spread
+- z_spread
 cssclasses:
-  - tutorial
+- tutorial
 aliases:
-  - QuantLib Example
-  - QuantLib Tutorial
-  - QuantLib Basic Usage
-  - Python Bond Pricing
+- QuantLib Example
+- QuantLib Tutorial
+- QuantLib Basic Usage
+- Python Bond Pricing
 key_concepts:
-  - Bond pricing and valuation
-  - Cashflow schedule generation
-  - QuantLib library fundamentals
-  - Quote objects and handles
-  - Yield curve construction
-  - Discount curve modeling
-  - Fixed and floating rate bonds
-  - Duration and convexity calculation
-  - Z-spread computation
-  - Interest rate scenarios
-  - Yield curve calibration
-  - Bond price to yield conversions
-  - Present value calculation
-  - Clean vs dirty prices
-  - Day-count conventions
+- Bond price to yield conversions
+- Bond pricing and valuation
+- Cashflow schedule generation
+- Clean vs dirty prices
+- Convexity adjustment
+- DV01 calculation
+- Day-count conventions
+- Derivative securities
+- Discount curve modeling
+- Duration and convexity calculation
+- Duration measurement
+- Financial risk management
+- Fixed and floating rate bonds
+- Hedging with bonds
+- Interest rate scenarios
+- Interest rate sensitivity
+- Modified duration calculation
+- Portfolio immunization
+- Portfolio optimization
+- Present value calculation
+- Price-yield relationship
+- QuantLib library fundamentals
+- Quantitative financial analysis
+- Quote objects and handles
+- Risk assessment and mitigation
+- Yield curve calibration
+- Yield curve construction
+- Z-spread computation
 ---
 
 # Basic Usage of QuantLib Analytics Library
-
-## More Details at: https://quantlib-python-docs.readthedocs.io/en/latest/
-
+## More Details $\$a_t$$: https://quantlib-python-docs.readthedocs.io/en/latest/
 - 1\. Objects and Handles
   - a. Define a quote object and inspect the value
   - b. Define quoteHandle as a handle/smart pointer to the quote object
@@ -75,7 +99,6 @@ key_concepts:
   - b. Display the calibrated Treasury discount curve dataframe
   - c. Plot the calibrated Treasury Zero Rates and Discount Factors curves
   - d. Reprice the bond on the yield curve to validate the calibration
-
 ```python
 import QuantLib as ql
 import numpy as np
@@ -83,9 +106,7 @@ import pandas as pd
 ```
 
 ## 1. Objects and Handles
-
 ### a. Define a Quote Object and Inspect the Value
-
 ```python
 quote = ql.SimpleQuote(0.01)
 print(quote.value())
@@ -95,51 +116,52 @@ print(quote.value())
 ```
 
 ```
-0.01
-0.02
+0. 01
+0. 02
 ```
 
 ### b. Define QuoteHandle as a Handle/Smart Pointer to the Quote Object
-
 ```python
 quoteHandle = ql.QuoteHandle(quote)
 quoteHandle.value()
 ```
 
 ```
-0.02
+0. 02
 ```
 
 #### When the Quote Object is Changed, the QuoteHandle Changes Value as Well
-
 ```python
 quote.setValue(0.03)
 quoteHandle.value()
 ```
 
 ```
-0.03
+0. 03
 ```
 
 ### c. Calendars and Day-Count Conventions
-
 ```python
 # Dates
+
 todays_date = ql.Date.todaysDate()
 test_date = todays_date + 90
 print('todays_date =', todays_date)
 print('test_date =', test_date)
 
 # Calendars
+
 calendar = ql.UnitedStates(ql.UnitedStates.GovernmentBond)
 holiday_list = list(calendar.holidayList(todays_date, test_date))
 print('holiday_list =', holiday_list)
 
 # Day count conventions
+
 day_count = ql.Actual360()
 print('day_count =', day_count)
 
 # Year fractions
+
 test_year_fraction = day_count.yearFraction(todays_date, test_date)
 print('Year Fraction from', todays_date, 'to', test_date, '=', test_year_fraction)
 ```
@@ -153,9 +175,7 @@ Year Fraction from May 4th, 2024 to August 2nd, 2024 = 0.25
 ```
 
 ## 2. Cashflow Schedules
-
 ### a. Construct Semi-Annual Cashflow Schedule Object, for Fixed-Rate Bonds
-
 ```python
 issue_date = ql.Date(2, 4, 2024)        # 2024-04-02
 maturity_date = ql.Date(2, 4, 2028)     # 2028-04-02
@@ -167,6 +187,7 @@ date_generation = ql.DateGeneration.Backward
 month_end = True
 
 # Fixed_rate_schedule
+
 fixed_rate_schedule = ql.Schedule(issue_date,
                        maturity_date,
                        coupon_term,
@@ -178,11 +199,9 @@ fixed_rate_schedule = ql.Schedule(issue_date,
 ```
 
 ### b. Inspect the Semi-Annual Cashflow Schedule
-
 - Use list() to get a list of all the dates in Schedule, and len() to get number of dates
 - Use [] for random access
 - Use startDate(), endDate()
-
 ```python
 print("All dates: ", list(fixed_rate_schedule))
 print("Length: ", len(fixed_rate_schedule))
@@ -200,9 +219,9 @@ End Date: April 2nd, 2028
 ```
 
 ### c. Construct Quarterly Cashflow Schedule Object, for Floating-Rate Bonds
-
 ```python
 # Floating_rate_bond_schedule
+
 floating_rate_schedule = ql.Schedule(
     issue_date,
     maturity_date,
@@ -216,7 +235,6 @@ floating_rate_schedule = ql.Schedule(
 ```
 
 ### d. Inspect the Quarterly Cashflow Schedule
-
 ```python
 print("All dates: ", list(floating_rate_schedule))
 print("Length: ", len(floating_rate_schedule))
@@ -225,22 +243,22 @@ print("End Date: ", fixed_rate_schedule.endDate())
 ```
 
 ```
-All dates: [Date(2, 4, 2024), 
-            Date(2, 7, 2024), 
-            Date(2, 10, 2024), 
-            Date(2, 1, 2025), 
+All dates: [Date(2, 4, 2024),
+            Date(2, 7, 2024),
+            Date(2, 10, 2024),
+            Date(2, 1, 2025),
             Date(2, 4, 2025),
-            Date(2, 7, 2025), 
-            Date(2, 10, 2025), 
-            Date(2, 1, 2026), 
-            Date(2, 4, 2026), 
-            Date(2, 7, 2026), 
-            Date(2, 10, 2026), 
-            Date(2, 1, 2027), 
-            Date(2, 4, 2027), 
-            Date(2, 7, 2027), 
-            Date(2, 10, 2027), 
-            Date(2, 1, 2028), 
+            Date(2, 7, 2025),
+            Date(2, 10, 2025),
+            Date(2, 1, 2026),
+            Date(2, 4, 2026),
+            Date(2, 7, 2026),
+            Date(2, 10, 2026),
+            Date(2, 1, 2027),
+            Date(2, 4, 2027),
+            Date(2, 7, 2027),
+            Date(2, 10, 2027),
+            Date(2, 1, 2028),
             Date(2, 4, 2028)]
 Length: 17
 Start Date: April 2nd, 2024
@@ -248,15 +266,15 @@ End Date: April 2nd, 2028
 ```
 
 ## 3. Discount Curve / Yield Curve Term Structure
-
 ### a. Constructing a Flat Yield Curve
-
 ```python
 # Set the static valuation date: 2024-04-02
+
 calc_date = ql.Date(2, 4, 2024)
 ql.Settings.instance().evaluationDate = calc_date
 
 # Using 5% flat interest rate for testing
+
 flat_rate = ql.SimpleQuote(0.05)
 rate_handle = ql.QuoteHandle(flat_rate)
 day_count = ql.Actual360()
@@ -267,12 +285,12 @@ flat_yield_curve_handle = ql.YieldTermStructureHandle(flat_yield_curve)
 ```
 
 ### b. Inspect the Discount Curve
-
 ```python
 ref_date = flat_yield_curve.referenceDate()
 test_date = ql.Date(30, 6, 2025)
 
 # Calc year fraction between ref_date and test_date
+
 yearFrac = flat_yield_curve.dayCounter().yearFraction(ref_date, test_date)
 
 print("Reference Date =", ref_date)
@@ -293,40 +311,48 @@ Difference in Discount Factor: 1.1102230246251565e-16
 ```
 
 ## 4. Fixed and Floating Rate Bonds
-
 ### a. Constructing a Fixed Rate Bond Object
-
 ```python
 # Day_count: ACT/ACT for Govt bonds
+
 day_count_govt = ql.ActualActual(ql.ActualActual.ISMA)
 
 # Day_count: 30/360 for fixed-rate Corp bonds
+
 day_count_corp_fixed = ql.Thirty360(ql.Thirty360.USA)
 
 # Day_count: ACT/360 for floating-rate bonds
+
 day_count_floater = ql.Actual360()
 
 # Settlement_days: 1 for Govt bonds
+
 settlement_days_govt = 1
 
 # Settlement_days: 2 for Corp Bonds
+
 settlement_days_corp = 2
 
 # Govt Bonds specs
+
 day_count = day_count_govt
 settlement_days = settlement_days_govt
 
 # Coupons
+
 coupon_rate = 0.04
 coupons = [coupon_rate]
 
 # Payment_convention
+
 payment_convention = ql.Unadjusted
 
 # Face_value
+
 face_value = 100
 
 # Construct the fixed_rate_bond
+
 face_value = 100
 fixed_rate_bond = ql.FixedRateBond(
     settlement_days,
@@ -338,7 +364,6 @@ fixed_rate_bond = ql.FixedRateBond(
 ```
 
 ### b. Investigate the Fixed-Rate Bond Cash-Flows
-
 ```python
 x = [(cf.date(), cf.amount()) for cf in fixed_rate_bond.cashflows()]
 cf_date_fixed, cf_amount = zip(*x)
@@ -360,23 +385,26 @@ display(cf_frame_fixed)
 ```
 
 ### c. Constructing a Floating Rate Bond Object: Linked to SOFR Index
-
 ```python
 # Sofr_term_structure_handle: using 5% flat interest rate for testing
+
 rate_handle = ql.QuoteHandle(ql.SimpleQuote(5/100))
 sofr_term_structure = ql.FlatForward(calc_date, rate_handle, day_count_floater, ql.Continuous)
 sofr_term_structure_handle = ql.YieldTermStructureHandle(sofr_term_structure)
 
 # Set SOFR index history
+
 im = ql.IndexManager.instance()
 sofr_index = ql.Sofr(sofr_term_structure_handle)
 
 # Set SOFR fixings
+
 im.clearHistory(sofr_index.name())
 sofr_index.addFixing(ql.Date(28, ql.March, 2024), 5/100)
 sofr_index.addFixing(ql.Date(1, ql.April, 2024), 5/100)
 
 # Floating_rate_bond
+
 floating_rate_bond = ql.FloatingRateBond(settlement_days,
                                 face_value,
                                 floating_rate_schedule,
@@ -416,17 +444,17 @@ print(cf_frame_float)
 ```
 
 ## 5. Bond Present Value Calculation (No Credit Risk)
-
 ### a. Direct Function Call Using Risk-Free Bond Pricing Engine
-
 ```python
 # Fixed_rate_bond PV
+
 bond_engine = ql.DiscountingBondEngine(flat_yield_curve_handle)
 fixed_rate_bond.setPricingEngine(bond_engine)
 fixed_rate_bond_pv = fixed_rate_bond.NPV()
 print('fixed_rate_bond_pv =', fixed_rate_bond_pv)
 
 # Floating_rate_bond PV
+
 floating_rate_bond.setPricingEngine(bond_engine)
 floating_rate_bond_pv = floating_rate_bond.NPV()
 print('floating_rate_bond_pv =', floating_rate_bond_pv)
@@ -438,13 +466,14 @@ floating_rate_bond_pv = 100.91327849916414
 ```
 
 ### b. Manual Calculation to Validate PV (for Fixed and Floating-Rate Bonds)
-
 ```python
 # Validate fixed-rate bond PV
+
 used_cf_frame = cf_frame_fixed
 used_bond_pv = fixed_rate_bond_pv
 
 # Validate floating-rate bond PV
+
 discount_yearfrac = np.zeros((len(used_cf_frame,)))
 discount_factor = np.zeros((len(used_cf_frame,)))
 
@@ -577,7 +606,6 @@ NPV diff = 0.0
 ```
 
 ### c. Bond Clean vs Dirty Prices (Adjusted to Settle Date)
-
 ```python
 print('Bond Notional = ', fixed_rate_bond.notional())
 print('Settle Date = ', fixed_rate_bond.settlementDate())

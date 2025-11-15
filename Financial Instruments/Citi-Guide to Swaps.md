@@ -1,30 +1,52 @@
 ---
 tags:
-  - basis_swap
-  - cross_currency_swap
-  - discounted_cashflows
-  - interest_rate_parity
-  - ltfx_contract
-  - swap_pricing
-  - fixed_income
-  - currency_hedging
+- basis-swap
+- basis_swap
+- bps
+- cross_currency_swap
+- currency
+- currency_hedging
+- defi
+- discounted_cashflows
+- exchange-rate
+- fixed_income
+- forward
+- interest-rate
+- interest_rate_parity
+- libor
+- ltfx_contract
+- swap
+- swap_pricing
 aliases:
-  - Citi Guide
-  - Forward Foreign Exchange
-  - LTFX
-  - POS
-  - Swap Pricing
-  - Cross Currency Swaps
+- Citi Guide
+- Forward Foreign Exchange
+- LTFX
+- POS
+- Swap Pricing
+- Cross Currency Swaps
 key_concepts:
-  - Basis swap definition
-  - Common swap structures
-  - Long-Dated Foreign Exchange (LTFX)
-  - Principal-Only Swap (POS)
-  - Swap pricing
-  - Cross currency swap pricing
-  - Foreign exchange hedging
-  - Interest rate parity application
-  - Discounted cashflow methodology
+- Basis swap definition
+- Basis swap mechanics
+- Common swap structures
+- Cross currency swap pricing
+- Cross-currency basis
+- Currency swap structure
+- Derivative securities
+- Discounted cashflow methodology
+- Financial risk management
+- Fixed vs floating leg
+- Foreign exchange hedging
+- Interest rate parity application
+- Interest rate swap pricing
+- Long-Dated Foreign Exchange (LTFX)
+- Portfolio optimization
+- Present value of swaps
+- Principal-Only Swap (POS)
+- Quantitative financial analysis
+- Risk assessment and mitigation
+- Swap curve construction
+- Swap pricing
+- Swaption valuation
 cssclasses: academia
 ---
 

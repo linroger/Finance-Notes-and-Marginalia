@@ -1,24 +1,171 @@
 ---
 title: US Debt Crisis and Adjustment 1928-1937
 cssclasses: academia
-tags:
-  - bubble_economy
-  - deflationary_deleveraging
-  - economic_history
-  - great_depression
-  - us_debt_crisis
+- banking
+- bond-durability
+- bubble_economy
+- caps-floors
+- corporate-bonds
+- credit-risk
+- deflationary_deleveraging
+- economic_history
+- financial-regulation
+- forward-contracts
+- futures-contracts
+- government-bonds
+- great_depression
+- interest-rates
+- market-structure
+- municipal-bonds
+- portfolio-management
+- tail-risk
+- trading-strategies
+- us_debt_crisis
 aliases:
-  - 1928-1937 Debt Crisis
-  - Debt Cycle
-  - Great Depression
-  - US Debt Crisis
+- 1928-1937 Debt Crisis
+- Debt Cycle
+- Great Depression
+- US Debt Crisis
+- Duration and interest rate risk measurement
+- Yield curve modeling and term structure analysis
+- Futures contracts and forward pricing
+- Financial theory and academic research
+- Practical examples and implementation
+- Trading strategies and market implementation
+- Financial regulation and compliance requirements
+- Investment analysis and portfolio management
+- Financial valuation and pricing methodologies
+- Fixed income securities and bond markets
+- Equity markets and stock valuation
+- International finance and global markets
+- Monetary policy and central banking
+- Financial crises and market stress events
+last_enhanced: '2025-11-06 08:42:43'
+tags:
+- asian
+- austerity
+- bank-bailout
+- bank-failure
+- bank-run
+- banking
+- bankruptcy
+- basis
+- bid-ask
+- bond
+- capital-flow
+- central-bank
+- cftc
+- collateral
+- commodity
+- contagion
+- counterparty
+- credit-curve
+- credit-market
+- credit-rating
+- crisis-2008
+- cross-border
+- currency
+- default
+- deposit-insurance
+- derivatives
+- devaluation
+- duration
+- econometric
+- equity
+- european
+- european-debt-crisis
+- eurozone
+- fdic
+- financial-crisis
+- financial-regulation
+- finra
+- fire-sale
+- fixed-income
+- flash-crash
+- governance
+- graduate-level
+- grexit
+- impairment
+- institutional-quality
+- lender-of-last-resort
+- leverage
+- liquidity
+- liquidity-crisis
+- margin-call
+- mathematical-finance
+- monetary-policy
+- money-market
+- moral-hazard
+- pegging
+- professional-standard
+- provision
+- quantitative-analysis
+- quantitative-easing
+- quantitative-methods
+- regulatory-compliance
+- reporting-requirement
+- restructuring
+- sec-regulation
+- securitization
+- shadow-banking
+- sovereign
+- sovereign-debt
+- spread
+- statistical-model
+- supervision
+- tail-risk
+- treasury
+- volatility
+- yield-curve
+
 key_concepts:
-  - Deflationary deleveraging example
-  - Great Depression details
-  - Stock market bubble
-  - Technology-led growth
-  - US debt cycle
+- Austerity Measures
+- Bank Supervision
+- Banking and Financial Intermediation
+- Compliance Management
+- Corporate Governance
+- Currency Union Risks
+- Econometric Analysis
+- European Debt Crisis
+- European Integration
+- Eurozone Crisis Management
+- Financial Econometrics
+- Financial Markets and Institutions
+- Financial Regulation
+- Fiscal Integration
+- Governance Standards
+- Greek Debt Crisis
+- Institutional-Quality Financial Education
+- Mathematical Finance Applications
+- Mathematical Modeling
+- Quantitative Analysis in Finance
+- Quantitative Methods in Finance
+- Quantitative Risk Management
+- Regulatory Compliance
+- Regulatory Framework
+- Regulatory Risk
+- Risk Management and Hedging Strategies
+- Sovereign Debt Restructuring
+- Statistical Finance
+- Statistical Modeling
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # US Debt Crisis and Adjustment 1928-1937
 ## ********US Debt Crisis and Adjustment \(1928–1937\)

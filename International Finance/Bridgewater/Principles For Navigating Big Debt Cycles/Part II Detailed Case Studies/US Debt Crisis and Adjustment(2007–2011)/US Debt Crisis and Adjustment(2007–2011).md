@@ -1,3 +1,217 @@
+---
+- abs
+- asset-pricing
+- banking
+- bond-durability
+- caps-floors
+- cdo
+- cmo
+- corporate-bonds
+- credit-default-swaps
+- credit-rating
+- credit-risk
+- credit-spreads
+- financial-engineering
+- financial-regulation
+- forward-contracts
+- futures-contracts
+- government-bonds
+- hedging-strategies
+- high-yield
+- interest-rates
+- Duration and interest rate risk measurement
+- Yield curve modeling and term structure analysis
+- Credit default swaps and credit risk transfer
+- Value at Risk (VaR) and risk metrics
+- Stress testing and scenario analysis
+- Credit default swap pricing and spreads
+- Mortgage-backed securities and prepayment modeling
+- Arbitrage opportunities and relative value trading
+- 'Reference rates: SOFR, LIBOR, and rate transitions'
+- Futures contracts and forward pricing
+- Interest rate swaps and swap curve construction
+- Credit spreads and credit risk assessment
+- Financial theory and academic research
+- Case study analysis and real-world applications
+- Practical examples and implementation
+- Derivatives and structured financial instruments
+- Trading strategies and market implementation
+- Risk management techniques and best practices
+- Financial regulation and compliance requirements
+- Investment analysis and portfolio management
+- Financial valuation and pricing methodologies
+- Fixed income securities and bond markets
+- Equity markets and stock valuation
+- International finance and global markets
+- Monetary policy and central banking
+- Financial crises and market stress events
+- 'Financial market regulations: MiFID and Dodd-Frank'
+last_enhanced: '2025-11-06 08:42:47'
+tags:
+- abs
+- arbitrage
+- asian
+- austerity
+- balance-sheet
+- bank-bailout
+- bank-failure
+- bank-regulation
+- bank-run
+- banking
+- bankruptcy
+- basis
+- bear-stearns
+- bid-ask
+- bond
+- case-study
+- cash-flow
+- cdo
+- central-bank
+- cftc
+- collateral
+- commercial-paper
+- commodity
+- contagion
+- counterparty
+- credit-curve
+- credit-market
+- credit-rating
+- crisis-2008
+- crisis-analysis
+- cross-border
+- currency
+- default
+- deposit-insurance
+- derivatives
+- discount-window
+- dodd-frank
+- duration
+- econometric
+- emergency-lending
+- emerging-market
+- empirical-analysis
+- equity
+- european
+- european-debt-crisis
+- eurozone
+- facility-lending
+- fdic
+- fed-facility
+- financial-crisis
+- financial-regulation
+- finra
+- fire-sale
+- fixed-income
+- governance
+- graduate-level
+- grexit
+- gse
+- hedging
+- impairment
+- institutional-quality
+- learning-from-crisis
+- lehman
+- leverage
+- liquidity
+- liquidity-crisis
+- margin-call
+- market-making
+- mathematical-finance
+- mbs
+- monetary-policy
+- money-market
+- moral-hazard
+- non-bank
+- northern-rock
+- professional-standard
+- provision
+- quantitative-analysis
+- quantitative-easing
+- quantitative-methods
+- real-world-example
+- regulatory-compliance
+- repo
+- reporting-requirement
+- restructuring
+- rmbs
+- sec-regulation
+- securitization
+- shadow-banking
+- sovereign
+- sovereign-debt
+- spread
+- statistical-model
+- stress-test
+- stress-test-requirement
+- structured-product
+- supervision
+- synthetic
+- systemic-risk
+- tail-risk
+- tarp
+- term-auction
+- tranche
+- treasury
+- var
+- volatility
+- write-off
+- yield-curve
+
+key_concepts:
+- Austerity Measures
+- Bank Supervision
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Compliance Management
+- Corporate Governance
+- Crisis Case Study Design
+- Currency Union Risks
+- Econometric Analysis
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- European Debt Crisis
+- European Integration
+- Eurozone Crisis Management
+- Financial Crisis Case Studies
+- Financial Econometrics
+- Financial Markets and Institutions
+- Financial Regulation
+- Fiscal Integration
+- Governance Standards
+- Greek Debt Crisis
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Mathematical Finance Applications
+- Mathematical Modeling
+- Quantitative Analysis in Finance
+- Quantitative Methods in Finance
+- Quantitative Risk Management
+- Real-World Financial Examples
+- Regulatory Compliance
+- Regulatory Framework
+- Regulatory Risk
+- Risk Management and Hedging Strategies
+- Sovereign Debt Restructuring
+- Statistical Finance
+- Statistical Modeling
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
+---
+
+
+
+
+
 # **US Debt Crisis and Adjustment (2007–2011)**
 
 This section provides a detailed account of the most recent big US debt crisis.md), focusing on the period from 2007 to 2011. It was written with reference to the template laid out in the "Archetypal Big Debt Cycle" section but also pays close attention to the enormous number of particulars that occurred during this period. Please note how well the particulars of this case fit with the generalizations described in the template. For example, when you read about the pooling and securitization of mortgages, the levering up of investment banks, and the rapid growth of derivatives that were traded off of regulated exchanges, see these as new ways of providing leverage outside the protection and regulation of authorities. If you don't make the connection between the particulars of this case and the generalization, then you will miss how classic this debt crisis.md) really was.

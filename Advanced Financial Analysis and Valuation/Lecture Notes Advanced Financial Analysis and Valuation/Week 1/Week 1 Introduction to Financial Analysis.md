@@ -1,37 +1,65 @@
 ---
 cssclasses:
-  - academia
+- academia
 title: Week 1 Introduction to Financial Analysis
 tags:
-  - accounting_analysis
-  - business_model
-  - dcf_model
-  - financial_analysis
-  - valuation
-  - corporate_finance
-  - financial_statements
+- accounting_analysis
+- acquisition
+- business_model
+- capital-structure
+- corporate_finance
+- cost-of-capital
+- dcf
+- dcf_model
+- economic-profit
+- enterprise-value
+- equity
+- equity-value
+- financial_analysis
+- financial_statements
+- forward
+- future
+- merger
+- multiple
+- portfolio-optimization
+- stock
+- terminal-value
+- valuation
+- wacc
+- wacc-calculation
 aliases:
-  - Financial Analysis Intro
-  - Financial Statement Analysis
-  - Introduction to Valuation
-  - Week 1
+- Financial Analysis Intro
+- Financial Statement Analysis
+- Introduction to Valuation
+- Week 1
 key_concepts:
-  - Accounting shenanigans and their impact on financial analysis
-  - Business model analysis and its relationship to financial performance
-  - Discounted cash flow (DCF) methodology fundamentals
-  - Economic profit sustainability and competitive advantage
-  - Free cash flow computation and forecasting techniques
-  - Fundamental analysis frameworks and valuation approaches
-  - Moats (competitive advantages) and mean reversion patterns
-  - Operating vs financing activities separation in financial analysis
-  - ROE decomposition and financial ratio interpretation
-  - Value driver model for simplified financial forecasting
+- Accounting shenanigans and their impact on financial analysis
+- Business model analysis and its relationship to financial performance
+- Derivative securities
+- Discounted Cash Flow valuation
+- Discounted cash flow (DCF) methodology fundamentals
+- Economic profit sustainability and competitive advantage
+- Enterprise value estimation
+- Financial risk management
+- Free cash flow computation and forecasting techniques
+- Free cash flow modeling
+- Fundamental analysis frameworks and valuation approaches
+- Gordon growth model
+- Moats (competitive advantages) and mean reversion patterns
+- Multi-stage DCF models
+- Operating vs financing activities separation in financial analysis
+- Portfolio optimization
+- Quantitative financial analysis
+- ROE decomposition and financial ratio interpretation
+- Risk assessment and mitigation
+- Terminal value calculation
+- Value driver model for simplified financial forecasting
+- WACC calculation
+- Weighted Average Cost of Capital
 ---
 
 # Week 1 Introduction to Financial Analysis
-
 ## Introduction Game Plan for Today
-
 - What matters in fundamental analysis and valuation
 	- Core issues
 	- Framework and setting the stage for whole course
@@ -41,20 +69,15 @@ key_concepts:
 - Importance of "moats" and how they relate to mean reversion
 	- Why not just use multiples?
 	- Recent trends and what they mean for financial analysis and valuation
-
 ## Core Issues in Valuation
-
  !500
 
 ### The Basis of Valuation: Discounted Dividend Model
-
 - Why do we rarely use a discounted dividend model?
 	- Dividends are easy to forecast – so why not?
 - One problem: Many companies do not pay dividends (but still have value)
 - Discounted dividend model just pushes the valuation problem into the future
-
 ## So What Do We Do Instead?
-
 - We use the cash flows between the firm and its product and service markets
 ‒ Forecast revenues
 ‒ Forecast product or service costs
@@ -62,10 +85,8 @@ key_concepts:
 - We then convert these forecasts into free cash flows
 ‒ This is essentially the DCF model
 - Using the cash flows with the markets leads to an entity model where you first determine the value of the entire entity (or enterprise)
--  !500
-
+- !500
 ## What Are the Core Challenges in Valuation?
-
 - Estimating (or forecasting) the future cash flows
 	- Especially in the long‐run
 		- Sustainability and growth of the future cash flows
@@ -77,11 +98,8 @@ key_concepts:
 - Keep it simple
 	- It is not about a complicated Excel model
 	- Easy to lose "forest for the trees"
-
 ## Accounting Analysis and Shenanigans
-
 ## Central Role of Accounting
-
 - Allow us to understand the business model and the economics of the firm
 	- Profitability and, in particular, value creation
 	- Connects the narrative and the numbers
@@ -89,11 +107,9 @@ key_concepts:
 	- Past trends are often the basis for forecasts
 	- Savvy accounting analysis needed
 		- Accounting shenanigans are used to manage expectations
-- Analyzing financial statements is at the core of valuation
+- Analyzing financial statements is $\$a_t$$ the core of valuation
 	- This is why this course is an accounting class!
-
 ## A Few Reminders About Accounting Analysis
-
 - Assume that you are familiar with basic accounting ratios
 	- ROE decomposition
 	- Profit margin
@@ -106,9 +122,7 @@ key_concepts:
 	- Invested capital = Operating assets – operating liabilities
 	- See Koller et al. Chapter 11 (useful guidance)
 - Check out Tutorial Review Slides on Canvas
-
 ## Why Do Accounting Shenanigans Matter?
-
 - Accounting fraud is a very negative event for firm value
 	- Firms that disclose misstatements or misrepresentation suffer initial declines around 25% and eventually lose on average close to 40% of their value
 - But typically the idea of financial analysis is not to detect fraud
@@ -117,17 +131,14 @@ key_concepts:
 	- Distorted view of a firm's underlying economics
 	- Affects your forecasts and hence the valuation
 		- Base‐year fixation
-
 ## Example: Change in Amortization Method
-
-From 10K: ExampleCo rents equipment to customers. For the fiscal year 2013, ExampleCo completed a review of its rental equipment amortization methodology and updated the methodology in order to add greater precision to cost amortization. The previous method recognized accelerated amortization of costs at a rate faster than the decline in the equipment value due to the recognition of charges in addition to the normal rental curve amortization to account for potential damage. The Company's most recent analysis has shown that its amortization curves can reasonably capture the effect of potential damage and therefore eliminates the need for additional charges and provides a better correlation of costs to revenue. The modified approach to amortizing the cost of the equipment is based on updated rental curves, which incorporate damage estimates, and provides a more systematic method for recognizing the replacement costs. The Company anticipates this new method will better align the recognition of costs with related revenue.
+From 10K: ExampleCo rents equipment to customers. For the fiscal year 2013, ExampleCo completed a review of its rental equipment amortization methodology and updated the methodology in order to add greater precision to cost amortization. The previous method recognized accelerated amortization of costs $\$a_t$$ a rate faster than the decline in the equipment value due to the recognition of charges in addition to the normal rental curve amortization to account for potential damage. The Company's most recent analysis has shown that its amortization curves can reasonably capture the effect of potential damage and therefore eliminates the need for additional charges and provides a better correlation of costs to revenue. The modified approach to amortizing the cost of the equipment is based on updated rental curves, which incorporate damage estimates, and provides a more systematic method for recognizing the replacement costs. The Company anticipates this new method will better align the recognition of costs with related revenue.
 
 The effect of this change resulted in a reduction of product costs, as reported in operating expenses. The change resulted in a corresponding increase to the balance of our rental equipment inventory. For the fiscal year 2013, the change resulted in a benefit to Net Income of $15 million or $0.10 in basic earnings per share.
 
  !500
 
 ## Understanding the Business Model is Key
-
 - We consider different business models (or industry) each week
 	- Try to understand how a business creates value
 - Class is not just about "valuation" but also about value creation
@@ -135,9 +146,7 @@ The effect of this change resulted in a reduction of product costs, as reported 
 		- Tools of this class can be used to evaluate different strategies
 	- Competition and impact on value creation
 - Business model maps into the accounting numbers (see next slide)
-
 ## Business Models Differ in Their Numbers
-
 - Industries below differ in key ratios like their profit margin (PM), leverage, operating cycle or market‐to‐book ratio
 	- Key ratios reflect differences in the business models or industries
 RNOA = Return on Net Operating Assets ≈ ROIC
@@ -147,7 +156,6 @@ RNOA = Return on Net Operating Assets ≈ ROIC
  !500
 
 ## Profit Margin vs. Asset Turnover
-
 AVERAGE INDUSTRY NOA TURNOVER AND PM 2011‐2016
 
  !500
@@ -155,15 +163,12 @@ AVERAGE INDUSTRY NOA TURNOVER AND PM 2011‐2016
 You can find this graph and the underlying industry data on Canvas (see Useful Material folder)
 
 ## Value Driver Model for Forecasting FCF
-
 ## Value Drivers and Key Performance Indicators (KPIs)
-
  !500
 
  !500
 
 ### Basic Idea of Value Driver Model
-
 - Focus on the key value drivers in forecasting FCF
 	- You do not have to forecast each line item from IS or BS
 	- Spend most of your time on the key value drivers
@@ -175,9 +180,7 @@ You can find this graph and the underlying industry data on Canvas (see Useful M
 - Key idea:
 	- A few parameters are enough to estimate the FCF
 	- You want to "nail" those
-
 ## Illustration of (Simple) Value Driver Model
-
 - Simple alternative to forecasting detailed line items
 	- Essentially hard wire line items in your model
 Revenues Operating margin
@@ -190,16 +193,13 @@ Revenues Operating margin
  !500
 
 ## Example of Simple Value Driver Model
-
  !500
 
 - Sales growth estimates (yoy): 1.2%, 2%, 2%, 2.2%
 - Margin and NOA turnover: constant
 - Your turnover forecast pins down your forecasted NOA (and hence investments)
 	- ∆NOA is change in investment = required net investment
-
 ## NOPAT to FCF: Adjusting for Non-Cash Items
-
 - How does the change in NOA adjust for non‐cash items?
 	- Consider change in Net PPE
 	- The change in Net PPE is Change Gross PPE – Change Accumulated Depreciation
@@ -215,9 +215,7 @@ Revenues Operating margin
 	- New Net PPE is 1200
 	- Change in Net PPE is 200 = 1200 – 1000
 		- Non‐cash items are automatically adjusted when subtracting the change in NOA
-
 ## Summary: Valuation Sequence
-
  !500
 
 Take the narrative apart and bring it into the valuation. By the time you are done, each part of the narrative should have a place in your numbers and each number should be backed up by a portion of the story.
@@ -225,7 +223,6 @@ Take the narrative apart and bring it into the valuation. By the time you are do
 Listen to people who know the business better than you do and use their suggestions to fine tune your narrative and perhaps even alter it. Work out the effects on value of alternative narratives for the company.
 
 ## Detailed Forecasting vs. Value-Driver Approach
-
 - Most common: Detailed (three‐statement) approach
 ‒ Pro‐forma income statement, balance sheet and cash flow statement
 ‒ More flexibility to capture specific changes, events, and trends
@@ -239,7 +236,6 @@ Listen to people who know the business better than you do and use their suggesti
 ‒ You can adjust the level of detail over time
 
 ## Three-Stage Model
-
  !500
 
 ROIC
@@ -253,13 +249,10 @@ Time segment
 	- Forecast period 2: Key value drivers and fading
 	- TV period: Typically perpetuity (perhaps with growth)
 		- FCF in TV can also be determined in terms of key value drivers (Week 3)
-
 ## Near-Term Flows as % of Value for Two Examples
-
  !500
 
 ## Near-Term Cash Flows vs. Terminal Value
-
 - Forecasted cash flows (or dividends) over the next 2‐3 years comprise a relatively
 small percentage of overall value
 - For model with short forecast horizon:
@@ -271,10 +264,8 @@ small percentage of overall value
 	 - Fades the FCF to sustainable level before using TV formula
 - Almost all the action is in the long run, not the near term
 	- This is the problem with multiples – focus on the near term (e.g., forward E)
-	- Market excesses tend to manifest in unrealistic TV valuations 
-
+	- Market excesses tend to manifest in unrealistic TV valuations
 ## Importance of Moats Economic Moats
-
 - How do we know a firm create value?
 - It generates a return above its cost of capital
 	- Economic profit (ROIC > WACC)
@@ -288,9 +279,7 @@ Competitive advantage and economic moats:
 	- Narrow moat: 10 years
 	- Wide moat: 20 years
 - Why not focus on long‐term (revenue) growth?
-
 ## Economic Moats (Cont.)
-
 - Key questions in analyzing companies
 	- What is the source of the competitive advantage?
 	- How sustainable is the competitive advantage?
@@ -302,64 +291,52 @@ Competitive advantage and economic moats:
 	- Efficient scale (limited market is already served by one or just a few companies)
 - Economic moats have a life cycle and are changing over time
 	- Competition can make moats unstable or erode them (e.g., P&G, SAP)
-	- Are moats sustainable or narrowing? 
-
+	- Are moats sustainable or narrowing?
 ## Competition and Returns (or Economic Profits)
-
  !500
 
 - High returns attract competitors
 	- Competitors settle for lower returns that are still attractive
 - Over time, competition drives ROIC down to the cost of capital
-
 ## Moats and the Decay in the Spread
-
  !500
 
 - Economic profit declines on average
-	- But not necessarily for all companies (at the same rate)
+	- But not necessarily for all companies ($\$a_t$$ the same rate)
 - Moats can play an important role in slowing down the decay in the spread (i.e., difference between ROIC and WACC)
-
 ## Decay in Industry Profitability: High vs. Low Competition
-
  !500
 
 Source: Li, Feng, Russell Lundholm, and Michael Minnis. "A measure of competition based on 10‐K filings." Journal of Accounting Research 51, no. 2 (2013): 399‐436.
 
 ## Mean Reversion in Sales Growth
-
  !500
 
 ### Mean Reversion in ROIC
-
  !500
 
 ### Mean Reversion in Operating Margin
-
  !500
 
 ### Mean Reversion in Asset Turnover
-
  !500
 
 ## Multiples Review and Key Challenges
-
 ## Multiples
-
 - "KEEP IT SIMPLE"
-	- So why not just use multiples 
+	- So why not just use multiples
 	- a PE ratio is simple?
  - MULTIPLES CAN BE A GOOD STARTING POINT
 	- Gauge value of current operations
 	- Easy to capitalize consensus earnings forecast
 		- If consensus is $1.50 per share and PE ratio for peer group is 20, then share price should be around $30
 	- What is key for this valuation?
-
 ## One Issue: Multiples Typically Focus on the Near Term
+
 - That is in contrast to what we discussed earlier
 - When you try to build in the long‐run, multiples become tricky
-
 ## Basic Idea
+
 - PE ratio is essentially based on a perpetuity
 - Perpetuity: P = CF/r (where CF is cash flow to equity)
 	- Earnings predict future cash flows
@@ -371,8 +348,8 @@ Source: Li, Feng, Russell Lundholm, and Michael Minnis. "A measure of competitio
 	- P/E = 1/(r‐g)
 	- PEG ratio
 - We can also capitalize different flow variables (e.g., EBITDA)
-
 ## Challenges for Multiples
+
 - Multiple is essentially a valuation model with a forecast horizon of T=1
 	- One‐year forward PE ratio
 	- Complexity of valuation has not disappeared – all 'crammed' into:
@@ -385,16 +362,16 @@ Source: Li, Feng, Russell Lundholm, and Michael Minnis. "A measure of competitio
 		- Acquisitions, operating leases, pensions, stock compensation, etc.
 	- Earnings need to be normalized (e.g., adjusted for non‐recurring items)
 		- Discontinued operations, impairments, restructuring, etc.
-
 ## Example: PE Ratios and Non-Recurring Items
+
 - COMPARING PE RATIOS IN THE NEWSPAPER INDUSTRY
  !500
 
 ## Example: PE Ratios After Adjustments
-
  !500
 
 ## Which Multiple Should We Use?
+
 - Koller et al. recommend EBITA or NOPAT multiple (see Ch. 18)
 	- Gives you an entity value
 		- Just like EV/EBITDA multiple
@@ -405,13 +382,14 @@ Source: Li, Feng, Russell Lundholm, and Michael Minnis. "A measure of competitio
 	- EBITA or NOPAT do not commingle operating and financing activities
 		- Less distorted by differences in capital structure across companies
 		- For PE ratio, comparables need to have similar capital structure (see next slide)
-
 ## Illustrating the Impact of Capital Structure
+
 - EV/EBITA is not affected by leverage but PE is
 - Note that you cannot even sign the effect of leverage on the PE ratio
  !500
 
 ## Multiples: Summary
+
 - Relatively quick and "easy"
 	- Assumes other firms are "comparable" and their securities are correctly priced
 	- Provides a useful "plausibility check" for DCF model
@@ -423,11 +401,11 @@ Source: Li, Feng, Russell Lundholm, and Michael Minnis. "A measure of competitio
 	- Entity multiples make it easier to find comparables
 - These message also apply to multiples used in terminal value calculations
 	- We come back to TV issues in Week 3
-
 ## Common Mistakes in Analyst Reports and DCF Models
-- Heavy reliance on multiples
 
+- Heavy reliance on multiples
 ## See "Useful Material"
+
 - Shortcomings in DCF models:
 	- Forecast horizon is too short
 	- Implausible terminal value
@@ -439,8 +417,8 @@ Source: Li, Feng, Russell Lundholm, and Michael Minnis. "A measure of competitio
 	- Find on average 3 mistakes and 4 questionable judgments (e.g., TV)
 	- Valuation effect ranges from ‐2% to 14%
 - Pre‐recordings for this class are designed to help you with some of the technical issues
-
 ## Financial Analysis and Valuation
+
 - A valuation model helps you:
 	- Link value to fundamentals
 	- Quantify the impact of your assumptions

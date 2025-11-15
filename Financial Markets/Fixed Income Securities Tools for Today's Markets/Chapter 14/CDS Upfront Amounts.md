@@ -1,20 +1,118 @@
 ---
-tags:
-  - cds_spread
-  - cds_upfront_amounts
-  - financial_crisis
-  - market_conventions
-  - maturity_dates
 aliases:
-  - CDS Upfront
-  - Upfront Amounts
+- CDS Upfront
+- Upfront Amounts
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- CDS Upfront Amounts and financial analysis
+- CDS Upfront Amounts in modern finance
+- Applications of CDS Upfront Amounts
+- 'Case study: CDS Upfront Amounts'
+last_enhanced: '2025-11-06 08:42:35'
+- credit-risk
+- hedging
+- swaps
+- coupon
+- default
+- yield
+- basis
+- recovery
+- irs
+- futures
+- bonds
+- spread
+- swap
+- liquidity
+- cds
+tags:
+- arbitrage
+- basis
+- bid-ask
+- bond
+- case-study
+- credit-curve
+- credit-market
+- crisis-analysis
+- cross-border
+- currency
+- default
+- derivatives
+- duration
+- econometric
+- empirical-analysis
+- financial-crisis
+- fixed-income
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- liquidity
+- mathematical-finance
+- monetary-policy
+- professional-standard
+- provision
+- quantitative-analysis
+- quantitative-methods
+- real-world-example
+- sec-regulation
+- securitization
+- spread
+- statistical-model
+- yield-curve
+
 key_concepts:
-  - Annual coupon contracts
-  - CDS trading like swaps
-  - Market conventions simplify CDS
-  - Standardized maturity dates
-  - Upfront amount compensation
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Econometric Analysis
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Econometrics
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Mathematical Finance Applications
+- Mathematical Modeling
+- Quantitative Analysis in Finance
+- Quantitative Methods in Finance
+- Quantitative Risk Management
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Statistical Finance
+- Statistical Modeling
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # 14.6 CDS UPFRONT AMOUNTS  
 

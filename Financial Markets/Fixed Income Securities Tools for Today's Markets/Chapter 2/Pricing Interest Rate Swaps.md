@@ -1,23 +1,110 @@
 ---
-tags:
-  - fixed_rate
-  - floating_rate
-  - interest_rate_swaps
-  - par_rates
-  - swap_pricing
 aliases:
-  - Fixed Leg
-  - Floating Leg
-  - IRS Pricing
-  - Par Rate
-  - Swap Valuation
+- Fixed Leg
+- Floating Leg
+- IRS Pricing
+- Par Rate
+- Swap Valuation
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Credit analysis and rating
+- Default probability modeling
+- Loss given default estimation
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Pricing Interest Rate Swaps and financial analysis
+- Pricing Interest Rate Swaps in modern finance
+- Applications of Pricing Interest Rate Swaps
+- 'Case study: Pricing Interest Rate Swaps'
+last_enhanced: '2025-11-06 08:42:36'
+- credit-risk
+- treasury
+- coupon
+- counterparty
+- discount
+- fixed-income
+- sofr
+- interest-rate
+- irs
+- bond
+- bonds
+- swap
+- interest-rates
+- swaps
+- maturity
+tags:
+- basis
+- bid-ask
+- bond
+- case-study
+- cash-flow
+- counterparty
+- crisis-analysis
+- currency
+- default
+- derivatives
+- duration
+- empirical-analysis
+- fixed-income
+- graduate-level
+- hedging
+- institutional-quality
+- learning-from-crisis
+- mathematical-finance
+- monetary-policy
+- money-market
+- professional-standard
+- provision
+- quantitative-methods
+- real-world-example
+- sec-regulation
+- securitization
+- spread
+- treasury
+- yield-curve
+
 key_concepts:
-  - Fixed-rate bond
-  - Floating-rate bond
-  - Notional amounts
-  - Par rates
-  - Pricing swaps
+- Banking and Financial Intermediation
+- Case Study Methodology
+- Crisis Case Study Design
+- Empirical Analysis of Financial Events
+- Empirical Finance Research
+- Financial Crisis Case Studies
+- Financial Markets and Banking
+- Financial Markets and Institutions
+- Historical Financial Analysis
+- Institutional-Quality Financial Education
+- Learning from Financial Crises
+- Quantitative Methods in Finance
+- Real-World Financial Examples
+- Risk Management and Hedging Strategies
+- Risk Management in Finance
+
+enhanced: true
+enhancement_date: 2025-11-06
+enhancement_id: batch06-af
+
+type: note
+created: 2025-11-06
+modified: 2025-11-06
+status: active
+academic_level: graduate
+professional_application: industry-standard
 ---
+
+
+
+
+
+
 
 # 2.3 PRICING INTEREST RATE SWAPS  
 

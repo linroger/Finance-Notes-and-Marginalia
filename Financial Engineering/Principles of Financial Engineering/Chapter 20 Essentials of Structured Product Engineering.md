@@ -1,27 +1,101 @@
 ---
 title: Essentials of Structured Product Engineering
 tags:
-  - structured-products
-  - financial-engineering
-  - exotic-options
-  - hybrid-instruments
-  - retail-products
-  - capital-protected
-  - yield-enhancement
-  - rainbow-options
+- alpha
+- asian
+- barrier
+- black-scholes
+- bond
+- bps
+- bubble
+- call
+- cap
+- capital-protected
+- cdsos
+- commodity
+- convexity
+- credit-risk
+- currency
+- defi
+- digital
+- equity
+- exotic
+- exotic-options
+- financial-engineering
+- fixed-income
+- floor
+- forward
+- future
+- greeks
+- hedge
+- hedge-fund
+- hybrid-instruments
+- implied-vol
+- index
+- inflation
+- interest-rate
+- libor
+- liquidity
+- monetary-policy
+- monte-carlo
+- multiple
+- option
+- plain-vanilla-swap
+- put
+- rainbow-options
+- retail-products
+- risk-free-rate
+- stochastic
+- stock
+- structured-products
+- swap
+- swaption
+- treasury
+- vol-smile
+- yield-curve
+- yield-enhancement
 aliases:
-  - Chapter 20 Structured Products
-  - Structured Product Engineering
-  - Exotic Product Design
+- Chapter 20 Structured Products
+- Structured Product Engineering
+- Exotic Product Design
 key_concepts:
-  - Structured product design
-  - Capital protection
-  - Yield enhancement
-  - Touch and digital options
-  - Rainbow options
-  - Barrier options
-  - Product decomposition
-  - Risk-return profiles
+- Barrier options
+- Basis swap mechanics
+- Capital protection
+- Cross-currency basis
+- Currency swap structure
+- Delta risk management
+- Delta-hedging implementation
+- Derivative securities
+- Dynamic hedging strategies
+- Dynamic replication
+- Financial risk management
+- Fixed vs floating leg
+- Gamma effects on options
+- Gamma hedging techniques
+- Hedge ratio calculation
+- Hedging effectiveness
+- Interest rate swap pricing
+- Options Greeks measurement
+- Portfolio insurance methods
+- Portfolio optimization
+- Portfolio risk hedging
+- Present value of swaps
+- Product decomposition
+- Quantitative financial analysis
+- Rainbow options
+- Rho interest rate sensitivity
+- Risk assessment and mitigation
+- Risk-return profiles
+- Static hedging
+- Structured product design
+- Swap curve construction
+- Swaption valuation
+- Theta time decay
+- Touch and digital options
+- Vega hedging strategies
+- Vega volatility sensitivity
+- Yield enhancement
 cssclasses: academia
 ---
 

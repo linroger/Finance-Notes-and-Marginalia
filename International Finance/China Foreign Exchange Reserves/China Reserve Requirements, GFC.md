@@ -1,28 +1,40 @@
 ---
 cssclasses:
-  - academia
+- academia
 title: China Reserve Requirements,  GFC
 source: https://newbagehot.yale.edu/docs/china-reserve-requirements-gfc
 description: The New Bagehot Project is an online platform for disseminating our knowledge
   on how to fight financial crises.
 tags:
-  - china_monetary_policy
-  - global_financial_crisis
-  - liquidity_management
-  - pboc
-  - rrr
+- banking
+- bond-durability
+- china_monetary_policy
+- credit-risk
+- global_financial_crisis
+- interest-rates
+- liquidity_management
+- market-structure
+- pboc
+- rrr
 aliases:
-  - China Reserve Requirements
-  - GFC
-  - PBOC policy
-  - RRR cuts
+- China Reserve Requirements
+- GFC
+- PBOC policy
+- RRR cuts
 key_concepts:
-  - China reserve requirements
-  - Foreign currency reserves
-  - Global financial crisis
-  - Liquidity management tools
-  - PBOC monetary policy
+- Duration and interest rate risk measurement
+- Practical examples and implementation
+- Investment analysis and portfolio management
+- Fixed income securities and bond markets
+- International finance and global markets
+- Monetary policy and central banking
+- Financial crises and market stress events
+last_enhanced: '2025-11-06 08:42:47'
 ---
+
+
+
+
 
 # China Reserve Requirements,  GFC
 

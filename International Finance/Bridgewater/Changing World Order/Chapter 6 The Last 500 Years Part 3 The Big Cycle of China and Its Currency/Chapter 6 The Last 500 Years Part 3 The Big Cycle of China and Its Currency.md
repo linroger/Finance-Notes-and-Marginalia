@@ -1,3 +1,35 @@
+---
+tags:
+- asset-pricing
+- banking
+- caps-floors
+- credit-risk
+- financial-regulation
+- forward-contracts
+- futures-contracts
+- interest-rates
+- stress-testing
+- trading-strategies
+key_concepts:
+- Stress testing and scenario analysis
+- Arbitrage opportunities and relative value trading
+- Futures contracts and forward pricing
+- Financial theory and academic research
+- Practical examples and implementation
+- Trading strategies and market implementation
+- Financial regulation and compliance requirements
+- Investment analysis and portfolio management
+- Financial valuation and pricing methodologies
+- Fixed income securities and bond markets
+- Equity markets and stock valuation
+- International finance and global markets
+- Monetary policy and central banking
+- Financial crises and market stress events
+last_enhanced: '2025-11-06 08:42:41'
+---
+
+
+
 Chapter 6: The Last 500 Years Part 3: The Big Cycle of China and Its Currency
 
 # **Chapter 6: The Last 500 Years Part 3: The Big Cycle of China and Its Currency**
